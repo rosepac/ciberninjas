@@ -9,8 +9,7 @@ permalink: /👨‍💻-curso-android-studio-kotlin-mouredev/
 canonical_URL: https://ciberninjas.com/👨‍💻-curso-android-studio-kotlin-mouredev/
 comments: false
 date: 2019-12-19
-tags:
-- [Android, Kotlin]
+tags: [Android, Kotlin]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

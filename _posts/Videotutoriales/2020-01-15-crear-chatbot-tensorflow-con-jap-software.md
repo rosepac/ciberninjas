@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /chatbot-tensorflow-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [Chatbot, Tensorflow, Videotutorial Tensorflow
+tags: [Chatbot, Tensorflow, Videotutorial Tensorflow]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
