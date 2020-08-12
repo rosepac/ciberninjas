@@ -40,4 +40,4 @@ tags:
 19. Children o Props
 20. Diferenciar entre Componentes de Clase o de Función
 
-[🧠 SQL](/cursos-tecnologia/#sql{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}

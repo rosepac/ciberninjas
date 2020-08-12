@@ -15,5 +15,5 @@ tags: [Bootstrap, Material Design, Videotutorial Bootstrap, Videotutorial Materi
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLPl81lqbj-4IDnNfu-SSHB4dolQcoLNXZ" allowfullscreen></iframe>
 </div><br/>
-/
-[<i class="fab fa-bootstrap"></i> Bootstrap](/cursos-tecnologia/#bootstrap-{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+[<i class="fab fa-bootstrap"></i> Bootstrap](/cursos-tecnologia/#bootstrap-){: .btn .btn-outline-dark .btn-lg .btn-block}

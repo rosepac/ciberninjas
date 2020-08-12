@@ -17,5 +17,5 @@ tags: [Web Scraping, Videotutorial Web Scraping]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPppXHa0llA3HjpKxAhxhXzN" allowfullscreen></iframe>
 </div><br/>
 
-[<i class="far fa-window-maximize"></i> Lenguaje C#](/cursos-tecnologia/#c-c-c{: .btn .btn-outline-dark .btn-lg .btn-block}
-[🕸 Web Scraping](/cursos-tecnologia/#web-scraping-{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="far fa-window-maximize"></i> Lenguaje C#](/cursos-tecnologia/#c-c-c){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🕸 Web Scraping](/cursos-tecnologia/#web-scraping-){: .btn .btn-outline-dark .btn-lg .btn-block}

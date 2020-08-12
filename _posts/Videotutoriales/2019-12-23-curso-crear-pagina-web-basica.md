@@ -16,4 +16,4 @@ tags: [HTML, CSS, Videotutorial HTML, Videotutorial CSS]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/4MefQroVh38" allowfullscreen></iframe>
 </div><br/>
 
-[<i class="fab fa-html5"></i> HTML y <i class="fab fa-css3-alt"></i> CSS](/cursos-tecnologia/#html--y-css-{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fab fa-html5"></i> HTML y <i class="fab fa-css3-alt"></i> CSS](/cursos-tecnologia/#html--y-css-){: .btn .btn-outline-dark .btn-lg .btn-block}

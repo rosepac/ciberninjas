@@ -17,4 +17,4 @@ tags: [C#, Videotutorial C#]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPruMw8E-O37V9bL7STOvC9D" allowfullscreen></iframe>
 </div><br/>
 
-[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c{: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c){: .btn .btn-outline-dark .btn-lg .btn-block}

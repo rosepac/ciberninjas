@@ -24,4 +24,4 @@ tags: [Power Bi, Videotutorial Excel, Videotutorial Azure]
 
 <iframe src="https://channel9.msdn.com/Shows/Power-BI-en-ambientes-empresariales/Mdulo-III-Capacidades-adicionales-en-Power-BI/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo III - Capacidades adicionales en Power BI - Microsoft Channel 9 Video"></iframe>
 
-[<i class="fab fa-windows"></i> Microsoft](/cursos-tecnologia-microsoft/{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fab fa-windows"></i> Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn-outline-dark .btn-lg .btn-block}

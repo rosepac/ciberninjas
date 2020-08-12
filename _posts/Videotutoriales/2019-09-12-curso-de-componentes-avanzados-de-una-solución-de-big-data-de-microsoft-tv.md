@@ -30,4 +30,4 @@ published: false
 
 <iframe src="https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data/Mdulo-IV-Resumen-de-componentes/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo IV - Resumen de componentes - Microsoft Channel 9 Video"></iframe>
 
-[🧠 SQL](/cursos-tecnologia/#sql{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}

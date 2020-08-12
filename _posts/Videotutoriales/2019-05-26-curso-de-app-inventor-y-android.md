@@ -28,5 +28,5 @@ tags:
 7. AppInventor 4: App de Preguntas y Respuestas
 8. Crea una aplicación para móviles con App Inventor: Lector de Códigos QR
 9. Crea una aplicación para móviles con App Inventor: Traductor
-10. Publicación de apps en la galer&iacute;a de App Inventor
+10. Publicación de apps en la galería de App Inventor
 11. Aprende cómo Exportar Y generar tus apps en App Inventor (AIA o APK)

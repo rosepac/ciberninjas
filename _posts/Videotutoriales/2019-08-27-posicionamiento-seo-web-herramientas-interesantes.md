@@ -17,6 +17,7 @@ tags:
 </div><br/>
 
 ## Índice
+
 - Google My Bussiness para tu Negocio Local en 2019
 - Tutorial Screaming Fro para optimizar el seo de una web
 - Pon los Semáforos de Yoast SEO en verde

@@ -17,4 +17,4 @@ tags: [Inteligencia Artificial, C#, Videotutorial Inteligencia Artificial, Video
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPruMw8E-O37V9bL7STOvC9D" allowfullscreen></iframe>
 </div><br/>
 
-[🤖 Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🤖 Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn-outline-dark .btn-lg .btn-block}

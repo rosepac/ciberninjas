@@ -17,4 +17,4 @@ tags: [Framework Spring, Videotutorial Java]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL2gu2Qe_CGFmDp46_V0slsKsIqCuRnTTE" allowfullscreen></iframe>
 </div><br/>
 
-[Spring](/cursos-tecnologia/#spring{: .btn .btn-outline-dark .btn-lg .btn-block}
+[Spring](/cursos-tecnologia/#spring){: .btn .btn-outline-dark .btn-lg .btn-block}

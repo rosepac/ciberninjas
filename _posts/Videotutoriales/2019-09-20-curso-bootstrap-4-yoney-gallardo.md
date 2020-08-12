@@ -316,4 +316,4 @@ tags: [Bootstrap, Videotutorial Bootstrap]
 27. TOOLTIP  -  4:38:14
  - toltip
 
-[<i class="fab fa-bootstrap"></i> Bootstrap](/cursos-tecnologia/#bootstrap-{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fab fa-bootstrap"></i> Bootstrap](/cursos-tecnologia/#bootstrap-){: .btn .btn-outline-dark .btn-lg .btn-block}

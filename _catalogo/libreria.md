@@ -12,7 +12,7 @@ img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 
 Aquí se encuentran los libros que están fuera de lo relacionado a la temática de la tecnología; en general novelas y novelas en inglés; que en la mayoría de casos aparecen dentro de los distintos listados de las publicaciones de recomendaciones de libros de personajes reconocidos.
 
-Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la p&aacute;gina web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos m&aacute;s recursos
+Los enlaces aquí expuestos, trabajan a trav&eacute;s de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la p&aacute;gina web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos m&aacute;s recursos
 {: .notice--warning}
 
 💡 Contenido Funcional. Pueden Existir Secciones Incompletas 💡
@@ -44,18 +44,18 @@ Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazo
 
 <center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07YGXHY6L&linkId=5bb79cfd2b05f3971e7522b7040a4df0"></iframe></center>
 
-## Autores de Novelas y Bibliograf&iacute;as Completas
+## Autores de Novelas y Bibliografías Completas
 
 Novelas de autores que han aparecido o se han citado a lo largo de las publicaciones internas del blog o bien he conocido a través de alguna otra noticia sobre tecnología o interés.
 
 ### [Toni Morrison](#toni-morrison)
 
-* Bibliograf&iacute;a del Autor en Espa&ntilde;ol [Obras Completas](https://amzn.to/2MziuIA)
+* Bibliografía del Autor en Espa&ntilde;ol [Obras Completas](https://amzn.to/2MziuIA)
 * El Origen de los Otros (ENSAYO) [Tapa Dura](https://amzn.to/2ZgN2kd)
 * La Noche de los Ni&ntilde;os (CONTEMPORANEA) [Tapa Blanda](https://amzn.to/2Zm6rAe) [Tapa Dura](https://amzn.to/2KNubZO)
 * Una Bendici&oacute;n (CONTEMPORANEA) [Tapa Blanda](https://amzn.to/2TW8TMQ) [Ebook](https://amzn.to/2Np9Zzm)
 * La Canci&oacute;n de Salom&oacute;n (CONTEMPORANEA) [Tapa Blanda](https://amzn.to/2Mw2WFt) [Ebook](https://amzn.to/2Zg2D3q)
-* Para&iacute;so [Tapa Blanda](https://amzn.to/2MxjInE) [Ebook](https://amzn.to/2MArPj1)
+* Paraíso [Tapa Blanda](https://amzn.to/2MxjInE) [Ebook](https://amzn.to/2MArPj1)
 * La Isla de los Caballeros [Tapa Blanda](https://amzn.to/2Nr2Lee) [Ebook](https://amzn.to/2NoxOY0)
 * Amor,320 (CONTEMPORANEA) [Tapa Blanda](https://amzn.to/2TWwMUm) [Ebook](https://amzn.to/2ZmmVs7)
 * Beloved [Tapa Blanda](https://amzn.to/2L38unG) [Ebook](https://amzn.to/31ZNYv8)
@@ -76,7 +76,7 @@ Novelas de autores que han aparecido o se han citado a lo largo de las publicaci
 
 ### Hilary Mantel: Original
 
-* Bibliograf&iacute;a de Hilary Mantel en Ingl&eacute;s [Obras Completas](https://amzn.to/2Npz25l)
+* Bibliografía de Hilary Mantel en Ingl&eacute;s [Obras Completas](https://amzn.to/2Npz25l)
 * Wolf Hall (Episodio 1) [Tapa Blanda](https://amzn.to/2Nm0Rvn) [Ebook](https://amzn.to/2MADOx1) de Hilary Mantel
 * Wolf Hall: Bring Up the Bodies (Episodio 2)[Tapa Blanda](https://amzn.to/2TUcafu) [Ebook](https://amzn.to/3204Xxo) de Hilary Mantel
 * Wolf Hall: The Mirror and the Light [Tapa Blanda](https://amzn.to/2NrE6WI) [Ebook](https://amzn.to/320IoIz) de Hilary Mantel

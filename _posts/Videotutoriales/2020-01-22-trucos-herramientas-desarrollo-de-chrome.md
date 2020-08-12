@@ -18,4 +18,4 @@ tags: [Chrome, Videotutorial Chrome]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/BXN8oO4r3Qc" allowfullscreen></iframe>
 </div><br/>
 
-[<i class="far fa-window-maximize"></i> Software de Navegadores](/cursos-tecnologia/#navegadores{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="far fa-window-maximize"></i> Software de Navegadores](/cursos-tecnologia/#navegadores){: .btn .btn-outline-dark .btn-lg .btn-block}

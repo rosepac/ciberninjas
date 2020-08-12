@@ -19,7 +19,7 @@ tags:
 
 ## Introducción
 
-Esta serie de v&iacute;deos te ayudará a conocer pequeñas técnicas, librer&iacute;as y detalles que implementados a la hora de aprender a programar te asegurarán estar realizando un buen trabajo y siempre lo más cercano posible a las últimas novedades del lenguaje de Javascript.
+Esta serie de vídeos te ayudará a conocer pequeñas técnicas, librerías y detalles que implementados a la hora de aprender a programar te asegurarán estar realizando un buen trabajo y siempre lo más cercano posible a las últimas novedades del lenguaje de Javascript.
 
 ## Índice
 
@@ -29,7 +29,7 @@ Esta serie de v&iacute;deos te ayudará a conocer pequeñas técnicas, librer&ia
 4. Vigilar Sintaxis con ESLint
 5. Administradores de Paquetes. npm vs yarn
 6. El nacimiento de los módulos
-7. Crear Chat en 30 l&iacute;neas con Socket.io y Node.js
+7. Crear Chat en 30 líneas con Socket.io y Node.js
 8. Babel, usa la próxima generación de JavaScript, hoy
 9. Uso de Scripts en package.json
 10. JavaScript "The Next Generation" Control de Versiones con Git

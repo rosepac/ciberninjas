@@ -17,4 +17,4 @@ tags: [Chatbot, Tensorflow, Videotutorial Tensorflow
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLLJJqiFt6VPrpiloSJRGg2afg7QZz5jym" allowfullscreen></iframe>
 </div><br/>
 
-[🧠 Machine Learning](/cursos-tecnologia/#machine-learning{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn-outline-dark .btn-lg .btn-block}

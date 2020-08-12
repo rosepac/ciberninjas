@@ -21,7 +21,7 @@ tags:
 
 1. Crear Entorno de Trabajo
 2. Crear y Usar Dispositivos Virtuales
-3. Conectar Dispositivos F&iacute;sicos
+3. Conectar Dispositivos Físicos
 4. Conociendo Android Studio
 5. Ventanas de Navegación
 6. Barra de Status y Ayuda

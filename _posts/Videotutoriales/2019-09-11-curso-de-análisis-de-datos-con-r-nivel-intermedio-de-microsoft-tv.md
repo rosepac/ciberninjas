@@ -24,4 +24,4 @@ tags:
 
 <iframe src="https://channel9.msdn.com/Series/Anlisis-de-Datos-con-R-Nivel-Intermedio/Mdulo-II-Anlisis-y-Limpieza-de-datos/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo II - Análisis y Limpieza de datos - Microsoft Channel 9 Video"></iframe>
 
-[🧠 SQL](/cursos-tecnologia/#sql{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}

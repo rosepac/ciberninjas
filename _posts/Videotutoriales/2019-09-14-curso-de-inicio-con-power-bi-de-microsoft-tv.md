@@ -28,4 +28,4 @@ tags: [Power Bi]
 
 <iframe src="https://channel9.msdn.com/Series/Power-BI/Power-BI-de-extremo-a-extremo/player" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo IV - Power BI de extremo a extremo - Microsoft Channel 9 Video"></iframe>
 
-[<i class="fab fa-windows"></i> Microsoft](/cursos-tecnologia-microsoft/{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fab fa-windows"></i> Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn-outline-dark .btn-lg .btn-block}

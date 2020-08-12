@@ -17,4 +17,4 @@ tags: [Open AI, Videotutorial Open AI]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Y_UqXz6aqfY" allowfullscreen></iframe>
 </div><br/>
 
-[🤖 Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🤖 Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn-outline-dark .btn-lg .btn-block}

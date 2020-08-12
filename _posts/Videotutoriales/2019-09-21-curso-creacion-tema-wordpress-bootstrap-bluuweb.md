@@ -16,4 +16,4 @@ tags: [Bootstrap, Videotutorial Bootstrap]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLPl81lqbj-4I8FzPNr03cQjyReh6UkSSl" allowfullscreen></iframe>
 </div><br/>
 
-[<i class="fab fa-wordpress"></i> Wordpress](/cursos-tecnologia/#wordpress-{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fab fa-wordpress"></i> Wordpress](/cursos-tecnologia/#wordpress-){: .btn .btn-outline-dark .btn-lg .btn-block}

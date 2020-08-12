@@ -24,7 +24,7 @@ tags:
 3. Menú Animado y Header
 4. FlatList Grid
 5. Más Flexbox, Tabs y Linear gradiantes
-6. Reproductor de V&iacute;deo
+6. Reproductor de Vídeo
 7. Share API
 8. Animatable Header y NativeEvents
 9. React Navigation

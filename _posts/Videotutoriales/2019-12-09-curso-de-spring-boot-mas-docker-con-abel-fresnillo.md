@@ -25,4 +25,4 @@ tags: [Java, Framework Spring, Redis, Videotutorial Java, Videotutorial Docker, 
 * Corriendo una Spring Boot App con Docker
 * Spring Boot Rest API
 
-[Spring](/cursos-tecnologia/#spring{: .btn .btn-outline-dark .btn-lg .btn-block}
+[Spring](/cursos-tecnologia/#spring){: .btn .btn-outline-dark .btn-lg .btn-block}

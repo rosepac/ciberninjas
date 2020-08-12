@@ -17,4 +17,4 @@ tags: [Bases de Datos, Videotutorial Bases de Datos]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPrMus1P8EyyxCTDDm522ca-" allowfullscreen></iframe>
 </div><br/>
 
-[📁 Bases de Datos](/cursos-tecnologia/#-bases-de-datos{: .btn .btn-outline-dark .btn-lg .btn-block}
+[📁 Bases de Datos](/cursos-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block}

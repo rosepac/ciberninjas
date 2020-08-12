@@ -17,4 +17,4 @@ tags: [Patrones de Diseño, Videotutorial Patrones Diseño]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPpA89SoyzugbTc2qw7ow9Zy" allowfullscreen></iframe>
 </div><br/>
 
-[💼 Metodologías de Desarrollo](/cursos-tecnologia/#-metodologías-de-desarrollo{: .btn .btn-outline-dark .btn-lg .btn-block}
+[💼 Metodologías de Desarrollo](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn-outline-dark .btn-lg .btn-block}

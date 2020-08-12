@@ -16,4 +16,4 @@ tags: [XCode, Swift, Videotutorial XCode, Videotutorial Swift]
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLNdFk2_brsRcWM-31vJUgyHIGpopIDw4s" allowfullscreen></iframe>
 </div><br/>
 
-[<i class="fab fa-apple"></i> Swift](/cursos-tecnologia/#swift-{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fab fa-apple"></i> Swift](/cursos-tecnologia/#swift-){: .btn .btn-outline-dark .btn-lg .btn-block}

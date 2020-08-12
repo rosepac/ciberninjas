@@ -17,4 +17,4 @@ tags: [Docker, Videotutorial Docker]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLwH0tlWs8nkTQ8lNQ1usKML8pxAP4hEMH" allowfullscreen></iframe>
 </div><br/>
 
-[<i class="fab fa-docker"></i> Docker](/cursos-tecnologia/#docker-{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fab fa-docker"></i> Docker](/cursos-tecnologia/#docker-){: .btn .btn-outline-dark .btn-lg .btn-block}

@@ -17,6 +17,7 @@ tags:
 </div><br/>
 
 ## Índice
+
 - Cómo gane 18.000 € con Adsense
 - ¿Qué es el SEO para los furiosos?
 - Cómo elegir el Dominio Perfecto para tu web

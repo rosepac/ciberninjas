@@ -17,4 +17,4 @@ tags: [NET Core Framework, Videotutorial .NET Core Framework]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPrSzPakVEy1_WpwqcWD1vAc" allowfullscreen></iframe>
 </div><br/>
 
-[🚀 .NET Core](/cursos-tecnologia/#net-core{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚀 .NET Core](/cursos-tecnologia/#net-core){: .btn .btn-outline-dark .btn-lg .btn-block}

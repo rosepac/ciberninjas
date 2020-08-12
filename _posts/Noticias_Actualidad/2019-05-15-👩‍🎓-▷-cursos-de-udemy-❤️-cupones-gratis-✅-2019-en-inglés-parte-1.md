@@ -20,7 +20,7 @@ tags:
 **¡¡¡LOS CUPONES DE ESTOS CURSOS YA HAN CADUCADO!!!**
 {: .notice--warning}
 
-Selección de los mejores cursos del listado publicado en [Cibercursos](https://kutt.it/cibercursos) extra&iacute;do de la web: [Chollometro](https://kutt.it/chollometro). Las tem&aacute;ticas m&aacute;s tratadas son los negocios en l&iacute;nea general (afiliados, redes sociales, motivación, ideas, trading); las criptomonedas; programación y diseño.
+Selección de los mejores cursos del listado publicado en [Cibercursos](https://kutt.it/cibercursos) extraído de la web: [Chollometro](https://kutt.it/chollometro). Las tem&aacute;ticas m&aacute;s tratadas son los negocios en línea general (afiliados, redes sociales, motivación, ideas, trading); las criptomonedas; programación y diseño.
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -38,9 +38,9 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Criptomonedas: Todo sobre Ethereum](https://www.udemy.com/ethereum1/?couponCode=FREESTH1A){:target="_blank" rel="nofollow,noreferrer"}
 * [Criptomonedas: Todo sobre Litcoin](https://www.udemy.com/litecoin/?couponCode=STJ1AA){:target="_blank" rel="nofollow,noreferrer"}
 * [Criptomonedas: Todo sobre Ripple](https://www.udemy.com/ripple-coin-cryptocurrency/?couponCode=FRST1A){:target="_blank" rel="nofollow,noreferrer"}
-* [Educación Empresarial: Gu&iacute;a de Blockchain](https://www.udemy.com/business-education-guide-to-blockchain-and-cryptocurrencies/?couponCode=HASH0324180119){:target="_blank" rel="nofollow,noreferrer"}
+* [Educación Empresarial: Guía de Blockchain](https://www.udemy.com/business-education-guide-to-blockchain-and-cryptocurrencies/?couponCode=HASH0324180119){:target="_blank" rel="nofollow,noreferrer"}
 * [Ethereum, Litecoin & Dash](https://www.udemy.com/ethereum-dash-litecoin-bundle/?couponCode=STHFREE){:target="_blank" rel="nofollow,noreferrer"}
-* [Gu&iacute;a de Principiantes sobre ICO&acute;s](https://www.udemy.com/beginners-guide-to-ico-initial-coin-offering/?couponCode=FREEICO){:target="_blank" rel="nofollow,noreferrer"}
+* [Guía de Principiantes sobre ICO&acute;s](https://www.udemy.com/beginners-guide-to-ico-initial-coin-offering/?couponCode=FREEICO){:target="_blank" rel="nofollow,noreferrer"}
 * [Inversión con Criptomonedas para Principiantes](https://www.udemy.com/cryptocurrencyforbeginners/?couponCode=CRYPTOFREE){:target="_blank" rel="nofollow,noreferrer"}
 * [Litecoin & Bitcoin](https://www.udemy.com/bitcoin-litecoin-bundle/?couponCode=S1T1H1){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -53,8 +53,8 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Dominar iSpring LMS desde cero](https://www.udemy.com/mastering-ispring-lms-from-scratch/?couponCode=LMSCOUP){:target="_blank" rel="nofollow,noreferrer"}
 * [Dominio de la Delegación](https://www.udemy.com/delegation-mastery/?couponCode=Free_Delegate){:target="_blank" rel="nofollow,noreferrer"}
 * [Estrategias de Crecimiento & Marketing en Negocios Locales](https://www.udemy.com/local-business-marketing-growth-strategies/?couponCode=SPLBMBHW0){:target="_blank" rel="nofollow,noreferrer"}
-* [Gu&iacute;a de Instrucciones de un Nómada Digital](https://www.udemy.com/digital-nomad-remote-work/?couponCode=DIGITALNOMAD){:target="_blank" rel="nofollow,noreferrer"}
-* [Gu&iacute;a para Perder el Miedo a Hablar en P&uacute;blico](https://www.udemy.com/its-not-that-scary/?couponCode=BH35TS){:target="_blank" rel="nofollow,noreferrer"}
+* [Guía de Instrucciones de un Nómada Digital](https://www.udemy.com/digital-nomad-remote-work/?couponCode=DIGITALNOMAD){:target="_blank" rel="nofollow,noreferrer"}
+* [Guía para Perder el Miedo a Hablar en P&uacute;blico](https://www.udemy.com/its-not-that-scary/?couponCode=BH35TS){:target="_blank" rel="nofollow,noreferrer"}
 * [Lenguaje Corporal enfocado en los Negocios](https://www.udemy.com/the-complete-body-language-for-business-course/?couponCode=KAMLESH25){:target="_blank" rel="nofollow,noreferrer"}
 * [Mentalidad Millonaria Con Alex Jeffreys](https://www.udemy.com/millionaire-mindset-with-alex-jeffreys/?couponCode=RBWONLINE2){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -77,7 +77,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Crear y Vender Camisetas Personalizadas con Merch by Amazon](https://www.udemy.com/merchbyamazon/?couponCode=MEMBERS){:target="_blank" rel="nofollow,noreferrer"}
 * [Dominación del Marketing de Afiliados](https://www.udemy.com/affiliate-marketing-domination-become-a-super-affiliate/?couponCode=BOOSTT){:target="_blank" rel="nofollow,noreferrer"}
 * [Entrenamiento de ventas B2B: Organizar y priorizar su tiempo](https://www.udemy.com/b2b-sales-training-organizing-and-prioritizing-your-time/?couponCode=TIKTOK){:target="_blank" rel="nofollow,noreferrer"}
-* [Fotograf&iacute;a de Productos para Emprendedores](https://www.udemy.com/product-photography-for-entrepreneurs/?couponCode=2019FREE){:target="_blank" rel="nofollow,noreferrer"}
+* [Fotografía de Productos para Emprendedores](https://www.udemy.com/product-photography-for-entrepreneurs/?couponCode=2019FREE){:target="_blank" rel="nofollow,noreferrer"}
 * [Habilidades de Ventas](https://www.udemy.com/selling-skills-complete-sales-mastery-course/?couponCode=SELLING){:target="_blank" rel="nofollow,noreferrer"}
 * [Litmos Autor LMS Tutoriales: plataforma de aprendizaje de SAP](https://www.udemy.com/litmos-author-lms-tutorials/?couponCode=LMSCOUP){:target="_blank" rel="nofollow,noreferrer"}
 * [Litmos Autor Media Manager](https://www.udemy.com/litmos-author-media-manager/?couponCode=LMSCOUP){:target="_blank" rel="nofollow,noreferrer"}
@@ -87,7 +87,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Paypal y Procesamiento de Pagos](https://www.udemy.com/paypal-payment-processing/?couponCode=PAYPAL){:target="_blank" rel="nofollow,noreferrer"}
 * [Periscope, Haz Crecer tu Negocio](https://www.udemy.com/social-media-marketing-periscope/?couponCode=MKTPERIFREE){:target="_blank" rel="nofollow,noreferrer"}
 * [Pinterest para Empresas](https://www.udemy.com/pinterest-marketing-for-business/?couponCode=--PINTERESTMARKETING){:target="_blank" rel="nofollow,noreferrer"}
-* [Planes de Membres&iacute;as Personales para tu Sitio](https://www.udemy.com/monthly-membership/?couponCode=FREE_LIMITED){:target="_blank" rel="nofollow,noreferrer"}
+* [Planes de Membresías Personales para tu Sitio](https://www.udemy.com/monthly-membership/?couponCode=FREE_LIMITED){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -146,6 +146,6 @@ Entre mañana y pasado estaré publicando otro listado, **¡Saludos ciberninjas!
 
 > ¡CORRED INSENSATOS!
 
-Si lo que buscas son cursos gratis y en español, puedes visitar mi sección de [cursos de tecnolog&iacute;a](https://ciberninjas.com/cursos-tecnologia) o unirte y visitarme al [Chat de Ciberninjas](https://kutt.it/ciberninjas_discord) en Discord.
+Si lo que buscas son cursos gratis y en español, puedes visitar mi sección de [cursos de tecnología](https://ciberninjas.com/cursos-tecnologia) o unirte y visitarme al [Chat de Ciberninjas](https://kutt.it/ciberninjas_discord) en Discord.
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

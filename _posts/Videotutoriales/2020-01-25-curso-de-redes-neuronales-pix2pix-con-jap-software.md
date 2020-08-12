@@ -17,4 +17,4 @@ tags: [pix2pix, Redes Neuronales, Videotutorial Redes Neuronales]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPoKD8my7XQm8uhMFUc8qmN7" allowfullscreen></iframe>
 </div><br/>
 
-[📂 SQL](/cursos-tecnologia/#machine-learning{: .btn .btn-outline-dark .btn-lg .btn-block}
+[📂 SQL](/cursos-tecnologia/#machine-learning){: .btn .btn-outline-dark .btn-lg .btn-block}

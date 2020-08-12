@@ -20,4 +20,4 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLcIHm18h1i4nD4H8tPeID8PNiKsm4VZm5" allowfullscreen></iframe>
 </div><br/>
 
-[Spring](/cursos-tecnologia/#spring{: .btn .btn-outline-dark .btn-lg .btn-block}
+[Spring](/cursos-tecnologia/#spring){: .btn .btn-outline-dark .btn-lg .btn-block}

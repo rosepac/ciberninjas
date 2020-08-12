@@ -90,4 +90,4 @@ tags: [Scratch, Videotutorial Scratch]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLGlS7vMgjN7Vz9dtJ27utDm5U-BhR0Efb" allowfullscreen></iframe>
 </div><br/>
 
-[<i class="fas fa-paw"></i> Scratch](/cursos-tecnologia/#scratch-{: .btn .btn-outline-dark .btn-lg .btn-block}
+[<i class="fas fa-paw"></i> Scratch](/cursos-tecnologia/#scratch-){: .btn .btn-outline-dark .btn-lg .btn-block}

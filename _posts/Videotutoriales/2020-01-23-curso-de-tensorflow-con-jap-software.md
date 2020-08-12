@@ -17,4 +17,4 @@ tags: [Tensorflow, Videotutorial Tensorflow, Videotutorial Inteligencia Artifici
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM" allowfullscreen></iframe>
 </div><br/>
 
-[🧠 Machine Learning](/cursos-tecnologia/#machine-learning{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn-outline-dark .btn-lg .btn-block}

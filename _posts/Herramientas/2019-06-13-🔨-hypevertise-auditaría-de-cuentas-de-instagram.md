@@ -15,7 +15,7 @@ thumbnail: "/assets/img/auditoria_instagram_marca.jpg"
 feature-img: "/assets/img/auditoria_instagram_marca.jpg"
 ---
 
-> 📊 Este proyecto denominado **Hypevertise** nos permite revisar en profundidad cualquier cuenta de Instagram, creando una auditor&iacute;a sobre ella, siempre y cuando tenga m&aacute;s de 100 seguidores.
+> 📊 Este proyecto denominado **Hypevertise** nos permite revisar en profundidad cualquier cuenta de Instagram, creando una auditoría sobre ella, siempre y cuando tenga m&aacute;s de 100 seguidores.
 
 Con m&aacute;s de 500 millones de cuentas en Instagram, las campa&ntilde;as de marketing y el comercio entre los personajes m&aacute;s influyentes de la plataforma, desde hace ya alg&uacute;n tiempo es una realidad.
 
@@ -25,7 +25,7 @@ Por todo esto, nace el proyecto de Hypervertise, centrado en la b&uacute;squeda 
 
 La herramienta nos ofrece numerosos an&aacute;lisis diferentes, hasta 15, encargados de rastrear cada cuenta de las que audita y a sus seguidores; intentando reflejar la realidad de las cuentas.
 
-## &iquest;Cu&aacute;l es el resultado de la auditor&iacute;a?
+## &iquest;Cu&aacute;l es el resultado de la auditoría?
 
 Estas son im&aacute;genes de un ejemplo realizado sobre una cuenta de una cantante de relevancia a nivel mundial. En concreto, de la exitosa cantante de R & B: Rihanna.
 
@@ -37,11 +37,11 @@ Estas son im&aacute;genes de un ejemplo realizado sobre una cuenta de una cantan
 
 ## &iquest;C&oacute;mo funciona?
 
-Se analizan los seguidores del usuario, los **likes** , comentarios, fotograf&iacute;as y v&iacute;deos. Una vez recogidos todos esos datos, se usa un algoritmo que se encarga de realizar los diferentes c&aacute;lculos cruzados necesarios que resultan en las cifras finales reflejadas en el informa gr&aacute;fico final.
+Se analizan los seguidores del usuario, los **likes** , comentarios, fotografías y vídeos. Una vez recogidos todos esos datos, se usa un algoritmo que se encarga de realizar los diferentes c&aacute;lculos cruzados necesarios que resultan en las cifras finales reflejadas en el informa gr&aacute;fico final.
 
 ## &iquest;C&oacute;mo se determina a los seguidores de baja calidad?
 
-Se adquiere una muestra porcentual del total de los seguidores del usuario sobre el que se realiza la auditor&iacute;a e igualmente, se implementan los algoritmos sobre cada uno de ellos.
+Se adquiere una muestra porcentual del total de los seguidores del usuario sobre el que se realiza la auditoría e igualmente, se implementan los algoritmos sobre cada uno de ellos.
 
 Entre otros muchos c&aacute;lculos, se toma en cuenta la proporci&oacute;n de los seguidores y sus tiempos de actividad, y es con los resultados de todo esto; con lo que se determina si los seguidores son de baja calidad o buena.
 
@@ -55,11 +55,11 @@ El par&aacute;metro de alcance indica el porcentaje de probabilidad de interacci
 
 ## &iquest;Es precisa la herramienta?
 
-La herramienta se basa en muestras de cuentas que se podr&iacute;an considerar leg&iacute;timas e ileg&iacute;timas con las que contrastar la legitimidad de la cuenta que se audita.
+La herramienta se basa en muestras de cuentas que se podrían considerar legítimas e ilegítimas con las que contrastar la legitimidad de la cuenta que se audita.
 
 Adem&aacute;s es capaz de diferenciar una cuenta real de una falsa tras analizar sus comportamientos en la plataforma.
 
-Se supone, que a medida que el sistema adquiere m&aacute;s datos. El algoritmo deber&iacute;a ir creciendo en cuanto a eficacia seg&uacute;n se vuelve m&aacute;s inteligente y capaz de contrastar las estad&iacute;sticas ante una base de datos mayor.
+Se supone, que a medida que el sistema adquiere m&aacute;s datos. El algoritmo debería ir creciendo en cuanto a eficacia seg&uacute;n se vuelve m&aacute;s inteligente y capaz de contrastar las estadísticas ante una base de datos mayor.
 
 **Fuente**\: [Blog Oficial de Hypevertise](https://kutt.it/instagram_auditoria)
 {: .notice--info}

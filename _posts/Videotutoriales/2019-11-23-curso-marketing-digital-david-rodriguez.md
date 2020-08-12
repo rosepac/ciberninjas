@@ -18,4 +18,4 @@ tags: [Marketing Digital, Videotutorial Marketing Digital]
 
 Muy amplio Curso sobre Marketing Digital para principiantes formado por dos vídeos, en el que se transmite una amplia gama de herramientas con las que formar una completa estrategia de marketing 360 a través de tus redes sociales; y poder crear desde cero tu propio negocio, hasta el más alta nivel, en tanto en cuanto de marketing digital hablamos.
 
-[🛒 Comercio Electrónico](/cursos-tecnologia/#-comercio-electrónico{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🛒 Comercio Electrónico](/cursos-tecnologia/#-comercio-electrónico){: .btn .btn-outline-dark .btn-lg .btn-block}

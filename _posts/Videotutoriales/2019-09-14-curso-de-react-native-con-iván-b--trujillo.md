@@ -30,4 +30,4 @@ tags:
 
 Editor del blog de Medium: Canarias JS
 
-[🧠 SQL](/cursos-tecnologia/#sql{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}

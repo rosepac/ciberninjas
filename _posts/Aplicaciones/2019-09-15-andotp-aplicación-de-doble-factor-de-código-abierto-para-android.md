@@ -15,7 +15,7 @@ permalink: /andotp-aplicaci%C3%B3n-de-doble-factor-de-c%C3%B3digo-abierto-para-a
 canonical_URL: https://ciberninjas.com/andotp-aplicaci%C3%B3n-de-doble-factor-de-c%C3%B3digo-abierto-para-android/
 ---
 
-Implementa contrase&ntilde;as de un solo uso basadas en el tiempo (TOTP) y contrase&ntilde;as de un solo uso basadas en HMAC (HOTP). Simplemente escanee el c&oacute;digo QR e inicie sesi&oacute;n con el c&oacute;digo generado de 6 d&iacute;gitos.
+Implementa contrase&ntilde;as de un solo uso basadas en el tiempo (TOTP) y contrase&ntilde;as de un solo uso basadas en HMAC (HOTP). Simplemente escanee el c&oacute;digo QR e inicie sesi&oacute;n con el c&oacute;digo generado de 6 dígitos.
 
 > andOTP es una aplicaci&oacute;n de autenticaci&oacute;n de dos factores para Android 4.4+.
 
@@ -24,7 +24,7 @@ Este proyecto comenz&oacute; como una bifurcaci&oacute;n de la gran aplicaci&oac
 ## **Caracteristicas de AndOTP**
 
 * Gratis y de c&oacute;digo abierto
-* Requiere permisos m&iacute;nimos
+* Requiere permisos mínimos
   * Acceso a la c&aacute;mara para escanear c&oacute;digos QR
   * Acceso al almacenamiento para la importaci&oacute;n y exportaci&oacute;n de la base de datos.
 * Almacenamiento encriptado con dos backends:
@@ -46,7 +46,7 @@ Este proyecto comenz&oacute; como una bifurcaci&oacute;n de la gran aplicaci&oac
 
 ## **Copias de Seguridad**
 
-Para mantener la informaci&oacute;n de su cuenta lo m&aacute;s segura posible yOTP solo la almacena en archivos de datos cifrados. Una parte de la clave de cifrado utilizada para eso se almacena en el sistema Android KeyStore. La ventaja de este enfoque es que la clave se mantiene separada de los datos de las aplicaciones y, como beneficio adicional, puede respaldarse mediante criptograf&iacute;a de hardware (si su dispositivo lo admite).
+Para mantener la informaci&oacute;n de su cuenta lo m&aacute;s segura posible yOTP solo la almacena en archivos de datos cifrados. Una parte de la clave de cifrado utilizada para eso se almacena en el sistema Android KeyStore. La ventaja de este enfoque es que la clave se mantiene separada de los datos de las aplicaciones y, como beneficio adicional, puede respaldarse mediante criptografía de hardware (si su dispositivo lo admite).
 
 Sin embargo, debido a esa separaci&oacute;n, las copias de seguridad con aplicaciones de terceros como Titanium Backup no se pueden usar con andOTP. Dichas aplicaciones solo respaldan los archivos de datos cifrados y no la clave de cifrado, lo que los hace in&uacute;tiles.
 
@@ -68,7 +68,7 @@ Sin embargo, debido a esa separaci&oacute;n, las copias de seguridad con aplicac
 
 ## **Migración**
 
-Conoce las diferentes formas de migrar a andOTP desde otras aplicaciones 2FA. Para migrar sus cuentas de otras aplicaciones 2FA, tiene diferentes opciones, aqu&iacute; enumerar&eacute; las que conozco.
+Conoce las diferentes formas de migrar a andOTP desde otras aplicaciones 2FA. Para migrar sus cuentas de otras aplicaciones 2FA, tiene diferentes opciones, aquí enumerar&eacute; las que conozco.
 
 ### [android-otp-extractor](https://github.com/puddly/android-otp-extractor)
 

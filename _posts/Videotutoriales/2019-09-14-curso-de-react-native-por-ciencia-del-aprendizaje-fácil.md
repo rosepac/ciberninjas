@@ -32,4 +32,4 @@ tags:
 11. Native Base + react native - Libreria UI
 12. enoent no such file or directory solucion - native base react native
 
-[🧠 SQL](/cursos-tecnologia/#sql{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}

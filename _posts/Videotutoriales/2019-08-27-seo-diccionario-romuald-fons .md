@@ -18,6 +18,7 @@ categories:
 </div><br/>
 
 ## Índice
+
 - ¿Qué es un Dominio en Internet?
 - ¿Qué es una Palabra Clave?
 - ¿Qué es una Palabra Clave Long Tail?

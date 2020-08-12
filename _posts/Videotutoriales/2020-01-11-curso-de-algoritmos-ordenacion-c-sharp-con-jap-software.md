@@ -17,4 +17,4 @@ tags: [Algoritmos de Ordenación, C#, Videotutorial C#]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLLJJqiFt6VPpDjyj6V9E5JOribkM8VUN6" allowfullscreen></iframe>
 </div><br/>
 
-[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c{: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c){: .btn .btn-outline-dark .btn-lg .btn-block}

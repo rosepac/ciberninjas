@@ -21,15 +21,15 @@ tags:
 
 ## Índice
 
-1. Presentación. V&iacute;deo 1
-2. Introducción. V&iacute;deo 2
-3. Sintaxis Básica I. Ubicación del código. V&iacute;deo 3
-4. Sintaxis Básica II. Estructuras Básicas. V&iacute;deo 4
-5. Sintaxis Básica III. Operadores Básicos. V&iacute;deo 5
-6. Sintaxis Básica IV. Operadores y prompt. V&iacute;deo 6
-7. Sintaxis Básica V Arrays, Matrices, Arreglos. V&iacute;deo 7
-8. Sintaxis Básica V. Arrays, Matrices, Arreglos II. V&iacute;deo 8
-9. POO I. V&iacute;deo 9
+1. Presentación. Vídeo 1
+2. Introducción. Vídeo 2
+3. Sintaxis Básica I. Ubicación del código. Vídeo 3
+4. Sintaxis Básica II. Estructuras Básicas. Vídeo 4
+5. Sintaxis Básica III. Operadores Básicos. Vídeo 5
+6. Sintaxis Básica IV. Operadores y prompt. Vídeo 6
+7. Sintaxis Básica V Arrays, Matrices, Arreglos. Vídeo 7
+8. Sintaxis Básica V. Arrays, Matrices, Arreglos II. Vídeo 8
+9. POO I. Vídeo 9
 10. POO II
 11. Control flujo Condicional If I
 12. Control flujo. Condicional If II
@@ -91,8 +91,8 @@ tags:
 68. Ajax I
 69. Ajax II
 70. Ajax III. Get() y Post()
-71. Ajax IV. V&iacute;deo 71
-72. Ajax V. V&iacute;deo 72
+71. Ajax IV. Vídeo 71
+72. Ajax V. Vídeo 72
 73. Ajax VI. Objetos JSON I
 74. Ajax VII. Objetos JSON II
 75. Trabajando con Google Maps
@@ -102,4 +102,4 @@ tags:
 
 ## Creador
 
-Aprender a programar Javascript desde cero a experto, con Juan D&iacute;az el creador del Canal P&iacute;ldoras Informáticas dedicado a la enseñanza informática.
+Aprender a programar Javascript desde cero a experto, con Juan Díaz el creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.

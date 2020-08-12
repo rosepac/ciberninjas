@@ -25,14 +25,14 @@ bootstrap: true
 
 Edward Snowden, el hombre que arriesg&oacute; todo para exponer el sistema de vigilancia masiva del gobierno de EE. UU., Revela por primera vez la historia de su vida, incluida la forma en que ayud&oacute; a construir ese sistema y lo que lo motiv&oacute; a intentar derribarlo.
 
-En 2013, Edward Snowden, de veintinueve a&ntilde;os, conmocion&oacute; al mundo cuando rompi&oacute; con el establecimiento de inteligencia estadounidense y revel&oacute; que el gobierno de los Estados Unidos estaba buscando secretamente los medios para recoger cada llamada telef&oacute;nica, mensaje de texto y correo electr&oacute;nico. El resultado ser&iacute;a un sistema de vigilancia masiva sin precedentes con la capacidad de entrometerse en la vida privada de cada persona en la tierra. Seis a&ntilde;os m&aacute;s tarde, Snowden revela por primera vez c&oacute;mo ayud&oacute; a construir este sistema y por qu&eacute; se movi&oacute; para exponerlo.
+En 2013, Edward Snowden, de veintinueve a&ntilde;os, conmocion&oacute; al mundo cuando rompi&oacute; con el establecimiento de inteligencia estadounidense y revel&oacute; que el gobierno de los Estados Unidos estaba buscando secretamente los medios para recoger cada llamada telef&oacute;nica, mensaje de texto y correo electr&oacute;nico. El resultado sería un sistema de vigilancia masiva sin precedentes con la capacidad de entrometerse en la vida privada de cada persona en la tierra. Seis a&ntilde;os m&aacute;s tarde, Snowden revela por primera vez c&oacute;mo ayud&oacute; a construir este sistema y por qu&eacute; se movi&oacute; para exponerlo.
 
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-Abarcando los suburbios buc&oacute;licos de Beltway de su infancia y las publicaciones clandestinas de la CIA y la NSA de su edad adulta, Registro Permanentees el relato extraordinario de un joven brillante que creci&oacute; en l&iacute;nea: un hombre que se convirti&oacute; en esp&iacute;a, en denunciante y, en el exilio, en la conciencia de Internet. Escrito con ingenio, gracia, pasi&oacute;n y una franqueza inquebrantable, el Registro permanente es una memoria crucial de nuestra era digital y est&aacute; destinado a ser un cl&aacute;sico.
+Abarcando los suburbios buc&oacute;licos de Beltway de su infancia y las publicaciones clandestinas de la CIA y la NSA de su edad adulta, Registro Permanentees el relato extraordinario de un joven brillante que creci&oacute; en línea: un hombre que se convirti&oacute; en espía, en denunciante y, en el exilio, en la conciencia de Internet. Escrito con ingenio, gracia, pasi&oacute;n y una franqueza inquebrantable, el Registro permanente es una memoria crucial de nuestra era digital y est&aacute; destinado a ser un cl&aacute;sico.
 
-## ✍ Biograf&iacute;a del Autor
+## ✍ Biografía del Autor
 
 Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense que filtr&oacute; informaci&oacute;n clasificada que revela la vigilancia masiva a una escala inimaginable desde las agencias de inteligencia hasta los principales medios de comunicaci&oacute;n que crearon ondas en todo el mundo.
 
@@ -49,7 +49,7 @@ Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense q
 ## 📝 Otros Detalles
 
 * Formatos disponibles: Kindle y Tapa Blanda
-* Los precios NO INCLUYEN gastos de env&iacute;o, salvo que te registres en Amazon Prime..
+* Los precios NO INCLUYEN gastos de envío, salvo que te registres en Amazon Prime..
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=48&amp;l=ur1&amp;category=premium&amp;banner=1E7ZEBFW3E0G3W1WXZ82&amp;f=ifr&amp;linkID=36c6741f8667c2eb2286cb8ca0062ecb&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 

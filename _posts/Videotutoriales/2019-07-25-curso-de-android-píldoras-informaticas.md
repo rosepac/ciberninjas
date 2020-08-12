@@ -20,7 +20,7 @@ tags:
 ## Índice
 
 1. Presentación
-2. Caracter&iacute;sticas e Instalación
+2. Características e Instalación
 3. Creación de Proyecto en Android Studio
 4. Partes de un Proyecto en Android Studio
 5. Acelerando AVD. Parte 1
@@ -129,4 +129,4 @@ tags:
 
 ## Creador
 
-Aprender a utilizar el entorno de desarrollo de Android Studio desde cero a experto, con Juan D&iacute;az el creador del Canal P&iacute;ldoras Informáticas dedicado a la enseñanza informática.
+Aprender a utilizar el entorno de desarrollo de Android Studio desde cero a experto, con Juan Díaz el creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.

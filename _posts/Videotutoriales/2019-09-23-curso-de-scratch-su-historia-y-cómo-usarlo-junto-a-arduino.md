@@ -35,15 +35,15 @@ tags:
 11. Estructuras de Interacción Básicas y de Movimiento
 12. Dibujos y Formas usando el Lápiz
 13. Música y Sonido
-14. Música, ritmos y melod&iacute;as
+14. Música, ritmos y melodías
 15. Finalización
 16. Introducción
-17. Simulación de máquinas clicar y responder "el parqu&iacute;metro"
+17. Simulación de máquinas clicar y responder "el parquímetro"
 18. Dibujo de Funciones Gráficas "Ecuación de Segundo Grado"
 19. Clonar, funciones y sprites "el juego de la vida de John Conway"
 20. Simulando la gravedad y los MRUA "Juegos de plataformas"
 21. Lanzar proyectiles y colisiones "Invasores del espacio"
-22. MoleMash usando v&iacute;deo
+22. MoleMash usando vídeo
 23. Scroll Horizontal
 24. BomberMan con Edgar Llorente
 25. Introducción y Primer Ejemplo
@@ -59,7 +59,7 @@ tags:
 35. Sensor de Temperatura
 36. Altavoz. Piezobuzzer.
 37. Comunicación en serie
-38. Alimentación y bater&iacute;as
+38. Alimentación y baterías
 39. Finalización
 40. Introducción
 41. Cómo instalar S4A
@@ -74,4 +74,4 @@ tags:
 50. Arduino Yún
 51. Kinect + Scratch
 
-[🧠 SQL](/cursos-tecnologia/#sql{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}

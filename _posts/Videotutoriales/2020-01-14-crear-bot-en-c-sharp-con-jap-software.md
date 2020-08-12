@@ -17,4 +17,4 @@ tags: [Bot, C#, Videotutorial Bots, Videotutorial C#]
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLLJJqiFt6VPqYCOZ2FafYnbbsCRPy1ze2" allowfullscreen></iframe>
 </div><br/>
 
-[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c{: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c){: .btn .btn-outline-dark .btn-lg .btn-block}
