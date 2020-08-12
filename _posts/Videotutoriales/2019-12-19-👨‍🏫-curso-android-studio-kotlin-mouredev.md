@@ -16,8 +16,4 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLNdFk2_brsRdYF0FXDtSaGvluzBNHRbNe" allowfullscreen></iframe>
 </div><br/>
 
-https://www.youtube.com/embed/videoseries?list=PLNdFk2_brsRdYF0FXDtSaGvluzBNHRbNe
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLNdFk2_brsRdYF0FXDtSaGvluzBNHRbNe" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-
 [Kotlin](/cursos-tecnologia/#kotlin){: .btn .btn--inverse .btn--large .align-center}
