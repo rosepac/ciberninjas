@@ -13,10 +13,6 @@ tags:
   - Videotutorial Excel
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
-</div><br/>
-
 ## Módulo I - Obteniendo y transformando datos
 
 <iframe src="https://channel9.msdn.com/Series/Anlisis-de-datos-con-Power-BI-Nivel-Intermedio/Mdulo-I-Obteniendo-y-transformando-datos/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo I - Obteniendo y transformando datos - Microsoft Channel 9 Video"></iframe>

@@ -8,10 +8,6 @@ excerpt: >-
   ▷ Aprender a programar Python ✌️ Con el curso impartido por Jap Software
 permalink: /python-con-jap-software/
 published: false
-header:
-  video:
-    id: playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx
-    provider: youtube
 comments: false
 date: 2020-01-20 15:35:00 +0200
 tags: [Python, Videotutorial Python]
