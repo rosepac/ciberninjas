@@ -9,12 +9,12 @@ thumbnail: /assets/img/blog/google-educacion.webp
 feature-img: /assets/img/blog/google-educacion.webp
 title: '▷ Google anuncia nuevas herramientas para ayudar con la educación virtual'
 description: >-
-  Google compartió las actualizaciones de algunas funciones nuevas que llegarán a sus servicios para ayudar a facilitar la educación virtual, incluidas las funciones que llegarán a sus servicio de conferencias Google Meet y una nueva herramienta de ayuda para realizar tareas con solo una fotografía.
+  Google compartió las actualizaciones de algunas funciones nuevas que llegarán a sus servicios para ayudar a facilitar la educación virtual, incluidas las funciones que llegarán a sus servicio de conferencias Google Meet.
 excerpt: >-
-  Google compartió las actualizaciones de algunas funciones nuevas que llegarán a sus servicios para ayudar a facilitar la educación virtual, incluidas las funciones que llegarán a sus servicio de conferencias Google Meet y una nueva herramienta de ayuda para realizar tareas con solo una fotografía.
+  Google compartió las actualizaciones de algunas funciones nuevas que llegarán a sus servicios para ayudar a facilitar la educación virtual, incluidas las funciones que llegarán a sus servicio de conferencias Google Meet.
 canonical_URL: https://ciberninjas.com/nuevas-herramientas-google-edu/
 permalink: /nuevas-herramientas-google-edu/
-date: 2020-08-12 12:13:46
+date: 2020-08-12 11:13:46
 published: true
 
 ---
