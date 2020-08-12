@@ -16,66 +16,67 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 {: .notice--primary}
 
 <!-- ⏰ (:) 👇 https://www.eventbrite.com.ar/d/online/free--science-and-tech--events/?lang=es&page=1 , https://www.eventbrite.com.ar/d/online/free--classes/?lang=es&page=1 -->
-
-## **Eventos tecnológicos de Julio**
-
-### Eventos para el 13 de Julio de 2020
-
-- ⏰ Introducción al diseño de mundos urbanos para videojuegos (13 de Julio, 17:00 H. Española) 👉 (<a href='https://kutt.it/h4w8AR'>https://kutt.it/h4w8AR</a>) / https://www.sae.edu/esp/es/open-days-bcn
-- ⏰ ¿Por qué enseñar machine learning a los más chicos? (13 de Julio, 21:30 H. Española) 👉 (<a href='https://kutt.it/Nd3Tjt'>https://kutt.it/Nd3Tjt</a>)
-- ⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
-
-### Eventos para el 15 de Julio de 2020
-
-⏰ La importancia de los videotutoriales en procesos formativos 👉 <a href='https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702</a>
-
-⏰ Evento de Presentación de XIAOMI (22:00 PM H. Española) 👉  <a href='https://event.mi.com/global/launch2020/ecosystem#/a' target="_blank" rel="nofollow,noreferrer">https://event.mi.com/global/launch2020/ecosystem#/a</a>
-
-### Eventos para el 18 de Julio de 2020
-
-⏰ Jump! Tecnología (18 y 19 - 14:00) 👇
-
-<a href='https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-### Eventos para el 23 de Julio de 2020
-
-⏰ Evolución de la Ciberseguridad (23 y 24 - 15:30) 👇
-
-<a href='https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-### Eventos para el 28 de Julio de 2020
-
-⏰ Virtual Lab: CI / CD en Kubernetes con Tekton Pipelines (28 de Julio, 22:00 H. Española)
- 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
-
-### Eventos para el 29 de Julio de 2020
-
-⏰ Neo4J: Graph Data Science Library (13:00 H.) 👇
-
-<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-## **Eventos tecnológicos de Agosto**
-
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### Eventos para el 11 de Agosto de 2020
+## **Eventos tecnológicos de Agosto**
 
-⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 22:00 H. Española)
- 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+🔔 12 de Agosto
 
-### Eventos para el 12 de Agosto de 2020
-
-⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
-
+- ⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 15 de Agosto de 2020
+🔔 13 de Agosto
 
-⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
+- (19:00 H. ESP) Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
+(https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (22:00 H. ESP -17 H. Arg) Aprende a programar con gatitos
+👉 Ver en (https://www.instagram.com/conexionhr/?hl=en)
+🗞 Más Info. (https://twitter.com/iamdoomling/status/1291435341589573632)
+- (00:00 H. ESP - 19 hs Arg) Creando diseño web con Bootstrap
+(https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform)
+
+🔔 14 de Agosto
+
+- (20:30 H. Española) Webinar sobre Grafología Gratis
+👉 Registro al evento (https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+🗞 Temario : http://grafologia.estrategica.pro/valor
+- (23:00 H. ESP - 18:00 hrs Arg.) Hablando sobre VUE JS
+👉 Charla con @ianaya89 sobre #VueJS . ¡Los invito a que disfruten de este encuentro! (https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be)
+
+🔔 15 de Agosto
+
+- ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
 
 <a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+- Evento / Concurso sobre Programación: Maratón de Código de IBM (https://maratona.dev/es) (Solamente para América Latina)
 
+🔔 20 de Agosto
+
+📣 20 de Agosto, 19 Horas: Explotando mi primera vulnerabilidad (https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand)
+
+
+🔔 23 de Agosto
+
+- Estaremos hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
+🗞 Registrarse (https://events.darry.codes/github)
+
+🔔 25 de Agosto
+
+- Hoy. Estaremos hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
+🗞 Registrarse (https://events.darry.codes/github)
+
+🔔 18:00 Hora Española. Claves para impulsar mi negocio en redes sociales
+👉 (https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=1659f598-870f-4e7e-a1a4-b0796e8548e8&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWQ1OWQ5ZTAtMDBhMi00OTM1LThjZjYtZjc2MWNjYWIyNWUw@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252286cfa33d-8f65-45f5-9953-4c4c00b95a66%2522%252c%2522Oid%2522%253a%2522df0e098e-c210-4041-b464-8a8fadeb9eed%2522%252c%2522IsBroadcastMeeting%2522%253atrue%257d%26anon%3Dtrue&suppressPrompt=true)
+
+🔔 27 de Agosto
+
+- Estaremos hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
+🗞 Registrarse (https://events.darry.codes/github)
+
+🔔 1 de Septiembre
+
+- (18:30) Storytelling con Datos para Principiantes : Data Science (https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 ## **Eventos tecnológicos de Octubre**
 
@@ -301,3 +302,43 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ DojoConf: Conferencia (12 de Julio - 20:00) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+### Eventos para el 13 de Julio de 2020
+
+- ⏰ Introducción al diseño de mundos urbanos para videojuegos (13 de Julio, 17:00 H. Española) 👉 (<a href='https://kutt.it/h4w8AR'>https://kutt.it/h4w8AR</a>) / https://www.sae.edu/esp/es/open-days-bcn
+- ⏰ ¿Por qué enseñar machine learning a los más chicos? (13 de Julio, 21:30 H. Española) 👉 (<a href='https://kutt.it/Nd3Tjt'>https://kutt.it/Nd3Tjt</a>)
+- ⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+
+### Eventos para el 15 de Julio de 2020
+
+⏰ La importancia de los videotutoriales en procesos formativos 👉 <a href='https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702</a>
+
+⏰ Evento de Presentación de XIAOMI (22:00 PM H. Española) 👉  <a href='https://event.mi.com/global/launch2020/ecosystem#/a' target="_blank" rel="nofollow,noreferrer">https://event.mi.com/global/launch2020/ecosystem#/a</a>
+
+### Eventos para el 18 de Julio de 2020
+
+⏰ Jump! Tecnología (18 y 19 - 14:00) 👇
+
+<a href='https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+### Eventos para el 23 de Julio de 2020
+
+⏰ Evolución de la Ciberseguridad (23 y 24 - 15:30) 👇
+
+<a href='https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+### Eventos para el 28 de Julio de 2020
+
+⏰ Virtual Lab: CI / CD en Kubernetes con Tekton Pipelines (28 de Julio, 22:00 H. Española)
+ 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+
+### Eventos para el 29 de Julio de 2020
+
+⏰ Neo4J: Graph Data Science Library (13:00 H.) 👇
+
+<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+🔔 11 de Agosto
+
+- ⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 22:00 H. Española)
+- 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
