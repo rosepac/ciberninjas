@@ -8,9 +8,7 @@ categories:
 - Actualidad
 - Redes Sociales
 tags:
-- Adicción
-- Datos
-- Reflexión
+- Reflexiones sobre Tecnología
 thumbnail: "/assets/img/facebook-pastillas.jpg"
 feature-img: "/assets/img/facebook-pastillas.jpg"
 ---
