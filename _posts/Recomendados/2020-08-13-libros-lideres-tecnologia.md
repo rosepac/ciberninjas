@@ -7,7 +7,7 @@ tags:
 - Libros Recomendados
 thumbnail: /assets/img/blog/14-conviertete-en-lider.webp
 feature-img: /assets/img/blog/14-conviertete-en-lider.webp
-title: '▷ 3 Libros clásicos para líderes tecnológicos (o para ti, si aspiras a serlo)'
+title: '▷ Libros clásicos para líderes tecnológicos (o para ti, si aspiras a serlo)'
 description: >-
   Los mejores libros con los que prepararte para ser un líder tecnológico dentro de tu empresa.
 excerpt: >-
@@ -33,7 +33,6 @@ Si te comienzas a sentir ansioso y sobrecargado con el contenido que recibes y c
 
 Ha pasado bastante tiempo desde la publicación de las siguientes recomendaciones, pero a pesar de que puedas notar ciertosp untos algo anticuados a lo largo de su lectura, con seguridad te serán igualmente de positivos y te ayudarán a aprender en muchos nuevos aspectos.
 
-Los libros elegidos son los siguientes.
 
 ## **Peopleware: Proyectos productivos y equipos**
 
@@ -60,6 +59,8 @@ Como por ejemplo, Javier Garzas, que tiene escrito un libro que te ayudará a co
 Si lo que que estabas buscando son libros en español, se me ocurre que puedes encontrar algunos títulos. Que si bien, algunos de ellos no están directamente relacionados con la tecnología. Con seguridad, van a ayudarte a aumentar y ganar esa confianza necesaria.
 
 Además, de apoyarte en la meta de lograr a tus aliados necesarios, con los que mejorar tus habilidades con las que aumentar tu capacidad de liderazgo social y tus posibilidades de alcanzar un ascenso laboral.
+
+[📓 Mejores libros de Productividad, Motivación, Reflexión y Relajación](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Las lista de títulos en español, es la siguiente:
 
