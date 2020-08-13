@@ -1,15 +1,17 @@
 ---
-title: "\U0001F4F0 Alemania y Francia acuerdan bloquear Libra de Facebook"
-description: "\U0001F4B0 Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough"
-excerpt: "\U0001F4B0 Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough"
+author: rosepac
+bootstrap: true
+title: "Alemania y Francia acuerdan bloquear Libra de Facebook"
+description: "Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough"
+excerpt: "Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough"
 date: 2019-09-15 19:48:00 +0200
-categories:
+tags:
   - Actualidad
   - Criptomonedas
-tags:
-  - Libra
 thumbnail: /assets/img/blog/libra-facebook.jpg
 feature-img: /assets/img/blog/libra-facebook.jpg
+permalink: /alemania-y-francia-acuerdan-bloquear-libra-de-facebook/
+canonical_URL: https://ciberninjas.com/alemania-y-francia-acuerdan-bloquear-libra-de-facebook/
 ---
 
 Alemania y Francia acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas franc&eacute;s, reporte de Laurence Frost; edici&oacute;n por Richard Lough

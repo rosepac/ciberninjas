@@ -3,11 +3,13 @@ title: "📰 Alternativas reales a Facebook, Twitter: Steemit, Diaspora o Mastod
 description: '👨‍👩‍👦 Alternativas reales a Facebook, Twitter: Diaspora, Mastodon o Quitter son las mejores opciones que existen'
 excerpt: '👨‍👩‍👦 Alternativas reales a Facebook, Twitter: Diaspora, Mastodon o Quitter son las mejores opciones que existen'
 date: 2018-03-31 17:10:10
+author: rosepac
+bootstrap: true
+comments: false
 published: true
-categories:
-- Redes Sociales
 permalink: /alternativas-reales-a-facebook-twitter-aparte-de-steemit-claro-esta
 tags:
+- Redes Sociales
 - Redes Alternativas
 - Facebook
 - Twitter

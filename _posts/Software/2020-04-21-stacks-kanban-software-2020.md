@@ -18,7 +18,6 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/stacks-kanban-software-2020/
 permalink: /stacks-kanban-software-2020/
 date: 2020-04-21 16:32:32
-last_modified_at: 
 published: true
 
 ---

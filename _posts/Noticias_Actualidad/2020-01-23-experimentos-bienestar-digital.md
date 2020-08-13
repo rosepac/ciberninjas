@@ -20,7 +20,9 @@ Una colección de ideas y herramientas que ayudan a las personas a encontrar un 
 
 Todo el código es de código abierto y hay guías y consejos útiles disponibles para impulsar nuevas ideas. Prueba los experimentos y crea otros nuevos. Cuantas más personas se involucren, más podremos aprender sobre cómo construir una mejor tecnología para todos.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rt5LY5TeTVQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/rt5LY5TeTVQ?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 ## **¿Qué experimentos existen?**
 
@@ -50,7 +52,9 @@ Activity Bubbles te ayuda a descubrir cómo se ve el uso de tu teléfono en un d
 
 Un conjunto de sobres que transforman temporalmente su teléfono en un dispositivo más simple y tranquilo, lo que le ayuda a alejarse de su mundo digital.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Au14zEGkRaQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Au14zEGkRaQ?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 Muchas personas sienten que pasan demasiado tiempo en sus teléfonos y luchan por encontrar un equilibrio con la tecnología. Hemos diseñado una serie de sobres de papel especiales que transforman por completo la funcionalidad de su teléfono inteligente para el momento en que está sellado en su interior, lo que le permite disfrutar de menos distracciones por un tiempo.
 
@@ -67,7 +71,9 @@ Queríamos crear una versión más accesible de esto, que permitiera a las perso
 
 El pergamino infinito. Es peligrosamente fácil desplazarse sin pensar durante horas, especialmente cuando se trata de redes sociales. Entonces, ¿qué pasa si visualizamos juguetonamente el desplazamiento infinito como una inmersión en aguas profundas, para ayudar a las personas a experimentar su hábito de desplazamiento de manera más tangible?
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Y29JuEQULvQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Y29JuEQULvQ?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 Anchor es una extensión simple de Chrome que juega con esta sensación de hundimiento. Cuanto más abajo se desplace, más profundo se sumerge, y puede ver cómo su pantalla se vuelve lentamente azul oscuro, un pequeño pez nada en su pantalla y, finalmente, toca un fondo de roca (literal).
 
@@ -79,7 +85,9 @@ Piense en explorar cuevas, lanzarse en paracaídas, excavar hasta el centro de l
 
 ## Paper Phone / Teléfono de Papel
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/hgKRL4-ADO0?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/hgKRL4-ADO0?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 [📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -87,7 +95,9 @@ Piense en explorar cuevas, lanzarse en paracaídas, excavar hasta el centro de l
 
 Encuentra el foco yendo un día solo con tus aplicaciones esenciales.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/hgKRL4-ADO0?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/hgKRL4-ADO0?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 Desert Island te ayuda a encontrar el foco, desafiándote a pasar un día solo con tus aplicaciones esenciales. Simplemente elija las aplicaciones que sean más importantes para usted y luego pruébelo durante 24 horas.
 
@@ -109,7 +119,9 @@ Este experimento no aparecerá como una aplicación. Una vez descargado de Play 
 
 Manténgase enfocado obteniendo las aplicaciones correctas en el momento correcto.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ono3SKps3Bs?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Ono3SKps3Bs?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 Morph te ayuda a mantenerte enfocado, adaptando tu teléfono a lo que estás haciendo. Simplemente piense en cómo divide su tiempo y elija las aplicaciones que son más importantes para usted en cada modo. Según el tiempo o el lugar, su teléfono se adaptará automáticamente, brindándole las aplicaciones adecuadas en el momento adecuado.
 
@@ -119,8 +131,9 @@ Morph te ayuda a mantenerte enfocado, adaptando tu teléfono a lo que estás hac
 
 Minimice las distracciones con notificaciones programadas.
 
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Lcjl3exInWk?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Lcjl3exInWk?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 Post Box te ayuda a minimizar las distracciones al retener sus notificaciones hasta el momento que más le convenga. Simplemente elija con qué frecuencia desea que se envíen sus notificaciones. Cuando lleguen, estarán perfectamente organizados para que los atravieses. Tenga en cuenta que, dependiendo del modelo de su dispositivo, también se pueden retener funciones como llamadas telefónicas y alarmas.
 
@@ -130,7 +143,9 @@ Post Box te ayuda a minimizar las distracciones al retener sus notificaciones ha
 
 Pase tiempo de calidad juntos desconectándose de la tecnología como grupo.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/ZIbOr_dGeqI?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/ZIbOr_dGeqI?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 We Flip te permite desconectarse de la tecnología como grupo, para pasar tiempo de calidad juntos. Simplemente espere a que todos se unan, luego active el interruptor para comenzar su sesión. Si alguien en el grupo se desbloquea, la sesión finalizará y podrás ver cómo lo hiciste.
 

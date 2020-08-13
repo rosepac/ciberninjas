@@ -1,5 +1,8 @@
 ---
 
+author: rosepac
+bootstrap: true
+comments: false
 title: "📰 🔐 Mayor Brecha de Seguridad Biométrica de la Historia"
 description: 'Los investigadores de privacidad de Internet Noam Rotem y Ran Locar descubren la mayor brecha de seguridad biométrica de la historia'
 excerpt: 'Los investigadores de privacidad de Internet Noam Rotem y Ran Locar descubren la mayor brecha de seguridad biométrica de la historia'

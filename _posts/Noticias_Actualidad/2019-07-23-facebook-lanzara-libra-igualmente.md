@@ -1,12 +1,13 @@
 ---
+author: rosepac
+bootstrap: true
+comments: false
 title: "💰 Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU."
 description: "Facebook no descarta el lanzamiento de Libra sin la aprobación de EE. UU."
 excerpt: "Facebook no descarta el lanzamiento de Libra sin la aprobación de EE. UU."
-categories:
+tags:
 - Actualidad
 - Criptomonedas
-tags:
-- Libra
 thumbnail: "/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
 feature-img: "/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
 ---

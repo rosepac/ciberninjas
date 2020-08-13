@@ -1,4 +1,7 @@
 ---
+author: rosepac
+bootstrap: true
+comments: false
 title: "📰 Complemento Oficial de AMP Versión Estable 1.0 para Wordpress"
 description: "Se lanza la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"
 excerpt: "Se lanza la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"

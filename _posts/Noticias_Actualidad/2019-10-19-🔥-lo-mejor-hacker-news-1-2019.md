@@ -1,4 +1,6 @@
 ---
+author: rosepac
+bootstrap: true
 title: "🔥 Lo mejor de Hacker News! Semana #1 2019"
 description: "📰 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
 excerpt: "📰 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
@@ -11,10 +13,8 @@ tags:
   - Hacker News
 thumbnail: "https://i.ibb.co/9vwpm3k/hackernews-logo.png"
 feature-img: "https://i.ibb.co/9vwpm3k/hackernews-logo.png"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+canonical_URL: https://ciberninjas.com/mejor-hacker-news-1-2019/
+permalink: /mejor-hacker-news-1-2019/
 
 ---
 

@@ -5,12 +5,7 @@ excerpt: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde 
 published: false
 comments: false
 date: 2018-10-23
-last_modified_at: 
 permalink: /hacker-news/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 ## Clones de Hacker News

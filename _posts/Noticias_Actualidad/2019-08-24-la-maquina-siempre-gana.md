@@ -1,16 +1,21 @@
 ---
+
+author: rosepac
+bootstrap: true
+comments: false
 title: "📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales"
 description: '📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por Richard Seymour'
 excerpt: '📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por Richard Seymour'
 date: 2019-08-26
 published: true
-categories:
-- Actualidad
-- Redes Sociales
 tags:
+- Actualidad
 - Reflexiones sobre Tecnología
+- Redes Sociales
 thumbnail: "/assets/img/facebook-pastillas.jpg"
 feature-img: "/assets/img/facebook-pastillas.jpg"
+permalink: /la-maquina-siempre-gana/
+canonical_URL: https://ciberninjas.com/la-maquina-siempre-gana/
 ---
 
 Este artículo destripa una visión poco considerada de las redes sociales, a través de una extensa comparativa entre las redes y las máquinas recreativas y de apuestas.

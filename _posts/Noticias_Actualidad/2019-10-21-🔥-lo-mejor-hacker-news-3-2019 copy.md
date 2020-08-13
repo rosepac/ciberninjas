@@ -4,18 +4,14 @@ description: "📰 Las Mejores Noticias de Hacker News. La Mejor Página Web de 
 excerpt: "📰 Las Mejores Noticias de Hacker News. La Mejor Página Web de Programación del Mundo."
 date: 2019-10-20 23:45:00 +0200
 last_modified_at:
-permalink: /mejor-hacker-news-3-2019
 published: false
-categories:
-  - Actualidad
 tags:
+  - Actualidad
   - Hacker News
 thumbnail: "https://i.ibb.co/9vwpm3k/hackernews-logo.png" 
 feature-img: "https://i.ibb.co/9vwpm3k/hackernews-logo.png"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+canonical_URL: https://ciberninjas.com/mejor-hacker-news-3-2019/
+permalink: /mejor-hacker-news-3-2019/
 
 ---
 

@@ -1,17 +1,20 @@
 ---
-title: "\U0001F4F0 \U0001F4BB Arranque Rápido para el Kernel de Linux en Camino"
-description: "\U0001F4BB Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang"
-excerpt: "\U0001F4BB Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang"
+author: rosepac
+bootstrap: true
+title: "Arranque Rápido para el Kernel de Linux en Camino"
+description: "Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang"
+excerpt: "Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang"
 date: 2019-09-15 17:25:00 +0200
 published: true
-categories:
+tags:
   - Actualidad
   - Software
-tags:
   - Sistemas Operativos
   - Linux
 thumbnail: 'https://fossbytes.com/wp-content/uploads/2017/01/clear-linux-steam.jpg'
 feature-img: 'https://fossbytes.com/wp-content/uploads/2017/01/clear-linux-steam.jpg'
+canonical_URL: https://ciberninjas.com/arranque-r%C3%A1pido-para-el-kernel-de-linux-en-camino/
+permalink: /arranque-r%C3%A1pido-para-el-kernel-de-linux-en-camino/
 ---
 
 El ingeniero de Intel Feng Tang habl&oacute; en la Conferencia de Plomeros de Linux de esta semana en Lisboa, Portugal, sobre c&oacute;mo el equipo de Clear Linux logr&oacute; arrancar su kernel m&aacute;s r&aacute;pido. Comenzaron con un tiempo de arranque de kernel de aproximadamente tres segundos, pero lo redujeron a solo 300 ms.

@@ -1,4 +1,8 @@
 ---
+
+author: rosepac
+bootstrap: true
+comments: false
 title: '📰 7 Predicciones Tecnológicas del Futuro para 2019'
 description: "▷ Las novedades tecnológicas 👩‍💻 más impresionantes del Año 2019, desde los móviles 📴 flexibles hasta la Inteligencia Artificial 🤖 pasando por los servicios de Videojuegos 🎮 en la Nube ☁"
 excerpt: "▷ Las novedades tecnológicas 👩‍💻 más impresionantes del Año 2019, desde los móviles 📴 flexibles hasta la Inteligencia Artificial 🤖 pasando por los servicios de Videojuegos 🎮 en la Nube ☁"
@@ -7,17 +11,14 @@ date: 2019-01-13 07:01:10
 thumbnail: /assets/img/internet-de-las-cosas.webp
 feature-img: /assets/img/internet-de-las-cosas.webp
 tags:
-    - Almacenamiento Nube
-    - Inteligencia Artificial
-    - Móviles Flexibles
-    - Robótica Personal
-    - Sistemas Operativos
-    - Legislación
-categories:
-    - Actualidad
+- Actualidad
+- Almacenamiento Nube
+- Inteligencia Artificial
 permalink: /7-predicciones-tecnologicas-del-futuro-para-2019/
-canonical_URL: /7-predicciones-tecnologicas-del-futuro-para-2019/
+canonical_URL: https://ciberninjas.com/7-predicciones-tecnologicas-del-futuro-para-2019/
+
 ---
+
 Aunque es un año más dentro de una gran década, 2019 parece ser uno de los años **más emocionantes e importantes** para la industria de la tecnología en mucho tiempo. Gracias al próximo lanzamiento de algunas nuevas tecnologías críticas, incluidas **las pantallas 5G y plegables**, así como las mejoras críticas en la **inteligencia artificial** en el dispositivo, la **robótica personal** y otras **áreas emocionantes**; hay una gran expectativa palpable para el nuevo año que recién entra.
 
 Además, 2018 terminó siendo un año bastante difícil para varias grandes compañías de tecnología por lo que hay muchas personas que querrán redimirse y sumergirse de cabeza en un nuevo futuro. Con ese espíritu en mente, veamos mi opinión sobre algunas de las tendencias que espero sean las más grandes e importantes en 2019.

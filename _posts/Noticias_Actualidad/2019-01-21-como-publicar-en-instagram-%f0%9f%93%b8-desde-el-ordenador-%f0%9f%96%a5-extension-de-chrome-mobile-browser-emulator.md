@@ -1,5 +1,8 @@
 ---
 
+author: rosepac
+bootstrap: true
+comments: false
 title: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
 description: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
 excerpt: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
@@ -9,16 +12,17 @@ comments: false
 date: 2019-01-21 06:01:35
 last_modified_at: 2019-10-29 14:10:00 +0200
 tags:
+ - Redes Sociales
  - Instagram
  - Publicar
  - Extensión
  - Chrome
-categories:
- - Redes Sociales
  - Navegadores
 permalink: '/como-publicar-en-instagram-%f0%9f%93%b8-desde-el-ordenador-%f0%9f%96%a5-extension-de-chrome-mobile-browser-emulator/'
+canonical_URL: 'https://ciberninjas.com/como-publicar-en-instagram-%f0%9f%93%b8-desde-el-ordenador-%f0%9f%96%a5-extension-de-chrome-mobile-browser-emulator/'
 thumbnail: https://i.ibb.co/Gxkyp1k/image.png
 feature-img: https://i.ibb.co/Gxkyp1k/image.png
+
 ---
 
 Cada día que pasa los dueños de **Instagram** dificultan más el realizar publicaciones desde el ordenador.

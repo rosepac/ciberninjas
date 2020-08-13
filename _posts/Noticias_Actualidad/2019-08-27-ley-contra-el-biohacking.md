@@ -3,14 +3,14 @@ title: "📰 Primera Ley con Regulación del Hacking Genético"
 description: '⚗ Primera Ley con Regulación del Hacking Genético'
 excerpt: '⚗ Primera Ley con Regulación del Hacking Genético'
 date: 2019-08-27 23:04:50
+author: rosepac
+bootstrap: true
 published: true
-categories:
-- Genética
-- Actualidad
 tags:
-- Jennifer Doudna
-- Bioquímica
-
+- Actualidad
+- Ciencia
+permalink: /ley-contra-el-biohacking/
+canonical_URL: https://ciberninjas.com/ley-contra-el-biohacking/
 ---
 
 Un proyecto de ley de California prevee regular la modificación del código genético en casas particulares; así, a groso modo; lo que puede parecer subrealista pero no lo es, tras el descubrimiento de la tecnología CRISPR, ya incluso; se comienza a hablar de la existencia de Kits de transformación genética.

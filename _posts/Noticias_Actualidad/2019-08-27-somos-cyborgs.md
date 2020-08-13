@@ -3,14 +3,16 @@ title: "📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos"
 description: '🤖 ¿Somos Cyborgs? Según Elon Musk, ya lo somos'
 excerpt: '🤖 ¿Somos Cyborgs? Según Elon Musk, ya lo somos'
 date: 2019-08-27 23:00:09
+author: rosepac
+bootstrap: true
 published: true
-categories:
-- Robótica
-- Actualidad
 tags:
+- Actualidad
+- Robótica
 - Elon Musks
 - Cyborgs
-
+permalink: /somos-cyborgs/
+canonical_URL: https://ciberninjas.com/somos-cyborgs/
 ---
 
 Uno de los temas que se discuten en esta entrevista en la que participa: Elon Musk; es si nos convertiremos en  cyborgs en el futuro; y al parecer Elon ya tiene claro que ¡Ya Somos Cyborgs!

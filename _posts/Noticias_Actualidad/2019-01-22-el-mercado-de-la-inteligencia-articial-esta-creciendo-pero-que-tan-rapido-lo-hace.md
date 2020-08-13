@@ -1,4 +1,8 @@
 ---
+
+author: rosepac
+bootstrap: true
+comments: false
 title: "📰 El mercado de la Inteligencia Articial está creciendo, pero ¿Qué tan rápido lo hace?"
 excerpt: "🤖 El mercado de la Inteligencia Articial está creciendo, pero ¿Qué tan rápido lo hace?"
 description: "🤖 El mercado de la Inteligencia Articial está creciendo, pero ¿Qué tan rápido lo hace?"
@@ -8,11 +12,9 @@ bootstrap: true
 comments: false
 date: 2019-01-22 06:01:35
 tags:
-- Negocios
-- Inversión
-categories:
 - Inteligencia Artificial
-permalink: /el-mercado-de-la-inteligencia-articial-esta-creciendo-pero-que-tan-rapido-lo-hace
+permalink: /el-mercado-de-la-inteligencia-articial-esta-creciendo-pero-que-tan-rapido-lo-hace/
+
 ---
 Si trabajas en tecnología, has oído hablar de inteligencia artificial: cómo nos va a reemplazar, si se ha exagerado o no, y qué naciones la aprovecharán para prevenir o instigar la guerra.
 
