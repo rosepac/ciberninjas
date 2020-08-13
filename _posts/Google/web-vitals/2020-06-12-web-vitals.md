@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Desarrollador Web
-thumbnail: /assets/img/wall-web-dev.webp
-feature-img: /assets/img/wall-web-dev.webp
+thumbnail: /assets/img/blog/wall-web-dev.webp
+feature-img: /assets/img/blog/wall-web-dev.webp
 title: '▷ ¿Qué es Web Vitals? Las nuevas métricas esenciales para Google'
 description: >-
   Conoce las nuevas métricas esenciales implementadas por Google; para tener tu sitio web sano, vigoroso y fructífero.
@@ -14,7 +14,7 @@ excerpt: >-
   Conoce las nuevas métricas esenciales implementadas por Google; para tener tu sitio web sano, vigoroso y fructífero.
 canonical_URL: https://ciberninjas.com/web-vitals/
 permalink: /web-vitals/
-date: 2020-08-13 08:08:08
+date: 2020-08-13 08:07:08
 last_modified_at: 
 published: true
 

@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Desarrollador Web
-thumbnail: /assets/img/wall-web-dev.webp
-feature-img: /assets/img/wall-web-dev.webp
+thumbnail: /assets/img/blog/wall-web-dev.webp
+feature-img: /assets/img/blog/wall-web-dev.webp
 title: '▷ ¿Qué herramientas usar para medir y reportar los datos fundamentales de la Web?'
 description: >-
   Conoce los herramientas fundamentales con las que comprobar la cargar rápida y el funcionamiento correcto de tu página web.

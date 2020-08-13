@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Desarrollador Web
-thumbnail: /assets/img/wall-web-dev.webp
-feature-img: /assets/img/wall-web-dev.webp
+thumbnail: /assets/img/blog/wall-web-dev.webp
+feature-img: /assets/img/blog/wall-web-dev.webp
 title: '▷ ¿Qué es el Core Web Vitals? El nuevo enfoque del análisis web de Google'
 description: >-
   Conoce los nuevos parámetros lanzados por Google; como el Core Web Vitals.
@@ -14,7 +14,7 @@ excerpt: >-
   Conoce los nuevos parámetros lanzados por Google; como el Core Web Vitals.
 canonical_URL: https://ciberninjas.com/core-web-vitals/
 permalink: /core-web-vitals/
-date: 2020-08-13 08:08:14
+date: 2020-08-13 08:06:14
 last_modified_at: 
 published: true
 

@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Desarrollador Web
-thumbnail: /assets/img/wall-web-dev.webp
-feature-img: /assets/img/wall-web-dev.webp
+thumbnail: /assets/img/blog/wall-web-dev.webp
+feature-img: /assets/img/blog/wall-web-dev.webp
 title: '▷ ¿Qué es el informe de experiencia del usuario de Chrome?'
 description: >-
   Conoce a fondo lo que es el informe de UI de los usuarios del navegador.
