@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Margaret Hamilton"
 description: 'Margaret Hamilton, por su liderazgo y trabajo en software para DOD y las misiones espaciales Apollo de la NASA y por contribuciones fundamentales a la ingeniería de software.'
 excerpt: 'Margaret Hamilton, por su liderazgo y trabajo en software para DOD y las misiones espaciales Apollo de la NASA y por contribuciones fundamentales a la ingeniería de software.'

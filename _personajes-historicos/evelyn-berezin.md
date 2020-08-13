@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Evelyn Berezin"
 description: 'Evelyn Berezin, por sus primeros trabajos en diseño de computadoras y toda una vida de actividad empresarial.'
 excerpt: 'Evelyn Berezin, por sus primeros trabajos en diseño de computadoras y toda una vida de actividad empresarial.'

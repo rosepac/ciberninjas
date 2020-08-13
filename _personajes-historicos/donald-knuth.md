@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Donald Knuth"
 description: 'Donald Knuth, por su trabajo inicial fundamental en la historia de los algoritmos informáticos.'
 excerpt: 'Donald Knuth, por su trabajo inicial fundamental en la historia de los algoritmos informáticos.'

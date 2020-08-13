@@ -42,13 +42,13 @@ Para comenzar con nuestras bibliotecas KTX, busque el `-ktx` sufijo en la secci�
 
 **app / build.gradle (antes)**
 
-```
+{% highlight js %}
 implementación 'com.google.firebase: firebase-config: 19.1.2'
-```
+{% endhighlight %}
 
 **MainActivity.kt (antes)**
 
-```
+{% highlight js %}{% endhighlight %}
 val remoteConfig = FirebaseRemoteConfig.getInstance ()
 
 val configSettings = FirebaseRemoteConfigSettings.Builder ()
@@ -56,18 +56,18 @@ val configSettings = FirebaseRemoteConfigSettings.Builder ()
         .setFetchTimeoutInSeconds (60)
         .construir()
 remoteConfig.setConfigSettingsAsync (configSettings)
-```
+{% endhighlight %}
 
 **app / build.gradle (después)**
 
-```
+{% highlight js %}
 // La biblioteca -ktx depende de la biblioteca firebase-config
 implementación 'com.google.firebase: firebase-config-ktx: 19.1.2'
-```
+{% endhighlight %}
 
 **MainActivity.kt (después)**
 
-```
+{% highlight js %}
 // Nueva clase global "Firebase"
 val remoteConfig = Firebase.remoteConfig
 
@@ -77,20 +77,19 @@ val configSettings = remoteConfigSettings {
     fetchTimeoutInSeconds = 60
 }
 remoteConfig.setConfigSettingsAsync (configSettings)
-```
+{% endhighlight %}
 
 ¡Y las bibliotecas KTX que tenemos disponibles hoy son solo el comienzo, ya que estamos trabajando duro para agregar cobertura para todos los productos Firebase y agregar nuevas funciones centradas en Kotlin en un futuro cercano!
 
-No hubiéramos podido lanzar estas bibliotecas KTX sin la ayuda de todos los entusiastas de Kotlin en la comunidad Firebase. Nos gustaría dar un agradecimiento especial a [Rosário Pereira Fernandes,](https://github.com/rosariopfernandes) quien contribuyó con un código y documentación excelentes al esfuerzo de KTX.
+No hubiéramos podido lanzar estas bibliotecas KTX sin la ayuda de todos los entusiastas de Kotlin en la comunidad Firebase. Nos gustaría dar un agradecimiento especial a [Rosário Pereira Fernandes](https://github.com/rosariopfernandes), quien contribuyó con un código y documentación excelentes al esfuerzo de KTX.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1353583048161880&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## Licencia
 
-**Fuente**\: [Se abren las extensiones de Firebase enfocadas a Kotlin](https://firebase.googleblog.com/2020/03/firebase-kotlin-ga.html "Se abren las extensiones de Firebase enfocadas a Kotlin"){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+**Fuente**: [Se abren las extensiones de Firebase enfocadas a Kotlin](https://firebase.googleblog.com/2020/03/firebase-kotlin-ga.html "Se abren las extensiones de Firebase enfocadas a Kotlin"){:target="_blank" rel="nofollow,noreferrer"}
 
-## Relacionados
+### Relacionados
 
 [▷ Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/)
 

@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Lynn Conway"
 description: 'Lynn Conway, por su trabajo en el desarrollo y difusión de nuevos métodos de diseño de los circuitos integrados.'
 excerpt: 'Lynn Conway, por su trabajo en el desarrollo y difusión de nuevos métodos de diseño de los circuitos integrados.'

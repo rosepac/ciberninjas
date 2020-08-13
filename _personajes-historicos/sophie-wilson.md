@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Sophie Wilson"
 description: 'Sophie Wilson, por su trabajo, junto a Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.'
 excerpt: 'Sophie Wilson, por su trabajo, junto a Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.'

@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Jean Sammet"
 description: 'Jean Sammet, por sus contribuciones al campo de los lenguajes de programación y su historia.'
 excerpt: 'Jean Sammet, Por sus contribuciones al campo de los lenguajes de programación y su historia.'

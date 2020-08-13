@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Jean Jennings Bartik"
 description: 'Jean Jennings Bartik, por programar la computadora ENIAC y ayudar a adaptarla para usar programas de software almacenados en la memoria.'
 excerpt: 'Jean Jennings Bartik, por programar la computadora ENIAC y ayudar a adaptarla para usar programas de software almacenados en la memoria.'
