@@ -5,48 +5,47 @@ bootstrap: true
 comments: false
 tags:
 - Educación
-thumbnail: /assets/img/blog/google-educacion.webp
-feature-img: /assets/img/blog/google-educacion.webp
-title: '▷ Google anuncia nuevas herramientas para ayudar con la educación virtual'
+thumbnail: /assets/img/blog/13-dstack.webp
+feature-img: /assets/img/blog/13-dstack.webp
+title: '▷ Dstack: Una herramienta de aprendizaje automático para crear aplicaciones y datos usando Python y R'
 description: >-
-  Google compartió las actualizaciones de algunas funciones nuevas que llegarán a sus servicios para ayudar a facilitar la educación virtual, incluidas las funciones que llegarán a sus servicio de conferencias Google Meet.
+  Dstack.ai ofrece una herramienta de código abierto y una plataforma empresarial para crear datos y aplicaciones de machine learning.
 excerpt: >-
-  Google compartió las actualizaciones de algunas funciones nuevas que llegarán a sus servicios para ayudar a facilitar la educación virtual, incluidas las funciones que llegarán a sus servicio de conferencias Google Meet.
-canonical_URL: https://ciberninjas.com/nuevas-herramientas-google-edu/
-permalink: /nuevas-herramientas-google-edu/
-date: 2020-08-12 11:13:46
-published: false
+  Dstack.ai ofrece una herramienta de código abierto y una plataforma empresarial para crear datos y aplicaciones de machine learning.
+canonical_URL: https://ciberninjas.com/dstack-herramienta-ml/
+permalink: /dstack-herramienta-ml/
+date: 2020-08-13 08:01:46
+published: true
 
 ---
 
+Dstack.ai ofrece una herramienta de código abierto y una plataforma empresarial para crear aplicaciones basadas en el aprendizaje profundo y los datos.
 
-<!-- https://dstack.ai/  , https://github.com/dstackai -->
+Crea aplicaciones de datos en minutos, sin tardar ni días, ni semanas. Usa solamente Python y R. No se requieren habilidades de desarrollo o implementación.
 
-Google anunció recientemente, una serie de nuevas funciones que ayudarán a facilitar la educación virtual, incluidas actualizaciones de sus servicio de conferencias Google Meet y una nueva herramienta para ayudar con las tareas a través de una sola fotografía del teléfono.
+## **¿Cómo funciona Dstack?**
 
-Las novedades sobre la aplicación Google Meet, Google dice que se ha agregado una vista en mosaico más grande capaz de incluir hasta 49 participantes, una mejora ya anunciado con anterioridad en Junio, y que llegará en septiembre.
+Dstack.ai consta de dos partes principales:
+- Los paquetes clientes para Python y R, que se pueden usar desde cuadernos o scripts para enviar datos a dstack.
+- Una aplicación web que maneja las solicitudes de los paquetes del Cliente y sirve los datos. La aplicación puede ejecutarse localmente, en Docker, o puede usar la versión en la nube de dstack.ai.
 
-Google lanzó por primera vez su vista en mosaico para Meet en Abril con la capacidad de visualizar 16 participantes. Por lo tanto, el aumento hasta las 49 personas es considerable; y hace ponerse a Google Meet a la altura de la característica incluida en Zoom.
+## **Los tableros de control de Dstack**
 
-Además, en Septiembre, Google integrará dentro de Google Meet su producto de pizarra digital, Jamboard; y en Octubre, Google agregará la capacidad de difuminar o reemplazar el fondo dentro de las videollamadas de Meet (una función ya anunciada en Junio).
+Una vez que haya enviado sus conjuntos de datos, visualizaciones o modelos de aprendizaje automático a dstack.ai utilizando los paquetes dstack para Python y R, puede combinarlos en paneles interactivos, con solo unos pocos clics.
 
-Los clientes de G Suite Enterprise para la Educación, podrán crear salas de grupos pequeños en Meet a partir de Octubre, lo que podría permitir que las clases virtuales se dividan en debates de grupos más pequeños; también en octubre, los maestros podrán realizar un seguimiento personalizado de la asistencia a las reuniones de Meet.
+Con conjuntos de datos parametrizados, visualizaciones o modelos ML, el usuario puede cambiar sus parámetros en la parte superior del tablero y ver cómo se actualiza en consecuencia.
 
-Buscando ayudar a los moderadores y educadores con el uso de Google Meet dentro de G Suite Enterprise para la Educación a administrar las clases con mayor facilidad, Google también anuncia que implementará nuevos controles de moderación.
+## **Automatizar trabajos científicos**
 
-A finales de este mes, los moderadores podrán evitar que las personas se unan a las reuniones después de que hayan sido expulsados ​​de la sala o se les haya negado la entrada dos veces, lo que podría ayudar a evitar que las personas interrumpan las clases de manera abrupta.
+Automatiza la rutina de procesamiento de conjuntos de datos o actualización de paneles, ejecutando trabajos regulares de Python o R y monitoreando su progreso.
 
-En septiembre, Google permitirá que los moderadores finalicen una clase de Meet para todos al mismo tiempo, aprobar o rechazar de forma masiva las solicitudes para unirse a una clase, desactivar el chat de la sala de reunión, restringir quién puede presentarse en una clase y activar una configuración para que no se inicie una reunión hasta que el maestro se haya unido a ella.
+Ejecute sus trabajos en un horario fijo, mediante un disparador externo o manualmente. Reciba una notificación si falla un trabajo.
 
-Entre algunas otras actualizaciones más, ajenas a Google Meet, Google compartió la creación de nuevas herramientas para ayudar a los estudiantes a aprender a usar sus teléfonos.
+## **Utiliza dstack.ai gratis**
 
-Por ejemplo, los estudiantes ahora pueden visualizar casi 100 conceptos de biología, química y otros temas de STEM solamente buscándolos en Google y luego mirando un modelo representativo de ese concepto a través de realidad aumentada dentro de los dispositivos Android e iOS.
+Solamente en un par de minutos, puedes obtener acceso gratuito en la versión online de dstack.ai. Alternativamente, puedes usar la CLI de código abierto para ejecutar dstack desde su máquina.
 
-También, Google permitirá que los estudiantes obtengan ayuda con un problema, simplemente tomando una foto con Google Lens o través de la aplicación educativa Socratic, que es propiedad de Google.
-
-Si desea leer más sobre las muchas actualizaciones centradas en la educación que anunció Google el martes, consulte [el resumen de Google](https://blog.google/outreach-initiatives/education/back-to-school-2020){:target="_blank" rel="nofollow,noreferrer"}.
-
-### **Relacionados de redes sociales**
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Google Meet: Prepara nuevas y divertidas próximas actualizaciones](https://ciberninjas.com/cambios-google-meet/)
 
@@ -59,3 +58,7 @@ Si desea leer más sobre las muchas actualizaciones centradas en la educación q
 [Seguridad Android: Una falsa actualización de Google](https://ciberninjas.com/actualizacion-fake-android-peligrosa/)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> **Repositorio de Github**: [Repositorio oficial del proyecto dstack](https://github.com/dstackai){:target="_blank" rel="nofollow,noreferrer"}
+
+> **Página web oficial de dstack**: [Página web oficial de Dstack](https://dstack.ai/){:target="_blank" rel="nofollow,noreferrer"}

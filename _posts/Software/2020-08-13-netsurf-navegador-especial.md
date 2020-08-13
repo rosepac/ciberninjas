@@ -30,7 +30,6 @@ Escrito en C, este galardonado proyecto de código abierto presenta su propio mo
 - [**Requisitos de uso de Netsurf**](#requisitos-de-uso-de-netsurf)
 - [**Versión portable de Netsurf**](#versión-portable-de-netsurf)
 - [**El compromiso con los estándares de Netsurf**](#el-compromiso-con-los-estándares-de-netsurf)
-  - [Relacionados Software](#relacionados-software)
 
 > Pequeño como un ratón, rápido como un guepardo y disponible de forma gratuita. NetSurf es un navegador web multiplataforma para RISC OS , plataformas similares a UNIX (incluido Linux), Mac OS X y más.
 
@@ -54,7 +53,7 @@ NetSurf se puede construir para varias plataformas informáticas modernas "lista
 
 A pesar de la gran cantidad de estándares que debe admitir, NetSurf hace que navegar por la web sea agradable y sin estrés al esforzarse por lograr el cumplimiento total de los estándares. Como proyecto desarrollado activamente, NetSurf tiene como objetivo mantenerse al tanto de las tecnologías web nuevas y futuras.
 
-### Relacionados Software
+### Relacionados Software <!-- omit in toc -->
 
 [▷ Visual Studio Code 1.47](https://ciberninjas.com/visual-studio-code-1-47/)
 
