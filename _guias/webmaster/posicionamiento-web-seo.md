@@ -14,11 +14,6 @@ canonical_URL: https://ciberninjas.com/posicionamiento-web-seo/
 thumbnail: "/assets/img/seo-posicionamiento-ciberninjas.webp"
 feature-img: "/assets/img/seo-posicionamiento-ciberninjas.webp"
 img: "/assets/img/seo-posicionamiento-ciberninjas.webp"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
-
 ---
 
 Las búsquedas a través de los buscadores están en constante cambio, más siempre se puede aprender los conocimientos necesarios que hagan marcar la diferencia; de lo contrario, si todo esto te parecen cuentos chinos o tu tiempo es demasiado valioso como para dedicarte a ello; puedes contar conmigo.
@@ -164,7 +159,11 @@ Hoy, casi la gente está buscando en Google usando un dispositivo móvil. En nov
 
 Para evitar contenido no deseado en los índices de búsqueda, los webmasters pueden indicar a las arañas que no rastreen archivos o directorios seguros a través del archivo Robots.txt de especificaciones en el directorio raíz del dominio. 
 
-Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente ```/< meta name= "robots" content = " no index " />```. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
+Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente:
+
+Se debe agregar a la etiqueta `meta name` = `robots` el `content` = `noindex`.
+
+Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
 
 El archivo robots.txt se analiza y le indica al robot qué páginas no se deben rastrear. Como un rastreador de motores de búsqueda puede mantener una copia en caché de este archivo, en ocasiones puede rastrear páginas que un webmaster no desea rastrear.
 
