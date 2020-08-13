@@ -137,7 +137,8 @@ Las siguientes secciones, **tratarán de una amplia variedad de puntos atractivo
 
 Para la primera comparación, probé entre Swift y Python. Me tomé algunas libertades artísticas con la colocación de las llaves en Swift para que cada línea básicamente haga lo mismo en ambos casos.
 
-```swift
+```
+swift
 import time                    | import Foundation
                                |
 result = []                    | var result = [Int]()
@@ -159,7 +160,8 @@ Sin embargo, esta prueba realmente no nos dice qué tan rápido puede ser Swift.
 
 Para ser justos, esta no es una comparación terriblemente honesta. El script Swift está utilizando una matriz dinámica, que se reasigna repetidamente a medida que aumenta de tamaño. Esto también significa que está realizando una verificación encuadrada para cada apéndice. Para corroborar esto, podemos ver su definición. Los tipos estándar rápidos como *int*, *float* y *array* no están codificados en el compilador, son estructuras definidas en la biblioteca estándar. Por lo tanto, de acuerdo con la [definición de apéndice](https://github.com/apple/swift/blob/master/stdlib/public/core/Array.swift#L1148) de la matriz, vemos que están sucediendo muchas cosas. Sabiendo esto, nivelé el campo de juego preasignando la memoria de la matriz y usando un puntero para llenar la matriz. El script resultante no es mucho más largo:
 
-```swift
+```
+swift
 import Foundation
 
 // Preallocating memory

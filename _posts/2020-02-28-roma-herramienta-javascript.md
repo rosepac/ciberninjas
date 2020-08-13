@@ -94,25 +94,29 @@ Para instalar Rome, debe tener `node` y `npm` instalado en su sistema. Si no tie
 
 Rome no está disponible a través de `npm` y debe instalarse desde GitHub. En una carpeta de su elección, clone el `rome` repositorio:
 
-```bash
+```
+bash
 git clone https://github.com/facebookexperimental/rome
 ```
 
 Luego, navega hacia él y construye `rome`:
 
-```bash
+```
+bash
 cd rome; ./scripts/build-release dist
 ```
 
 En la compilación de Windows 10 `rome` con el siguiente comando con PowerShell 7:
 
-```powershell
+```
+powershell
 cd rome && node scripts/build-release dist
 ```
 
 Ahora, instale `rome`globalmente:
 
-```undefined
+```
+undefined
 npm install -g ./dist/
 ```
 
@@ -128,13 +132,15 @@ Si bien Rome busca cumplir el papel de muchas herramientas en el ecosistema de J
 
 Primero, navegue a la carpeta de su proyecto:
 
-```bash
+```
+bash
 cd my_existing_project
 ```
 
 Ahora, cree una configuración de Rome para su proyecto. Cuando se le solicite, use la configuración recomendada:
 
-```bash
+```
+bash
 rome init
 ```
 
@@ -142,7 +148,8 @@ rome init
 
 La ejecución `rome init` con la configuración recomendada crea un archivo de configuración de Rome `rome.json`, que se ve así:
 
-```json
+```
+json
 {  "version": "^0.0.52",  "lint": {    "enabled": true  }}
 ```
 
@@ -153,7 +160,8 @@ Este archivo le dice a `rome` que debe ser al menos la versión 0.0.52 para trab
 
 El comando `rome run` ejecutará cualquier archivo que se le pase. Use este comando con el archivo principal de su proyecto, por ejemplo:
 
-```bash
+```
+bash
 rome run index.js
 ```
 
@@ -165,7 +173,8 @@ Rome todavía está en desarrollo activo y es posible que no pueda procesar corr
 
 Este comando alineará un archivo con un conjunto de pelusas predeterminadas y mostrará los diagnósticos producidos. Cuando se ejecuta sin argumentos, todos los archivos JavaScript en un proyecto están alineados. Por ejemplo:
 
-```bash
+```
+bash
 rome lint file.js
 ```
 
@@ -173,7 +182,8 @@ rome lint file.js
 
 Este comando compilará un archivo con un conjunto de transformaciones predeterminadas. Actualmente no hay opciones para que este comando especifique un subconjunto de transformaciones.
 
-```undefined
+```
+undefined
 rome compile file.js
 ```
 

@@ -44,7 +44,7 @@ Se ha incluido un nuevo espacio predeterminado denominado `java.project.referenc
 
 Las bibliotecas a las que se hace referencia se describen utilizando un conjunto de patrones globales:
 
-```
+{% highlight js %}
 1
 2
 3
@@ -53,7 +53,7 @@ Las bibliotecas a las que se hace referencia se describen utilizando un conjunto
     "library/**/*.jar", 
     "/home/username/lib/foo.jar" 
 ]
-```
+{% endhighlight %}
 
 De esta forma, todos los archivos `.jar`  de la carpeta de  `library` de dentro del espacio de trabajo y `foo.jar` en la ruta absoluta especificada se agregan a las dependencias externas del proyecto.
 
@@ -65,7 +65,7 @@ Por defecto, VS Code hará referencia a todos los archivos jar dentro del direct
 
 Si deseas excluir algunas bibliotecas del proyecto, simplemente expande `java.project.referencedLibraries` del patrón completo que aparecen en `include-exclude-sources`  y proporciona el siguiente pedazo de código dentro de los campos excluidos `exclude` field:
 
-```
+{% highlight js %}
 "java.project.referencedLibraries": { 
     "include": [ 
         "library/**/*.jar", 
@@ -75,7 +75,7 @@ Si deseas excluir algunas bibliotecas del proyecto, simplemente expande `java.pr
         "library/sources/**" 
     ] 
 }
-```
+{% endhighlight %}
 
 De esta forma, cualquier fichero jar dentro de la carpeta incluida en la ruta de `library/sources` se ignora de las dependencias externas del proyecto.
 
@@ -85,7 +85,7 @@ Por defecto, una referencia a `{binary}.jar` intentará buscar `{binary}-sources
 
 Si desea especificar manualmente un jar como archivo adjunto de origen, puede proporcionar un mapa clave-valor en el campo `sources` dentro del fichero:
 
-```
+{% highlight js %}
 "java.project.referencedLibraries": { 
     "include": [ 
         "library/**/*.jar", 
@@ -98,7 +98,7 @@ Si desea especificar manualmente un jar como archivo adjunto de origen, puede pr
         "library/bar.jar": "library/sources/bar-src.jar" 
     } 
 }
-```
+{% endhighlight %}
 
 De esta manera, `bar-src.jar` se adjunta a `bar.jar` como su fuente de código.
 
@@ -108,7 +108,7 @@ A medida que Java evoluciona, muchos desarrolladores de Java necesitan lidiar co
 
 VS Code detectará el tiempo de ejecución requerido para su proyecto y elegirá el tiempo configurado. A continuación, como ejemplo:
 
-```
+{% highlight js %}
 "java.configuration.runtimes": [
         {
             "name": "JavaSE-1.8",
@@ -130,7 +130,7 @@ VS Code detectará el tiempo de ejecución requerido para su proyecto y elegirá
             "path": "/usr/local/jdk-13"
         }
     ]
-```
+{% endhighlight %}
 
 El nombre del tiempo de ejecución debe ser uno de los siguientes: “J2SE-1.5”, “JavaSE-1.6”, “JavaSE-1.7”, “JavaSE-1.8”, “JavaSE-9”, “JavaSE-10”, “JavaSE-11”, “ JavaSE-12 "," JavaSE-13 ".
 

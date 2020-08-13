@@ -45,14 +45,14 @@ En PHP `$ php -i` en NodeJS `$ node`
 
 Los siguientes fragmentos comparan el programa de impresión 'Hello World' en ambos idiomas:
 
-```
+{% highlight js %}
 // Escribir ¡Hola Ciberninjas! en PHP
 echo '¡Hola Ciberninjas!';
-```
+{% endhighlight %}
 
-```
+{% highlight js %}
 console.log('¡Hola Ciberninjas!'); 
-```
+{% endhighlight %}
 
 Puedes ejecutar el código de Nodejs mediante el módulo [REPL](https://nodejs.org/api/repl.html){:target="blank" rel="nofollow,noreferrer"}.
 {: .notice--info}

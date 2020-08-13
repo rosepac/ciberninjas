@@ -29,14 +29,14 @@ En algunos entornos de programación, el término tipo de datos complejo (en con
 ## Soporte de Idiomas
 
 * El tipo COMPLEJO FORTRAN.
-* El estándar C99 del lenguaje de programación C incluye tipos de datos complejos y funciones matemáticas complejas en el encabezado de la biblioteca estándar ```<complex.h>```.
-* La biblioteca estándar de C++ proporciona una ```complex``` clase de plantilla, así como funciones matemáticas complejas en el encabezado ```<complex>```
-* El lenguaje de programación Go tiene tipos incorporados ```complex64``` (cada componente es flotante de 32 bits) y ```complex128``` (cada componente es flotante de 64 bits)
-* El módulo principal de Perl ```Math::Complex``` proporciona soporte para números complejos.
-* Python proporciona el tipo incorporado ```complex```. Los literales de números imaginarios se pueden especificar agregando una "j". Las funciones matemáticas complejas se proporcionan en el módulo de biblioteca estándar ```cmath```.
-* Ruby proporciona una clase ```Complex``` en el módulo de la biblioteca estándar ```complex```.
-* OCaml admite números complejos con el módulo de su biblioteca estándar ```Complex```.
-* Haskell soporta números complejos con el módulo de su biblioteca estándar ```Data.Complex``` (anteriormente llamado Complex)
+* El estándar C99 del lenguaje de programación C incluye tipos de datos complejos y funciones matemáticas complejas en el encabezado de la biblioteca estándar `<complex.h>`.
+* La biblioteca estándar de C++ proporciona una `complex` clase de plantilla, así como funciones matemáticas complejas en el encabezado `<complex>`
+* El lenguaje de programación Go tiene tipos incorporados `complex64` (cada componente es flotante de 32 bits) y `complex128` (cada componente es flotante de 64 bits)
+* El módulo principal de Perl `Math::Complex`` proporciona soporte para números complejos.
+* Python proporciona el tipo incorporado `complex`. Los literales de números imaginarios se pueden especificar agregando una "j". Las funciones matemáticas complejas se proporcionan en el módulo de biblioteca estándar `cmath`.
+* Ruby proporciona una clase `Complex` en el módulo de la biblioteca estándar `complex`.
+* OCaml admite números complejos con el módulo de su biblioteca estándar `Complex`.
+* Haskell soporta números complejos con el módulo de su biblioteca estándar `Data.Complex` (anteriormente llamado Complex)
 * Mercury proporciona números complejos con soporte completo de sobrecarga del operador en la distribución de extras, usando libcomplex_numbers .
 * Java no tiene una clase de números complejos estándar, pero existen varias implementaciones libres incompatibles de una clase de números complejos:
   * La biblioteca de Apache Commons Math proporciona números complejos para Java con su clase Complex
@@ -47,16 +47,19 @@ En algunos entornos de programación, el término tipo de datos complejo (en con
   * jcomplexnumber es un proyecto sobre implementación de números complejos en Java
   * JLinAlg incluye números complejos con precisión arbitraria.
 * Common Lisp : el estándar ANSI Common Lisp admite números complejos de flotantes, racionales y enteros de precisión arbitraria. Sus funciones matemáticas básicas se definen para números complejos, cuando corresponda. Por ejemplo, la raíz cuadrada de -1 es un número complejo:
-```
+
+{% highlight js %}
 ?  ( sqrt  -1 ) 
 #C ( 0  1 )             ; el resultado de (sqrt -1)
-```
+{% endhighlight %}
+
 * Schema: los números complejos y las funciones (p sin. Ej. ) Se incluyen en la especificación del lenguaje. Sin * embargo, su implementación es opcional en el estándar R5RS, mientras que en R6RS es obligatorio.
 * El .NET Framework proporciona System.Numerics.Complex desde la versión 4.0.
 * El Smart BASIC para iOS naturalmente admite números complejos en notación a + bi . Cualquier variable, operación * matemática o función puede aceptar números reales y complejos como argumentos y devolver números reales o complejos * dependiendo del resultado. Por ejemplo, la raíz cuadrada de -4 es un número complejo:
-```
+
+{% highlight js %}
 PRINT SQRT(-4)
-```
+{% endhighlight %}
 
 ## Referencias
 

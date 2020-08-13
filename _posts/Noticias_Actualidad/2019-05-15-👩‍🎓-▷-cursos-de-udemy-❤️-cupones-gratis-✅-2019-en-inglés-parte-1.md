@@ -140,8 +140,6 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 
 Los cursos vienen con un cupón que los hace gratuitos de forma periódica; no se puede asegurar que sigan siendo gratuitos con el paso del tiempo. Publicación con los 420 cursos..
 
-<center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcibercursos%2Fposts%2F836869853362223&amp;width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
-
 Entre mañana y pasado estaré publicando otro listado, **¡Saludos ciberninjas!**
 
 > ¡CORRED INSENSATOS!

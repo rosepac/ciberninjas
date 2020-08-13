@@ -58,8 +58,6 @@ Algunos ejemplos: [Autonomous ErgoChair 2](https://www.autonomous.ai/office-chai
 <!-- contenido -->
 Coloca Post-It en la puerta durante las llamadas o reuniones y notifica a tus amigos y familiares, que aunque estés en casa; te encuentras trabajando.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
 ## **4. Reuniones**
 
 Organiza e implementa de forma adecuada tus reuniones. Con seguridad, a tus compañeros de trabajo les gustará realizar reuniones y para ellos vas a necesitar los dispositivos adecuados para ello. Aunque los portátiles suelen poseer una cámara web, no siempre es tan buena y nítida como debería de ser; por ende, es mejor qué, tarde o temprano te hagas con una cámara externa.
@@ -102,8 +100,6 @@ Sin lugar a dudas vas a requerir unos auriculares adecuadas para trabajar desde 
 
 Comparte lo que estas haciendo con sus compañeros de trabajo a través de un calendario compartido. Las opciones gratuitas incluyen Google Calendar y Zoho, como las más conocidas; pero también, están los calendarios de Outlook, e incluso alguna APP del estilo de Simple Calendar.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
 ## **8. Seguridad**
 
 En casa, como en el trabajo, tu teléfono va a sonar y tu correo recibirá emails constantemente. Entre tanto, van a existir intentos de engaños "phissing", recibirás falsificaciones y muchas posibles estafas.
@@ -127,8 +123,6 @@ Otro utensilio que te puede hacer la vida un poco más fácil; es una [regleta c
 
 Créeme que lo último que querrás, será, tener el salón o la habitación que uses de despacho llena de molestos cables.
 <!-- Recogimos esta regleta de 12 tomacorrientes Belkin con protector contra sobretensiones por $ 22 y ya no tenemos que buscar una toma disponible. -->
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **10. Segunda pantalla**
 

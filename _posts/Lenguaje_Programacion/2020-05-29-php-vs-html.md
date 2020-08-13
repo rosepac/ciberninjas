@@ -33,11 +33,11 @@ Es visto como un lenguaje benevolente con capacidades para interactuar efectivam
 
 ## **Ejemplo de Código PHP**
 
-```
+{% highlight js %}
 <?php   
 echo "Bienvenido a Ciberninjas";
 ?>
-```
+{% endhighlight %}
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -47,7 +47,7 @@ HTML significa lenguaje de marcado de hipertexto. Ayuda en la creación de sitio
 
 ## **Ejemplo de Código HTML**
 
-```
+{% highlight js %}
 <!DOCTYPE html>
 <html>
   
@@ -57,7 +57,7 @@ HTML significa lenguaje de marcado de hipertexto. Ayuda en la creación de sitio
 </body>
   
 </html>
-```
+{% endhighlight %}
 
 ## **Características de PHP**
 

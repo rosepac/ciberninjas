@@ -94,18 +94,18 @@ La presencia de un " `/robots.txt`" archivo vacío no tiene una semántica asoci
 
 El siguiente `/robots.txt`archivo " " de ejemplo especifica que ningún robot debe visitar una URL que comience con " `/cyberworld/map/`" o " `/tmp/`" o `/foo.html`:
 
-```
+{% highlight js %}
 # robots.txt para http://www.example.com/
 
 Agente de usuario: *
 No permitir: / cyberworld / map / # Este es un espacio de URL virtual infinito
 No permitir: / tmp / # estos pronto desaparecerán
 No permitir: /foo.html
-```
+{% endhighlight %}
 
 Este " `/robots.txt`" archivo de ejemplo especifica que ningún robot debe visitar ninguna URL que comience con " `/cyberworld/map/`", excepto el robot llamado " `cybermapper`":
 
-```
+{% highlight js %}
 # robots.txt para http://www.example.com/
 
 Agente de usuario: *
@@ -114,15 +114,15 @@ No permitir: / cyberworld / map / # Este es un espacio de URL virtual infinito
 # Cybermapper sabe a dónde ir.
 Usuario-agente: cybermapper
 Rechazar:
-```
+{% endhighlight %}
 
 Este ejemplo indica que ningún robot debe visitar más este sitio:
 
-```
+{% highlight js %}
 # vete
 Agente de usuario: *
 No permitir: /
-```
+{% endhighlight %}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

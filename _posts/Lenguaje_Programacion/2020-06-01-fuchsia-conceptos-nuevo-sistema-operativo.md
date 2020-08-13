@@ -230,10 +230,10 @@ Para ejecutar componentes en su dispositivo Fuchsia, consulte [Ejecutar un compo
 
 Para apagar o reiniciar Fuchsia, use los siguientes comandos `dm` en el shell:
 
-```
+{% highlight js %}
 dm shutdown
 dm reboot
-```
+{% endhighlight %}
 
 Consulte [Conectarse a un shell de destino](https://fuchsia.dev/docs/development/build/fx#connect-to-a-target-shell){:target="_blank" rel="nofollow,noreferrer"} para obtener más información.
 
@@ -264,9 +264,9 @@ Para probar Fuchsia en su dispositivo, consulte [Ejecución de pruebas como comp
 
 La mayoría de los componentes gráficos en Fuchsia usan el compositor del sistema [Scenic](https://fuchsia.dev/docs/concepts/graphics/scenic/scenic){:target="_blank" rel="nofollow,noreferrer"}. Puede iniciar dichos componentes (comúnmente encontrados en `/system/apps`) usando el comando `present_view`, por ejemplo:
 
-```
+{% highlight js %}
 present_view fuchsia-pkg://fuchsia.com/spinning_square_view#meta/spinning_square_view.cmx
-```
+{% endhighlight %}
 
 Ver [aplicaciones de ejemplo escénicas](https://fuchsia.googlesource.com/fuchsia/+/master/src/ui/examples){:target="_blank" rel="nofollow,noreferrer"}.
 

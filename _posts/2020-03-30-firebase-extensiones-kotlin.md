@@ -83,8 +83,6 @@ remoteConfig.setConfigSettingsAsync (configSettings)
 
 No hubiéramos podido lanzar estas bibliotecas KTX sin la ayuda de todos los entusiastas de Kotlin en la comunidad Firebase. Nos gustaría dar un agradecimiento especial a [Rosário Pereira Fernandes](https://github.com/rosariopfernandes), quien contribuyó con un código y documentación excelentes al esfuerzo de KTX.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1353583048161880&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
 ## Licencia
 
 **Fuente**: [Se abren las extensiones de Firebase enfocadas a Kotlin](https://firebase.googleblog.com/2020/03/firebase-kotlin-ga.html "Se abren las extensiones de Firebase enfocadas a Kotlin"){:target="_blank" rel="nofollow,noreferrer"}

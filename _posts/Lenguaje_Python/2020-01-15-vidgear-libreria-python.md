@@ -92,7 +92,7 @@ Además, la API VideoGear puede proporcionar acceso interno a las API [CamGear](
 
 Código para generar el video estabilizado API VideoGear anterior ( *vea ejemplos de uso más detallados [aquí](https://github.com/abhiTronix/vidgear/wiki/Real-time-Video-Stabilization#usage){:target="_blank" rel="nofollow noreferrer"}* ):
 
-```
+{% highlight js %}
 # import required libraries
 from vidgear.gears import VideoGear
 import numpy as np
@@ -145,7 +145,7 @@ cv2.destroyAllWindows()
 # safely close both video streams
 stream_org.stop()
 stream_stab.stop()
-```
+{% endhighlight %}
 
 ### VideoGear API Guide:
 
@@ -181,7 +181,7 @@ ScreenGear proporciona un contenedor de subprocesos múltiples de alto nivel alr
 
 Código para generar el resultado anterior:
 
-```
+{% highlight js %}
 # import required libraries
 from vidgear.gears import PiGear
 import cv2
@@ -219,7 +219,7 @@ cv2.destroyAllWindows()
 
 # safely close video stream
 stream.stop()
-```
+{% endhighlight %}
 
 ### Guía de la API de ScreenGear:
 
@@ -284,17 +284,17 @@ Antes de instalar VidGear, debe verificar que se cumplan las siguientes dependen
 
 - **`OpenCV:`**VidGear debe requerir que los binarios habilitados para Python OpenCV (3.0+) estén instalados en su máquina para sus funciones principales. Para su instalación, puede seguir estos tutoriales en línea para [Linux](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/){:target="_blank" rel="nofollow noreferrer"} y [Raspberry Pi](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/){:target="_blank" rel="nofollow noreferrer"}, de lo contrario, instálelo a través de pip:
 
-  ```
-    $ pip install -U opencv-python       # or install `opencv-contrib-python` similarly
-  ```
+{% highlight js %}
+  $ pip install -U opencv-python       # or install `opencv-contrib-python` similarly
+{% endhighlight %}
 
 - **`FFmpeg:`** VidGear debe requerir FFmpeg por sus poderosas capacidades de compresión y codificación de video. 🌟Siga esta [**página wiki de FFmpeg**](https://github.com/abhiTronix/vidgear/wiki/FFmpeg-Installation) para su instalación.🌟
 
 - **`picamera:`**Se requiere si usa módulos de cámara Raspberry Pi ( *como el módulo de cámara OmniVision OV5647* ) con su máquina Raspberry Pi. Puede instalarlo fácilmente a través de pip:
 
-	```
-	  $ pip install picamera
-	```
+{% highlight js %}
+  $ pip install picamera
+{% endhighlight %}
 
 ## Opciones de instalación disponibles:
 
@@ -302,9 +302,9 @@ Antes de instalar VidGear, debe verificar que se cumplan las siguientes dependen
 
 > La mejor opción para instalar VidGear **rápidamente** .
 
-```
+{% highlight js %}
   pip3 instalar vidgear
-```
+{% endhighlight %}
 
 ### Opción 2: Descarga del archivo de lanzamiento
 
@@ -318,12 +318,12 @@ Las versiones de VidGear están disponibles para descargar como paquetes en la [
 
 Puede clonar la `testing`rama de este repositorio para el desarrollo y, por lo tanto, puede instalar de la siguiente manera:
 
-```
+{% highlight js %}
 git clone https://github.com/abhiTronix/vidgear.git
   cd vidgear
  prueba de pago git
  instalación de sudo pip3 .
-```
+{% endhighlight %}
 
 ## Documentación
 
@@ -334,28 +334,27 @@ La documentación completa para todas las clases y funciones de VidGear se puede
 ## Pruebas
 
 - **Requisitos previos: las** pruebas de VidGear requieren algunas *dependencias y datos adicionales* que se pueden descargar manualmente de la siguiente manera:
+- **Clonar e instalar [rama de pruebas](https://github.com/abhiTronix/vidgear#option-3-clone-the-repo)**
+- **Descargue algunas bibliotecas de Python adicionales:**
 
-	- **Clonar e instalar [rama de pruebas](https://github.com/abhiTronix/vidgear#option-3-clone-the-repo)**
-
-	- **Descargue algunas bibliotecas de Python adicionales:**
-
-		```
-		 pip3 instala seis
-		 pip3 instalar pytest
-		```
+{% highlight js %}
+ pip3 instala seis
+ pip3 instalar pytest
+{% endhighlight %}
 
 	- **Descargar el conjunto de datos de prueba:** para realizar pruebas, se requiere un *conjunto de datos de prueba* adicional, que se puede descargar *(al directorio temporal)* ejecutando el [*script bash de la*](https://github.com/abhiTronix/vidgear/blob/testing/scripts/bash/prepare_dataset.sh) siguiente manera:
 
-		```
-		 chmod + x scripts / bash / prepare_dataset.sh
-		 .scripts / bash / prepare_dataset.sh                # para Windows, use `scripts / bash / prepare_dataset.sh`
-		```
+{% highlight js %}
+ chmod + x scripts / bash / prepare_dataset.sh
+ .scripts / bash / prepare_dataset.sh                # para Windows, use `scripts / bash /
+ prepare_dataset.sh`
+{% endhighlight %}
 
 - **Ejecutar pruebas:** luego se pueden ejecutar varias pruebas de VidGear con `pytest`( *en la carpeta raíz de VidGear* ) como se muestra a continuación:
 
-	```
-	pytest -sv                                    # -sv para resultados detallados.
-	```
+{% highlight js %}
+pytest -sv                                    # -sv para resultados detallados.
+{% endhighlight %}
 
 ## Legados de Python compatibles
 
@@ -399,7 +398,6 @@ Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.co
 - [Pruebas](#pruebas)
 - [Legados de Python compatibles](#legados-de-python-compatibles)
 - [Licencia](#licencia)
-  - [Relacionados](#relacionados)
 
 ### **Relacionados** <!-- omit in toc -->
 

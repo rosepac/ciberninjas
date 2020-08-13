@@ -49,15 +49,15 @@ La demostración de imagen estática muestra el avatar posicionado a partir de u
 
 Instale dependencias y prepare el directorio de compilación:
 
-```
+{% highlight js %}
 yarn
-```
+{% endhighlight %}
 
 Para ver los archivos en busca de cambios e iniciar un servidor de desarrollo:
 
-```
+{% highlight js %}
 yarn watch
-```
+{% endhighlight %}
 
 ## Soporte de la plataforma
 
@@ -74,18 +74,18 @@ Las demostraciones son compatibles con Desktop Chrome y iOS Safari; también deb
 
 3. Cree un nuevo grupo y asígnele el nombre 'ilustración', junto al grupo 'esqueleto'. Este es el grupo donde puede poner todos los caminos para su ilustración.
 
-	- Acoplar todos los subgrupos para que 'ilustración' solo contenga elementos de ruta.
-	- Las rutas compuestas no son compatibles en este momento.
-	- La estructura del archivo de trabajo debería verse así:
+- Acoplar todos los subgrupos para que 'ilustración' solo contenga elementos de ruta.
+- Las rutas compuestas no son compatibles en este momento.
+- La estructura del archivo de trabajo debería verse así:
 
-	```
-	    [Layer 1]
-	    |---- skeleton
-	    |---- illustration
-	          |---- path 1
-	          |---- path 2
-	          |---- path 3
-	```
+{% highlight js %}
+[Layer 1]
+|---- skeleton
+    |---- illustration
+      |---- path 1
+      |---- path 2
+      |---- path 3
+{% endhighlight %}
 
 4. Incruste el esqueleto de muestra en el grupo 'esqueleto' en su ilustración moviendo las articulaciones.
 

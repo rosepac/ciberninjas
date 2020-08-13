@@ -64,19 +64,19 @@ Ahora, echemos un vistazo a cómo el marcado de un botón primario difiere entre
 <!-- contenido -->
 ## **Botón principal de Bootstrap**
 
-```
+{% highlight js %}
 <button type="button" class="btn btn-primary">Primary</button>
-```
+{% endhighlight %}
 
 ## **Botón de Tailwind CSS**
 
-```
+{% highlight js %}
 <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
 
   Button
 
 </button>
-```
+{% endhighlight %}
 
 Como se puede comprobar el etiquetado es bastante más sencillo en el caso de Bootstrap, por lo que puede parecer poco comprensible el uso de Tailwind, ya que es más simple Bootstrap.
 
@@ -90,7 +90,7 @@ Además, Tailwind también ofrece la posibilidad de crear clases como `.btn-blue
 
 Por ejemplo:
 
-```
+{% highlight js %}
 <!-- Extracting component classes: -->
 <button class="btn btn-blue">
   Button
@@ -114,7 +114,7 @@ Por ejemplo:
   }
 
 </style>
-```
+{% endhighlight %}
 
 En lugar de SASS, Tailwind CSS utiliza POST-CSS y un archivo de configuración para configurar las variables y la hojas  de estilo. Se pueden agregar, eliminar o actualizar colores, espacios, fuentes, sombras, cualquier cosa que se te ocurra.
 

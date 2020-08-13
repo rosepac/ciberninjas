@@ -47,9 +47,9 @@ Actualmente es posible usar CadQuery para sus propios proyectos de 3 maneras dif
 
 La forma más fácil de instalar CadQuery y sus dependencias es usar conda:
 
-```
+{% highlight js %}
 conda install -c conda-forge -c cadquery cadquery=2
-```
+{% endhighlight %}
 
 Para aquellos que estén interesados, el [repositorio conda-packages](https://github.com/CadQuery/conda-packages) contiene información de compilación, paquetes y modificaciones para el canal conda de CadQuery.
 
@@ -78,9 +78,9 @@ CadQuery admite el portátil Jupyter de fábrica con la extensión jupyter-cadqu
 
 CadQuery fue construido para ser utilizado como una biblioteca Python sin ninguna GUI. Esto lo hace ideal para casos de uso como la integración en servidores o la creación de scripts científicos y de ingeniería. Use Anaconda / Miniconda para instalar CadQuery, y luego agregue `import cadquery`a la parte superior de sus scripts Python.
 
-```
+{% highlight js %}
 conda install -c conda-forge -c cadquery cadquery=2
-```
+{% endhighlight %}
 
 ## Obteniendo ayuda
 

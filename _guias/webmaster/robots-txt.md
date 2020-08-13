@@ -2,7 +2,7 @@
 layout: page
 author: rosepac
 bootstrap: true
-title: 🥇 ▷ La Guía Web Completa de Rastreadores Web y robots.txt 🤖
+title: 🥇 ▷ La Guía Web Completa de Rastreadores Web y robots.txt
 description: "Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
 excerpt: "Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
 published: true

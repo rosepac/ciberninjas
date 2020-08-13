@@ -52,75 +52,74 @@ The app is developed using [Ionic Framework](https://ionicframework.com/) and [C
 
 kubenav requires [Node v8.6.0](https://nodejs.org/) or later, and NPM version 5.6.0 or later (which is usually automatically installed with the required version of Node). If you have Node and NPM installedm, install Ionic CLI:
 
-```
+{% highlight js %}
 npm install -g ionic
-```
+{% endhighlight %}
 
 Clone the repository, login to GitHub packages and install the required dependencies:
 
-```
+{% highlight js %}
 git clone git@github.com:kubenav/kubenav.git
 cd kubenav
 
 npm login --registry=https://npm.pkg.github.com
 npm install
-```
+{% endhighlight %}
 
 To use kubenav in you browser you need to start the development server. The server listening on port `14122`:
 
-```
+{% highlight js %}
 npm run server
-```
+{% endhighlight %}
 
 Now you can start the app and open [localhost:8100](http://localhost:8100/) in your browser:
 
-```
+{% highlight js %}
 ionic serve
-```
+{% endhighlight %}
 
 You must build the kubenav project at least once before running on any native platform:
 
-```
+{% highlight js %}
 ionic build
-```
+{% endhighlight %}
 
 Every time you perform a build (e.g. `ionic build`) that changes your web directory (default: `build`), you'll need to copy those changes down to your native projects:
 
-```
+{% highlight js %}
 npx cap sync
-```
+{% endhighlight %}
 
 The native iOS and Android projects are opened in their standard IDEs (Xcode and Android Studio, respectively). Use the IDEs to run kubenav:
 
-```
+{% highlight js %}
 npx cap open ios
 npx cap open android
 npx cap open electron
-```
+{% endhighlight %}
 
 You can also run the native iOS or Android app with live reloading:
 
-```
+{% highlight js %}
 ionic capacitor run android -l --address=0.0.0.0
 ionic capacitor run ios -l --address=0.0.0.0
-```
+{% endhighlight %}
 
 ## Release
 
 Every new release is created from the `master` branch. To create a new release the `version` field in the `package.json` file must be updated and a new tag must be set. This process is automated via `Makefile`:
 
-```
+{% highlight js %}
 make release-patch
 make release-minor
 make release-major
-
-```
+{% endhighlight %}
 
 When the tag is pushed the changelog will be generated via GitHub Action and saved to the [CHANGELOG.md](https://github.com/kubenav/kubenav/blob/master/CHANGELOG.md) file. When the changelog was generated a new GitHub release can be created with the following naming scheme and the changelog for the current tag as description:
 
-```
+{% highlight js %}
 Version <TAG> (yyyy-mm-dd)
-```
+{% endhighlight %}
 
 After the the release was created another GitHub Action is executed to create the Electron app for macOS, Linux and Windows via [electron-builder](https://www.electron.build/). These files are added to the corresponding release. The following formats are available:
 
@@ -133,7 +132,7 @@ After the the release was created another GitHub Action is executed to create th
 
 The native iOS and Android app is built manually and submitted to the App Store and Google Play. To prepare the app run the following commands:
 
-```
+{% highlight js %}
 export REACT_APP_VERSION=
 
 ionic build
@@ -142,7 +141,7 @@ npx cap sync
 
 npx cap open ios
 npx cap open android
-```
+{% endhighlight %}
 
 In the standard IDE for iOS and Android run a clean build and follow the steps to publish the app.
 ## Licencia

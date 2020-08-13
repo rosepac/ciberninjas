@@ -52,20 +52,20 @@ Esta biblioteca admite conmutadores Cherry y Alps, y tiene perfiles de teclas pr
 
 Cada tecla comienza con la configuración predeterminada (provista en `settings.scad`) que se anula en cada llamada de función. La clave más simple que puede hacer sería:
 
-```
+{% highlight js %}
 key();
-```
+{% endhighlight %}
 
 [![una llave de cereza estándar de pantano](https://github.com/rsheldiii/KeyV2/raw/master/assets/example1.JPG)](https://github.com/rsheldiii/KeyV2/blob/master/assets/example1.JPG)
 
 Que es una tecla DCS estándar de la fila 5 de pantano (fila de número / función). Para cambiar cómo se genera la clave, puede modificar la configuración directamente o agregar funciones modificadoras predefinidas de esta manera:
 
-```
+{% highlight js %}
 // directly modified setting
 $stem_inset = 1;
 // settings changed through modifier function
 sa_row(2) 2u() key();
-```
+{% endhighlight %}
 
 ¡Puede encadenar tantas funciones modificadoras como desee!
 
@@ -85,9 +85,9 @@ Es posible que estas funciones modificadoras no cubran todos los casos de uso; e
 
 Se recomienda utilizar un soporte de vástago con punta y establecerlo `$extra_long_stem_support = true`si planea imprimir estas teclas.
 
-```
+{% highlight js %}
 60_percent_default("dcs") key();
-```
+{% endhighlight %}
 
 [![un diseño estándar del 60 por ciento](https://github.com/rsheldiii/KeyV2/raw/master/assets/layout.png)](https://github.com/rsheldiii/KeyV2/blob/master/assets/layout.png)
 
@@ -97,22 +97,22 @@ Tenga cuidado de anular accidentalmente algo que el diseño hace por usted.
 
 Digamos que desea generar algunas teclas estabilizadas 2u para un Ergodox, podría hacer algo como esto:
 
-```
+{% highlight js %}
 legends = ["Enter", "Escape", "Tab", "Shift"];
 for(y=[0:3]) {
   translate_u(0,y) 2u() dsa_row() stabilized() cherry() legend(legends[y], [0,0, 6]) key();
 }
-```
+{% endhighlight %}
 
 [![un juego de 2 llaves con leyendas](https://github.com/rsheldiii/KeyV2/raw/master/assets/example3.JPG)](https://github.com/rsheldiii/KeyV2/blob/master/assets/example3.JPG)
 
 La `key()`función también es compatible con los niños, y los colocará en el centro de la parte superior de la tecla, si desea diseñar rápidamente sus propias teclas artesanales:
 
-```
+{% highlight js %}
 cherry() key() {
   translate([-6.25,2.3,-0]) scale(0.074) import("Assieme1.stl");
 };
-```
+{% endhighlight %}
 
 [![una llave artesanal sin rostro](https://github.com/rsheldiii/KeyV2/raw/master/assets/example4.JPG)](https://github.com/rsheldiii/KeyV2/blob/master/assets/example4.JPG)
 
@@ -138,23 +138,23 @@ Aquí hay un ejemplo de cómo ajustar la configuración y el código para crear 
 
 En `key_shape()`en `shapes.scad`:
 
-```
+{% highlight js %}
  else if ($key_shape_type == "stop_sign") {
    stop_sign_shape(size, delta, progress);
  }
-```
+{% endhighlight %}
 
 en `src/shapes/stop_sign.scad`:
 
-```
+{% highlight js %}
 module stop_sign_shape(size, delta, progress){
   rotate([0,0,22.5]) circle(d=size[0] - delta[0], $fn=8);
 }
-```
+{% endhighlight %}
 
 En `keys.scad`:
 
-```
+{% highlight js %}
 union() {
   // make the font smaller
   $font_size = 3;
@@ -172,7 +172,7 @@ union() {
     translate_u(x) cherry() key(legends[x]);
   }
 }
-```
+{% endhighlight %}
 
 [![tres llaves en forma de señal de stop con leyendas](https://github.com/rsheldiii/KeyV2/raw/master/assets/example5.JPG)](https://github.com/rsheldiii/KeyV2/blob/master/assets/example5.JPG)
 
