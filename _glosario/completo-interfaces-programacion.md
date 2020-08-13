@@ -14,7 +14,7 @@ author: rosepac
 bootstrap: true
 ---
 
-[👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn--inverse .btn--large .align-center}
+[👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 *****
 
@@ -48,7 +48,7 @@ API son las interfaces de programación que permiten al software interactuar con
 
 Identificar al usuario de la API. Las técnicas comunes para la autenticación incluyen API Keys y OAuth.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## C
@@ -85,7 +85,7 @@ Las solicitudes de origen cruzado permiten que JavaScript en sitios web realice 
 
 Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API y el componente básico para muchas bibliotecas de clientes.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## D
 
@@ -93,7 +93,7 @@ Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API
 
 El Modelo de objetos de documento define una forma estándar de representar e interactuar con objetos dentro de documentos HTML y XML.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## E
 
@@ -117,7 +117,7 @@ Encabezado que designa una versión de una representación. Útil para el almace
 
 Un encabezado que le dice al cliente que puede almacenar en caché una respuesta hasta cierto tiempo.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## G
@@ -130,7 +130,7 @@ Un proxy que se traduce entre protocolos.
 
 Es el método HTTP para recuperar recursos de una API RESTful.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## H
 
@@ -158,7 +158,7 @@ La parte de una solicitud HTTP que le dice al servidor lo que el cliente quiere 
 
 El Protocolo seguro de transferencia de hipertexto es la forma en que los sitios web y las API se comunican de forma segura a través de Internet.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## I
 
@@ -170,7 +170,7 @@ Cuando los efectos secundarios de múltiples solicitudes son iguales a una sola 
 
 Encabezado que solicita obtener una representación solo si la representación ha cambiado desde la última solicitud. Se utiliza para solicitudes GET condicionales.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## J
 
@@ -186,7 +186,7 @@ Un tipo hipermedia que normaliza el hipervínculo y la incorporación de recurso
 
 JSON con relleno es una técnica utilizada para superar las restricciones de dominio cruzado impuestas por los navegadores para permitir que los datos se recuperen de sistemas distintos al que sirve la página.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## L
@@ -199,7 +199,7 @@ El tiempo que tarda la solicitud API en pasar de la solicitud a la respuesta.
 
 Limitar el consumo de una API a un cierto número de solicitudes por período de tiempo.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## M
 
@@ -207,7 +207,7 @@ Limitar el consumo de una API a un cierto número de solicitudes por período de
 
 Un estándar industrial de marcado semántico utilizado para describir el contenido de un documento.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## O
 
@@ -215,7 +215,7 @@ Un estándar industrial de marcado semántico utilizado para describir el conten
 
 Marco de autorización estándar abierto. Otorga acceso en nombre de un usuario final sin compartir directamente las credenciales.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## P
 
@@ -239,7 +239,7 @@ El URI que va después de la URL base y apunta hacia la funcionalidad API solici
 
 El método HTTP para actualizar recursos con una API RESTful.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## R
 
@@ -259,7 +259,7 @@ La transferencia de estado representativo es un patrón arquitectónico para int
 
 Marco de descripción de recursos. Marco enfocado en contenido semántico.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## S
@@ -296,7 +296,7 @@ Un protocolo criptográfico que asegura el tráfico en Internet.
 
 El servidor no almacena el contexto del cliente entre solicitudes.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## T
 
@@ -312,7 +312,7 @@ Combinando múltiples API para crear una nueva aplicación web.
 
 El cliente envía varias solicitudes HTTP a la vez y el servidor responde en el orden en que las recibe.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## U
 
@@ -324,7 +324,7 @@ Encabezado que proporciona información sobre la ubicación de un recurso recié
 
 Encabezado que le dice al cliente la última vez que cambió la representación. Importante para las solicitudes condicionales If-Modified-Since.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## V
 
@@ -338,10 +338,10 @@ Asignar un identificador único para realizar un seguimiento del estado de la AP
 
 XML es un lenguaje de marcado extensible que se utiliza para describir documentos y datos.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 
-[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -12,9 +12,10 @@ canonical_URL: https://ciberninjas.com/glosario/trafico-web/
 
 El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn--inverse .btn--large .align-center}
+[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 
-[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn-primary .btn-lg .btn-block}
+[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-primary .btn-lg .btn-block}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
