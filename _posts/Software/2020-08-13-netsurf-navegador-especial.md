@@ -7,11 +7,12 @@ tags:
 - Actualidad
 thumbnail: /assets/img/blog/netsurf-logo.webp
 feature-img: /assets/img/blog/netsurf-logo.webp
-title: '▷ Bevy: Un motor de videojuegos construido en Rust'
+title: '▷ Netsurf: Un navegador de Internet alternativo y muy peculiar'
 description: >-
-  Bevy es un motor de videojuegos basado en datos refrescantemente simple y construido en Rust. ¡Es gratis y de código abierto para siempre!
+  Netsurf está escrito en C y publicado bajo la licencia pública GNU versión 2. NetSurf tiene su propio motor de diseño y renderizado completamente escrito desde cero
 excerpt: >-
-  Bevy es un motor de videojuegos basado en datos refrescantemente simple y construido en Rust. ¡Es gratis y de código abierto para siempre!canonical_URL: https://ciberninjas.com/netsurf-navegador-especial/
+  Netsurf está escrito en C y publicado bajo la licencia pública GNU versión 2. NetSurf tiene su propio motor de diseño y renderizado completamente escrito desde cero
+canonical_URL: https://ciberninjas.com/netsurf-navegador-especial/
 permalink: /netsurf-navegador-especial/
 date: 2020-08-13 07:20:46
 published: true

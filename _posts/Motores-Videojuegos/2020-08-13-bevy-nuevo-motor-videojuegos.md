@@ -13,7 +13,8 @@ title: '▷ Bevy: Un motor de videojuegos construido en Rust'
 description: >-
   Bevy es un motor de videojuegos basado en datos refrescantemente simple y construido en Rust. ¡Es gratis y de código abierto para siempre!
 excerpt: >-
-  Bevy es un motor de videojuegos basado en datos refrescantemente simple y construido en Rust. ¡Es gratis y de código abierto para siempre!canonical_URL: https://ciberninjas.com/bevy-motor-videojuegos-rust/
+  Bevy es un motor de videojuegos basado en datos refrescantemente simple y construido en Rust. ¡Es gratis y de código abierto para siempre!
+canonical_URL: https://ciberninjas.com/bevy-motor-videojuegos-rust/
 permalink: /bevy-motor-videojuegos-rust/
 date: 2020-08-13 07:10:46
 published: true
