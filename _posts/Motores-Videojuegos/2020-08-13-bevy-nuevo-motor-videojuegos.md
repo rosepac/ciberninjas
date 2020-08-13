@@ -7,8 +7,8 @@ tags:
 - Actualidad
 - Motor de Videojuegos
 - Rust
-thumbnail: /assets/img/blog/bevy-logo.webp
-feature-img: /assets/img/blog/bevy-logo.webp
+thumbnail: /assets/img/blog/bevy_logo.webp
+feature-img: /assets/img/blog/bevy_logo.webp
 title: '▷ Bevy: Un motor de videojuegos construido en Rust'
 description: >-
   Bevy es un motor de videojuegos basado en datos refrescantemente simple y construido en Rust. ¡Es gratis y de código abierto para siempre!
@@ -54,7 +54,7 @@ Bevy es un motor de juego y un framework de aplicación refrescantemente simple 
 Propiedades: obtenga y establezca campos de componentes de forma dinámica utilizando una versión de cadena de sus nombres
 - Transformaciones jerárquicas: crea relaciones padre-hijo entre entidades que propagan transformaciones hacia abajo en la jerarquía
 
-### Relacionados
+### Otros
 
 [▷ Visual Studio Code 1.47](https://ciberninjas.com/visual-studio-code-1-47/)
 
@@ -64,4 +64,4 @@ Propiedades: obtenga y establezca campos de componentes de forma dinámica utili
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-> **Fuente**: [TikTok lanza una nueva aplicación en Amazon Fire TV](https://www.theverge.com/2020/8/6/21357300/tiktok-amazon-fire-tv-app-launch-free-tv-mobile){:target="_blank" rel="nofollow,noreferrer"}
+> **Fuente**: [Documentación de Bevy](https://bevyengine.org/learn/book/introduction/){:target="_blank" rel="nofollow,noreferrer"}

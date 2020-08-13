@@ -15,7 +15,7 @@ excerpt: >-
   El equipo de Go ha anunciado recientemente el lanzamiento de Go 1.15, puede acceder a la nueva versión desde [la página de descarga oficial.
 canonical_URL: https://ciberninjas.com/go-1-15/
 permalink: /go-1-15/
-date: 2020-08-13 07:01:46
+date: 2020-08-13 07:05:46
 published: true
 
 ---
