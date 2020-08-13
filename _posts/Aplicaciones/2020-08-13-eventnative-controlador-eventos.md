@@ -12,8 +12,8 @@ description: >-
   Capture todos los eventos que genera tu aplicación y transmítelos a su almacén de datos preferido con soporte actual para RedShift y BigQuery. EventNative se puede implementar con 1 clic en la infraestructura de su elección.
 excerpt: >-
   Capture todos los eventos que genera tu aplicación y transmítelos a su almacén de datos preferido con soporte actual para RedShift y BigQuery. EventNative se puede implementar con 1 clic en la infraestructura de su elección.
-canonical_URL: https://ciberninjas.com/telegram-vs-apple/
-permalink: /telegram-vs-apple/
+canonical_URL: https://ciberninjas.com/eventnative-controlador-eventos/
+permalink: /eventnative-controlador-eventos/
 date: 2020-08-13 01:13:46
 published: true
 
