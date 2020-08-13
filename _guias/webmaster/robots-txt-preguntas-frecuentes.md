@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 🤖 ▷ Preguntas Frecuentes Sobre robots.txt
-description: "🕷 Preguntas Frecuentes Sobre robots.txt"
-excerpt: "🕷 Preguntas Frecuentes Sobre robots.txt"
+title: ▷ Preguntas Frecuentes Sobre robots.txt
+description: "Encuentra todas las preguntas más habituales sobre el archivo robots.txt"
+excerpt: "Encuentra todas las preguntas más habituales sobre el archivo robots.txt"
 published: true
 comments: false
 date: 2020-03-10
@@ -283,10 +283,12 @@ No pongas ningún lenguaje HTML o inglés "¿Quién demonios eres?" texto en él
 ## **¿Cómo evito que los robots escaneen mi sitio?**
 
 La forma rápida de evitar que los robots visiten su sitio es poner estas dos líneas en el archivo /robots.txt en su servidor:
-```
+
+{% highlight js %}
 User-agent: *
 Disallow: /
-```
+{% endhighlight %}
+
 Esto solo se cumplirá con robots con buen comportamiento.
 
 Ver también:
@@ -301,7 +303,8 @@ Ver también:
 El concepto básico es simple: al escribir un archivo de texto estructurado puede indicar a los robots que ciertas partes de su servidor están fuera del alcance de algunos o todos los robots. 
 
 Se explica mejor con un ejemplo:
-```
+
+{% highlight js %}
 # /robots.txt file for http://webcrawler.com/
 # mail webmaster@webcrawler.com for constructive criticism
 
@@ -314,7 +317,8 @@ Disallow: /
 User-agent: *
 Disallow: /tmp
 Disallow: /logs
-```
+{% endhighlight %}
+
 Las dos primeras líneas, que comienzan con '#', especifican un comentario
 
 El primer párrafo especifica que el robot llamado 'webcrawler' no tiene nada prohibido: puede ir a cualquier parte.
@@ -369,13 +373,16 @@ Si desea más control, cambie de proveedor a un host virtual.
 A veces no puedes crear un archivo robots.txt porque no administra todo el servidor. No todo está perdido: hay un nuevo estándar para usar etiquetas META HTML para mantener a los robots fuera de sus documentos.
 
 La idea básica es que si incluye la etiqueta -noindex- siguiente en su documento HTML, ese documento no será indexado:
-```
+
+{% highlight js %}
 <meta name="robots" content="noindex"= />
-```
+{% endhighlight %}
+
 En cambio si le incluyes -nofollow- los enlaces en ese documento no serán analizados por el robot.:
-```
+
+{% highlight js %}
 <meta name="robots" content="nofollow" />
-```
+{% endhighlight %}
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
@@ -431,16 +438,21 @@ A algunas personas les preocupa que la inclusión de páginas o directorios en e
 La primera respuesta es una solución alternativa: puede poner todos los archivos que no desea que los robots visiten en un subdirectorio separado, hacer que ese directorio no se pueda enumerar en la web (configurando su servidor), luego coloque sus archivos allí, y enumere solo el nombre del directorio en /robots.txt. Ahora, un robot mal intencionado no atravesará ese directorio a menos que usted u otra persona coloque un enlace directo en la web a uno de sus archivos, y luego no sea culpa de /robots.txt.
 
 En lugar de utilizar:
-```
+
+{% highlight js %}
 User-Agent: *
 Disallow: /foo.html
 Disallow: /bar.html
-```
+{% endhighlight %}
+
 Usa:
-```
+
+{% highlight js %}
+
 User-Agent: *
 Disallow: /norobots/
-```
+{% endhighlight %}
+
 Posteriormente crea un directorio "norobots", colocando foo.html y bar.html en él, y configure su servidor para que no genere una lista de directorios para ese directorio. Ahora todo lo que un atacante aprendería es que tienes un directorio "norobots", pero no podrá enumerar los archivos incluidos; necesitaría adivinar sus nombres.
 
 Sin embargo, en la práctica esta es una mala idea, es demasiado frágil. Alguien puede publicar un enlace a sus archivos en su sitio. O puede aparecer en un archivo de registro de acceso público, digamos del servidor proxy de su usuario, o tal vez aparezca en el registro del servidor web de alguien como Referer. O alguien puede configurar mal su servidor en una fecha futura, "arreglarlo" para mostrar una lista de directorio. Lo que me lleva a la respuesta real:

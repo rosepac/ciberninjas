@@ -120,7 +120,7 @@ Si quieres conocer todos los comandos existentes dentro de Chocolatey, solo debe
 - _**sync**_: sincroniza con el software instalado en el sistema &#8211; genera paquetes faltantes
 - _**optimize**_: optimiza la instalación, reduciendo el uso de espacio
 
-Por favor, se debe ejecutar chocolate con ```choco command -help``` para mostrar la ayuda específica de cada comando.
+Por favor, se debe ejecutar chocolate con `choco command -help` para mostrar la ayuda específica de cada comando.
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -130,15 +130,15 @@ Para la instalación existen dos opciones, podemos abrir el **Cmd.exe** o bien e
 
 - En el Cmd.exe, copiar esta línea de código:
 
-```
+{% highlight js %}
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-```
+{% endhighlight %}
 
 - En el Powershell.exe, el código siguiente:
 
-```
+{% highlight js %}
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-```
+{% endhighlight %}
 
 En ambos casos debemos de tener en cuenta que deben ser ejecutadas como administrador, para ello buscaremos o bien, el CMD; o bien, el Powershell; en el buscador de inicio de **Windows** y allí, sobre el programa a abrir, pulsaremos con el botón derecho para elegir la opción de **ejecutar como administrador**.
 
@@ -150,7 +150,7 @@ Luego simplemente pegar el código y pulsar **ENTER**. Finalmente solo deberemos
 
 Desde está página debemos ir buscando el Software o ‘Package’ que deseamos utilizar para poder copiar la línea de código adecuada o bien podríamos probar suerte, puesto que la línea de código es siempre la misma y bien sencilla, simplemente los comandos siguientes:
 
-```choco install nombre_del_programa```
+`choco install nombre_del_programa`
 
 > **💛 Pegándolo en el CMD o PowerShell 💛**
 
@@ -159,7 +159,7 @@ En mi caso actualizare el muy interesante programa Zeal.
 
 Ejecutando la siguiente línea:
     
-```choco install zeal```
+`choco install zeal`
 
 
 > Enter!!! 💻 

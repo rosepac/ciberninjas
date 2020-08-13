@@ -1,16 +1,16 @@
 ---
 layout: page
+author: rosepac
+bootstrap: true
 title: 🥇 ▷ La Guía Web Completa de Rastreadores Web y robots.txt 🤖
-description: "✅ Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
-excerpt: "✅ Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
+description: "Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
+excerpt: "Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
 published: true
 comments: false
 date: 2020-03-10
 last_modified_at: 
 permalink: /robots-txt/
 canonical_URL: https://ciberninjas.com/robots-txt/
-author: rosepac
-bootstrap: true
 thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 feature-img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
@@ -55,10 +55,10 @@ Funciona así: un robot quiere visitar la URL de un sitio web, por ejemplo, http
 
 Si el robot encuentra:
 
-```
+{% highlight js %}
 User-agent: *
 Disallow: /
-```
+{% endhighlight %}
 
 La parte de "User-Agent: * "significa que esta sección se aplica a todos los robots y "Disallow: /" dice al robot que no debe visitar ninguna página de nuestro sitio web.
 
@@ -114,12 +114,13 @@ Recuerde utilizar las letras con minúsculas para el nombre de archivo: "robots.
 
 El archivo "/robots.txt" es un archivo de texto, con uno o más registros. Por lo general, contiene un solo registro que se ve así:
 
-```
+{% highlight js %}
+
 User-agent: *
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /~carpeta-personal/
-```
+{% endhighlight %}
 
 En este ejemplo, se excluyen tres directorios.
 
@@ -131,17 +132,17 @@ Lo que desea excluir depende de su servidor. Todo lo que no se rechaza explícit
 
 ### **Para excluir todos los robots de todo el servidor**
 
-```
+{% highlight js %}
 User-agent: *
 Disallow: /
-```
+{% endhighlight %}
 
 ### **Para permitir que todos los robots tengan acceso completo**
 
-```
+{% highlight js %}
 User-agent: *
 Disallow:
-```
+{% endhighlight %}
 
 (o simplemente cree un archivo "/robots.txt" vacío, o no use ninguno)
 
@@ -149,49 +150,49 @@ Disallow:
 
 ### **Para excluir todos los robots de parte del servidor**
 
-```
+{% highlight js %}
 User-agent: *
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /junk/
-```
+{% endhighlight %}
 
 ### **Para excluir un solo robot**
 
-```
+{% highlight js %}
 User-agent: BadBot
 Disallow: /
-```
+{% endhighlight %}
 
 ### **Para permitir un solo robot**
 
-```
+{% highlight js %}
 User-agent: Google
 Disallow:
 
 User-agent: *
 Disallow: /
-```
+{% endhighlight %}
 
 ### **Para excluir todos los archivos excepto uno**
 
 Esto es actualmente un poco incómodo, ya que no hay un campo "Permitir". La manera fácil es colocar todos los archivos que se deshabilitarán en un directorio separado, decir "cosas" y dejar el único archivo en el nivel sobre este directorio:
 
-```
+{% highlight js %}
 User-agent: *
 Disallow: /~carpeta-personal/stuff/
-```
+{% endhighlight %}
 
 Alternativamente, puede rechazar explícitamente todas las páginas no permitidas:
 
 Alternativamente, puede rechazar explícitamente todas las páginas no permitidas:
 
-```
+{% highlight js %}
 User-agent: *
 Disallow: /~carpeta-personal/junk.html
 Disallow: /~carpeta-personal/foo.html
 Disallow: /~carpeta-personal/bar.html
-```
+{% endhighlight %}
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
@@ -205,13 +206,13 @@ Puede usar una etiqueta HTML especial `META` para indicar a los robots que no in
 
 Por ejemplo:
 
-```
+{% highlight js %}
 <html>
 <head>
 <title> ... </title>
 <META NAME="ROBOTS" CONTENT="NOINDEX,NOFOLLOW">
 </head>
-```
+{% endhighlight %}
 
 Hay dos consideraciones importantes cuando se usa la etiqueta <META> de robots:
 
@@ -242,11 +243,11 @@ El atributo "`name`" debe ser "ROBOTS".
 
 Los valores válidos para el atributo "`CONTENT`" son: "`INDEX`", "`NOINDEX`", "`FOLLOW`", "`NOFOLLOW`". Se permiten múltiples valores separados por comas, pero obviamente solo algunas combinaciones tienen sentido. Si no hay una etiqueta <META> de robots, el valor predeterminado es " `INDEX, NOFOLLOW` ", por lo que no hay necesidad de explicarlo. Eso quedaría:
 
-```
+{% highlight js %}
 <META NAME="ROBOTS" CONTENT="NOINDEX, FOLLOW"> 
 <META NAME="ROBOTS" CONTENT="INDEX, NOFOLLOW"> 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-```
+{% endhighlight %}
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 

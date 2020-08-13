@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez
+title: ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez
 feature-img: "assets/img/ninite-ciberninjas.jpg"  
 thumbnail: "assets/img/ninite-ciberninjas.jpg"
 img: "assets/img/ninite-ciberninjas.jpg"  
@@ -91,9 +91,9 @@ Estos tipo de enlaces son excelentes para hacer soporte técnico remoto en orden
 
 De forma predeterminada, los instaladores Ninite instalan las aplicaciones en el idioma actual del sistema operativo del usuario. Esto se puede anular con el comando modificador /locale; por ejemplo (para francés) ejecuta desde la consola o CMD:
 
-```
+{% highlight js %}
 [your ninite .exe] /locale fr-FR
-```  
+{% endhighlight %}
 
 Esto descarga e instala las aplicaciones en el idioma especificado. Para algunas aplicaciones, el idioma de la interfaz de usuario todavía tendrá que cambiarse manualmente en la configuración de la aplicación después de que se complete la instalación.
 
