@@ -23,7 +23,7 @@ published: true
 
 Bevy es un motor de juego y un framework de aplicación refrescantemente simple basado en datos integrado en Rust. ¡Es gratis y de código abierto!
 
-## Los objetivos a lograr marcados para Bevy**
+## **Los objetivos a lograr marcados para Bevy**
 
 - Ser Capaz: Bevy ofrece un conjunto completo de funciones 2D y 3D
 - Ser Simple: Bevy es fácil de aprender para los principiantes, pero infinitamente flexible para los usuarios avanzados
