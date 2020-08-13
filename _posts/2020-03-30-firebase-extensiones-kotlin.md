@@ -18,7 +18,6 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/firebase-extensiones-kotlin/
 permalink: /firebase-extensiones-kotlin/
 date: 2020-03-30
-last_modified_at: 
 published: true
 
 ---
@@ -48,7 +47,7 @@ implementación 'com.google.firebase: firebase-config: 19.1.2'
 
 **MainActivity.kt (antes)**
 
-{% highlight js %}{% endhighlight %}
+{% highlight js %}
 val remoteConfig = FirebaseRemoteConfig.getInstance ()
 
 val configSettings = FirebaseRemoteConfigSettings.Builder ()
