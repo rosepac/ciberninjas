@@ -21,65 +21,58 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 12 de Agosto
-
-- ⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
-<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
 ### 🔔 13 de Agosto
 
 - (19:00 H. ESP) Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
-(https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+[REGISTRO](https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (22:00 H. ESP -17 H. Arg) Aprende a programar con gatitos
-👉 Ver en (https://www.instagram.com/conexionhr/?hl=en)
-🗞 Más Info. (https://twitter.com/iamdoomling/status/1291435341589573632)
+👉 Ver en [Canal Instagram](https://www.instagram.com/conexionhr/?hl=en){:target="_blank" rel="nofollow, noreferrer"}
+🗞 Más Info. [Twitter](https://twitter.com/iamdoomling/status/1291435341589573632){:target="_blank" rel="nofollow, noreferrer"}
 - (00:00 H. ESP - 19 hs Arg) Creando diseño web con Bootstrap
-(https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform)
+[Formulario de REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 14 de Agosto
 
 - (20:30 H. Española) Webinar sobre Grafología Gratis
-👉 Registro al evento (https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-🗞 Temario : http://grafologia.estrategica.pro/valor
+👉 Registro al evento [EventBrite](https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+🗞 Temario : [Temario del Curso](http://grafologia.estrategica.pro/valor){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 H. ESP - 18:00 hrs Arg.) Hablando sobre VUE JS
-👉 Charla con @ianaya89 sobre #VueJS . ¡Los invito a que disfruten de este encuentro! (https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be)
-- (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
+👉 Charla con @ianaya89 sobre #VueJS . ¡Los invito a que disfruten de este encuentro! [Canal de Youtube](https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be){:target="_blank" rel="nofollow, noreferrer"}
+- (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
 
 ### 🔔 15 de Agosto
 
-- ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
-
-<a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-- Evento / Concurso sobre Programación: Maratón de Código de IBM (https://maratona.dev/es) (Solamente para América Latina)
-- (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
+- ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española): <a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">Eventbrite</a>
+- Evento / Concurso sobre Programación: Maratón de Código de IBM [Maratona](https://maratona.dev/es){:target="_blank" rel="nofollow, noreferrer"} (Solamente para América Latina)
+- (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
 
 ### 🔔 20 de Agosto
 
-📣 20 de Agosto, 19 Horas: Explotando mi primera vulnerabilidad (https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand)
+📣 20 de Agosto, 19 Horas: Explotando mi primera vulnerabilidad [EventBrite](https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand){:target="_blank" rel="nofollow, noreferrer"}
 
 
 ### 🔔 23 de Agosto
 
 - Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
-🗞 Registrarse (https://events.darry.codes/github)
+🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 25 de Agosto
 
 - Hoy. Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
-🗞 Registrarse (https://events.darry.codes/github)
+🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
 - (18:00 Hora Española) Claves para impulsar mi negocio en redes sociales
-👉 (https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=1659f598-870f-4e7e-a1a4-b0796e8548e8&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWQ1OWQ5ZTAtMDBhMi00OTM1LThjZjYtZjc2MWNjYWIyNWUw@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252286cfa33d-8f65-45f5-9953-4c4c00b95a66%2522%252c%2522Oid%2522%253a%2522df0e098e-c210-4041-b464-8a8fadeb9eed%2522%252c%2522IsBroadcastMeeting%2522%253atrue%257d%26anon%3Dtrue&suppressPrompt=true)
+👉 [VER ONLINE](https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=1659f598-870f-4e7e-a1a4-b0796e8548e8&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWQ1OWQ5ZTAtMDBhMi00OTM1LThjZjYtZjc2MWNjYWIyNWUw@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252286cfa33d-8f65-45f5-9953-4c4c00b95a66%2522%252c%2522Oid%2522%253a%2522df0e098e-c210-4041-b464-8a8fadeb9eed%2522%252c%2522IsBroadcastMeeting%2522%253atrue%257d%26anon%3Dtrue&suppressPrompt=true){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 27 de Agosto
 
 - Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
-🗞 Registrarse (https://events.darry.codes/github)
+🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 1 de Septiembre
 
-- (18:30) Storytelling con Datos para Principiantes : Data Science (https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (18:30) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 ## **Eventos tecnológicos de Octubre**
 
@@ -345,3 +338,8 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 
 - ⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 22:00 H. Española)
 - 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+
+### 🔔 12 de Agosto
+
+- ⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
+<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
