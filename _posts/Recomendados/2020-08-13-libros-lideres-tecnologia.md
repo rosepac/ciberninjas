@@ -14,7 +14,7 @@ excerpt: >-
   Los mejores libros con los que prepararte para ser un líder tecnológico dentro de tu empresa.
 canonical_URL: https://ciberninjas.com/libros-lideres-tecnologia/
 permalink: /libros-lideres-tecnologia/
-date: 2020-08-11 13:13:46
+date: 2020-08-13 06:13:46
 published: true
 
 ---
