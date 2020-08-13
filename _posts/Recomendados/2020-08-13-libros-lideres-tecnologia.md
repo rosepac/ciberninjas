@@ -64,18 +64,18 @@ Además, de apoyarte en la meta de lograr a tus aliados necesarios, con los que 
 
 Las lista de títulos en español, es la siguiente:
 
-- [Los Innovadores](https://amzn.to/2Co8JcH){:target="_blank" rel="nofollow,noreferrer"} de Walter Isaacson
-- [La tienda de los sueños. Jeff Bezos y la era de Amazon](https://amzn.to/3gTETf8){:target="_blank" rel="nofollow,noreferrer"}
-- [De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank" rel="nofollow,noreferrer"}, ya citado con anterioridad, en el recopilatorio de [libros seleccionados por Elon Musk](https://ciberninjas.com/libros-recomendados-elon-musk-2020/).
+- [Cambia el chip: Cómo afrontar cambios que parecen imposibles](https://amzn.to/3iB1367){:target="_blank" rel="nofollow,noreferrer"}
 - [Cómo ganar amigos e influir sobre las personas](https://amzn.to/3iCNkMo){:target="_blank" rel="nofollow,noreferrer"} de Dale Carnegie.
+- [De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank" rel="nofollow,noreferrer"}, ya citado con anterioridad, en el recopilatorio de [libros seleccionados por Elon Musk](https://ciberninjas.com/libros-recomendados-elon-musk-2020/).
+- [El diseño emocional: Por que nos gustan (o no) los objetos cotidianos](https://amzn.to/2CmLgIK){:target="_blank" rel="nofollow,noreferrer"}
+- [Emprender y liderar una startup: El duro camino hasta el éxito](https://amzn.to/3amtoua){:target="_blank" rel="nofollow,noreferrer"}
 - [Inteligencia Emocional](https://amzn.to/3izvXfg){:target="_blank" rel="nofollow,noreferrer"} de Daniel Goleman.
+- [La tienda de los sueños. Jeff Bezos y la era de Amazon](https://amzn.to/3gTETf8){:target="_blank" rel="nofollow,noreferrer"}
+- [Los Innovadores](https://amzn.to/2Co8JcH){:target="_blank" rel="nofollow,noreferrer"} de Walter Isaacson
+- [No me hagas pensar](https://amzn.to/2DE2HW1){:target="_blank" rel="nofollow,noreferrer"} de Steve Krug.
 - [Nunca comas solo: Networking para optimizar tus relaciones personales](https://amzn.to/3gRiVJy){:target="_blank" rel="nofollow,noreferrer"} de Keith Ferrazzi.
 - [Pensar rápido, pensar despacio](https://amzn.to/3h4xTvK){:target="_blank" rel="nofollow,noreferrer"} de Daniel Kahneman.
 - [Un pequeño empujón: El impulso que necesitas para tomar mejores decisiones sobre salud, dinero y felicidad](https://amzn.to/3kPRT7Y){:target="_blank" rel="nofollow,noreferrer"} de Richard H. Thaler.
-- [Cambia el chip: Cómo afrontar cambios que parecen imposibles](https://amzn.to/3iB1367){:target="_blank" rel="nofollow,noreferrer"}
-- [El diseño emocional: Por que nos gustan (o no) los objetos cotidianos](https://amzn.to/2CmLgIK){:target="_blank" rel="nofollow,noreferrer"}
-- [No me hagas pensar](https://amzn.to/2DE2HW1){:target="_blank" rel="nofollow,noreferrer"} de Steve Krug.
-- [Emprender y liderar una startup: El duro camino hasta el éxito](https://amzn.to/3amtoua){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados <!-- omit in toc -->
 
