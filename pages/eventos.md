@@ -48,6 +48,12 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 - (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
 
+### 🔔 18 de Agosto
+
+- (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X){:target="_blank" rel="nofollow, noreferrer"}
+
+Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor Performo). El estará respondiendo en vivo sus preguntas enviadas a través de los chats de Facebook y Zoom. No te pierdas esta oportunidad de hacer preguntas sobre performance a un experto como Señor Performo.
+
 ### 🔔 20 de Agosto
 
 📣 20 de Agosto, 19 Horas: Explotando mi primera vulnerabilidad [EventBrite](https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand){:target="_blank" rel="nofollow, noreferrer"}

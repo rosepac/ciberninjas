@@ -49,11 +49,14 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 🔔 15 de Agosto
 
 - ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
-
-<a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+(https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - Evento / Concurso sobre Programación: Maratón de Código de IBM (https://maratona.dev/es) (Solamente para América Latina)
 - (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
+
+🔔 18 de Agosto
+
+- (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X)
 
 🔔 20 de Agosto
 

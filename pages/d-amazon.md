@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Comprasninjas 🎁"
+title: "🎁 Compras ninjas"
 description: "Las Mejores Ofertas de Amazon durante Todo el Año"
 excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
 permalink: /amazon/
