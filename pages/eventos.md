@@ -21,35 +21,30 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 13 de Agosto
-
-- (19:00 H. ESP) Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
-[REGISTRO](https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (22:00 H. ESP -17 H. Arg) Aprende a programar con gatitos
-👉 Ver en [Canal Instagram](https://www.instagram.com/conexionhr/?hl=en){:target="_blank" rel="nofollow, noreferrer"}
-🗞 Más Info. [Twitter](https://twitter.com/iamdoomling/status/1291435341589573632){:target="_blank" rel="nofollow, noreferrer"}
-- (00:00 H. ESP - 19 hs Arg) Creando diseño web con Bootstrap
-[Formulario de REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 14 de Agosto
 
 - (20:30 H. Española) Webinar sobre Grafología Gratis
 👉 Registro al evento [EventBrite](https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 🗞 Temario : [Temario del Curso](http://grafologia.estrategica.pro/valor){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 H. ESP) Unreal Engine & Fortnite en la educación - [REGISTRO](https://www.eventbrite.com/e/unreal-engine-fortnite-en-la-educacion-tickets-113377862238?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 H. ESP - 18:00 hrs Arg.) Hablando sobre VUE JS
-👉 Charla con @ianaya89 sobre #VueJS . ¡Los invito a que disfruten de este encuentro! [Canal de Youtube](https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be){:target="_blank" rel="nofollow, noreferrer"}
+👉 Charla con @ianaya89 sobre #VueJS. ¡Los invito a que disfruten de este encuentro! [Canal de Youtube](https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be){:target="_blank" rel="nofollow, noreferrer"}
 - (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
 
 ### 🔔 15 de Agosto
 
+- (02:00 AM) Diseñando productos responsables [Ver Youtube](https://www.youtube.com/watch?v=EaiyzaFGhDM){:target="_blank" rel="nofollow, noreferrer"}
+- (10:00 AM hasta las 15:00 PM) Jornada de redes y comunicaciones: el dilema del Hombre Araña (Ciberseguridad): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/jornada-de-redes-y-comunicaciones-el-dilema-del-hombre-araa){:target="_blank" rel="nofollow, noreferrer"}
 - ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española): <a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">Eventbrite</a>
 - Evento / Concurso sobre Programación: Maratón de Código de IBM [Maratona](https://maratona.dev/es){:target="_blank" rel="nofollow, noreferrer"} (Solamente para América Latina)
+- (16:00 PM) Parte I de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
 
 ### 🔔 18 de Agosto
 
+- (18:00 H. ESP.) Especial Tecnologías Accesibles: Diferentes APP para celulares y pc - [Ver en Youtube](https://www.youtube.com/somoslaseu)
 - (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X){:target="_blank" rel="nofollow, noreferrer"}
 
 Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor Performo). El estará respondiendo en vivo sus preguntas enviadas a través de los chats de Facebook y Zoom. No te pierdas esta oportunidad de hacer preguntas sobre performance a un experto como Señor Performo.
@@ -58,6 +53,10 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 
 📣 20 de Agosto, 19 Horas: Explotando mi primera vulnerabilidad [EventBrite](https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand){:target="_blank" rel="nofollow, noreferrer"}
 
+### 🔔 22 de Agosto
+
+- (10:00 AM - 14:00 AM) Ingeniería social / El arte de la piratería humana (Hack Madrid): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM) Parte I de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 23 de Agosto
 
@@ -76,11 +75,60 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
 
+### 🔔 29 de Agosto
+
+- (16:00 PM) Parte I de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+## **Eventos tecnológicos de Septiembre**
+
 ### 🔔 1 de Septiembre
 
-- (18:30) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (18:30) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 5 de Septiembre
+
+- (16:00 PM) Parte I de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 12 de Septiembre
+
+- (16:00 PM) Parte I de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 15 de Septiembre
+
+- (19:00 PM) ¿Pondrá Deno el mundo de Node del revés? - [Registro](https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/){:target="_blank" rel="nofollow, noreferrer"}
+
+Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dahl, que, aprovechando todo el conocimiento obtenido durante los 10 años de vida de Node decidió comenzar este proyecto para enmendar errores. Deno cuenta con soporte nativo de TypeScript —es decir no hace falta compilar antes de ejecutar un fichero de TypeScript—, un modelo de seguridad, una forma descentralizada de distribuir paquetes, un único ejecutable y muchas más cosas. En esta charla introductoria veremos qué es y qué características tiene, ¡así que no te lo pierdas!
+
+### 🔔 23 de Septiembre
+
+- (16:00 PM) Cómo desarrollar tus primeras Aplicaciones cloud nativas con Java - [Registro](https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/){:target="_blank" rel="nofollow, noreferrer"}
+
+Para aplicaciones nativas de la nube, Kubernetes e Istio proporcionan funcionalidades clave para microservicios independientes de su lenguaje de programación y sin cambios en su aplicación lógica. Sin embargo, algunas funcionalidades deben manejarse en la lógica empresarial de los microservicios, ej. funcionalidad de gestión de errores específica de la aplicación, métricas y gestión de permisos.
+En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse MicroProfile y cómo ejecutarlos en Kubernetes e Istio. Utilizaremos nuestro ejemplo de Cloud Native Starter disponible en Github.
 
 ## **Eventos tecnológicos de Octubre**
+
+### 🔔 6 de Octubre
+
+- (19:00 PM) Los Piratas del cloud: Nuevos retos de ciberseguridad - [Registro](https://events.codemotion.com/webinars/los-piratas-del-cloud-nuevos-retos-de-ciberseguridad/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 13 de Octubre
+
+- (19:00 PM) Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"}
+
+## **Eventos tecnológicos de Septiembre**
+
+### 🔔 3 de Septiembre
+
+- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 4 de Septiembre
+
+- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 5 de Septiembre
+
+- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### **Tarugconf: 22, 23, 24 de Octubre**
 
@@ -88,6 +136,22 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
+
+### 🔔 22 de Octubre
+
+- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 22 de Octubre
+
+- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 22 de Octubre
+
+- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+🔔 27 de Octubre
+
+- (19:00 PM) Operadores de Kubernetes: Operando servicios nativos de la nube a escala - [REGISTRO](https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Calendario de Eventos Tecnológicos en Inglés 📆**
 
@@ -349,3 +413,13 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 
 - ⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+### 🔔 13 de Agosto
+
+- (19:00 H. ESP) Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
+[REGISTRO](https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (22:00 H. ESP -17 H. Arg) Aprende a programar con gatitos
+👉 Ver en [Canal Instagram](https://www.instagram.com/conexionhr/?hl=en){:target="_blank" rel="nofollow, noreferrer"}
+🗞 Más Info. [Twitter](https://twitter.com/iamdoomling/status/1291435341589573632){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00 H. ESP - 19 hs Arg) Creando diseño web con Bootstrap
+[Formulario de REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform){:target="_blank" rel="nofollow, noreferrer"}

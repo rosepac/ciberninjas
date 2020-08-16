@@ -21,26 +21,12 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Agosto**
 
-🔔 12 de Agosto
-
-- ⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
-<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-🔔 13 de Agosto
-
-- (19:00 H. ESP) Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
-(https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-- (22:00 H. ESP -17 H. Arg) Aprende a programar con gatitos
-👉 Ver en (https://www.instagram.com/conexionhr/?hl=en)
-🗞 Más Info. (https://twitter.com/iamdoomling/status/1291435341589573632)
-- (00:00 H. ESP - 19 hs Arg) Creando diseño web con Bootstrap
-(https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform)
-
 🔔 14 de Agosto
 
 - (20:30 H. Española) Webinar sobre Grafología Gratis
 👉 Registro al evento (https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-🗞 Temario : http://grafologia.estrategica.pro/valor
+🗞 Temario (http://grafologia.estrategica.pro/valor)
+- (21:00 H. ESP) Unreal Engine & Fortnite en la educación - [REGISTRO](https://www.eventbrite.com/e/unreal-engine-fortnite-en-la-educacion-tickets-113377862238?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 H. ESP - 18:00 hrs Arg.) Hablando sobre VUE JS
 👉 Charla con @ianaya89 sobre #VueJS . ¡Los invito a que disfruten de este encuentro! (https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be)
 - (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
@@ -48,20 +34,30 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 
 🔔 15 de Agosto
 
+- (10:00 AM hasta las 15:00 PM) Jornada de redes y comunicaciones: el dilema del Hombre Araña (Ciberseguridad)
+(https://community.codemotion.com/hackmadrid-27/meetups/jornada-de-redes-y-comunicaciones-el-dilema-del-hombre-araa)
 - ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
 (https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (16:00 PM) Parte I de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - Evento / Concurso sobre Programación: Maratón de Código de IBM (https://maratona.dev/es) (Solamente para América Latina)
 - (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
 
 🔔 18 de Agosto
 
+- (18:00 H. ESP.) Especial Tecnologías Accesibles: Diferentes APP para celulares y pc - [Ver en Youtube](https://www.youtube.com/somoslaseu)
 - (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X)
 
 🔔 20 de Agosto
 
 📣 20 de Agosto, 19 Horas: Explotando mi primera vulnerabilidad (https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand)
 
+
+🔔 22 de Agosto
+
+- (10:00 AM - 14:00 AM) Ingeniería social / El arte de la piratería humana (Hack Madrid)
+(https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking)
+- (16:00 PM) Parte II de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 🔔 23 de Agosto
 
@@ -81,11 +77,54 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 - Estaremos hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
 🗞 Registrarse (https://events.darry.codes/github)
 
+🔔 29 de Agosto
+
+- (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
 🔔 1 de Septiembre
 
 - (18:30) Storytelling con Datos para Principiantes : Data Science (https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
+🔔 3 de Septiembre
+
+- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+- 
+🔔 4 de Septiembre
+
+- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+
+🔔 5 de Septiembre
+
+- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+- (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
+🔔 12 de Septiembre
+
+- (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
+🔔 15 de Septiembre
+
+- (19:00 PM) ¿Pondrá Deno el mundo de Node del revés?
+(https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/)
+
+🔔 23 de Septiembre
+
+- (16:00 PM) Cómo desarrollar tus primeras Aplicaciones cloud nativas con Java
+(https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/)
+
 ## **Eventos tecnológicos de Octubre**
+
+🔔 6 de Octubre
+
+- (19:00 PM) Los Piratas del cloud: Nuevos retos de ciberseguridad (https://events.codemotion.com/webinars/los-piratas-del-cloud-nuevos-retos-de-ciberseguridad/)
+
+🔔 13 de Octubre
+
+- (19:00 PM) Fomentando la cultura DevOps para el éxito - (https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/)
+
+🔔 27 de Octubre
+
+- (19:00 PM) Kubernetes Operators: Operando servicios nativos de la nube a escala - (https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/)
 
 ### **Tarugconf: 22, 23, 24 de Octubre**
 

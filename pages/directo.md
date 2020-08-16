@@ -73,7 +73,7 @@ En estas listas se intenta recoger las cuentas tecnológicas que se consideran d
 
 ## 🌐 Eventos de Tecnología
 
-[🌐 Eventos de Tecnología en Español](https://twitter.com/ciberninjas/lists/eventos-tecnolog-a-es1){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🌐 Eventos de Tecnología a Nivel Mundial](https://twitter.com/ciberninjas/lists/eventos-tecnol-world){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+[🌐 Eventos de Tecnología en Español](https://twitter.com/ciberninjas/lists/eventos-tecnolog-a-es1){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🌐 Eventos de Tecnología a Nivel Mundial](https://twitter.com/i/lists/1179556127912140800?s=20){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 👮‍♂️ Ciberseguridad
 

@@ -886,7 +886,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-git-github-sourcetree){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 * [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-* [Introducción a Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
+* [Introducción a la Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
 * [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank" rel="nofollow,noreferrer"} (makigas)
 * [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Metodología de marco lógico (2017)](https://www.udemy.com/metodologia-de-marco-logico){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
