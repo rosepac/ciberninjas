@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Conferencia
+- Historia de la Programación
 thumbnail: /assets/img/blog/inventor-pixel.webp
 feature-img: /assets/img/blog/inventor-pixel.webp
 title: '▷ Fallece Russell Kirsch: El inventor del píxel'
