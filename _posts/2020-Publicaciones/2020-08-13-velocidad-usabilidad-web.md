@@ -28,19 +28,27 @@ Lo que es sorprendente es que, a pesar de hoy es mucho más rápido velocidades 
 
 ## **Internet es más rápido, pero los sitios web no lo son**
 
-Quizás se pregunte si la gente simplemente no se da cuenta de lo más rápidos que son los sitios de hoy porque sus expectativas han aumentado con el tiempo. Si bien es cierto que las estimaciones de las personas sobre los tiempos de espera a veces son exageradas, en este caso no se trata solo de percepciones distorsionadas.
+Quizás se pregunte si la gente simplemente no se da cuenta de lo más rápidos que son los sitios de hoy porque sus expectativas han aumentado con el tiempo.
 
-Durante los últimos 10 años, Httparchive.org ha registrado tiempos de carga de páginas para 6 millones de sitios web populares. (Httparchive.org es parte de InternetArchive.org, a quienes quizás conozca como la gente detrás de WayBack Machine). Los resultados no son alentadores: para las páginas web visitadas desde una computadora de escritorio, el tiempo medio de carga no ha mejorado. Los sitios web de hoy no son mucho más rápidos que hace 10 años.
+Si bien es cierto que las estimaciones de las personas sobre los tiempos de espera a veces son exageradas, en este caso no se trata solo de percepciones distorsionadas.
+
+Durante los últimos 10 años, Httparchive.org ha registrado tiempos de carga de páginas para 6 millones de sitios web populares. (Httparchive.org es parte de InternetArchive.org, a quienes quizás conozca como la gente detrás de WayBack Machine).
+
+Los resultados no son alentadores: para las páginas web visitadas desde una computadora de escritorio, el tiempo medio de carga no ha mejorado. Los sitios web de hoy no son mucho más rápidos que hace 10 años.
 
 Como puede adivinar, la historia en los dispositivos móviles es aún peor: las velocidades de conexión han mejorado con seguridad, pero, en los últimos 10 años, los tiempos de carga de la página móvil rastreados por Httparchive en realidad han aumentado .
 
-Los aumentos en la velocidad de Internet claramente no han resuelto el problema de los sitios web lentos. Por supuesto, la velocidad de la red no es el único factor que afecta el rendimiento, por lo que no es razonable esperar que las velocidades se mantengan completamente a la par con la conectividad de la red. Pero parece que los grandes aumentos en la velocidad de la red deberían hacer que navegar por la web sea ​​al menos algo más rápido.
+Los aumentos en la velocidad de Internet claramente no han resuelto el problema de los sitios web lentos. Por supuesto, la velocidad de la red no es el único factor que afecta el rendimiento, por lo que no es razonable esperar que las velocidades se mantengan completamente a la par con la conectividad de la red.
+
+Pero parece que los grandes aumentos en la velocidad de la red deberían hacer que navegar por la web sea ​​al menos algo más rápido.
 
 Quizás se esté preguntando si estos datos son realmente precisos, lo cual es una pregunta justa, ya que hay muchas formas diferentes de medir el rendimiento y la velocidad, como muestrear diferentes selecciones de sitios web o usar diferentes hitos para identificar cuándo se carga una página. 
 
 Por ejemplo, en 2018, Google informó un tiempo promedio de 7 segundos para que las páginas móviles carguen contenido en la mitad superior de la página. Pero, dado que los tiempos de carga de la mitad superior de la página de hace 10 años no están disponibles, no podemos sacar conclusiones sobre las tendencias en esa métrica en particular.
 
-En cualquier caso, incluso este número más favorable sigue siendo 7 veces más lento que el tiempo de respuesta recomendado para navegar por las páginas web). Los datos de Httparchive.org son únicos porque se han recopilado utilizando el mismo enfoque durante toda la década., lo que permite la comparación longitudinal. Estos datos sugieren fuertemente que los sitios web que la gente encuentra hoy en día no son mucho más rápidos que hace una década.
+En cualquier caso, incluso este número más favorable sigue siendo 7 veces más lento que el tiempo de respuesta recomendado para navegar por las páginas web).
+
+Los datos de Httparchive.org son únicos porque se han recopilado utilizando el mismo enfoque durante toda la década., lo que permite la comparación longitudinal. Estos datos sugieren fuertemente que los sitios web que la gente encuentra hoy en día no son mucho más rápidos que hace una década.
 
 ## **¿Qué tan lento es demasiado lento?**
 
@@ -67,9 +75,13 @@ Todos estos datos aún no definen con precisión un número mágico en el que su
 
 Si estás en un grupo de personas perseguidas por un oso, solo necesitas ser más rápido que la persona más lenta del grupo. Pero no es así como funcionan los sitios web: ser más rápido que al menos otro sitio web, o incluso más rápido que el sitio web "promedio", no es un gran logro cuando la velocidad promedio de un sitio web es frustrantemente lenta.
 
-Los tiempos de carga inferiores a un segundo serían ideales; De manera realista, este objetivo es increíblemente difícil de lograr y, al mismo tiempo, ofrece contenido rico y atractivo. Pero, si hay algo que se ha demostrado ampliamente en todos los experimentos enumerados anteriormente, es que cada mejora incremental en la velocidad vale la pena.
+Los tiempos de carga inferiores a un segundo serían ideales; De manera realista, este objetivo es increíblemente difícil de lograr y, al mismo tiempo, ofrece contenido rico y atractivo.
 
-En lugar de conformarse con ser 'lo suficientemente rápido', la inversión en la optimización del rendimiento debe ser impulsada por la pregunta, '¿cuánto más éxito tendríamos si fuéramos 1 segundo más rápido?' Reducir los tiempos de carga de la página incluso en un segundo mejorará la experiencia de sus usuarios y aumentará sus tasas de conversión . Cuanto más lento sea su sitio web, más obtendrá al hacerlo más rápido.
+Pero, si hay algo que se ha demostrado ampliamente en todos los experimentos enumerados anteriormente, es que cada mejora incremental en la velocidad vale la pena.
+
+En lugar de conformarse con ser 'lo suficientemente rápido', la inversión en la optimización del rendimiento debe ser impulsada por la pregunta, '¿cuánto más éxito tendríamos si fuéramos 1 segundo más rápido?'.
+
+Reducir los tiempos de carga de la página incluso en un segundo mejorará la experiencia de sus usuarios y aumentará sus tasas de conversión . Cuanto más lento sea su sitio web, más obtendrá al hacerlo más rápido.
 
 ### **Relacionados** <!-- omit in toc -->
 
