@@ -863,7 +863,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 ## 💼 Metodologías de Desarrollo
 
-[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large}
+[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large} [QA Pruebas](/cursos-tecnologia/#QA-Pruebas){: .btn .btn--inverse .btn--large}
 
 * [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
@@ -906,6 +906,10 @@ http://ocw.upm.es/course/programacion-en-java-i
 ### Estudiar 💭
 
 * [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank" rel="nofollow,noreferrer"}
+
+## QA Pruebas
+
+* [Curso de programación para QA](https://jj.github.io/curso-tdd/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [Repositorio de Github](https://jj.github.io/curso-tdd/) (Github)
 
 [⏫ Subir a Metodologías](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
