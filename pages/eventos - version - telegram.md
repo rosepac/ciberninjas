@@ -43,15 +43,26 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 - (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
 
+🔔 17 de Agosto
+
+- (23:30 H. ESP.) El arte de los ´60s y el florecimiento del Pop", por Rodrigo Alonso. (https://www.eventbrite.com.ar/e/el-arte-de-los-60s-y-el-florecimiento-del-pop-por-rodrigo-alonso-tickets-116000058297?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
 🔔 18 de Agosto
 
 - (18:00 H. ESP.) Especial Tecnologías Accesibles: Diferentes APP para celulares y pc - [Ver en Youtube](https://www.youtube.com/somoslaseu)
+- (18:00 H. ESP.) Crea tu feed de Instagram con HTML y CSS - (https://www.eventbrite.com/e/crea-tu-feed-de-instagram-con-html-y-css-tickets-115891930885?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (19:00 H. ESP.) Cómo crear un portfolio en Nuxt.JS - [Twitch](https://www.twitch.tv/pablosirera)
 - (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X)
 
 🔔 20 de Agosto
 
-📣 20 de Agosto, 19 Horas: Explotando mi primera vulnerabilidad (https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand)
+- (01:30 AM) Impacto de la enseñanza integral y multidireccional en jóvenes mediante el uso de tecnologías - Daniella Mazzini (https://gdg.community.dev/e/mm2tsm/)
+- (03:00 AM) - Taller virtual "¿Cómo escribir para Internet?" con Mariángela Urbina C. - [REGISTRO](https://www.eventbrite.co/e/taller-virtual-como-escribir-para-internet-con-mariangela-urbina-c-tickets-113283407722?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (19:00 H.) Explotando mi primera vulnerabilidad (https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand)
 
+🔔 21 de Agosto
+
+- (02:00 AM) Frontend Foxes | Hablemos de frameworks (angular, react, vue) VER ONLINE (https://www.youtube.com/watch?v=vBX8x5qZXc8) con @maleja111 @vanessamarely y @jetzable.
 
 🔔 22 de Agosto
 
@@ -79,19 +90,26 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 
 🔔 29 de Agosto
 
+- NotPinkCon Security Conference: Conferencias técnicas de seguridad informática - (https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 🔔 1 de Septiembre
 
 - (18:30) Storytelling con Datos para Principiantes : Data Science (https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
+🔔 2 de Septiembre
+
+- 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
+
 🔔 3 de Septiembre
 
 - Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+- 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 - 
 🔔 4 de Septiembre
 
 - Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+- 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 
 🔔 5 de Septiembre
 
@@ -113,6 +131,10 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 (https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/)
 
 ## **Eventos tecnológicos de Octubre**
+
+🔔 3 de Octubre
+
+- PyConES 2020 (https://2020.es.pycon.org/)
 
 🔔 6 de Octubre
 
