@@ -19,6 +19,9 @@ img: "/assets/img/blog/tecnologia-programando.webp"
 
 Más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
 
+> "Desarrolla tus habilidades y triunfa con cursos online de Udemy desde sólo 9,99 €".
+> <a target='new' href="https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=507388.13868&type=3&subid=0" rel="nofollow">Desarrolla tus habilidades y triunfa con cursos online de Udemy desde sólo 9,99 €.</a><img border="0" width="1" alt="" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=W9Gem8jDoic&bids=507388.13868&type=3&subid=0" >
+
 Los cursos están creados e impartidos por entre otras universidades; la Universidad Carlos III de Madrid, la Universidad de Alicante, la Universidad de Cantabria, la Universidad de La Laguna de Tenerife, la Universidad de Málaga, la Universidad Jaime I de Castellón, la Universidad Nacional de Rosario \ Argentina, la Universidad Politécnica de Madrid, la Universidad Politécnica de Valencia..
 
 Los cursos recorren todo el sector de la tecnología 4.0 en global y contienen las siguientes temáticas principales
