@@ -75,6 +75,10 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 - Estaremos hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
 🗞 Registrarse (https://events.darry.codes/github)
 
+🔔 24 de Agosto
+
+
+
 🔔 25 de Agosto
 
 - Hoy. Estaremos hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
