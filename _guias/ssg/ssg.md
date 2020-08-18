@@ -13,6 +13,7 @@ canonical_URL: https://ciberninjas.com/ssg/
 thumbnail: /assets/img/paginas/sitios-estaticos.webp
 feature-img: /assets/img/paginas/sitios-estaticos.webp
 img: /assets/img/paginas/sitios-estaticos.webp
+tags: [SSG]
 ---
 
 La gente a veces pregunta si los sitios estáticos tienen sentido para algo más allá de un localizador. ¡Esta tabla de clasificación destaca los principales proyectos de código abierto, en muchos idiomas diferentes, que hacen que los sitios estáticos no solo sean viables, sino también una opción atractiva para crear sitios web sofisticados!

@@ -12,6 +12,8 @@ bootstrap: true
 thumbnail: "/assets/img/paginas/jekyll-arbol-documentos.webp"
 feature-img: "/assets/img/paginas/jekyll-arbol-documentos.webp"
 img: "/assets/img/paginas/jekyll-arbol-documentos.webp"
+tags:
+- SSG
 ---
 
 Existe un gran cambio al modificar tus hábitos y buscar el cambio desde un [Sistema de Gestión de Contenidos](/glosario/cms/) (CMS) como por ejemplo: Wordpress. Hacía un [Sistema de Contenidos de Generación Estática](/wiki/generador-de-sitios-estaticos) (SSG) como por ejemplo: Jekyll.
