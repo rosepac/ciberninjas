@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Aplicaciones Multiplataforma
-thumbnail: /assets/img/blog/react-release.webp
-feature-img: /assets/img/blog/react-release.webp
+thumbnail: /assets/img/blog/18-conociendo-serverless.webp
+feature-img: /assets/img/blog/18-conociendo-serverless.webp
 title: '▷ Conociendo la computación Serverless o sin servidor'
 description: >-
   La nueva tecnología serverless o sin servidor está realizando grandes cambios en la forma en la que trabaja, implementa, diseña y ejecuta las aplicaciones.
@@ -87,13 +87,7 @@ Desafortunadamente, la transición a sin servidor no viene sin una serie de desa
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ React: ¿Cómo aprender React?](https://ciberninjas.com/react/)
-
-[▷ 10 Herramientas de productividad para desarrolladores React](https://ciberninjas.com/herramientas-productividad-react-2020/)
-
-[🥇 ▷ React Native: Aprende todo sobre React Native](https://ciberninjas.com/react-native/)
-
-[🥇 Los 14 mejores framework de desarrollo de aplicaciones 2020](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
+[▷ Webiny Framework: Crea aplicaciones web sin servidor](https://ciberninjas.com/webiny-aplicaciones-sin-servidor/)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
