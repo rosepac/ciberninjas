@@ -134,9 +134,13 @@ published: true
 - Sobre los enlaces externos. Si deseas incluir enlaces externos hacía otras páginas, debes incluirlos bajo el formato siguiente:
 `[NombreDelEnlaceAMostrar](https://URL-Al-Enlace "Título del Enlace"){:target="_blank" rel="nofollow,noreferrer"}` esto hará que los enlaces se abran en una pestaña externa y que sea tratado de una forma específica respecto al SEO.
 - Al agregar la etiquetade YAML `bootstrap: true` puedes utilizar cualquier código usado dentro del framework CSS de Bootstrap en tus publicaciones.
-- Inserción de vídeo. El código para insertar vídeos utilizado, es el que se muestra a continuación. Si en su defecto, fuesen insertados de otra forma, la URL de Youtube siempre deberá incluir la opción de `no-coockies` o "privacidad" en su código.
+- Inserción de vídeo. El código para insertar vídeos utilizado, es el que se muestra a continuación. Si en su defecto, fuesen insertados de otra forma, la URL de Youtube siempre deberá incluir la opción de `no-coockies` o "privacidad" en su código. Deberás cambiar `CÓDIGOVÍDEO` por el ID identificador del vídeo de Youtube (vamos la serie de números y letras que Youtube le asigna).
 
-{% highlight js %}{% endhighlight %}
+{% highlight js %}
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/CÓDIGOVÍDEO?rel=0" allowfullscreen></iframe>
+</div><br/>
+{% endhighlight %}
 
 - Inserción sencilla de botones, gracias a las clases de bootstrap. Si lo deseas, puedes incluir botones de forma sencilla, simplemente debes incluir al final de un enlace y entre corchetes, las clases de bootstrap que correspondan al botón que quieres agregar.
 
