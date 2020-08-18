@@ -12,7 +12,8 @@ title: '▷ React v17.0 Release Candidate: Sin nuevas funciones'
 description: >-
   Primer Release Candidate para React 17, desde hace más de 2 años sin actualizaciones importantes, que es mucho tiempo incluso para nuestros estándares.
 excerpt: >-
-  Primer Release Candidate para React 17, desde hace más de 2 años sin actualizaciones importantes, que es mucho tiempo incluso para nuestros estándares.canonical_URL: https://ciberninjas.com/react-17-release/
+  Primer Release Candidate para React 17, desde hace más de 2 años sin actualizaciones importantes, que es mucho tiempo incluso para nuestros estándares.
+canonical_URL: https://ciberninjas.com/react-17-release/
 permalink: /react-17-release/
 date: 2020-08-18 10:12:12
 published: true
