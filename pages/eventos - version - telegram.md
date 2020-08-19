@@ -54,6 +54,11 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 - (19:00 H. ESP.) Cómo crear un portfolio en Nuxt.JS - [Twitch](https://www.twitch.tv/pablosirera)
 - (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X)
 
+🔔 19 de Agosto
+
+- (15:00 H. ESP.) Conociendo Power Apps de Microsoft, primeros pasos (https://www.eventbrite.com/e/entradas-power-apps-first-steps-116244694009?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (De 15:00 a 17:30 H. ESP.) CharlaCAI: Revolución Industrial 4IoT (https://www.eventbrite.com.ar/e/charlacai-revolucion-industrial-4iot-tickets-113805413054?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
 🔔 20 de Agosto
 
 - (01:30 AM) Impacto de la enseñanza integral y multidireccional en jóvenes mediante el uso de tecnologías - Daniella Mazzini (https://gdg.community.dev/e/mm2tsm/)
@@ -147,6 +152,10 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 🔔 13 de Octubre
 
 - (19:00 PM) Fomentando la cultura DevOps para el éxito - (https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/)
+
+🔔 20 de Octubre
+
+- ForoASLAN "Infraestructuras multi-cloud híbridas". Inscripción gratuita (http://ow.ly/8SSd50AK7W4)
 
 🔔 27 de Octubre
 
