@@ -14,7 +14,7 @@ excerpt: >-
   El 20, 21 y 22 de Octubre se realizará la Conferencia Codemotion Europa 2020 de forma Online que incluirá conferencias de arquitectura de software, frontend y diseño, inteligencia artificial / aprendizaje automático y crecimiento de equipos y carreras en IT.
 canonical_URL: https://ciberninjas.com/multiconferencia-europa-devs-2020/
 permalink: /multiconferencia-europa-devs-2020/
-date: 2020-08-18 06:22:16
+date: 2020-08-19 06:22:16
 published: true
 
 ---
