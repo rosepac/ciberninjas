@@ -80,12 +80,10 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Componente SoundRecorder App Inventor 2](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-del-componente-soundrecorder-de-app-inventor%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Componentes en Angular - 101 (principiantes)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomponentes-angular-101%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Configurar Laravel en Windows y MS SQL Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [Crea apps nativas (Android y iOS) con Nativescript "Español"](https://www.udemy.com/course/crea-apps-nativas-android-y-ios-con-nativescript-espanol/)
-- [Crea tu blog con WordPress](https://www.udemy.com/course/crea-tu-blog-con-wordpress/){:target="_blank" rel="nofollow,noreferrer"}
-- [Crea tu Página Web sin Códigos Ni Complicaciones.](https://www.udemy.com/course/crea-tu-pagina-web-sin-codigos-ni-complicaciones/){:target="_blank" rel="nofollow,noreferrer"}
+- [Crea tu blog con WordPress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-blog-con-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Crea tu Página Web sin Códigos Ni Complicaciones.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-pagina-web-sin-codigos-ni-complicaciones%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Creación de Videojuegos en Unreal Engine para principiantes](https://www.udemy.com/course/unreal-engine-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
-- [Crear app sin saber programar en Glide](https://www.udemy.com/course/crear-apps-sin-programar-en-glide/){:target="_blank" rel="nofollow,noreferrer"}
-- [Crear Documentos PDF directamente desde PHP](https://www.udemy.com/course/reportes-pdf-con-php/){:target="_blank" rel="nofollow,noreferrer"}
+- [Crear Documentos PDF directamente desde PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freportes-pdf-con-php%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Crear Una Página Web Desde Cero Para Principiantes ([2020)](https://www.udemy.com/course/crea-esta-pagina-web-moderna-con-html5-css3-y-jquery-2019/){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso Asp.Net MVC + Entity Framework para principiantes](https://www.udemy.com/course/curso-aspnet-mvc-entity-framework-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso básico de desarrollo de aplicaciones web from scratch](https://www.udemy.com/course/aprende-a-crear-una-aplicacion-web-usando-ruby-on-rails-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
