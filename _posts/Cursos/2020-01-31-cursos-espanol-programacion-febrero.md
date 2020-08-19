@@ -9,8 +9,8 @@ bootstrap: true
 comments: false
 date: 2020-08-19 10:07:33
 last_modified_at: 
-thumbnail: /assets/img/blog/19-cursos-programacion-2020.jpg
-feature-img: /assets/img/blog/19-cursos-programacion-2020.jpg
+thumbnail: /assets/img/blog/19-cursos-programacion-2020.webp
+feature-img: /assets/img/blog/19-cursos-programacion-2020.webp
 tags:
 - Cursos Gratis
 permalink: /cursos-espanol-programacion-febrero/
@@ -156,7 +156,7 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Introducción a Linux: Instala Linux en tu PC](https://www.udemy.com/course/instala-linux-en-tu-pc/){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a PHP y creación de un CRUD básico.](https://www.udemy.com/course/introduccion-a-php-y-creacion-de-un-crud-basico/){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a React Native con React Navigation y Axios](https://www.udemy.com/course/introduccion-a-react-native-con-react-navigation-y-axios/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introducción a SQL con Oracle 11g](https://www.udemy.com/course/introduccion-a-sql-con-oracle-11g/){:target="_blank" rel="nofollow,noreferrer"}
+- [Introducción a SQL con Oracle 11g](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-sql-con-oracle-11g%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a Tecnologías del Desarrollo con los Mejores](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmasters-desarrollo%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción al backend en PHP y MySQL (+ Docker)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-al-backend-en-php-y-mysql-docker%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción al desarrollo backend con Node.js y Express](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-al-desarrollo-backend-con-nodejs-y-express%2F){:target="_blank" rel="nofollow,noreferrer"}
