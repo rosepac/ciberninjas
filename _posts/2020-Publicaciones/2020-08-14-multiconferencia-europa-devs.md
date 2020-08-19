@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Conferencia
-thumbnail: /assets/img/blog/velocidad-navegacion-internett.webp
-feature-img: /assets/img/blog/velocidad-navegacion-internett.webp
+thumbnail: /assets/img/blog/codemotion-europa.webp
+feature-img: /assets/img/blog/codemotion-europa.webp
 title: '▷ Conferencia Europea Codemotion 2020: La conferencia tecnológica por y para los desarrolladores'
 description: >-
   El 20, 21 y 22 de Octubre se realizará la Conferencia Codemotion Europa 2020 de forma Online que incluirá conferencias de arquitectura de software, frontend y diseño, inteligencia artificial / aprendizaje automático y crecimiento de equipos y carreras en IT.
@@ -42,11 +42,7 @@ Los oradores confirmados hasta el momento son:
 <!-- - [](){:target="_blank" rel="nofollow,noreferrer"} -->
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ El ataque de los clones de las aplicaciones similares a TikTok](https://ciberninjas.com/clones-tiktok/)
-
-[▷ Reels: Llega la competencia directa de TikTok](https://ciberninjas.com/reels-instagram/)
-
-[Twitter quiere agregar pagos a través de un modelo de suscripciones](https://ciberninjas.com/twitter-quiere-agregar-suscripciones/)
+[▷ El ataque de los clones de las aplicaciones similares a TikTok](https://ciberninjas.com/codemotion-esp-2020/)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
