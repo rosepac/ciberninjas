@@ -73,13 +73,13 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Como instalar cualquier CMS en un Hosting](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-instalar-cualquier-cms-en-un-hosting%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Como integrar las In App Purchases en iOS con Swift](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmonetiza-tu-app-o-videojuego-con-storekit%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Como migrar Wordpress y no morir en el intento](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-migrar-wordpress-y-no-morir-en-el-intento%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [Como usar el componente Sound](https://www.udemy.com/course/como-usar-el-componente-sound-sin-morir-en-el-intento/){:target="_blank" rel="nofollow,noreferrer"}
-- [Compodoc: Crea documentación en proyectos Angular/Ionic/TS](https://www.udemy.com/course/compodoc-crea-documentacion-en-angular-ionic/){:target="_blank" rel="nofollow,noreferrer"}
-- [Componente Barcode Scanner de App Inventor 2](https://www.udemy.com/course/app-inventor-uso-del-componente-barcode-scanner/){:target="_blank" rel="nofollow,noreferrer"}
-- [Componente Marker](https://www.udemy.com/course/componente-marker/){:target="_blank" rel="nofollow,noreferrer"}
-- [Componente SoundRecorder App Inventor 2](https://www.udemy.com/course/curso-del-componente-soundrecorder-de-app-inventor/){:target="_blank" rel="nofollow,noreferrer"}
-- [Componentes en Angular - 101 (principiantes)](https://www.udemy.com/course/componentes-angular-101/){:target="_blank" rel="nofollow,noreferrer"}
-- [Configurar Laravel en Windows y MS SQL Server](https://www.udemy.com/course/laravel-y-sql-server/){:target="_blank" rel="nofollow,noreferrer"}
+- [Como usar el componente Sound](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-usar-el-componente-sound-sin-morir-en-el-intento%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Compodoc: Crea documentación en proyectos Angular/Ionic/TS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcompodoc-crea-documentacion-en-angular-ionic%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Componente Barcode Scanner de App Inventor 2](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapp-inventor-uso-del-componente-barcode-scanner%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Componente Marker](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomponente-marker%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Componente SoundRecorder App Inventor 2](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-del-componente-soundrecorder-de-app-inventor%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Componentes en Angular - 101 (principiantes)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomponentes-angular-101%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Configurar Laravel en Windows y MS SQL Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Crea apps nativas (Android y iOS) con Nativescript "Español"](https://www.udemy.com/course/crea-apps-nativas-android-y-ios-con-nativescript-espanol/)
 - [Crea tu blog con WordPress](https://www.udemy.com/course/crea-tu-blog-con-wordpress/){:target="_blank" rel="nofollow,noreferrer"}
 - [Crea tu Página Web sin Códigos Ni Complicaciones.](https://www.udemy.com/course/crea-tu-pagina-web-sin-codigos-ni-complicaciones/){:target="_blank" rel="nofollow,noreferrer"}
