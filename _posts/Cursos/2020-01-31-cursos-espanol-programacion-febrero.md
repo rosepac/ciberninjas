@@ -182,17 +182,17 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [PHP curso de programación desde cero...](https://www.udemy.com/course/curso-de-programacion-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
 - [Primeros pasos con Vue.js: Vue en ejercicios](https://www.udemy.com/course/primeros-pasos-con-el-framework-vuejs/){:target="_blank" rel="nofollow,noreferrer"}
 - [Prbar Django: Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación Android 01 Conceptos generales](https://www.udemy.com/course/programacion-android-01-conceptos-generales/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación CNC - Fresadoras](https://www.udemy.com/course/programacioncnc/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación de juegos Web 2D en JavaScript HTML5 con Phaser](https://www.udemy.com/course/programacion-de-juegos-web-2d-en-javascript-html5-con-phaser/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación de videojuegos con pygame](https://www.udemy.com/course/pygame-breakout/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación Estructurada desde Cero con JAVA](https://www.udemy.com/course/programacion-estructurada-java/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación Unity 1 - Clase MonoBehaviour](https://www.udemy.com/course/libreria-unity-engine-clase-monobehaviour/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación Unity 2 - Clases Time y Vector3](https://www.udemy.com/course/libreria-unity-engine-2-clases-time-y-vector3/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación Unity 3 - Clase Input](https://www.udemy.com/course/libreria-unity-engine-3-clase-input/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programación Unity 4 - Clase Transform](https://www.udemy.com/course/libreria-unity-engine-4-clase-transform/){:target="_blank" rel="nofollow,noreferrer"}
-- [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/course/programador-web-php-cookies-y-sesiones/){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación Android 01 Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación CNC - Fresadoras](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacioncnc%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación de juegos Web 2D en JavaScript HTML5 con Phaser](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-de-juegos-web-2d-en-javascript-html5-con-phaser%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación de videojuegos con PyGame](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpygame-breakout%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación Estructurada desde Cero con JAVA](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-estructurada-java%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación para principiantes - primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación Unity 1 - Clase MonoBehaviour](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flibreria-unity-engine-clase-monobehaviour%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación Unity 2 - Clases Time y Vector3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flibreria-unity-engine-2-clases-time-y-vector3%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación Unity 3 - Clase Input](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flibreria-unity-engine-3-clase-input%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programación Unity 4 - Clase Transform](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flibreria-unity-engine-4-clase-transform%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Programador web: Cookies y Sesiones en PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramador-web-php-cookies-y-sesiones%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Python 3 : Programación Orientada a Objetos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython3-programacion-orientada-a-objetos%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Python 3. Curso completo de Python 3. Aprende desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-python%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Que es lineSTring en AppInventor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fque-es-linestring-en-appinventor%2F){:target="_blank" rel="nofollow,noreferrer"}
