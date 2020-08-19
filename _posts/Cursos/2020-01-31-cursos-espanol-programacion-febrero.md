@@ -1,21 +1,18 @@
 ---
 
-title: '▷ 200 Cursos Gratis de Udemy: Vamos a Programar en Español en 2020'
-excerpt: '👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
-description: '👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
+title: '🥇 ▷ Los mejores cursos de introducción a la programación gratis 2020'
+excerpt: '✅ Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.'
+description: '✅ Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.'
 published: true
 author: rosepac
 bootstrap: true
 comments: false
-date: 2020-01-31 17:07:33
+date: 2020-08-19 10:07:33
 last_modified_at: 
-thumbnail: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
-feature-img: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
+thumbnail: /assets/img/blog/19-cursos-programacion-2020.webp
+feature-img: /assets/img/blog/19-cursos-programacion-2020.webp
 tags:
-- Programación
-categories:
-- Repositorios
-- Cursos
+- Cursos Gratis
 permalink: /cursos-espanol-programacion-febrero/
 canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 
@@ -24,21 +21,21 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 👉 Muchos de estos cursos ya están incluidos en nuestro [recopilatorio de cursos en español](/cursos-tecnologia/), allí podrás encontrarlos ordenados por temáticas y navegación de botones. En este otro enlace, podrás encontrar [libros](/biblioteca/) 💖
 {: .notice--info}
 
-🔎 Búsqueda rápida: Pulsar las teclas `CONTROL+F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
+🔎 Búsqueda rápida: Pulsar las teclas `CONTROL + F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
 {: .notice--warning}
 
-- [¿Cómo crear formularios de forma sencilla usando Swift?](https://www.udemy.com/course/como-crear-formularios-de-forma-sencilla-usando-swift/){:target="_blank" rel="nofollow,noreferrer"}
-- [¿Cómo crear una página web? Introducción a HTML5 y CSS3](https://www.udemy.com/course/como-crear-una-pagina-web-introduccion-a-html5-y-css3/){:target="_blank" rel="nofollow,noreferrer"}
-- [¿Por donde empezar en el desarrollo web? Empieza aquí ahora](https://www.udemy.com/course/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html/){:target="_blank" rel="nofollow,noreferrer"}
-- [60+ Herramientas de desarrollo y diseño web](https://www.udemy.com/course/recursos-web-plugins-y-utilidades/){:target="_blank" rel="nofollow,noreferrer"}
-- [Ajax en Wordpress para desarrolladores web (Avanzado)](https://www.udemy.com/course/ajax-para-wordpress/){:target="_blank" rel="nofollow,noreferrer"}
-- [Algoritmos desde Cero](https://www.udemy.com/course/algoritmos-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
-- [Android Studio, Instalación, Emuladores, Git, Plugins y Tips](https://www.udemy.com/course/android-studio-instalacion-emuladores-git-plugins-y-tips/){:target="_blank" rel="nofollow,noreferrer"}
-- [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/course/fundamentos-de-android-para-crear-apps-de-calidad/){:target="_blank" rel="nofollow,noreferrer"}
-- [Angular 5 y TypeScript - Curso de introducción paso a paso](https://www.udemy.com/course/angular-5-y-typescript-curso-de-introduccion-paso-a-paso/){:target="_blank" rel="nofollow,noreferrer"}
-- [Angular 8 - Curso básico de introducción y primeros pasos](https://www.udemy.com/course/angular-8-curso-basico-de-introduccion-y-primeros-pasos/){:target="_blank" rel="nofollow,noreferrer"}
-- [Angular: Convierte cualquier template HTML en una WebAPP](https://www.udemy.com/course/html-hacia-angular/){:target="_blank" rel="nofollow,noreferrer"}
-- [Análisis Espacial Vectorial con ArcGIS](https://www.udemy.com/course/analisis-espacial-vectorial-con-arcgis/){:target="_blank" rel="nofollow,noreferrer"}
+- [¿Cómo crear formularios de forma sencilla usando Swift?](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-formularios-de-forma-sencilla-usando-swift%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [¿Cómo crear una página web? Introducción a HTML5 y CSS3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-pagina-web-introduccion-a-html5-y-css3%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [¿Por donde empezar en el desarrollo web? Empieza aquí ahora](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpor-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [60+ Herramientas de desarrollo y diseño web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frecursos-web-plugins-y-utilidades%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Ajax en Wordpress para desarrolladores web (Avanzado)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fajax-para-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Algoritmos desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Falgoritmos-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Android Studio, Instalación, Emuladores, Git, Plugins y Tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-android-para-crear-apps-de-calidad%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Angular 5 y TypeScript - Curso de introducción paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fangular-5-y-typescript-curso-de-introduccion-paso-a-paso%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Angular 8 - Curso básico de introducción y primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fangular-8-curso-basico-de-introduccion-y-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Angular: Convierte cualquier template HTML en una WebAPP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhtml-hacia-angular%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Análisis Espacial Vectorial con ArcGIS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fanalisis-espacial-vectorial-con-arcgis%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [App Inventor 2: Componente "POLYGON"](https://www.udemy.com/course/app-inventor-2-componente-polygon/){:target="_blank" rel="nofollow,noreferrer"}
 - [App inventor 2: Componente Map](https://www.udemy.com/course/app-inventor-2-componente-map/){:target="_blank" rel="nofollow,noreferrer"}
 - [Apps en HTML5 para BlackBerry 10](https://www.udemy.com/course/apps-de-blackberry-10/){:target="_blank" rel="nofollow,noreferrer"}
@@ -225,7 +222,7 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [WordPress Gutenberg: Introducción al nuevo editor](https://www.udemy.com/course/wordpress-editor-gutenberg/){:target="_blank" rel="nofollow,noreferrer"}
 - [WordPress Introducción Practica a Gutenberg el Nuevo Editor](https://www.udemy.com/course/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor/){:target="_blank" rel="nofollow,noreferrer"}
 
-![👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
+![👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/19-cursos-programacion-2020.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
