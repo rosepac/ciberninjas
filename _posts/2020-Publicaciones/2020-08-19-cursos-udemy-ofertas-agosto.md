@@ -19,13 +19,15 @@ published: true
 
 ---
 
-En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año, pero hoy me gustaría traer algo diferente; y es que desde Udemy, han decidido tirar la casa por la ventana y dejar todos [los mejores cursos en tan sólo 9,99 €](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=507388.13868&type=3&subid=0){:target="_blank" rel="nofollow,noreferrer"} por un tiempo limitado.
+En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año, pero hoy me gustaría traer algo diferente; y es que desde Udemy, han decidido tirar la casa por la ventana y dejar todos [los mejores cursos en tan sólo 9,99 €](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=507388.13868&type=3&subid=0){:target="_blank" rel="nofollow,noreferrer"} por un tiempo limitado (hasta el 27 de Agosto).
 
 Si por desgracia, no tienes la oportunidad de acceder a comprar alguno de los excelentes cursos que te mostraré a continuación.
 
 Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gratis de programación y desarrollo](https://ciberninjas.com/cursos-tecnologia/)**, **[los mejores 200 cursos de introducción a la programación gratuitos de Udemy 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)**, nuestros listado de **[cursos gratis de animación y diseño](https://ciberninjas.com/cursos-animacion-diseno/)**, nuestros [cursos seleccionados de Microsoft](https://ciberninjas.com/cursos-tecnologia-microsoft/), los [cursos específicos para docentes y la educación](https://ciberninjas.com/cursos-educacion/) o los [cursos sobre otras temáticas](https://ciberninjas.com/cursos-otras-tematicas/) incluso puedes visitar nuesta información sobre [la academia de IBM](https://ciberninjas.com/open-ptech-el-aprendizaje-del-futuro/).
 
 A continuación vamos a seleccionar algunos de los mejores cursos en oferta exclusiva ofrecidos por Udemy, por solamente 9,99 € durante toda esta semana exclusivamente.
+
+> 📢 Estaré agregando más cursos, de los mejores profesionales de cada materia, en los próximos días.
 
 ## **Los mejores cursos de Desarrollo Web**
 
@@ -68,6 +70,12 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 ### Vue
 
+- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+
 ## **Los mejores cursos de Computación en la Nube**
 
 - [Amazon AWS: Curso Completo Arquitecto Soluciones Certificado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-aws-curso-arquitecto-soluciones-certificado-associate%2F%26eid%3DW9Gem8jDoic%26lsnoid%3DNONE){:target="_blank" rel="nofollow,noreferrer"} impartido por [JmG Virtual Consulting](https://twitter.com/jmgconsulting?lang=es){:target="_blank" rel="nofollow,noreferrer"} + 11,5 Horas.
@@ -80,9 +88,22 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 ## **Los mejores cursos de Diseño**
 
-- [Photoshop 2020, Fotografía, Edición, Diseño Gráfico, Dibujo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-photoshop-fotografia-edicion-diseno-grafico-dibujo%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Andrés Brachetta](https://www.linkedin.com/in/andres-brachetta/){:target="_blank" rel="nofollow,noreferrer"} + 10 Horas.
-- [Curso de Dibujo: Cuando el Dibujo Creativo supera al Arte](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-dibujo-tradicional-dibujo-a-lapiz-boceto-pintura%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Andrés Brachetta](https://www.linkedin.com/in/andres-brachetta/){:target="_blank" rel="nofollow,noreferrer"}. + 8,5 Horas.
+### Illustrator y Vectores
+
+- [Arte para Videojuegos: Unity Photoshop AI de Cero a AVANZADO](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphotoshop-cc-illustrator-cc-2020-arte-2d-para-videojuegos%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Casta Tutors](https://twitter.com/castatutor){:target="_blank" rel="nofollow,noreferrer"}. + 18,5 Horas.
+- [Inkscape fácil - Edición de gráficos vectoriales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-inkscape%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [David Gutierrez Verdura](https://twitter.com/davidgv){:target="_blank" rel="nofollow,noreferrer"}. + 3,5 Horas.
 - [Adobe Illustrator CC: Diseño Gráfico, Ilustración digital](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadobe-illustrator-cc-diseno-grafico-ilustracion-digital%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Andrés Brachetta](https://www.linkedin.com/in/andres-brachetta/){:target="_blank" rel="nofollow,noreferrer"}. + 10,5 Horas.
+
+### Photoshop
+
+- [Photoshop 2020, Fotografía, Edición, Diseño Gráfico, Dibujo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-photoshop-fotografia-edicion-diseno-grafico-dibujo%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Andrés Brachetta](https://www.linkedin.com/in/andres-brachetta/){:target="_blank" rel="nofollow,noreferrer"} + 10 Horas.
+- [Photoshop para principiantes: ¡De cero a experto!](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadobe-photoshop-curso-practico%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Hector Novo](https://twitter.com/video__cursos){:target="_blank" rel="nofollow,noreferrer"} + 8 Horas.
+- [Curso Photoshop CC: Diseña gráficas para tus redes sociales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-photoshop-cc-graficas-redes-sociales%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Hector Novo](https://twitter.com/video__cursos){:target="_blank" rel="nofollow,noreferrer"} + 8,5 Horas.
+- [Adobe Photoshop CC - Esencial: Edición de imágenes digitales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadobe-photoshop-cc-esencial-edicion-de-imagenes-digitales%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Hector Novo](https://twitter.com/video__cursos){:target="_blank" rel="nofollow,noreferrer"} + 9,5 Horas.
+
+### Dibujar a Mano
+
+- [Curso de Dibujo: Cuando el Dibujo Creativo supera al Arte](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-dibujo-tradicional-dibujo-a-lapiz-boceto-pintura%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Andrés Brachetta](https://www.linkedin.com/in/andres-brachetta/){:target="_blank" rel="nofollow,noreferrer"}. + 8,5 Horas.
 
 ## **Los mejores cursos de Seo y Marketing**
 
