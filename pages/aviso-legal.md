@@ -23,6 +23,14 @@ Correo electrónico: rosepac21@gmail.com Número de teléfono: +34 644 72 68 60
 
 Esta página web no recoge dato personal alguno de sus usuarios.
 
+## Contenido incrustado de otros sitios web
+
+El contenido que se encuentra en la web, siempre es recogido con el exclusivo enfoque la educación o ayuda al aprendizaje y estudio de las temáticas que deseamos transmitir. Por tanto, nos acojemos a las leyes de la Unión Europea, que permiten el uso de cualquier material existente, siempre y cuando sea exclusivamente usado como medio educativo.
+
+Los artículos en este sitio pueden incluir contenido incrustado (por ejemplo, vídeos, imágenes, artículos, etc.). El contenido incorporado de otros sitios web se comporta de la misma manera que si el visitante hubiera visitado el otro sitio web.
+
+Es posible que estos sitios web recopilen información sobre usted, utilicen 'cookies', incorporen un seguimiento de terceros adicional y monitoreen su interacción con ese contenido integrado, incluido el seguimiento de su interacción con el contenido incorporado si tiene una cuenta y está registrado en ese sitio web.
+
 ## Política de Comentarios
 
 La web utiliza el servicio de comentarios Disqus, por tanto se usan las 'cookies' que el servicio requiere; si deseas informarte más concretamente sobre su funcionamiento puedes leer aquí las políticas de privacidad completas del servicio.
@@ -65,12 +73,6 @@ Respecto al apartado de la tienda, desde esta página web no se realizan ventas 
 ## Formularios de Contacto
 
 No existe ningún tipo de formulario dentro de la página web.
-
-## Contenido incrustado de otros sitios web
-
-Los artículos en este sitio pueden incluir contenido incrustado (por ejemplo, vídeos, imágenes, artículos, etc.). El contenido incorporado de otros sitios web se comporta de la misma manera que si el visitante hubiera visitado el otro sitio web.
-
-Es posible que estos sitios web recopilen información sobre usted, utilicen 'cookies', incorporen un seguimiento de terceros adicional y monitoreen su interacción con ese contenido integrado, incluido el seguimiento de su interacción con el contenido incorporado si tiene una cuenta y está registrado en ese sitio web.
 
 ## Qué derechos tienes sobre tus datos
 
