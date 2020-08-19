@@ -13,8 +13,8 @@ tags:
 classed: wide
 permalink: /los-mejores-libros-de-obama-inicio-2020/
 canonical_URL: https://ciberninjas.com/los-mejores-libros-de-obama-inicio-2020/
-thumbnail: /assets/img/obama-leyendo.jpg
-feature-img: /assets/img/obama-leyendo.jpg
+thumbnail: assets/img/obama-leyendo.jpg
+feature-img: assets/img/obama-leyendo.jpg
 ---
 
 A principios de 2020, Barack Obama, compartio su lista anual de libros (además de películas y música) favoritos para leer durante todo el resto del año dos mil veinte. Esto se ha convertido ya, en una pequeña tradición por parte de Obama. Como ya [publicamos a mitad de 2019](/los-libros-de-obama-2019/) sus libros recomendados, a mitad del año 2019.
