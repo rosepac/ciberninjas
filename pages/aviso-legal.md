@@ -6,12 +6,13 @@ description: "Aviso Legal y Políticas de Privacidad · Política de Comentarios
 excerpt: "Aviso Legal y Políticas de Privacidad · Política de Comentarios · Créditos y Reconocimientos · Proyectos Realizados; ¿Qué es Ciberninjas?"
 last_modified_at: 2019-08-16T12:42:42-05:00
 permalink: "/aviso-legal/"
+canonical_URL: "https://ciberninjas.com/aviso-legal/"
 title: "Política de Privacidad"
 ---
 
 ## Quiénes somos
 
-La dirección de nuestro sitio web es: https://ciberninjas.com.
+La dirección de nuestro sitio web es: https://ciberninjas.com y el redactor único de la página web es [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy/).
 
 ## Contacto
 
