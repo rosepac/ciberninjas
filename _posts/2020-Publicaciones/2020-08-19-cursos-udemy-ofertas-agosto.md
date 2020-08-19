@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Cursos Gratis
-thumbnail: /assets/img/blog/19-agosto-udemy.webp
-feature-img: /assets/img/blog/19-agosto-udemy.webp
+thumbnail: assets/img/blog/19-agosto-udemy.webp
+feature-img: assets/img/blog/19-agosto-udemy.webp
 title: '▷ Los mejores cursos de Udemy, este Agosto, tan sólo por 9,99 €'
 description: >-
   Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
@@ -21,7 +21,9 @@ published: true
 
 En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año, pero hoy me gustaría traer algo diferente; y es que desde Udemy, han decidido tirar la casa por la ventana y dejar todos [los mejores cursos en tan sólo 9,99 €](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=507388.13868&type=3&subid=0){:target="_blank" rel="nofollow,noreferrer"} por un tiempo limitado.
 
-> Si por desgracia, no tienes la oportunidad de acceder a comprar alguno de los excelentes cursos que te mostraré a continuación. Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gratis de programación y desarrollo](https://ciberninjas.com/cursos-tecnologia/)**, **[los mejores 200 cursos de introducción a la programación gratuitos de Udemy 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)**, nuestros listado de **[cursos gratis de animación y diseño](https://ciberninjas.com/cursos-animacion-diseno/)**, nuestros [cursos seleccionados de Microsoft](https://ciberninjas.com/cursos-tecnologia-microsoft/), los [cursos específicos para docentes y la educación](https://ciberninjas.com/cursos-educacion/) o los [cursos sobre otras temáticas](https://ciberninjas.com/cursos-otras-tematicas/) incluso puedes visitar nuesta información sobre [la academia de IBM](https://ciberninjas.com/open-ptech-el-aprendizaje-del-futuro/).
+Si por desgracia, no tienes la oportunidad de acceder a comprar alguno de los excelentes cursos que te mostraré a continuación.
+
+Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gratis de programación y desarrollo](https://ciberninjas.com/cursos-tecnologia/)**, **[los mejores 200 cursos de introducción a la programación gratuitos de Udemy 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)**, nuestros listado de **[cursos gratis de animación y diseño](https://ciberninjas.com/cursos-animacion-diseno/)**, nuestros [cursos seleccionados de Microsoft](https://ciberninjas.com/cursos-tecnologia-microsoft/), los [cursos específicos para docentes y la educación](https://ciberninjas.com/cursos-educacion/) o los [cursos sobre otras temáticas](https://ciberninjas.com/cursos-otras-tematicas/) incluso puedes visitar nuesta información sobre [la academia de IBM](https://ciberninjas.com/open-ptech-el-aprendizaje-del-futuro/).
 
 A continuación vamos a seleccionar algunos de los mejores cursos en oferta exclusiva ofrecidos por Udemy, por solamente 9,99 € durante toda esta semana exclusivamente.
 
