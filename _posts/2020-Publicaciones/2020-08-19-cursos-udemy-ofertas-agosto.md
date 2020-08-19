@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Cursos Gratis
-thumbnail: /assets/img/blog/19-agosto-udemy.jpg
-feature-img: /assets/img/blog/19-agosto-udemy.jpg
+thumbnail: /assets/img/blog/19-agosto-udemy.webp
+feature-img: /assets/img/blog/19-agosto-udemy.webp
 title: '🥇 ▷ Los mejores cursos de Udemy, este Agosto, tan sólo por 9,99 €'
 description: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
