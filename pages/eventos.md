@@ -114,6 +114,10 @@ Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dah
 Para aplicaciones nativas de la nube, Kubernetes e Istio proporcionan funcionalidades clave para microservicios independientes de su lenguaje de programación y sin cambios en su aplicación lógica. Sin embargo, algunas funcionalidades deben manejarse en la lógica empresarial de los microservicios, ej. funcionalidad de gestión de errores específica de la aplicación, métricas y gestión de permisos.
 En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse MicroProfile y cómo ejecutarlos en Kubernetes e Istio. Utilizaremos nuestro ejemplo de Cloud Native Starter disponible en Github.
 
+### 🔔 29 de Septiembre
+
+- (19:00 PM) Construyendo AI sin sesgos de género - [Registro](https://events.codemotion.com/webinars/memoirs-of-a-geisha-construyendo-ai-sin-sesgos-de-gnero/){:target="_blank" rel="nofollow, noreferrer"}
+
 ## **Eventos tecnológicos de Octubre**
 
 ### 🔔 3 de Octubre
@@ -132,13 +136,6 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
 
-### **Tarugconf: 22, 23, 24 de Octubre**
-
-- ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
-
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
-
 ### 🔔 20 de Octubre
 
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
@@ -150,6 +147,13 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 22 de Octubre
 
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### **Tarugconf: 22, 23, 24 de Octubre**
+
+- ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
+
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
 
 ### 🔔 27 de Octubre
 
