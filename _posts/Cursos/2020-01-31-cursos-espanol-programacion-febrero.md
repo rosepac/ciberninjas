@@ -163,20 +163,19 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Introducción al desarrollo de temas WordPress](https://www.udemy.com/course/introduccion-desarrollo-temas-wordpress/){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción al Desarrollo de Videojuegos con Unity 3D](https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d/){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción al HTML y CSS](https://www.udemy.com/course/introduccion-html-y-css/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/course/introduccion-teorica-a-los-framework-de-desarrollo-para-php/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introducción Vue js 2 framework JAVASCRIPT desde CERO](https://www.udemy.com/course/introduccion-vue-js-2-framework-javascript-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
-- [Java Básico desde Cero](https://www.udemy.com/course/java-basico-desde-cero-gratis/){:target="_blank" rel="nofollow,noreferrer"}
-- [jQuery UI - Amplia los límites de jQuery](https://www.udemy.com/course/jquery-ui-amplia-los-limites-de-jquery/){:target="_blank" rel="nofollow,noreferrer"}
-- [jQuery y AJAX Desde Cero - La Guía Definitiva](https://www.udemy.com/course/curso-de-jquery/){:target="_blank" rel="nofollow,noreferrer"}
-- [Laravel para principiantes - Da los primeros pasos](https://www.udemy.com/course/laravel-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
-- [Laravel y Vue Js avanzado](https://www.udemy.com/course/laravel-y-vue-js-avanzado/){:target="_blank" rel="nofollow,noreferrer"}
-- [Linux para Principiantes](https://www.udemy.com/course/linux-para-principiantes-1/){:target="_blank" rel="nofollow,noreferrer"}
-- [Login y Registro de Usuarios con PHP y MySql](https://www.udemy.com/course/login-con-php-jairo-galeas/){:target="_blank" rel="nofollow,noreferrer"}
-- [Los cimientos de un desarrollador web: HTML](https://www.udemy.com/course/los-cimientos-de-un-desarrollador-web-html/){:target="_blank" rel="nofollow,noreferrer"}
-- [Lógica Programación: Aprende Programar en Cualquier Lenguaje](https://www.udemy.com/course/logica-programacion-aprende-programar-en-cualquier-lenguaje/){:target="_blank" rel="nofollow,noreferrer"}
-- [Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica.](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/){:target="_blank" rel="nofollow,noreferrer"}
-- [Mi primer juego con Unity 5](https://www.udemy.com/course/mi-primer-juego-con-unity-5/){:target="_blank" rel="nofollow,noreferrer"}
-- [Mi primera app con Android N](https://www.udemy.com/course/mi-primera-app-con-android-n/){:target="_blank" rel="nofollow,noreferrer"}
+- [Introducción teórica a los frameworks de desarrollo para PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-teorica-a-los-framework-de-desarrollo-para-php%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Introducción Vue js 2 framework JAVASCRIPT desde CERO](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-vue-js-2-framework-javascript-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Java Básico desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-basico-desde-cero-gratis%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [jQuery UI - Amplia los límites de jQuery](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjquery-ui-amplia-los-limites-de-jquery%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [jQuery y AJAX Desde Cero - La Guía Definitiva](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-jquery%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Laravel para principiantes - Da los primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Linux para Principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-para-principiantes-1%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Login y Registro de Usuarios con PHP y MySql](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flogin-con-php-jairo-galeas%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Lógica Programación: Aprende Programar en Cualquier Lenguaje](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flogica-programacion-aprende-programar-en-cualquier-lenguaje%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-el-lenguaje-de-programacion-python3-practicando%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Mi primer juego con Unity 5](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmi-primer-juego-con-unity-5%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Mi primera app con Android N](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmi-primera-app-con-android-n%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [NestJS: Node + Typescript al estilo Angular para crear APIS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnestjs-free%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Objetivos de Desarrollo Sostenible](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fobjetivos-de-desarrollo-sostenible%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [PHP curso de programación desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-programacion-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"}
