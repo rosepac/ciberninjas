@@ -107,4 +107,6 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+![Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.](/assets/img/blog/19-agosto-udemy.jpg "Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.")
+
 > **Fuente**: [Página web Oficial de CT.JS](https://ctjs.rocks/){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.
