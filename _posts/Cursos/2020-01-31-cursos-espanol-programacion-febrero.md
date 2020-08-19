@@ -1,6 +1,6 @@
 ---
 
-title: '🥇 ▷ Los mejores cursos de introducción a la programación gratis 2020'
+title: '🥇 ▷ Los mejores cursos de introducción a la programación 2020'
 excerpt: '✅ Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.'
 description: '✅ Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.'
 published: true
