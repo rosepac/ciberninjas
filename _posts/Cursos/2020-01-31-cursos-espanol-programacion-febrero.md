@@ -9,8 +9,8 @@ bootstrap: true
 comments: false
 date: 2020-08-19 10:07:33
 last_modified_at: 
-thumbnail: /assets/img/blog/19-cursos-programacion-2020.webp
-feature-img: /assets/img/blog/19-cursos-programacion-2020.webp
+thumbnail: /assets/img/blog/19-cursos-programacion-2020.jpg
+feature-img: /assets/img/blog/19-cursos-programacion-2020.jpg
 tags:
 - Cursos Gratis
 permalink: /cursos-espanol-programacion-febrero/
