@@ -208,14 +208,13 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Tienda en línea con WordPress y WooCommerce - Guía Completa](https://www.udemy.com/course/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa/){:target="_blank" rel="nofollow,noreferrer"}
 - [Vertical Scroll Arrangement](https://www.udemy.com/course/vertical-scroll-arrangement/){:target="_blank" rel="nofollow,noreferrer"}
 - [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/){:target="_blank" rel="nofollow,noreferrer"}
-- [Vue.js - Curso básico de introducción y primeros pasos](https://www.udemy.com/course/vuejs-y-vue-2-curso-de-introduccion-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
-- [WebVR - Realidad Virtual con A-Frame para principiantes](https://www.udemy.com/course/webvr-realidad-virtual-con-a-frame-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
-- [Windows 10 - Instalación y configuración (desde cero)](https://www.udemy.com/course/windows10-instalacion-y-configuracion/){:target="_blank" rel="nofollow,noreferrer"}
-- [Windows 10 Essentials.](https://www.udemy.com/course/windows-10-essentials-l/){:target="_blank" rel="nofollow,noreferrer"}
-- [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/course/windows-server-y-linux-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
-- [WordPress - 5 formas de hacer una migración exitosa](https://www.udemy.com/course/wordpress-formas-de-hacer-una-migracion-exitosa/){:target="_blank" rel="nofollow,noreferrer"}
-- [WordPress Gutenberg: Introducción al nuevo editor](https://www.udemy.com/course/wordpress-editor-gutenberg/){:target="_blank" rel="nofollow,noreferrer"}
-- [WordPress Introducción Practica a Gutenberg el Nuevo Editor](https://www.udemy.com/course/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor/){:target="_blank" rel="nofollow,noreferrer"}
+- [Vue.js - Curso básico de introducción y primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-y-vue-2-curso-de-introduccion-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [WebVR - Realidad Virtual con A-Frame para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwebvr-realidad-virtual-con-a-frame-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Windows 10 Essentials.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwindows-10-essentials-l%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwindows-server-y-linux-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [WordPress - 5 formas de hacer una migración exitosa](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-formas-de-hacer-una-migracion-exitosa%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [WordPress Gutenberg: Introducción al nuevo editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-editor-gutenberg%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [WordPress Introducción Practica a Gutenberg el Nuevo Editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-introduccion-practica-a-gutenberg-el-nuevo-editor%2F){:target="_blank" rel="nofollow,noreferrer"}
 
 ![👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/19-cursos-programacion-2020.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
 
