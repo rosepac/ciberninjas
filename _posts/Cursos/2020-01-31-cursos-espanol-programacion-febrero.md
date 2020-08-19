@@ -177,11 +177,11 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica.](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/){:target="_blank" rel="nofollow,noreferrer"}
 - [Mi primer juego con Unity 5](https://www.udemy.com/course/mi-primer-juego-con-unity-5/){:target="_blank" rel="nofollow,noreferrer"}
 - [Mi primera app con Android N](https://www.udemy.com/course/mi-primera-app-con-android-n/){:target="_blank" rel="nofollow,noreferrer"}
-- [NestJS: Node + Typescript al estilo Angular para crear APIS](https://www.udemy.com/course/nestjs-free/){:target="_blank" rel="nofollow,noreferrer"}
-- [Objetivos de Desarrollo Sostenible](https://www.udemy.com/course/objetivos-de-desarrollo-sostenible/){:target="_blank" rel="nofollow,noreferrer"}
-- [PHP curso de programación desde cero...](https://www.udemy.com/course/curso-de-programacion-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
-- [Primeros pasos con Vue.js: Vue en ejercicios](https://www.udemy.com/course/primeros-pasos-con-el-framework-vuejs/){:target="_blank" rel="nofollow,noreferrer"}
-- [Prbar Django: Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python/){:target="_blank" rel="nofollow,noreferrer"}
+- [NestJS: Node + Typescript al estilo Angular para crear APIS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnestjs-free%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Objetivos de Desarrollo Sostenible](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fobjetivos-de-desarrollo-sostenible%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [PHP curso de programación desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-programacion-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Primeros pasos con Vue.js: Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Probar Django: Crear una Aplicación Web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprobar-django-construir-una-aplicacion-web-en-python%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Programación Android 01 Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Programación CNC - Fresadoras](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacioncnc%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Programación de juegos Web 2D en JavaScript HTML5 con Phaser](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-de-juegos-web-2d-en-javascript-html5-con-phaser%2F){:target="_blank" rel="nofollow,noreferrer"}
