@@ -5,16 +5,16 @@ bootstrap: true
 comments: false
 tags:
 - Cursos Gratis
-thumbnail: /assets/img/blog/19-agosto-udemy.webp
-feature-img: /assets/img/blog/19-agosto-udemy.webp
-title: '🥇 ▷ Los mejores cursos de Udemy, este Agosto, tan sólo por 9,99 €'
+thumbnail: /assets/img/blog/19-agosto-udemy-ofertas.webp
+feature-img: /assets/img/blog/19-agosto-udemy-ofertas.webp
+title: '🥇 ▷ Los mejores cursos de Udemy en Agosto, tan sólo por 9,99 €'
 description: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 excerpt: >-
-  Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
+  ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas-agosto/
 permalink: /cursos-udemy-ofertas-agosto/
-date: 2020-08-19 09:12:12
+date: 2020-08-19 09:33:12
 published: true
 
 ---
@@ -54,10 +54,7 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 ### React
 
 - [React: De cero a experto ( Hooks y MERN )](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-cero-experto%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. +  Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. +  Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. +  Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. +  Horas
+- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
 
 ### SQL
 
@@ -106,4 +103,4 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.](/assets/img/blog/19-agosto-udemy.webp "Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.")
+![Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €](/assets/img/blog/19-agosto-udemy-ofertas.webp "Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €")
