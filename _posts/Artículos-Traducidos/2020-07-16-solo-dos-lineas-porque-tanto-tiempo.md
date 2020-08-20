@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Reflexiones de Programación
+  - Reflexión de Programación
 thumbnail: /assets/img/2020-news/caracol-programando.webp
 feature-img: /assets/img/2020-news/caracol-programando.webp
 title: '▷ Solo has agregado dos líneas de código, ¿Por qué has tardado dos días?'

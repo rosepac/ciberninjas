@@ -12,7 +12,7 @@ canonical_URL: /manual-crear-lenguaje-programacion/
 thumbnail: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 tags:
-- Reflexiones de Programación
+  - Reflexión de Programación
 toc: false
 toc_label: "Contenidos"
 toc_icon: user-ninja

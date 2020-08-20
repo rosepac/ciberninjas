@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Reflexiones de Programación
+  - Reflexión de Programación
 thumbnail: /assets/img/blog/marzo-portada-mercedes-bunz.webp
 feature-img: /assets/img/blog/marzo-portada-mercedes-bunz.webp
 title: '▷ La escuela nunca terminará: Hablemos sobre la infantilización en entornos digitales'

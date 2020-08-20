@@ -9,7 +9,7 @@ date: 2018-03-20 01:00:00 +0100
 permalink: /aprender-a-programar-es-cada-vez-más-difícil/
 canonical_URL: https://ciberninjas.com/aprender-a-programar-es-cada-vez-más-difícil/
 tags:
-  - Reflexiones de Programación
+  - Reflexión de Programación
 thumbnail: /assets/img/2020-news/chico-buscando-libro-biblioteca.webp
 feature-img: /assets/img/2020-news/chico-buscando-libro-biblioteca.webp
 

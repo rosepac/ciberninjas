@@ -6,7 +6,7 @@ date: 2020-02-24 18:20:00 +0100
 canonical_URL: https://ciberninjas.com/hábitos-basicos-desarrollador-software/
 permalink: /hábitos-basicos-desarrollador-software/
 tags:
-  - Reflexiones de Programación
+  - Reflexión de Programación
   - Programar
   - Software
 thumbnail: /assets/img/blog/imagen-pensando-chicos.webp
