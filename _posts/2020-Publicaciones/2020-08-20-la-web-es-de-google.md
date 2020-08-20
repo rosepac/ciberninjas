@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Reflexión Tecnológica
-thumbnail: /assets/img/blog/16-renderizar-musica-javascript.webp
-feature-img: /assets/img/blog/16-renderizar-musica-javascript.webp
+thumbnail: /assets/img/blog/google-monopolio.webp
+feature-img: /assets/img/blog/google-monopolio.webp
 title: '▷ La web está atrapado en los brazos del monopolio de Google'
 description: >-
   El abrazo letal de Google a la Web es ya un hecho consumado, y solamente la legislación evitará que la World Wide Web se convierta finalmente en la Web Mundial de Google.
