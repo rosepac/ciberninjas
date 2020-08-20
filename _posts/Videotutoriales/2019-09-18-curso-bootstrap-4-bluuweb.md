@@ -9,7 +9,7 @@ permalink: /👨‍🏫-curso-bootstrap-4-bluuweb/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-bootstrap-4-bluuweb/
 comments: false
 date: 2019-09-28
-tags: [Bootstrap, Videotutorial Bootstrap]
+tags: [Bootstrap, Videotutorial Bootstrap, Bluuweb]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

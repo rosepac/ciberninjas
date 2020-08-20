@@ -9,7 +9,7 @@ permalink: /videojuegos-scratch-programo-ergo-sum/
 canonical_URL: https://ciberninjas.com/videojuegos-scratch-programo-ergo-sum/
 comments: false
 date: 2019-11-28
-tags: [Scratch, Videotutorial Scratch]
+tags: [Scratch, Videotutorial Scratch, Programo Ergo Sum]
 ---
 
 ## Pacman

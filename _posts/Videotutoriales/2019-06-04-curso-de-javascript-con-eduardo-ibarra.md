@@ -13,6 +13,7 @@ date: 2019-06-04 15:10:00 +0200
 tags:
   - Javascript
   - Videotutorial Javascript
+  - Eduardo Ibarra
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

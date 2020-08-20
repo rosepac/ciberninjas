@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /spring-boot-con-mitocode/
 comments: false
 date: 2019-12-10 18:20:00 +0200
-tags: [Java, Framework Spring, Videotutorial Java]
+tags: [Java, Framework Spring, Videotutorial Java, Mito Code]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

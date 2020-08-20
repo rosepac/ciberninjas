@@ -9,7 +9,7 @@ permalink: /👨‍🏫-curso-bootstrap-4-yoney-gallardo/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-bootstrap-4-yoney-gallardo/
 comments: false
 date: 2019-09-28
-tags: [Bootstrap, Videotutorial Bootstrap]
+tags: [Bootstrap, Videotutorial Bootstrap, Yoney Gallardo]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

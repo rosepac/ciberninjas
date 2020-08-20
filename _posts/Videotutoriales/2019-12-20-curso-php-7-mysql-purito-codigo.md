@@ -9,7 +9,7 @@ permalink: /👨‍🏫-curso-php-7-mysql-purito-codigo/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-php-7-mysql-purito-codigo/
 comments: false
 date: 2019-12-19
-tags: [PHP, MySQL, Videotutorial PHP]
+tags: [PHP, MySQL, Videotutorial PHP, Purito Código]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

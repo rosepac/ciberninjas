@@ -9,7 +9,7 @@ permalink: /👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb/
 comments: false
 date: 2019-09-28
-tags: [Bootstrap, Videotutorial Bootstrap]
+tags: [Bootstrap, Videotutorial Bootstrap, Bluuweb]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

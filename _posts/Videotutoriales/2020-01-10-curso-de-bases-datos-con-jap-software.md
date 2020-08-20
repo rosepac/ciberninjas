@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /bases-datos-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [Bases de Datos, Videotutorial Bases de Datos]
+tags: [Bases de Datos, Videotutorial Bases de Datos, Jap Software]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

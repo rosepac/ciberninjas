@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /spring-boot-docker-con-albert-coronado/
 comments: false
 date: 2019-12-04 18:01:00 +0200
-tags: [Docker, Videotutorial Docker]
+tags: [Docker, Videotutorial Docker, Albert Coronado]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

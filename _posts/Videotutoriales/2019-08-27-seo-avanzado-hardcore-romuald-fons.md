@@ -10,6 +10,7 @@ date: 2019-08-27 10:17:12
 tags:
 - SEO Avanzado
 - Videotutorial SEO y Posicionamiento
+- Romuald Fons
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

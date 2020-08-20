@@ -9,7 +9,7 @@ permalink: /👨‍🏫-curso-html-purito-codigo/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-html-purito-codigo/
 comments: false
 date: 2019-12-19
-tags: [HTML5, Videotutorial HTML5]
+tags: [HTML5, Videotutorial HTML5, Purito Código]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

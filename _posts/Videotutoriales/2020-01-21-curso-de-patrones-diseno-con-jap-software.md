@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /crear-patrones-de-diseño-de-software-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [Patrones de Diseño, Videotutorial Patrones Diseño]
+tags: [Patrones de Diseño, Videotutorial Patrones Diseño, Jap Software]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

@@ -9,7 +9,7 @@ permalink: /👨‍🏫-curso-crear-pagina-web-basica-desde-cero-purito-codigo/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-crear-pagina-web-basica-desde-cero-purito-codigo/
 comments: false
 date: 2019-12-19
-tags: [HTML, CSS, Videotutorial HTML, Videotutorial CSS]
+tags: [HTML, CSS, Videotutorial HTML, Videotutorial CSS, Purito Código]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

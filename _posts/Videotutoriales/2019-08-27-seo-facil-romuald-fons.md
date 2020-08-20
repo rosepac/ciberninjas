@@ -10,6 +10,7 @@ date: 2019-08-27 09:30:12
 tags:
 - SEO
 - Videotutorial SEO y Posicionamiento
+- Romuald Fons
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

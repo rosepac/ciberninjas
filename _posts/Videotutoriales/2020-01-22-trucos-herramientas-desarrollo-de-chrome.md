@@ -11,7 +11,7 @@ permalink: /trucos-herramientas-desarrollo-de-chrome/
 canonical_URL: https://ciberninjas.com/trucos-herramientas-desarrollo-de-chrome/
 comments: false
 date: 2020-01-22 13:57:00 +0200
-tags: [Chrome, Videotutorial Chrome]
+tags: [Chrome, Videotutorial Chrome, Código con Juan]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

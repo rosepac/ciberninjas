@@ -9,7 +9,7 @@ permalink: /👨‍🏫-galerias-varios-efectos-css-purito-codigo/
 canonical_URL: https://ciberninjas.com/👨‍🏫-galerias-varios-efectos-css-purito-codigo//
 comments: false
 date: 2019-12-19
-tags: [CSS, Videotutorial CSS]
+tags: [CSS, Videotutorial CSS, Purito Código]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

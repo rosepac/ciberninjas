@@ -9,7 +9,7 @@ permalink: /👨‍🏫-curso-bootstrap-4-falcon-masters/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-bootstrap-4-falcon-masters/
 comments: false
 date: 2019-09-28
-tags: [Bootstrap, Videotutorial Bootstrap]
+tags: [Bootstrap, Videotutorial Bootstrap, Falcon Masters]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

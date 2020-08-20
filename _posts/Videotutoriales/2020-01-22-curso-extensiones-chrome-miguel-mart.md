@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /extensiones-chrome-por-miguel-mart/
 comments: false
 date: 2020-01-22 13:55:00 +0200
-tags: [Chrome, Videotutorial Chrome]
+tags: [Chrome, Videotutorial Chrome, Miguel Mart]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

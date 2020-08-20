@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /spring-boot-docker-con-abel-fresnillo/
 comments: false
 date: 2019-12-04 17:55:00 +0200
-tags: [Java, Framework Spring, Redis, Videotutorial Java, Videotutorial Docker, Videotutorial Redis]
+tags: [Java, Framework Spring, Redis, Videotutorial Java, Videotutorial Docker, Videotutorial Redis, Abel Fresnillo]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

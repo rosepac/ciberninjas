@@ -13,6 +13,7 @@ date: 2019-06-04 15:35:00 +0200
 tags:
   - Javascript
   - Videotutorial Javascript
+  - Jesús Conde
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

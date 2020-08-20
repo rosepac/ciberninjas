@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /c-sharp-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [C#, Videotutorial C#]
+tags: [C#, Videotutorial C#, Jap Software]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

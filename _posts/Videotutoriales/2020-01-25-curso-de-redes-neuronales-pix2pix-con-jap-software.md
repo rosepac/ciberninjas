@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /redes-neuronales-pix2pix-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [pix2pix, Redes Neuronales, Videotutorial Redes Neuronales]
+tags: [pix2pix, Redes Neuronales, Videotutorial Redes Neuronales, Jap Software]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /inteligencia-artificial-c-sharp-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [Inteligencia Artificial, C#, Videotutorial Inteligencia Artificial, Videotutorial C#]
+tags: [Inteligencia Artificial, C#, Videotutorial Inteligencia Artificial, Videotutorial C#, Jap Software]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

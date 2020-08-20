@@ -11,6 +11,7 @@ tags:
 - SEO
 categories:
 - Videotutorial SEO y Posicionamiento
+- Romuald Fons
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

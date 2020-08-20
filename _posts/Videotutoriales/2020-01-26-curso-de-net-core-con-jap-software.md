@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /net-core-framework-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [NET Core Framework, Videotutorial .NET Core Framework]
+tags: [NET Core Framework, Videotutorial .NET Core Framework, Jap Software]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

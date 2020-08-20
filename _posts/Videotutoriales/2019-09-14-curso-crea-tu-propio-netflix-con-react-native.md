@@ -11,6 +11,7 @@ date: 2019-09-14 06:35:00 +0200
 tags:
   - React Native
   - Videotutorial React Native
+  - Mario Díez
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
