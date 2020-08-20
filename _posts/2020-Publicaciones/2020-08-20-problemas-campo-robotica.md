@@ -77,9 +77,13 @@ Pero en realidad, todo lo que sé sobre la robótica es que es bastante compleja
 ### **Relacionados** <!-- omit in toc -->
 
 [ ▷ ¿Cuándo y dónde aparece por primera vez la palabra robots?](https://ciberninjas.com/aparicion-palabra-robot/)
+
 [🤖 ▷ Una espectacular galería de robots históricos](https://ciberninjas.com/galeria-de-robots/)
+
 [📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos](https://ciberninjas.com/somos-cyborgs/)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![](/assets/img/blog/robotica-ai.webp)
 
 > **Fuente**: [Problemas de la robótica](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

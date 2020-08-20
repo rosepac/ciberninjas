@@ -72,4 +72,6 @@ Incluso controla el sistema operativo y el navegador a través del cual la mayor
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+![](/assets/img/blog/google-monopolio.webp)
+
 > **Fuente**: [Blog Landshark.io](https://landshark.io/2020/08/16/web-by-google.html){:target="_blank" rel="nofollow,noreferrer"} por Alan Gibson.
