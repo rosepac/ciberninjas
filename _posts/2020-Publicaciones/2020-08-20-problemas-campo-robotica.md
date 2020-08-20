@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Robótica
 thumbnail: /assets/img/blog/.webp
 feature-img: /assets/img/blog/.webp
 title: '▷ Los problemas abiertos del mundo de la robótica'
