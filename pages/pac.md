@@ -16,7 +16,7 @@ Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas co
 👉 Puedes encontrar algunos de mis viejos trabajos [aquí](/proyectos/) e información sobre mis gustos e intereses personajes, por [aquí](/rosepac/)
 {: .notice--warning}
 
-## **¿Quién es Pablo Álvarez Corredera?**
+## **¿Quién es Pablo Álvarez Corredera?** <!-- omit in toc -->
 
 Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank" rel="nofollow,noreferrer"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
 
@@ -25,6 +25,36 @@ Nunca he encontrado la fortuna alrededor de la web. Años intentando darle senti
 No descarto que la culpa sea mía por no saber centrarme en una temática concreta, lo que dificulta la gestión cada vez más; pero bueno, yo lo intento..
 
 ## **¿Qué estudios he realizado?**
+
+- [**¿Qué estudios he realizado?**](#qué-estudios-he-realizado)
+  - [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
+  - [Dinamización en Redes Sociales](#dinamización-en-redes-sociales)
+  - [Diseño de proyectos educativos sobre seguridad en la red](#diseño-de-proyectos-educativos-sobre-seguridad-en-la-red)
+  - [Adicción a la tecnología](#adicción-a-la-tecnología)
+  - [Introducción al desarrollo web (iDESWEB)](#introducción-al-desarrollo-web-idesweb)
+  - [Técnicas de Creatividad](#técnicas-de-creatividad)
+  - [Empieza con el inglés: aprende las mil palabras más usadas](#empieza-con-el-inglés-aprende-las-mil-palabras-más-usadas)
+  - [Curso de Desarrollo de Apps Móviles](#curso-de-desarrollo-de-apps-móviles)
+  - [Espionaje y Cibervigilancia](#espionaje-y-cibervigilancia)
+  - [Taller de Emprendimiento](#taller-de-emprendimiento)
+  - [Innovación en la Relación con los Clientes: E-Commerce y Community Management](#innovación-en-la-relación-con-los-clientes-e-commerce-y-community-management)
+    - [Comercio Electrónico](#comercio-electrónico)
+    - [Administración de clientes](#administración-de-clientes)
+    - [Community Manager](#community-manager)
+    - [Google Adwords](#google-adwords)
+    - [Innovando el uso de internet en la relación con los clientes](#innovando-el-uso-de-internet-en-la-relación-con-los-clientes)
+    - [Prácticas](#prácticas)
+  - [Internalización del SEO](#internalización-del-seo)
+  - [Unimooc: Emprende](#unimooc-emprende)
+  - [Innotools: Transforma tu idea de negocio](#innotools-transforma-tu-idea-de-negocio)
+  - [Competencias Digitales Básicas](#competencias-digitales-básicas)
+  - [Mediador en Prevención de Conductas Violentas en Jóvenes](#mediador-en-prevención-de-conductas-violentas-en-jóvenes)
+  - [Sensibilización en Igualdad de Oportunidades entre Mujeres y Hombres](#sensibilización-en-igualdad-de-oportunidades-entre-mujeres-y-hombres)
+  - [ONG Cruz Roja: Formación Básica Institucional](#ong-cruz-roja-formación-básica-institucional)
+  - [Programación en .NET](#programación-en-net)
+  - [Construcción de Páginas Web](#construcción-de-páginas-web)
+    - [Certificado de profesionalidad parcial: Construcción de páginas web (MF0950_2)](#certificado-de-profesionalidad-parcial-construcción-de-páginas-web-mf0950_2)
+  - [Introducción a la Red de Internet](#introducción-a-la-red-de-internet)
 
 ### Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"
 
@@ -280,7 +310,7 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 - Otras Aplicaciones de Internet.
 
 
-## Algunas Invenciones
+## Algunas Invenciones <!-- omit in toc -->
 
 - **Arrengado**: Dícese de una persona que se siente tan bajo de energías que no es capaz de moverse del sitio aunque desea con todas sus ganas el hacerlo. Vendría a ser la suma de: arraigado + apalancado 😹
 - **"¿Quieres un bar de carretera del siglo XXI? Simplemente, entra a Twitter."** 🍻
