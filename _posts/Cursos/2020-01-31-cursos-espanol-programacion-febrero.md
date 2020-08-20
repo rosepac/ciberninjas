@@ -18,11 +18,17 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 
 ---
 
-👉 Muchos de estos cursos ya están incluidos en nuestro [recopilatorio de cursos en español](/cursos-tecnologia/), allí podrás encontrarlos ordenados por temáticas y navegación de botones. En este otro enlace, podrás encontrar [libros](/biblioteca/) 💖
-{: .notice--info}
+Muchos de estos cursos ya están incluidos en nuestro [recopilatorio de cursos en español](/cursos-tecnologia/), allí podrás encontrarlos ordenados por temáticas y navegación de botones. En este otro enlace, podrás encontrar [libros](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/).
 
-🔎 Búsqueda rápida: Pulsar las teclas `CONTROL + F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
-{: .notice--warning}
+Si lo que deseas es [aprender a programar](https://ciberninjas.com/programa-gratis/), no dejes de investigar más en profundidad alrededor de toda la web; y también, puedes investigar entre los cientos de recursos gratis que te ofrece Ciberninjas.
+
+A tener en cuenta, que muchos de estos cursos gratuitos, están creados con anterioridad a la limitación del tiempo para los cursos gratis creada a posteriori por Udemy; por lo tanto, algunos de ellos, son cursos gratis de varias horas. ¡🎉🎉🎉!
+
+Lo que en la actualidad, es imposible de encontrar, entre los nuevos cursos gratuitos de Udemy. Que están restringidos a un máximo de 2 horas de duración.
+
+> 🔎 Búsqueda Rápida: Pulsar las teclas `CONTROL + F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
+
+Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprendiendo mucho más en profundidad, no dudes en visitar [los cursos rebajados a 9,99 €](https://ciberninjas.com/cursos-udemy-ofertas-agosto/) creados por los mejores profesionales. Exclusivamente hasta el 27 de Agosto.
 
 - [¿Cómo crear formularios de forma sencilla usando Swift?](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-formularios-de-forma-sencilla-usando-swift%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [¿Cómo crear una página web? Introducción a HTML5 y CSS3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-pagina-web-introduccion-a-html5-y-css3%2F){:target="_blank" rel="nofollow,noreferrer"}
@@ -84,16 +90,15 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Crea tu Página Web sin Códigos Ni Complicaciones.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-pagina-web-sin-codigos-ni-complicaciones%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Creación de Videojuegos en Unreal Engine para principiantes](https://www.udemy.com/course/unreal-engine-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
 - [Crear Documentos PDF directamente desde PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freportes-pdf-con-php%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [Crear Una Página Web Desde Cero Para Principiantes ([2020)](https://www.udemy.com/course/crea-esta-pagina-web-moderna-con-html5-css3-y-jquery-2019/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso Asp.Net MVC + Entity Framework para principiantes](https://www.udemy.com/course/curso-aspnet-mvc-entity-framework-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso básico de desarrollo de aplicaciones web from scratch](https://www.udemy.com/course/aprende-a-crear-una-aplicacion-web-usando-ruby-on-rails-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso Básico de Iniciación SAP](https://www.udemy.com/course/iniciacion-al-sistema-sap/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso básico de programación orientada a objetos en java](https://www.udemy.com/course/basic-poo-java/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso completo de Wordpress y Woocoommerce](https://www.udemy.com/course/curso-completo-de-wordpress-y-woocoommerce/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso de C# 8 .NET Core desde cero hasta lo mas avanzado](https://www.udemy.com/course/curso-de-c-sharp-net-core-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso de FlexBox desde 0](https://www.udemy.com/course/curso-de-flexbox-desde-0/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso de iniciación a Swift y Xcode](https://www.udemy.com/course/curso-de-iniciacion-a-swift-y-xcode/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso de Joomla 2.5 Paso a Paso](https://www.udemy.com/course/aprende-joomla/){:target="_blank" rel="nofollow,noreferrer"}
+- [Crear Una Página Web Desde Cero Para Principiantes ([2020)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-esta-pagina-web-moderna-con-html5-css3-y-jquery-2019%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso Asp.Net MVC + Entity Framework para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-aspnet-mvc-entity-framework-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso Básico de Iniciación SAP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finiciacion-al-sistema-sap%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso básico de programación orientada a objetos en java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbasic-poo-java%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso completo de Wordpress y Woocoommerce](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-completo-de-wordpress-y-woocoommerce%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso de C# 8 .NET Core desde cero hasta lo mas avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-c-sharp-net-core-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso de FlexBox desde 0](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-flexbox-desde-0%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso de iniciación a Swift y Xcode](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-iniciacion-a-swift-y-xcode%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso de Joomla 2.5 Paso a Paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-joomla%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso de Python3 - Introducción a Python](https://www.udemy.com/course/curso-de-python3-d/){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso de Virtualbox Practico y Desde Cero](https://www.udemy.com/course/curso-de-virtualbox-practico-y-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso Django 2.2: Creando un Acortador URL](https://www.udemy.com/course/curso-django-creando-un-acortador-url/){:target="_blank" rel="nofollow,noreferrer"}
