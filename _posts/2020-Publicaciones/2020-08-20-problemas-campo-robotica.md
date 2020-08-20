@@ -14,7 +14,7 @@ excerpt: >-
   La robótica es una de esas cosas sobre las que se preguntan regularmente los periódicos de negocios; parece que la robótica de consumo es un mercado revolucionario de un billón de dólares que está perpetuamente a 20 años, más o menos como la fusión nuclear.
 canonical_URL: https://ciberninjas.com/problemas-del-campo-de-la-robotica/
 permalink: /problemas-del-campo-de-la-robotica/
-date: 2020-08-20 07:12:12
+date: 2020-08-20 07:16:12
 published: true
 
 ---
