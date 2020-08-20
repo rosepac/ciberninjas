@@ -62,6 +62,11 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 - [PL/SQL de ORACLE en Español](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fplsql-de-oracle%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 3,5 Horas
 
+### Swift e iOS
+
+- [El completo desarrollador de iOS 10 - Crea apps con Swift 3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fel-completo-desarrollador-de-ios-crea-apps-con-swift%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Grant Klimaytys](https://www.linkedin.com/in/grantmk/){:target="_blank" rel="nofollow,noreferrer"}. + 4,5 Horas
+- [Curso completo de iOS 11 y Swift: de cero a experto con JB](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios11-swift4%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by?lang=en){:target="_blank" rel="nofollow,noreferrer"}. + 56 Horas
+
 ### TypeScript
 
 - [TypeScript: tu completa guía y manual de mano.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftypescript-guia-completa%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 6,5 Horas
@@ -76,6 +81,11 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 - [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
 - [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
 
+## **Los mejores cursos de Desarrollo de Videojuegos**
+
+- [Curso completo de Unity 2020: domina el mundo de videojuegos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funity2020%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 65 Horas
+- [Aprende a crear un videojuego RPG en Unity 2019 desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funity2019%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 55,5 Horas
+
 ## **Los mejores cursos de Computación en la Nube**
 
 - [Amazon AWS: Curso Completo Arquitecto Soluciones Certificado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-aws-curso-arquitecto-soluciones-certificado-associate%2F%26eid%3DW9Gem8jDoic%26lsnoid%3DNONE){:target="_blank" rel="nofollow,noreferrer"} impartido por [JmG Virtual Consulting](https://twitter.com/jmgconsulting?lang=es){:target="_blank" rel="nofollow,noreferrer"} + 11,5 Horas.
@@ -86,7 +96,12 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 - [Kubernetes, de principiante a experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-de-principiante-a-experto%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ricardo Andre Gonzale](https://www.linkedin.com/in/ricardo-andre-gonzalez/){:target="_blank" rel="nofollow,noreferrer"}. + 16,5 Horas.
 - [Alexa Skills Desde Cero: Crea apps de voz con Amazon AWS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Falexa-skills%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Villalvazo](https://twitter.com/tecmotivacional?lang=en){:target="_blank" rel="nofollow,noreferrer"} y Marcos Rivas. + 8 Horas.
 
-## **Los mejores cursos de Diseño**
+## **Los mejores cursos sobre Inteligencia Artificial**
+
+- [Deep Learning de A a Z: Redes neuronales en Python desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeep-learning-a-z%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 31,5 Horas
+- [Masterclass en Inteligencia Artificial](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmasterclass-en-inteligencia-artificial%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 17,5 Horas
+
+## **Los mejores cursos sobre Diseño**
 
 ### Illustrator y Vectores
 
