@@ -16,7 +16,7 @@ excerpt: >-
   Los controladores de AWS para Kubernetes (ACK) es una nueva herramienta que le permite administrar directamente los servicios de AWS desde Kubernetes.
 canonical_URL: https://ciberninjas.com/aws-controladores-kubernetes/
 permalink: /aws-controladores-kubernetes/
-date: 2020-08-20 09:12:12
+date: 2020-08-20 09:05:12
 published: true
 
 ---
