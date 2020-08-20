@@ -216,12 +216,28 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 - [WordPress Gutenberg: Introducción al nuevo editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-editor-gutenberg%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [WordPress Introducción Practica a Gutenberg el Nuevo Editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-introduccion-practica-a-gutenberg-el-nuevo-editor%2F){:target="_blank" rel="nofollow,noreferrer"}
 
-![👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/19-cursos-programacion-2020.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
+### **Relacionados de redes sociales** <!-- omit in toc -->
 
-[👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
-[📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[🛒 Catálogo de Libros 👨‍💻](/catalogo/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
-[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
+[🥇 ▷ Los mejores cursos de introducción a la programación 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
+
+[🥇 ▷ Los mejores cursos de Udemy en Agosto, tan sólo por 9,99 €](https://ciberninjas.com/cursos-udemy-ofertas-agosto/)
+
+[🥇 ▷ 250 universidades acaban de lanzar 900 cursos gratuitos en línea - en inglés](https://ciberninjas.com/cursos-gratis-universidades-classcentral/)
+
+[▷ Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y negocios](https://ciberninjas.com/cursos-productividad-eficiencia-meditaci%C3%B3n/)
+
+[Coursera: 38 Nuevos Cursos Gratuitos en Español por la crisis del Coronavirus](https://ciberninjas.com/cursos-coursera-gratis-espa%C3%B1ol/)
+
+[Coursera: Ofrece 85 cursos con Certificado Gratuito por la crisis del Coronavirus](https://ciberninjas.com/cursos-certificado-gratuito-coursera/)
+
+[200 Cursos Gratis de Udemy: Vamos a Programar en Español](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
+
+![Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.](/assets/img/blog/19-cursos-programacion-2020.webp "Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.")
+
+[👈 Volver a Ciberninjas 🏡](/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🛒 Catálogo de Libros 👨‍💻](/catalogo/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn-outline-dark .btn-lg .btn-block} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn-outline-dark .btn-lg .btn-block} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn-outline-dark .btn-lg .btn-block} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn-outline-dark .btn-lg .btn-block} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn-outline-dark .btn-lg .btn-block} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn-outline-dark .btn-lg .btn-block}
