@@ -42,6 +42,9 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 - [Dart: De cero hasta los detalles](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdart-de-cero-hasta-los-detalles%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 9 Horas
 
+### Desarrollo Web
+
+- [La Web Empieza Aquí: TypeScript, Angular , Storage, Firebase](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fla-web-empieza-aqui-typescript-angular-storage-firebase%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Tomás Garay](https://www.linkedin.com/in/tomasgaray07/){:target="_blank" rel="nofollow,noreferrer"}. + 19,5 Horas
 
 ### Flutter
 
@@ -53,14 +56,18 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 - [JavaScript Moderno: Guía para dominar el lenguaje](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-fernando-herrera%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 17,5 Horas
 
+### .NET
+
+
 ### React
 
 - [React: De cero a experto ( Hooks y MERN )](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-cero-experto%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+- [React JS ⭐Desde Cero! Hooks, Redux, Context, Firebase y más!](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-react-js%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ignacio Bluuweb](https://twitter.com/bluuweb){:target="_blank" rel="nofollow,noreferrer"}. + 18,5 Horas
 
 ### SQL
 
-- [PL/SQL de ORACLE en Español](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fplsql-de-oracle%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 3,5 Horas
+- [Sql Server 2019 para Principiantes encuentra un Buen Trabajo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-server-para-principiantes-encuentra-un-buen-trabajo%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 3,5 Horas
+- [PL/SQL de ORACLE en Español](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fplsql-de-oracle%2F){:target="_blank" rel="nofollow,noreferrer"} [Tomás Garay](https://www.linkedin.com/in/tomasgaray07/){:target="_blank" rel="nofollow,noreferrer"}. + 7 Horas
 
 ### Swift e iOS
 
@@ -70,16 +77,18 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 ### TypeScript
 
 - [TypeScript: tu completa guía y manual de mano.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftypescript-guia-completa%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 6,5 Horas
-
 - [ReactiveX - RxJs: De cero hasta los detalles](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frxjs-de-cero-hasta-los-detalles%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 9,5 Horas
 
 ### Vue
 
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
-- [](){:target="_blank" rel="nofollow,noreferrer"} impartido por [](){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+- [Vue js 2 Completo ¡De 0 a Experto! + Firebase + Node](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-vue%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ignacio Bluuweb](https://twitter.com/bluuweb){:target="_blank" rel="nofollow,noreferrer"}. + 23 Horas
+
+## **Los mejores cursos de Diseño Web**
+
+### Bootstrap
+
+- [Bootstrap 4 !De 0 a Experto! Curso completo + Forms con PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbootstrap-curso%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ignacio Bluuweb](https://twitter.com/bluuweb){:target="_blank" rel="nofollow,noreferrer"}. + 12 Horas
+- [UNIVERSIDAD BOOTSTRAP: Crea un sitio web real](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funiversidad-bootstrap-disena-un-sitio-web-real-beginner%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Erick Mines](https://twitter.com/mineslu){:target="_blank" rel="nofollow,noreferrer"}. + 16 Horas
 
 ## **Los mejores cursos de Desarrollo de Videojuegos**
 
@@ -100,6 +109,12 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 - [Deep Learning de A a Z: Redes neuronales en Python desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeep-learning-a-z%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 31,5 Horas
 - [Masterclass en Inteligencia Artificial](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmasterclass-en-inteligencia-artificial%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 17,5 Horas
+- [Inteligencia Artificial aplicada a Negocios y Empresas](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finteligencia-artificial-aplicada-a-negocios-y-empresas%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 20 Horas
+
+## **Los mejores cursos sobre Estadística**
+
+- [Curso avanzado de estadística multivariante con R y Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Festadistica-multivariante%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 16 Horas
+- [Curso avanzado de Series Temporales con R y Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fseries-temporales%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by){:target="_blank" rel="nofollow,noreferrer"}. + 17 Horas
 
 ## **Los mejores cursos sobre Diseño**
 
