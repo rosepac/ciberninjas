@@ -11,6 +11,7 @@ comments: false
 date: 2016-05-18 12:08:02
 tags:
 - Capture One
+- Kike Arnaiz
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

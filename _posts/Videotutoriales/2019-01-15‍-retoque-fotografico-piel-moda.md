@@ -11,6 +11,7 @@ tags:
 - Adobe Photoshop
 - Retoque Fotográfico
 - Vídeotutorial Fotografía
+- Kike Arnaiz
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

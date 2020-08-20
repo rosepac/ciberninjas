@@ -9,6 +9,7 @@ comments: false
 date: 2014-04-16 12:08:02
 tags:
 - Adobe Bridge
+- Kike Arnaiz
 permalink: /adobe-bridge-kike-arnaiz/
 canonical_URL: https://ciberninjas.com/adobe-bridge-kike-arnaiz/
 ---

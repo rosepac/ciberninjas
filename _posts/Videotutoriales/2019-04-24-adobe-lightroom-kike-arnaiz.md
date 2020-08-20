@@ -10,6 +10,7 @@ date: 2019-04-24 12:08:02
 tags:
 - Adobe Lightroom
 - Vídeotutorial Fotografía
+- Kike Arnaiz
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

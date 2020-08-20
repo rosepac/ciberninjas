@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /desarrollo-web-go-con-g-coding-academy/
 comments: false
 date: 2018-09-01 12:35:00 +0200
-tags: [Go, Videotutorial Go]
+tags: [Go, Videotutorial Go, G Coding Academy]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

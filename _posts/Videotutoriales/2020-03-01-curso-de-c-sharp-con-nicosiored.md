@@ -10,7 +10,7 @@ excerpt: >-
 permalink: /c-sharp-con-nicosiored/
 comments: false
 date: 2020-03-01 15:35:00 +0200
-tags: [C#, Videotutorial C#]
+tags: [C#, Videotutorial C#, Nicosiored]
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
