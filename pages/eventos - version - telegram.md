@@ -10,42 +10,7 @@ published: false
 feature-img: /assets/img/blog/reloj-hoy.webp
 ---
 
-Esta página se encarga de mostrarte todos los eventos de tecnología y en habla hispana para los próximos días, con el objetivo de ofrecer a todos los amantes de la tecnología. Si deseas participar y agregar algún evento, solamente informa del mismo a: [rosepac21@gmail.com](mailto:rosepac21@gmail.com "Correo electrónico del Webmaster"){:target="_blank"}. Esta página se actualiza a diario.. 🤞
-
-> **Las horas aquí publicadas referencian a la hora española: Argentina (5 Horas Menos). Venezuela (6 Horas Menos). México, Colombia (7 Horas Menos)**
-{: .notice--primary}
-
-<!-- ⏰ (:) 👇 https://www.eventbrite.com.ar/d/online/free--science-and-tech--events/?lang=es&page=1 , https://www.eventbrite.com.ar/d/online/free--classes/?lang=es&page=1 -->
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
-
 ## **Eventos tecnológicos de Agosto**
-
-🔔 14 de Agosto
-
-- (20:30 H. Española) Webinar sobre Grafología Gratis
-👉 Registro al evento (https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-🗞 Temario (http://grafologia.estrategica.pro/valor)
-- (21:00 H. ESP) Unreal Engine & Fortnite en la educación - [REGISTRO](https://www.eventbrite.com/e/unreal-engine-fortnite-en-la-educacion-tickets-113377862238?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00 H. ESP - 18:00 hrs Arg.) Hablando sobre VUE JS
-👉 Charla con @ianaya89 sobre #VueJS . ¡Los invito a que disfruten de este encuentro! (https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be)
-- (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
-NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
-
-🔔 15 de Agosto
-
-- (10:00 AM hasta las 15:00 PM) Jornada de redes y comunicaciones: el dilema del Hombre Araña (Ciberseguridad)
-(https://community.codemotion.com/hackmadrid-27/meetups/jornada-de-redes-y-comunicaciones-el-dilema-del-hombre-araa)
-- ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
-(https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-- (16:00 PM) Parte I de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-- Evento / Concurso sobre Programación: Maratón de Código de IBM (https://maratona.dev/es) (Solamente para América Latina)
-- (14 y 15 de Agosto) NG CONF COLOMBIA (https://ngconf.co/) (Entrada: 10$)
-NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
-
-🔔 17 de Agosto
-
-- (23:30 H. ESP.) El arte de los ´60s y el florecimiento del Pop", por Rodrigo Alonso. (https://www.eventbrite.com.ar/e/el-arte-de-los-60s-y-el-florecimiento-del-pop-por-rodrigo-alonso-tickets-116000058297?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 🔔 18 de Agosto
 
@@ -160,6 +125,7 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 🔔 27 de Octubre
 
 - (19:00 PM) Kubernetes Operators: Operando servicios nativos de la nube a escala - (https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/)
+- ForoASLAN "Infraestructuras multi-cloud híbridas". Inscripción gratuita (http://ow.ly/8SSd50AK7W4)
 
 ### **Tarugconf: 22, 23, 24 de Octubre**
 

@@ -21,19 +21,6 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 17 de Agosto
-
-- (23:30 H. ESP.) El arte de los ´60s y el florecimiento del Pop", por Rodrigo Alonso. [REGISTRO](https://www.eventbrite.com.ar/e/el-arte-de-los-60s-y-el-florecimiento-del-pop-por-rodrigo-alonso-tickets-116000058297?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-
-### 🔔 18 de Agosto
-
-- (18:00 H. ESP.) Especial Tecnologías Accesibles: Diferentes APP para celulares y pc - [Ver en Youtube](https://www.youtube.com/somoslaseu)
-- (18:00 H. ESP.) Crea tu feed de Instagram con HTML y CSS - [Registro](https://www.eventbrite.com/e/crea-tu-feed-de-instagram-con-html-y-css-tickets-115891930885?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-- (19:00 H. ESP.) Cómo crear un portfolio en Nuxt.JS - [Twitch](https://www.twitch.tv/pablosirera)
-- (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X){:target="_blank" rel="nofollow, noreferrer"}
-
-Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor Performo). El estará respondiendo en vivo sus preguntas enviadas a través de los chats de Facebook y Zoom. No te pierdas esta oportunidad de hacer preguntas sobre performance a un experto como Señor Performo.
-
 ### 🔔 20 de Agosto
 
 - (01:30 AM) Impacto de la enseñanza integral y multidireccional en jóvenes mediante el uso de tecnologías - Daniella Mazzini (https://gdg.community.dev/e/mm2tsm/)
@@ -463,3 +450,16 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 - (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
 NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
+
+### 🔔 17 de Agosto
+
+- (23:30 H. ESP.) El arte de los ´60s y el florecimiento del Pop", por Rodrigo Alonso. [REGISTRO](https://www.eventbrite.com.ar/e/el-arte-de-los-60s-y-el-florecimiento-del-pop-por-rodrigo-alonso-tickets-116000058297?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
+### 🔔 18 de Agosto
+
+- (18:00 H. ESP.) Especial Tecnologías Accesibles: Diferentes APP para celulares y pc - [Ver en Youtube](https://www.youtube.com/somoslaseu)
+- (18:00 H. ESP.) Crea tu feed de Instagram con HTML y CSS - [Registro](https://www.eventbrite.com/e/crea-tu-feed-de-instagram-con-html-y-css-tickets-115891930885?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (19:00 H. ESP.) Cómo crear un portfolio en Nuxt.JS - [Twitch](https://www.twitch.tv/pablosirera)
+- (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X){:target="_blank" rel="nofollow, noreferrer"}
+
+Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor Performo). El estará respondiendo en vivo sus preguntas enviadas a través de los chats de Facebook y Zoom. No te pierdas esta oportunidad de hacer preguntas sobre performance a un experto como Señor Performo.
