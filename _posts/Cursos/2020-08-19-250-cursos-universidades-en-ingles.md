@@ -14,7 +14,7 @@ excerpt: >-
   Las universidades de todo el mundo están ofreciendo sus cursos en línea de forma gratuita (o al menos, parcialmente gratuita). Estos cursos se denominan colectivamente MOOC o cursos en línea abiertos masivos. 
 canonical_URL: https://ciberninjas.com/cursos-gratis-universidades-classcentral/
 permalink: /cursos-gratis-universidades-classcentral/
-date: 2020-08-19 20:05:31
+date: 2020-08-20 09:05:31
 published: true
 
 ---
