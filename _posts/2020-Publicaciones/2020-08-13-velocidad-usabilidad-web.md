@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Reflexiones sobre Tecnología
+- Reflexión Tecnológica
 - Usabilidad Web
 thumbnail: /assets/img/blog/velocidad-navegacion-internett.webp
 feature-img: /assets/img/blog/velocidad-navegacion-internett.webp

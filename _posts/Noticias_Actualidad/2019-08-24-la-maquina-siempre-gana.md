@@ -10,7 +10,7 @@ date: 2019-08-26
 published: true
 tags:
 - Actualidad
-- Reflexiones sobre Tecnología
+- Reflexión Tecnológica
 - Redes Sociales
 thumbnail: "/assets/img/facebook-pastillas.jpg"
 feature-img: "/assets/img/facebook-pastillas.jpg"
