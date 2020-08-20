@@ -7,7 +7,7 @@ tags:
 - Cursos Gratis
 thumbnail: /assets/img/blog/19-class-central.webp
 feature-img: /assets/img/blog/19-class-central.webp
-title: '🥇 ▷ 250 universidades acaban de lanzar 900 cursos gratuitos en línea'
+title: '🥇 ▷ 250 Universidades acaban de lanzar 900 cursos gratuitos en línea'
 description: >-
   Las universidades de todo el mundo están ofreciendo sus cursos en línea de forma gratuita (o al menos, parcialmente gratuita). Estos cursos se denominan colectivamente MOOC o cursos en línea abiertos masivos. 
 excerpt: >-
