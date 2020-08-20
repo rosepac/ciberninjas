@@ -9,12 +9,12 @@ thumbnail: /assets/img/blog/chrome-rust-vs-c.webp
 feature-img: /assets/img/blog/chrome-rust-vs-c.webp
 title: '▷ Chrome experimenta con ofrecer soporte para Rust y C++'
 description: >-
-  
+  Los ingenieros de Chrome están experimentando con Rust. Aunque C++ es el lenguaje reinante en la base del código de Chrome y en un previsible futuro, cualquier implementación de Rust deberá encajar con C ++ y nunca del revés.
 excerpt: >-
-  
+  Los ingenieros de Chrome están experimentando con Rust. Aunque C++ es el lenguaje reinante en la base del código de Chrome y en un previsible futuro, cualquier implementación de Rust deberá encajar con C ++ y nunca del revés.
 canonical_URL: https://ciberninjas.com/interoperabilidad-chrome-rust/
 permalink: /interoperabilidad-chrome-rust/
-date: 2020-08-20 07:24:46
+date: 2020-08-20 07:36:46
 published: false
 
 ---
