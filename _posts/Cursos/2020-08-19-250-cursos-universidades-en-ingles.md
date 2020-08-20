@@ -512,245 +512,245 @@ La lista a continuación, lista los los cursos por temáticas:
 - [Dictaduras Militares Latinoamericanas: Superando Mitos](https://www.classcentral.com/course/independent-dictaduras-militares-latinoamericanas-superando-mitos-19454){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Francisco Marroquín*
 - [Literatura, Política e Imaginación](https://www.classcentral.com/course/independent-literatura-politica-e-imaginacion-20150){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Francisco Marroquín*
 - [El alfabeto coreano: una introducción al hangeul](https://www.classcentral.com/course/korean-alphabet-hangeul-19060){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Sungkyunkwan*
-- [Entrenamiento de habilidades mentales para el deporte y la salud](https://www.classcentral.com/course/mental-skills-training-sport-20768) de *la Universidad Metropolitana de Manchester*
-- [Historia económica de la India de 1857 a 1947](https://www.classcentral.com/course/swayam-economic-history-of-india-from-1857-to-1947-20235) de la *CCA*
-- [Historia de Asia Oriental Moderna -1 (c.1840-1949)](https://www.classcentral.com/course/swayam-history-of-modern-east-asia-1-c-1840-1949-20242) de la *CCA*
-- [Navegando los aspectos legales y comerciales de los deportes](https://www.classcentral.com/course/edx-navigating-the-legal-and-commercial-aspects-of-sports-20376) de la *Universidad Hamad Bin Khalifa*
-- [Un viaje por Hispanoamérica: Español inicial](https://www.classcentral.com/course/edx-un-viaje-por-hispanoamerica-espanol-inicial-20585) de la *Universidad del Rosario*
-- [Grandes libros 101: antiguos a medievales](https://www.classcentral.com/course/independent-great-books-101-ancient-to-medieval-19720) de *Hillsdale College*
-- [Estudios islámicos (الثقافة الاسلامية)](https://www.classcentral.com/course/edx-islamic-studies---19174) de *la Universidad de los Emiratos Árabes Unidos*
-- [مساق اللّغة العربيّة](https://www.classcentral.com/course/edx------19541) de *la Universidad de los Emiratos Árabes Unidos*
-- [Teología 101: La tradición teológica occidental](https://www.classcentral.com/course/independent-theology-101-the-western-theological-tradition-19689) de *Hillsdale College*
-- [La gran historia estadounidense: una tierra de esperanza](https://www.classcentral.com/course/independent-the-great-american-story-a-land-of-hope-19678) de *Hillsdale College*
-- [Constitución 101: El significado y la historia de la Constitución](https://www.classcentral.com/course/independent-constitution-101-the-meaning-and-history-of-the-constitution-19679) de *Hillsdale College*
-- [Introducción a la ética de Aristóteles: cómo llevar una buena vida](https://www.classcentral.com/course/independent-introduction-to-aristotle-s-ethics-how-to-lead-a-good-life-19682) de *Hillsdale College*
-- [Las segundas guerras mundiales](https://www.classcentral.com/course/independent-the-second-world-wars-19683) de *Hillsdale College*
-- [La joven Jane Austen: Northanger Abbey](https://www.classcentral.com/course/independent-the-young-jane-austen-northanger-abbey-19685) de *Hillsdale College*
-- [Herencia occidental: del libro del Génesis a John Locke](https://www.classcentral.com/course/independent-western-heritage-from-the-book-of-genesis-to-john-locke-19686) de *Hillsdale College*
-- [Mark Twain: Tom Sawyer, Huckleberry Finn y relatos cortos seleccionados](https://www.classcentral.com/course/independent-mark-twain-tom-sawyer-huckleberry-finn-and-selected-short-stories-19687) de *Hillsdale College*
-- [Herencia estadounidense: del asentamiento colonial al día actual](https://www.classcentral.com/course/independent-american-heritage-from-colonial-settlement-to-the-current-day-19690) de *Hillsdale College*
-- [Grandes libros 102: Renacimiento a lo moderno](https://www.classcentral.com/course/independent-great-books-102-renaissance-to-modern-19718) de *Hillsdale College*
-- [Shakespeare: Hamlet y la tempestad](https://www.classcentral.com/course/independent-shakespeare-hamlet-and-the-tempest-19691) de *Hillsdale College*
-- [Atenas y Esparta](https://www.classcentral.com/course/independent-athens-and-sparta-19693) de *Hillsdale College*
-- [Una introducción a CS Lewis: Escritos y significado](https://www.classcentral.com/course/independent-an-introduction-to-c-s-lewis-writings-and-significance-19714) de *Hillsdale College*
-- [Winston Churchill y la habilidad política](https://www.classcentral.com/course/independent-winston-churchill-and-statesmanship-19715) de *Hillsdale College*
-- [Los documentos federalistas](https://www.classcentral.com/course/independent-the-federalist-papers-19716) de *Hillsdale College*
-- [Enamórate del mandarín](https://www.classcentral.com/course/fall-in-love-with-mandarin-19181) de *la Universidad Nacional Chiao Tung*
-- [Robots, éthique et société, par les chercheurs de l'IERHR](https://www.classcentral.com/course/france-universite-numerique-robots-ethique-et-societe-par-les-chercheurs-de-l-ierhr-19391) de la *Université de Paris*
+- [Entrenamiento de habilidades mentales para el deporte y la salud](https://www.classcentral.com/course/mental-skills-training-sport-20768){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Metropolitana de Manchester*
+- [Historia económica de la India de 1857 a 1947](https://www.classcentral.com/course/swayam-economic-history-of-india-from-1857-to-1947-20235){:target="_blank" rel="nofollow,noreferrer"} de la *CCA*
+- [Historia de Asia Oriental Moderna -1 (c.1840-1949)](https://www.classcentral.com/course/swayam-history-of-modern-east-asia-1-c-1840-1949-20242){:target="_blank" rel="nofollow,noreferrer"} de la *CCA*
+- [Navegando los aspectos legales y comerciales de los deportes](https://www.classcentral.com/course/edx-navigating-the-legal-and-commercial-aspects-of-sports-20376){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Hamad Bin Khalifa*
+- [Un viaje por Hispanoamérica: Español inicial](https://www.classcentral.com/course/edx-un-viaje-por-hispanoamerica-espanol-inicial-20585){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad del Rosario*
+- [Grandes libros 101: antiguos a medievales](https://www.classcentral.com/course/independent-great-books-101-ancient-to-medieval-19720){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Estudios islámicos (الثقافة الاسلامية)](https://www.classcentral.com/course/edx-islamic-studies---19174){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de los Emiratos Árabes Unidos*
+- [مساق اللّغة العربيّة](https://www.classcentral.com/course/edx------19541){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de los Emiratos Árabes Unidos*
+- [Teología 101: La tradición teológica occidental](https://www.classcentral.com/course/independent-theology-101-the-western-theological-tradition-19689){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [La gran historia estadounidense: una tierra de esperanza](https://www.classcentral.com/course/independent-the-great-american-story-a-land-of-hope-19678){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Constitución 101: El significado y la historia de la Constitución](https://www.classcentral.com/course/independent-constitution-101-the-meaning-and-history-of-the-constitution-19679){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Introducción a la ética de Aristóteles: cómo llevar una buena vida](https://www.classcentral.com/course/independent-introduction-to-aristotle-s-ethics-how-to-lead-a-good-life-19682){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Las segundas guerras mundiales](https://www.classcentral.com/course/independent-the-second-world-wars-19683){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [La joven Jane Austen: Northanger Abbey](https://www.classcentral.com/course/independent-the-young-jane-austen-northanger-abbey-19685){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Herencia occidental: del libro del Génesis a John Locke](https://www.classcentral.com/course/independent-western-heritage-from-the-book-of-genesis-to-john-locke-19686){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Mark Twain: Tom Sawyer, Huckleberry Finn y relatos cortos seleccionados](https://www.classcentral.com/course/independent-mark-twain-tom-sawyer-huckleberry-finn-and-selected-short-stories-19687){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Herencia estadounidense: del asentamiento colonial al día actual](https://www.classcentral.com/course/independent-american-heritage-from-colonial-settlement-to-the-current-day-19690){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Grandes libros 102: Renacimiento a lo moderno](https://www.classcentral.com/course/independent-great-books-102-renaissance-to-modern-19718){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Shakespeare: Hamlet y la tempestad](https://www.classcentral.com/course/independent-shakespeare-hamlet-and-the-tempest-19691){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Atenas y Esparta](https://www.classcentral.com/course/independent-athens-and-sparta-19693){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Una introducción a CS Lewis: Escritos y significado](https://www.classcentral.com/course/independent-an-introduction-to-c-s-lewis-writings-and-significance-19714){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Winston Churchill y la habilidad política](https://www.classcentral.com/course/independent-winston-churchill-and-statesmanship-19715){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Los documentos federalistas](https://www.classcentral.com/course/independent-the-federalist-papers-19716){:target="_blank" rel="nofollow,noreferrer"} de *Hillsdale College*
+- [Enamórate del mandarín](https://www.classcentral.com/course/fall-in-love-with-mandarin-19181){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional Chiao Tung*
+- [Robots, éthique et société, par les chercheurs de l'IERHR](https://www.classcentral.com/course/france-universite-numerique-robots-ethique-et-societe-par-les-chercheurs-de-l-ierhr-19391){:target="_blank" rel="nofollow,noreferrer"} de la *Université de Paris*
 
 ## Negocios (142)
 
-- [Almacenamiento de energía](https://www.classcentral.com/course/edx-almacenamiento-de-energia-19277) de la *Universidad Galileo* ★★★★ ☆ (131)
-- [Fundamentos de gestión de productos](https://www.classcentral.com/course/edx-product-management-fundamentals-19098) del *sistema universitario de Maryland* ★★★★★ (24)
-- [Diseño de la experiencia](https://www.classcentral.com/course/edx-designing-the-user-experience-19100) del [usuario](https://www.classcentral.com/course/edx-designing-the-user-experience-19100) desde el *sistema universitario de Maryland* ★★★★ ☆ (6)
-- [Financiamiento de empresas innovadoras](https://www.classcentral.com/course/edx-financing-innovative-ventures-19115) del *sistema universitario de Maryland* ★★★★★ (6)
-- [Lograr la adecuación entre el producto y el mercado](https://www.classcentral.com/course/edx-achieving-product-market-fit-19099) del *sistema universitario de Maryland* ★★★★★ (6)
-- [Creación de modelos comerciales innovadores](https://www.classcentral.com/course/edx-creating-innovative-business-models-19175) del *sistema universitario de Maryland* ★★★★★ (6)
-- [Comunicación eficaz para las partes interesadas y los equipos](https://www.classcentral.com/course/edx-effective-communication-for-program-and-project-stakeholders-and-teams-19740) de [programas y proyectos](https://www.classcentral.com/course/edx-effective-communication-for-program-and-project-stakeholders-and-teams-19740) del *sistema universitario de Maryland* ★★★★★ (4)
-- [Introducción a la gestión empresarial](https://www.classcentral.com/course/introduction-to-business-management-19005) de *King's College London* ★★★★ ☆ (2)
-- [Productos y servicios innovadores de marketing](https://www.classcentral.com/course/edx-marketing-innovative-products-and-services-19176) del *sistema universitario de Maryland* ★★★★★ (1)
-- [Introducción a las computadoras y el software de productividad de oficina](https://www.classcentral.com/course/introduction-to-computers-and-office-productivity-20861) de la *Universidad de Ciencia y Tecnología de Hong Kong* ★★★★ ☆ (1)
-- [Liderazgo y comportamiento organizacional](https://www.classcentral.com/course/edx-leadership-and-organizational-behavior-19309) del *Tecnológico de Monterrey* ★★★★ ☆ (1)
-- [Innovación social en áreas rurales](https://www.classcentral.com/course/social-innovation-in-rural-areas-18994) de la *Universidad de Padova* ★★★★ ☆ (1)
-- [Recursos humanos para gerentes que no son de recursos humanos](https://www.classcentral.com/course/swayam-hrm-for-non-hr-managers-20241) de *CEC* ★★★★★ (1)
-- [Ejercicio del liderazgo: principios fundamentales](https://www.classcentral.com/course/edx-exercising-leadership-foundational-principles-20796) de *la Universidad de Harvard*
-- [Fundamentos de finanzas](https://www.classcentral.com/course/finance-fundamentals-20026) de la *Universidad de Pennsylvania*
-- [Liderazgo de alto riesgo: líder en tiempos de crisis](https://www.classcentral.com/course/high-stakes-leadership-20287) de la *Universidad de Michigan*
-- [Recaudación de capital: tecnología crediticia, ofertas de monedas y financiación colectiva](https://www.classcentral.com/course/raising-capital-19057) de la *Universidad de Michigan*
-- [El futuro de la tecnología de pago](https://www.classcentral.com/course/payment-technology-19055) de la *Universidad de Michigan*
-- [Emprendimiento y estrategia de propiedad intelectual](https://www.classcentral.com/course/swayam-entrepreneurship-and-ip-strategy-19857) del *Instituto Indio de Tecnología, Kharagpur*
-- [Principios de gestión](https://www.classcentral.com/course/swayam-principles-of-management-19977) del *Instituto Indio de Tecnología, Kharagpur*
-- [Introducción a Business Analytics con R](https://www.classcentral.com/course/business-analytics-r-19233) de la *Universidad de Illinois en Urbana-Champaign*
-- [Análisis de datos en contabilidad Capstone](https://www.classcentral.com/course/data-analytics-accountancy-capstone-20811) de la *Universidad de Illinois en Urbana-Champaign*
-- [Manejo de la interrupción de la cadena de suministro durante COVID-19](https://www.classcentral.com/course/supply-chain-disruption-20582) de la *Universidad de Illinois en Urbana-Champaign*
-- [Desafíos en la gestión de recursos humanos](https://www.classcentral.com/course/challenges-in-human-resource-management-19606) de *The Open University*
-- [Desarrollo y cambio organizacional en el siglo XXI](https://www.classcentral.com/course/swayam-organization-development-and-change-in-21st-century-19963) del *Instituto Indio de Tecnología de Bombay*
-- [Economía](https://www.classcentral.com/course/swayam-managerial-economics-19944) de *la* [gestión](https://www.classcentral.com/course/swayam-managerial-economics-19944) del *Instituto Indio de Tecnología de Bombay*
-- [Contabilidad financiera - IITB](https://www.classcentral.com/course/swayam-financial-accounting-iitb-19866) del *Instituto Indio de Tecnología de Bombay*
-- [Comencemos: Construyendo la autoconciencia](https://www.classcentral.com/course/edx-let-s-get-started-building-self-awareness-19743) desde el *Sistema Universitario de Maryland*
-- [Persuasión y presencia para administradores](https://www.classcentral.com/course/edx-persuasion-and-presence-for-program-and-project-managers-19744) de [programas y proyectos](https://www.classcentral.com/course/edx-persuasion-and-presence-for-program-and-project-managers-19744) del *sistema universitario de Maryland*
-- [Seamos personales: trabajo con el tipo de personalidad](https://www.classcentral.com/course/edx-let-s-get-personal-working-with-personality-type-19745) del *sistema universitario de Maryland*
-- [Liderazgo moderno de productos](https://www.classcentral.com/course/edx-modern-product-leadership-19102) del *sistema universitario de Maryland*
-- [Gestión de productos digitales](https://www.classcentral.com/course/digital-product-management-18992) de la *Universidad de Virginia*
-- [Análisis ágil](https://www.classcentral.com/course/uva-darden-agile-analytics-19556) de la *Universidad de Virginia*
-- [Teoría](https://www.classcentral.com/course/swayam-mathematical-portfolio-theory-19947) de *la* [carpeta de trabajos matemáticos](https://www.classcentral.com/course/swayam-mathematical-portfolio-theory-19947) del *Instituto Indio de Tecnología de Guwahati*
-- [Contabilidad financiera - IITMandi](https://www.classcentral.com/course/swayam-financial-accounting-iitmandi-19867) de *NPTEL*
-- [Principios de microeconomía: mercados competitivos](https://www.classcentral.com/course/edx-principles-of-microeconomics-competitive-markets-20174) de la *Universidad de Queensland*
-- [Minerales y minería en un mundo sostenible](https://www.classcentral.com/course/edx-minerals-and-mining-in-a-sustainable-world-21001) de la *Universidad de Queensland*
-- [Everyday Excel, Parte 2](https://www.classcentral.com/course/everyday-excel-part-2-19571) de la *Universidad de Colorado Boulder*
-- [Everyday Excel, Parte 1](https://www.classcentral.com/course/everyday-excel-part-1-19327) de la *Universidad de Colorado Boulder*
-- [Capacitación en liderazgo y gestión de investigadores del sistema](https://www.classcentral.com/course/researcher-management-leadership-training-19465) de la *Universidad de Colorado*
-- [Raison d'être et Entreprise à Mission](https://www.classcentral.com/course/raison-etre-et-entreprise-a-mission-19244) de *ESSEC Business School*
-- [Marketing de servicios: conceptos y aplicaciones](https://www.classcentral.com/course/edx-services-marketing-concepts-applications-21117) del *Instituto Indio de Gestión de Bangalore*
-- [La esencia del liderazgo: exploraciones de la literatura](https://www.classcentral.com/course/swayam-the-essence-of-leadership-explorations-from-literature-20010) del *Instituto Indio de Administración de Bangalore*
-- [Стартап в условиях открытых инноваций](https://www.classcentral.com/course/startupinn-20190) de *la Universidad Estatal* de *San Petersburgo*
-- [Startups en innovación abierta](https://www.classcentral.com/course/startups-in-open-innovation-20189) de *la Universidad Estatal* de *San Petersburgo*
-- [Коммерциализация результатов инновационной деятельности](https://www.classcentral.com/course/krid-20188) de *la Universidad Estatal* de *San Petersburgo*
-- [Resultados](https://www.classcentral.com/course/commercialization-of-innovation-activity-results-20187) de la [comercialización de la actividad de innovación](https://www.classcentral.com/course/commercialization-of-innovation-activity-results-20187) de *la Universidad Estatal* de *San Petersburgo*
-- [Inicio: ¿Cómo construir un negocio exitoso? ](https://www.classcentral.com/course/startup-english-20819)de *la Universidad Estatal* de *San Petersburgo*
-- [Цифровая трансформация бизнеса](https://www.classcentral.com/course/digital-transformation-rus-20842) de *la Universidad Estatal* de *San Petersburgo*
-- [«Стартап: как вырасти в успешный бизнес»](https://www.classcentral.com/course/startup-spbu-19079) de *la Universidad Estatal* de *San Petersburgo*
-- [Продвижение веб-сайтов](https://www.classcentral.com/course/prodvizheniye-veb-saytov-19095) de *la Universidad Estatal* de *San Petersburgo*
-- [Una guía para la innovación en el cuidado de la salud: principios y práctica](https://www.classcentral.com/course/guide-to-healthcare-innovation-principles-and-pra-19266) del *Imperial College London*
-- [Emprendimiento sanitario: llevar ideas al mercado](https://www.classcentral.com/course/ghi-healthcare-entrepreneurship-taking-ideas-to-m-19267) del *Imperial College de Londres*
-- [Diseño de centros de información para el desempeño](https://www.classcentral.com/course/edx-designing-information-hubs-for-program-and-project-performance-19750) de [programas y proyectos](https://www.classcentral.com/course/edx-designing-information-hubs-for-program-and-project-performance-19750) del *sistema universitario de Maryland*
-- [¡Adoptemos los principios: valores, cultura y desobediencia inteligente! ](https://www.classcentral.com/course/edx-let-s-get-principled-values-culture-intelligent-disobedience-19749)del *Sistema Universitario de Maryland*
-- [Manejo de conflictos en programas y proyectos con inteligencia cultural y emocional](https://www.classcentral.com/course/edx-managing-conflicts-on-programs-and-projects-with-cultural-and-emotional-intelligence-19747) del *sistema universitario de Maryland*
-- [Información financiera y su análisis](https://www.classcentral.com/course/edx-informacion-financiera-y-su-analisis-20114) del *Tecnológico de Monterrey*
-- [Антикризисная разработка корпоративных информационных систем](https://www.classcentral.com/course/edx------19398) de *la Universidad Nacional de Investigación Nuclear MEPhI*
-- [Fundamentos de contabilidad financiera y de gestión](https://www.classcentral.com/course/financial-accounting-polimi-20035) del *Politecnico di Milano*
-- [Fundamentos de organización](https://www.classcentral.com/course/organization-20112) del *Politecnico di Milano*
-- [Ecosistemas de cadena de suministro digital para industrias creativas](https://www.classcentral.com/course/polimi-open-knowledge-digital-supply-chain-ecosystems-for-creative-industries-19421) del *Politecnico di Milano*
-- [Liderazgo inclusivo](https://www.classcentral.com/course/edx-liderazgo-inclusivo-19086) de la *Universidad Carlos iii de Madrid*
-- [Proyectos complejos: éxitos o fracasos](https://www.classcentral.com/course/proyectos-complejos-exitosos-fracasados-19618) de la *Universidad de los Andes*
-- [Introducción a la logística internacional](https://www.classcentral.com/course/introduction-to-international-logistics-20382) de la *Universidad de Coventry*
-- [Estrategia como un proceso y medidas de éxito: una introducción](https://www.classcentral.com/course/introduction-to-strategy-19054) de la *Universidad de Coventry*
-- [Introducción a la gestión internacional de recursos humanos](https://www.classcentral.com/course/introduction-to-international-human-resources-man-20381) de la *Universidad de Coventry*
-- [Los impactos del turismo](https://www.classcentral.com/course/the-impacts-of-tourism-20380) de la *Universidad de Coventry*
-- [Overturismo](https://www.classcentral.com/course/overtourism-20379) de la *Universidad de Coventry*
-- [Aprovechar el poder de los datos: Introducción a Data-Driven Toma de Decisiones](https://www.classcentral.com/course/harnessing-the-power-of-data-20990) de *la Universidad de Coventry*
-- [Gestión empresarial: culturas nacionales y organizativas](https://www.classcentral.com/course/business-management-national-organisational-cultu-20385) de la *Universidad de Coventry*
-- [Perspectivas sobre el espíritu empresarial](https://www.classcentral.com/course/perspectives-entrepreneurship-20817) de la *Universidad de Coventry*
-- [La evolución de la teoría de la gestión y el liderazgo](https://www.classcentral.com/course/the-evolution-of-management-19074) de la *Universidad de Coventry*
-- [Découvrir la responsabilité sociétale des entreprises (RSE)](https://www.classcentral.com/course/edx-decouvrir-la-responsabilite-societale-des-entreprises-rse-21025) de la *Université catholique de Louvain*
-- [Marketing: entrega de la propuesta de valor](https://www.classcentral.com/course/edx-marketing-delivering-the-value-proposition-20048) de la *Universidad de Doane*
-- [Operaciones de marketing](https://www.classcentral.com/course/edx-marketing-operations-20047) de la *Universidad de Doane*
-- [Examen final de Marketing Essentials](https://www.classcentral.com/course/edx-marketing-essentials-final-exam-20049) de la *Universidad de Doane*
-- [Fundamentos de marketing](https://www.classcentral.com/course/edx-marketing-foundations-20050) de la *Universidad de Doane*
-- [Comprensión del entorno empresarial](https://www.classcentral.com/course/edx-understanding-the-business-environment-20764) de la *Universidad de Doane*
-- [Gestión: convertirse en un líder eficaz](https://www.classcentral.com/course/edx-management-becoming-an-effective-leader-20760) de la *Universidad de Doane*
-- [La transformación digital au service de l'entreprise et de l'industrie du futur](https://www.classcentral.com/course/france-universite-numerique-la-transformation-digitale-au-service-de-l-entreprise-et-de-l-industrie-du-futur-19224) del *Institut Mines-Télécom*
-- [Fundamentos de Excel para el análisis de datos](https://www.classcentral.com/course/excel-data-analysis-fundamentals-20156) de la *Universidad de Macquarie*
-- [La guía del emprendedor para principiantes](https://www.classcentral.com/course/entrepreneur-guide-beginners-19704) de la *Universidad de Barcelona*
-- [Análisis](https://www.classcentral.com/course/supply-market-analysis-19660) del [mercado de suministro](https://www.classcentral.com/course/supply-market-analysis-19660) de *la Universidad de Rutgers*
-- [Conceptos básicos de adquisiciones](https://www.classcentral.com/course/procurement-basics-19658) de *la Universidad de Rutgers*
-- [Introducción a las adquisiciones y el abastecimiento](https://www.classcentral.com/course/procurement-sourcing-introduction-19659) de *la Universidad de Rutgers*
-- [Gestión de proveedores](https://www.classcentral.com/course/supplier-management-19661) de *la Universidad de Rutgers*
-- [Análisis de inventario](https://www.classcentral.com/course/inventoryanalytics-20285) de *la Universidad de Rutgers*
-- [Inteligencia empresarial y análisis competitivo](https://www.classcentral.com/course/businessintelligence-19732) de *la Universidad de Rutgers*
-- [Negociación de adquisiciones](https://www.classcentral.com/course/procurement-negotiation-19657) de *la Universidad de Rutgers*
-- [Conclusiones sobre adquisiciones estratégicas y abastecimiento](https://www.classcentral.com/course/procurement-sourcing-conclusions-19663) de *la Universidad de Rutgers*
-- [Abastecimiento estratégico](https://www.classcentral.com/course/strategic-sourcing-19662) de *la Universidad de Rutgers*
-- [Emprendimiento: de la idea de negocio a la acción](https://www.classcentral.com/course/entrepreneurship-idea-to-action-19710) de *King's College London*
-- [Design Thinking y puesta en marcha global](https://www.classcentral.com/course/startup101-20575) del *Instituto Avanzado de Ciencia y Tecnología* de *Corea*
-- [Principios de finanzas sostenibles](https://www.classcentral.com/course/sustainable-finance-19711) de la *Universidad Erasmus de Rotterdam*
-- [Investigación operativa: un enfoque de aprendizaje activo](https://www.classcentral.com/course/edx-operations-research-an-active-learning-approach-19136) de *la Universidad Politécnica* de *Hong Kong*
-- [日 式 经营 管理 Gestión empresarial japonesa](https://www.classcentral.com/course/edx--japanese-business-management-19149) de *la Universidad de Waseda*
-- [Mentoring Engineers with Impact](https://www.classcentral.com/course/edx-mentoring-engineers-with-impact-20931) de *KU Leuven University*
-- [Selección y reclutamiento de atención médica: Diseñe y entregue múltiples mini entrevistas (MMI) efectivas](https://www.classcentral.com/course/selecting-healthcare-professionals-designing-and--19201) de la *Universidad de Surrey*
+- [Almacenamiento de energía](https://www.classcentral.com/course/edx-almacenamiento-de-energia-19277){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Galileo* ★★★★ ☆ (131)
+- [Fundamentos de gestión de productos](https://www.classcentral.com/course/edx-product-management-fundamentals-19098){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland* ★★★★★ (24)
+- [Diseño de la experiencia](https://www.classcentral.com/course/edx-designing-the-user-experience-19100){:target="_blank" rel="nofollow,noreferrer"} del [usuario](https://www.classcentral.com/course/edx-designing-the-user-experience-19100){:target="_blank" rel="nofollow,noreferrer"} desde el *sistema universitario de Maryland* ★★★★ ☆ (6)
+- [Financiamiento de empresas innovadoras](https://www.classcentral.com/course/edx-financing-innovative-ventures-19115){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland* ★★★★★ (6)
+- [Lograr la adecuación entre el producto y el mercado](https://www.classcentral.com/course/edx-achieving-product-market-fit-19099){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland* ★★★★★ (6)
+- [Creación de modelos comerciales innovadores](https://www.classcentral.com/course/edx-creating-innovative-business-models-19175){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland* ★★★★★ (6)
+- [Comunicación eficaz para las partes interesadas y los equipos](https://www.classcentral.com/course/edx-effective-communication-for-program-and-project-stakeholders-and-teams-19740){:target="_blank" rel="nofollow,noreferrer"} de [programas y proyectos](https://www.classcentral.com/course/edx-effective-communication-for-program-and-project-stakeholders-and-teams-19740){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland* ★★★★★ (4)
+- [Introducción a la gestión empresarial](https://www.classcentral.com/course/introduction-to-business-management-19005){:target="_blank" rel="nofollow,noreferrer"} de *King's College London* ★★★★ ☆ (2)
+- [Productos y servicios innovadores de marketing](https://www.classcentral.com/course/edx-marketing-innovative-products-and-services-19176){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland* ★★★★★ (1)
+- [Introducción a las computadoras y el software de productividad de oficina](https://www.classcentral.com/course/introduction-to-computers-and-office-productivity-20861){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Ciencia y Tecnología de Hong Kong* ★★★★ ☆ (1)
+- [Liderazgo y comportamiento organizacional](https://www.classcentral.com/course/edx-leadership-and-organizational-behavior-19309){:target="_blank" rel="nofollow,noreferrer"} del *Tecnológico de Monterrey* ★★★★ ☆ (1)
+- [Innovación social en áreas rurales](https://www.classcentral.com/course/social-innovation-in-rural-areas-18994){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Padova* ★★★★ ☆ (1)
+- [Recursos humanos para gerentes que no son de recursos humanos](https://www.classcentral.com/course/swayam-hrm-for-non-hr-managers-20241){:target="_blank" rel="nofollow,noreferrer"} de *CEC* ★★★★★ (1)
+- [Ejercicio del liderazgo: principios fundamentales](https://www.classcentral.com/course/edx-exercising-leadership-foundational-principles-20796){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Harvard*
+- [Fundamentos de finanzas](https://www.classcentral.com/course/finance-fundamentals-20026){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Pennsylvania*
+- [Liderazgo de alto riesgo: líder en tiempos de crisis](https://www.classcentral.com/course/high-stakes-leadership-20287){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Michigan*
+- [Recaudación de capital: tecnología crediticia, ofertas de monedas y financiación colectiva](https://www.classcentral.com/course/raising-capital-19057){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Michigan*
+- [El futuro de la tecnología de pago](https://www.classcentral.com/course/payment-technology-19055){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Michigan*
+- [Emprendimiento y estrategia de propiedad intelectual](https://www.classcentral.com/course/swayam-entrepreneurship-and-ip-strategy-19857){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología, Kharagpur*
+- [Principios de gestión](https://www.classcentral.com/course/swayam-principles-of-management-19977){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología, Kharagpur*
+- [Introducción a Business Analytics con R](https://www.classcentral.com/course/business-analytics-r-19233){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Illinois en Urbana-Champaign*
+- [Análisis de datos en contabilidad Capstone](https://www.classcentral.com/course/data-analytics-accountancy-capstone-20811){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Illinois en Urbana-Champaign*
+- [Manejo de la interrupción de la cadena de suministro durante COVID-19](https://www.classcentral.com/course/supply-chain-disruption-20582){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Illinois en Urbana-Champaign*
+- [Desafíos en la gestión de recursos humanos](https://www.classcentral.com/course/challenges-in-human-resource-management-19606){:target="_blank" rel="nofollow,noreferrer"} de *The Open University*
+- [Desarrollo y cambio organizacional en el siglo XXI](https://www.classcentral.com/course/swayam-organization-development-and-change-in-21st-century-19963){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bombay*
+- [Economía](https://www.classcentral.com/course/swayam-managerial-economics-19944){:target="_blank" rel="nofollow,noreferrer"} de *la* [gestión](https://www.classcentral.com/course/swayam-managerial-economics-19944){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bombay*
+- [Contabilidad financiera - IITB](https://www.classcentral.com/course/swayam-financial-accounting-iitb-19866){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bombay*
+- [Comencemos: Construyendo la autoconciencia](https://www.classcentral.com/course/edx-let-s-get-started-building-self-awareness-19743){:target="_blank" rel="nofollow,noreferrer"} desde el *Sistema Universitario de Maryland*
+- [Persuasión y presencia para administradores](https://www.classcentral.com/course/edx-persuasion-and-presence-for-program-and-project-managers-19744){:target="_blank" rel="nofollow,noreferrer"} de [programas y proyectos](https://www.classcentral.com/course/edx-persuasion-and-presence-for-program-and-project-managers-19744){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland*
+- [Seamos personales: trabajo con el tipo de personalidad](https://www.classcentral.com/course/edx-let-s-get-personal-working-with-personality-type-19745){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland*
+- [Liderazgo moderno de productos](https://www.classcentral.com/course/edx-modern-product-leadership-19102){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland*
+- [Gestión de productos digitales](https://www.classcentral.com/course/digital-product-management-18992){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Virginia*
+- [Análisis ágil](https://www.classcentral.com/course/uva-darden-agile-analytics-19556){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Virginia*
+- [Teoría](https://www.classcentral.com/course/swayam-mathematical-portfolio-theory-19947){:target="_blank" rel="nofollow,noreferrer"} de *la* [carpeta de trabajos matemáticos](https://www.classcentral.com/course/swayam-mathematical-portfolio-theory-19947){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Guwahati*
+- [Contabilidad financiera - IITMandi](https://www.classcentral.com/course/swayam-financial-accounting-iitmandi-19867){:target="_blank" rel="nofollow,noreferrer"} de *NPTEL*
+- [Principios de microeconomía: mercados competitivos](https://www.classcentral.com/course/edx-principles-of-microeconomics-competitive-markets-20174){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Queensland*
+- [Minerales y minería en un mundo sostenible](https://www.classcentral.com/course/edx-minerals-and-mining-in-a-sustainable-world-21001){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Queensland*
+- [Everyday Excel, Parte 2](https://www.classcentral.com/course/everyday-excel-part-2-19571){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Colorado Boulder*
+- [Everyday Excel, Parte 1](https://www.classcentral.com/course/everyday-excel-part-1-19327){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Colorado Boulder*
+- [Capacitación en liderazgo y gestión de investigadores del sistema](https://www.classcentral.com/course/researcher-management-leadership-training-19465){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Colorado*
+- [Raison d'être et Entreprise à Mission](https://www.classcentral.com/course/raison-etre-et-entreprise-a-mission-19244){:target="_blank" rel="nofollow,noreferrer"} de *ESSEC Business School*
+- [Marketing de servicios: conceptos y aplicaciones](https://www.classcentral.com/course/edx-services-marketing-concepts-applications-21117){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Gestión de Bangalore*
+- [La esencia del liderazgo: exploraciones de la literatura](https://www.classcentral.com/course/swayam-the-essence-of-leadership-explorations-from-literature-20010){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Administración de Bangalore*
+- [Стартап в условиях открытых инноваций](https://www.classcentral.com/course/startupinn-20190){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Startups en innovación abierta](https://www.classcentral.com/course/startups-in-open-innovation-20189){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Коммерциализация результатов инновационной деятельности](https://www.classcentral.com/course/krid-20188){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Resultados](https://www.classcentral.com/course/commercialization-of-innovation-activity-results-20187){:target="_blank" rel="nofollow,noreferrer"} de la [comercialización de la actividad de innovación](https://www.classcentral.com/course/commercialization-of-innovation-activity-results-20187){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Inicio: ¿Cómo construir un negocio exitoso? ](https://www.classcentral.com/course/startup-english-20819){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Цифровая трансформация бизнеса](https://www.classcentral.com/course/digital-transformation-rus-20842){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [«Стартап: как вырасти в успешный бизнес»](https://www.classcentral.com/course/startup-spbu-19079){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Продвижение веб-сайтов](https://www.classcentral.com/course/prodvizheniye-veb-saytov-19095){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Una guía para la innovación en el cuidado de la salud: principios y práctica](https://www.classcentral.com/course/guide-to-healthcare-innovation-principles-and-pra-19266){:target="_blank" rel="nofollow,noreferrer"} del *Imperial College London*
+- [Emprendimiento sanitario: llevar ideas al mercado](https://www.classcentral.com/course/ghi-healthcare-entrepreneurship-taking-ideas-to-m-19267){:target="_blank" rel="nofollow,noreferrer"} del *Imperial College de Londres*
+- [Diseño de centros de información para el desempeño](https://www.classcentral.com/course/edx-designing-information-hubs-for-program-and-project-performance-19750){:target="_blank" rel="nofollow,noreferrer"} de [programas y proyectos](https://www.classcentral.com/course/edx-designing-information-hubs-for-program-and-project-performance-19750){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland*
+- [¡Adoptemos los principios: valores, cultura y desobediencia inteligente!](https://www.classcentral.com/course/edx-let-s-get-principled-values-culture-intelligent-disobedience-19749){:target="_blank" rel="nofollow,noreferrer"} del *Sistema Universitario de Maryland*
+- [Manejo de conflictos en programas y proyectos con inteligencia cultural y emocional](https://www.classcentral.com/course/edx-managing-conflicts-on-programs-and-projects-with-cultural-and-emotional-intelligence-19747){:target="_blank" rel="nofollow,noreferrer"} del *sistema universitario de Maryland*
+- [Información financiera y su análisis](https://www.classcentral.com/course/edx-informacion-financiera-y-su-analisis-20114){:target="_blank" rel="nofollow,noreferrer"} del *Tecnológico de Monterrey*
+- [Антикризисная разработка корпоративных информационных систем](https://www.classcentral.com/course/edx------19398){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional de Investigación Nuclear MEPhI*
+- [Fundamentos de contabilidad financiera y de gestión](https://www.classcentral.com/course/financial-accounting-polimi-20035){:target="_blank" rel="nofollow,noreferrer"} del *Politecnico di Milano*
+- [Fundamentos de organización](https://www.classcentral.com/course/organization-20112){:target="_blank" rel="nofollow,noreferrer"} del *Politecnico di Milano*
+- [Ecosistemas de cadena de suministro digital para industrias creativas](https://www.classcentral.com/course/polimi-open-knowledge-digital-supply-chain-ecosystems-for-creative-industries-19421){:target="_blank" rel="nofollow,noreferrer"} del *Politecnico di Milano*
+- [Liderazgo inclusivo](https://www.classcentral.com/course/edx-liderazgo-inclusivo-19086){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Carlos iii de Madrid*
+- [Proyectos complejos: éxitos o fracasos](https://www.classcentral.com/course/proyectos-complejos-exitosos-fracasados-19618){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de los Andes*
+- [Introducción a la logística internacional](https://www.classcentral.com/course/introduction-to-international-logistics-20382){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [Estrategia como un proceso y medidas de éxito: una introducción](https://www.classcentral.com/course/introduction-to-strategy-19054){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [Introducción a la gestión internacional de recursos humanos](https://www.classcentral.com/course/introduction-to-international-human-resources-man-20381){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [Los impactos del turismo](https://www.classcentral.com/course/the-impacts-of-tourism-20380){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [Overturismo](https://www.classcentral.com/course/overtourism-20379){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [Aprovechar el poder de los datos: Introducción a Data-Driven Toma de Decisiones](https://www.classcentral.com/course/harnessing-the-power-of-data-20990){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Coventry*
+- [Gestión empresarial: culturas nacionales y organizativas](https://www.classcentral.com/course/business-management-national-organisational-cultu-20385){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [Perspectivas sobre el espíritu empresarial](https://www.classcentral.com/course/perspectives-entrepreneurship-20817){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [La evolución de la teoría de la gestión y el liderazgo](https://www.classcentral.com/course/the-evolution-of-management-19074){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
+- [Découvrir la responsabilité sociétale des entreprises (RSE)](https://www.classcentral.com/course/edx-decouvrir-la-responsabilite-societale-des-entreprises-rse-21025){:target="_blank" rel="nofollow,noreferrer"} de la *Université catholique de Louvain*
+- [Marketing: entrega de la propuesta de valor](https://www.classcentral.com/course/edx-marketing-delivering-the-value-proposition-20048){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Operaciones de marketing](https://www.classcentral.com/course/edx-marketing-operations-20047){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Examen final de Marketing Essentials](https://www.classcentral.com/course/edx-marketing-essentials-final-exam-20049){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Fundamentos de marketing](https://www.classcentral.com/course/edx-marketing-foundations-20050){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Comprensión del entorno empresarial](https://www.classcentral.com/course/edx-understanding-the-business-environment-20764){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Gestión: convertirse en un líder eficaz](https://www.classcentral.com/course/edx-management-becoming-an-effective-leader-20760){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [La transformación digital au service de l'entreprise et de l'industrie du futur](https://www.classcentral.com/course/france-universite-numerique-la-transformation-digitale-au-service-de-l-entreprise-et-de-l-industrie-du-futur-19224){:target="_blank" rel="nofollow,noreferrer"} del *Institut Mines-Télécom*
+- [Fundamentos de Excel para el análisis de datos](https://www.classcentral.com/course/excel-data-analysis-fundamentals-20156){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Macquarie*
+- [La guía del emprendedor para principiantes](https://www.classcentral.com/course/entrepreneur-guide-beginners-19704){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Barcelona*
+- [Análisis](https://www.classcentral.com/course/supply-market-analysis-19660){:target="_blank" rel="nofollow,noreferrer"} del [mercado de suministro](https://www.classcentral.com/course/supply-market-analysis-19660){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Conceptos básicos de adquisiciones](https://www.classcentral.com/course/procurement-basics-19658){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Introducción a las adquisiciones y el abastecimiento](https://www.classcentral.com/course/procurement-sourcing-introduction-19659){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Gestión de proveedores](https://www.classcentral.com/course/supplier-management-19661){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Análisis de inventario](https://www.classcentral.com/course/inventoryanalytics-20285){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Inteligencia empresarial y análisis competitivo](https://www.classcentral.com/course/businessintelligence-19732){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Negociación de adquisiciones](https://www.classcentral.com/course/procurement-negotiation-19657){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Conclusiones sobre adquisiciones estratégicas y abastecimiento](https://www.classcentral.com/course/procurement-sourcing-conclusions-19663){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Abastecimiento estratégico](https://www.classcentral.com/course/strategic-sourcing-19662){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Rutgers*
+- [Emprendimiento: de la idea de negocio a la acción](https://www.classcentral.com/course/entrepreneurship-idea-to-action-19710){:target="_blank" rel="nofollow,noreferrer"} de *King's College London*
+- [Design Thinking y puesta en marcha global](https://www.classcentral.com/course/startup101-20575){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Avanzado de Ciencia y Tecnología* de *Corea*
+- [Principios de finanzas sostenibles](https://www.classcentral.com/course/sustainable-finance-19711){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Erasmus de Rotterdam*
+- [Investigación operativa: un enfoque de aprendizaje activo](https://www.classcentral.com/course/edx-operations-research-an-active-learning-approach-19136){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Politécnica* de *Hong Kong*
+- [日 式 经营 管理 Gestión empresarial japonesa](https://www.classcentral.com/course/edx--japanese-business-management-19149){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Waseda*
+- [Mentoring Engineers with Impact](https://www.classcentral.com/course/edx-mentoring-engineers-with-impact-20931){:target="_blank" rel="nofollow,noreferrer"} de *KU Leuven University*
+- [Selección y reclutamiento de atención médica: Diseñe y entregue múltiples mini entrevistas (MMI) efectivas](https://www.classcentral.com/course/selecting-healthcare-professionals-designing-and--19201){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Surrey*
 - [Lever des Fonds pour ma Startup](https://www.classcentral.com/course/lever-des-fonds-pour-ma-startup-20873) de *Grenoble School of Management*
-- [Comprender las cadenas de suministro de alimentos en tiempos de crisis](https://www.classcentral.com/course/understanding-food-supply-chains-19389) de *EIT Food*
-- [Cómo recaudar fondos: una guía para la recaudación de fondos para no recaudadores](https://www.classcentral.com/course/fundraising-for-non-fundraisers-19670) de [fondos](https://www.classcentral.com/course/fundraising-for-non-fundraisers-19670) de la *Universidad de Kent*
-- [Liderazgo tecnológico y espíritu empresarial](https://www.classcentral.com/course/technology-entrepreneurship-20583) de *la Universidad Politécnica Estatal* de *San Petersburgo*
-- [Gestión global de proyectos: mejores prácticas para el éxito MOOC GRATUITO](https://www.classcentral.com/course/independent-global-project-management-best-practices-for-success-free-mooc-19320) de *The College of St. Scholastica*
-- [Análisis de datos UX](https://www.classcentral.com/course/edx-ux-data-analysis-21095) de *HEC Montréal*
-- [Prototipos UX](https://www.classcentral.com/course/edx-ux-prototyping-21093) de *HEC Montréal*
-- [Investigación UX](https://www.classcentral.com/course/edx-ux-research-21092) de *HEC Montréal*
-- [Le Design UX](https://www.classcentral.com/course/edx-le-design-ux-21089) de *HEC Montréal*
-- [Evaluación UX](https://www.classcentral.com/course/edx-ux-evaluation-21088) de *HEC Montréal*
-- [La Recherche UX](https://www.classcentral.com/course/edx-la-recherche-ux-21094) de *HEC Montréal*
-- [Diseño UX](https://www.classcentral.com/course/edx-ux-design-21087) de *HEC Montréal*
-- [L'évaluation UX](https://www.classcentral.com/course/edx-l-evaluation-ux-21091) de *HEC Montréal*
-- [L'analyse de données UX](https://www.classcentral.com/course/edx-l-analyse-de-donnees-ux-21096) de *HEC Montréal*
-- [Introduction à l'expérience utilisateur](https://www.classcentral.com/course/edx-introduction-a-l-experience-utilisateur-21118) de *HEC Montréal*
-- [Introducción a la experiencia](https://www.classcentral.com/course/edx-introduction-to-user-experience-21105) del [usuario](https://www.classcentral.com/course/edx-introduction-to-user-experience-21105) de *HEC Montréal*
-- [Le prototypage UX](https://www.classcentral.com/course/edx-le-prototypage-ux-21090) de *HEC Montréal*
-- [La gestion de projet UX](https://www.classcentral.com/course/edx-la-gestion-de-projet-ux-21097) de *HEC Montréal*
-- [Gestión de UX](https://www.classcentral.com/course/edx-ux-management-21098) de *HEC Montréal*
-- [AIR: Acelerando la preparación para la inversión](https://www.classcentral.com/course/independent-air-accelerating-investment-readiness-20034) de la *Universidad de Heidelberg*
-- [Фондовый рынок для частных инвесторов сегмента Mass Affluent и HNW](https://www.classcentral.com/course/stock-market-for-private-investors-in-the-mass-af-20205) del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
-- [Derecho de sociedades ruso. Constitución de personas jurídicas. ](https://www.classcentral.com/course/formation-of-legal-entities-19664)del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
-- [Derecho de sociedades ruso. Capital y financiamiento de entidades legales](https://www.classcentral.com/course/capital-financing-of-legal-entities-19665) del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
-- [Derecho de sociedades ruso. Dirección](https://www.classcentral.com/course/company-management-19666) de [empresa](https://www.classcentral.com/course/company-management-19666) del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
-- [Ciencia de servicio y sostenibilidad](https://www.classcentral.com/course/service-science-and-sustainability-20326) de *la Universidad Nacional Tsing Hua*
-- [Découvrez La Gestion](https://www.classcentral.com/course/independent-decouvrez-la-gestion-19144) de *Téluq*
-- [Comportamiento organizacional](https://www.classcentral.com/course/swayam-organisation-behaviour-20262) de la *CCA*
-- [Creación de valor: el método Carlson-Polizzotto](https://www.classcentral.com/course/valuecreation-19335) de *Northeastern University*
-- [Fundamentos de administración estratégica](https://www.classcentral.com/course/edx-fundamentos-de-administracion-estrategica-19543) de la *Universidad Anáhuac*
-- [Fundamentos de la contabilidad financiera](https://www.classcentral.com/course/swayam-fundamentals-of-financial-accounting-19877) de *la Universidad Savitribai Phule Pune*
-- [Fundamentos de la gestión de oficinas y métodos](https://www.classcentral.com/course/swayam-fundamentals-of-office-management-methods-19878) de *la Universidad Savitribai Phule Pune*
-- [Introducción al crowdfunding](https://www.classcentral.com/course/edx-introduccion-al-crowdfunding-19202) de la *Universidad Anáhuac*
-- [Técnicas cuantitativas para la gestión](https://www.classcentral.com/course/swayam-quantitative-techniques-for-management-20268) de la *CCA*
-- [Marketing de servicios especiales en India](https://www.classcentral.com/course/swayam-special-services-marketing-in-india-20000) de *la Universidad Savitribai Phule Pune*
-- [Calidad en el servicio y lealtad del cliente](https://www.classcentral.com/course/edx-calidad-en-el-servicio-y-lealtad-del-cliente-20989) de la *Universidad Anáhuac*
-- [Diseño de estrategias de marketing enfocadas a los consumidores](https://www.classcentral.com/course/edx-diseno-de-estrategias-de-marketing-enfocadas-a-los-consumidores-20988) de la *Universidad Anáhuac*
-- [Visión general de la Mercadotecnia y su función para los negocios](https://www.classcentral.com/course/edx-vision-general-de-la-mercadotecnia-y-su-funcion-para-los-negocios-20987) de la *Universidad Anáhuac*
-- [Fundamental de Seguros](https://www.classcentral.com/course/swayam-fundamental-of-insurance-19873) de *CEC*
-- [Destinos turísticos internacionales](https://www.classcentral.com/course/swayam-international-tourism-destinantions-19900) de la *CCA*
-- [Negocios internacionales](https://www.classcentral.com/course/swayam-international-business-19899) de *CEC*
-- [Finanzas corporativas](https://www.classcentral.com/course/swayam-corporate-finance-20233) de *CEC*
-- [Transición de amigo a líder](https://www.classcentral.com/course/friend-to-leader-19736) de la *Universidad del Sur de Queensland*
-- [Cultura y turismo](https://www.classcentral.com/course/culture-and-tourism-18995) de *la Universidad de Nankai*
-- [Métodos de investigación en estudios de turismo](https://www.classcentral.com/course/research-methods-travel-and-tourism-18993) de *la Universidad de Nankai*
+- [Comprender las cadenas de suministro de alimentos en tiempos de crisis](https://www.classcentral.com/course/understanding-food-supply-chains-19389){:target="_blank" rel="nofollow,noreferrer"} de *EIT Food*
+- [Cómo recaudar fondos: una guía para la recaudación de fondos para no recaudadores](https://www.classcentral.com/course/fundraising-for-non-fundraisers-19670){:target="_blank" rel="nofollow,noreferrer"} de [fondos](https://www.classcentral.com/course/fundraising-for-non-fundraisers-19670){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Kent*
+- [Liderazgo tecnológico y espíritu empresarial](https://www.classcentral.com/course/technology-entrepreneurship-20583){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Politécnica Estatal* de *San Petersburgo*
+- [Gestión global de proyectos: mejores prácticas para el éxito MOOC GRATUITO](https://www.classcentral.com/course/independent-global-project-management-best-practices-for-success-free-mooc-19320){:target="_blank" rel="nofollow,noreferrer"} de *The College of St. Scholastica*
+- [Análisis de datos UX](https://www.classcentral.com/course/edx-ux-data-analysis-21095){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Prototipos UX](https://www.classcentral.com/course/edx-ux-prototyping-21093){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Investigación UX](https://www.classcentral.com/course/edx-ux-research-21092){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Le Design UX](https://www.classcentral.com/course/edx-le-design-ux-21089){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Evaluación UX](https://www.classcentral.com/course/edx-ux-evaluation-21088){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [La Recherche UX](https://www.classcentral.com/course/edx-la-recherche-ux-21094){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Diseño UX](https://www.classcentral.com/course/edx-ux-design-21087){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [L'évaluation UX](https://www.classcentral.com/course/edx-l-evaluation-ux-21091){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [L'analyse de données UX](https://www.classcentral.com/course/edx-l-analyse-de-donnees-ux-21096){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Introduction à l'expérience utilisateur](https://www.classcentral.com/course/edx-introduction-a-l-experience-utilisateur-21118){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Introducción a la experiencia](https://www.classcentral.com/course/edx-introduction-to-user-experience-21105){:target="_blank" rel="nofollow,noreferrer"} del [usuario](https://www.classcentral.com/course/edx-introduction-to-user-experience-21105){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Le prototypage UX](https://www.classcentral.com/course/edx-le-prototypage-ux-21090){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [La gestion de projet UX](https://www.classcentral.com/course/edx-la-gestion-de-projet-ux-21097){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [Gestión de UX](https://www.classcentral.com/course/edx-ux-management-21098){:target="_blank" rel="nofollow,noreferrer"} de *HEC Montréal*
+- [AIR: Acelerando la preparación para la inversión](https://www.classcentral.com/course/independent-air-accelerating-investment-readiness-20034){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Heidelberg*
+- [Фондовый рынок для частных инвесторов сегмента Mass Affluent и HNW](https://www.classcentral.com/course/stock-market-for-private-investors-in-the-mass-af-20205){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
+- [Derecho de sociedades ruso. Constitución de personas jurídicas](https://www.classcentral.com/course/formation-of-legal-entities-19664){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
+- [Derecho de sociedades ruso. Capital y financiamiento de entidades legales](https://www.classcentral.com/course/capital-financing-of-legal-entities-19665){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
+- [Derecho de sociedades ruso. Dirección](https://www.classcentral.com/course/company-management-19666){:target="_blank" rel="nofollow,noreferrer"} de [empresa](https://www.classcentral.com/course/company-management-19666){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Estatal de Relaciones Internacionales de Moscú (MGIMO)*
+- [Ciencia de servicio y sostenibilidad](https://www.classcentral.com/course/service-science-and-sustainability-20326){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional Tsing Hua*
+- [Découvrez La Gestion](https://www.classcentral.com/course/independent-decouvrez-la-gestion-19144){:target="_blank" rel="nofollow,noreferrer"} de *Téluq*
+- [Comportamiento organizacional](https://www.classcentral.com/course/swayam-organisation-behaviour-20262){:target="_blank" rel="nofollow,noreferrer"} de la *CCA*
+- [Creación de valor: el método Carlson-Polizzotto](https://www.classcentral.com/course/valuecreation-19335){:target="_blank" rel="nofollow,noreferrer"} de *Northeastern University*
+- [Fundamentos de administración estratégica](https://www.classcentral.com/course/edx-fundamentos-de-administracion-estrategica-19543){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Anáhuac*
+- [Fundamentos de la contabilidad financiera](https://www.classcentral.com/course/swayam-fundamentals-of-financial-accounting-19877){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Savitribai Phule Pune*
+- [Fundamentos de la gestión de oficinas y métodos](https://www.classcentral.com/course/swayam-fundamentals-of-office-management-methods-19878){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Savitribai Phule Pune*
+- [Introducción al crowdfunding](https://www.classcentral.com/course/edx-introduccion-al-crowdfunding-19202){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Anáhuac*
+- [Técnicas cuantitativas para la gestión](https://www.classcentral.com/course/swayam-quantitative-techniques-for-management-20268){:target="_blank" rel="nofollow,noreferrer"} de la *CCA*
+- [Marketing de servicios especiales en India](https://www.classcentral.com/course/swayam-special-services-marketing-in-india-20000){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Savitribai Phule Pune*
+- [Calidad en el servicio y lealtad del cliente](https://www.classcentral.com/course/edx-calidad-en-el-servicio-y-lealtad-del-cliente-20989){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Anáhuac*
+- [Diseño de estrategias de marketing enfocadas a los consumidores](https://www.classcentral.com/course/edx-diseno-de-estrategias-de-marketing-enfocadas-a-los-consumidores-20988){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Anáhuac*
+- [Visión general de la Mercadotecnia y su función para los negocios](https://www.classcentral.com/course/edx-vision-general-de-la-mercadotecnia-y-su-funcion-para-los-negocios-20987){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Anáhuac*
+- [Fundamental de Seguros](https://www.classcentral.com/course/swayam-fundamental-of-insurance-19873){:target="_blank" rel="nofollow,noreferrer"} de *CEC*
+- [Destinos turísticos internacionales](https://www.classcentral.com/course/swayam-international-tourism-destinantions-19900){:target="_blank" rel="nofollow,noreferrer"} de la *CCA*
+- [Negocios internacionales](https://www.classcentral.com/course/swayam-international-business-19899){:target="_blank" rel="nofollow,noreferrer"} de *CEC*
+- [Finanzas corporativas](https://www.classcentral.com/course/swayam-corporate-finance-20233){:target="_blank" rel="nofollow,noreferrer"} de *CEC*
+- [Transición de amigo a líder](https://www.classcentral.com/course/friend-to-leader-19736){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad del Sur de Queensland*
+- [Cultura y turismo](https://www.classcentral.com/course/culture-and-tourism-18995){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Nankai*
+- [Métodos de investigación en estudios de turismo](https://www.classcentral.com/course/research-methods-travel-and-tourism-18993){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Nankai*
 
 ## Ciencia (104)
 
-- [Pronóstico de la generación de energía eólica y solar fotovoltaica](https://www.classcentral.com/course/edx-pronostico-de-la-generacion-de-energia-eolica-y-solar-fotovoltaica-19544) de la *Universidad Galileo* ★★★★ ☆ (113)
-- [Biología celular: transporte](https://www.classcentral.com/course/edx-cell-biology-transport-20117) del *Instituto de Tecnología de Massachusetts* ★★★★★ (1)
-- [Mi Propia Huerta Orgánica](https://www.classcentral.com/course/edx-mi-propia-huerta-organica-19401) de la *Universidad Nacional de Córdoba* ★★★★★ (1)
-- [Manual musculoesquelético para no ortopedistas](https://www.classcentral.com/course/edx-musculoskeletal-primer-for-the-non-orthopedist-19316) de *la Universidad de Stanford*
-- [Fundamentos moleculares de la medicina](https://www.classcentral.com/course/edx-molecular-foundations-of-medicine-19278) de *la Universidad de Stanford*
-- [Mecánica cuántica: un primer curso](https://www.classcentral.com/course/edx-quantum-mechanics-a-first-course-20822) del *Instituto de Tecnología de Massachusetts*
-- [Día de la Tierra en 50 Teach-Out](https://www.classcentral.com/course/earth-day-at-50-19040) de la *Universidad de Michigan*
-- [Día de la Tierra en 50 Teach-Out](https://www.classcentral.com/course/earth-day-19092) de la *Universidad de Michigan*
-- [Melting Ice Rising Seas Teach-Out](https://www.classcentral.com/course/melting-ice-rising-seas-18987) de la *Universidad de Michigan*
-- [Estereología elemental para metalografía cuantitativa](https://www.classcentral.com/course/swayam-elementary-stereology-for-quantitative-metallography-19854) de *NPTEL*
-- [Fenómenos de transporte en sistemas biológicos](https://www.classcentral.com/course/swayam-transport-phenomena-in-biological-systems-20014) del *Instituto Indio de Tecnología de Madrás*
-- [Cristalografía y difracción](https://www.classcentral.com/course/swayam-x-ray-crystallography-diffraction-20022) de [rayos X](https://www.classcentral.com/course/swayam-x-ray-crystallography-diffraction-20022) de *NPTEL*
-- [Metalurgia de polvos](https://www.classcentral.com/course/swayam-powder-metallurgy-19973) del *Instituto Indio de Tecnología de Madrás*
-- [Dinámica de las estructuras oceánicas](https://www.classcentral.com/course/swayam-dynamics-of-ocean-structures-19846) del *Instituto Indio de Tecnología de Madrás*
-- [Conceptos básicos de ingeniería de materiales](https://www.classcentral.com/course/swayam-basics-of-materials-engineering-19807) del *Instituto Indio de Tecnología de Madras*
-- [Introducción a la biología](https://www.classcentral.com/course/swayam-introduction-to-developmental-biology-19906) del [desarrollo](https://www.classcentral.com/course/swayam-introduction-to-developmental-biology-19906) del *Instituto Indio de Tecnología de Madrás*
-- [Química de coordinación (química de los elementos de transición)](https://www.classcentral.com/course/swayam-co-ordination-chemistry-chemistry-of-transition-elements-19821) del *Instituto Indio de Tecnología, Kharagpur*
-- [Química ambiental del suelo](https://www.classcentral.com/course/swayam-environmental-soil-chemistry-19859) del *Instituto Indio de Tecnología, Kharagpur*
-- [Introducción a la ciencia de los polímeros](https://www.classcentral.com/course/swayam-introduction-to-polymer-science-19910) del *Instituto Indio de Tecnología, Kharagpur*
-- [Fabricación](https://www.classcentral.com/course/swayam-ironmaking-and-steelmaking-19914) de [hierro y acero](https://www.classcentral.com/course/swayam-ironmaking-and-steelmaking-19914) del *Instituto Indio de Tecnología, Kharagpur*
-- [Defectos en sólidos cristalinos (Parte I)](https://www.classcentral.com/course/swayam-defects-in-crystalline-solids-part-i-19839) del *Instituto Indio de Tecnología Kanpur*
-- [Fundamentos del procesamiento de materiales - I](https://www.classcentral.com/course/swayam-fundamentals-of-material-processing-i-19874) del *Instituto Indio de Tecnología Kanpur*
-- [Ecología](https://www.classcentral.com/course/swayam-wildlife-ecology-20021) de *la* [vida silvestre](https://www.classcentral.com/course/swayam-wildlife-ecology-20021) del *Instituto Indio de Tecnología Kanpur*
-- [Resiliencia rural: capacitación sobre estrés agrícola](https://www.classcentral.com/course/desire2learn-rural-resilience-farm-stress-training-20993) de *la Universidad Estatal de Michigan*
-- [Química cuántica de átomos y moléculas](https://www.classcentral.com/course/swayam-quantum-chemistry-of-atoms-and-molecules-19982) del *Instituto Indio de Tecnología de Bombay*
-- [Mecánica estadística básica](https://www.classcentral.com/course/swayam-basic-statistical-mechanics-19805) del *Instituto Indio de Tecnología de Bombay*
-- [Mecánica cuántica y espectroscopia molecular](https://www.classcentral.com/course/swayam-quantum-mechanics-and-molecular-spectroscopy-19983) del *Instituto Indio de Tecnología de Bombay*
-- [Corrosión acuosa y su control](https://www.classcentral.com/course/swayam-aqueous-corrosion-and-its-control-19798) del *Instituto Indio de Tecnología de Bombay*
-- [Química ambiental](https://www.classcentral.com/course/swayam-environmental-chemistry-19858) del *Instituto Indio de Tecnología Roorkee*
-- [Path Integral Methods in Physics & Finance](https://www.classcentral.com/course/swayam-path-integral-methods-in-physics-finance-19966) del *Indian Institute of Technology Roorkee*
-- [Nitrógeno: un desafío global (hindi)](https://www.classcentral.com/course/edx-nitrogen-a-global-challenge-hindi-19417) de la *Universidad de Edimburgo*
-- [Nitrógeno: un desafío global (urdu)](https://www.classcentral.com/course/edx-nitrogen-a-global-challenge-urdu-20606) de la *Universidad de Edimburgo*
-- [Fundamentos de la transferencia de calor por convección](https://www.classcentral.com/course/swayam-fundamentals-of-convective-heat-transfer-19876) del *Instituto Indio de Tecnología de Guwahati*
-- [Biotecnología experimental](https://www.classcentral.com/course/swayam-experimental-biotechnology-19863) del *Instituto Indio de Tecnología Guwahati*
-- [Espectroscopía de RMN unidimensional y bidimensional para químicos](https://www.classcentral.com/course/swayam-one-and-two-dimensional-nmr-spectroscopy-for-chemists-19961) del *Instituto Indio de Tecnología de Bangalore*
-- [Introducción a la neurociencia y la neuroinstrumentación](https://www.classcentral.com/course/swayam-introductory-neuroscience-neuro-instrumentation-19913) del *Instituto Indio de Tecnología de Bangalore*
-- [Introducción a la mecánica clásica](https://www.classcentral.com/course/swayam-introduction-to-classical-mechanics-19905) de *NPTEL*
-- [Introducción a la ciencia y tecnología cuánticas](https://www.classcentral.com/course/edx-introduction-to-quantum-science-technology-20291) de *la Universidad de Purdue*
-- [Frozen in the Ice: Explorando el Ártico](https://www.classcentral.com/course/frozen-in-the-ice-19275) de la *Universidad de Colorado Boulder*
-- [Conservación de primates](https://www.classcentral.com/course/primate-conservation-21104) de la *Universidad de Colorado Boulder*
-- [EUCalc - Buscador de caminos hacia una sociedad](https://www.classcentral.com/course/edx-eucalc-pathway-finder-to-a-low-carbon-eu-society-20758) de la [UE con bajas emisiones de carbono](https://www.classcentral.com/course/edx-eucalc-pathway-finder-to-a-low-carbon-eu-society-20758) de la *Universidad Tecnológica* de *Delft*
-- [Radio Sky I: ciencia y observaciones](https://www.classcentral.com/course/edx-the-radio-sky-i-science-and-observations-20870) de la *École Polytechnique Fédérale de Lausanne*
-- [Extinciones: pasado, presente y futuro](https://www.classcentral.com/course/extinctions-past-present-and-future-20045) de *la Universidad de Emory*
-- [Resiliencia climática y adaptación para caminos rurales](https://www.classcentral.com/course/climate-resilience-and-adaptation-for-low-volume--19003) de la *Universidad de Birmingham*
-- [Esquemas de pruebas de aptitud para pruebas de materiales en carreteras rurales](https://www.classcentral.com/course/low-volume-rural-roads-testing-schemes-for-soils--19004) de la *Universidad de Birmingham*
-- [Cooperativas y empresas productoras](https://www.classcentral.com/course/swayam-cooperatives-and-producer-companies-19833) del *Indian Institute of Management Bangalore*
-- [Del desperdicio al valor: cómo abordar el desperdicio](https://www.classcentral.com/course/from-waste-to-value-20611) de *alimentos de los alimentos EIT*
-- [Innovación en agricultura arable: tecnologías para sistemas agrícolas sostenibles](https://www.classcentral.com/course/innovation-in-arable-farming-20960) de *EIT Food*
-- [Нейролингвистика](https://www.classcentral.com/course/neuro-ling-ru-20289) de *la Universidad Estatal* de *San Petersburgo*
-- [Neurolingüística](https://www.classcentral.com/course/neuroling-19288) de *la Universidad Estatal* de *San Petersburgo*
-- [Seguridad hídrica](https://www.classcentral.com/course/seguridad-hidrica-19217) de la *Universidad Nacional Autónoma de México*
-- [Una aproximación a la Química del Carbono](https://www.classcentral.com/course/qimica-carbono-19110) de la *Universidad Nacional Autónoma de México*
-- [Parasitología médica | 医学 寄生虫 学](https://www.classcentral.com/course/edx-medical-parasitology--19192) de *la Universidad de Tsinghua*
-- [Iniciación a la evaluación del impacto ambiental](https://www.classcentral.com/course/edx-iniciacion-a-la-evaluacion-del-impacto-ambiental-20966) de la *Universitat Politècnica de València*
-- [Fundamentos de Oscilaciones y Ondas para Ingeniería](https://www.classcentral.com/course/edx-fundamentos-de-oscilaciones-y-ondas-para-ingenieria-19185) de la *Universitat Politècnica de València*
-- [Квантовая механика. Часть 1. Принципы квантовой механики](https://www.classcentral.com/course/principles-of-quantum-mechanic-19377) de *la Universidad Nacional de Investigación Nuclear MEPhI*
-- [Ядерное нераспространение: правовые аспекты, основы национальных гарантий](https://www.classcentral.com/course/nuclear-non-proliferation-19628) de *la Universidad Nacional de Investigación Nuclear MEPhI*
-- [Cerámica funcional avanzada](https://www.classcentral.com/course/advanced-functional-ceramics-19337) de *la Universidad de Yonsei*
-- [Acción climática en paisajes biodiversos](https://www.classcentral.com/course/edx-climate-action-in-biodiverse-landscapes-19138) de *la Universidad de Wageningen*
-- [Turismo y cambio climático](https://www.classcentral.com/course/edx-tourism-and-climate-change-19159) de *la Universidad de Wageningen*
-- [Lista Roja de Ecosistemas de la UICN: el estándar global para evaluar los riesgos para los ecosistemas](https://www.classcentral.com/course/global-standard-for-assessing-risks-to-ecosystems-19360) de *la Universidad de Deakin*
-- [Herramientas de modelado económico agrícola](https://www.classcentral.com/course/edx-agricultural-economic-modeling-tools-20761) de la *Universidad de Doane*
-- [Soluciones de sistemas agroalimentarios y futuros alimentarios globales](https://www.classcentral.com/course/edx-global-food-futures-and-agri-food-systems-solutions-20765) de la *Universidad de Doane*
-- [Gestión sostenible de la cadena de suministro agroalimentaria](https://www.classcentral.com/course/edx-sustainable-agri-food-supply-chain-management-20763) de la *Universidad de Doane*
-- [Examen integral de agroindustria sostenible](https://www.classcentral.com/course/edx-sustainable-agribusiness-comprehensive-exam-20762) de la *Universidad de Doane*
-- [Transformación del sistema alimentario global](https://www.classcentral.com/course/transformation-global-food-system-19696) de la *Universidad de Copenhague*
+- [Pronóstico de la generación de energía eólica y solar fotovoltaica](https://www.classcentral.com/course/edx-pronostico-de-la-generacion-de-energia-eolica-y-solar-fotovoltaica-19544){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Galileo* ★★★★ ☆ (113)
+- [Biología celular: transporte](https://www.classcentral.com/course/edx-cell-biology-transport-20117){:target="_blank" rel="nofollow,noreferrer"} del *Instituto de Tecnología de Massachusetts* ★★★★★ (1)
+- [Mi Propia Huerta Orgánica](https://www.classcentral.com/course/edx-mi-propia-huerta-organica-19401){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Nacional de Córdoba* ★★★★★ (1)
+- [Manual musculoesquelético para no ortopedistas](https://www.classcentral.com/course/edx-musculoskeletal-primer-for-the-non-orthopedist-19316){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Stanford*
+- [Fundamentos moleculares de la medicina](https://www.classcentral.com/course/edx-molecular-foundations-of-medicine-19278){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Stanford*
+- [Mecánica cuántica: un primer curso](https://www.classcentral.com/course/edx-quantum-mechanics-a-first-course-20822){:target="_blank" rel="nofollow,noreferrer"} del *Instituto de Tecnología de Massachusetts*
+- [Día de la Tierra en 50 Teach-Out](https://www.classcentral.com/course/earth-day-at-50-19040){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Michigan*
+- [Día de la Tierra en 50 Teach-Out](https://www.classcentral.com/course/earth-day-19092){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Michigan*
+- [Melting Ice Rising Seas Teach-Out](https://www.classcentral.com/course/melting-ice-rising-seas-18987){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Michigan*
+- [Estereología elemental para metalografía cuantitativa](https://www.classcentral.com/course/swayam-elementary-stereology-for-quantitative-metallography-19854){:target="_blank" rel="nofollow,noreferrer"} de *NPTEL*
+- [Fenómenos de transporte en sistemas biológicos](https://www.classcentral.com/course/swayam-transport-phenomena-in-biological-systems-20014){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Madrás*
+- [Cristalografía y difracción](https://www.classcentral.com/course/swayam-x-ray-crystallography-diffraction-20022){:target="_blank" rel="nofollow,noreferrer"} de [rayos X](https://www.classcentral.com/course/swayam-x-ray-crystallography-diffraction-20022){:target="_blank" rel="nofollow,noreferrer"} de *NPTEL*
+- [Metalurgia de polvos](https://www.classcentral.com/course/swayam-powder-metallurgy-19973){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Madrás*
+- [Dinámica de las estructuras oceánicas](https://www.classcentral.com/course/swayam-dynamics-of-ocean-structures-19846){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Madrás*
+- [Conceptos básicos de ingeniería de materiales](https://www.classcentral.com/course/swayam-basics-of-materials-engineering-19807){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Madras*
+- [Introducción a la biología](https://www.classcentral.com/course/swayam-introduction-to-developmental-biology-19906){:target="_blank" rel="nofollow,noreferrer"} del [desarrollo](https://www.classcentral.com/course/swayam-introduction-to-developmental-biology-19906){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Madrás*
+- [Química de coordinación (química de los elementos de transición)](https://www.classcentral.com/course/swayam-co-ordination-chemistry-chemistry-of-transition-elements-19821){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología, Kharagpur*
+- [Química ambiental del suelo](https://www.classcentral.com/course/swayam-environmental-soil-chemistry-19859){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología, Kharagpur*
+- [Introducción a la ciencia de los polímeros](https://www.classcentral.com/course/swayam-introduction-to-polymer-science-19910){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología, Kharagpur*
+- [Fabricación](https://www.classcentral.com/course/swayam-ironmaking-and-steelmaking-19914){:target="_blank" rel="nofollow,noreferrer"} de [hierro y acero](https://www.classcentral.com/course/swayam-ironmaking-and-steelmaking-19914){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología, Kharagpur*
+- [Defectos en sólidos cristalinos (Parte I)](https://www.classcentral.com/course/swayam-defects-in-crystalline-solids-part-i-19839){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología Kanpur*
+- [Fundamentos del procesamiento de materiales - I](https://www.classcentral.com/course/swayam-fundamentals-of-material-processing-i-19874){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología Kanpur*
+- [Ecología](https://www.classcentral.com/course/swayam-wildlife-ecology-20021){:target="_blank" rel="nofollow,noreferrer"} de *la* [vida silvestre](https://www.classcentral.com/course/swayam-wildlife-ecology-20021){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología Kanpur*
+- [Resiliencia rural: capacitación sobre estrés agrícola](https://www.classcentral.com/course/desire2learn-rural-resilience-farm-stress-training-20993){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal de Michigan*
+- [Química cuántica de átomos y moléculas](https://www.classcentral.com/course/swayam-quantum-chemistry-of-atoms-and-molecules-19982){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bombay*
+- [Mecánica estadística básica](https://www.classcentral.com/course/swayam-basic-statistical-mechanics-19805){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bombay*
+- [Mecánica cuántica y espectroscopia molecular](https://www.classcentral.com/course/swayam-quantum-mechanics-and-molecular-spectroscopy-19983){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bombay*
+- [Corrosión acuosa y su control](https://www.classcentral.com/course/swayam-aqueous-corrosion-and-its-control-19798){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bombay*
+- [Química ambiental](https://www.classcentral.com/course/swayam-environmental-chemistry-19858){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología Roorkee*
+- [Path Integral Methods in Physics & Finance](https://www.classcentral.com/course/swayam-path-integral-methods-in-physics-finance-19966){:target="_blank" rel="nofollow,noreferrer"} del *Indian Institute of Technology Roorkee*
+- [Nitrógeno: un desafío global (hindi)](https://www.classcentral.com/course/edx-nitrogen-a-global-challenge-hindi-19417){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Edimburgo*
+- [Nitrógeno: un desafío global (urdu)](https://www.classcentral.com/course/edx-nitrogen-a-global-challenge-urdu-20606){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Edimburgo*
+- [Fundamentos de la transferencia de calor por convección](https://www.classcentral.com/course/swayam-fundamentals-of-convective-heat-transfer-19876){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Guwahati*
+- [Biotecnología experimental](https://www.classcentral.com/course/swayam-experimental-biotechnology-19863){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología Guwahati*
+- [Espectroscopía de RMN unidimensional y bidimensional para químicos](https://www.classcentral.com/course/swayam-one-and-two-dimensional-nmr-spectroscopy-for-chemists-19961){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bangalore*
+- [Introducción a la neurociencia y la neuroinstrumentación](https://www.classcentral.com/course/swayam-introductory-neuroscience-neuro-instrumentation-19913){:target="_blank" rel="nofollow,noreferrer"} del *Instituto Indio de Tecnología de Bangalore*
+- [Introducción a la mecánica clásica](https://www.classcentral.com/course/swayam-introduction-to-classical-mechanics-19905){:target="_blank" rel="nofollow,noreferrer"} de *NPTEL*
+- [Introducción a la ciencia y tecnología cuánticas](https://www.classcentral.com/course/edx-introduction-to-quantum-science-technology-20291){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Purdue*
+- [Frozen in the Ice: Explorando el Ártico](https://www.classcentral.com/course/frozen-in-the-ice-19275){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Colorado Boulder*
+- [Conservación de primates](https://www.classcentral.com/course/primate-conservation-21104){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Colorado Boulder*
+- [EUCalc - Buscador de caminos hacia una sociedad](https://www.classcentral.com/course/edx-eucalc-pathway-finder-to-a-low-carbon-eu-society-20758){:target="_blank" rel="nofollow,noreferrer"} de la [UE con bajas emisiones de carbono](https://www.classcentral.com/course/edx-eucalc-pathway-finder-to-a-low-carbon-eu-society-20758){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Tecnológica* de *Delft*
+- [Radio Sky I: ciencia y observaciones](https://www.classcentral.com/course/edx-the-radio-sky-i-science-and-observations-20870){:target="_blank" rel="nofollow,noreferrer"} de la *École Polytechnique Fédérale de Lausanne*
+- [Extinciones: pasado, presente y futuro](https://www.classcentral.com/course/extinctions-past-present-and-future-20045){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Emory*
+- [Resiliencia climática y adaptación para caminos rurales](https://www.classcentral.com/course/climate-resilience-and-adaptation-for-low-volume--19003){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Birmingham*
+- [Esquemas de pruebas de aptitud para pruebas de materiales en carreteras rurales](https://www.classcentral.com/course/low-volume-rural-roads-testing-schemes-for-soils--19004){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Birmingham*
+- [Cooperativas y empresas productoras](https://www.classcentral.com/course/swayam-cooperatives-and-producer-companies-19833){:target="_blank" rel="nofollow,noreferrer"} del *Indian Institute of Management Bangalore*
+- [Del desperdicio al valor: cómo abordar el desperdicio](https://www.classcentral.com/course/from-waste-to-value-20611){:target="_blank" rel="nofollow,noreferrer"} de *alimentos de los alimentos EIT*
+- [Innovación en agricultura arable: tecnologías para sistemas agrícolas sostenibles](https://www.classcentral.com/course/innovation-in-arable-farming-20960){:target="_blank" rel="nofollow,noreferrer"} de *EIT Food*
+- [Нейролингвистика](https://www.classcentral.com/course/neuro-ling-ru-20289){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Neurolingüística](https://www.classcentral.com/course/neuroling-19288){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
+- [Seguridad hídrica](https://www.classcentral.com/course/seguridad-hidrica-19217){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Nacional Autónoma de México*
+- [Una aproximación a la Química del Carbono](https://www.classcentral.com/course/qimica-carbono-19110){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Nacional Autónoma de México*
+- [Parasitología médica | 医学 寄生虫 学](https://www.classcentral.com/course/edx-medical-parasitology--19192){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
+- [Iniciación a la evaluación del impacto ambiental](https://www.classcentral.com/course/edx-iniciacion-a-la-evaluacion-del-impacto-ambiental-20966){:target="_blank" rel="nofollow,noreferrer"} de la *Universitat Politècnica de València*
+- [Fundamentos de Oscilaciones y Ondas para Ingeniería](https://www.classcentral.com/course/edx-fundamentos-de-oscilaciones-y-ondas-para-ingenieria-19185){:target="_blank" rel="nofollow,noreferrer"} de la *Universitat Politècnica de València*
+- [Квантовая механика. Часть 1. Принципы квантовой механики](https://www.classcentral.com/course/principles-of-quantum-mechanic-19377){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional de Investigación Nuclear MEPhI*
+- [Ядерное нераспространение: правовые аспекты, основы национальных гарантий](https://www.classcentral.com/course/nuclear-non-proliferation-19628){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional de Investigación Nuclear MEPhI*
+- [Cerámica funcional avanzada](https://www.classcentral.com/course/advanced-functional-ceramics-19337){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Yonsei*
+- [Acción climática en paisajes biodiversos](https://www.classcentral.com/course/edx-climate-action-in-biodiverse-landscapes-19138){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Wageningen*
+- [Turismo y cambio climático](https://www.classcentral.com/course/edx-tourism-and-climate-change-19159){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Wageningen*
+- [Lista Roja de Ecosistemas de la UICN: el estándar global para evaluar los riesgos para los ecosistemas](https://www.classcentral.com/course/global-standard-for-assessing-risks-to-ecosystems-19360){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Deakin*
+- [Herramientas de modelado económico agrícola](https://www.classcentral.com/course/edx-agricultural-economic-modeling-tools-20761){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Soluciones de sistemas agroalimentarios y futuros alimentarios globales](https://www.classcentral.com/course/edx-global-food-futures-and-agri-food-systems-solutions-20765){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Gestión sostenible de la cadena de suministro agroalimentaria](https://www.classcentral.com/course/edx-sustainable-agri-food-supply-chain-management-20763){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Examen integral de agroindustria sostenible](https://www.classcentral.com/course/edx-sustainable-agribusiness-comprehensive-exam-20762){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Doane*
+- [Transformación del sistema alimentario global](https://www.classcentral.com/course/transformation-global-food-system-19696){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Copenhague*
 - [Ingeniería ambiental: tratamiento de agua potable](https://www.classcentral.com/course/edx-environmental-engineering-drinking-water-treatment-19001){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional de Seúl*
 - [Agricultura, economía y naturaleza](https://www.classcentral.com/course/agriculture-economic-nature-20138){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Australia Occidental*
 - [Desafíos operativos relacionados con las cenizas en la utilización de energía de combustibles sostenibles](https://www.classcentral.com/course/sustainability-fuels-ash-chemistry-deposits-corro-20782){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Técnica de Dinamarca (DTU)*
