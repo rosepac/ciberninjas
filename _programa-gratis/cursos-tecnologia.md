@@ -341,7 +341,7 @@ Las mejores páginas web con las que aprender a programar totalmente gratis, y e
 
 ### Flutter
 
-* [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (Gyga Code, Youtube)
+* [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (G Coding Academy, Youtube)
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -629,12 +629,12 @@ _____
 * [Crear un bot en C#](/crear-bot-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 * [Curso de C#](/c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 * [Desarrollo de aplicaciones para Windows con C# y Sql en 4 capas](https://www.youtube.com/playlist?list=PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
-* [Programación en C#](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX){:target="_blank" rel="nofollow,noreferrer"} (Nicosio, YouTube)
+* [Programación en C#](/c-sharp-con-nicosiored/){:target="_blank" rel="nofollow,noreferrer"} (Nicosio, YouTube)
 
 ### C++
 
 * [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU){:target="_blank" rel="nofollow,noreferrer"} (Programación Explicada, YouTube)
+* [Estructura de datos en C++](/c-mas-con-programacion-explicada/){:target="_blank" rel="nofollow,noreferrer"} (Programación Explicada, YouTube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -646,7 +646,7 @@ _____
 
 ## Dart
 
-* [Curso básico de Dart](https://www.youtube.com/watch?v=dDZ-NOTjXiA&list=PLl_hIu4u7P65q3qDQfwoGF6sK9upzi3Jf){:target="_blank" rel="nofollow,noreferrer"} (Gyga Code, Youtube)
+* [Curso básico de Dart](https://www.youtube.com/watch?v=dDZ-NOTjXiA&list=PLl_hIu4u7P65q3qDQfwoGF6sK9upzi3Jf){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, Youtube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
@@ -658,9 +658,9 @@ _____
 
 ## Go
 
-* [Curso de GO - De 0 a 100](https://www.youtube.com/watch?v=7SIIyt5-XK0&list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g) (Gyga Code, Youtube)
+* [Curso de GO - De 0 a 100](/go-con-g-coding-academy/) (G Coding Academy, Youtube)
 * [Curso Interactivo de Go](https://gotour-es.appspot.com/#1) (HTML)
-* [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank" rel="nofollow,noreferrer"} (Gyga Code, YouTube)
+* [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, YouTube)
 * [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-go-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
@@ -683,7 +683,6 @@ _____
 * [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank" rel="nofollow,noreferrer"} (Mil Cursos Gratis)
 * [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-http://ocw.upm.es/course/programacion-en-java-i
 * [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
