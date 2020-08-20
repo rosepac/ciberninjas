@@ -7,7 +7,7 @@ published: true
 author: rosepac
 bootstrap: true
 comments: false
-date: 2020-08-20 07:57:33
+date: 2020-08-20 09:10:33
 last_modified_at: 
 thumbnail: /assets/img/blog/19-cursos-programacion-2020.webp
 feature-img: /assets/img/blog/19-cursos-programacion-2020.webp

@@ -14,7 +14,7 @@ excerpt: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas-agosto/
 permalink: /cursos-udemy-ofertas-agosto/
-date: 2020-08-20 07:53:12
+date: 2020-08-20 09:09:51
 published: true
 
 ---
@@ -28,6 +28,31 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 A continuación vamos a seleccionar algunos de los mejores cursos en oferta exclusiva ofrecidos por Udemy, por solamente 9,99 € durante toda esta semana exclusivamente.
 
 > 📢 Estaré agregando más cursos, de los mejores profesionales de cada materia, en los próximos días.
+
+- [**Los mejores cursos de Desarrollo Web**](#los-mejores-cursos-de-desarrollo-web)
+  - [Angular](#angular)
+  - [Dart](#dart)
+  - [Desarrollo Web](#desarrollo-web)
+  - [Flutter](#flutter)
+  - [Javascript](#javascript)
+  - [.NET](#net)
+  - [React](#react)
+  - [SQL](#sql)
+  - [Swift e iOS](#swift-e-ios)
+  - [TypeScript](#typescript)
+  - [Vue](#vue)
+- [**Los mejores cursos de Diseño Web**](#los-mejores-cursos-de-diseño-web)
+  - [Bootstrap](#bootstrap)
+  - [HTML y CSS](#html-y-css)
+- [**Los mejores cursos de Desarrollo de Videojuegos**](#los-mejores-cursos-de-desarrollo-de-videojuegos)
+- [**Los mejores cursos de Computación en la Nube**](#los-mejores-cursos-de-computación-en-la-nube)
+- [**Los mejores cursos sobre Inteligencia Artificial**](#los-mejores-cursos-sobre-inteligencia-artificial)
+- [**Los mejores cursos sobre Estadística**](#los-mejores-cursos-sobre-estadística)
+- [**Los mejores cursos sobre Diseño**](#los-mejores-cursos-sobre-diseño)
+  - [Illustrator y Vectores](#illustrator-y-vectores)
+  - [Photoshop](#photoshop)
+  - [Dibujar a Mano](#dibujar-a-mano)
+- [**Los mejores cursos de Seo y Marketing**](#los-mejores-cursos-de-seo-y-marketing)
 
 ## **Los mejores cursos de Desarrollo Web**
 
