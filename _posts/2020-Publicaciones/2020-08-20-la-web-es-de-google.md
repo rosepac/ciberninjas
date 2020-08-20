@@ -19,7 +19,7 @@ published: true
 
 ---
 
-En cuanto a las finanzas de Mozilla, es razonable concluir que Google los mantiene con soporte vital para mantener a raya a los sabuesos del antimonopolio. El acuerdo de Mozilla con Google representará al menos el 70% de sus ingresos en el futuro.
+En cuanto a las finanzas de Mozilla, es razonable concluir que Google los mantiene con un soporte vital para mantener a raya a los sabuesos del antimonopolio. El acuerdo de Mozilla con Google representará al menos el 70% de sus ingresos en el futuro.
 
 Eso es más de 400 millones de dólares para ser el proveedor de búsqueda predeterminado en el 4% de los navegadores. Por 1 año.
 
