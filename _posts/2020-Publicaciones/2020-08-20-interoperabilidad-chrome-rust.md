@@ -15,7 +15,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/interoperabilidad-chrome-rust/
 permalink: /interoperabilidad-chrome-rust/
 date: 2020-08-20 07:36:46
-published: false
+published: true
 
 ---
 
