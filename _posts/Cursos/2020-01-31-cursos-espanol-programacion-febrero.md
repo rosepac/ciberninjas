@@ -104,16 +104,14 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 - [Curso Django 2.2: Creando un Acortador URL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-django-creando-un-acortador-url%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso fundamental de Scriptcase 9](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamental-de-scriptcase-9%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso iOS 12 y Swift 4 - Crea 3 Aplicaciones Geniales ](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-ios-11-y-swift-4-crea-3-aplicaciones-geniales%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso iOS y 11 Swift 4: Aprende a hacer un Bloc de Notas](https://www.udemy.com/course/crea-un-blog-de-notas-con-ios-11-y-swift-4/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso Rápido de Ruby on Rails](https://www.udemy.com/course/curso-rapido-de-ruby-on-rails/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso super básico de Django - Paginas web con python](https://www.udemy.com/course/curso-basico-de-django-paginas-web-con-python/){:target="_blank" rel="nofollow,noreferrer"}
-- [Cómo armar un examen parcial en Moodle](https://www.udemy.com/course/como-armar-un-examen-parcial-en-moodle/){:target="_blank" rel="nofollow,noreferrer"}
-- [Cómo crear una página web](https://www.udemy.com/course/como-crear-una-pagina-web-facil/){:target="_blank" rel="nofollow,noreferrer"}
-- [Cómo ganar dinero con tus aplicaciones móviles](https://www.udemy.com/course/google-admob/){:target="_blank" rel="nofollow,noreferrer"}
-- [Cómo Programar para Emprendedores - HTML y CSS](https://www.udemy.com/course/como-programar-para-emprendedores-html-y-css/){:target="_blank" rel="nofollow,noreferrer"}
-- [Cómo Programar para Emprendedores - JavaScript](https://www.udemy.com/course/curso-de-javascript/){:target="_blank" rel="nofollow,noreferrer"}
-- [Dart & Introducción a Flutter](https://www.udemy.com/course/dart-flutter-gratis/){:target="_blank" rel="nofollow,noreferrer"}
-- [De 0 a 100 con Grunt JS](https://www.udemy.com/course/de-0-a-100-con-grunt-js/){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso iOS y 11 Swift 4: Aprende a hacer un Bloc de Notas](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-un-blog-de-notas-con-ios-11-y-swift-4%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso Rápido de Ruby on Rails](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-rapido-de-ruby-on-rails%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Cómo crear una página web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-pagina-web-facil%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Cómo ganar dinero con tus aplicaciones móviles](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-admob%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Cómo Programar para Emprendedores - HTML y CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-programar-para-emprendedores-html-y-css%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Cómo Programar para Emprendedores - JavaScript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-javascript%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Dart & Introducción a Flutter](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdart-flutter-gratis%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [De 0 a 100 con Grunt JS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fde-0-a-100-con-grunt-js%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [De Android a iOS - de Swift a Kotlin - Curso básico](https://www.udemy.com/course/de-android-a-ios-de-swift-a-kotlin/){:target="_blank" rel="nofollow,noreferrer"}
 - [De Novato a Desarrollador Exitoso](https://www.udemy.com/course/de-novato-a-desarrollador-exitoso/){:target="_blank" rel="nofollow,noreferrer"}
 - [Desarrollas tus aplicaciones usando ruby](https://www.udemy.com/course/crear-aplicaciones-con-ruby/){:target="_blank" rel="nofollow,noreferrer"}
