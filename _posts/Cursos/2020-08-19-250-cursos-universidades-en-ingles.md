@@ -197,7 +197,7 @@ La lista a continuación, lista los los cursos por temáticas:
 - [大學 之 理念 (La idea de una universidad)](https://www.classcentral.com/course/idea-of-a-university-19255){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional de Taiwán*
 - [Habilidades de entrenamiento para conversaciones centradas en el alumno](https://www.classcentral.com/course/edx-coaching-skills-for-learner-centred-conversations-19024){:target="_blank" rel="nofollow,noreferrer"} del *Imperial College London*
 - [Atrévete a innovar tu enseñanza con pensamiento de diseño](https://www.classcentral.com/course/innovacioneducativa-19041){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Nacional Autónoma de México*
-- [Inglés académico general | 生活 英语 进阶](https://www.classcentral.com/course/edx-general-academic-english--19080){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
+- [Inglés académico general: 生活 英语 进阶](https://www.classcentral.com/course/edx-general-academic-english--19080){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
 - [Открытые образовательные ресурсы: шведский стол преподавателя](https://www.classcentral.com/course/open-educational-resources-19726){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal de Tomsk*
 - [Introducción a la enseñanza de la ciencia de datos en las escuelas](https://www.classcentral.com/course/teaching-data-science-19139){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Glasgow*
 - [Estudiar medicina: postularse para la facultad de medicina y convertirse en estudiante de medicina](https://www.classcentral.com/course/study-medicine-20874){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Glasgow*
@@ -398,7 +398,7 @@ La lista a continuación, lista los los cursos por temáticas:
 - [Desarrollo de robots](https://www.classcentral.com/course/edx-robot-development-19141){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Nápoles Federico II*
 - [Robotics Foundation II - Control de robots](https://www.classcentral.com/course/edx-robotics-foundation-ii-robot-control-19152){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Nápoles Federico II*
 - [Introducción a los Sistemas de Información Geográfica](https://www.classcentral.com/course/edx-introduccion-a-los-sistemas-de-informacion-geografica-19219){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Galileo*
-- [Fundamentos del motor automotriz | 发动机 原理](https://www.classcentral.com/course/edx-automotive-engine-fundamentals--19542){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
+- [Fundamentos del motor automotriz: 发动机 原理](https://www.classcentral.com/course/edx-automotive-engine-fundamentals--19542){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
 - [Flujos cargados de partículas: aplicaciones ](https://www.classcentral.com/course/polimi-open-knowledge-particle-laden-flows-theory-and-engineering-applications-19415){:target="_blank" rel="nofollow,noreferrer"} *teóricas* [y de ingeniería](https://www.classcentral.com/course/polimi-open-knowledge-particle-laden-flows-theory-and-engineering-applications-19415){:target="_blank" rel="nofollow,noreferrer"} del *Politecnico di Milano*
 - [Radioquímica esencial para la sociedad](https://www.classcentral.com/course/polimi-open-knowledge-essential-radiochemistry-for-society-20159){:target="_blank" rel="nofollow,noreferrer"} del *Politecnico di Milano*
 - [Modelado y simulación de sistemas multicuerpo](https://www.classcentral.com/course/edx-modeling-and-simulation-of-multibody-systems-18991){:target="_blank" rel="nofollow,noreferrer"} de la *Université catholique de Louvain*
@@ -482,7 +482,7 @@ La lista a continuación, lista los los cursos por temáticas:
 - [Ruso para principiantes 1. Русский язык: A1](https://www.classcentral.com/course/russian-a1-part1-19096){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
 - [Современная русская литература](https://www.classcentral.com/course/sovremennaya-russkaya-literatura-19077){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
 - [Literatura rusa contemporánea](https://www.classcentral.com/course/contemporary-russian-literature-19078){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
-- [Nuevos horizontes en la filosofía china | 中国 哲学 新视野](https://www.classcentral.com/course/edx-new-horizons-in-chinese-philosophy--19030){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
+- [Nuevos horizontes en la filosofía china: 中国 哲学 新视野](https://www.classcentral.com/course/edx-new-horizons-in-chinese-philosophy--19030){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
 - [Ser investigador (en Ciencias y Tecnología de la Información)](https://www.classcentral.com/course/being-researcher-19737){:target="_blank" rel="nofollow,noreferrer"} del *Politecnico di Milano*
 - [Del trazo caligráfico al método paleográfico: experimentando la materialidad de los manuscritos históricos](https://www.classcentral.com/course/edx-del-trazo-caligrafico-al-metodo-paleografico-experimentando-la-materialidad-de-los-manuscritos-historicos-20959){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Carlos iii de Madrid*
 - [Redacción de informes en la universidad y en el lugar](https://www.classcentral.com/course/report-writing-university-workplace-20383){:target="_blank" rel="nofollow,noreferrer"} de [trabajo](https://www.classcentral.com/course/report-writing-university-workplace-20383){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
@@ -737,7 +737,7 @@ La lista a continuación, lista los los cursos por temáticas:
 - [Neurolingüística](https://www.classcentral.com/course/neuroling-19288){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Estatal* de *San Petersburgo*
 - [Seguridad hídrica](https://www.classcentral.com/course/seguridad-hidrica-19217){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Nacional Autónoma de México*
 - [Una aproximación a la Química del Carbono](https://www.classcentral.com/course/qimica-carbono-19110){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Nacional Autónoma de México*
-- [Parasitología médica | 医学 寄生虫 学](https://www.classcentral.com/course/edx-medical-parasitology--19192){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
+- [Parasitología médica: 医学 寄生虫 学](https://www.classcentral.com/course/edx-medical-parasitology--19192){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
 - [Iniciación a la evaluación del impacto ambiental](https://www.classcentral.com/course/edx-iniciacion-a-la-evaluacion-del-impacto-ambiental-20966){:target="_blank" rel="nofollow,noreferrer"} de la *Universitat Politècnica de València*
 - [Fundamentos de Oscilaciones y Ondas para Ingeniería](https://www.classcentral.com/course/edx-fundamentos-de-oscilaciones-y-ondas-para-ingenieria-19185){:target="_blank" rel="nofollow,noreferrer"} de la *Universitat Politècnica de València*
 - [Квантовая механика. Часть 1. Принципы квантовой механики](https://www.classcentral.com/course/principles-of-quantum-mechanic-19377){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad Nacional de Investigación Nuclear MEPhI*
@@ -860,7 +860,7 @@ La lista a continuación, lista los los cursos por temáticas:
 - [Desarrollo de sistemas de salud: un enfoque en la prestación de servicios de salud y los recursos humanos para la salud](https://www.classcentral.com/course/health-service-delivery-and-human-resources-19763){:target="_blank" rel="nofollow,noreferrer"} de *Imperial College London*
 - [Desarrollo de sistemas de salud: Introducción a los sistemas de salud](https://www.classcentral.com/course/introduction-to-health-systems-19762){:target="_blank" rel="nofollow,noreferrer"} del *Imperial College London*
 - [Riesgo biológico y bioseguridad en el entorno laboral](https://www.classcentral.com/course/edx-riesgo-biologico-y-bioseguridad-en-el-entorno-laboral-20325){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad Galileo*
-- [Patología | 病理学](https://www.classcentral.com/course/edx-pathology--19573){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
+- [Patología: 病理学](https://www.classcentral.com/course/edx-pathology--19573){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Tsinghua*
 - [Salud de la población: sindemias](https://www.classcentral.com/course/syndemics-20288){:target="_blank" rel="nofollow,noreferrer"} de *la Universidad de Leiden*
 - [Primeros Auxilios Psicológicos (PAP). Edición especial COVID-19](https://www.classcentral.com/course/pap-covid19-19344){:target="_blank" rel="nofollow,noreferrer"} de la *Universitat Autònoma de Barcelona (Universidad Autónoma de Barcelona)*
 - [Formulación y análisis de políticas en la atención médica](https://www.classcentral.com/course/policy-formulation-and-analysis-in-healthcare-20377){:target="_blank" rel="nofollow,noreferrer"} de la *Universidad de Coventry*
@@ -967,5 +967,7 @@ La lista a continuación, lista los los cursos por temáticas:
 [200 Cursos Gratis de Udemy: Vamos a Programar en Español](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![](/assets/img/blog/19-class-central.webp)
 
 > **Fuente**: [250 Universities Just Launched 900 Free Online Courses](https://www.freecodecamp.org/news/new-online-courses/){:target="_blank" rel="nofollow,noreferrer"}
