@@ -11,7 +11,7 @@ date: 2019-07-25 15:00:00 +0200
 tags:
   - Android Studio
   - Videotutorial Android Studio
-  - Pildoras Informáticas
+  - Píldoras Informáticas
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

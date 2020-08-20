@@ -13,7 +13,7 @@ date: 2019-06-04 15:30:00 +0200
 tags:
   - Javascript
   - Videotutorial Javascript
-  - Pildoras Informáticas
+  - Píldoras Informáticas
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
