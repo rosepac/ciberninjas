@@ -112,15 +112,15 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 - [Cómo Programar para Emprendedores - JavaScript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-javascript%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Dart & Introducción a Flutter](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdart-flutter-gratis%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [De 0 a 100 con Grunt JS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fde-0-a-100-con-grunt-js%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [De Android a iOS - de Swift a Kotlin - Curso básico](https://www.udemy.com/course/de-android-a-ios-de-swift-a-kotlin/){:target="_blank" rel="nofollow,noreferrer"}
-- [De Novato a Desarrollador Exitoso](https://www.udemy.com/course/de-novato-a-desarrollador-exitoso/){:target="_blank" rel="nofollow,noreferrer"}
-- [Desarrollas tus aplicaciones usando ruby](https://www.udemy.com/course/crear-aplicaciones-con-ruby/){:target="_blank" rel="nofollow,noreferrer"}
-- [Desarrollo de Módulos para Prestashop](https://www.udemy.com/course/crear-modulos-para-prestashop/){:target="_blank" rel="nofollow,noreferrer"}
-- [Desarrollo de Videojuegos con GameMaker: Studio 1.4](https://www.udemy.com/course/vuelvete-un-creador-de-juegos-sin-programar-en-gamemaker/){:target="_blank" rel="nofollow,noreferrer"}
-- [Desarrollo de Videojuegos con Unity 5: Primer Juego Completo](https://www.udemy.com/course/unity-5-primer-videojuego-2d-multiplataforma/){:target="_blank" rel="nofollow,noreferrer"}
-- [Desarrollo de Videojuegos para iOS, Android y BlackBerry10](https://www.udemy.com/course/juegos-para-ios-android-blackberry10-html5/){:target="_blank" rel="nofollow,noreferrer"}
-- [Desarrollo Páginas Web con HTML y CSS: Aprende a crear webs](https://www.udemy.com/course/curso-html5-css3/){:target="_blank" rel="nofollow,noreferrer"}
-- [Desarrollo Web bajo la tecnologia CSS](https://www.udemy.com/course/desarrollo-web-acelerado-basico/){:target="_blank" rel="nofollow,noreferrer"}
+- [De Android a iOS - de Swift a Kotlin - Curso básico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fde-android-a-ios-de-swift-a-kotlin%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [De Novato a Desarrollador Exitoso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fde-novato-a-desarrollador-exitoso%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollas tus aplicaciones usando Ruby](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrear-aplicaciones-con-ruby%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollo de Módulos para Prestashop](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrear-modulos-para-prestashop%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollo de Videojuegos con GameMaker: Studio 1.4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuelvete-un-creador-de-juegos-sin-programar-en-gamemaker%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollo de Videojuegos con Unity 5: Primer Juego Completo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funity-5-primer-videojuego-2d-multiplataforma%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollo de Videojuegos para iOS, Android y BlackBerry10](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjuegos-para-ios-android-blackberry10-html5%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollo Páginas Web con HTML y CSS: Aprende a crear webs](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-html5-css3%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollo Web bajo la tecnologia CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesarrollo-web-acelerado-basico%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Diseño Web - Aprende creando un sitio web paso a paso](https://www.udemy.com/course/diseno-web-aprende-creando-un-sitio-web/){:target="_blank" rel="nofollow,noreferrer"}
 - [Dominando WordPress Paso a Paso y Desde Cero](https://www.udemy.com/course/dominando-wordpress-paso-a-paso-y-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
 - [El completo desarrollador de iOS 10 - Crea apps con Swift 3](https://www.udemy.com/course/el-completo-desarrollador-de-ios-crea-apps-con-swift/){:target="_blank" rel="nofollow,noreferrer"}
@@ -139,15 +139,15 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 - [GNU/Linux: Da tus primeros pasos!! (Curso básico)](https://www.udemy.com/course/gnulinux-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
 - [Guía Completa de WordPress - Aprende a crear sitios web](https://www.udemy.com/course/guia-completa-de-wordpress-aprende-a-crear-sitios-web/){:target="_blank" rel="nofollow,noreferrer"}
 - [Guía de iniciación a Bases de Datos con MS SQL Server](https://www.udemy.com/course/guia-de-iniciacion-a-bases-de-datos-con-ms-sql-server/){:target="_blank" rel="nofollow,noreferrer"}
-- [Herramientas para el desarrollador web](https://www.udemy.com/course/herramientas-para-el-desarrollador-web/){:target="_blank" rel="nofollow,noreferrer"}
-- [Inicia en la Programacion: Primer Paso : Git y Terminal](https://www.udemy.com/course/curso-de-programacion-aprender-a-programar-git-terminal/){:target="_blank" rel="nofollow,noreferrer"}
-- [Iniciación a Swift - Mi primera App para iOS](https://www.udemy.com/course/curso-swift-3/){:target="_blank" rel="nofollow,noreferrer"}
-- [Inserta tus vídeos en un proyecto de Unity 3D](https://www.udemy.com/course/inserta-tus-videos-en-un-proyecto-de-unity-3d/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introduccion a CodeIgniter](https://www.udemy.com/course/introduccion-codeigniter/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introduccion a la programacion con Pseudocodigo](https://www.udemy.com/course/introduccion-a-la-programacion-con-pseint/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introduccion a Python](https://www.udemy.com/course/introduccion-a-python/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introduccion al Diseño Web](https://www.udemy.com/course/introduccion-al-web-responsive-html5-css3/){:target="_blank" rel="nofollow,noreferrer"}
-- [Introducción a Crear Páginas Web desde Cero en HTML 5](https://www.udemy.com/course/introduccion-a-crear-paginas-web-desde-cero-en-html-5/){:target="_blank" rel="nofollow,noreferrer"}
+- [Herramientas para el desarrollador web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fherramientas-para-el-desarrollador-web%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Inicia en la Programacion: Primer Paso : Git y Terminal](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-programacion-aprender-a-programar-git-terminal%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Iniciación a Swift - Mi primera App para iOS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-swift-3%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Inserta tus vídeos en un proyecto de Unity 3D](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finserta-tus-videos-en-un-proyecto-de-unity-3d%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Introduccion a CodeIgniter](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-codeigniter%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Introduccion a la programacion con Pseudocodigo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-la-programacion-con-pseint%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Introduccion a Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-python%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Introduccion al Diseño Web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-al-web-responsive-html5-css3%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Introducción a Crear Páginas Web desde Cero en HTML 5](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-crear-paginas-web-desde-cero-en-html-5%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a Git & GitHub](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-git-github%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a HTML](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-html%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a Java desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-java-desde-cero-gratis%2F){:target="_blank" rel="nofollow,noreferrer"}
