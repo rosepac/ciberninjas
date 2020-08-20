@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Robótica
-thumbnail: /assets/img/blog/.webp
-feature-img: /assets/img/blog/.webp
+thumbnail: /assets/img/blog/robotica-ai.webp
+feature-img: /assets/img/blog/robotica-ai.webp
 title: '▷ Los problemas abiertos del mundo de la robótica'
 description: >-
   La robótica es una de esas cosas sobre las que se preguntan regularmente los periódicos de negocios; parece que la robótica de consumo es un mercado revolucionario de un billón de dólares que está perpetuamente a 20 años, más o menos como la fusión nuclear.
