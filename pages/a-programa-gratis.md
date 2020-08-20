@@ -22,25 +22,26 @@ Una vez que hayas pasado por suficientes lecciones de programación gratuitas pa
 
 Sin embargo, hay cientos de recursos, [guías de programación](https://ciberninjas.com/guias/), [cursos gratuitos online](https://ciberninjas.com/cursos-tecnologia/) y [libros de programación gratuitos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/) entre los que elegir.
 
-> ℹ Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0.
+> 📢 Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0.
 
-- [**¿Cómo saber cuáles son los mejores para aprender a programar en línea?**](#cómo-saber-cuáles-son-los-mejores-para-aprender-a-programar-en-línea)
-- [**Mejores sitios web generales de programación y plataformas de cursos gratuitas**](#mejores-sitios-web-generales-de-programación-y-plataformas-de-cursos-gratuitas)
-  - [1. **FreeCodeCamp**](#1-freecodecamp)
-  - [2. **Udemy**](#2-udemy)
-  - [3. **Uniwebsidad**](#3-uniwebsidad)
-  - [4. **Khan Academy**](#4-khan-academy)
-  - [5. **Coursera**](#5-coursera)
+- [1. **FreeCodeCamp**](#1-freecodecamp)
+- [2. **Udemy**](#2-udemy)
+- [3. **Los mejores canales de programación de Youtube**](#3-los-mejores-canales-de-programación-de-youtube)
+- [4. **Los mejores canales de programación de Youtube en Inglés**](#4-los-mejores-canales-de-programación-de-youtube-en-inglés)
+  - [**Microsoft Code Academy**](#microsoft-code-academy)
+  - [4. **Uniwebsidad**](#4-uniwebsidad)
+  - [5. **Khan Academy**](#5-khan-academy)
+  - [6. **Coursera**](#6-coursera)
   - [6. **CodeAcademy**](#6-codeacademy)
   - [7. **CodeWars**](#7-codewars)
-  - [8. **CodeHS**](#8-codehs)
-  - [89. **EDX**](#89-edx)
+  - [6. **CodeHS**](#6-codehs)
+  - [. **EDX**](#-edx)
   - [10. **El Proyecto Odin**](#10-el-proyecto-odin)
   - [11. **Code ORG**](#11-code-org)
   - [12. **GA Dash**](#12-ga-dash)
   - [13. **Code Conquest**](#13-code-conquest)
 - [**Los mejores blogs para ayudarte a aprender a programar**](#los-mejores-blogs-para-ayudarte-a-aprender-a-programar)
-  - [**23. Blog de David Walsh**](#23-blog-de-david-walsh)
+  - [**15. Blog de David Walsh**](#15-blog-de-david-walsh)
   - [**24. Tuts +**](#24-tuts-)
   - [**25. SitePoint**](#25-sitepoint)
   - [**Trucos CSS**](#trucos-css)
@@ -59,7 +60,7 @@ Sin embargo, hay cientos de recursos, [guías de programación](https://cibernin
 - [**Aprende desarrollo de aplicaciones móviles gratis**](#aprende-desarrollo-de-aplicaciones-móviles-gratis)
 - [**Aprende diseño UX/UI gratis**](#aprende-diseño-uxui-gratis)
 
-## **¿Cómo saber cuáles son los mejores para aprender a programar en línea?**
+**¿Cómo saber cuáles son los mejores sitios para aprender a programar en línea?**
 
 Personalmente, llevo ya más de dos años investigando un poco para ahorrarte tiempo en encontrarlos, y aquí están los mejores sitios web para aprender a programar y desarrollar de forma gratuita. Entre estos centenares de recursos, vas a encontrar desde simples tutoriales de programación hasta cursos avanzados de programación en línea. Para facilitarte las cosas, desglose y organice todos los recursos para aprender a programar según la diferente temática a estudiar.
 
@@ -68,8 +69,6 @@ Solamente debes utilizar los índices internos de cada publicación para saltar 
 <!-- TRASLADAR EL CONTENIDO DESDE: ▷ 20 + Mejores Páginas Web para Aprender Programación GRATIS en 2020 -->
 <!-- En el caso de las traducciones, las licencias bajo las que se encuentran los documentos se muestran en la parte inferior de cada publicación; junto además a los autores en la parte superior, si es que fuese necesario.
 {: .notice--danger} -->
-
-## **Mejores sitios web generales de programación y plataformas de cursos gratuitas**
 
 Comenzamos, viendo todas las mejores páginas web para aprender programación en la actualidad. Desde ellas vas a poder encontrar infinitos recursos de entre los que, debes procurar extraer y centrarte en lo que más necesites o bien, en lo que más se adapte a tu situación de aprendizaje actual o bien, en los que más desees comenzar a aprender.
 
@@ -81,7 +80,7 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 
 A continuación, vamos a reunir las mejores páginas de programación del mundo, ¡Veamos cuantas podemos recopilar!
 
-### 1. **FreeCodeCamp**
+## 1. **FreeCodeCamp**
 
 ![Página web de free code camp, visto en Ciberninjas](/assets/img/paginas/free-code-camp.webp)
 
@@ -109,7 +108,7 @@ Entre lo que más publican, se encuentran los lenguajes de programación Javascr
 [Visita FreeCodeCamp](https://kutt.it/freecodecamp){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 <!-- Qué es Free Code Camp https://www.freecodecamp.org/news/about/ -->
 
-### 2. **Udemy**
+## 2. **Udemy**
 
 ![Página web de Udemy, visto en Ciberninjas](/assets/img/paginas/pagina-udemy.webp)
 
@@ -119,19 +118,61 @@ Los cupones para cursos con descuento e incluso para cursos gratuitos, pueden en
 
 Si quieres encontrarlos, solamente debes [entrar en nuestra página](https://www.facebook.com/cibercursos/){:target="_blank" rel="nofollow,noreferrer"}.
 
-[Visita Udemy](https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita Udemy](https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
-> 👷‍♂️👷‍♂️👷‍♂️ La página sigue en construcción.. 👷‍♂️👷‍♂️👷‍♂️
+## 3. **Los mejores canales de programación de Youtube**
 
-### 3. **Uniwebsidad**
+- [Yoney Gallardo](https://www.youtube.com/user/yoneygs){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#Yoney+Gallardo){:target="_blank"} (540.000 suscriptores)
+- [Píldoras Informáticas](https://www.youtube.com/user/pildorasinformaticas){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta/#Píldoras+Inform%C3%A1ticas){:target="_blank"} (530.000 suscriptores)
+- [Falcon Masters](https://www.youtube.com/user/FalconMasters){:target="_blank" rel="nofollow,noreferrer"} (391.000 suscriptores)
+- [Programación ATS](https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q){:target="_blank" rel="nofollow,noreferrer"} (320.000 suscriptores)
+- [Dot CSV](https://www.youtube.com/c/DotCSV/){:target="_blank" rel="nofollow,noreferrer"} (300.000 suscriptores)
+- [Fazt Tech](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg/playlists){:target="_blank" rel="nofollow,noreferrer"} (241.000 suscriptores)
+- [Jesús Conde](https://www.youtube.com/user/0utKast){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](){:target="_blank"} (194.000 suscriptores)
+- [DesarrolloWeb.com](https://www.youtube.com/user/desarrollowebcom){:target="_blank" rel="nofollow,noreferrer"} (126.000 suscriptores)
+- [BluuWeb!](https://www.youtube.com/channel/UCH7IANkyEcsVW_y1IlpkamQ/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#Bluuweb){:target="_blank"} (117.000 suscriptores)
+- [Hola Mundo](https://www.youtube.com/channel/UC4FHiPgS1KXkUMx3dxBUtPg/playlists){:target="_blank" rel="nofollow,noreferrer"} (113.000 suscriptores)
+- [JGAITPro](https://www.youtube.com/user/jairgomez03){:target="_blank" rel="nofollow,noreferrer"} (101.000 suscriptores)
+- [J&G Proyectos Web](https://www.youtube.com/c/Jygproyectosweb/playlists){:target="_blank" rel="nofollow,noreferrer"} (88.900 suscriptores)
+- [Moure Dev](https://www.youtube.com/channel/UCxPD7bsocoAMq8Dj18kmGyQ/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#Moure+Dev){:target="_blank"} (74.200 suscriptores)
+- [Mito Code](https://www.youtube.com/c/MitoCode/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#Mito+Code){:target="_blank"} (60.000 suscriptores)
+- [Jon Mircha](https://www.youtube.com/c/jonmircha/playlists){:target="_blank" rel="nofollow,noreferrer"} (49.700 suscriptores)
+- [Carlos Azaustre](https://www.youtube.com/channel/UCJgGc8pQO1lv04VXrBxA_Hg/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](){:target="_blank"} (33.300 suscriptores)
+- [Ninja Web](https://www.youtube.com/c/NinjaWebCorp/){:target="_blank" rel="nofollow,noreferrer"} (23.800 suscriptores)
+- [iDesWeb](https://www.youtube.com/c/iDESWEBUA/playlists){:target="_blank" rel="nofollow,noreferrer"} (16.400 suscriptores)
+- [G Coding Academy](https://www.youtube.com/channel/UCs87sSRsCqs9CYlgRUlPcww/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#G+Coding+Academy){:target="_blank"} (13.900 suscriptores)
+- [Alberto Coronado](https://www.youtube.com/user/acoronadoc){:target="_blank" rel="nofollow,noreferrer"} (9.300 suscriptores)
+- [Purito Código](https://www.youtube.com/channel/UC5Zyissh9pmef8QDjnNTxzQ/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#Purito+C%C3%B3digo){:target="_blank"} (9.700 suscriptores)
+- [Eduardo Ibarra](https://www.youtube.com/channel/UCCFB7Sz1b2j6V4TbTUFXJUg/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#Eduardo+Ibarra){:target="_blank"} (8.100 suscriptores)
+- [Jap Software](https://www.youtube.com/channel/UCHwOIJODqBxL9nTAToEihzQ/playlists){:target="_blank" rel="nofollow,noreferrer"} - [Ver Videotutoriales](https://ciberninjas.com/etiqueta#Jap+Software){:target="_blank"} (7.000 suscriptores)
 
-![Página web de , visto en Ciberninjas](/assets/img/paginas/uniwebsidad.webp)
+## 4. **Los mejores canales de programación de Youtube en Inglés**
+
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists){:target="_blank" rel="nofollow,noreferrer"} (1,22 Mill. suscriptores)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain/){:target="_blank" rel="nofollow,noreferrer"} (1,13 Mill. suscriptores)
+- [Academind](https://www.youtube.com/c/Academind/playlists){:target="_blank" rel="nofollow,noreferrer"} (560.000 suscriptores)
+- [Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists){:target="_blank" rel="nofollow,noreferrer"} (540.000 suscriptores)
+- [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/playlists){:target="_blank" rel="nofollow,noreferrer"} (326.000 suscriptores)
+
+### **Microsoft Code Academy**
+
+Las rutas de aprendizaje de Microsoft Virtual Academy son cursos de codificación gratuitos seleccionados y diseñados para ayudarlo a desarrollar habilidades valiosas a través de tutoriales en video, demostraciones, evaluaciones y más. También tendrá acceso a libros electrónicos gratuitos, descargas útiles y un foro de apoyo comunitario.
+
+Desde Ciberninjas, te ofrecemos la posibilidad de encontrar, [los videotutoriales ofrecidos por Microsoft y en español](https://ciberninjas.com/cursos-tecnologia-microsoft/); ya organizados, y bajo títulos en español.
+
+Rutas de aprendizaje de codificación gratuitas disponibles: MEAN stack, SQL, Azure, ASP.NET, HTML.
+
+[Visita Microsoft Code Academy](https://kutt.it/microsoft-academia-virtual){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+### 4. **Uniwebsidad**
+
+![Página web de Uniwebsidad, visto en Ciberninjas](/assets/img/paginas/uniwebsidad.webp)
 
 Uniwebsidad, es una guía en línea gratuita derivada de la antigua "Libros Web" sobre codificación para principiantes. El sitio web, es perfecto para aquellos que no tienen ni idea de por dónde empezar. Aprender desde cero y otras recopilaciones de ciertos recursos. Uniwebsidad, ofrece guías sobre HTML, CSS, Javascript, Bootstrap, Symfony, Sass, Python, Ruby on Rails y Ajax.
 
 [Visita Uniwebsidad](https://kutt.it/uniwebsidad){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### 4. **Khan Academy**
+### 5. **Khan Academy**
 
 ![Página web de Khan Academy, visto en Ciberninjas](/assets/img/paginas/khan-academy.webp)
 
@@ -143,7 +184,7 @@ Khan Academy ofrece toneladas de materiales (como la propia web dice en su pági
 
 [Visita Khan Academy en español](https://kutt.it/khan-academia-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### 5. **Coursera**
+### 6. **Coursera**
 
 ![Página web de Coursera, visto en Ciberninjas](/assets/img/paginas/coursera.webp)
 
@@ -156,8 +197,6 @@ Los cursos son gratuitos, pero tienes la opción de pagar por un "Certificado ve
 A veces, pagar por un certificado también otorga acceso a contenido extra que no está disponible en las versiones gratuitas. Coursera también ofrece "Especializaciones", que son colecciones de cursos sobre un tema específico, generalmente con un proyecto final.
 
 [Visita Coursera y Comienza a Aprender](https://kutt.it/coursera-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
-
-https://www.coursera.org/
 
 ### 6. **CodeAcademy**
 
@@ -187,7 +226,7 @@ Domina el idioma que prefieras o amplía tu comprensión de uno nuevo.
 
 [Visita Code Wars](https://kutt.it/code-wars){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### 8. **CodeHS**
+### 6. **CodeHS**
 
 ![Página web de , visto en Ciberninjas](/assets/img/paginas/codehs.webp)
 
@@ -195,7 +234,7 @@ En este punto, todos los sitios web que lee aquí están dedicados principalment
 
 [Visita CodeHS](https://kutt.it/code-hs){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### 89. **EDX**
+### . **EDX**
 
 ![Página web de EDX, visto en Ciberninjas](/assets/img/paginas/edx.webp)
 
@@ -259,7 +298,7 @@ Code Conquest es una guía en línea gratuita sobre codificación para principia
 
 ## **Los mejores blogs para ayudarte a aprender a programar**
 
-### **23. [Blog de David Walsh](https://davidwalsh.name/)**
+### **15. [Blog de David Walsh](https://davidwalsh.name/)**
 
 [![Blog de David Walsh](https://techviral.net/wp-content/uploads/2017/06/David-Walsh-Blog.jpg)](https://techviral.net/wp-content/uploads/2017/06/David-Walsh-Blog.jpg)
 
