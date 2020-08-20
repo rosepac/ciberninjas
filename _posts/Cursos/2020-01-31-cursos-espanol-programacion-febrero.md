@@ -99,11 +99,11 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 - [Curso de FlexBox desde 0](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-flexbox-desde-0%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso de iniciación a Swift y Xcode](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-iniciacion-a-swift-y-xcode%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso de Joomla 2.5 Paso a Paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-joomla%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso de Python3 - Introducción a Python](https://www.udemy.com/course/curso-de-python3-d/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso de Virtualbox Practico y Desde Cero](https://www.udemy.com/course/curso-de-virtualbox-practico-y-desde-cero/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso Django 2.2: Creando un Acortador URL](https://www.udemy.com/course/curso-django-creando-un-acortador-url/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso fundamental de Scriptcase 9](https://www.udemy.com/course/curso-fundamental-de-scriptcase-9/){:target="_blank" rel="nofollow,noreferrer"}
-- [Curso iOS 12 y Swift 4 - Crea 3 Aplicaciones Geniales ](https://www.udemy.com/course/curso-ios-11-y-swift-4-crea-3-aplicaciones-geniales/){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso de Python3 - Introducción a Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-python3-d%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso de Virtualbox Practico y Desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-virtualbox-practico-y-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso Django 2.2: Creando un Acortador URL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-django-creando-un-acortador-url%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso fundamental de Scriptcase 9](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamental-de-scriptcase-9%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Curso iOS 12 y Swift 4 - Crea 3 Aplicaciones Geniales ](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-ios-11-y-swift-4-crea-3-aplicaciones-geniales%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso iOS y 11 Swift 4: Aprende a hacer un Bloc de Notas](https://www.udemy.com/course/crea-un-blog-de-notas-con-ios-11-y-swift-4/){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso Rápido de Ruby on Rails](https://www.udemy.com/course/curso-rapido-de-ruby-on-rails/){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso super básico de Django - Paginas web con python](https://www.udemy.com/course/curso-basico-de-django-paginas-web-con-python/){:target="_blank" rel="nofollow,noreferrer"}
