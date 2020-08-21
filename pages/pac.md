@@ -24,41 +24,40 @@ Nunca he encontrado la fortuna alrededor de la web. Años intentando darle senti
 
 No descarto que la culpa sea mía por no saber centrarme en una temática concreta, lo que dificulta la gestión cada vez más; pero bueno, yo lo intento..
 
-## **¿Qué estudios he realizado?**
+## **¿Qué estudios he realizado?** <!-- omit in toc -->
 
-- [**¿Qué estudios he realizado?**](#qué-estudios-he-realizado)
-  - [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
-  - [Dinamización en Redes Sociales](#dinamización-en-redes-sociales)
-  - [Diseño de proyectos educativos sobre seguridad en la red](#diseño-de-proyectos-educativos-sobre-seguridad-en-la-red)
-  - [Adicción a la tecnología](#adicción-a-la-tecnología)
-  - [Introducción al desarrollo web (iDESWEB)](#introducción-al-desarrollo-web-idesweb)
-  - [Técnicas de Creatividad](#técnicas-de-creatividad)
-  - [Empieza con el inglés: aprende las mil palabras más usadas](#empieza-con-el-inglés-aprende-las-mil-palabras-más-usadas)
-  - [Curso de Desarrollo de Apps Móviles](#curso-de-desarrollo-de-apps-móviles)
-  - [Espionaje y Cibervigilancia](#espionaje-y-cibervigilancia)
-  - [Taller de Emprendimiento](#taller-de-emprendimiento)
-  - [Innovación en la Relación con los Clientes: E-Commerce y Community Management](#innovación-en-la-relación-con-los-clientes-e-commerce-y-community-management)
-    - [Comercio Electrónico](#comercio-electrónico)
-    - [Administración de clientes](#administración-de-clientes)
-    - [Community Manager](#community-manager)
-    - [Google Adwords](#google-adwords)
-    - [Innovando el uso de internet en la relación con los clientes](#innovando-el-uso-de-internet-en-la-relación-con-los-clientes)
-    - [Prácticas](#prácticas)
-  - [Internalización del SEO](#internalización-del-seo)
-  - [Unimooc: Emprende](#unimooc-emprende)
-  - [Innotools: Transforma tu idea de negocio](#innotools-transforma-tu-idea-de-negocio)
-  - [Competencias Digitales Básicas](#competencias-digitales-básicas)
-  - [Mediador en Prevención de Conductas Violentas en Jóvenes](#mediador-en-prevención-de-conductas-violentas-en-jóvenes)
-  - [Sensibilización en Igualdad de Oportunidades entre Mujeres y Hombres](#sensibilización-en-igualdad-de-oportunidades-entre-mujeres-y-hombres)
-  - [ONG Cruz Roja: Formación Básica Institucional](#ong-cruz-roja-formación-básica-institucional)
-  - [Programación en .NET](#programación-en-net)
-  - [Construcción de Páginas Web](#construcción-de-páginas-web)
-    - [Certificado de profesionalidad parcial: Construcción de páginas web (MF0950_2)](#certificado-de-profesionalidad-parcial-construcción-de-páginas-web-mf0950_2)
-  - [Introducción a la Red de Internet](#introducción-a-la-red-de-internet)
+- [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
+- [Dinamización en Redes Sociales](#dinamización-en-redes-sociales)
+- [Diseño de proyectos educativos sobre seguridad en la red](#diseño-de-proyectos-educativos-sobre-seguridad-en-la-red)
+- [Adicción a la tecnología](#adicción-a-la-tecnología)
+- [Introducción al desarrollo web (iDESWEB)](#introducción-al-desarrollo-web-idesweb)
+- [Técnicas de Creatividad](#técnicas-de-creatividad)
+- [Empieza con el inglés: aprende las mil palabras más usadas](#empieza-con-el-inglés-aprende-las-mil-palabras-más-usadas)
+- [Curso de Desarrollo de Apps Móviles](#curso-de-desarrollo-de-apps-móviles)
+- [Espionaje y Cibervigilancia](#espionaje-y-cibervigilancia)
+- [Taller de Emprendimiento](#taller-de-emprendimiento)
+- [Innovación en la Relación con los Clientes: E-Commerce y Community Management](#innovación-en-la-relación-con-los-clientes-e-commerce-y-community-management)
+  - [Comercio Electrónico](#comercio-electrónico)
+  - [Administración de clientes](#administración-de-clientes)
+  - [Community Manager](#community-manager)
+  - [Google Adwords](#google-adwords)
+  - [Innovando el uso de internet en la relación con los clientes](#innovando-el-uso-de-internet-en-la-relación-con-los-clientes)
+  - [Prácticas](#prácticas)
+- [Internalización del SEO](#internalización-del-seo)
+- [Unimooc: Emprende](#unimooc-emprende)
+- [Innotools: Transforma tu idea de negocio](#innotools-transforma-tu-idea-de-negocio)
+- [Competencias Digitales Básicas](#competencias-digitales-básicas)
+- [Mediador en Prevención de Conductas Violentas en Jóvenes](#mediador-en-prevención-de-conductas-violentas-en-jóvenes)
+- [Sensibilización en Igualdad de Oportunidades entre Mujeres y Hombres](#sensibilización-en-igualdad-de-oportunidades-entre-mujeres-y-hombres)
+- [ONG Cruz Roja: Formación Básica Institucional](#ong-cruz-roja-formación-básica-institucional)
+- [Programación en .NET](#programación-en-net)
+- [Construcción de Páginas Web](#construcción-de-páginas-web)
+  - [Certificado de profesionalidad parcial: Construcción de páginas web (MF0950_2)](#certificado-de-profesionalidad-parcial-construcción-de-páginas-web-mf0950_2)
+- [Introducción a la Red de Internet](#introducción-a-la-red-de-internet)
 
 ### Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"
 
-<iframe src="https://drive.google.com/file/d/1v8gAxlmLjHy_TQmclcQEo9bVQ6lhP-eK/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1v8gAxlmLjHy_TQmclcQEo9bVQ6lhP-eK/preview" width="950" height="480"></iframe>
 
 - Aplicaciones web (AWEB).
 - Empresa e iniciativa emprendedora (EIE).
@@ -91,7 +90,7 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Introducción al desarrollo web (iDESWEB)
 
-<iframe src="https://drive.google.com/file/d/1zKRSB00cL8B8NSZJFFcvBjOHoULDqZGK/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1zKRSB00cL8B8NSZJFFcvBjOHoULDqZGK/preview" width="950" height="480"></iframe>
 
 - Módulo 1: HTML: conceptos básicos, conceptos avanzados, HTML5. Prototipado de aplicaciones
 - CSS: conceptos básicos. Propiedad intelectual y licencias de uso. Usabilidad. Desarrollo web
@@ -108,7 +107,7 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Técnicas de Creatividad
 
-<iframe src="https://drive.google.com/file/d/1LEz27WxKHgzY0JY5Tn4X8fl0p9dX417M/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1LEz27WxKHgzY0JY5Tn4X8fl0p9dX417M/preview" width="950" height="480"></iframe>
 
 - Módulo 1: Introducción a la creatividad
 - Módulo 2: ¿Qué es la creatividad?
@@ -120,7 +119,7 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Empieza con el inglés: aprende las mil palabras más usadas
 
-<iframe src="https://drive.google.com/file/d/1aTuCRzoOy0YKoCmtZz-sB8ASbYSmXDDy/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1aTuCRzoOy0YKoCmtZz-sB8ASbYSmXDDy/preview" width="950" height="480"></iframe>
 
 - Módulo 1: Primeros pasos
 - Módulo 2: Mundo y sociedad
@@ -131,7 +130,7 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Curso de Desarrollo de Apps Móviles
 
-<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6UDNONDhNLW43eFk/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6UDNONDhNLW43eFk/preview" width="950" height="480"></iframe>
 
 - El mundo de las apps: Del nacimiento del teléfono móvil a las apps.
 - Diseño: Diseño y creación de apps.
@@ -142,19 +141,19 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Espionaje y Cibervigilancia
 
-<iframe src="https://drive.google.com/file/d/19Cn7bw1_twYp8sawY-_NSnPged418J7R/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/19Cn7bw1_twYp8sawY-_NSnPged418J7R/preview" width="950" height="480"></iframe>
 
 Identificación de los aspectos relacionados con el uso de fuentes abiertas en Internet y de cómo utilizar dichas fuentes para, por ejemplo, llegar a infiltrarse en las redes sociales. Para ello se analizarán las diferentes técnicas utilizadas, el uso de los motores de búsqueda generalistas o especificos y otras herramientas que pueden ser utilizadas para tal fin.
 
 ### Taller de Emprendimiento
 
-<iframe src="https://drive.google.com/file/d/1hrxMnW-ruoJzSZQN1Nv3_mSLgZ2RzdAK/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1hrxMnW-ruoJzSZQN1Nv3_mSLgZ2RzdAK/preview" width="950" height="480"></iframe>
 
 Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido por la Consejería de EDucación, Cultura y Deporte, y la Consejería de Economía y Empleo, e impartido por la Ciudad Industrial del Valle del Nalón.
 
 ### Innovación en la Relación con los Clientes: E-Commerce y Community Management
 
-<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6dHZ4TzdCcm1nUkE/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6dHZ4TzdCcm1nUkE/preview" width="950" height="480"></iframe>
 
 #### Comercio Electrónico
 
@@ -197,7 +196,7 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 
 ### Internalización del SEO
 
-<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6Vi1hZ3Y0YXZ5M0U/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6Vi1hZ3Y0YXZ5M0U/preview" width="950" height="480"></iframe>
 
 - ¿Por qué es necesaria la internalización de un proyecto?
 - Estrategias SEO para el posicionamiento internacional
@@ -213,7 +212,7 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 
 ### Innotools: Transforma tu idea de negocio
 
-<iframe src="https://drive.google.com/file/d/1pyMwEIeDnjbtg61kJauyzOHnYLHWe1LQ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1pyMwEIeDnjbtg61kJauyzOHnYLHWe1LQ/preview" width="950" height="480"></iframe>
 
 - Módulo 1: Definición del Modelo de negocio y el Business Model Canvas
 - Módulo 2: El Empathy Map. ¿Qué es y para qué sirve?
@@ -224,7 +223,7 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 
 ### Competencias Digitales Básicas
 
-<iframe src="https://drive.google.com/file/d/1ObH6WnTUHZBIy-pSMmsqNGnV5ixGe7uH/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1ObH6WnTUHZBIy-pSMmsqNGnV5ixGe7uH/preview" width="950" height="480"></iframe>
 
 - Módulo 1: Familiarización con el entorno de comunidad de aprendizaje en un MOOC
 - Módulo 2: Competencias tecnológicas básicas en entornos digitales I: El ordenador y producción básica de documentos
@@ -258,7 +257,7 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 
 ### Sensibilización en Igualdad de Oportunidades entre Mujeres y Hombres
 
-<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6UmtxZ1B5SmtqTzQ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6UmtxZ1B5SmtqTzQ/preview" width="950" height="480"></iframe>
 
 - Conceptos básicos en torno a la Igualdad de Oportunidades entre mujeres y hombres.
 - Accciones para promover la Igualdad de Oportunidades entre mujeres y hombres desde los organismos internacionales.
@@ -269,11 +268,11 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 
 ### ONG Cruz Roja: Formación Básica Institucional
 
-<iframe src="https://drive.google.com/file/d/1frikmCFnEFuVRPUFzEtNO-rBFHJJgMmQ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1frikmCFnEFuVRPUFzEtNO-rBFHJJgMmQ/preview" width="950" height="480"></iframe>
 
 ### Programación en .NET
 
-<iframe src="https://drive.google.com/file/d/19Cn7bw1_twYp8sawY-_NSnPged418J7R/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/19Cn7bw1_twYp8sawY-_NSnPged418J7R/preview" width="950" height="480"></iframe>
 
 - Fundamentos de las TIC.
 - Técnicas de programación estructurada.
@@ -292,7 +291,7 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 
 ### Construcción de Páginas Web
 
-<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6QjBCcVc0azJfUEk/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6QjBCcVc0azJfUEk/preview" width="950" height="480"></iframe>
 
 #### Certificado de profesionalidad parcial: Construcción de páginas web (MF0950_2)
 
@@ -302,7 +301,7 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 
 ### Introducción a la Red de Internet
 
-<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6NU5ZVEdXZnJwa00/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_Rn7sK4GdJ6NU5ZVEdXZnJwa00/preview" width="950" height="480"></iframe>
 
 - Introducción a Internet e Infovía.
 - Navegadores de Internet.
