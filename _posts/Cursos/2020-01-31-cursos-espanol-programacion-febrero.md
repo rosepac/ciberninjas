@@ -230,8 +230,6 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 
 [Coursera: Ofrece 85 cursos con Certificado Gratuito por la crisis del Coronavirus](https://ciberninjas.com/cursos-certificado-gratuito-coursera/)
 
-[200 Cursos Gratis de Udemy: Vamos a Programar en Español](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
-
 ![Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.](/assets/img/blog/19-cursos-programacion-2020.webp "Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.")
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn-outline-dark .btn-lg .btn-block}

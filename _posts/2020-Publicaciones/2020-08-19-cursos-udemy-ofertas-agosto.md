@@ -172,6 +172,12 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 
 ### **Relacionados** <!-- omit in toc -->
 
+[🥇 ▷ Los mejores cursos de introducción a la programación 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
+
+[🥇 ▷ Los mejores cursos de Udemy en Agosto, tan sólo por 9,99 €](https://ciberninjas.com/cursos-udemy-ofertas-agosto/)
+
+[🥇 ▷ 250 universidades acaban de lanzar 900 cursos gratuitos en línea - en inglés](https://ciberninjas.com/cursos-gratis-universidades-classcentral/)
+
 [Los 100 Cursos de Programación GRATIS más nuevos](https://ciberninjas.com/cursos-udemy-programaci%C3%B3n-m%C3%A1s-actuales/)
 
 [▷ Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y negocios](https://ciberninjas.com/cursos-productividad-eficiencia-meditaci%C3%B3n/)

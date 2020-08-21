@@ -14,7 +14,7 @@ description: >-
 excerpt: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas-agosto/
-permalink: /cursos-udemy-ofertas-agosto/
+permalink: /cursos-udemy-ingles-ofertas-agosto/
 date: 2020-08-21 14:09:33
 published: true
 
