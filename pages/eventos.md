@@ -21,15 +21,12 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 21 de Agosto
-
-- (02:00 AM) Frontend Foxes | Hablemos de frameworks (angular, react, vue) [VER ONLINE](https://www.youtube.com/watch?v=vBX8x5qZXc8) con @maleja111 @vanessamarely y @jetzable.
-
 ### 🔔 22 de Agosto
 
 - (10:00 AM - 14:00 AM) Ingeniería social / El arte de la piratería humana (Hack Madrid): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking){:target="_blank" rel="nofollow, noreferrer"}
 - (15:00 AM) I Criptofestival (https://www.youtube.com/c/SombreroBlancoCiberseguridad/) [REGISTRO Y RECORDATORIO](https://www.eventbrite.cl/e/i-criptofestival-tickets-117403315477?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte II de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 PM) Cremona TV: Creando una app con Netx JS + TypeScript + Tailwind + Firebase [DIRECTO](https://www.twitch.tv/durancristhian){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 23 de Agosto
 
@@ -464,3 +461,7 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (01:30 AM) Impacto de la enseñanza integral y multidireccional en jóvenes mediante el uso de tecnologías - Daniella Mazzini (https://gdg.community.dev/e/mm2tsm/)
 - (03:00 AM) - Taller virtual "¿Cómo escribir para Internet?" con Mariángela Urbina C. - [REGISTRO](https://www.eventbrite.co/e/taller-virtual-como-escribir-para-internet-con-mariangela-urbina-c-tickets-113283407722?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - 19 Horas: Explotando mi primera vulnerabilidad [EventBrite](https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 21 de Agosto
+
+- (02:00 AM) Frontend Foxes | Hablemos de frameworks (angular, react, vue) [VER ONLINE](https://www.youtube.com/watch?v=vBX8x5qZXc8) con @maleja111 @vanessamarely y @jetzable.

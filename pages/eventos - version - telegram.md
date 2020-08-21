@@ -40,6 +40,7 @@ feature-img: /assets/img/blog/reloj-hoy.webp
 (https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking)
 - (15:00 AM) I Criptofestival (https://www.youtube.com/c/SombreroBlancoCiberseguridad/) (https://www.eventbrite.cl/e/i-criptofestival-tickets-117403315477?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - (16:00 PM) Parte II de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (21:00 PM) Cremona TV: Creando una app con Netx JS + TypeScript + Tailwind + Firebase (https://www.twitch.tv/durancristhian)
 
 🔔 23 de Agosto
 
