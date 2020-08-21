@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Udemy
-# thumbnail: /assets/img/blog/19-agosto-udemy-ofertas.webp
-# feature-img: /assets/img/blog/19-agosto-udemy-ofertas.webp
+thumbnail: /assets/img/blog/21-amor-ratones.webp
+feature-img: /assets/img/blog/21-amor-ratones.webp
 title: '🥇 ▷ 25 Mejores cursos de Udemy 2020 [EN]'
 description: >-
   Más de 20 expertos han compilado esta lista de los mejores cursos, certificados, tutoriales, capacitación y clases de Udemy disponibles en línea para 2020.
@@ -24,31 +24,32 @@ Más de 20 expertos han compilado esta lista de los mejores cursos, certificados
 
 > Consulta nuestra **lista ciberninjas completo** de **[cursos gratis de programación y desarrollo](https://ciberninjas.com/cursos-tecnologia/)**, **[los mejores 200 cursos 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)**, nuestros listado de **[cursos gratis de animación y diseño](https://ciberninjas.com/cursos-animacion-diseno/)**
 
-- [1. Los mejores 540 cursos gratis de Udemy](#1-los-mejores-540-cursos-gratis-de-udemy)
-- [2. Mejor curso de Python en Udemy: Bootcamp completo de Python](#2-mejor-curso-de-python-en-udemy-bootcamp-completo-de-python)
-- [3. Mejor curso de desarrollo web en Udemy: Bootcamp para desarrolladores web](#3-mejor-curso-de-desarrollo-web-en-udemy-bootcamp-para-desarrolladores-web)
-- [4. Mejor curso de negocios en Udemy: MBA completo en 1](#4-mejor-curso-de-negocios-en-udemy-mba-completo-en-1)
-- [5. Mejor curso de marketing digital en Udemy: 12 cursos en 1](#5-mejor-curso-de-marketing-digital-en-udemy-12-cursos-en-1)
-- [6. Mejor curso para aprendizaje automático en Udemy: Python y R prácticos en ciencia de datos](#6-mejor-curso-para-aprendizaje-automático-en-udemy-python-y-r-prácticos-en-ciencia-de-datos)
-- [7. Mejor curso de Excel en Udemy: Excel para principiantes a avanzados](#7-mejor-curso-de-excel-en-udemy-excel-para-principiantes-a-avanzados)
-- [8. Mejor curso para aprendizaje profundo en Udemy: redes neuronales artificiales prácticas](#8-mejor-curso-para-aprendizaje-profundo-en-udemy-redes-neuronales-artificiales-prácticas)
-- [9. Mejor curso de SQL en Udemy: Bootcamp SQL completo](#9-mejor-curso-de-sql-en-udemy-bootcamp-sql-completo)
-- [10. Mejor curso de Java en Udemy: clase magistral de programación para desarrolladores](#10-mejor-curso-de-java-en-udemy-clase-magistral-de-programación-para-desarrolladores)
-- [11. Mejor curso de fotografía en Udemy: Guía completa](#11-mejor-curso-de-fotografía-en-udemy-guía-completa)
-- [12. Mejor curso C++ en Udemy](#12-mejor-curso-c-en-udemy)
-- [13. Mejor curso de finanzas en Udemy: Analista financiero 2020](#13-mejor-curso-de-finanzas-en-udemy-analista-financiero-2020)
-- [14. Mejor curso de dibujo en Udemy](#14-mejor-curso-de-dibujo-en-udemy)
-- [15. Mejor curso de React en Udemy](#15-mejor-curso-de-react-en-udemy)
-- [16. Mejor curso de Photoshop en Udemy: Formación definitiva en Photoshop](#16-mejor-curso-de-photoshop-en-udemy-formación-definitiva-en-photoshop)
-- [17. Mejor curso de diseño gráfico en Udemy: Bootcamp de diseño gráfico](#17-mejor-curso-de-diseño-gráfico-en-udemy-bootcamp-de-diseño-gráfico)
-- [18. Mejor curso de Amazon Web Services en Udemy para lograr la certificación AWS](#18-mejor-curso-de-amazon-web-services-en-udemy-para-lograr-la-certificación-aws)
-- [19. Mejor curso de Blockchain en Udemy: Ethereum & Solidity: Guía para desarrolladores](#19-mejor-curso-de-blockchain-en-udemy-ethereum--solidity-guía-para-desarrolladores)
-- [20. Mejores cursos de CISCO CCNA y redes en Udemy](#20-mejores-cursos-de-cisco-ccna-y-redes-en-udemy)
-- [21. Mejor curso de NODE.JS en Udemy](#21-mejor-curso-de-nodejs-en-udemyhttpsclicklinksynergycomdeeplinkidw9gem8jdoicmid39197murlhttps3a2f2fwwwudemycom2fcourse2fthe-complete-nodejs-developer-course-22f)
-- [22. Mejor curso de desarrollo en Android en Udemy](#22-mejor-curso-de-desarrollo-en-android-en-udemy)
-- [23. Mejor curso de Spring de Udemy](#23-mejor-curso-de-spring-de-udemy)
-- [24. Mejor curso de Linux en Udemy](#24-mejor-curso-de-linux-en-udemy)
-- [25. Mejor curso de Angular en Udemy](#25-mejor-curso-de-angular-en-udemy)
+- [1. **Los mejores 540 cursos gratis de Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#1-los-mejores-540-cursos-gratis-de-udemytarget_blank-relnofollownoreferrer)
+- [2. **Mejor curso de Python en Udemy: Bootcamp completo de Python**{:target="_blank" rel="nofollow,noreferrer"}](#2-mejor-curso-de-python-en-udemy-bootcamp-completo-de-pythontarget_blank-relnofollownoreferrer)
+- [3. **Mejor curso de desarrollo web en Udemy: Bootcamp para desarrolladores web**{:target="_blank" rel="nofollow,noreferrer"}](#3-mejor-curso-de-desarrollo-web-en-udemy-bootcamp-para-desarrolladores-webtarget_blank-relnofollownoreferrer)
+- [4. **Mejor curso de negocios en Udemy: MBA completo en 1**{:target="_blank" rel="nofollow,noreferrer"}](#4-mejor-curso-de-negocios-en-udemy-mba-completo-en-1target_blank-relnofollownoreferrer)
+- [5. **Mejor curso de marketing digital en Udemy: 12 cursos en 1**{:target="_blank" rel="nofollow,noreferrer"}](#5-mejor-curso-de-marketing-digital-en-udemy-12-cursos-en-1target_blank-relnofollownoreferrer)
+- [6. **Mejor curso para aprendizaje automático en Udemy: Python y R prácticos en ciencia de datos**{:target="_blank" rel="nofollow,noreferrer"}](#6-mejor-curso-para-aprendizaje-automático-en-udemy-python-y-r-prácticos-en-ciencia-de-datostarget_blank-relnofollownoreferrer)
+- [7. **Mejor curso de Excel en Udemy: Excel para principiantes a avanzados**{:target="_blank" rel="nofollow,noreferrer"}](#7-mejor-curso-de-excel-en-udemy-excel-para-principiantes-a-avanzadostarget_blank-relnofollownoreferrer)
+- [8. **Mejor curso para aprendizaje profundo en Udemy: redes neuronales artificiales prácticas**{:target="_blank" rel="nofollow,noreferrer"}](#8-mejor-curso-para-aprendizaje-profundo-en-udemy-redes-neuronales-artificiales-prácticastarget_blank-relnofollownoreferrer)
+- [9. **Mejor curso de SQL en Udemy: Bootcamp SQL completo**{:target="_blank" rel="nofollow,noreferrer"}](#9-mejor-curso-de-sql-en-udemy-bootcamp-sql-completotarget_blank-relnofollownoreferrer)
+- [10. **Mejor curso de Java en Udemy: clase magistral de programación para desarrolladores**{:target="_blank" rel="nofollow,noreferrer"}](#10-mejor-curso-de-java-en-udemy-clase-magistral-de-programación-para-desarrolladorestarget_blank-relnofollownoreferrer)
+- [11. **Mejor curso de fotografía en Udemy: Guía completa**{:target="_blank" rel="nofollow,noreferrer"}](#11-mejor-curso-de-fotografía-en-udemy-guía-completatarget_blank-relnofollownoreferrer)
+- [12. **Mejor curso C++ en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#12-mejor-curso-c-en-udemytarget_blank-relnofollownoreferrer)
+- [13. **Mejor curso de finanzas en Udemy: Analista financiero 2020**{:target="_blank" rel="nofollow,noreferrer"}](#13-mejor-curso-de-finanzas-en-udemy-analista-financiero-2020target_blank-relnofollownoreferrer)
+- [14. **Mejor curso de dibujo en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#14-mejor-curso-de-dibujo-en-udemytarget_blank-relnofollownoreferrer)
+- [15. **Mejor curso de React en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#15-mejor-curso-de-react-en-udemytarget_blank-relnofollownoreferrer)
+- [16. **Mejor curso de Photoshop en Udemy: Formación definitiva en Photoshop**{:target="_blank" rel="nofollow,noreferrer"}](#16-mejor-curso-de-photoshop-en-udemy-formación-definitiva-en-photoshoptarget_blank-relnofollownoreferrer)
+- [17. **Mejor curso de diseño gráfico en Udemy: Bootcamp de diseño gráfico**{:target="_blank" rel="nofollow,noreferrer"}](#17-mejor-curso-de-diseño-gráfico-en-udemy-bootcamp-de-diseño-gráficotarget_blank-relnofollownoreferrer)
+- [18. **Mejor curso de Amazon Web Services en Udemy para lograr la certificación AWS**{:target="_blank" rel="nofollow,noreferrer"}](#18-mejor-curso-de-amazon-web-services-en-udemy-para-lograr-la-certificación-awstarget_blank-relnofollownoreferrer)
+- [19. **Mejor curso de Blockchain en Udemy: Ethereum & Solidity: Guía para desarrolladores**{:target="_blank" rel="nofollow,noreferrer"}](#19-mejor-curso-de-blockchain-en-udemy-ethereum--solidity-guía-para-desarrolladorestarget_blank-relnofollownoreferrer)
+- [20. **Mejores cursos de CISCO CCNA y redes en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#20-mejores-cursos-de-cisco-ccna-y-redes-en-udemytarget_blank-relnofollownoreferrer)
+- [21. **Mejor curso de NODE.JS en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#21-mejor-curso-de-nodejs-en-udemyhttpsclicklinksynergycomdeeplinkidw9gem8jdoicmid39197murlhttps3a2f2fwwwudemycom2fcourse2fthe-complete-nodejs-developer-course-22ftarget_blank-relnofollownoreferrer)
+- [22. **Mejor curso de desarrollo en Android en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#22-mejor-curso-de-desarrollo-en-android-en-udemytarget_blank-relnofollownoreferrer)
+- [23. **Mejor curso de Spring de Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#23-mejor-curso-de-spring-de-udemytarget_blank-relnofollownoreferrer)
+- [24. **Mejor curso de Linux en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#24-mejor-curso-de-linux-en-udemytarget_blank-relnofollownoreferrer)
+- [25. **Mejor curso de Angular en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#25-mejor-curso-de-angular-en-udemytarget_blank-relnofollownoreferrer)
+- [26. **Mejor curso para aprender Inglés avanzado en Udemy**{:target="_blank" rel="nofollow,noreferrer"}](#26-mejor-curso-para-aprender-inglés-avanzado-en-udemytarget_blank-relnofollownoreferrer)
 
 ## 1. [**Los mejores 540 cursos gratis de Udemy**](https://ciberninjas.com/cursos-ingles-programacion-febrero/){:target="_blank" rel="nofollow,noreferrer"}
 
