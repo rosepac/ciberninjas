@@ -15,7 +15,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/25-mejores-cursos-udemy/
 permalink: /25-mejores-cursos-udemy/
 date: 2020-08-21 09:09:51
-published: false
+published: true
 
 ---
 
