@@ -35,7 +35,6 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
   - [Desarrollo Web](#desarrollo-web)
   - [Flutter](#flutter)
   - [Javascript](#javascript)
-  - [.NET](#net)
   - [React](#react)
   - [SQL](#sql)
   - [Swift e iOS](#swift-e-ios)
@@ -80,9 +79,6 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 ### Javascript
 
 - [JavaScript Moderno: Guía para dominar el lenguaje](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-fernando-herrera%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 17,5 Horas
-
-### .NET
-
 
 ### React
 

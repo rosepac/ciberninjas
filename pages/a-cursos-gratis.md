@@ -2,7 +2,7 @@
 layout: page
 author: rosepac
 bootstrap: true
-title: "🎓 Cursos Gratis"
+title: "🥇 Cursos Gratis"
 description: Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más.
 excerpt: Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más.
 permalink: /cursos-tecnologia/
