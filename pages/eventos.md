@@ -21,12 +21,6 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 20 de Agosto
-
-- (01:30 AM) Impacto de la enseñanza integral y multidireccional en jóvenes mediante el uso de tecnologías - Daniella Mazzini (https://gdg.community.dev/e/mm2tsm/)
-- (03:00 AM) - Taller virtual "¿Cómo escribir para Internet?" con Mariángela Urbina C. - [REGISTRO](https://www.eventbrite.co/e/taller-virtual-como-escribir-para-internet-con-mariangela-urbina-c-tickets-113283407722?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-- 19 Horas: Explotando mi primera vulnerabilidad [EventBrite](https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 21 de Agosto
 
 - (02:00 AM) Frontend Foxes | Hablemos de frameworks (angular, react, vue) [VER ONLINE](https://www.youtube.com/watch?v=vBX8x5qZXc8) con @maleja111 @vanessamarely y @jetzable.
@@ -464,3 +458,9 @@ NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una
 - (01:00 AM H. ESP - 6pm (CDT) Ciudad México) JMeter en Español. A través de Zoom y Facebook Live. [Registro](https://us02web.zoom.us/meeting/register/tZUtc-itrTMoH9HIj-qHf6n6WFTV98GRcn3X){:target="_blank" rel="nofollow, noreferrer"}
 
 Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor Performo). El estará respondiendo en vivo sus preguntas enviadas a través de los chats de Facebook y Zoom. No te pierdas esta oportunidad de hacer preguntas sobre performance a un experto como Señor Performo.
+
+### 🔔 20 de Agosto
+
+- (01:30 AM) Impacto de la enseñanza integral y multidireccional en jóvenes mediante el uso de tecnologías - Daniella Mazzini (https://gdg.community.dev/e/mm2tsm/)
+- (03:00 AM) - Taller virtual "¿Cómo escribir para Internet?" con Mariángela Urbina C. - [REGISTRO](https://www.eventbrite.co/e/taller-virtual-como-escribir-para-internet-con-mariangela-urbina-c-tickets-113283407722?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- 19 Horas: Explotando mi primera vulnerabilidad [EventBrite](https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand){:target="_blank" rel="nofollow, noreferrer"}
