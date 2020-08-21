@@ -38,6 +38,7 @@ feature-img: /assets/img/blog/reloj-hoy.webp
 
 - (10:00 AM - 14:00 AM) Ingeniería social / El arte de la piratería humana (Hack Madrid)
 (https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking)
+- (15:00 AM) I Criptofestival (https://www.youtube.com/c/SombreroBlancoCiberseguridad/) (https://www.eventbrite.cl/e/i-criptofestival-tickets-117403315477?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - (16:00 PM) Parte II de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español (https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 🔔 23 de Agosto
