@@ -32,7 +32,7 @@ Más de 20 expertos han compilado esta lista de los mejores cursos, certificados
 - [6. Mejor curso para aprendizaje automático en Udemy: Python y R prácticos en ciencia de datos](#6-mejor-curso-para-aprendizaje-automático-en-udemy-python-y-r-prácticos-en-ciencia-de-datos)
 - [7. Mejor curso de Excel en Udemy: Excel para principiantes a avanzados](#7-mejor-curso-de-excel-en-udemy-excel-para-principiantes-a-avanzados)
 - [8. Mejor curso para aprendizaje profundo en Udemy: redes neuronales artificiales prácticas](#8-mejor-curso-para-aprendizaje-profundo-en-udemy-redes-neuronales-artificiales-prácticas)
- [9. Mejor curso de SQL en Udemy: Bootcamp SQL completo](#9-mejor-curso-de-sql-en-udemy-bootcamp-sql-completo)
+- [9. Mejor curso de SQL en Udemy: Bootcamp SQL completo](#9-mejor-curso-de-sql-en-udemy-bootcamp-sql-completo)
 - [10. Mejor curso de Java en Udemy: clase magistral de programación para desarrolladores](#10-mejor-curso-de-java-en-udemy-clase-magistral-de-programación-para-desarrolladores)
 - [11. Mejor curso de fotografía en Udemy: Guía completa](#11-mejor-curso-de-fotografía-en-udemy-guía-completa)
 - [12. Mejor curso C++ en Udemy](#12-mejor-curso-c-en-udemy)
