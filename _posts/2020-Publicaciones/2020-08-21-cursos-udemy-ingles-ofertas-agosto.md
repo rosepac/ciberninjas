@@ -118,7 +118,7 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 - [Django 3 - Full Stack Websites with Python Web Development](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdjango-3-make-websites-with-python-tutorial-beginner-learn-bootstrap%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Python and Django Full Stack Web Developer Bootcamp](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Spark and Python for Big Data with PySpark](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspark-and-python-for-big-data-with-pyspark%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [Python for Computer Vision with OpenCV and Deep Learninghttps://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-computer-vision-with-opencv-and-deep-learning%2F](){:target="_blank" rel="nofollow,noreferrer"}
+- [Python for Computer Vision with OpenCV and Deep Learning](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-computer-vision-with-opencv-and-deep-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Python and Flask Bootcamp: Create Websites using Flask!](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-flask-bootcamp-create-websites-using-flask%2F){:target="_blank" rel="nofollow,noreferrer"}
 
 ### React
