@@ -20,7 +20,7 @@ published: true
 
 ---
 
-En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año, pero hoy me gustaría traer algo diferente; y es que desde Udemy, han decidido tirar la casa por la ventana y dejar todos [los mejores cursos en tan sólo 9,99 €](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=507388.13868&type=3&subid=0){:target="_blank" rel="nofollow,noreferrer"} por un tiempo limitado (hasta el 27 de Agosto).
+Los mejores cursos en inglés y en oferta, hasta el día 27. Los cursos incluidos aquí son todos en inglés. Revisa por aquí, entre [los mejores cursos en oferta de Udemy de Agosto en español](https://ciberninjas.com/cursos-udemy-ofertas-agosto/), si lo que deseas son cursos en español.
 
 Si por desgracia, no tienes la oportunidad de acceder a comprar alguno de los excelentes cursos que te mostraré a continuación.
 
