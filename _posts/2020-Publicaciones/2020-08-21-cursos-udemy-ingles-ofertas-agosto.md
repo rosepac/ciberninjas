@@ -5,6 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Cursos Gratis
+- Udemy
 thumbnail: /assets/img/blog/19-agosto-udemy-ofertas.webp
 feature-img: /assets/img/blog/19-agosto-udemy-ofertas.webp
 title: '🥇 ▷ The best Udemy courses in August, only for 9.99 $'
@@ -14,8 +15,8 @@ excerpt: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas-agosto/
 permalink: /cursos-udemy-ofertas-agosto/
-date: 2020-08-20 09:09:51
-published: false
+date: 2020-08-21 14:09:33
+published: true
 
 ---
 
@@ -53,7 +54,6 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
   - [Ionic](#ionic)
 - [**The best Videogame Development courses**](#the-best-videogame-development-courses)
 - [**The best Cloud Computing courses**](#the-best-cloud-computing-courses)
-- [**The best courses on Artificial Intelligence**](#the-best-courses-on-artificial-intelligence)
 - [**Los mejores cursos sobre Estadística**](#los-mejores-cursos-sobre-estadística)
 
 ## **The best Web Development courses**
@@ -206,9 +206,6 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
 - [Ultimate AWS Certified Solutions Architect Professional 2020](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-solutions-architect-professional%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Introduction to Cloud Computing on Amazon AWS for Beginners](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing-on-amazon-aws-for-beginners%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Google Cloud Professional Data Engineer: Get Certified 2020](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-professional-data-engineer-get-certified%2F){:target="_blank" rel="nofollow,noreferrer"}
-
-## **The best courses on Artificial Intelligence**
-
 
 ## **Los mejores cursos sobre Estadística**
 
