@@ -7,7 +7,7 @@ tags:
 - Hardware
 thumbnail: /assets/img/blog/23-soporte-camaras-web.webp
 feature-img: /assets/img/blog/23-soporte-camaras-web.webp
-title: '▷ La mejor cámara web es sinónimo de un buen trabajo remoto, un mejor aprendizaje en línea, y más'
+title: '▷ Los mejores soportes para cámaras web son sinónimo de un buen trabajo remoto, un mejor aprendizaje en línea, y más'
 description: >-
   Los soportes para cámaras web son una excelente manera de agregar algo de maniobrabilidad a las videoconferencias estándar. Dicho esto, aquí están 5 de los mejores soportes de cámara web para el trabajo virtual.
 excerpt: >-
