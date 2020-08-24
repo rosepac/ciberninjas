@@ -27,7 +27,7 @@ El software o las herramientas de gestión de proyectos agilizan y aceleran el d
 - [2. **ActiveCollab**](#2-activecollab)
   - [***Características de ActiveCollab**](#características-de-activecollab)
 - [3. **Celoxis**](#3-celoxis)
-  - [**Características de Celoxis](#características-de-celoxis)
+  - [**Características de Celoxis**](#características-de-celoxis)
 - [4. **LiquidPlanner**](#4-liquidplanner)
   - [**Características de LiquidPlanner**](#características-de-liquidplanner)
 - [5. **Mavenlink**](#5-mavenlink)
@@ -72,7 +72,7 @@ ActiveCollab se centra en ayudar a las empresas a obtener un control total sobre
 
 Celoxis es una solución de colaboración y gestión de proyectos completa y personalizable que le ayuda a gestionar recursos, cronogramas, previsiones y seguimiento de tareas. Esta solución también ayuda con la planificación de la capacidad y la gestión de riesgos. Celoxis ofrece una solución en la nube a partir de 25 dólares por mes o 22.50 dólares por mes, en casa de realizar un suscripción anual. Existiendo una versión de pruebas gratuita.
 
-### **Características de Celoxis
+### **Características de Celoxis**
 
 - Planificación de la capacidad y gestión de recursos para equilibrar las cargas de trabajo.
 - Planificación de proyectos y seguimiento de actividades.
