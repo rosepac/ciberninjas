@@ -16,51 +16,15 @@ Si eres nuevo/a en el mundo de la programación y el desarrollo web, tiene senti
 
 {% include programa-gratis.html %}
 
-Al aprovechar estos recursos al mismo tiempo que aprendes a programar de forma gratuita, puedes descubrir lo que más y menos te gusta, antes de invertir dinero en un determinado [lenguaje de programación concreto](https://ciberninjas.com/lenguajes-programacion/) o un conjunto de cursos más específico y profesional.
+Aprovechando estos recursos al mismo tiempo que aprendes a programar de forma gratuita, puedes descubrir lo que más y menos te gusta, antes de invertir dinero en un determinado [lenguaje de programación concreto](https://ciberninjas.com/lenguajes-programacion/) o un [conjunto de cursos de pago más profesionales](https://ciberninjas.com/cursos-udemy-ofertas-agosto/) y específicos.
 
 Una vez que hayas pasado por suficientes lecciones de programación gratuitas para encontrar tu rumbo, podrás canalizar tu pasión para continuar aprendiendo a codificar en línea de manera más eficiente.
 
 Sin embargo, hay cientos de recursos, [guías de programación](https://ciberninjas.com/guias/), [cursos gratuitos online](https://ciberninjas.com/cursos-tecnologia/) y [libros de programación gratuitos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/) entre los que elegir.
 
-> 📢 Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0.
+<!-- 📢 Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0. -->
 
-- [1. **FreeCodeCamp**](#1-freecodecamp)
-- [2. **Udemy**](#2-udemy)
-- [3. **Los mejores canales de programación de Youtube**](#3-los-mejores-canales-de-programación-de-youtube)
-- [4. **Los mejores canales de programación de Youtube en Inglés**](#4-los-mejores-canales-de-programación-de-youtube-en-inglés)
-  - [**Microsoft Code Academy**](#microsoft-code-academy)
-  - [4. **Uniwebsidad**](#4-uniwebsidad)
-  - [5. **Khan Academy**](#5-khan-academy)
-  - [6. **Coursera**](#6-coursera)
-  - [6. **CodeAcademy**](#6-codeacademy)
-  - [7. **CodeWars**](#7-codewars)
-  - [6. **CodeHS**](#6-codehs)
-  - [. **EDX**](#-edx)
-  - [10. **El Proyecto Odin**](#10-el-proyecto-odin)
-  - [11. **Code ORG**](#11-code-org)
-  - [12. **GA Dash**](#12-ga-dash)
-  - [13. **Code Conquest**](#13-code-conquest)
-- [**Los mejores blogs para ayudarte a aprender a programar**](#los-mejores-blogs-para-ayudarte-a-aprender-a-programar)
-  - [**15. Blog de David Walsh**](#15-blog-de-david-walsh)
-  - [**24. Tuts +**](#24-tuts-)
-  - [**25. SitePoint**](#25-sitepoint)
-  - [**Trucos CSS**](#trucos-css)
-  - [SQLZoo](#sqlzoo)
-- [**Aprende a utilizar la línea de comandos gratis**](#aprende-a-utilizar-la-línea-de-comandos-gratis)
-- [**Aprende Git y Github gratis**](#aprende-git-y-github-gratis)
-- [**Aprender a desarrollar con HTML y CSS gratis**](#aprender-a-desarrollar-con-html-y-css-gratis)
-- [**Aprende a programar con Javascript gratis**](#aprende-a-programar-con-javascript-gratis)
-- [**Aprende a utilizar Wordpress gratis**](#aprende-a-utilizar-wordpress-gratis)
-- [**Aprende a programar Python gratis**](#aprende-a-programar-python-gratis)
-- [**Aprende a programar Ruby gratis**](#aprende-a-programar-ruby-gratis)
-- [**Aprende a analizar y ciencia de datos gratis**](#aprende-a-analizar-y-ciencia-de-datos-gratis)
-- [**Aprende aprendizaje profundo gratis**](#aprende-aprendizaje-profundo-gratis)
-- [**Aprende inteligencia artificial gratis**](#aprende-inteligencia-artificial-gratis)
-- [**Aprende ciberseguridad gratis**](#aprende-ciberseguridad-gratis)
-- [**Aprende desarrollo de aplicaciones móviles gratis**](#aprende-desarrollo-de-aplicaciones-móviles-gratis)
-- [**Aprende diseño UX/UI gratis**](#aprende-diseño-uxui-gratis)
-
-**¿Cómo saber cuáles son los mejores sitios para aprender a programar en línea?**
+> **¿CÓMO CONOCER SON LOS MEJORES SITIOS PARA APRENDER A PROGRAMAR EN LÍNEA?**
 
 Personalmente, llevo ya más de dos años investigando un poco para ahorrarte tiempo en encontrarlos, y aquí están los mejores sitios web para aprender a programar y desarrollar de forma gratuita. Entre estos centenares de recursos, vas a encontrar desde simples tutoriales de programación hasta cursos avanzados de programación en línea. Para facilitarte las cosas, desglose y organice todos los recursos para aprender a programar según la diferente temática a estudiar.
 
@@ -78,6 +42,33 @@ Existen muchas personas que desean aprender a programar, pero que debido sus hor
 
 Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés.. Aunque aún así, merece la pena realizar una pequeña recopilación de los mejores lugares, además de algunos otros menos conocidos; desde los que podremos aprender todo lo que deseemos sobre programación.
 
+- [1. **FreeCodeCamp**](#1-freecodecamp)
+- [2. **Udemy**](#2-udemy)
+- [3. **Los mejores canales de programación de Youtube**](#3-los-mejores-canales-de-programación-de-youtube)
+- [4. **Los mejores canales de programación de Youtube en Inglés**](#4-los-mejores-canales-de-programación-de-youtube-en-inglés)
+- [5. **Microsoft Code Academy**](#5-microsoft-code-academy)
+- [6. **Uniwebsidad**](#6-uniwebsidad)
+- [7. **Khan Academy**](#7-khan-academy)
+- [8. **Coursera**](#8-coursera)
+- [9. **CodeAcademy**](#9-codeacademy)
+- [10. **CodeWars**](#10-codewars)
+- [11. **CodeHS**](#11-codehs)
+- [12. **EDX**](#12-edx)
+- [13. **El Proyecto Odin**](#13-el-proyecto-odin)
+- [14. **Code ORG**](#14-code-org)
+- [15. **GA Dash**](#15-ga-dash)
+- [16. **Code Conquest**](#16-code-conquest)
+- [17. **Blog de David Walsh**](#17-blog-de-david-walsh)
+- [18. **Tuts +**](#18-tuts-)
+- [19. **SitePoint**](#19-sitepoint)
+- [20. **Trucos CSS**](#20-trucos-css)
+- [21. **SQLZoo**](#21-sqlzoo)
+- [**Aprenda suficiente la línea de comandos como para ser peligroso**](#aprenda-suficiente-la-línea-de-comandos-como-para-ser-peligroso)
+- [**Usuario avanzado de la línea de comandos**](#usuario-avanzado-de-la-línea-de-comandos)
+- [**Conquistando la línea de comandos**](#conquistando-la-línea-de-comandos)
+- [**Prueba Git**](#prueba-git)
+- [**Git Inmmersion**](#git-inmmersion)
+
 A continuación, vamos a reunir las mejores páginas de programación del mundo, ¡Veamos cuantas podemos recopilar!
 
 ## 1. **FreeCodeCamp**
@@ -92,12 +83,12 @@ Es perfecto para los estudiantes que desean aprender a codificar en línea obten
 
 Las certificaciones gratuitas que Freecodecamp te ofrecen son:
 
-1. Certificación en diseño web adaptable.
-2. Certificación en algoritmos de JavaScript y estructuras de datos.
-3. Certificación sobre bibliotecas front-end.
-4. Certificación enfocada en la visualización de datos.
-5. Certificación de API´s y microservicios.
-6. Certificación sobre seguridad de la información y garantía de calidad.
+- Certificación en diseño web adaptable.
+- Certificación en algoritmos de JavaScript y estructuras de datos.
+- Certificación sobre bibliotecas front-end.
+- Certificación enfocada en la visualización de datos.
+- Certificación de API´s y microservicios.
+- Certificación sobre seguridad de la información y garantía de calidad.
 
 Por si eso fuese poco, la comunidad de FreeCodeCamp, está basada en el código abierto, por eso todo lo que hacen puede ser reutilizable si lo deseas; y además, ellos mismos, gestionan uno de los blog´s de programación más imporesionantes del mundo.
 
@@ -105,7 +96,7 @@ En el que se publican de forma constante, que ya sobrepasa las 5.000 publicacion
 
 Entre lo que más publican, se encuentran los lenguajes de programación Javascript, Java, C++ y Python; pero puedes probar a buscar cualquier otra cosa en su buscador y casi con toda seguridad, es muy posible que encuentres algo.
 
-[Visita FreeCodeCamp](https://kutt.it/freecodecamp){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita FreeCodeCamp](https://kutt.it/freecodecamp){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 <!-- Qué es Free Code Camp https://www.freecodecamp.org/news/about/ -->
 
 ## 2. **Udemy**
@@ -114,11 +105,13 @@ Entre lo que más publican, se encuentran los lenguajes de programación Javascr
 
 Desde Udemy, nos ofrecen clases de codificación gratuitas y de pago; debes tener en cuenta que cualquier persona puede crear cursos en Udemy, así que asegúrate de leer las reseñas.
 
-Los cupones para cursos con descuento e incluso para cursos gratuitos, pueden encontrarse fácilmente y las ventas con descuento suelen ser frecuentes. A diario, desde Cibercursos (el proyecto paralelo a Ciberninjas) compartimos todos los cursos gratis y en español que van ofreciendo desde Udemy.
+Los cupones para [cursos con descuento](https://ciberninjas.com/cursos-udemy-ofertas-agosto/) e incluso para [cursos gratuitos](https://ciberninjas.com/cursos-espanol-programacion-febrero/), pueden encontrarse fácilmente y las ventas con descuento suelen ser frecuentes.
+
+A diario, desde Cibercursos (el proyecto paralelo a Ciberninjas) en [Facebook](https://facebook.com/ciberninjas){:target="_blank" rel="nofollow,noreferrer"} compartimos todos [los cursos gratis y en español](https://ciberninjas.com/cursos-espanol-programacion-febrero/) que van ofreciendo desde Udemy.
 
 Si quieres encontrarlos, solamente debes [entrar en nuestra página](https://www.facebook.com/cibercursos/){:target="_blank" rel="nofollow,noreferrer"}.
 
-[🚪 Visita Udemy](https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita Udemy](https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
 ## 3. **Los mejores canales de programación de Youtube**
 
@@ -154,25 +147,25 @@ Si quieres encontrarlos, solamente debes [entrar en nuestra página](https://www
 - [Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists){:target="_blank" rel="nofollow,noreferrer"} (540.000 suscriptores)
 - [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/playlists){:target="_blank" rel="nofollow,noreferrer"} (326.000 suscriptores)
 
-### **Microsoft Code Academy**
+## 5. **Microsoft Code Academy**
 
 Las rutas de aprendizaje de Microsoft Virtual Academy son cursos de codificación gratuitos seleccionados y diseñados para ayudarlo a desarrollar habilidades valiosas a través de tutoriales en video, demostraciones, evaluaciones y más. También tendrá acceso a libros electrónicos gratuitos, descargas útiles y un foro de apoyo comunitario.
 
-Desde Ciberninjas, te ofrecemos la posibilidad de encontrar, [los videotutoriales ofrecidos por Microsoft y en español](https://ciberninjas.com/cursos-tecnologia-microsoft/); ya organizados, y bajo títulos en español.
+Desde Ciberninjas, te ofrecemos la posibilidad de encontrar, [los videotutoriales ofrecidos por Microsoft y en español](https://ciberninjas.com/cursos-tecnologia-microsoft/),organizados y en su versión de habla hispana.
 
-Rutas de aprendizaje de codificación gratuitas disponibles: MEAN stack, SQL, Azure, ASP.NET, HTML.
+Microsoft nos ofrece diferentes rutas de aprendizaje de codificación, divididas en hojas de ruta gratuitas disponibles para convertirte en experto de MEAN stack, experto en SQL, experto en Azure, experto ASP.NET y experto en diseño web con HTML y CSS.
 
-[Visita Microsoft Code Academy](https://kutt.it/microsoft-academia-virtual){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita Microsoft Code Academy](https://kutt.it/microsoft-academia-virtual){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 4. **Uniwebsidad**
+## 6. **Uniwebsidad**
 
 ![Página web de Uniwebsidad, visto en Ciberninjas](/assets/img/paginas/uniwebsidad.webp)
 
 Uniwebsidad, es una guía en línea gratuita derivada de la antigua "Libros Web" sobre codificación para principiantes. El sitio web, es perfecto para aquellos que no tienen ni idea de por dónde empezar. Aprender desde cero y otras recopilaciones de ciertos recursos. Uniwebsidad, ofrece guías sobre HTML, CSS, Javascript, Bootstrap, Symfony, Sass, Python, Ruby on Rails y Ajax.
 
-[Visita Uniwebsidad](https://kutt.it/uniwebsidad){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita Uniwebsidad](https://kutt.it/uniwebsidad){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 5. **Khan Academy**
+## 7. **Khan Academy**
 
 ![Página web de Khan Academy, visto en Ciberninjas](/assets/img/paginas/khan-academy.webp)
 
@@ -182,9 +175,9 @@ Los cursos enfocados a la programación dentro de Khan Academy están enfocados 
 
 Khan Academy ofrece toneladas de materiales (como la propia web dice en su página principal "Aquí puedes aprender de todo"), incluido muchas sobre programación de computadoras; también ofrecen algunos cursos para niños más pequeños, ¡Por si quieres animar a la familia al mundo de la programación gratis!
 
-[Visita Khan Academy en español](https://kutt.it/khan-academia-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita Khan Academy en español](https://kutt.it/khan-academia-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 6. **Coursera**
+## 8. **Coursera**
 
 ![Página web de Coursera, visto en Ciberninjas](/assets/img/paginas/coursera.webp)
 
@@ -196,9 +189,9 @@ Los cursos son gratuitos, pero tienes la opción de pagar por un "Certificado ve
 
 A veces, pagar por un certificado también otorga acceso a contenido extra que no está disponible en las versiones gratuitas. Coursera también ofrece "Especializaciones", que son colecciones de cursos sobre un tema específico, generalmente con un proyecto final.
 
-[Visita Coursera y Comienza a Aprender](https://kutt.it/coursera-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita Coursera y Comienza a Aprender](https://kutt.it/coursera-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 6. **CodeAcademy**
+## 9. **CodeAcademy**
 
 ![Página web de , visto en Ciberninjas](/assets/img/paginas/code-academy.webp)
 
@@ -210,9 +203,9 @@ Codecademy gira en torno al aprendizaje interactivo; es decir, lees un poco, y e
 
 El sitio tiene una interfaz limpia y los cursos están bien estructurados. Al visitar la página principal, puedes comenzar a programar de inmediato, a través de su motivadora consola e interfaz de pantalla.
 
-[Visita Code Academy](https://kutt.it/code-academy){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[[EN] 🚪 Visita Code Academy](https://kutt.it/code-academy){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 7. **CodeWars**
+## 10. **CodeWars**
 
 ![Página web de , visto en Ciberninjas](/assets/img/paginas/code-wars.webp)
 
@@ -224,17 +217,17 @@ Los desafíos de programación que ofrece son: CoffeeScript, JavaScript, Python,
 
 Domina el idioma que prefieras o amplía tu comprensión de uno nuevo.
 
-[Visita Code Wars](https://kutt.it/code-wars){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita Code Wars](https://kutt.it/code-wars){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 6. **CodeHS**
+## 11. **CodeHS**
 
 ![Página web de , visto en Ciberninjas](/assets/img/paginas/codehs.webp)
 
 En este punto, todos los sitios web que lee aquí están dedicados principalmente al desarrollo web y la informática, pero CodeHS es uno con lecciones de programación de juegos simples y divertidas que involucran resolución de problemas, JavaScript, animación, estructuras de datos, diseño de juegos y desafíos de rompecabezas y mucho mucho mas.
 
-[Visita CodeHS](https://kutt.it/code-hs){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[[EN] 🚪 Visita CodeHS](https://kutt.it/code-hs){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### . **EDX**
+## 12. **EDX**
 
 ![Página web de EDX, visto en Ciberninjas](/assets/img/paginas/edx.webp)
 
@@ -246,9 +239,9 @@ Open edX es la plataforma de código abierto que impulsa los cursos de edX y est
 
 Vas a encontrarte con cursos de programación gratuitos sobre Java, C #, Python, inteligencia artificial y muchos más.
 
-[Visita EDX](https://kutt.it/edx-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[🚪 Visita EDX](https://kutt.it/edx-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 10. **El Proyecto Odin**
+## 13. **El Proyecto Odin**
 
 ![Página web de , visto en Ciberninjas](/assets/img/paginas/odin-proyecto.webp)
 
@@ -260,9 +253,9 @@ No solo eso, con The Odin Project, los estudiantes también pueden trabajar para
 
 Ofrece HTML, CSS, JavaScript y jQuery, programación con Ruby, Ruby on Rails.
 
-[Visita el Proyecto Odin](https://kutt.it/proyecto-odin){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[[EN] 🚪 Visita el Proyecto Odin](https://kutt.it/proyecto-odin){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 11. **Code ORG**
+## 14. **Code ORG**
 
 ![Página web de , visto en Ciberninjas](/assets/img/paginas/code-org.webp)
 
@@ -272,13 +265,13 @@ Sus cursos de programación gratuitos están diseñados para estudiantes de K-12
 
 Cursos de codificación ofrecidos: HTML, CSS, JavaScript, programación por bloques.
 
-[Visita Code ORG](https://kutt.it/code-org){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[[EN] 🚪 Visita Code ORG](https://kutt.it/code-org){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
 <!-- https://learntocodewith.me/posts/code-for-free/#html-css -->
 
-### 12. **GA Dash**
+## 15. **GA Dash**
 
-![Página web de , visto en Ciberninjas](/assets/img/paginas/dash-assambly.webp)
+![Página web de Dash Assambly, visto en Ciberninjas](/assets/img/paginas/dash-assambly.webp)
 
 GA Dash, es la plataforma de aprendizaje en línea gratuita de General Assembly. Está completamente basado en la creación de proyectos: Creas un "proyecto" con cada recorrido, lo que lo hace ideal para aquellos a quienes les gusta practicar mientras aprenden a codificar en línea.
 
@@ -286,65 +279,147 @@ En uno de los pocos recursos gratuitos para aprender a programar que tienen, ofr
 
 Podrás elegir entre aprender HTML, CSS, JavaScript o metodologías de diseño receptivo.
 
-[Visita Dash Assambly](https://kutt.it/lenguaje-assambly){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[[EN] 🚪 Visita Dash Assambly](https://kutt.it/lenguaje-assambly){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-### 13. **Code Conquest**
+## 16. **Code Conquest**
 
 ![Página web de Code Konquest, visto en Ciberninjas](/assets/img/paginas/code-konquest.webp)
 
 Code Conquest es una guía en línea gratuita sobre codificación para principiantes. La página es perfecta para principiantes, con el único pero de que se encuentra en inglés. Aprender cómo aprender a código, ver tutoriales gratuitos, hojas de trucos de descarga, prueba sus conocimientos con los concursos, y mucho más. De todos los lenguajes siguientes: HTML / CSS, JavaScript, PHP, Ruby, jQuery, Swift, Python y más
 
-[Visita Code Konquest](https://kutt.it/code-konquest){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+[[EN] 🚪 Visita Code Konquest](https://kutt.it/code-konquest){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-## **Los mejores blogs para ayudarte a aprender a programar**
+> **¿CUÁLES SON LOS MEJORES BLOGS PARA APRENDER A PROGRAMAR?**
 
-### **15. [Blog de David Walsh](https://davidwalsh.name/)**
+## 17. **Blog de David Walsh**
 
 [![Blog de David Walsh](https://techviral.net/wp-content/uploads/2017/06/David-Walsh-Blog.jpg)](https://techviral.net/wp-content/uploads/2017/06/David-Walsh-Blog.jpg)
 
 David Walsh Blog es un blog de David Walsh que es un desarrollador y programador web de 33 años. En su blog, puede encontrar información sobre JavaScript, AJAX, PHP, WordPress, HTML5, CSS y mucho más que podría ayudarlo a dominar sus habilidades de programación.
 
-### **24. [Tuts +](https://tutsplus.com/)**
+[[EN] 🚪 Visita el Blog de David Walsh(https://davidwalsh.name/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-[![Tuts +](https://techviral.net/wp-content/uploads/2017/06/Tuts.jpg)](https://techviral.net/wp-content/uploads/2017/06/Tuts.jpg)Tuts +
+## 18. **Tuts +**
+
+[![Tuts +](https://techviral.net/wp-content/uploads/2017/06/Tuts.jpg)](https://techviral.net/wp-content/uploads/2017/06/Tuts.jpg)
 
 Tuts + es uno de los mayores recursos donde puedes encontrar toneladas de tutoriales gratuitos relacionados con la programación. Bueno, el sitio también alberga cursos pagos, pero los gratuitos son buenos para los principiantes.
 
 Puede visitar Tuts + para saber cómo desarrollar software desde la aplicación web hasta dispositivos móviles. No solo eso, sino que también puede obtener suficiente conocimiento sobre el lenguaje de desarrollo, el marco y las herramientas.
 
-### **25. [SitePoint](https://www.sitepoint.com/)**
+[[EN] 🚪 Visita Tuts +(https://tutsplus.com/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-[![SitePoint](https://techviral.net/wp-content/uploads/2017/06/SitePoint.jpg)](https://techviral.net/wp-content/uploads/2017/06/SitePoint.jpg)SitePoint
+## 19. **SitePoint**
+
+[![SitePoint](https://techviral.net/wp-content/uploads/2017/06/SitePoint.jpg)](https://techviral.net/wp-content/uploads/2017/06/SitePoint.jpg)
 
 SitePoint es otro mejor sitio web donde puede aprender sobre Programación. El sitio fue creado por profesionales web para ayudar a diseñadores, principiantes, emprendedores, creadores de productos y programadores. Puede visitar Sitepoint para obtener información sobre HTML y CSS, JavaScript, PHP, Ruby, Mobile, Design & UK, WordPress, Java y más.
 
 Con estos sitios web increíbles, puede aprender fácilmente cualquier lenguaje de programación de manera profesional y puede convertirse en un programador simplemente sentándose en casa y aprendiendo de estos sitios web. Puedes crear cosas nuevas y hacer tu nombre. No olvides compartir esta publicación. Deje un comentario a continuación si crea algo nuevo al aprender de estos sitios.
 
-### **Trucos CSS**
+[[EN] 🚪 Visita SitePoint(https://www.sitepoint.com/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+## 20. **Trucos CSS**
+
 Este sitio web de codificación profundiza en CSS con su gran y mal almanaque de CSS . Sin embargo, el blog ahora va más allá de CSS y habla sobre otras cosas como Sass, JavaScript, PHP y más. Explore toneladas de recursos de programación y consulte sus fragmentos de código .
 
 https://css-tricks.com/
 
-### SQLZoo
+[[EN] 🚪 Visita CSS Tricks(https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+## 21. **SQLZoo**
 
 SQL significa  Structured Query Language, que significa almacenar y recuperar los datos y este sitio web se enfoca principalmente en enseñar la creación y obtención de bases de datos.
 
-http://sqlzoo.net/
-
+[[EN] 🚪 Visita SQLZoo](http://sqlzoo.net/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 <!-- https://launchschool.com/books/oo_ruby/read/introduction -->
 
 <!-- https://learntocodewith.me/posts/code-for-free/#html-css -->
-## **Aprende a utilizar la línea de comandos gratis**
 
-## **Aprende Git y Github gratis**
-## **Aprender a desarrollar con HTML y CSS gratis**
-## **Aprende a programar con Javascript gratis**
-## **Aprende a utilizar Wordpress gratis**
-## **Aprende a programar Python gratis**
-## **Aprende a programar Ruby gratis**
-## **Aprende a analizar y ciencia de datos gratis**
-## **Aprende aprendizaje profundo gratis**
-## **Aprende inteligencia artificial gratis**
-## **Aprende ciberseguridad gratis**
-## **Aprende desarrollo de aplicaciones móviles gratis**
-## **Aprende diseño UX/UI gratis**
+> **¿CÓMO APRENDER A UTILIZAR LA LÍNEA DE COMANDOS GRATIS?**
+
+## **Aprenda suficiente la línea de comandos como para ser peligroso**
+
+Una introducción tutorial a la línea de comandos de Unix, aprende paso a paso, a través de 4 amplis temas en los que se incluyen numerosos ejercicios y todas las explicaciones necesarias con las que convertirte en un conocer habitual del manje de la consola de Linux.
+
+[🚪 Visita ](https://www.learnenough.com/command-line-tutorial/basics){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+## **Usuario avanzado de la línea de comandos**
+
+Serie de videos gratuitos creada por Wes Bos. Más a un nivel intermedio, por lo que no es para 100% novatos. Estos 11 vídeos están centrados en desarrolladores web que buscan mejorar sus habilidades en el manejo de la consola de comandos de Unix.
+
+Aprende a crear un flujo de trabajo utilizando algunas de las mejores herramientas modernas relacionadas con el uso de herramientas de línea de comandos como git, npm, gulp, etc.
+
+[🚪 Visita Command Line Power Use](https://commandlinepoweruser.com/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+## **Conquistando la línea de comandos**
+
+Comandos de Unix y Linux para desarrolladores por Mark Bates. Este libro en inglés es para nuevos desarrolladores, desarrolladores experimentados y todos los que quieran dominar los comandos de Unix y Linux. Este libro fue diseñado para mostrar algunos de los comandos más útiles que un desarrollador puede conocer para ayudarlo en sus tareas diarias.
+
+Este libro no es un manual exhaustivo para cada uno de estos comandos; De hecho, es justo lo contrario. En lugar de simplemente recopilar páginas de MAN, este libro extrae las banderas, opciones y argumentos más útiles para cada uno de los comandos del libro.
+
+Al aprender y comprender el subconjunto de indicadores, opciones y argumentos para cada comando, podrá usar cada uno de manera más eficiente en su flujo de trabajo de desarrollo diario, mientras comprende dónde buscar para encontrar las opciones más esotéricas que solo necesitará de vez en cuando.
+
+[🚪 Visita Conquering the command line](http://conqueringthecommandline.com/book){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER GIT Y GITHUB GRATIS?**
+
+## **Prueba Git**
+
+Github nos ofrece una serie de chuletas con todos los comandos más básicos, con los que aprender a utilizar GIT, y lo más genial de todo es que están en español.
+
+[🚪 Visita Prueba Git de Github](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+## **Git Inmmersion**
+
+Una visita guiada para enseñarte los conceptos básicos de Git. Establece preferencias y crea tus propios proyectos. Git es un sistema potente y sofisticado para el control distribuido de versiones.
+
+La comprensión de sus características abre a los desarrolladores un enfoque nuevo y liberador para la gestión del código fuente. El camino más seguro para dominar Git es sumergirse en sus utilidades y operaciones, para experimentarlo de primera mano.
+
+Si lo deseas puedes ir aún más rápido, accediendo a la [instalación de Git oficial](http://git-scm.com/download){:target="_blank" rel="nofollow,noreferrer"} o conocer todos los [software que te ofrecen una interfaz gráfica de usuario](https://git-scm.com/downloads/guis) desde los que controlar, gestionar y trabajar en Git.
+
+[🚪 Visita Git Inmmersion](https://gitimmersion.com/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER A DESARROLLAR CON HTML Y CSS GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER A PROGRAMAR JAVASCRIPT GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER A USAR WORDPRESS GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER A PROGRAMAR PYTHON GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER A PROGRAMAR RUBY GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER ANÁLISIS Y CIENCIAS DE DATOS GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER APRENDIZAJE PROFUNDO GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER INTELIGENCIA ARTIFICIAL GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER CIBERSEGURIDAD GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER A DESARROLLAR APLICACIONES MÓVILES GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> **¿CÓMO APRENDER DISEÑO UX E UI GRATIS?**
+
+[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
