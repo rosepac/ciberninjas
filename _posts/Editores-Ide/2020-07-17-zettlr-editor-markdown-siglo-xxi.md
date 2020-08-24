@@ -74,7 +74,7 @@ Zettlr se adapta bien a tus necesidades y requirimientos. Lo podrás usar para c
 
 Es tan fácil como crear un nuevo proyecto y comenzar a crear. Zettlr nunca se interpondrá en su camino, y así es como debería ser siempre una buena aplicación.
 
-[💪 Comienza a Usar Zettlr](https://kutt.it/zettlr){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[💪 Prueba el editor de Markdown Zettlr](https://kutt.it/zettlr){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 
