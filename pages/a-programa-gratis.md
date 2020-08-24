@@ -368,6 +368,8 @@ Al aprender y comprender el subconjunto de indicadores, opciones y argumentos pa
 
 Github nos ofrece una serie de chuletas con todos los comandos más básicos, con los que aprender a utilizar GIT, y lo más genial de todo es que están en español.
 
+Desde [aquí](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/){:target="_blank" rel="nofollow,noreferrer"} puedes acceder a la chuleta online en formato HTML, y lo que es aún mejor; puedes [descargar la versión de Comandos de Referencia para Github Git en PDF](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet.pdf){:target="_blank" rel="nofollow,noreferrer"}
+
 [🚪 Visita Prueba Git de Github](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
 ## **Git Inmmersion**
