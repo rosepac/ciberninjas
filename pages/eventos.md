@@ -19,35 +19,38 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
+<iframe src="https://calendar.google.com/calendar/embed?src=moiqagoad98jv4r0365p8vodv4%40group.calendar.google.com&ctz=Europe%2FMadrid" style="border: 0" width="950" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## **Eventos tecnológicos de Agosto**
-
-### 🔔 22 de Agosto
-
-- (10:00 AM - 14:00 AM) Ingeniería social / El arte de la piratería humana (Hack Madrid): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking){:target="_blank" rel="nofollow, noreferrer"}
-- (15:00 AM) I Criptofestival (https://www.youtube.com/c/SombreroBlancoCiberseguridad/) [REGISTRO Y RECORDATORIO](https://www.eventbrite.cl/e/i-criptofestival-tickets-117403315477?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM) Parte II de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM) Cremona TV: Creando una app con Netx JS + TypeScript + Tailwind + Firebase [DIRECTO](https://www.twitch.tv/durancristhian){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 23 de Agosto
-
-- Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
-🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 25 de Agosto
 
 - Hoy. Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
-- (18:00 Hora Española) Claves para impulsar mi negocio en redes sociales
-👉 [VER ONLINE](https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=1659f598-870f-4e7e-a1a4-b0796e8548e8&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWQ1OWQ5ZTAtMDBhMi00OTM1LThjZjYtZjc2MWNjYWIyNWUw@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252286cfa33d-8f65-45f5-9953-4c4c00b95a66%2522%252c%2522Oid%2522%253a%2522df0e098e-c210-4041-b464-8a8fadeb9eed%2522%252c%2522IsBroadcastMeeting%2522%253atrue%257d%26anon%3Dtrue&suppressPrompt=true){:target="_blank" rel="nofollow, noreferrer"}
+- (18:00 Hora Española) Claves para impulsar mi negocio en redes sociales 👉 [VER ONLINE](https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=1659f598-870f-4e7e-a1a4-b0796e8548e8&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWQ1OWQ5ZTAtMDBhMi00OTM1LThjZjYtZjc2MWNjYWIyNWUw@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252286cfa33d-8f65-45f5-9953-4c4c00b95a66%2522%252c%2522Oid%2522%253a%2522df0e098e-c210-4041-b464-8a8fadeb9eed%2522%252c%2522IsBroadcastMeeting%2522%253atrue%257d%26anon%3Dtrue&suppressPrompt=true){:target="_blank" rel="nofollow, noreferrer"}
+- (22:00 PM H. ESP. - 15 H. México) GIAO México. Seminario: Regulación Digital y Protección al Usuario (https://giaoanticorrupcion.mx/eventos/#eventosGIAO) (Con derecho a certificado de asistencia, previo registo)
+- (03:00 AM H. ESP.) Azure DevOps con repositorios GitHub - Jorge Levy [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"} [Noche del 25 al 26]
+- (04:30 AM H. ESP.) GitHub Codespaces - Cristian González [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"} [Noche del 25 al 26]
+
+### 🔔 26 de Agosto
+
+- (17:00 PM H. ESP. - 10:00 H. México) GIAO México. Seminario: Prevención de Lavado de Dinero y Uso de Datos Personales en el Entorno Digital (https://giaoanticorrupcion.mx/eventos/#eventosGIAO) (Con derecho a certificado de asistencia, previo registo)
 
 ### 🔔 27 de Agosto
 
+- (02:30 AM H. ESP - 19:30 H. Ciudad de México) Mejorando mi sitio web mediante la estructura del blog - [REGISTRO](https://www.eventbrite.com.mx/e/meetup-29-mejorando-mi-sitio-web-mediante-la-estructura-del-blog-registration-116771461585)
 - Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
-🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
+🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"} (GitHub Student Developer Pack, Christian Granados) + (Versionamiento de Stored Procedures con Github, Jesús Gil)
+- (00:00 AM H. ESP.) - Gestión de memoria en java 🗞 [Registrarse](https://www.eventbrite.com.ar/e/meetup-edicion-agosto-tickets-117779083409?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- [01:00 AM H. ESP.] - Introducción a la blockchain de Algorand 🗞 [Registrarse](https://www.eventbrite.com/e/introduccion-a-la-blockchain-de-algorand-tickets-116656995213?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+
+### 🔔 28 de Agosto
+
+
 
 ### 🔔 29 de Agosto
 
-- NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing) - [AGENDA](https://notpinkcon.org/#speakers)
+- NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Eventos tecnológicos de Septiembre**
@@ -58,19 +61,35 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### 🔔 2 de Septiembre
 
+- (18:00 H. ESP.) Taller online #1: Aprende a Programar desde Cero 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-taller-online-1-aprende-a-programar-desde-cero-113319768478?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 
 ### 🔔 3 de Septiembre
 
+- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+- (00:00 H. ESP.) Fundamentos de JDK 🗞 [Registrarse](https://www.eventbrite.com.ar/e/jdk-fundamentalks-septiembre-tickets-118032986841?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 
 ### 🔔 4 de Septiembre
 
+- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+- (00:00 H. ESP.) Open api 3.0 por José Calderón 🗞 [Registrarse](https://www.eventbrite.com.ar/e/java-bs-as-edicion-septiembre-tickets-117783631011?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
 - 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 
 ### 🔔 5 de Septiembre
 
+- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
+- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
 - (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 6 de Septiembre
+
+- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 9 de Septiembre
+
+- (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 12 de Septiembre
 
@@ -86,12 +105,28 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dahl, que, aprovechando todo el conocimiento obtenido durante los 10 años de vida de Node decidió comenzar este proyecto para enmendar errores. Deno cuenta con soporte nativo de TypeScript —es decir no hace falta compilar antes de ejecutar un fichero de TypeScript—, un modelo de seguridad, una forma descentralizada de distribuir paquetes, un único ejecutable y muchas más cosas. En esta charla introductoria veremos qué es y qué características tiene, ¡así que no te lo pierdas!
 
+### 🔔 17 de Septiembre
+
+- (19:00 H. ESP.) Webinar: guía de supervivencia para un Data Scientist 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-webinar-guia-de-supervivencia-para-un-data-scientist-112423947052?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 18 de Septiembre
+
+- Congreso EsLibre. Más Información, Charlas y Propuestas (https://propuestas.eslib.re/2020/)
+
+### 🔔 19 de Septiembre
+
+- Congreso EsLibre. Más Información, Charlas y Propuestas (https://propuestas.eslib.re/2020/)
+
 ### 🔔 23 de Septiembre
 
 - (16:00 PM) Cómo desarrollar tus primeras Aplicaciones cloud nativas con Java - [Registro](https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/){:target="_blank" rel="nofollow, noreferrer"}
 
 Para aplicaciones nativas de la nube, Kubernetes e Istio proporcionan funcionalidades clave para microservicios independientes de su lenguaje de programación y sin cambios en su aplicación lógica. Sin embargo, algunas funcionalidades deben manejarse en la lógica empresarial de los microservicios, ej. funcionalidad de gestión de errores específica de la aplicación, métricas y gestión de permisos.
 En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse MicroProfile y cómo ejecutarlos en Kubernetes e Istio. Utilizaremos nuestro ejemplo de Cloud Native Starter disponible en Github.
+
+### 🔔 24 de Septiembre
+
+- (23:00 H. ESP. - 16:00 H. Ciudad de México) Tu personal Branding y la Nueva Normalidad 🗞 [Registro](https://www.eventbrite.com.mx/e/tu-personal-branding-y-la-nueva-normalidad-tickets-117309725547?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 ### 🔔 29 de Septiembre
 
@@ -465,3 +500,15 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 ### 🔔 21 de Agosto
 
 - (02:00 AM) Frontend Foxes | Hablemos de frameworks (angular, react, vue) [VER ONLINE](https://www.youtube.com/watch?v=vBX8x5qZXc8) con @maleja111 @vanessamarely y @jetzable.
+
+### 🔔 22 de Agosto
+
+- (10:00 AM - 14:00 AM) Ingeniería social / El arte de la piratería humana (Hack Madrid): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking){:target="_blank" rel="nofollow, noreferrer"}
+- (15:00 AM) I Criptofestival (https://www.youtube.com/c/SombreroBlancoCiberseguridad/) [REGISTRO Y RECORDATORIO](https://www.eventbrite.cl/e/i-criptofestival-tickets-117403315477?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM) Parte II de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 PM) Cremona TV: Creando una app con Netx JS + TypeScript + Tailwind + Firebase [DIRECTO](https://www.twitch.tv/durancristhian){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 23 de Agosto
+
+- Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
+🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
