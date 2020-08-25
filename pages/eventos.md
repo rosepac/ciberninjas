@@ -16,7 +16,8 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 {: .notice--primary}
 
 <!-- ⏰ (:) 👇 https://www.eventbrite.com.ar/d/online/free--science-and-tech--events/?lang=es&page=1 , https://www.eventbrite.com.ar/d/online/free--classes/?lang=es&page=1 -->
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+
+Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre puedes darme un empujón a que esto siga creciendo, teniendo en cuenta mis enlaces de afiliados, el día que deseas [realizar una compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o en [tu próxima compra de Amazon](https://amzn.to/3aTZb5X){:target="_blank" rel="nofollow, noreferrer"} o desde las listas de dispositivos [ofrecidas en nuestro catálogo de recomendaciones](https://ciberninjas.com/amazon/).
 {: .notice--warning}
 
 <iframe src="https://calendar.google.com/calendar/embed?src=moiqagoad98jv4r0365p8vodv4%40group.calendar.google.com&ctz=Europe%2FMadrid" style="border: 0" width="950" height="600" frameborder="0" scrolling="no"></iframe>
