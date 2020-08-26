@@ -3,9 +3,9 @@ author: rosepac
 bootstrap: true
 layout: post
 published: true
-title: "🐍 Glosario de Tecnologías de Python: Definiciones de Términos"
-description: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
-excerpt: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
+title: "Diccionario de Python y sus líbrerias"
+description: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción de cada una de ellas."
+excerpt: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción de cada una de ellas."
 published: true
 date: 2020-05-20
 last_modified_at:
@@ -19,11 +19,10 @@ feature-img: /assets/img/lenguajes/python-diccionarios.webp
 <!-- https://glossarytech.com/terms/python/ -->
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-*****
-<!-- https://glossarytech.com/terms/python/page2 -->
-🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [K](/glosario/completo-tecnologias-python/#k) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [W](/glosario/completo-tecnologias-python/#w)
+## **Índice del Diccionario de Python**
 
-*****
+<!-- https://glossarytech.com/terms/python/page2 -->
+> **Índice**: 🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [K](/glosario/completo-tecnologias-python/#k) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [W](/glosario/completo-tecnologias-python/#w)
 
 ## A
 
