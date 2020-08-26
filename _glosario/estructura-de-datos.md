@@ -16,7 +16,7 @@ Se utilizan diferentes estructuras de datos dependiendo de qué operaciones (com
 
 Algunos ejemplos comunes de estructuras de datos son: las pilas, las colas y los árboles.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

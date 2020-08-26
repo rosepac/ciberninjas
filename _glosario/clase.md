@@ -16,7 +16,7 @@ Del inglés: Class.
 **En CSS**: Es un selector que se usa para especificar un estilo en un elemento HTML.
 Palabra reservada en los lenguajes C# y Java.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

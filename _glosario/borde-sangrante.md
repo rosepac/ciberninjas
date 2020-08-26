@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/borde-sangrante/
 
 Se refiere a la tecnología que es tan novedosa, que podría tener un gran riesgo de ser poco fiable y se puede incurrir en un gran costo al intentar usarla; en inglés: "Bleeding Edge".
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

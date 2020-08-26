@@ -14,7 +14,7 @@ En inglés, click through rate. Es el ratio o tasa de clics logrados. Concretame
 
 La tasa de clics, se calcula tomando el número de clics que recibe un enlace entre la cantidad de veces que se mostró ese enlace / anuncio (impresiones).
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

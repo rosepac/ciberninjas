@@ -14,7 +14,7 @@ Una **barra de navegación** (o sistema de navegación) es una sección de una i
 
 Las **barras de navegación** se implementan en navegadores de archivos , navegadores web y como elemento de diseño de algunos sitios web.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

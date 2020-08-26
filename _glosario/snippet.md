@@ -14,7 +14,7 @@ canonical_URL: https://ciberninjas.com/glosario/snippet/
 
 Es un fragmento de código fuente, código de máquina o texto reutilizable.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

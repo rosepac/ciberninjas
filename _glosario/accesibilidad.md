@@ -14,7 +14,7 @@ La accesibilidad web es la práctica inclusiva de garantizar que no existan barr
 
 Cuando los sitios se diseñan, desarrollan y editan correctamente, generalmente todos los usuarios tienen igual acceso a la información y funcionalidad.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 
 

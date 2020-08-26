@@ -14,7 +14,7 @@ Un tipo de datos abstracto es el concepto amplio de un tipo de datos dado, que d
 
 Por ejemplo, una gráfica sería un tipo de datos abstractos.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

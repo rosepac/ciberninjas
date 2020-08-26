@@ -14,7 +14,7 @@ author: rosepac
 bootstrap: true
 ---
 
-[👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 *****
 
@@ -339,7 +339,7 @@ Asignar un identificador único para realizar un seguimiento del estado de la AP
 XML es un lenguaje de marcado extensible que se utiliza para describir documentos y datos.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
-[👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

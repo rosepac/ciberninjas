@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/trafico-web/
 
 El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

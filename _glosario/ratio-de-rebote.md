@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/ratio-de-rebote/
 
 Porcentaje de visitantes a un sitio web en particular que se aleja fuera del sitio después tras visualizar únicamente una sola página.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

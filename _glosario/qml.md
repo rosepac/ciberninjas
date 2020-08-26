@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/qml/
 
 Qml, es un metalenguaje declarativo y multiparadigma basado en Javascript desarrollado por los mismos desarrolladores del Framework Qt.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

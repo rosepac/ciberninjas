@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/digresion/
 
 Acción y efecto de romper el hilo del discurso y de introducir en él cosas que no tengan aparente relación directa con el asunto principal.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

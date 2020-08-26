@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/abend/
 
 Es un término usado para describir la finalización anormal de un programa.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

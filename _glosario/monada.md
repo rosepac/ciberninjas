@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/monada/
 
 Construcciones de programación funcional que capturan varias nociones diferentes de computación. * Término Avanzado.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

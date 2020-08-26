@@ -24,7 +24,7 @@ Desde el lanzamiento de Eclipse, Juno 3​ (junio de 2012, Xtend versión 2.3) X
 
 El lenguaje Xtend descrito aquí no debe confundirse con el idioma antiguo con el mismo nombre en el proyecto Xpand 4​. Inicialmente, Xtend fue nombrado Xtend2 para diferenciarse mejor. El '2' se descartó pronto por simplicidad. Con sus expresiones de plantilla, Xtend está destinado a reemplazar toda la tecnología Xpand.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

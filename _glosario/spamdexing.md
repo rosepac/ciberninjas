@@ -16,7 +16,7 @@ Los motores de búsqueda usan una variedad de algoritmos para determinar la rele
 
 Algunos de estos incluyen determinar si el término de búsqueda aparece en las etiquetas META, otras si el término de búsqueda aparece en el texto del cuerpo o en la URL de una página web. Muchos motores de búsqueda revisan si existe spamdexing y eliminan de sus índices las páginas sospechosas.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

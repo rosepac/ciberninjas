@@ -14,7 +14,7 @@ Cada solicitud de petición de cualquier tipo de archivo  realizada sobre el se
 
 Anglicismo del inglés, golpear. Comúnmente usado en el mundo del tráfico web y SEO; en el interior de los análisis de control y reconocimiento de cifras de visitantes y uso de las páginas web.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/numeronimo/
 
 Un **numerónimo es una palabra basada en números**. Más comúnmente, un numerónimo es una palabra donde un número se usa para formar una abreviatura que en ocasiones, su pronunciación de las letras y números puede sonar similar a la palabra completa. Alternando, las letras entre la primera y la última se reemplazan con un número que representa el número de letras omitidas, como «i18n» para «[internacionalización](/glosario/internalizacion)».
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

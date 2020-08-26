@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/clase-abstracta/
 
 Es una [clase](/glosario/clase) que deja parte de sí misma sin especificar, lo que obliga que exista una clase secundaria que la implemente.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

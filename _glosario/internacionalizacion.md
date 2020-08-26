@@ -12,7 +12,7 @@ canonical_URL: https://ciberninjas.com/glosario/internacionalizacion/
 
 La  internacionalización es el proceso de diseño de una aplicación de software para que pueda adaptarse a varios idiomas y regiones sin cambios de ingeniería.
 
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 

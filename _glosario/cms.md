@@ -13,7 +13,7 @@ canonical_URL: https://ciberninjas.com/glosario/cms/
 Un **sistema de gestión de contenido o CMS** es un sistema que proporciona una colección de procedimientos utilizados para gestionar el flujo de trabajo en un entorno de colaboración.
 
 [CMS de estilo SSG: Jekyll 👉](/jekyll/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Otros Glosarios
 
