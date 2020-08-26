@@ -38,6 +38,10 @@ Como veremos a continuación, los libros siempre han sido importantes para Musk:
 
 Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores más revolucionarios del Siglo.
 <!-- Elon Musk: El empresario que anticipa el futuro de Ashlee Vance (2018) https://amzn.to/2VTvlqW -->
+<!-- https://www.cnbc.com/2017/02/21/billionaire-elon-musk-credits-his-success-to-these-8-books.html -->
+<!-- https://www.businessinsider.com/elon-musk-favorite-books-2015-10?IR=T -->
+
+> **🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/libros-recomendados-elon-musk-2020/){:target="_blank" rel="nofollow,noreferrer"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow,noreferrer"}
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
@@ -62,13 +66,7 @@ Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores m�
     <li><a href="/libros-recomendados-elon-musk-2020/#17-cultura-de-iain-m-banks" title="Saber más sobre el libro Cultura de Iain M. Banks"><strong>Cultura de Iain M. Banks</strong></a></li>
   </ol>
 </nav>
-</details>
-<!-- https://www.cnbc.com/2017/02/21/billionaire-elon-musk-credits-his-success-to-these-8-books.html -->
-<!-- https://www.businessinsider.com/elon-musk-favorite-books-2015-10?IR=T -->
-
-**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/libros-recomendados-elon-musk-2020/){:target="_blank" rel="nofollow,noreferrer"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--danger}
-
+</details><br/>
 <!-- https://www.vbqspeakers.com/max-tegmark -->
 ## 1. **[Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc){:target="_blank" rel="nofollow,noreferrer"}**
 
