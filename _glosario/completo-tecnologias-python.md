@@ -30,7 +30,7 @@ feature-img: /assets/img/lenguajes/python-diccionarios.webp
 
 Una biblioteca para escribir código concurrente utilizando la sintaxis async / await. Proporciona infraestructura para escribir código concurrente de un solo subproceso utilizando rutinas, multiplexando el acceso de E / S a través de sockets y otros recursos, ejecutando clientes y servidores de red y otras primitivas relacionadas.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## B
 
