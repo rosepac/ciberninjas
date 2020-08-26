@@ -34,10 +34,8 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - (22:00 PM H. Española) Hackathon Virtual México, del 26 al 30 de Agosto 👉 [REGISTRO](https://www.eventbrite.com/e/lets-hack-mexico-hackathon-virtual-tickets-114484907440    ){:target="_blank" rel="nofollow, noreferrer"}
 - (22:00 PM H. Española) Innovación en las metodologías AGILE 👉 [REGISTRO](https://www.eventbrite.com.ar/e/innovacion-en-la-agilidad-tickets-117755478807){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 PM H. Española) Meetup Online ! PWAs & FluentValidation + .NET:  Aplicaciones nativas con Progressive Web Apps y .Net + Mejorando nuestras validaciones con FluentValidation 👉 [REGISTRO](https://www.eventbrite.com.ar/e/meetup-online-pwas-fluentvalidation-net-tickets-117663718349){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00 PM H. Española) 👉 Ciberseguridad en IoT: Particularidades de la ciberseguridad en Internet de las CosaS [REGISTRO](https://www.eventbrite.com.ar/e/ciberseguridad-en-iot-tickets-115352556602){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00 PM H. Española) Ciberseguridad en IoT: Particularidades de la ciberseguridad en Internet de las CosaS 👉 [REGISTRO](https://www.eventbrite.com.ar/e/ciberseguridad-en-iot-tickets-115352556602){:target="_blank" rel="nofollow, noreferrer"}
 - (23:30 PM H. Española) Introducción a Dart Lang #EncuentrosCodear 👉 [Ver en Youtube](https://www.youtube.com/watch?v=szOsAhMbz3k){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. Española) 👉 [REGISTRO](){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. Española) 👉 [REGISTRO](){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 27 de Agosto
 
