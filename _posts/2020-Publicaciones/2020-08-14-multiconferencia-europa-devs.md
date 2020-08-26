@@ -14,7 +14,7 @@ excerpt: >-
   El 20, 21 y 22 de Octubre se realizará la Conferencia Codemotion Europa 2020 de forma Online que incluirá conferencias de arquitectura de software, frontend y diseño, inteligencia artificial / aprendizaje automático y crecimiento de equipos y carreras en IT.
 canonical_URL: https://ciberninjas.com/multiconferencia-europa-devs-2020/
 permalink: /multiconferencia-europa-devs-2020/
-date: 2020-08-19 06:22:16
+date: 2020-08-25 06:22:16
 published: true
 
 ---
@@ -39,6 +39,7 @@ Los oradores confirmados hasta el momento son:
 - [Brian Vermeer](https://twitter.com/@BrianVerm){:target="_blank" rel="nofollow,noreferrer"} Defensor de los desarrolladores, Snyk: Desarrollador defensor de Snyk e ingeniero de software con más de 10 años de experiencia práctica en la creación y mantenimiento de software. Es un apasionado de Java, Programación Funcional (Pura) y Ciberseguridad. Brian es un embajador de Oracle Groundbreaker y orador internacional habitual en conferencias relacionadas principalmente con Java, como JavaOne, Oracle Code One, Devoxx BE, Devoxx UK, JFokus, JavaZone y muchas más. Además de todo eso, Brian es una reserva militar de la Real Fuerza Aérea de los Países Bajos y un maestro / profesor de Taekwondo.
 - [Yan Cui](https://twitter.com/@theburningmonk){:target="_blank" rel="nofollow,noreferrer"} Defensor de los desarrolladores, Lumigo: Yan es un ingeniero experimentado que ha trabajado con AWS durante más de 10 años. Ha sido arquitecto e ingeniero principal en una variedad de industrias que van desde bancos de inversión, comercio electrónico hasta juegos móviles. Yan también es un héroe sin servidor de AWS y un promotor de desarrolladores de Lumigo.
 
+[🤘 ¡Registrate YA!](https://events.codemotion.com/conferences/online/2020/online-tech-conference-spanish-edition/checkin){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- - [](){:target="_blank" rel="nofollow,noreferrer"} -->
 ### **Relacionados** <!-- omit in toc -->
 

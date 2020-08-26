@@ -9,12 +9,12 @@ thumbnail: /assets/img/blog/codemotion-espana.webp
 feature-img: /assets/img/blog/codemotion-espana.webp
 title: '▷ Conferencia Codemotion España 2020: Charlas para desarrolladores, hechas por desarrolladores'
 description: >-
-  El 3,4 y 5 de Noviembre  de Octubre se realizará la Conferencia Codemotion 2020 de España. Un ticket para asistir a cuatro conferencias dentro de un mismo evento, sobre Backend, Frontend, Emerging Technologies, AI/ML/DL.
+  El 3,4 y 5 de Noviembre se realizará la Conferencia Codemotion 2020 de España. Un ticket para asistir a cuatro conferencias dentro de un mismo evento, sobre Backend, Frontend, Emerging Technologies, AI/ML/DL.
 excerpt: >-
-  El 3,4 y 5 de Noviembre  de Octubre se realizará la Conferencia Codemotion 2020 de España. Un ticket para asistir a cuatro conferencias dentro de un mismo evento, sobre Backend, Frontend, Emerging Technologies, AI/ML/DL.
+  El 3,4 y 5 de Noviembre se realizará la Conferencia Codemotion 2020 de España. Un ticket para asistir a cuatro conferencias dentro de un mismo evento, sobre Backend, Frontend, Emerging Technologies, AI/ML/DL.
 canonical_URL: https://ciberninjas.com/codemotion-esp-2020/
 permalink: /codemotion-esp-2020/
-date: 2020-08-19 06:25:16
+date: 2020-08-25 06:25:16
 published: true
 
 ---
