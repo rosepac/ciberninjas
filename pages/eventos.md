@@ -24,19 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 26 de Agosto
-
-- Congreso CASE 2020 - Congreso Argentino de Sistemas Embebidos: FPGA, HDL y ASIC y Bioingeniería - [Más Información](http://www.sase.com.ar/case/ediciones/case2020/){:target="_blank" rel="nofollow, noreferrer"} 👉 [REGISTRO](https://www.eventbrite.com.ar/e/congreso-case-2020-tickets-116823254499){:target="_blank" rel="nofollow, noreferrer"}
-- (17:00 PM H. ESP. - 10:00 H. México) GIAO México. Seminario: Prevención de Lavado de Dinero y Uso de Datos Personales en el Entorno Digital (https://giaoanticorrupcion.mx/eventos/#eventosGIAO){:target="_blank" rel="nofollow, noreferrer"} (Con derecho a certificado de asistencia, previo registo)
-- (18:00 PM H. Española) Fotografía: Iluminación de estudio 👉 [REGISTRO](https://www.eventbrite.es/e/registro-iluminacion-de-estudio-115748038499){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. Española) InnTECMar 2020: Evento destinado a emprendedores científico-tecnológicos, integrantes de grupos de investigación que deseen despertar su espíritu emprendedor 👉 [REGISTRO](https://www.eventbrite.com.ar/e/inntecmar-2020-online-tickets-113385601386?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [Más información](https://fibamdp.wordpress.com/2020/08/15/inntecmar-2020-online/){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. Española) Introducción a Linkedin 👉 [REGISTRO](https://introalinkedin-mujeresprotagonistas-tecnologicas.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
-- (22:00 PM H. Española) Hackathon Virtual México, del 26 al 30 de Agosto 👉 [REGISTRO](https://www.eventbrite.com/e/lets-hack-mexico-hackathon-virtual-tickets-114484907440    ){:target="_blank" rel="nofollow, noreferrer"}
-- (22:00 PM H. Española) Innovación en las metodologías AGILE 👉 [REGISTRO](https://www.eventbrite.com.ar/e/innovacion-en-la-agilidad-tickets-117755478807){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00 PM H. Española) Meetup Online ! PWAs & FluentValidation + .NET:  Aplicaciones nativas con Progressive Web Apps y .Net + Mejorando nuestras validaciones con FluentValidation 👉 [REGISTRO](https://www.eventbrite.com.ar/e/meetup-online-pwas-fluentvalidation-net-tickets-117663718349){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00 PM H. Española) Ciberseguridad en IoT: Particularidades de la ciberseguridad en Internet de las CosaS 👉 [REGISTRO](https://www.eventbrite.com.ar/e/ciberseguridad-en-iot-tickets-115352556602){:target="_blank" rel="nofollow, noreferrer"}
-- (23:30 PM H. Española) Introducción a Dart Lang #EncuentrosCodear 👉 [Ver en Youtube](https://www.youtube.com/watch?v=szOsAhMbz3k){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 27 de Agosto
 
 - (01:00 AM H. Esp.) GitHub Student Developer Pack - Christian Granados 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
@@ -45,7 +32,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - (02:30 AM H. ESP - 19:30 H. Ciudad de México) Mejorando mi sitio web mediante la estructura del blog 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-29-mejorando-mi-sitio-web-mediante-la-estructura-del-blog-registration-116771461585){:target="_blank" rel="nofollow, noreferrer"}
 - (15:00 PM H. Española) Transformación digital en los servicios educativos 👉 [REGISTRO](https://www.eventbrite.com.ar/e/transformacion-digital-en-los-servicios-educativos-tickets-116754151811){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM H. Española)  Crea y Construye con la nueva plataforma Autodesk BIM 360 Docs 👉 [REGISTRO](https://www.eventbrite.es/e/27-de-agosto-crea-y-construye-con-la-nueva-plataforma-v-tickets-116460852545){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM H. Española) 👉 ITIL 4 y la práctica de Gestión de Seguridad de la Información - [REGISTRO](https://www.eventbrite.es/e/entradas-itil-4-y-la-practica-de-gestion-de-seguridad-de-la-informacion-116295183023){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM H. Española) ITIL 4 y la práctica de Gestión de Seguridad de la Información 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-itil-4-y-la-practica-de-gestion-de-seguridad-de-la-informacion-116295183023){:target="_blank" rel="nofollow, noreferrer"}
 - (17:00 PM H. Española)  Conoce el modelo de negocio Adobe e incrementa tus ingresos 👉 [REGISTRO](https://www.eventbrite.com.mx/e/webinar-conoce-el-modelo-de-negocio-adobe-e-incrementa-tus-ventas-tickets-110873262914){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Segmentando el mercado con Data Science 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-segmentando-el-mercado-con-data-science-116982877937){:target="_blank" rel="nofollow, noreferrer"}
 - (23:30 PM H. Española) Arquitectura: Hablemos de Microservicios! 👉 [REGISTRO](https://www.eventbrite.com.ar/e/webinar-arquitectura-hablemos-de-microservicios-tickets-116996123555?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -69,6 +56,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 - NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 PM H. ESP - 16 H. Argentina) Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Eventos tecnológicos de Septiembre**
 
@@ -547,3 +535,16 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (02:00 AM H. ESP.) +Mujeres en UX México Reunión Virtual Agosto 2020 👉 [REGISTRO](https://www.eventbrite.com.mx/e/mujeres-en-ux-mexico-reunion-virtual-agosto-2020-tickets-117537191905?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 25 al 26]
 - (01:00 AM H. ESP.) Azure DevOps con repositorios GitHub - Jorge Levy 👉 [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"} [Noche del 25 al 26]
 - (04:30 AM H. ESP.) GitHub Codespaces - Cristian González 👉 [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"} [Noche del 25 al 26]
+
+### 🔔 26 de Agosto
+
+- Congreso CASE 2020 - Congreso Argentino de Sistemas Embebidos: FPGA, HDL y ASIC y Bioingeniería - [Más Información](http://www.sase.com.ar/case/ediciones/case2020/){:target="_blank" rel="nofollow, noreferrer"} 👉 [REGISTRO](https://www.eventbrite.com.ar/e/congreso-case-2020-tickets-116823254499){:target="_blank" rel="nofollow, noreferrer"}
+- (17:00 PM H. ESP. - 10:00 H. México) GIAO México. Seminario: Prevención de Lavado de Dinero y Uso de Datos Personales en el Entorno Digital (https://giaoanticorrupcion.mx/eventos/#eventosGIAO){:target="_blank" rel="nofollow, noreferrer"} (Con derecho a certificado de asistencia, previo registo)
+- (18:00 PM H. Española) Fotografía: Iluminación de estudio 👉 [REGISTRO](https://www.eventbrite.es/e/registro-iluminacion-de-estudio-115748038499){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 PM H. Española) InnTECMar 2020: Evento destinado a emprendedores científico-tecnológicos, integrantes de grupos de investigación que deseen despertar su espíritu emprendedor 👉 [REGISTRO](https://www.eventbrite.com.ar/e/inntecmar-2020-online-tickets-113385601386?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [Más información](https://fibamdp.wordpress.com/2020/08/15/inntecmar-2020-online/){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 PM H. Española) Introducción a Linkedin 👉 [REGISTRO](https://introalinkedin-mujeresprotagonistas-tecnologicas.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
+- (22:00 PM H. Española) Hackathon Virtual México, del 26 al 30 de Agosto 👉 [REGISTRO](https://www.eventbrite.com/e/lets-hack-mexico-hackathon-virtual-tickets-114484907440    ){:target="_blank" rel="nofollow, noreferrer"}
+- (22:00 PM H. Española) Innovación en las metodologías AGILE 👉 [REGISTRO](https://www.eventbrite.com.ar/e/innovacion-en-la-agilidad-tickets-117755478807){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00 PM H. Española) Meetup Online ! PWAs & FluentValidation + .NET:  Aplicaciones nativas con Progressive Web Apps y .Net + Mejorando nuestras validaciones con FluentValidation 👉 [REGISTRO](https://www.eventbrite.com.ar/e/meetup-online-pwas-fluentvalidation-net-tickets-117663718349){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00 PM H. Española) Ciberseguridad en IoT: Particularidades de la ciberseguridad en Internet de las CosaS 👉 [REGISTRO](https://www.eventbrite.com.ar/e/ciberseguridad-en-iot-tickets-115352556602){:target="_blank" rel="nofollow, noreferrer"}
+- (23:30 PM H. Española) Introducción a Dart Lang #EncuentrosCodear 👉 [Ver en Youtube](https://www.youtube.com/watch?v=szOsAhMbz3k){:target="_blank" rel="nofollow, noreferrer"}

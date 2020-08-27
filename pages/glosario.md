@@ -1,9 +1,9 @@
 ---
 layout: page
 hide: true
-title: "🔠 Glosario Tecnológico"
-description: Lista del Glosario Tecnológico de todas las palabras añadidas a nuestro diccionario
-excerpt: "🔠 Glosario Tecnológico de los Ciberninjas"
+title: "Diccionario Tecnológico 🔠 "
+description: Lista del Diccionario Tecnológico de todas las palabras añadidas a nuestro glosario
+excerpt: "🔠 Diccionario Tecnológico de los Ciberninjas"
 permalink: /glosario/
 ---
 
