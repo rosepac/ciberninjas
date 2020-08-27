@@ -8,6 +8,8 @@ description: "Xtend"
 excerpt: "Xtend, es un lenguaje de programación de alto nivel de propósito general para la Máquina Virtual de Java."
 permalink: /glosario/xtend/
 canonical_URL: https://es.wikipedia.org/wiki/Xtend
+feature-img: /assets/img/glosario/xtend.webp
+img: /assets/img/glosario/xtend.webp
 ---
 
 Xtend es un lenguaje de programación de alto nivel de propósito general para la Máquina Virtual de Java. Xtend tiene sus raíces en el lenguaje de programación Java, tanto en la forma sintáctica como semántica, pero tiene una sintaxis más concisa y algunas funciones adicionales, como la inferencia de tipos, los métodos de extensión y la sobrecarga de operadores.
@@ -26,8 +28,8 @@ El lenguaje Xtend descrito aquí no debe confundirse con el idioma antiguo con e
 
 [👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Otros Glosarios
+## Otros Diccionarios
 
-[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn-primary .btn-lg .btn-block}
-[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-primary .btn-lg .btn-block}
+[⚙ Diccionario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn-primary .btn-lg .btn-block}
+[🐍 Diccionario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-primary .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

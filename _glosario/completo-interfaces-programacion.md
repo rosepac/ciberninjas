@@ -12,6 +12,8 @@ date: 2019-10-24
 last_modified_at: 2020-01-23
 author: rosepac
 bootstrap: true
+feature-img: /assets/img/glosario/diccionario-completo-apis.webp
+img: /assets/img/glosario/diccionario-completo-apis.webp
 ---
 
 [👈 Regresar al Diccionario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
@@ -341,7 +343,7 @@ XML es un lenguaje de marcado extensible que se utiliza para describir documento
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [👈 Regresar al Diccionario Tecnológico](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Otros Glosarios
+## Otros Diccionarios
 
-[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🐍 Diccionario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

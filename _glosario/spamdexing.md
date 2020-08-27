@@ -8,9 +8,11 @@ description: "Uno de los varios métodos de manipular la relevancia o prominenci
 excerpt: "Uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda"
 permalink: /glosario/spamdexing/
 canonical_URL: https://es.wikipedia.org/wiki/spamdexing
+feature-img: /assets/img/glosario/spamdexing.webp
+img: /assets/img/glosario/spamdexing.webp
 ---
 
-Spamdexing es uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda, usualmente en una forma inconsistente con el propósito del sistema de indexado.
+**Spamdexing es uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda**, usualmente en una forma inconsistente con el propósito del sistema de indexado.
 
 Los motores de búsqueda usan una variedad de algoritmos para determinar la relevancia.
 
@@ -18,8 +20,8 @@ Algunos de estos incluyen determinar si el término de búsqueda aparece en las 
 
 [👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Otros Glosarios
+## Otros Diccionarios
 
-[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn-primary .btn-lg .btn-block}
-[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-primary .btn-lg .btn-block}
+[⚙ Diccionario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn-primary .btn-lg .btn-block}
+[🐍 Diccionario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-primary .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

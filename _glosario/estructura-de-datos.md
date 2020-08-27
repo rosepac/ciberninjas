@@ -8,6 +8,8 @@ description: "Estructura de Datos"
 excerpt: "Forma de organizar los datos para que puedan ser utilizados de manera eficiente."
 permalink: /glosario/estructura-de-datos/
 canonical_URL: https://ciberninjas.com/glosario/estructura-de-datos/
+feature-img: /assets/img/glosario/estructura-de-datos.webp
+img: /assets/img/glosario/estructura-de-datos.webp
 ---
 
 Forma de organizar los datos para que puedan ser utilizados de manera eficiente.
@@ -18,8 +20,8 @@ Algunos ejemplos comunes de estructuras de datos son: las pilas, las colas y los
 
 [👈 Regresar al Diccionario Tecnológico](/glosario/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Otros Glosarios
+## Otros Diccionarios
 
-[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn-primary .btn-lg .btn-block}
-[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-primary .btn-lg .btn-block}
+[⚙ Diccionario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn-primary .btn-lg .btn-block}
+[🐍 Diccionario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn-primary .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

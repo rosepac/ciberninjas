@@ -13,8 +13,8 @@ author: rosepac
 bootstrap: true
 permalink: /glosario/completo-tecnologias-python/
 canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
-thumbnail: /assets/img/lenguajes/python-diccionarios.webp
-feature-img: /assets/img/lenguajes/python-diccionarios.webp
+feature-img: /assets/img/glosario/diccionario-completo-python.webp
+img: /assets/img/glosario/diccionario-completo-python.webp
 ---
 <!-- https://glossarytech.com/terms/python/ -->
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
