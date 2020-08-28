@@ -24,21 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 27 de Agosto
-
-- (01:00 AM H. Esp.) GitHub Student Developer Pack - Christian Granados 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
-- (01:00 AM H. ESP - 18:00 H. Ciudad de México) Diseño: Conversatorio Anatomía de un Ilustrador 👉 [REGISTRO](https://www.eventbrite.co/e/entradas-conversatorio-anatomia-de-un-ilustrador-117462247745){:target="_blank" rel="nofollow, noreferrer"}
-- (02:00 AM H. ESP - 19:00 H. Ciudad de México) ¿Qué buscan los reclutadores en los profesionales de Tecnología? 👉 [REGISTRO](https://www.eventbrite.com/e/que-buscan-los-reclutadores-en-los-profesionales-de-tecnologia-tickets-115610539235){:target="_blank" rel="nofollow, noreferrer"}
-- (02:30 AM H. ESP - 19:30 H. Ciudad de México) Mejorando mi sitio web mediante la estructura del blog 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-29-mejorando-mi-sitio-web-mediante-la-estructura-del-blog-registration-116771461585){:target="_blank" rel="nofollow, noreferrer"}
-- (15:00 PM H. Española) Transformación digital en los servicios educativos 👉 [REGISTRO](https://www.eventbrite.com.ar/e/transformacion-digital-en-los-servicios-educativos-tickets-116754151811){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM H. Española)  Crea y Construye con la nueva plataforma Autodesk BIM 360 Docs 👉 [REGISTRO](https://www.eventbrite.es/e/27-de-agosto-crea-y-construye-con-la-nueva-plataforma-v-tickets-116460852545){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM H. Española) ITIL 4 y la práctica de Gestión de Seguridad de la Información 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-itil-4-y-la-practica-de-gestion-de-seguridad-de-la-informacion-116295183023){:target="_blank" rel="nofollow, noreferrer"}
-- (17:00 PM H. Española)  Conoce el modelo de negocio Adobe e incrementa tus ingresos 👉 [REGISTRO](https://www.eventbrite.com.mx/e/webinar-conoce-el-modelo-de-negocio-adobe-e-incrementa-tus-ventas-tickets-110873262914){:target="_blank" rel="nofollow, noreferrer"}
-- (19:00 PM H. Española) Segmentando el mercado con Data Science 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-segmentando-el-mercado-con-data-science-116982877937){:target="_blank" rel="nofollow, noreferrer"}
-- (23:30 PM H. Española) Arquitectura: Hablemos de Microservicios! 👉 [REGISTRO](https://www.eventbrite.com.ar/e/webinar-arquitectura-hablemos-de-microservicios-tickets-116996123555?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (23:30 PM H. Española) Women Tech Camp: Mujeres Tech creando ideas innovadoras en Retail 👉 [REGISTRO](https://www.eventbrite.com.ar/e/women-tech-camp-tickets-115774142577){:target="_blank" rel="nofollow, noreferrer"}
-- (23:30 PM H. Española) Diseño: Una historia sobre el pincel, el rótulo y la tipografía 👉 [REGISTRO](https://www.eventbrite.com.ar/x/byl7-una-historia-sobre-el-pincel-el-rotulo-y-la-tipografia-gen-ramirez-tickets-117783687179){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 28 de Agosto
 
 - (00:00 AM H. ESP.) Gestión de memoria en java 🗞 [Registrarse](https://www.eventbrite.com.ar/e/meetup-edicion-agosto-tickets-117779083409?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
@@ -49,20 +34,21 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - (01:00 AM H. ESP.) Introducción a la blockchain de Algorand 🗞 [Registrarse](https://www.eventbrite.com/e/introduccion-a-la-blockchain-de-algorand-tickets-116656995213?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
 - (02:00 AM H. ESP.) Python explicado en ABC/Sesiones en vivo. 🗞 [Registrarse](https://www.eventbrite.com.mx/e/python-explicado-en-abcsesiones-en-vivo-tickets-114348643872){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
 - (04:00 AM H. Española) Portales de Revistas Científicas: trabajo colaborativo y redes 👉 [REGISTRO](https://117354116321.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. Española) 👉 [REGISTRO](){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. Española) 👉 [REGISTRO](){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 29 de Agosto
 
 - NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (17:00 PM H. Española - 10:00 AM H. México CDMX) Seguridad en Base de Datos 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-seguridad-en-base-de-datos-117898049239?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 PM H. ESP - 16 H. Argentina) Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Eventos tecnológicos de Septiembre**
 
 ### 🔔 1 de Septiembre
 
-- (18:30) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (18:30 H. Española) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00 PM H. Española) Full Stack: Cómo Empezar, con Mario Girón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-full-stack-start-here-117748513975?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} ¿Por qué apostar por Javascript?, Frameworks más destacados, Perfil del Full Stack Developer, Etc.
+- (19:00 PM H. Española) Ciberseguridad: Cómo Empezar, con Roberto López 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-cybersecurity-start-here-117960469941?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 2 de Septiembre
 
@@ -71,20 +57,21 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 3 de Septiembre
 
-- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
 - (00:00 H. ESP.) Fundamentos de JDK 🗞 [Registrarse](https://www.eventbrite.com.ar/e/jdk-fundamentalks-septiembre-tickets-118032986841?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
+- (19:00 PM H. Española) Desarrollo Móvil: Cómo empezar con David Jardón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-mobile-development-start-here-117962110849?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00 PM H. Española) Desarrollador Java: Cómo Empezar, con Antonio Martín 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-java-development-start-here-117962863099?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00 PM H. Española) Ciencia de Datos: Cómo Empezar, con Adrián Ceja 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-data-science-start-here-117963577235?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
 
 ### 🔔 4 de Septiembre
 
-- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
-- (00:00 H. ESP.) Open api 3.0 por José Calderón 🗞 [Registrarse](https://www.eventbrite.com.ar/e/java-bs-as-edicion-septiembre-tickets-117783631011?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
+- (00:00 H. ESP.) Open api 3.0 por José Calderón 🗞 [Registrarse](https://www.eventbrite.com.ar/e/java-bs-as-edicion-septiembre-tickets-117783631011?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing) CON SORTEO DE CÓDIGOS PARA JETBRAINS Y BIGBOX INCLUIDOS! 😻
 - 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 
 ### 🔔 5 de Septiembre
 
-- Gran Conferencia CodeMotion España - (https://ciberninjas.com/codemotion-esp-2020/)
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
 - (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
@@ -92,9 +79,22 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
 
+### 🔔 8 de Septiembre
+
+- (18:30 H. Esp.) Front End: taller para principiantes FULLSTACK 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-front-end-taller-para-principiantes-fullstack-111285114774?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}- (18:00 H. Esp.) ¿Has acabado de estudiar? Te recomendamos qué hacer 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-has-acabado-de-estudiar-te-recomendamos-que-hacer-d-115882500679?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
 ### 🔔 9 de Septiembre
 
+- (13:00 H. Esp.) Neo4j - Aplicaciones en Retail 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 10 de Septiembre
+
+- (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 11 de Septiembre
+
+- (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 12 de Septiembre
 
@@ -110,6 +110,11 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dahl, que, aprovechando todo el conocimiento obtenido durante los 10 años de vida de Node decidió comenzar este proyecto para enmendar errores. Deno cuenta con soporte nativo de TypeScript —es decir no hace falta compilar antes de ejecutar un fichero de TypeScript—, un modelo de seguridad, una forma descentralizada de distribuir paquetes, un único ejecutable y muchas más cosas. En esta charla introductoria veremos qué es y qué características tiene, ¡así que no te lo pierdas!
 
+### 🔔 16 de Septiembre
+
+- (18:00 H. ESP.) Inspired by Woman: Enciende tu marca personal 🗞 [REGISTRO](https://www.eventbrite.co.uk/e/inspired-by-women-tickets-117973442743?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+
 ### 🔔 17 de Septiembre
 
 - (19:00 H. ESP.) Webinar: guía de supervivencia para un Data Scientist 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-webinar-guia-de-supervivencia-para-un-data-scientist-112423947052?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -124,6 +129,7 @@ Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dah
 
 ### 🔔 23 de Septiembre
 
+- (13:00 H. Esp.) Neo4j y Data Governance - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Cómo desarrollar tus primeras Aplicaciones cloud nativas con Java - [Registro](https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/){:target="_blank" rel="nofollow, noreferrer"}
 
 Para aplicaciones nativas de la nube, Kubernetes e Istio proporcionan funcionalidades clave para microservicios independientes de su lenguaje de programación y sin cambios en su aplicación lógica. Sin embargo, algunas funcionalidades deben manejarse en la lógica empresarial de los microservicios, ej. funcionalidad de gestión de errores específica de la aplicación, métricas y gestión de permisos.
@@ -147,6 +153,10 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - (19:00 PM) Los Piratas del cloud: Nuevos retos de ciberseguridad - [Registro](https://events.codemotion.com/webinars/los-piratas-del-cloud-nuevos-retos-de-ciberseguridad/){:target="_blank" rel="nofollow, noreferrer"}
 
+### 🔔 7 de Octubre
+
+- (13:00 H. Esp.) Neo4j y Gestión 360 de Clientes 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
 ### 🔔 13 de Octubre
 
 - (19:00 PM) Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"}
@@ -154,14 +164,12 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 20 de Octubre
 
 - ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 20 de Octubre
-
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 21 de Octubre
 
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+- (13:00 H. Esp.) Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 22 de Octubre
 
@@ -548,3 +556,19 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (23:00 PM H. Española) Meetup Online ! PWAs & FluentValidation + .NET:  Aplicaciones nativas con Progressive Web Apps y .Net + Mejorando nuestras validaciones con FluentValidation 👉 [REGISTRO](https://www.eventbrite.com.ar/e/meetup-online-pwas-fluentvalidation-net-tickets-117663718349){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 PM H. Española) Ciberseguridad en IoT: Particularidades de la ciberseguridad en Internet de las CosaS 👉 [REGISTRO](https://www.eventbrite.com.ar/e/ciberseguridad-en-iot-tickets-115352556602){:target="_blank" rel="nofollow, noreferrer"}
 - (23:30 PM H. Española) Introducción a Dart Lang #EncuentrosCodear 👉 [Ver en Youtube](https://www.youtube.com/watch?v=szOsAhMbz3k){:target="_blank" rel="nofollow, noreferrer"}
+
+
+### 🔔 27 de Agosto
+
+- (01:00 AM H. Esp.) GitHub Student Developer Pack - Christian Granados 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
+- (01:00 AM H. ESP - 18:00 H. Ciudad de México) Diseño: Conversatorio Anatomía de un Ilustrador 👉 [REGISTRO](https://www.eventbrite.co/e/entradas-conversatorio-anatomia-de-un-ilustrador-117462247745){:target="_blank" rel="nofollow, noreferrer"}
+- (02:00 AM H. ESP - 19:00 H. Ciudad de México) ¿Qué buscan los reclutadores en los profesionales de Tecnología? 👉 [REGISTRO](https://www.eventbrite.com/e/que-buscan-los-reclutadores-en-los-profesionales-de-tecnologia-tickets-115610539235){:target="_blank" rel="nofollow, noreferrer"}
+- (02:30 AM H. ESP - 19:30 H. Ciudad de México) Mejorando mi sitio web mediante la estructura del blog 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-29-mejorando-mi-sitio-web-mediante-la-estructura-del-blog-registration-116771461585){:target="_blank" rel="nofollow, noreferrer"}
+- (15:00 PM H. Española) Transformación digital en los servicios educativos 👉 [REGISTRO](https://www.eventbrite.com.ar/e/transformacion-digital-en-los-servicios-educativos-tickets-116754151811){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM H. Española)  Crea y Construye con la nueva plataforma Autodesk BIM 360 Docs 👉 [REGISTRO](https://www.eventbrite.es/e/27-de-agosto-crea-y-construye-con-la-nueva-plataforma-v-tickets-116460852545){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM H. Española) ITIL 4 y la práctica de Gestión de Seguridad de la Información 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-itil-4-y-la-practica-de-gestion-de-seguridad-de-la-informacion-116295183023){:target="_blank" rel="nofollow, noreferrer"}
+- (17:00 PM H. Española)  Conoce el modelo de negocio Adobe e incrementa tus ingresos 👉 [REGISTRO](https://www.eventbrite.com.mx/e/webinar-conoce-el-modelo-de-negocio-adobe-e-incrementa-tus-ventas-tickets-110873262914){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00 PM H. Española) Segmentando el mercado con Data Science 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-segmentando-el-mercado-con-data-science-116982877937){:target="_blank" rel="nofollow, noreferrer"}
+- (23:30 PM H. Española) Arquitectura: Hablemos de Microservicios! 👉 [REGISTRO](https://www.eventbrite.com.ar/e/webinar-arquitectura-hablemos-de-microservicios-tickets-116996123555?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (23:30 PM H. Española) Women Tech Camp: Mujeres Tech creando ideas innovadoras en Retail 👉 [REGISTRO](https://www.eventbrite.com.ar/e/women-tech-camp-tickets-115774142577){:target="_blank" rel="nofollow, noreferrer"}
+- (23:30 PM H. Española) Diseño: Una historia sobre el pincel, el rótulo y la tipografía 👉 [REGISTRO](https://www.eventbrite.com.ar/x/byl7-una-historia-sobre-el-pincel-el-rotulo-y-la-tipografia-gen-ramirez-tickets-117783687179){:target="_blank" rel="nofollow, noreferrer"}
