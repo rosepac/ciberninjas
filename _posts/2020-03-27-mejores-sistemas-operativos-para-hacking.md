@@ -15,8 +15,7 @@ excerpt: >-
   🔥 Los más impresionantes Sistemas Operativos Gratis para Hacking Ético en 2020 más actualizados con la gama de herramientas más grande
 canonical_URL: https://ciberninjas.com/mejores-sistemas-operativos-para-hackear/
 permalink: /mejores-sistemas-operativos-para-hackear/
-date: 2020-03-27
-last_modified_at: 
+date: 2020-08-26
 published: true
 
 ---
@@ -40,21 +39,21 @@ A poder ser, intenta **usar estás herramientas para fortalecer la seguridad de 
 
 A continuación, **los 11 mejores sistemas operativos para hackear** y no te olvides de revisar todas las posibilidades que cada uno de ellos te ofrecen.
 
-- [**1. Kali Linux**](#1-kali-linux)
-- [**2. Black Arch Linux**](#2-black-arch-linux)
-- [**3. Parrot Sec**](#3-parrot-sec)
-- [**4. Backbox**](#4-backbox)
-- [**5. CAINE**](#5-caine)
-- [**6. Network Security**](#6-network-security)
-- [**7. Arch Strike**](#7-arch-strike)
-- [**8. Dracos Linux**](#8-dracos-linux)
-- [**9. DEFT Linux**](#9-deft-linux)
-- [**10. Pentoo**](#10-pentoo)
-- [**11. Samurai Web Testing Framework**](#11-samurai-web-testing-framework)
+- [1. **Kali Linux**](#1-kali-linux)
+- [2. **Black Arch Linux**](#2-black-arch-linux)
+- [3. **Parrot Sec**](#3-parrot-sec)
+- [4. **Backbox**](#4-backbox)
+- [5. **CAINE**](#5-caine)
+- [6. **Network Security**](#6-network-security)
+- [7. **Arch Strike**](#7-arch-strike)
+- [8. **Dracos Linux**](#8-dracos-linux)
+- [9. **DEFT Linux**](#9-deft-linux)
+- [10. **Pentoo**](#10-pentoo)
+- [11. **Samurai Web Testing Framework**](#11-samurai-web-testing-framework)
 
 > 🔥 Seguro también te interesa: [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow,noreferrer"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 
-## **1. Kali Linux**
+## 1. **Kali Linux**
 
 ![Captura de pantalla del Sistema Operativo Kali Linux, Ciberninjas](/assets/img/paginas/so-hack/1-kali-linux-captura.webp "Captura de pantalla del Sistema Operativo Kali Linux, Ciberninjas")
 > **Fuente**: [Yo Androide](https://www.youtube.com/watch?v=Isg3repK9bQ){:target="_blank" rel="nofollow,noreferrer"}
@@ -78,13 +77,13 @@ En pocas palabras, **Kali está diseñado para pentestings y hackers**. La mayor
 
 **Última Versión**: Enero de 2020. Kali Linux 64-Bit y 32-Bit: Versión 2020.1b
 
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Kali Linux](https://www.kali.org/ "Web Oficial del Sistema Operativo Kali Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar Kali Linux](https://www.kali.org/downloads/ "Descargar el Sistema Operativo Kali Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial Kali Linux](https://www.kali.org/ "Web Oficial del Sistema Operativo Kali Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar Kali Linux](https://www.kali.org/downloads/ "Descargar el Sistema Operativo Kali Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > 🔐 No te Olvides de Visitar: [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow,noreferrer"}
 
-## **2. Black Arch Linux**
+## 2. **Black Arch Linux**
 
 ![Captura de pantalla del Sistema Operativo Black Arch, Ciberninjas](/assets/img/paginas/so-hack/11-black-arch.webp "Captura de pantalla del Sistema Operativo Black Arch, Ciberninjas")
 
@@ -99,11 +98,11 @@ También permite la instalación individual de estas herramientas; o mediante pe
 **Última Versión**: Enero 2020. Black Arch Linux Versión 2020.01.01
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial BlackArc](https://blackarch.org/ "Web Oficial del sistema operativo Black Arc"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar BLACKARC LINUX](https://blackarch.org/downloads.html "Descargar el Sistema Operativo BlackArc Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial BlackArc](https://blackarch.org/ "Web Oficial del sistema operativo Black Arc"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar BLACKARC LINUX](https://blackarch.org/downloads.html "Descargar el Sistema Operativo BlackArc Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **3. Parrot Sec**
+## 3. **Parrot Sec**
 
 ![Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas](/assets/img/paginas/so-hack/3-parrot-sec.webp "Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas")
 > **Fuente** : [Twitter Parrot Sec](https://twitter.com/ParrotSec){:target="_blank" rel="nofollow,noreferrer"}
@@ -127,11 +126,11 @@ Puede o no ser el mejor sistema operativo para hackear dependiendo de cómo lo v
 
 **Última Versión**: Marzo 2020. Parrot 4.8
 
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Parrot Sec](https://www.parrotsec.org/ "Web Oficial del Sistema Operativo Parrot Sec"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar Parrot Sec](https://www.parrotsec.org/download-security.php "Descarga del Sistema Operativo Parrot Sec"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial Parrot Sec](https://www.parrotsec.org/ "Web Oficial del Sistema Operativo Parrot Sec"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar Parrot Sec](https://www.parrotsec.org/download-security.php "Descarga del Sistema Operativo Parrot Sec"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **4. Backbox**
+## 4. **Backbox**
 
 ![Captura de pantalla del Sistema Operativo Backbox, Ciberninjas](/assets/img/paginas/so-hack/2-backbox-6.webp "Captura de pantalla del Sistema Operativo Backbox, Ciberninjas")
 
@@ -152,11 +151,11 @@ En pocas palabras, **Backbox tiene todo el potencial requerido para ser el mejor
 
 **Última Versión**: Junio 2019. BackBox Linux 6 - i386 y BackBox Linux 6 - amd64
 
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Backbox](https://backbox.org/ "Web Oficial del Sistema Operativo Backbox"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar Backbox](https://www.backbox.org/download/ "Descargar el Sistema Operativo BackBox"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial Backbox](https://backbox.org/ "Web Oficial del Sistema Operativo Backbox"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar Backbox](https://www.backbox.org/download/ "Descargar el Sistema Operativo BackBox"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **5. CAINE**
+## 5. **CAINE**
 
 ![Captura de pantalla del Sistema Operativo Caine SO, Ciberninjas](/assets/img/paginas/so-hack/12-caine-11.webp "Captura de pantalla del Sistema Operativo Caine SO, Ciberninjas")
 
@@ -173,11 +172,11 @@ Existe la posibilidad de ejecutarlo tanto desde un disco en vivo como instalarlo
 **Última Versión**: Diciembre 2019. CAINE 11.0
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial CAINE](https://www.caine-live.net/ "Web Oficial del Sistema Operativo CAINE"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar CAINE Linux](https://www.caine-live.net/page5/page5.html "Descargar el Sistema Operativo CAINE Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial CAINE](https://www.caine-live.net/ "Web Oficial del Sistema Operativo CAINE"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar CAINE Linux](https://www.caine-live.net/page5/page5.html "Descargar el Sistema Operativo CAINE Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **6. Network Security**
+## 6. **Network Security**
 
 ![Captura de pantalla del Sistema Operativo Network Security, Ciberninjas](/assets/img/paginas/so-hack/nst-1.webp "Captura de pantalla del Sistema Operativo Network Security, Ciberninjas")
 
@@ -194,11 +193,11 @@ Con todo, un sistema operativo bastante extenso que permitirá realizar la mayor
 **Última Versión**: Julio 2019. Network Security Toolkit 30
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial NST](https://www.networksecuritytoolkit.org/nst/index.html "Web Oficial del Sistema Operativo NST"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar NST Linux](https://sourceforge.net/projects/nst/files/ "Descargar el Sistema Operativo NST Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial NST](https://www.networksecuritytoolkit.org/nst/index.html "Web Oficial del Sistema Operativo NST"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar NST Linux](https://sourceforge.net/projects/nst/files/ "Descargar el Sistema Operativo NST Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **7. Arch Strike**
+## 7. **Arch Strike**
 
 ![Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas](/assets/img/paginas/so-hack/arch-stricke-1.webp "Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas")
 
@@ -217,11 +216,11 @@ Es un sistema operativo LIVE y se puede grabar sobre memorias USB o unidades de 
 **Última Versión**: Junio 2019.
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Arch Strike](https://archstrike.org/ "Web Oficial del Sistema Operativo Arch Strike"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar Arch Strike](https://archstrike.org/downloads "Descargar el Sistema Operativo Arch Strike Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial Arch Strike](https://archstrike.org/ "Web Oficial del Sistema Operativo Arch Strike"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar Arch Strike](https://archstrike.org/downloads "Descargar el Sistema Operativo Arch Strike Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **8. Dracos Linux**
+## 8. **Dracos Linux**
 
 ![Captura de pantalla del Sistema Operativo DracOS, Ciberninjas](/assets/img/paginas/so-hack/13-dracos-v2.webp "Captura de pantalla del Sistema Operativo DracOS, Ciberninjas")
 
@@ -240,11 +239,11 @@ En pocas palabras, pruébalo si deseas obtener la menor experiencia de Pentestin
 **Última Versión**: Mayo 2019. DracOS Versión 4.0
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial DRACOS](https://dracos-linux.org/ "Web Oficial del Sistema Operativo DracOS"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar DracOS](https://dracos-linux.org/downloads.php "Descargar el Sistema Operativo DracOS Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial DRACOS](https://dracos-linux.org/ "Web Oficial del Sistema Operativo DracOS"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar DracOS](https://dracos-linux.org/downloads.php "Descargar el Sistema Operativo DracOS Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **9. DEFT Linux**
+## 9. **DEFT Linux**
 
 ![Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas](/assets/img/paginas/so-hack/5-deft-pantalla.webp "Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas")
 > **Fuente**: [Welive Security](https://www.welivesecurity.com/la-es/2016/02/23/distribuciones-gratuitas-analisis-forense/){:target="_blank" rel="nofollow,noreferrer"}
@@ -264,13 +263,13 @@ Junto con estas herramientas que lo convierten en uno de los mejores sistemas op
 **Última Versión**: Enero 2017. DEFT Linux 2017.1 "Zero"
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial DEFT](http://www.deftlinux.net/ "Web Oficial del Sistema Operativo Deft Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ DEscargar DEFT Linux](https://distrowatch.com/?newsid=09723 "Descargar el Sistema Operativo DEFT Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial DEFT](http://www.deftlinux.net/ "Web Oficial del Sistema Operativo Deft Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ DEscargar DEFT Linux](https://distrowatch.com/?newsid=09723 "Descargar el Sistema Operativo DEFT Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > 🔐 No te Olvides de Visitar: [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow,noreferrer"}
 
-## **10. Pentoo**
+## 10. **Pentoo**
 
 ![Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas](/assets/img/paginas/so-hack/7-pentoo-live.webp "Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas")
 > **Fuente**: [Wikipedia](https://es.wikipedia.org/wiki/Pentoo#/media/Archivo:Pentoo-screen.png){:target="_blank" rel="nofollow,noreferrer"}
@@ -288,11 +287,11 @@ En pocas palabras, puede que no sea el mejor Linux para hackear, pero sin duda e
 **Última Versión**: Año 2015. Pentoo 2015.0 RC5 (x86 still on RC4.6)
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Pentoo](https://www.pentoo.ch/ "Web Oficial del Sistema Operativo Pentoo Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar Pentoo Linux](https://www.pentoo.ch/download/ "Descargar el Sistema Operativo Pentoo Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial Pentoo](https://www.pentoo.ch/ "Web Oficial del Sistema Operativo Pentoo Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar Pentoo Linux](https://www.pentoo.ch/download/ "Descargar el Sistema Operativo Pentoo Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **11. Samurai Web Testing Framework**
+## 11. **Samurai Web Testing Framework**
 
 ![Captura de pantalla del Sistema Operativo de Samurai Web Testing, Ciberninjas](/assets/img/paginas/so-hack/4-samurai.webp "Captura de pantalla del Sistema Operativo de Samurai Web Testing, Ciberninjas")
 
@@ -313,9 +312,21 @@ Algunas de las herramientas incluidas en Samurai son: SQLBrute, BurpSuit, SpikeP
 **Última Versión**: Enero 2016. SamuraiWTF 3.0 Branch
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Samurai Web Testing Linux](http://www.samurai-wtf.org/ "Web Oficial del Sistema Operativo Samurai Web Testing Framework"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⏩ Descargar Samurai Web Testing Linux](https://sourceforge.net/projects/samurai/files/ "Descargar el Sistema Operativo Samurai Web Testing Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 Web Oficial Samurai Web Testing Linux](http://www.samurai-wtf.org/ "Web Oficial del Sistema Operativo Samurai Web Testing Framework"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Descargar Samurai Web Testing Linux](https://sourceforge.net/projects/samurai/files/ "Descargar el Sistema Operativo Samurai Web Testing Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+
+### **Relacionados** <!-- omit in toc -->
+
+[Web Hacking 101: Cómo hacer Dinero Hackeando](https://ciberninjas.com/catalogo/web-hacking-101-como-hacer-dinero-hackeando-eticamente/)
+
+[El Libro Blanco del Hacker](https://ciberninjas.com/catalogo/el-libro-blanco-del-hacker/)
+
+[🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux](https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-principiantes/)
+
+[▷ UbuntuDDE: Potente SO de Ubuntu](https://ciberninjas.com/ubuntudde-ubuntu-deepin/)
+
+[Arranque Rápido para el Kernel de Linux](https://ciberninjas.com/arranque-r%C3%A1pido-para-el-kernel-de-linux-en-camino/)
 <!-- https://www.deepwebsiteslinks.com/best-os-for-hacking/ -->
 <!-- https://fwhibbit.es/toolkits-para-hacking-ii-distribuciones-para-auditorias-de-seguridad -->
