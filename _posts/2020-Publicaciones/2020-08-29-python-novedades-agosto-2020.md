@@ -108,6 +108,8 @@ De ahora en adelante, cualquier módulo de extensión que use la ABI estable fun
 
 [▷ Los Mejores Recursos para Aprender Python 🐍](https://ciberninjas.com/python-recursos/)
 
+[Diccionario de Python](https://ciberninjas.com/glosario/completo-tecnologias-python/)
+
 [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](https://ciberninjas.com/que-aprender-sobre-machine-learning-2020/)
 
 [▷ ¿Qué diferencia existe entre Inteligencia Artificial, Aprendizaje Automático y Aprendizaje Profundo?](https://ciberninjas.com/diferencias-entre-ai-ml-dl/)
