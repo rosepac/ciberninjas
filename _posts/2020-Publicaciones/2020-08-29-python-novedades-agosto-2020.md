@@ -22,7 +22,9 @@ published: true
 
 La próxima versión de Python se propone implementar lanzamientos más rápidos, mejoras del rendimiento, nuevas funciones en el uso de las cadenas, nuevos operadores de unión y API internas más consistentes y estables.
 
-A principios de Mayo, la Python Software Foundation abrió el telón de la primera versión beta de Python 3.9, cuyo lanzamiento de producción está programado para Octubre. Con el lanzamiento de la versión beta, se han establecido todos los cambios importantes para Python 3.9, lo que significa que ha llegado el momento de conocer los cambios y nuevas modificaciones para la próxima versión de Python.
+A principios de Mayo, la Python Software Foundation abrió el telón de la primera versión beta de Python 3.9, cuyo lanzamiento de producción está programado para Octubre.
+
+Con el lanzamiento de la versión beta, se han establecido todos los cambios importantes para Python 3.9, lo que significa que ha llegado el momento de conocer los cambios y nuevas modificaciones para la próxima versión de Python.
 
 A continuación, un resumen de todas las nuevas características para la nueva versión de Python 3.9.
 
