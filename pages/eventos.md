@@ -24,22 +24,10 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Agosto**
 
-### 🔔 28 de Agosto
-
-- (00:00 AM H. ESP.) Gestión de memoria en java 🗞 [Registrarse](https://www.eventbrite.com.ar/e/meetup-edicion-agosto-tickets-117779083409?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) ¿Qué hace un diseñador industrial? 🗞 [Registrarse](https://que-hace-un-disenador-industrial.eventbrite.com.mx){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) Diseño: Taller de Experimento de color y forma 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-de-experimento-de-color-y-forma-tickets-116794989959){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) Workshop: Tu primera wallet 🗞 [Registrarse](https://www.eventbrite.com.ar/e/workshop-tu-primera-wallet-tickets-117546409475){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) Taller de Ingeniería de audio 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-formacion-de-sonideras-agosto-septiembre-y-octubre-registration-114998519668?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (01:00 AM H. ESP.) Introducción a la blockchain de Algorand 🗞 [Registrarse](https://www.eventbrite.com/e/introduccion-a-la-blockchain-de-algorand-tickets-116656995213?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (02:00 AM H. ESP.) Python explicado en ABC/Sesiones en vivo. 🗞 [Registrarse](https://www.eventbrite.com.mx/e/python-explicado-en-abcsesiones-en-vivo-tickets-114348643872){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (04:00 AM H. Española) Portales de Revistas Científicas: trabajo colaborativo y redes 👉 [REGISTRO](https://117354116321.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 29 de Agosto
 
 - NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (17:00 PM H. Española - 10:00 AM H. México CDMX) Seguridad en Base de Datos 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-seguridad-en-base-de-datos-117898049239?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 PM H. ESP - 16 H. Argentina) Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Eventos tecnológicos de Septiembre**
@@ -74,6 +62,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
 - (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (17:00 PM H. Española - 10:00 AM H. México CDMX) Seguridad en Base de Datos 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-seguridad-en-base-de-datos-117898049239?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 6 de Septiembre
 
@@ -572,3 +561,14 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (23:30 PM H. Española) Arquitectura: Hablemos de Microservicios! 👉 [REGISTRO](https://www.eventbrite.com.ar/e/webinar-arquitectura-hablemos-de-microservicios-tickets-116996123555?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (23:30 PM H. Española) Women Tech Camp: Mujeres Tech creando ideas innovadoras en Retail 👉 [REGISTRO](https://www.eventbrite.com.ar/e/women-tech-camp-tickets-115774142577){:target="_blank" rel="nofollow, noreferrer"}
 - (23:30 PM H. Española) Diseño: Una historia sobre el pincel, el rótulo y la tipografía 👉 [REGISTRO](https://www.eventbrite.com.ar/x/byl7-una-historia-sobre-el-pincel-el-rotulo-y-la-tipografia-gen-ramirez-tickets-117783687179){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 28 de Agosto
+
+- (00:00 AM H. ESP.) Gestión de memoria en java 🗞 [Registrarse](https://www.eventbrite.com.ar/e/meetup-edicion-agosto-tickets-117779083409?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- (00:00 AM H. ESP.) ¿Qué hace un diseñador industrial? 🗞 [Registrarse](https://que-hace-un-disenador-industrial.eventbrite.com.mx){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- (00:00 AM H. ESP.) Diseño: Taller de Experimento de color y forma 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-de-experimento-de-color-y-forma-tickets-116794989959){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- (00:00 AM H. ESP.) Workshop: Tu primera wallet 🗞 [Registrarse](https://www.eventbrite.com.ar/e/workshop-tu-primera-wallet-tickets-117546409475){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- (00:00 AM H. ESP.) Taller de Ingeniería de audio 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-formacion-de-sonideras-agosto-septiembre-y-octubre-registration-114998519668?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- (01:00 AM H. ESP.) Introducción a la blockchain de Algorand 🗞 [Registrarse](https://www.eventbrite.com/e/introduccion-a-la-blockchain-de-algorand-tickets-116656995213?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- (02:00 AM H. ESP.) Python explicado en ABC/Sesiones en vivo. 🗞 [Registrarse](https://www.eventbrite.com.mx/e/python-explicado-en-abcsesiones-en-vivo-tickets-114348643872){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- (04:00 AM H. Española) Portales de Revistas Científicas: trabajo colaborativo y redes 👉 [REGISTRO](https://117354116321.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
