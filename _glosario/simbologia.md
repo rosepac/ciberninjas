@@ -8,8 +8,8 @@ description: "Simbología"
 excerpt: "Conjunto o sistema de símbolos."
 permalink: /glosario/simbologia/
 canonical_URL: https://ciberninjas.com/glosario/simbologia/
-feature-img: /assets/img/glosario/simbología.webp
-img: /assets/img/glosario/simbología.webp
+feature-img: /assets/img/glosario/simbologia.webp
+img: /assets/img/glosario/simbologia.webp
 ---
 
 **Conjunto o sistema de símbolos.**
