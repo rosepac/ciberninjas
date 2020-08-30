@@ -103,6 +103,7 @@ La segunda iniciativa dedicada a la limpieza, es un ABI interno estable para CPy
 Históricamente, cada revisión principal de Python ha sido incompatible con ABI y sus versiones anteriores, lo que requiere que se recompilen módulos de extensión para cada nueva versión.
 
 De ahora en adelante, cualquier módulo de extensión que use la ABI estable funcionará en las versiones de Python. Con Python 3.9, los siguientes módulos de la biblioteca estándar utilizan una versión estable ABI: `audioop, ast, grp, _hashlib, pwd, _posixsubprocess, random, select, struct, termios, zlib`.
+<!-- https://www.infoworld.com/article/3543885/python-39-whats-new-and-better.html -->
 
 ### **Relacionados** <!-- omit in toc -->
 
@@ -119,7 +120,5 @@ De ahora en adelante, cualquier módulo de extensión que use la ABI estable fun
 [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](https://ciberninjas.com/aprendizaje-automatico-cursos-ingles/)
 
 [▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial](https://ciberninjas.com/11-aprendizajes-principiantes-inteligencia-artificial/)
-
-▷ Cómo Aprender Python en 2020 🐍: ▷ Cómo Aprender Python en 2020 🐍
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
