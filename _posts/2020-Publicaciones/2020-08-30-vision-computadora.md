@@ -99,9 +99,7 @@ Como hemos visto, los sistemas de visión por computadora se han vuelto lo sufic
 
 [▷ Cómo Aprender Python en 2020 🐍](https://ciberninjas.com/python/)
 
-[▷ Los Mejores Recursos para Aprender Python 🐍](https://ciberninjas.com/python-recursos/)
-
-[Diccionario de Python](https://ciberninjas.com/glosario/completo-tecnologias-python/)
+[🧠 ▷ Cómo Aprender Inteligencia Artificial](https://ciberninjas.com/inteligencia-artificial/)
 
 [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](https://ciberninjas.com/que-aprender-sobre-machine-learning-2020/)
 
