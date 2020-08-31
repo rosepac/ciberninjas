@@ -3,9 +3,10 @@
 layout: page
 author: rosepac
 bootstrap: true
+published: true
 comments: false
 tags: [Cursos Gratis, Flujos de Trabajo, Workflow]
-title: "▷ 22 Mejores cursos gratis de flujos de trabajo"
+title: "▷ 33 Mejores cursos gratis de flujos de trabajo"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre flujos de trabajo, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre flujos de trabajo, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
@@ -20,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 💼 Metodologías de Desarrollo
+## Metodologías de Desarrollo 💼 
 
 [Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large} [QA Pruebas](/cursos-tecnologia/#QA-Pruebas){: .btn .btn--inverse .btn--large}
 

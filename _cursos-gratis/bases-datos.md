@@ -3,12 +3,13 @@
 layout: page
 author: rosepac
 bootstrap: true
+published: true
 comments: false
 tags: [Cursos Gratis, Bases de Datos]
-title: "▷ 22 Mejores cursos gratis de bases de datos"
+title: "▷ 26 Mejores cursos gratis de bases de datos"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
-date: 2020-08-21 10:22:00
+date: 2020-08-30 10:22:00
 permalink: /cursos-bases-datos/
 canonical_URL: https://ciberninjas.com/cursos-bases-datos/
 thumbnail: "/assets/img/paginas-cursos/cursos-bases-datos.webp"
@@ -53,18 +54,9 @@ img: "/assets/img/paginas-cursos/cursos-bases-datos.webp"
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Machine Learning
+## SQL
 
-* [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
-* [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)
-* [Aprendizaje Automático con Python: Una introducción práctica](https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python){:target="_blank" rel="nofollow,noreferrer"} (IBM)
-* [Aprendizaje Automático y Ciencia de Datos](https://www.edx.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
-* [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
-* [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
-* [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank" rel="nofollow,noreferrer"} (Google Developers)
-* [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
-* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
-* [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
-
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+* 🔐 **PAGO ACTUALMENTE** [Comienza con SQL: descarga los datos tu mismo con SQL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomienza-con-sql%2F) (Udemy)
+* [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
+* [Introducción a SQL con Oracle 11g](https://kutt.it/intro-sql-oracle-11){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Sistema de Login en Visual Basic y SQL Server en Capas](https://kutt.it/loguin-visualbasic-sql-capas){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)

@@ -3,12 +3,13 @@
 layout: page
 author: rosepac
 bootstrap: true
+published: true
 comments: false
 tags: [Cursos Gratis, Ciencias de Computación]
-title: "▷ 22 Mejores cursos gratis de ciencias de computación"
+title: "▷ 85 Mejores cursos gratis sobre ciencias de la computación"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto"
-date: 2020-08-21T10:22:00.000+02:00
+date: 2020-08-30T09:22:00.000+02:00
 permalink: /cursos-ciencias-computacion/
 canonical_URL: https://ciberninjas.com/cursos-ciencias-computacion/
 thumbnail: "/assets/img/paginas-cursos/cursos-ciencias-computacion.webp"
