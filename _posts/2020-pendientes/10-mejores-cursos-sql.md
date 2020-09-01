@@ -30,6 +30,8 @@ Los programadores en ciernes o los graduados en ciencias de la computación que 
 Pero con cientos de opciones para elegir, puede ser difícil encontrar plataformas con excelentes tutoriales.
 
 Para su ayuda, hemos creado una lista de las principales plataformas en línea que ofrecen la experiencia de aprendizaje más fluida y enriquecedora en SQL.
+
+Los siguientes cursos están en el idioma de inglés.
 <!-- https://hackr.io/blog/best-sql-courses -->
 <!-- https://hackr.io/es/tutorials/learn-sql -->
 <!-- https://hackernoon.com/top-5-sql-and-database-courses-to-learn-online-48424533ac61 -->
