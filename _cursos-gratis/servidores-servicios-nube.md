@@ -24,6 +24,11 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 - [Servidores y Servicios Nube ⛅](#servidores-y-servicios-nube-)
 - [Docker <i class="fab fa-docker"></i>](#docker-i-classfab-fa-dockeri)
 - [Node <i class="fab fa-node-js"></i>](#node-i-classfab-fa-node-jsi)
+- [**¿Qué es Docker?**](#qué-es-docker)
+- [**¿Cuáles son los requisitos previos para aprender Docker?**](#cuáles-son-los-requisitos-previos-para-aprender-docker)
+- [**¿Por qué debería aprender Docker?**](#por-qué-debería-aprender-docker)
+- [**¿Cómo Ciberninjas va a ayudarte a a encontrar los mejores Tutoriales de Docker?**](#cómo-ciberninjas-va-a-ayudarte-a-a-encontrar-los-mejores-tutoriales-de-docker)
+- [Plataforma de Google Cloud](#plataforma-de-google-cloud)
 
 ## Servidores y Servicios Nube ⛅
 
@@ -84,3 +89,40 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp)
+
+<!-- seccionar a una página de docker -->
+## **¿Qué es Docker?**
+
+Docker se utiliza principalmente para Linux y ejecuta la virtualización a nivel de sistema operativo, que también se denomina contenedorización. Docker hace uso de las características de aislamiento de recursos de Kernel para permitir que los 'contenedores' independientes funcionen dentro de una sola instancia de Linux, lo que ayuda a evitar la sobrecarga de ejecutar máquinas virtuales. La popularidad de Docker se puede comprender por el hecho de que más de 3 millones de aplicaciones se han colocado en contenedores utilizando la tecnología y se han descargado más de 35 mil millones de aplicaciones en contenedores.
+
+## **¿Cuáles son los requisitos previos para aprender Docker?**
+
+Una buena comprensión de las características del Kernel de Linux será útil para aprender a Docker. Estas características incluyen la asignación de recursos, la gestión de la memoria, la organización de la tienda y la comunicación del programa. Esto se debe a que el propósito principal de Docker es administrar varias características del Kernel, incluidos Cgroups, Namespaces, Copy-on-Write y montaje de enlaces. Además, también será útil una comprensión básica de los conceptos de redes como socket, enrutamiento, protocolo IP, iptables y arquitectura de servidor / cliente. Hay algunos tutoriales de Docker disponibles que lo guiarán a través de estos conceptos en un método fácil de entender.
+
+## **¿Por qué debería aprender Docker?**
+
+Docker ofrece una virtualización ligera con una sobrecarga insignificante. Esto tiene algunas ventajas importantes, ya que uno puede beneficiarse de una capa adicional de abstracción que ofrece el programa, sin preocuparse por los gastos generales. Además, Docker puede lograr que el contenedor suba y baje en cuestión de segundos, lo que tiene un gran impacto a largo plazo. También tiene seguimiento de versiones incorporado y soporte para compilaciones de control automático, lo que aumenta su accesibilidad.
+
+## **¿Cómo Ciberninjas va a ayudarte a a encontrar los mejores Tutoriales de Docker?**
+
+Puede aprender Docker usando los mejores tutoriales de Docker disponibles en Ciberninjas, que incluyen tutoriales gratuitos y de pago; también existen diversos cursos en la programación de Docker en función del nivel de habilidad de los usuarios, donde tanto los principiantes como los expertos pueden optar por un curso que coincida con su conjunto de habilidades.
+
+Todos los cursos disponibles en la plataforma son enviados y votados por los miembros de la comunidad, lo que los hace fáciles de aprender. Siga los tutoriales y cursos de Docker en Ciberninjas y mantente informado sobre las últimas noticias, conocimientos, consejos y trucos.
+
+<!-- seccionar a una página de Microsoft Azure -->
+¿Qué es Microsoft Azure?
+Microsoft Azure es una plataforma de computación en la nube pública diseñada por Microsoft. Su nombre anterior era Windows Azure, que se cambió en 2014 debido a sus características ampliadas. Ofrece una gama de servicios como la creación, la gestión, las pruebas y la implementación de servicios y aplicaciones web. Gestiona aplicaciones a través de los centros de datos ubicados globalmente mediante la ejecución de estas funciones vitales. Microsoft Azure es muy beneficioso para desarrollar nuevas aplicaciones o para ejecutar y escalar la existente.
+
+¿Cuáles son los requisitos previos para aprender Microsoft Azure?
+¿Conoce el entorno de Windows? ¡Excelente! Ya cumpliste con el primer requisito básico para aprender Microsoft Azure. Además, será bueno tener una familiaridad básica con la computación en nube. Y estás listo para empezar.
+
+¿Por qué debería aprender Microsoft Azure?
+Microsoft Azure mantiene cientos de servicios útiles para aplicaciones móviles y web. Ofrece bases de datos, capacidad de almacenamiento de archivos, máquinas virtuales completas y otras características. Con base en estos muchos servicios, un usuario puede hacer muchas cosas. La plataforma de nube flexible ofrece SaaS (software como servicio), PaaS (plataforma como servicio) e IaaS (infraestructura como servicio). Sea cual sea el software que desee ejecutar, hágalo configurando hosts como una máquina virtual de Windows o Linux. Puede realizar conexiones remotas a dispositivos informáticos utilizando la nube. Además, Microsoft Azure se puede utilizar con muchos lenguajes de programación, varias herramientas y marcos. Definitivamente, uno debe aprender programación de Microsoft Azure para aprovechar este servicio en la nube líder y hacer que su producto sea sólido para los usuarios.
+
+¿Cómo puede Ciberninjas ayudarlo a encontrar los mejores tutoriales de Microsoft Azure?
+No necesita buscar contenido y tutoriales de primer nivel para Microsoft Azure porque ya lo hemos hecho por usted. Ciberninjas es un gran sitio para encontrar los mejores tutoriales de Microsoft Azure. eres un principiante? Sin preocupaciones. El proceso de aprendizaje paso a paso de los tutoriales de Microsoft Azure lo ayudará a obtener un conocimiento profundo y de nivel experto. Además, puede participar con nuestras últimas noticias relacionadas con Microsoft Azure. Puede plantear sus dudas en el foro de Microsoft Azure y también consultar los eventos de Azure cerca de usted.
+
+<!-- seccionar a una página de Google Cloud -->
+## Plataforma de Google Cloud
+
+Aprenda cualquier servicio bajo el paraguas de Google Cloud Platform de estos mejores tutoriales y cursos en línea de Google Cloud recomendados por la comunidad de programación. Utilice filtros (en el lado derecho de esta página) para encontrar los mejores tutoriales sobre Google Compute Engine, Google App Engine, Bigtable, BigQuery, Google Storage, Google Cloud Functions, Google Cloud Datastore o tutoriales para la certificación de Google Cloud Platform. Este es su centro de formación en línea de Google Cloud Platform.
