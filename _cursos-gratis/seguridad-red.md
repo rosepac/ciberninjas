@@ -12,9 +12,9 @@ excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre seguridad
 date: 2020-08-21T10:22:00.000+02:00
 permalink: /cursos-seguridad/
 canonical_URL: https://ciberninjas.com/cursos-seguridad/
-thumbnail: "/assets/img/paginas-cursos/cursos-seguridad.webp"
-feature-img: "/assets/img/paginas-cursos/cursos-seguridad.webp"
-img: "/assets/img/paginas-cursos/cursos-seguridad.webp"
+thumbnail: "/assets/img/paginas-cursos/cursos-seguridad-red.webp"
+feature-img: "/assets/img/paginas-cursos/cursos-seguridad-red.webp"
+img: "/assets/img/paginas-cursos/cursos-seguridad-red.webp"
 
 ---
 
