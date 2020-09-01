@@ -19,3 +19,5 @@ img: "/assets/img/paginas-cursos/cursos-navegadores.webp"
 ---
 
 * [Los Mejores Trucos con las Herramientas de Desarrollo de Chrome](/trucos-herramientas-desarrollo-de-chrome/){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
+
+![](/assets/img/paginas-cursos/cursos-navegadores.webp)

@@ -60,3 +60,5 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 ### XML
 
 * [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+
+![](/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp)

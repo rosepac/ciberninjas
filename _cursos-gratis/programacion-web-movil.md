@@ -21,6 +21,15 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
+## Programación Web 👩‍💻
+
+* [Aplicaciones móviles (2011)](http://ocw.uc3m.es/ingenieria-telematica/aplicaciones-moviles){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Fundamentos de Programación Web para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-web-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* [Introducción a Tecnologías del Desarrollo con los Mejores](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmasters-desarrollo%2F){:target="_blank" rel="nofollow,noreferrer"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
+* [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpor-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+
 * [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 * [Curso de Firebase](https://www.youtube.com/playlist?list=PLEtcGQaT56chIjXff_cAEglfe6gBSNFHj) (Jesús Conde, Youtube)
 * [De Novato a Desarrollador Exitoso](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fde-novato-a-desarrollador-exitoso	){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -97,3 +106,5 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 * [Vue, JavaScript y desarrollo Web moderno](https://escuelavue.es/series){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+![](/assets/img/paginas-cursos/cursos-programacion-web-movil.webp)

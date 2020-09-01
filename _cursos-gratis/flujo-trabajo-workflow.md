@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Metodologías de Desarrollo 💼 
+## Metodologías de Desarrollo 💼
 
 [Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large} [QA Pruebas](/cursos-tecnologia/#QA-Pruebas){: .btn .btn--inverse .btn--large}
 
@@ -72,3 +72,5 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 * [Curso de programación para QA](https://jj.github.io/curso-tdd/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [Repositorio de Github](https://jj.github.io/curso-tdd/) (Github)
 
 [⏫ Subir a Metodologías](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+![](/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp)

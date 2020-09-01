@@ -31,3 +31,5 @@ img: "/assets/img/paginas-cursos/cursos-bootstrap.webp"
 * [Curso de Material Design y Boostrap 4 por Bluuweb](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-material-design-bootstrap-4-bluuweb) (Bluuweb!, YouTube)
 * [Fundamentos de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F) (Udemy)
 * [La biblia perdida de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F) (Udemy)
+
+![](/assets/img/paginas-cursos/cursos-bootstrap.webp)

@@ -33,4 +33,4 @@ img: "/assets/img/paginas-cursos/cursos-big-data.webp"
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
 
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+![](/assets/img/paginas-cursos/cursos-big-data.webp)

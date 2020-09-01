@@ -21,65 +21,59 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 📁 Bases de Datos
+## 🤖 Robótica
 
-[Big Data 👨‍👩‍👦](/cursos-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large}
+[Arduino 🔦](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Casas Inteligentes 🏡](/cursos-tecnologia/#casas-inteligentes-){: .btn .btn--inverse .btn--large}  [Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn--inverse .btn--large} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#raspberry-pi){: .btn .btn--inverse .btn--large}
 
-* [Administración de Bases de Datos](https://ouo.io/3lo31e){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Administración de Oracle](https://ouo.io/mFbGMZ){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2010)
-* [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Aprende SQL Developer básico en 30 minutos. Introducción](https://ouo.io/E0zu9S){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Bases de Datos (2015)](http://repositori.uji.es/xmlui/handle/10234/168735){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Bases de Datos I (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/bases-de-datos-i-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Bases de Datos desde cero](https://www.youtube.com/playlist?list=PLzSFZWTjelbJ01UciHPAWTqUFWesoGr9A){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2016)
-* [CRUD Firestore "Firebase". Base de datos en tiempo real](https://www.youtube.com/playlist?list=PLPl81lqbj-4IdJzDKoih6vXDP2Y8w5RGq){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
-* [Curso de Bases de Datos](/bases-datos-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
-* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-* [Curso Firebase: Registro de usuarios](https://www.youtube.com/playlist?list=PLPl81lqbj-4JiR1Cio6xEygCZDmZmDUWI){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
-* [Curso SQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-* [Diseño de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Diseño y administración de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-y-administracion-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Ficheros y bases de datos (2008)](http://ocw.uc3m.es/cursos-archivados/ficheros-y-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de robótica, arduino y raspberry pi (2008)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de robótica, arduino y raspberry pi (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de robótica, arduino y raspberry pi (2012)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-las-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción a BBDD relacionales, SQL & MySQL](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-bbdd-sql-mysql){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-* [Introducción a las consultas SQL Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-las-consultas-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Oracle 12c](https://www.youtube.com/playlist?list=PLC7Ec2r5tkJA50X4rn6wffybgaGqYBlTA){:target="_blank" rel="nofollow,noreferrer"} (Ninja Web, YouTube)
-* [PHP y MySql: Aprende a trabajar con base de datos](https://www.youtube.com/playlist?list=PLPl81lqbj-4IGS74m9lv1zLOWJzsLjWC_){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube) [Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-php-y-mysql%2F){:target="_blank" rel="nofollow,noreferrer"}
-* [Recuperación y Acceso a la Información (2017)](http://ocw.uc3m.es/ingenieria-informatica/recuperacion-acceso-informacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Diseña, fabrica y programa tu propio robot](https://www.edx.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+* [Diseño y fabricación de un robot móvil](https://www.youtube.com/playlist?list=PL9A2AEC3E2F1BD975){:target="_blank" rel="nofollow,noreferrer"} (entivoo, YouTube)
+* [Empleo del ordenador personal en la instrumentación de panel (2012)](https://ocw.ehu.eus/course/view.php?id=54){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Iniciación al mundo de los aeronaves tripulados en remoto (drones)](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* [Internet de las Cosas. Desarrollar soluciones en 'FIWARE'](https://miriadax.net/web/internet-de-las-cosas-como-desarrollar-soluciones-en-fiware){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* [Modelos y técnicas para el diseño de comportamientos de robots autónomos (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/modelos-y-tecnicas-para-el-diseno-de-comportamientos-de-robots-autonomos-2008.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Redes de Neuronas Artificiales (2017)](http://ocw.uc3m.es/ingenieria-informatica/redes-de-neuronas){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Redes Neuronales Artificiales y sus Aplicaciones (2012)](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Robótica (2016)](https://ocw.ehu.eus/course/view.php?id=393){:target="_blank" rel="nofollow,noreferrer"} (OCW) [(2017)](https://ocw.ehu.eus/course/view.php?id=442)
+* [Robótica para construir un seguidor de línea](https://www.youtube.com/playlist?list=PL474193D71724D6FE){:target="_blank" rel="nofollow,noreferrer"} (Curso de Robótica, YouTube)
+* [Robótica para construir un seguidor de luz](https://www.youtube.com/playlist?list=PL04D5D8A70C1D8DC2){:target="_blank" rel="nofollow,noreferrer"} (Curso de Robótica, YouTube)
+* [Robots autónomos (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/robots-autonomos-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Taller de Prototipos]
+* [Técnicas de Reconocimiento y Síntesis del Habla (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-reconocimiento-y-sintesis-del-habla-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Big Data 👨‍👩‍👦
+## Arduino 🔦
 
-* [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
-* [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Big Data Sin Misterios](https://www.edx.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
-* [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
+* [Arduino desde Cero - Primer Módulo](https://www.udemy.com/innova-arduino-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Arduino desde Cero](https://www.youtube.com/channel/UC4unPLtykzwO7MB3IvaQZaA/playlists){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2017)
+* [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
+* [Crea un sistema de riego automático con Arduino](https://www.udemy.com/sistema-de-riego-automatico-con-arduino9){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Curso gratuito de Arduino](https://www.youtube.com/watch?v=Fl2uQXn7MCg&list=PLpOqH6AE0tNjRWhQms3T8l-4b9oUyr_xB){:target="_blank" rel="nofollow,noreferrer"} (Código Facilito, Youtube)
+* [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+## Casas Inteligentes 🏡
 
-## Machine Learning
 
-* [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
-* [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)
-* [Aprendizaje Automático con Python: Una introducción práctica](https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python){:target="_blank" rel="nofollow,noreferrer"} (IBM)
-* [Aprendizaje Automático y Ciencia de Datos](https://www.edx.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
-* [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
-* [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
-* [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank" rel="nofollow,noreferrer"} (Google Developers)
-* [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
-* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
-* [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
+## Inteligencia Artificial
 
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+* [Curso de Open AI](/open-ai-gym-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
+* [Curso de C# aplicado a la Inteligencia Artificial](/inteligencia-artificial-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
+* [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
+* [Herramientas de la Inteligencia Artificial (2010)](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Inteligencia artificial: Prolog (2011)](https://campusvirtual.ull.es/ocw/course/view.php?id=104){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Introducción a la Inteligencia Artificial](https://www.edx.org/course/introduccion-a-la-inteligencia-artificial){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Anáhuac - México)
+* [Técnicas de inteligencia artificial (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-inteligencia-artificial-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+
+[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Raspberry Pi
+
+* [Aprende a manejar Raspberry Pi con Python](https://unipython.com/curso-raspberry-pi){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
+* [Raspberry Pi 3](https://www.youtube.com/playlist?list=PLNipMBg3MF-aD-LQuyfj7z5Oqb3TqHjFa){:target="_blank" rel="nofollow,noreferrer"} (Editronikx, YouTube)
+* [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor){:target="_blank" rel="nofollow,noreferrer"} (Udemy - Subtítulos en Español) (2017)
+* [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+
+![](/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp)

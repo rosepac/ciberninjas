@@ -61,3 +61,5 @@ img: "/assets/img/paginas-cursos/cursos-marketing-digital.webp"
 ### Whatshapp
 
 * [Aumenta tus Ventas con WhatsApp Bussiness](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faumenta-tus-ventas-con-whatsapp-business%2F){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
+
+![](/assets/img/paginas-cursos/cursos-marketing-digital.webp)

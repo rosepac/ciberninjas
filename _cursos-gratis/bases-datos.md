@@ -60,3 +60,5 @@ img: "/assets/img/paginas-cursos/cursos-bases-datos.webp"
 * [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
 * [Introducción a SQL con Oracle 11g](https://kutt.it/intro-sql-oracle-11){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Sistema de Login en Visual Basic y SQL Server en Capas](https://kutt.it/loguin-visualbasic-sql-capas){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+
+![](/assets/img/paginas-cursos/cursos-bases-datos.webp)

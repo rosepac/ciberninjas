@@ -59,3 +59,5 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 * [Curso de trading y bolsa desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-trading-y-bolsa-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Trading Forex para principiantes - Estrategias Clave](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Festrategias-trading-forex-y-operaciones-bursatiles%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+
+![](/assets/img/paginas-cursos/cursos-blockchain-criptos.webp)

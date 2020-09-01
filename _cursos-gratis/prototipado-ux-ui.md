@@ -46,3 +46,5 @@ img: "/assets/img/paginas-cursos/cursos-prototipado.webp"
 ## Sistemas de Plantillas 🌱
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 * [Pug desde Cero](https://ed.team/cursos/pug)
+
+![](/assets/img/paginas-cursos/cursos-prototipado.webp)

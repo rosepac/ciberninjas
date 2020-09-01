@@ -49,4 +49,4 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 
 * [Curso básico de Dart](https://www.youtube.com/watch?v=dDZ-NOTjXiA&list=PLl_hIu4u7P65q3qDQfwoGF6sK9upzi3Jf){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, Youtube)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+![](/assets/img/paginas-cursos/cursos-android.webp)

@@ -30,3 +30,5 @@ img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 * [Procesadores de lenguajes -enfocado en Perl- ](https://campusvirtual.ull.es/ocw/course/view.php?id=45){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+
+![](/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp)

@@ -30,3 +30,5 @@ img: "/assets/img/paginas-cursos/cursos-seo-posicionamiento.webp"
 
 * [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 * [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+
+![](/assets/img/paginas-cursos/cursos-seo-posicionamiento.webp)

@@ -21,65 +21,50 @@ img: "/assets/img/paginas-cursos/cursos-redes.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 📁 Bases de Datos
+## 🕸 Redes
 
-[Big Data 👨‍👩‍👦](/cursos-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large}
+[Servidores y Servicios Nube ⛅](/cursos-tecnologia/#servidores-y-servicios-nube-){: .btn .btn--inverse .btn--large}
 
-* [Administración de Bases de Datos](https://ouo.io/3lo31e){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Administración de Oracle](https://ouo.io/mFbGMZ){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2010)
-* [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Aprende SQL Developer básico en 30 minutos. Introducción](https://ouo.io/E0zu9S){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Bases de Datos (2015)](http://repositori.uji.es/xmlui/handle/10234/168735){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Bases de Datos I (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/bases-de-datos-i-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Bases de Datos desde cero](https://www.youtube.com/playlist?list=PLzSFZWTjelbJ01UciHPAWTqUFWesoGr9A){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2016)
-* [CRUD Firestore "Firebase". Base de datos en tiempo real](https://www.youtube.com/playlist?list=PLPl81lqbj-4IdJzDKoih6vXDP2Y8w5RGq){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
-* [Curso de Bases de Datos](/bases-datos-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
-* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-* [Curso Firebase: Registro de usuarios](https://www.youtube.com/playlist?list=PLPl81lqbj-4JiR1Cio6xEygCZDmZmDUWI){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
-* [Curso SQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-* [Diseño de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Diseño y administración de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-y-administracion-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Ficheros y bases de datos (2008)](http://ocw.uc3m.es/cursos-archivados/ficheros-y-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de las bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de las bases de datos (2012)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-las-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción a BBDD relacionales, SQL & MySQL](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-bbdd-sql-mysql){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-* [Introducción a las consultas SQL Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-las-consultas-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Oracle 12c](https://www.youtube.com/playlist?list=PLC7Ec2r5tkJA50X4rn6wffybgaGqYBlTA){:target="_blank" rel="nofollow,noreferrer"} (Ninja Web, YouTube)
-* [PHP y MySql: Aprende a trabajar con base de datos](https://www.youtube.com/playlist?list=PLPl81lqbj-4IGS74m9lv1zLOWJzsLjWC_){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube) [Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-php-y-mysql%2F){:target="_blank" rel="nofollow,noreferrer"}
-* [Recuperación y Acceso a la Información (2017)](http://ocw.uc3m.es/ingenieria-informatica/recuperacion-acceso-informacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Aprende Seguridad desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Aprende Subnetting rápido y fácil](https://www.udemy.com/aprende-subnetting){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Arquitectura de Redes de Acceso y Medio Compartido (2012)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-redes-de-acceso-y-medio-compartido){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Arquitectura de Sistemas (2013)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-sistemas-2013){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Cisco Packet Tracer](https://www.youtube.com/playlist?list=PL19E8BE542D61D648){:target="_blank" rel="nofollow,noreferrer"} (My Cyber academy, Youtube)
+* [Computación en Red (2010)](http://ocw.uc3m.es/ingenieria-telematica/computacion-en-red){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Conmutación y enrutamiento en redes de datos](https://www.youtube.com/playlist?list=PLCLpAU8VN0j5Af8nTf3m4nb6rgLyxXsoN){:target="_blank" rel="nofollow,noreferrer"} (MasterHeHeGar, YouTube)
+* [Curso de Cisco CCNA Security](https://www.youtube.com/playlist?list=PLaIfoQXPzU1aq7dO0wAPb-2_CBTrTHY7Q){:target="_blank" rel="nofollow,noreferrer"} (Capacity Academy, Youtube)
+* [Curso de Cisco CCNA Voice](https://www.youtube.com/playlist?list=PLaIfoQXPzU1ZHlmWNAJl6FJbuMbKaAGap){:target="_blank" rel="nofollow,noreferrer"} (Capacity Academy, Youtube)
+* [Curso de Redes Cisco desde 0](https://www.youtube.com/playlist?list=PL9PVpHyFuKvDrZcsBa9w0ZooqQXbI78FU){:target="_blank" rel="nofollow,noreferrer"} (Cuco PC, Youtube)
+* [Curso de Redes, Servidores](https://www.youtube.com/playlist?list=PLLHOPu6oQLpRmMvBux-sCe6pk2f8U650o){:target="_blank" rel="nofollow,noreferrer"} (Maynor Lopez, Youtube)
+* [Dimensionamiento y planificación de redes (2015)](https://ocw.unican.es/course/view.php?id=19){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Diseño y operación de redes telemáticas (2015)](https://ocw.unican.es/course/view.php?id=22){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Fundamentos de CISCO Packet Tracer](https://www.youtube.com/playlist?list=PL52690EAE4EBD641C){:target="_blank" rel="nofollow,noreferrer"} (Luis Pérez, YouTube)
+* [Fundamentos de las redes de comunicaciones: de las aplicaciones a los bits (2007)](http://ocw.uc3m.es/ingenieria-telematica/fundamentos-de-las-redes-de-comunicaciones-de-las-aplicaciones-a-los-bits){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [GNS3 Network Emulator: Instalación y configuración](https://www.udemy.com/gns3-network-emulator-instalacion-y-configuracion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Inteligencia en redes de comunicaciones (2011)](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Introducción al Internet de las Cosas y sus Aplicaciones](https://www.edx.org/es/course/introduccion-al-internet-de-las-cosas-iot-y-sus-ap){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Rosario)
+* [Introducción a la Internet de las Cosas](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/ingenieria-telematica/introduccion-a-la-internet-de-las-cosas){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Introducción a la Internet de las Cosas](https://www.edx.org/course/introduccion-al-internet-de-las-cosas-iot){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+* [Introducción a la Internet de las Cosas (IoT)](https://mva.microsoft.com/es-es/training-courses/introduccin-a-internet-de-las-cosas-iot-16907){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [IPV6](https://www.youtube.com/watch?v=kwvINZmmXeM&list=PLJ3jHT8E6frAuYS73uN2QLWi8qyXRyxo1){:target="_blank" rel="nofollow,noreferrer"} (Capacitación-LACNIC, YouTube)
+* [Protocolos de interconexión de redes (2012)](https://ocw.unican.es/course/view.php?id=159){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Redes (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=5662&p_caca=2008){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Redes (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/redes-2009.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Redes CCNP](https://www.youtube.com/playlist?list=PLgKLSBsqN8p9nka_cAYqX9O674QsNwrma){:target="_blank" rel="nofollow,noreferrer"} (Aruma Digital, Youtube)
+* [Redes Curso CCNA Esencial](https://www.youtube.com/playlist?list=PLC752553BDDC9C76C){:target="_blank" rel="nofollow,noreferrer"} (Aruma Digital, Youtube)
+* [Redes de área local e interconexión de Redes (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6071&p_caca=2008){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Redes en Español, Cisco Packet Tracer 7 y GNS3](https://www.youtube.com/playlist?list=PLYAyQauAPx8niwPYnDOFynhmHiQlXlG5K){:target="_blank" rel="nofollow,noreferrer"} (Code Stack, Youtube)
+* [Redes Informáticas para principiantes](https://www.youtube.com/playlist?list=PL_E3oggvOsRN1zS8nmbsFAPQ7_EV11Dux){:target="_blank" rel="nofollow,noreferrer"} (Tecnolucions, YouTube)
+* [Redes Locales](https://www.youtube.com/playlist?list=PL560563E196C1A85D){:target="_blank" rel="nofollow,noreferrer"} (Luis Pérez, YouTube)
+* [Redes Multimedia (2016)](http://ocw.uc3m.es/ingenieria-telematica/redes-multimedia){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Sistemas de telecomunicación privados (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6511&p_caca=2010){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Software de comunicaciones (2009)](http://ocw.uc3m.es/ingenieria-telematica/software-de-comunicaciones){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Tecnologías de distribuición de contenidos (2012)](http://ocw.uc3m.es/ingenieria-telematica/tecnologias-de-distribucion-de-contenidos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Telemática (2008)](http://ocw.uc3m.es/cursos-archivados/telematica){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Virtualización](http://nksistemas.com/curso-de-virtualizacion-online-y-gratuito-indice){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+* [Windows Server 2008 R2](http://nksistemas.com/curso-windows-server-2008-r2){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+* [Windows Server 2012](http://nksistemas.com/category/infraestructura/windows-2012){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+* [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## Big Data 👨‍👩‍👦
-
-* [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
-* [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Big Data Sin Misterios](https://www.edx.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
-* [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
-
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## Machine Learning
-
-* [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
-* [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)
-* [Aprendizaje Automático con Python: Una introducción práctica](https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python){:target="_blank" rel="nofollow,noreferrer"} (IBM)
-* [Aprendizaje Automático y Ciencia de Datos](https://www.edx.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
-* [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
-* [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
-* [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank" rel="nofollow,noreferrer"} (Google Developers)
-* [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
-* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
-* [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
-
-[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+![](/assets/img/paginas-cursos/cursos-redes.webp)

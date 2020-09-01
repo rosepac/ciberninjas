@@ -23,3 +23,9 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 * [Aprende accesibilidad web paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-accesibilidad-web-paso-a-paso%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+
+![](/assets/img/paginas-cursos/cursos-accesibilidad-web.webp)
+<!-- Por Actualizar -->
+<!-- Universidad de Murcia https://umumooc.um.es/ -->
+<!-- https://www.genbeta.com/a-fondo/50-mejores-cursos-online-2019 voy por introduccion a las reds sociales.. -->
+<!-- * [](){:target="_blank" rel="nofollow,noreferrer"} -->
