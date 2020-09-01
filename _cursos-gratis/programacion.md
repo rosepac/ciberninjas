@@ -131,6 +131,42 @@ img: "/assets/img/paginas-cursos/cursos-programacion.webp"
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
+## **¿Que es Java?**
+Java es considerado uno de los lenguajes de programación más importantes del mundo. Java se basa en el concepto de objetos y también se conoce como lenguaje de programación orientada a objetos (OOP). Como es un lenguaje compatible con redes, los programas creados a través de Java se pueden ejecutar en una variedad de plataformas. Además, proporciona un sistema seguro a través de un entorno de tiempo de ejecución. La programación Java funciona a través de un sistema robusto que elimina ciertos tipos de errores de programación y es fácil de aprender y usar.
+
+¿Cuáles son los requisitos previos para aprender Java?
+Antes de sumergirse en la programación de Java y buscar los mejores tutoriales de Java, es importante conocer los requisitos previos para aprender Java. Dado que Java es de naturaleza rudimentaria, no existen requisitos previos oficiales para aprenderlo. Sin embargo, el conocimiento de programación en un lenguaje básico como C será útil y lo ayudará a comprender los conceptos de Java. Sin embargo, si desea aprender programación Java de inmediato sin aprender nada más, es importante elegir un tutorial de Java de alta calidad y avanzar en un patrón de aprendizaje ordenado. 
+
+¿Por qué debería aprender Java?
+Java ha demostrado su valía a través de su diversidad de usos. Un informe sugirió que más de 450 empresas de las 500 empresas de Fortune utilizan Java. Esto se puede atribuir a la constante evolución de Java, que ha abierto nuevas vías para todo tipo de empresas. La plataforma continúa agregando características que la convierten en el lenguaje de programación perfecto para usar en cualquier escala de programación. La abundancia de programadores también se suma a la mezcla, ya que ayuda a que el lenguaje evolucione aún más. Uno debe aprender Java, ya que es una de las plataformas más modernas para aplicaciones móviles y web y es un lenguaje excelente para desarrollar aplicaciones de escritorio multiplataforma.
+
+¿Cómo puede Hackr.io ayudarlo a encontrar los mejores tutoriales de Java?
+Hackr.io es su plataforma de aprendizaje integral que ofrece varios tutoriales de Java para ayudarlo a poner en marcha sus proyectos de programación Java. Los tutoriales disponibles en el sitio web se actualizan y recomiendan periódicamente los miembros de la comunidad para ayudar a los programadores a encontrar el curso adecuado para sus necesidades de programación. Asimismo, existen múltiples comunidades y foros donde los programadores pueden interactuar y aclarar sus dudas de la comunidad. Siga la categoría Java en Hackr.io para mantenerse conectado y conocer las últimas noticias, artículos, consejos y trucos de Java.
+
+¿Cuáles son los mejores libros para aprender Java?
+Estos son algunos de los mejores libros de Java:
+
+• 	Eficaz Java por Joshua Bloch
+• 	Head First Java por Bert Bates y Kathy Sierra
+• 	Java 2: la referencia completa de Herbert Schildt
+• 	Pensando en Java por Bruce Eckel
+Para obtener una lista más completa y detallada de los mejores libros de Java, consulte los 10 mejores libros de Java para principiantes y programadores avanzados .
+<!-- https://hackr.io/blog/best-java-books-for-beginners-and-advanced-programmers -->
+
+¿Cómo empiezo a aprender Java?
+Puede comenzar a aprender Java con estos tutoriales gratuitos de Java recomendados y seleccionados por la comunidad hackr.io. También puede usar libros, lecciones en video de YouTube y cursos y certificaciones para aprender y avanzar en Java.
+
+¿Puedes aprender Java en un día?
+Es como preguntar: "¿Podemos construir Roma en un día?" No, pero al menos podemos empezar. Aprender la semántica de Java (o cualquier otro lenguaje de programación) es algo que puede hacer en un día, pero aprender el funcionamiento de Java (o cualquier otro lenguaje de programación) requiere práctica y tiempo, ¡mucho, mucho tiempo!
+
+
+¿Cuál es la mejor forma de aprender Java?
+La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los conceptos y el funcionamiento del lenguaje de programación Java, los libros son su mejor opción. También puede aprender Java con:
+
+• Los 	mejores tutoriales gratuitos de Java
+• 	Cursos y certificaciones online
+• 	Lecciones en video de YouTube
+
 ## Javascript
 
 - [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
