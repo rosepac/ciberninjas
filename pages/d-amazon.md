@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🎁 Compras ninjas"
+title: "Compras 🎁"
 description: "Las Mejores Ofertas de Amazon durante Todo el Año"
 excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
 permalink: /amazon/
@@ -14,7 +14,7 @@ Aún es demasiado pronto para conocer **las mejores ofertas y chollos del Black 
 
 {% include amazon.html %}s
 
-Publicaré una copia de los anuncios de Amazon y los detalles más importantes de los descuentos y la gran mayoría de las ofertas, sobre el Black Friday de 2020. Además, de tratar de traer algunas de **las mejores ofertas del Prime Day 2020** o día especial para los usuarios que son [Prime en Amazon]().
+Publicaré una copia de los anuncios de Amazon y los detalles más importantes de los descuentos y la gran mayoría de las ofertas, sobre el Black Friday de 2020. Además, de tratar de traer algunas de **las mejores ofertas del Prime Day 2020** o día especial para los usuarios que son [Prime en Amazon](http://www.amazon.es/prime?tag=ciberninjas07-21){:target="_blank" rel="nofollow,noreferrer"}.
 <!-- https://www.blackerfriday.com/amazon/ -->
 
 Como probablemente sepas, el Prime Day se ha retrasado en los EE. UU. y en todas las regiones del mundo (se espera que se reprograme para, posiblemente, en algún momento de Octubre). Asegúrate de volver por aquí, para conocer las últimas actualizaciones o únete a nuestro RSS para ser el primero en conocer todos los anuncios oficiales.
