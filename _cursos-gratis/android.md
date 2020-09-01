@@ -22,6 +22,8 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 {: .notice--danger}
 
 - [Cursos Gratis de Android](#cursos-gratis-de-android)
+- [**¿Qué lenguaje de programación es mejor para el desarrollo de Android?**](#qué-lenguaje-de-programación-es-mejor-para-el-desarrollo-de-android)
+- [**¿Qué lenguajes se requieren para el desarrollo de Android?**](#qué-lenguajes-se-requieren-para-el-desarrollo-de-android)
 - [Cursos Gratis de Flutter](#cursos-gratis-de-flutter)
 - [Cursos Gratis de Dart](#cursos-gratis-de-dart)
 
@@ -42,6 +44,63 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+
+¿Qué es Android?
+Android es el sistema operativo para teléfonos inteligentes más popular del mundo. Técnicamente, es un sistema operativo móvil construido sobre una versión modificada del kernel de Linux y algún otro software de código abierto. Android está diseñado específicamente para teléfonos inteligentes y tabletas.
+
+
+¿Cuáles son los requisitos previos para aprender Android?
+Hay 5 cosas que debes saber antes de comenzar a aprender Android:
+
+- Ciclo de vida de la actividad de Android
+- Fundamentos de un lenguaje de programación (típicamente, Java y / o Kotlin)
+- Conceptos y paradigma de OOP
+- XML
+- Entorno de desarrollo (IDE)
+¿Por qué debería aprender Android?
+Puede haber diferentes razones para que cualquiera aprenda Android. Algunas buenas razones son:
+
+- Mejorar el aprendizaje sobre plataformas y arquitectura móviles
+- Gran perspectiva profesional, una de las tecnologías más utilizadas en el mundo.
+- Otorga la capacidad de crear aplicaciones poderosas, útiles y creativas.
+
+¿Cómo aprender Android?
+ Puede aprender Android a partir de una combinación / uno de estos recursos:
+
+• Los 	mejores libros de Android
+- Principales certificaciones y cursos de Android
+- Lecciones en video en línea
+- Canales de YouTube
+- Artículos web
+
+¿Cuáles son los mejores libros para aprender Android?
+Estos son algunos de los mejores libros para aprender Android:
+
+- Libro de cocina de Android: Problemas y soluciones para desarrolladores de Android por Ian Darwin
+- Desarrollo de aplicaciones de Android para tontos por Donn Felker
+- Head First Android Development: una guía amigable para el cerebro de David Griffiths y Dawn Griffiths
+- Hola, Android: Presentamos la plataforma de desarrollo móvil de Google por Ed Burnette
+¿Está muriendo el desarrollo de Android?
+A pesar de la exageración de las plataformas web y las tecnologías multiplataforma como Flutter y React Native, seguirá existiendo la necesidad de un desarrollo nativo para la plataforma Android. De hecho, ahora es mejor que nunca comenzar a aprender sobre el desarrollo de Android.
+
+
+## **¿Qué lenguaje de programación es mejor para el desarrollo de Android?**
+
+El desarrollo de Android admite una variedad de lenguajes de programación, pero dos lenguajes de programación que son los más populares son:
+
+- 1. **Java**: El antiguo idioma oficial para el desarrollo de Android que sigue siendo la opción de idioma líder para el desarrollo de Android
+
+- 2. **Kotlin**: El lenguaje oficial más nuevo, moderno y fácil de aprender para el desarrollo de Android
+
+## **¿Qué lenguajes se requieren para el desarrollo de Android?**
+
+El desarrollo de Android requiere principalmente los lenguajes de programación Java y Kotlin. Sin embargo, el desarrollo de aplicaciones de Android también es posible con:
+
+- C++
+- C#
+- Corona
+- Python
+- HTML, CSS y JavaScript
 
 ## Cursos Gratis de Flutter
 
