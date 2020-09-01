@@ -84,6 +84,9 @@ collections:
   biblioteca:
     output: true
     permalink: /:collection/:name
+  cursos-bases-datos:
+    output: true
+    permalink: /:collection/:name
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
