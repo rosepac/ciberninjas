@@ -2,9 +2,9 @@
 layout: page
 author: rosepac
 bootstrap: true
-title: "Guías Gratis 📓"
-description: "Guías de tecnología con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales."
-excerpt: "Guías de tecnología con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales."
+title: "Guías 📓"
+description: "Guías gratis de tecnología sobre tecnologías de programación de campos temáticos relacionados a las profesiones digitales."
+excerpt: "Guías gratis de tecnología sobre tecnologías de programación de campos temáticos relacionados a las profesiones digitales."
 permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
 ---
