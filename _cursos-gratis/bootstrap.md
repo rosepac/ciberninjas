@@ -10,7 +10,7 @@ title: "▷ 12+1 Mejores cursos gratis de Bootstrap"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto"
 date: 2020-08-29T10:22:00.000+02:00
-permalink: /cursos-prototipado-ux-ui/
+permalink: /cursos-bootstrap/
 canonical_URL: https://ciberninjas.com/cursos-bootstrap/
 thumbnail: "/assets/img/paginas-cursos/cursos-bootstrap.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-bootstrap.webp"

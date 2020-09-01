@@ -3,14 +3,15 @@
 layout: page
 author: rosepac
 bootstrap: true
+published: true
 comments: false
-tags: [Cursos Gratis, Bases de Datos]
+tags: [Cursos Gratis, Videojuegos]
 title: "▷ 22 Mejores cursos gratis de bases de datos"
-description: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
-excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
+description: "Los mejores cursos gratuitos con los que aprender todo sobre la programación de videojuegos, desde cero hasta nivel experto"
+excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre la programación de videojuegos, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
-permalink: /cursos-bases-datos/
-canonical_URL: https://ciberninjas.com/cursos-bases-datos/
+permalink: /cursos-videojuegos/
+canonical_URL: https://ciberninjas.com/cursos-videojuegos/
 thumbnail: "/assets/img/paginas-cursos/cursos-videojuegos.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-videojuegos.webp"
 img: "/assets/img/paginas-cursos/cursos-videojuegos.webp"
@@ -40,9 +41,9 @@ img: "/assets/img/paginas-cursos/cursos-videojuegos.webp"
 * [Diseño de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Diseño y administración de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-y-administracion-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Ficheros y bases de datos (2008)](http://ocw.uc3m.es/cursos-archivados/ficheros-y-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de las bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de las bases de datos (2012)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-las-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Fundamentos de la programación de videojuegos (2008)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Fundamentos de la programación de videojuegos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Fundamentos de la programación de videojuegos (2012)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-las-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Introducción a BBDD relacionales, SQL & MySQL](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-bbdd-sql-mysql){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 * [Introducción a las consultas SQL Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-las-consultas-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Oracle 12c](https://www.youtube.com/playlist?list=PLC7Ec2r5tkJA50X4rn6wffybgaGqYBlTA){:target="_blank" rel="nofollow,noreferrer"} (Ninja Web, YouTube)

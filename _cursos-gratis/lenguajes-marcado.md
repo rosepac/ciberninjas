@@ -10,7 +10,7 @@ title: "▷ 32 Mejores cursos gratis de lenguajes de marcado: HTML, XHTML, Markd
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 date: 2020-08-30T06:22:00.000+02:00
-permalink: /cursos-bases-datos/
+permalink: /cursos-lenguajes-marcado/
 canonical_URL: https://ciberninjas.com/cursos-lenguajes-marcado/
 thumbnail: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"

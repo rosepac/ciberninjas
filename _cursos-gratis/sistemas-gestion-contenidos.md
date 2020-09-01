@@ -3,14 +3,15 @@
 layout: page
 author: rosepac
 bootstrap: true
+published: true
 comments: false
-tags: [Cursos Gratis, Bases de Datos]
-title: "▷ 22 Mejores cursos gratis de bases de datos"
-description: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
-excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
+tags: [Cursos Gratis, CMS]
+title: "▷ 22 Mejores cursos gratis de CMS o sistemas de gestión de contenidos"
+description: "Los mejores cursos gratuitos con los que aprender todo de los CMS o sistemas de gestión de contenidos, desde cero hasta nivel experto"
+excerpt: "Los mejores cursos gratuitos con los que aprender todo de los CMS o sistemas de gestión de contenidos, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
-permalink: /cursos-bases-datos/
-canonical_URL: https://ciberninjas.com/cursos-bases-datos/
+permalink: /cursos-sistemas-gestion-cms/
+canonical_URL: https://ciberninjas.com/cursos-sistemas-gestion-cms/
 thumbnail: "/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp"
 img: "/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp"

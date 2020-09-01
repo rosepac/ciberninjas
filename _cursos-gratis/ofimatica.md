@@ -10,7 +10,7 @@ title: "▷ 50 Mejores cursos gratis de ofimática"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre la Ofimática, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre la Ofimática, desde cero hasta nivel experto"
 date: 2020-08-29T10:22:00.000+02:00
-permalink: /cursos-bases-datos/
+permalink: /cursos-ofimatica/
 canonical_URL: https://ciberninjas.com/cursos-ofimatica/
 thumbnail: "/assets/img/paginas-cursos/cursos-ofimatica.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-ofimatica.webp"

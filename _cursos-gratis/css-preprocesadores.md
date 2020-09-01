@@ -10,7 +10,7 @@ title: "▷ 17 Mejores cursos gratis sobre CSS y preprocesadores CSS"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre CSS y los preprocesadores CSS, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre CSS y los preprocesadores CSS, desde cero hasta nivel experto"
 date: 2020-08-29T10:22:00.000+02:00
-permalink: /cursos-comercio-electronico/
+permalink: /cursos-css-preprocesadores/
 canonical_URL: https://ciberninjas.com/cursos-css-preprocesadores/
 thumbnail: "/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp"

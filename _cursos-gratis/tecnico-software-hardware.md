@@ -3,14 +3,15 @@
 layout: page
 author: rosepac
 bootstrap: true
+published: true
 comments: false
-tags: [Cursos Gratis, Bases de Datos]
-title: "▷ 22 Mejores cursos gratis de bases de datos"
-description: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
-excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
+tags: [Cursos Gratis, Técnico, Software]
+title: "▷ 22 Mejores cursos gratis de software técnico"
+description: "Los mejores cursos gratuitos con los que aprender todo sobre software y montaje técnico, desde cero hasta nivel experto"
+excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre software y montaje técnico, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
-permalink: /cursos-bases-datos/
-canonical_URL: https://ciberninjas.com/cursos-bases-datos/
+permalink: /cursos-tecnico-software/
+canonical_URL: https://ciberninjas.com/cursos-tecnico-software/
 thumbnail: "/assets/img/paginas-cursos/cursos-software-tecnico.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-software-tecnico.webp"
 img: "/assets/img/paginas-cursos/cursos-software-tecnico.webp"
