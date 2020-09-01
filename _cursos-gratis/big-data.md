@@ -21,16 +21,20 @@ img: "/assets/img/paginas-cursos/cursos-big-data.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Big Data 👨‍👩‍👦
+## Cursos Gratis de Big Data 👨‍👩‍👦
 
-* [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
-* [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Big Data Sin Misterios](https://www.edx.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
-* [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
+- [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
+- [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+- [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+- [Big Data Sin Misterios](https://www.edx.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
+- [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+- [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+- [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
+
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-big-data.webp)

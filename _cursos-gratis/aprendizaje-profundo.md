@@ -23,17 +23,17 @@ img: "/assets/img/paginas-cursos/cursos-machine-deep-learning.webp"
 
 ## Cursos Gratis de Machine Learning
 
-* [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
-* [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)
-* [Aprendizaje Automático con Python: Una introducción práctica](https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python){:target="_blank" rel="nofollow,noreferrer"} (IBM)
-* [Aprendizaje Automático y Ciencia de Datos](https://www.edx.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
-* [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
-* [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
-* [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank" rel="nofollow,noreferrer"} (Google Developers)
-* [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
-* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
-* [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
+- [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
+- [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)
+- [Aprendizaje Automático con Python: Una introducción práctica](https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python){:target="_blank" rel="nofollow,noreferrer"} (IBM)
+- [Aprendizaje Automático y Ciencia de Datos](https://www.edx.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+- [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
+- [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
+- [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank" rel="nofollow,noreferrer"} (Google Developers)
+- [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
+- [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+- [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 
