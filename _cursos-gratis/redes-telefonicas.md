@@ -40,4 +40,8 @@ img: "/assets/img/paginas-cursos/cursos-redes-telefonicas.webp"
 * [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC){:target="_blank" rel="nofollow,noreferrer"} (Óscar Delgado, YouTube)
 * [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-redes-telefonicas.webp)

@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-machine-deep-learning.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Machine Learning
+## Cursos Gratis de Machine Learning
 
 * [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
 * [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)
@@ -34,5 +34,9 @@ img: "/assets/img/paginas-cursos/cursos-machine-deep-learning.webp"
 * [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
 * [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
+
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-machine-deep-learning.webp)

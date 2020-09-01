@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-bases-datos.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 📁 Bases de Datos
+## Cursos Gratis de Bases de Datos
 
 [Big Data 👨‍👩‍👦](/cursos-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large}
 
@@ -54,11 +54,15 @@ img: "/assets/img/paginas-cursos/cursos-bases-datos.webp"
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## SQL
+## Cursos Gratis de SQL
 
 * 🔐 **PAGO ACTUALMENTE** [Comienza con SQL: descarga los datos tu mismo con SQL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomienza-con-sql%2F) (Udemy)
 * [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
 * [Introducción a SQL con Oracle 11g](https://kutt.it/intro-sql-oracle-11){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Sistema de Login en Visual Basic y SQL Server en Capas](https://kutt.it/loguin-visualbasic-sql-capas){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-bases-datos.webp)

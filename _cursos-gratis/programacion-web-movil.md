@@ -105,6 +105,8 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 * [Primeros pasos con Vue.js: Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Vue, JavaScript y desarrollo Web moderno](https://escuelavue.es/series){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
 
-[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-programacion-web-movil.webp)

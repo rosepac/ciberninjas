@@ -49,4 +49,8 @@ img: "/assets/img/paginas-cursos/cursos-comercio-electronico.webp"
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Tienda Online con WooCommerce desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftienda-online-con-woocommerce-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-comercio-electronico.webp)

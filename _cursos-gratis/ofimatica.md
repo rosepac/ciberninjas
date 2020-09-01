@@ -112,4 +112,8 @@ img: "/assets/img/paginas-cursos/cursos-ofimatica.webp"
 
 * [Publicación y Análisis de mapas en la Web con ArcGIS Online](https://www.udemy.com/arcgis-online){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-ofimatica.webp)

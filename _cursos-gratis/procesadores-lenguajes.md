@@ -31,4 +31,8 @@ img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp)

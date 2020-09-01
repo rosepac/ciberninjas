@@ -308,4 +308,8 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 * [Web Scraping](/web-scraping-c-sharp-con-jap-software/) (Jap Software, Youtube)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-programacion.webp)

@@ -24,6 +24,10 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 * [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏠 REGRESAR al Índice de CURSOS GRATIS]{: .btn .btn-outline-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-accesibilidad-web.webp)
 <!-- Por Actualizar -->
 <!-- Universidad de Murcia https://umumooc.um.es/ -->

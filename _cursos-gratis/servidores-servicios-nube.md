@@ -79,4 +79,8 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 * [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 * [Taller de NodeJS](https://plataforma.keepcoding.io/p/nodejs-bundle-web-bootcamp){:target="_blank" rel="nofollow,noreferrer"}
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp)

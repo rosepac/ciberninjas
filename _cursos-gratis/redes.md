@@ -67,4 +67,8 @@ img: "/assets/img/paginas-cursos/cursos-redes.webp"
 * [Windows Server 2012](http://nksistemas.com/category/infraestructura/windows-2012){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-redes.webp)

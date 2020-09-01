@@ -41,4 +41,8 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 * [Curso de Ubuntu](https://tv.um.es/canal?serie=4581){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2011)
 * [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-linux.webp)

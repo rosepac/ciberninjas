@@ -71,6 +71,8 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 
 * [Curso de programación para QA](https://jj.github.io/curso-tdd/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [Repositorio de Github](https://jj.github.io/curso-tdd/) (Github)
 
-[⏫ Subir a Metodologías](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp)

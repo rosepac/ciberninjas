@@ -76,4 +76,8 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 * [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor){:target="_blank" rel="nofollow,noreferrer"} (Udemy - Subtítulos en Español) (2017)
 * [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp)

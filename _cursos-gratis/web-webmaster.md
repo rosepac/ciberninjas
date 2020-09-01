@@ -52,4 +52,8 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 * [Zoho CRM App: gestiona tus clientes desde tu móvil](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
+### **Relacionados** <!-- omit in toc -->
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+
 ![](/assets/img/paginas-cursos/cursos-web-webmaster.webp)
