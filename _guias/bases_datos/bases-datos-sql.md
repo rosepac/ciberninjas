@@ -18,9 +18,21 @@ img: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
 
 ---
 
+
+
 ### Bases de Datos
 
 ## SQL 
+
+SQL es un lenguaje de programación para trabajar con una base de datos.
+
+Puedes utilizar SQL para crear objetos de base de datos, por ejemplo, tablas, procedimientos almacenados, etc., y también para almacenar y recuperar datos de la base de datos.
+
+SQL es una de las habilidades más importantes para cualquier programador, independientemente de la tecnología, el marco y el dominio. Es incluso más popular que un lenguaje de programación convencional como Java y Python , y definitivamente agrega mucho valor a tu CV.
+
+SQL le permite jugar con los datos, que es el activo más importante del mundo actual. Al aprender SQL, puede obtener respuestas a sus preguntas. Por ejemplo, si eres un creador de cursos para Udemy , una popular plataforma de cursos en línea, y quieres saber qué curso es el más vendido y qué curso no se vende en absoluto, puedes usar SQL.
+
+Puede ayudar tanto en la resolución de problemas como en los informes. Además, SQL es una tecnología muy estable y existe desde hace años, y será necesario en el futuro. Esto significa que cualquier inversión que realice en el aprendizaje de SQL también le servirá durante mucho tiempo en su carrera.
 
 ## PostgreSQL
 
