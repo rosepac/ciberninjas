@@ -22,18 +22,11 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 <iframe src="https://calendar.google.com/calendar/embed?src=moiqagoad98jv4r0365p8vodv4%40group.calendar.google.com&ctz=Europe%2FMadrid" style="border: 0" width="950" height="600" frameborder="0" scrolling="no"></iframe>
 
-## **Eventos tecnológicos de Agosto**
-
-### 🔔 29 de Agosto
-
-- NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. ESP - 16 H. Argentina) Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
-
 ## **Eventos tecnológicos de Septiembre**
 
 ### 🔔 1 de Septiembre
 
+- (17:00 PM H. Española) Herramientas Digitales para Docentes 👉 [REGISTRO](https://www.eventbrite.com.ar/e/herramientas-digitales-para-docentes-tickets-118381041883?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (18:30 H. Española) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Full Stack: Cómo Empezar, con Mario Girón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-full-stack-start-here-117748513975?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} ¿Por qué apostar por Javascript?, Frameworks más destacados, Perfil del Full Stack Developer, Etc.
 - (19:00 PM H. Española) Ciberseguridad: Cómo Empezar, con Roberto López 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-cybersecurity-start-here-117960469941?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -175,6 +168,12 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - (19:00 PM) Operadores de Kubernetes: Operando servicios nativos de la nube a escala - [REGISTRO](https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/){:target="_blank" rel="nofollow, noreferrer"}
 
+### 🔔 29 de Octubre
+
+- (11:00 AM) Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"}
+
+## **Eventos tecnológicos de Noviembre**
+
 ### 🔔 3 de Noviembre
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
@@ -187,6 +186,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
+## **Eventos tecnológicos de Diciembre**
+
+> 👷‍♂️ **Por Desarrollar** ✍
 
 ## **Calendario de Eventos Tecnológicos en Inglés 📆**
 
@@ -439,7 +441,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-🔔 11 de Agosto
+## **Eventos tecnológicos de Agosto**
+
+### 🔔 11 de Agosto
 
 - ⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 22:00 H. Española)
 - 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
@@ -572,3 +576,9 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (01:00 AM H. ESP.) Introducción a la blockchain de Algorand 🗞 [Registrarse](https://www.eventbrite.com/e/introduccion-a-la-blockchain-de-algorand-tickets-116656995213?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
 - (02:00 AM H. ESP.) Python explicado en ABC/Sesiones en vivo. 🗞 [Registrarse](https://www.eventbrite.com.mx/e/python-explicado-en-abcsesiones-en-vivo-tickets-114348643872){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
 - (04:00 AM H. Española) Portales de Revistas Científicas: trabajo colaborativo y redes 👉 [REGISTRO](https://117354116321.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 29 de Agosto
+
+- NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 PM H. ESP - 16 H. Argentina) Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
