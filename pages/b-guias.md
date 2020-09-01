@@ -2,7 +2,7 @@
 layout: page
 author: rosepac
 bootstrap: true
-title: "📓 Guías Gratis"
+title: "Guías Gratis 📓"
 description: "Guías de tecnología con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales."
 excerpt: "Guías de tecnología con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales."
 permalink: /guias/

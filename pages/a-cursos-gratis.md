@@ -2,9 +2,9 @@
 layout: page
 author: rosepac
 bootstrap: true
-title: "🥇 Cursos Gratis"
-description: Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más.
-excerpt: Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más.
+title: "Cursos Gratis 🥇"
+description: Cursos gratuitos de programación desde cero. Desarrollo web, informática, inteligencia artificial y más.
+excerpt: Cursos gratuitos de programación desde cero. Desarrollo web, informática, inteligencia artificial y más.
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 tags: [Recursos Gratis, Cursos Gratis, Cursos Programación]
@@ -66,7 +66,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 - [**Cursos gratis de Análitica Web, SEO y Posicionamiento 📈**](#cursos-gratis-de-análitica-web-seo-y-posicionamiento-)
 - [**Cursos gratis de Marketing Digital 🏪**](#cursos-gratis-de-marketing-digital-)
 - [**Cursos gratis de Sistemas de Gestión de Contenidos ✍**](#cursos-gratis-de-sistemas-de-gestión-de-contenidos-)
-  - [Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](#cursos-gratis-de-wordpress-i-classfa-fa-wordpress-aria-hiddentruei)
+- [**Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>**](#cursos-gratis-de-wordpress-i-classfa-fa-wordpress-aria-hiddentruei)
 
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
@@ -92,9 +92,11 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 * [100 Cursos en Español Más Nuevos](/cursos-udemy-programaci%C3%B3n-m%C3%A1s-actuales/){:target="_blank" rel="nofollow,noreferrer"} (Github)
 <!-- [Cursos en Inglés]() (Hackr io) -->
 
+[^1]: Principalmente cursos basados en redes y servicios de Microsoft: Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data.
+
 ## Academias de Cursos Masivos 🌐
 
-Las mejores páginas web con las que aprender a programar totalmente gratis, y en español.
+Las [mejores páginas web con las que aprender a programar](https://ciberninjas.com/programa-gratis/) totalmente gratis, y en español.
 
 * [Cursos de Otras Temáticas](/cursos-otras-tematicas/)
 * [Cursos UNED en Abierto MOOC´s](https://iedra.uned.es/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
@@ -110,9 +112,12 @@ Las mejores páginas web con las que aprender a programar totalmente gratis, y e
 
 ## **Cursos gratis de Bases de Datos 📁**
 
-En esta sección vas a poder encontrar los cursos relacionados con las bases de datos, sql o no sql.
+Desde hace tiempo he estado compartiendo algunos de [los mejores libros y tutoriales de SQL](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){:target="_blank"}, y aquí, vamos a compartir algunos de los mejores cursos de SQL y bases de datos para aprender a dominar esta útil tecnología.
 
-[👉 Ir a los Cursos Gratis BBDD 📁](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+<!-- https://hackernoon.com/top-5-sql-and-database-courses-to-learn-online-48424533ac61 -->
+Si no sabes qué es SQL y por qué deberías aprenderlo, vamos a ver [una breve descripción general de SQL](https://ciberninjas.com/bases-datos/){:target="_blank"} para el beneficio de todos.
+
+[👉 Ir a los Cursos Gratis de Bases de Datos 📁](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Big Data 👨‍👩‍👦**
 
@@ -254,11 +259,10 @@ HTML, Markdown, XHTML, Open.
 
 [👉 Ir a los Cursos Gratis de Sistemas de Gestión de Contenidos ✍](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
+## **Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>**
 
 [👉 Ir a los Cursos Gratis de Wordpress](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-[^1]: Principalmente cursos basados en redes y servicios de Microsoft: Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data
 <!-- Por Actualizar -->
 <!-- Universidad de Murcia https://umumooc.um.es/ -->
 <!-- https://www.genbeta.com/a-fondo/50-mejores-cursos-online-2019 voy por introduccion a las reds sociales.. -->
