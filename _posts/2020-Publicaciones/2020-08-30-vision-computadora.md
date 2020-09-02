@@ -14,7 +14,7 @@ excerpt: >-
   Los sistemas de visión por computadora no solo son lo suficientemente buenos para ser útiles, sino que en algunos casos son más precisos que la visión humana.
 canonical_URL: https://ciberninjas.com/vision-computadora-agosto-2020/
 permalink: /vision-computadora-agosto-2020/
-date: 2020-08-30 011:10:32
+date: 2020-08-30 11:10:32
 published: true
 
 ---
