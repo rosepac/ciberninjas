@@ -27,7 +27,8 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 - [**¿Qué es Docker?**](#qué-es-docker)
 - [**¿Cuáles son los requisitos previos para aprender Docker?**](#cuáles-son-los-requisitos-previos-para-aprender-docker)
 - [**¿Por qué debería aprender Docker?**](#por-qué-debería-aprender-docker)
-- [**¿Cómo Ciberninjas va a ayudarte a a encontrar los mejores Tutoriales de Docker?**](#cómo-ciberninjas-va-a-ayudarte-a-a-encontrar-los-mejores-tutoriales-de-docker)
+- [**¿Cómo Ciberninjas va a ayudarte a encontrar los mejores Tutoriales de Docker?**](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-docker)
+- [¿Qué es Microsoft Azure?](#qué-es-microsoft-azure)
 - [Plataforma de Google Cloud](#plataforma-de-google-cloud)
 
 ## Servidores y Servicios Nube ⛅
@@ -110,7 +111,7 @@ Puede aprender Docker usando los mejores tutoriales de Docker disponibles en Cib
 Todos los cursos disponibles en la plataforma son enviados y votados por los miembros de la comunidad, lo que los hace fáciles de aprender. Siga los tutoriales y cursos de Docker en Ciberninjas y mantente informado sobre las últimas noticias, conocimientos, consejos y trucos.
 
 <!-- seccionar a una página de Microsoft Azure -->
-¿Qué es Microsoft Azure?
+## ¿Qué es Microsoft Azure?
 Microsoft Azure es una plataforma de computación en la nube pública diseñada por Microsoft. Su nombre anterior era Windows Azure, que se cambió en 2014 debido a sus características ampliadas. Ofrece una gama de servicios como la creación, la gestión, las pruebas y la implementación de servicios y aplicaciones web. Gestiona aplicaciones a través de los centros de datos ubicados globalmente mediante la ejecución de estas funciones vitales. Microsoft Azure es muy beneficioso para desarrollar nuevas aplicaciones o para ejecutar y escalar la existente.
 
 ¿Cuáles son los requisitos previos para aprender Microsoft Azure?

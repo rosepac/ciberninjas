@@ -23,7 +23,17 @@ img: "/assets/img/paginas-cursos/cursos-programacion.webp"
 
 ## 👨‍💻 Lenguajes de Programación
 
-[C, C#, C++](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large} [Dart](/cursos-tecnologia/#dart){: .btn .btn--inverse .btn--large} [Ensamblador](/cursos-tecnologia/#ensamblador){: .btn .btn--inverse .btn--large} [Go](/cursos-tecnologia/#go){: .btn .btn--inverse .btn--large} [Java](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Java Frameworks](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Javascript](/cursos-tecnologia/#javascript-){: .btn .btn--inverse .btn--large} [Javascript Frameworks](/cursos-tecnologia/#javascript-frameworks-){: .btn .btn--inverse .btn--large} [Perl](/cursos-tecnologia/#perl){: .btn .btn--inverse .btn--large} [PHP](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large} [PHP Frameworks](/cursos-tecnologia/#php-frameworks-){: .btn .btn--inverse .btn--large} [Python](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large} [Python Frameworks](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large} [Ruby](/cursos-tecnologia/#ruby-){: .btn .btn--inverse .btn--large} [Ruby Frameworks](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large}
+Existen muchos diferentes lenguajes de programación, aquí vas a poder encontrar cursos gratis para comenzar desde a aprender los idiomas de programación más importantes.
+
+Además, en la gran mayoría de lenguajes, vas a poder encontrar lo que se denomina frameworks. Que son a groso modo, grandes librerías de código, con los que facilitar la creación de aplicaciones y programas ahorrando tiempo de codificación.
+
+A continuación puedes encontrar atajos hacía los frameworks de los lenguajes más importantes..
+
+{% include cursos-fk-prog.html %}
+
+Por si lo que buscas, es comenzar con un lenguaje concreto desde cero, a continuación vas a encontrar una brevísima introducción además de los mejores cursos gratuitos en español del mundo con los que lanzarte hacía el inicio de convertirte en un programador profesional.
+
+Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te interese.
 
 - [👨‍💻 Lenguajes de Programación](#-lenguajes-de-programación)
 - [C](#c)
@@ -69,7 +79,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion.webp"
   - [¿Qué es JavaScript?](#qué-es-javascript)
   - [¿Cuáles son los requisitos previos para aprender JavaScript?](#cuáles-son-los-requisitos-previos-para-aprender-javascript)
   - [¿Por qué debería aprender JavaScript?](#por-qué-debería-aprender-javascript)
-  - [¿Cómo puede Hackr.io ayudarlo a encontrar los mejores tutoriales de JavaScript?](#cómo-puede-hackrio-ayudarlo-a-encontrar-los-mejores-tutoriales-de-javascript)
+  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de JavaScript?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-javascript)
   - [¿Cómo aprender JavaScript rápidamente?](#cómo-aprender-javascript-rápidamente)
   - [¿Cuáles son los mejores libros para aprender JavaScript?](#cuáles-son-los-mejores-libros-para-aprender-javascript)
   - [¿Cómo ejecutar JavaScript?](#cómo-ejecutar-javascript)
@@ -83,6 +93,14 @@ img: "/assets/img/paginas-cursos/cursos-programacion.webp"
   - [Laravel](#laravel)
   - [Symfony](#symfony)
   - [Zend](#zend)
+  - [¿Qué es PHP?](#qué-es-php)
+  - [¿Cuáles son los requisitos previos para aprender PHP?](#cuáles-son-los-requisitos-previos-para-aprender-php)
+  - [¿Por qué debería aprender el lenguaje PHP?](#por-qué-debería-aprender-el-lenguaje-php)
+  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de PHP?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-php)
+  - [¿Cuáles son los mejores libros para aprender PHP?](#cuáles-son-los-mejores-libros-para-aprender-php)
+  - [¿Para qué se usa PHP?](#para-qué-se-usa-php)
+  - [¿Cómo aprender PHP?](#cómo-aprender-php)
+  - [¿Cómo aprender PHP rápidamente?](#cómo-aprender-php-rápidamente)
 - [Python](#python)
 - [Python Frameworks](#python-frameworks)
 - [Ruby](#ruby)
@@ -133,7 +151,7 @@ Hay varios libros excelentes y buenos para aprender C. Let Us C de Ashutosh Pand
 
 ### ¿Puedo aprender el lenguaje C en línea?
 
-Si. Existen varias plataformas para aprender el lenguaje de programación C en línea, como YouTube, Udemy, Codeacademy, Coursera y Hackr.io. Si desea utilizar el compilador de C en línea, puede dirigirse a repl.it y onlinegdb.com.
+Si. Existen varias plataformas para aprender el lenguaje de programación C en línea, como YouTube, Udemy, Codeacademy, Coursera. Si desea utilizar el compilador de C en línea, puede dirigirse a repl.it y onlinegdb.com.
 
 ### ¿Dónde puedo aprender C?
 
@@ -158,7 +176,7 @@ Instale el compilador de C ++ en su sistema y comience. Puede consultar libros, 
 
 ### ¿Dónde aprender C ++?
 
-YouTube, hackr.io, Coursera y Codeacademy son solo algunos de los mejores lugares para aprender C ++ sin dejar la comodidad de su hogar o alojamiento. También puede inscribirse en clases de ladrillo y mortero si lo desea. Lea y practique tanto como sea posible.
+YouTube, Coursera y Codeacademy son solo algunos de los mejores lugares para aprender C ++ sin dejar la comodidad de su hogar o alojamiento. También puede inscribirse en clases de ladrillo y mortero si lo desea. Lea y practique tanto como sea posible.
 
 ### ¿Por qué debería aprender C ++?
 
@@ -171,7 +189,7 @@ Sin embargo, si simplemente no puede esperar para comenzar con la programación,
 
 ### ¿Puedo aprender C ++ en línea?
 
-Sí, es posible aprender C ++ en línea. Puede obtener videos tutoriales de C ++ gratuitos en YouTube, hackr.io y otras plataformas populares. Además, puede optar por cursos profesionales de C ++ a través de portales de aprendizaje en línea como Udemy, Coursera, Codeacademy, etc.
+Sí, es posible aprender C ++ en línea. Puede obtener videos tutoriales de C ++ gratuitos en YouTube y otras plataformas populares. Además, puede optar por cursos profesionales de C ++ a través de portales de aprendizaje en línea como Udemy, Coursera, Codeacademy, etc.
 
 ### ¿Cuáles son los mejores libros de C ++?
 
@@ -225,7 +243,7 @@ A diferencia de la mayoría de los lenguajes de programación, Golang favorece l
 6. Muy parecido a C pero con simultaneidad, recolección de basura, seguridad de la memoria y tipificación estructural al estilo CSP
 
 ¿Dónde puedo aprender Golang?
-Puede aprender Golang de Udemy, Coursera, hackr.io y varios otros recursos probados y confiables. YouTube es un buen lugar para aprender los conceptos básicos del lenguaje de programación y algunos de sus temas avanzados.
+Puede aprender Golang de Udemy, Coursera y varios otros recursos probados y confiables. YouTube es un buen lugar para aprender los conceptos básicos del lenguaje de programación y algunos de sus temas avanzados.
 
 ¿Golang es fácil de aprender?
 Golang es un lenguaje de programación que prioriza la simplicidad. De hecho, es incluso más simple que Python, que muchos consideran el lenguaje de programación más simple. Los aspectos más difíciles de aprender de Go son las funciones de concurrencia, los canales y las rutinas gor y las interfaces.
@@ -311,8 +329,10 @@ Antes de sumergirse en la programación de Java y buscar los mejores tutoriales 
 
 Java ha demostrado su valía a través de su diversidad de usos. Un informe sugirió que más de 450 empresas de las 500 empresas de Fortune utilizan Java. Esto se puede atribuir a la constante evolución de Java, que ha abierto nuevas vías para todo tipo de empresas. La plataforma continúa agregando características que la convierten en el lenguaje de programación perfecto para usar en cualquier escala de programación. La abundancia de programadores también se suma a la mezcla, ya que ayuda a que el lenguaje evolucione aún más. Uno debe aprender Java, ya que es una de las plataformas más modernas para aplicaciones móviles y web y es un lenguaje excelente para desarrollar aplicaciones de escritorio multiplataforma.
 
-¿Cómo puede Hackr.io ayudarlo a encontrar los mejores tutoriales de Java?
-Hackr.io es su plataforma de aprendizaje integral que ofrece varios tutoriales de Java para ayudarlo a poner en marcha sus proyectos de programación Java. Los tutoriales disponibles en el sitio web se actualizan y recomiendan periódicamente los miembros de la comunidad para ayudar a los programadores a encontrar el curso adecuado para sus necesidades de programación. Asimismo, existen múltiples comunidades y foros donde los programadores pueden interactuar y aclarar sus dudas de la comunidad. Siga la categoría Java en Hackr.io para mantenerse conectado y conocer las últimas noticias, artículos, consejos y trucos de Java.
+¿¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Java?
+Ciberninjas es su plataforma de aprendizaje integral que ofrece varios tutoriales de Java para ayudarlo a poner en marcha sus proyectos de programación Java.
+
+Siga a Ciberninjas en redes sociales para mantenerse conectado y conocer las últimas noticias, artículos, consejos y trucos de Java.
 
 ### ¿Cuáles son los mejores libros para aprender Java?
 
@@ -328,7 +348,7 @@ Para obtener una lista más completa y detallada de los mejores libros de Java, 
 
 ### ¿Cómo empiezo a aprender Java?
 
-Puede comenzar a aprender Java con estos tutoriales gratuitos de Java recomendados y seleccionados por la comunidad hackr.io. También puede usar libros, lecciones en video de YouTube y cursos y certificaciones para aprender y avanzar en Java.
+Puede comenzar a aprender Java con estos tutoriales gratuitos de Java recomendados en Ciberninjas. También puede usar libros, lecciones en video de YouTube y cursos y certificaciones para aprender y avanzar en Java.
 
 ### ¿Puedes aprender Java en un día?
 
@@ -376,9 +396,9 @@ Los usuarios pueden aprender JS en línea, ya que hay miles de tutoriales de JS 
 
 JavaScript es un lenguaje de programación fácil de aprender y fácil de usar que tiene en verdad infinitas aplicaciones. Una vez que aprenda a programar en JavaScript, habrá aprendido algo que se usa en casi todas partes, incluidos los navegadores web, dispositivos móviles, juegos, escritorio, realidad virtual y mucho más. JavaScript es un lenguaje de programación extremadamente expresivo y poderoso.
 
-### ¿Cómo puede Hackr.io ayudarlo a encontrar los mejores tutoriales de JavaScript?
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de JavaScript?
 
-Hackr.io es un gran lugar para aprender JavaScript con una gran cantidad de tutoriales de JS, tanto gratuitos como de pago. Puede aprender a programar en JavaScript a través de videos o libros, tutoriales y cursos. Hackr.io ha ayudado a un gran número de personas a aprender JS en línea a través de sus cursos que la comunidad de programación envía y recomienda. Hackr.io ofrece foros interactivos a sus usuarios donde puede compartir sus consultas y fragmentos para acelerar su programa de aprendizaje de JavaScript. Siga JavaScript en Hackr.io para conocer las últimas noticias, conocimientos, sugerencias y trucos y mantenerse actualizado.
+Ciberninjas es un gran lugar para aprender JavaScript con una gran cantidad de tutoriales de JS, tanto gratuitos como de pago. Puede aprender a programar en JavaScript a través de videos o libros, tutoriales y cursos.
 
 ### ¿Cómo aprender JavaScript rápidamente?
 
@@ -481,19 +501,24 @@ Lo mejor para comenzar a aprender JS es con libros. No obstante, también puede 
 
 - [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, YouTube)
 
-¿Qué es PHP?
+### ¿Qué es PHP?
+
 El preprocesador de hipertexto o PHP es un lenguaje de secuencias de comandos, utilizado principalmente para el desarrollo web. PHP se puede utilizar en combinación con múltiples sistemas de plantillas web, marcos web y sistemas de gestión de contenido. Además, se puede incrustar en código HTML, aumentando sus capacidades. Los desarrolladores pueden escribir extensiones en C, agregando capacidades funcionales al lenguaje PHP. Además, incluye varias bibliotecas de código abierto y de uso gratuito en la distribución de código fuente, que también se pueden usar en compilaciones binarias de PHP. PHP es relativamente simple y más rápido en comparación con otros lenguajes de scripting, con múltiples constantes de informes de errores, que generan un aviso de error.
 
-¿Cuáles son los requisitos previos para aprender PHP?
+### ¿Cuáles son los requisitos previos para aprender PHP?
+
 Antes de intentar aprender PHP, es esencial tomar nota de algunas sugerencias. Lograr una comprensión básica de HTML antes de aprender PHP aumentará sus habilidades. Como puede incrustar PHP en HTML, conocer ambos lenguajes puede ayudarlo a cambiar entre ellos en el mismo documento. El conocimiento de CSS, JavaScript y MySQL también puede aumentar sus habilidades de programación PHP. Una vez que se sienta competente en estos lenguajes, puede buscar un tutorial de PHP para principiantes o videoconferencias sobre cómo aprender PHP.
 
-¿Por qué debería aprender el lenguaje PHP?
+### ¿Por qué debería aprender el lenguaje PHP?
+
 PHP es un lenguaje fácil de aprender y usar. Los programadores pueden seguir varios tutoriales de PHP disponibles en línea. Mucha gente aprende PHP debido a la inmensa cantidad de sitios web que usan el lenguaje. Más del 75 por ciento de los 10 millones de sitios web principales utilizan PHP, lo que lo convierte en un lenguaje imprescindible para los desarrolladores web. Además, PHP tiene una gran comunidad en línea que puede ayudarlo a llevar sus habilidades al siguiente nivel. PHP tiene la tercera comunidad StackOverflow más grande, la quinta comunidad Meetup más grande y es el quinto idioma más popular en GitHub. El interés en PHP sigue vivo y su conjunto de características inspira a más y más personas a aprender PHP.
 
-¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de PHP?
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de PHP?
+
 Ciberninjas puede ayudarte a encontrar el mejor tutorial de PHP para ayudarte a aprender PHP y convertirte en un experto en el idioma. El sitio web ofrece un tutorial de PHP para principiantes, programadores intermedios y expertos para mejorar sus habilidades. Sigue a Ciberninjas y mantente informado sobre las últimas noticias, conocimientos, consejos y trucos.
 
-¿Cuáles son los mejores libros para aprender PHP?
+### ¿Cuáles son los mejores libros para aprender PHP?
+
 PHP ha existido durante las últimas dos décadas y media. Como tal, hay varios libros bien explicados sobre el lenguaje de programación débil y dinámico. Algunos notables son:
 
 - PHP y MySQL de Murach por Joel Murach y Ray Harris
@@ -501,14 +526,16 @@ PHP ha existido durante las últimas dos décadas y media. Como tal, hay varios 
 - Programación PHP por Rasmus Lerdorf
 - La alegría de la programación PHP por Alan Forbes
 
-¿Para qué se usa PHP?
+### ¿Para qué se usa PHP?
+
 El lenguaje de secuencias de comandos del lado del servidor se utiliza para desarrollar:
 
 - Sitios web estáticos y dinámicos
 - Aplicaciones web
 - Marcos de desarrollo web para el desarrollo de PHP (y otros lenguajes de programación)
 
-¿Cómo aprender PHP?
+### ¿Cómo aprender PHP?
+
 Puedes aprender PHP con:
 
 - Los mejores libros de PHP
@@ -517,7 +544,8 @@ Puedes aprender PHP con:
 - Artículos web
 - Lecciones en video de YouTube
 
-¿Cómo aprender PHP rápidamente?
+### ¿Cómo aprender PHP rápidamente?
+
 Comience con tutoriales de introducción, fundamentos, conceptos básicos y para principiantes, libros, lecciones en video en línea, etc. y practique rigurosamente. Hacer un experimento continuo con su enfoque le permitirá aprender mejor de sus errores. Conócelo y sigue practicando.
 
 ## Python
@@ -548,7 +576,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 ## Python Frameworks
 
 - [Curso básico de Django - Páginas web con Python](https://www.udemy.com/curso-basico-de-django-paginas-web-con-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python){:target="_blank" rel="nofollow,noreferrer"}
+- Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
@@ -613,7 +641,7 @@ En un gran proyecto de JavaScript, la adopción de Typescript puede proporcionar
 
 Ciberninjas es la mejor plataforma para aprender TypeScript con una gran cantidad de tutoriales de TypeScript disponibles, tanto gratuitos como de pago.
 
-Puedes aprender a programar en TypeScript a través de tutoriales y cursos de video o libros según su elección. Hackr.io puede guiarlo a través de los conceptos básicos de TypeScript utilizando cursos enviados y recomendados por los miembros de la comunidad.
+Ciberninjas puede guiarte a través de los conceptos básicos de TypeScript utilizando cursos enviados y recomendados por los miembros de la comunidad.
 
 Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últimas noticias, conocimientos, consejos y trucos y mantenerse actualizado.
 

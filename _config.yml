@@ -87,6 +87,9 @@ collections:
   cursos-bases-datos:
     output: true
     permalink: /:collection/:name
+  cursos-fk-prog:
+    output: true
+    permalink: /:collection/:name
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
