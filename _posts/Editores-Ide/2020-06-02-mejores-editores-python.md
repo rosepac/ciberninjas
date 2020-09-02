@@ -24,8 +24,7 @@ excerpt: >-
   Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
 canonical_URL: https://ciberninjas.com/mejores-ide-python/
 permalink: /mejores-ide-python/
-date: 2020-06-02
-last_modified_at: 
+date: 2020-09-01
 published: true
 ---
 
