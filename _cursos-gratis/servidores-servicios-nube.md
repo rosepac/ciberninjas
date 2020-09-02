@@ -103,7 +103,7 @@ Una buena comprensión de las características del Kernel de Linux será útil p
 
 Docker ofrece una virtualización ligera con una sobrecarga insignificante. Esto tiene algunas ventajas importantes, ya que uno puede beneficiarse de una capa adicional de abstracción que ofrece el programa, sin preocuparse por los gastos generales. Además, Docker puede lograr que el contenedor suba y baje en cuestión de segundos, lo que tiene un gran impacto a largo plazo. También tiene seguimiento de versiones incorporado y soporte para compilaciones de control automático, lo que aumenta su accesibilidad.
 
-## **¿Cómo Ciberninjas va a ayudarte a a encontrar los mejores Tutoriales de Docker?**
+## **¿Cómo Ciberninjas va a ayudarte a encontrar los mejores Tutoriales de Docker?**
 
 Puede aprender Docker usando los mejores tutoriales de Docker disponibles en Ciberninjas, que incluyen tutoriales gratuitos y de pago; también existen diversos cursos en la programación de Docker en función del nivel de habilidad de los usuarios, donde tanto los principiantes como los expertos pueden optar por un curso que coincida con su conjunto de habilidades.
 

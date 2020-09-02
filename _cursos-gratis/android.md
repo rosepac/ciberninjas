@@ -124,7 +124,8 @@ Antes de buscar los tutoriales de Flutter, hay algunos requisitos para aprender 
 Flutter ha ganado bastantes números en los últimos tiempos debido a su capacidad para ayudar a los desarrolladores a centrarse más en el producto final y no en el SDK. Esto se debe a las características que Flutter aporta, una de ellas es el 'modelo de diseño plateado', que lo ayuda a permitir un desplazamiento suave desde el diseño en sí, lo que mejora significativamente el diseño de la interfaz de usuario. Además, Flutter no usa los widgets estándar a diferencia de otros SDK, pero usa sus propios widgets, que son personalizables y extensibles, lo que le da un aspecto fresco al diseño.
 
 
-¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Flutter?
+## **¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Flutter?**
+
 Si desea aprender Flutter para principiantes y obtener conocimientos críticos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada para usted. Ofrece una gran cantidad de tutoriales que ayudarán a los desarrolladores tanto aficionados como profesionales a concentrarse en aprender todo sobre la programación de Flutter y sus características. 
 
 Los usuarios pueden encontrar los tutoriales de introducción de Flutter en español, tanto gratuitas como de pago, y decidir el modo del tutorial, que puede ser un video o un libro.

@@ -50,6 +50,53 @@ img: "/assets/img/paginas-cursos/cursos-videojuegos.webp"
 - [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [WebVR - Realidad Virtual con A-Frame para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwebvr-realidad-virtual-con-a-frame-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
+## Unity
+
+¿Qué es Unity?
+Desarrollado por Unity Technologies, Unity es un motor de desarrollo de juegos multiplataforma. A través de la programación de Unity, los usuarios pueden desarrollar videojuegos en 2D y 3D, para computadoras, dispositivos móviles y de consola. Unity admite 27 plataformas, que incluyen jugadores de las grandes ligas como iOS, Android, Samsung Smart TV, Vuforia, Nintendo Switch, Xbox One, Oculus Rift, Fire OS y Facebook Gameroom. Los programadores pueden aprender Unity y dinero en efectivo en el mercado de aplicaciones de Unity, ya que el 34% de los 1000 mejores juegos móviles se desarrollan con unity. Hay numerosos tutoriales de Unity disponibles en línea donde los usuarios pueden aprender la programación de Unity.
+
+¿Cuáles son los requisitos previos para aprender Unity?
+Antes de comenzar a buscar tutoriales para principiantes de Unity, es vital conocer los requisitos previos para aprender el idioma. Para comenzar y aprender Unity, uno debe tener una máquina poderosa (computadora) para ejecutar Unity. Unity requiere una computadora de especificaciones medias para funcionar de manera competente, sin demoras. Es mejor echar un vistazo a los requisitos del sistema. Además, un dominio de JavaScript o C # lo ayudaría a sobresalir en Unity. Para colmo, el conocimiento de la tienda de activos de unidad, los foros de unidad y StackOverflow simplificarían su viaje para convertirse en un experto en programación de Unity.
+
+¿Por qué debería aprender Unity?
+Los usuarios pueden aprender la programación de Unity y utilizar Unity de forma gratuita. Hay una gran cantidad de tutoriales disponibles en línea, tanto gratuitos como de pago, donde los usuarios pueden aprender los conceptos básicos de la programación de Unity. Si desea crear juegos bidimensionales, un tutorial de Unity 2d lo ayudará. De manera similar, un tutorial de Unity 3d lo guiará a lo largo del proceso de creación de juegos tridimensionales. Además, la programación de Unity se puede utilizar para crear juegos para varias plataformas, tanto grandes como pequeñas, para dirigirse a una gran parte de la audiencia relevante. Unity surge como una de las mejores plataformas para usar en juegos multijugador. Cuando intente aprender Unity, tenga en cuenta las diversas funciones que ofrece a sus usuarios.
+
+¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de unidad?
+Al ofrecer numerosos tutoriales de Unity, Ciberninjas actúa como una solución integral para los principiantes que desean aprender la programación de Unity. Los tutoriales para principiantes de Unity disponibles en la plataforma ayudan a los usuarios a ponerse en marcha y convertirse en expertos en la programación de Unity.
+
+Siga los tutoriales y cursos de Unity en Ciberninjas para mantenerse al día con las últimas noticias, conocimientos, consejos y trucos.
+
+¿Cuánto tiempo se tarda en aprender Unity?
+El tiempo necesario para aprender Unity depende de cuánto sepa realmente. Si ya está familiarizado con los conceptos de programación orientada a objetos, con aproximadamente 7 a 8 horas de práctica al día, le llevará alrededor de 2 meses. Sin embargo, si se parte de la zona cero, lo normal es de 4 a 6 meses.
+
+¿Unity necesita codificación?
+Si. Se realiza principalmente mediante el lenguaje de programación C # .
+
+¿Qué es la API de Unity?
+Unity API es una plataforma que ofrece una variedad de servicios e información disponible en Webroot. El acceso se proporciona con métodos REST del servicio web.
+
+## Unreal Engine
+
+¿Qué es Unreal Engine?
+Unreal Engine es un motor de juegos que ayuda a los desarrolladores de juegos a crear juegos realistas. Puede diseñar y desarrollar juegos sin esfuerzo para una interfaz móvil simple o una pantalla grande de una computadora. Ya sea un juego 2D o un juego de consola AAA, puede trabajar en Unreal Engine 4, la última versión de Unreal Engine, y crear juegos emocionantes. Hoy en día es popular entre muchos programadores debido a sus increíbles poderes gráficos y características fáciles de usar.
+
+¿Cuáles son los requisitos previos para aprender Unreal Engine?
+Para aprender y desarrollar videojuegos usando Unreal Engine, necesita tener un sistema con al menos esta configuración:
+
+Una PC con sistema operativo Windows de 64 bits o Mac OS X 10.9.2 y versiones actualizadas
+Una tarjeta de video con controlador DX11
+8 GB de RAM
+Un procesador AMD / procesador Intel de cuatro núcleos
+El requisito más importante es tu afán por desarrollar un juego. Se requieren conocimientos básicos de informática y programación para utilizar el motor. Tu curiosidad por explorar nuevas aplicaciones puede ayudarte a crear nuevos juegos con Unreal Engine 4 (UE4).
+
+¿Por qué debería aprender Unreal Engine 4?
+Ofrece una suite completa para construir una variedad de videojuegos. No solo juegos en 2D, sino que también puede diseñar entornos de juego fascinantes basados ​​en las tecnologías de Realidad Aumentada (AR) y Realidad Virtual (VR). Hay varias herramientas en UE4 para crear juegos interactivos. No necesita preocuparse si no tiene experiencia en codificación. Puede crear videojuegos a través de Blueprints que ofrecen soporte de codificación visual y simple para principiantes. De lo contrario, se requieren conocimientos de C ++ para la programación de Unreal Engine. UE tiene una interfaz clara y fácil de usar que lo hace tan popular.
+
+¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Unreal Engine?
+Antes de comenzar a construir su primer juego, siga algunos tutoriales de Unreal Engine para desarrollar una comprensión sólida de la creación de videojuegos. Puede encontrar los mejores tutoriales de Unreal Engine 4 para principiantes y usuarios avanzados en Ciberninjas. No dudes en seguir a Ciberninjas en redes sociales para mantenerse actualizado sobre las últimas noticias y conocimientos de Unreal Engine.
+
+## Godot
+
 ### **Relacionados** <!-- omit in toc -->
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
