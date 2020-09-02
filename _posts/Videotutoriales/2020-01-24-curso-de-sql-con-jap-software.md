@@ -17,4 +17,4 @@ tags: [SQL, Videotutorial SQL, Jap Software]
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLLJJqiFt6VPpzuD4iY1AEEy1nlZBC0ybM" allowfullscreen></iframe>
 </div><br/>
 
-[🗃 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Cursos de Bases de Datos 📂](/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
