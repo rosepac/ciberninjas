@@ -15,13 +15,15 @@ excerpt: >-
   Los mejores editores de texto, notas y creación de diarios con los que de editar publicaciones y redactar tus pensamientos con el lenguaje de Markdown.
 canonical_URL: https://ciberninjas.com/editores-markdown/
 permalink: /editores-markdown/
-date: 2020-08-23 18:32:32
+date: 2020-09-02 05:32:32
 last_modified_at: 
 published: true
 
 ---
 
-Vamos a echar un vistazo a **los mejores editores de Markdown** creados por y para ser usados con **el lenguaje de marcado ligero Markdown** que pelea por convertirse en un estándar. Si aún no sabes que es Markdown estás tardando en descubrirlo, a continuación hare una pequeña introducción y posteriormente, veremos preciosos editores que nos van a facilitar la tarea diaria y aumentar nuestra productividad, además de reducirnos el tiempo de creación de nuestras publicaciones.
+Vamos a echar un vistazo a **los mejores editores de Markdown** creados por y para ser usados con **el lenguaje de marcado ligero Markdown** que pelea por convertirse en un estándar, la mayoría de estos **editores pueden instalarse tanto en Windows como en Linux**.
+
+Si aún no sabes que es Markdown estás tardando en descubrirlo, a continuación hare una pequeña introducción y posteriormente, veremos preciosos editores que nos van a facilitar la tarea diaria y aumentar nuestra productividad, además de reducirnos el tiempo de creación de nuestras publicaciones.
 
 A continuación, con 4 excelentes editores que te van a permitir realizar muchas diferentes tareas con Markdown además de ayudarte a utilizarlo sin apenas dedicarle tiempo; reduciendo tu curva de aprendizaje casi a la nada.
 
