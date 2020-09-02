@@ -31,7 +31,15 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
   - [¿Por qué debería aprender Córdoba?](#por-qué-debería-aprender-córdoba)
   - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Cordova?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-cordova)
 - [**React**](#react)
-  - [**React Native**](#react-native)
+  - [¿Cómo aprender a React?](#cómo-aprender-a-react)
+  - [¿Dónde empezar a aprender React?](#dónde-empezar-a-aprender-react)
+  - [¿Cuáles son algunas buenas formas de aprender ReactJS?](#cuáles-son-algunas-buenas-formas-de-aprender-reactjs)
+  - [¿Puedo aprender React sin saber JavaScript?](#puedo-aprender-react-sin-saber-javascript)
+  - [¿Qué es React?](#qué-es-react)
+  - [¿Cuáles son los requisitos previos para aprender React?](#cuáles-son-los-requisitos-previos-para-aprender-react)
+  - [¿Por qué debería aprender React?](#por-qué-debería-aprender-react)
+  - [¿Cuáles son los mejores libros para aprender React?](#cuáles-son-los-mejores-libros-para-aprender-react)
+- [**React Native**](#react-native)
   - [¿Cómo aprender React Native?](#cómo-aprender-react-native)
   - [¿Dónde aprender React Native?](#dónde-aprender-react-native)
   - [¿Cuál es la mejor fuente para aprender React Native?](#cuál-es-la-mejor-fuente-para-aprender-react-native)
@@ -41,6 +49,14 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
   - [¿Cuáles son los requisitos previos para aprender React Native?](#cuáles-son-los-requisitos-previos-para-aprender-react-native)
   - [¿Por qué debería aprender React Native?](#por-qué-debería-aprender-react-native)
 - [**Vue**](#vue)
+  - [¿Qué es Vue.Js?](#qué-es-vuejs)
+  - [¿Cuáles son los requisitos previos para aprender Vue.js?](#cuáles-son-los-requisitos-previos-para-aprender-vuejs)
+  - [¿Por qué debería aprender Vue.Js?](#por-qué-debería-aprender-vuejs)
+  - [¿Cómo trabajar con vue.js?](#cómo-trabajar-con-vuejs)
+  - [¿Dónde aprender vue.js?](#dónde-aprender-vuejs)
+  - [¿Cuáles son los mejores libros para aprender Vue.Js?](#cuáles-son-los-mejores-libros-para-aprender-vuejs)
+  - [¿Es Vue js un marco o una biblioteca?](#es-vue-js-un-marco-o-una-biblioteca)
+  - [¿Por qué Vue JS es mejor que Angular?](#por-qué-vue-js-es-mejor-que-angular)
 
 ## **Programación Web 👩‍💻**
 
@@ -122,7 +138,51 @@ Ciberninjas es un gran lugar para descubrir los mejores tutoriales de Cordova. S
 - [React JS - Curso de introducción desde cero y primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-curso-de-introduccion-desde-cero-y-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-inicia-en-el-mundo-de-los-frameworks-de-javascript%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### **React Native**
+### ¿Cómo aprender a React?
+Para comenzar con React, primero debe aprender JavaScript. También debe tener un conocimiento básico de los marcos JS. Puede usar libros, tutoriales, lecciones en video, seminarios web, etc. para aprender React y tecnologías relacionadas.
+
+### ¿Dónde empezar a aprender React?
+
+Puede comenzar a aprender React con un libro y un sistema o con estos tutoriales gratuitos de React seleccionados por la comunidad hackr.io. La práctica es la clave, por lo que necesita aprender conceptos y luego practicarlos a fondo.
+
+### ¿Cuáles son algunas buenas formas de aprender ReactJS?
+
+A continuación se muestran algunas buenas formas de aprender ReactJS:
+
+- Busque tutoriales de React en línea
+- Practica con regularidad
+- Leer los mejores libros de React para comprender los conceptos subyacentes
+- Vea lecciones en video en línea y asista a seminarios web
+
+### ¿Puedo aprender React sin saber JavaScript?
+En comparación con otros frameworks JS frontend, React se basa en gran medida en JavaScript. Dado que, técnicamente, React es una biblioteca JS, no es posible aprender React sin conocer JavaScript.
+
+### ¿Qué es React?
+
+Desarrollada y administrada por Facebook y una comunidad de desarrolladores y organizaciones individuales, React es una biblioteca JS destinada a crear interfaces de usuario. Es una opción adecuada para desarrollar aplicaciones móviles o de una sola página.
+
+### ¿Cuáles son los requisitos previos para aprender React?
+
+El conocimiento del lenguaje de programación JavaScript en particular y el concepto de programación, en general, son los requisitos previos para aprender ReactJS. Un poco de experiencia con HTML será excelente para suavizar el proceso de aprendizaje de React.
+
+### ¿Por qué debería aprender React?
+
+Hay varias buenas razones para comenzar a aprender React ahora. Los más importantes entre ellos son:
+
+- Más fácil de aprender y comenzar.
+- Comunidad de hongos.
+- Le ahorra mucho esfuerzo, dinero y tiempo con sus componentes reutilizables.
+
+### ¿Cuáles son los mejores libros para aprender React?
+
+Algunos de los mejores libros para aprender React son:
+
+- Learning React: Desarrollo web funcional con React y Redux por Alex Banks y Eve Porcello.
+- React: Up & Running: Creación de aplicaciones web por Stoyan Stefanov.
+- React in Action por Mark Tielens Thomas.
+- Reaccionar rápidamente por Azat Mardan.
+
+## **React Native**
 
 - [Crea tu propio Netflix con React Native con Mario Díez](/react-native-crear-aplicacion-como-netflix-con-mario-diez/){:target="_blank" rel="nofollow,noreferrer"}
 - [React Native con Iván B. Trujillo](/react-native-con-ivan-b-trujillo/){:target="_blank" rel="nofollow,noreferrer"}
@@ -147,13 +207,9 @@ La mejor fuente para aprender React Native puede ser cualquiera que le parezca i
 A continuación se muestran 5 de los mejores libros sobre React Native:
 
 1. Reaccionar nativo con el ejemplo de Richard Kho
-
 2. React Native Cookbook de Crysfel Villa y Stan Bershadskiy
-
 3. React Native for Mobile Development por Akshat Paul y Abhishek Nalwaya
-
 4. React Native in Action de Nader Dabit
-
 5. Aprendiendo React Native por Bonnie Eisenman
 
 ### ¿Quién puede aprender React Native?
@@ -190,6 +246,70 @@ Necesita aprender React Native si está interesado o necesita desarrollar aplica
 - [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Primeros pasos con Vue.js: Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Vue, JavaScript y desarrollo Web moderno](https://escuelavue.es/series){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
+
+### ¿Qué es Vue.Js?
+
+VueJS es uno de los marcos de JavaScript más populares. Es un marco JS MVV (Model-View-ViewModel) de código abierto que se utiliza para crear aplicaciones e interfaces de usuario de una sola página.
+
+
+### ¿Cuáles son los requisitos previos para aprender Vue.js?
+
+Los siguientes son los requisitos previos para aprender VueJS:
+
+- Comprensión básica de CSS y HTML.
+- Conceptos básicos de JavaScript.
+- Comprensión sólida del DOM (Modelo de objetos de documento).
+
+### ¿Por qué debería aprender Vue.Js?
+
+Hay muchas razones para comenzar con Vue. Algunos importantes son:
+
+- Impresionante documentación.
+- Excelente para desarrollar aplicaciones de pequeño tamaño y rendimiento.
+- Cuenta con una CLI.
+- Altamente flexible y escalable.
+- Un montón de soluciones integradas para hacer muchas cosas.
+
+### ¿Cómo trabajar con vue.js?
+
+Simplemente descargue el marco y utilícelo. Aquí hay algunas cosas que debe tener en cuenta al trabajar con VueJS:
+
+- Cada aplicación se crea importando la biblioteca y luego creando una nueva instancia de Vue.
+- Ideas mejoradas tomadas de otros frameworks JS populares.
+- El bloque de construcción central es componente, componente y componente.
+- Vue Devtools están disponibles.
+
+### ¿Dónde aprender vue.js?
+
+Puedes comenzar a aprender Vue con:
+
+- Los mejores libros de VueJS.
+- Tutoriales gratuitos de Vue recomendados por la comunidad hackr.io.
+- Seminarios web.
+- Lecciones en video de YouTube.
+Debe aprovechar la documentación de Vue durante cualquier etapa de su aprendizaje de VueJS. Es completo y fácil de revisar.
+
+### ¿Cuáles son los mejores libros para aprender Vue.Js?
+
+Hay muchos buenos libros sobre VueJS. Algunos de los mejores son:
+
+- Introducción a Vue.js: aprenda a crear aplicaciones de una sola página en Vue desde cero por Brett Nelson.
+- Vue.js: en funcionamiento: creación de aplicaciones web accesibles y eficaces de Callum Macrae.
+- Libro de cocina de Vue.js 2 de Andrea Passaglia.
+- Vue.js en acción por Benjamin Listwon y Erik Hanchett.
+
+### ¿Es Vue js un marco o una biblioteca?
+
+VueJS es un marco de JavaScript MVV (Model-View-Viewmodel) de código abierto para crear interfaces de usuario y aplicaciones de una sola página.
+
+### ¿Por qué Vue JS es mejor que Angular?
+
+Tanto Angular como Vue.js tienen sus pros y sus contras entre sí. VueJS es mejor que Angular porque:
+
+- Presenta un excelente rendimiento y capacidad de asignación de memoria.
+- Es considerablemente más fácil de aprender.
+- Ofrece una mayor personalización.
+- Admite enfoques de enlace de datos unidireccionales y bidireccionales.
 
 ### **Relacionados** <!-- omit in toc -->
 
