@@ -62,7 +62,8 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 - [18. **Tuts +**](#18-tuts-)
 - [19. **SitePoint**](#19-sitepoint)
 - [20. **Trucos CSS**](#20-trucos-css)
-- [21. **SQLZoo**](#21-sqlzoo)
+- [21. **SQL Bolt**](#21-sql-bolt)
+- [22. **SQLZoo**](#22-sqlzoo)
 - [**Aprenda suficiente la línea de comandos como para ser peligroso**](#aprenda-suficiente-la-línea-de-comandos-como-para-ser-peligroso)
 - [**Usuario avanzado de la línea de comandos**](#usuario-avanzado-de-la-línea-de-comandos)
 - [**Conquistando la línea de comandos**](#conquistando-la-línea-de-comandos)
@@ -327,7 +328,13 @@ https://css-tricks.com/
 
 [[EN] 🚪 Visita CSS Tricks(https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-## 21. **SQLZoo**
+> Páginas web con tutoriales interactivos en los que aprender y practicar el lenguaje de programación SQL.
+
+## 21. **SQL Bolt**
+
+Bienvenido a SQLBolt, una serie de lecciones y ejercicios interactivos diseñados para ayudarlo a aprender SQL rápidamente directamente en su navegador. - [VISITAR](https://sqlbolt.com/){:target="_blank" rel="nofollow,noreferrer"}
+
+## 22. **SQLZoo**
 
 SQL significa  Structured Query Language, que significa almacenar y recuperar los datos y este sitio web se enfoca principalmente en enseñar la creación y obtención de bases de datos.
 
