@@ -193,17 +193,23 @@ PyDev es un editor de Python de terceros para Eclipse. Este editor puede usarse 
 
 ![Logotipo del entorno de desarrollo o IDE denominado Thonny](/assets/img/blog/python-ide/thonny.webp "Logotipo del entorno de desarrollo o IDE denominado Thonny")
 
-Thonny es un IDE para la programación de aprendizaje y enseñanza, especialmente diseñado con el entorno principiante de secuencias de comandos Pythonista. Está desarrollado en la Universidad de Tartu, que puedes descargar gratis en el repositorio de Bitbucket para Windows, Linux y Mac.
+Thonny es un IDE para la programación enfocado en el aprendizaje y la enseñanza, especialmente diseñado para los principiantes dentro del los comandos y secuencias de Python.
+
+Está desarrollado en la Universidad de Tartu, y se puede descargar de forma gratuita desde el repositorio de Bitbucket o Github para Windows, Linux y Mac.
 
 ### **Características de Thonny**
+
+Si quieres conocer más en profundidad, todas y cada una de las características de Thonny. No dudes en visitar nuestro artículo: [Thonny, un IDE de Python para principiantes](https://ciberninjas.com/thonny-python-ide/){:target="_blank"}.
+
+A continuación, un breve resumen:
 
 - Permite a los desarrolladores ver cómo sus códigos y comandos de shell afectan las variables de Python.
 - Tiene un depurador simple.
 - Proporciona soporte para evaluar una expresión.
 - La llamada a la función Python abre una nueva ventana con una tabla de variables locales separada, así como un puntero de código.
-- Detecta automáticamente el error de sintaxis.
+- Detecta automáticamente los errores de sintaxis.
 
-[🔥 Descargar Thonny](https://thonny.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Thonny](https://ciberninjas.com/thonny-python-ide/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Wing**
 

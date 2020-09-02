@@ -26,7 +26,7 @@ Entre sus características destacadas se encuentran diferentes formas de recorre
 A continuación, vamos a conocer más concretamente las características que nos ofrece Thonny.
 
 - [**Características del IDE Thonny**](#características-del-ide-thonny)
-- [**¿Cómo descargar Thonny, el ide para Python?**](#cómo-descargar-thonny-el-ide-para-python)
+- [**¿Cómo descargar Thonny, el ide perfecto para los principiantes de Python?**](#cómo-descargar-thonny-el-ide-perfecto-para-los-principiantes-de-python)
 
 ## **Características del IDE Thonny**
 
@@ -42,7 +42,7 @@ A continuación, vamos a conocer más concretamente las características que nos
 - **Sistema amigable para principiantes**. Seleccione Herramientas → Abrir shell del sistema para instalar paquetes adicionales o aprender a manejar Python en la línea de comandos. Thonny se ocupa de PATH y de los conflictos con otros intérpretes de Python.
 - **GUI PIP simple y limpio**. Seleccione Herramientas → Administrar paquetes para una instalación aún más sencilla de paquetes de terceros.
 
-## **¿Cómo descargar Thonny, el ide para Python?**
+## **¿Cómo descargar Thonny, el ide perfecto para los principiantes de Python?**
 
 Las últimas versiones estables están vinculadas en el cuadro de descarga en la parte superior de esta página. Las versiones anteriores y las versiones preliminares se pueden encontrar en [Github](https://github.com/thonny/thonny/releases){:target="_blank" rel="nofollow,noreferrer"}.
 
