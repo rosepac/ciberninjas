@@ -9,7 +9,7 @@ tags: [Cursos Gratis, Servidores]
 title: "▷ 22 Mejores cursos gratis de servidores"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto"
-date: 2020-08-21T10:22:00.000+02:00
+date: 2020-09-02T04:22:00.000+02:00
 permalink: /cursos-servidores/
 canonical_URL: https://ciberninjas.com/cursos-servidores/
 thumbnail: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
