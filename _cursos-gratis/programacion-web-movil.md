@@ -21,7 +21,28 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Programación Web 👩‍💻
+- [**Programación Web 👩‍💻**](#programación-web-)
+- [**Angular <i class="fab fa-angular"></i>**](#angular-i-classfab-fa-angulari)
+- [**Ionic**](#ionic)
+- [**JQuery**](#jquery)
+- [**PhoneGap (Apache Cordoba)**](#phonegap-apache-cordoba)
+  - [¿Qué es Córdoba?](#qué-es-córdoba)
+  - [¿Cuáles son los requisitos previos para aprender Córdoba?](#cuáles-son-los-requisitos-previos-para-aprender-córdoba)
+  - [¿Por qué debería aprender Córdoba?](#por-qué-debería-aprender-córdoba)
+  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Cordova?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-cordova)
+- [**React**](#react)
+  - [**React Native**](#react-native)
+  - [¿Cómo aprender React Native?](#cómo-aprender-react-native)
+  - [¿Dónde aprender React Native?](#dónde-aprender-react-native)
+  - [¿Cuál es la mejor fuente para aprender React Native?](#cuál-es-la-mejor-fuente-para-aprender-react-native)
+  - [¿Cuál es el mejor libro para aprender React Native?](#cuál-es-el-mejor-libro-para-aprender-react-native)
+  - [¿Quién puede aprender React Native?](#quién-puede-aprender-react-native)
+  - [¿Debo aprender React Native o Flutter?](#debo-aprender-react-native-o-flutter)
+  - [¿Cuáles son los requisitos previos para aprender React Native?](#cuáles-son-los-requisitos-previos-para-aprender-react-native)
+  - [¿Por qué debería aprender React Native?](#por-qué-debería-aprender-react-native)
+- [**Vue**](#vue)
+
+## **Programación Web 👩‍💻**
 
 - [Aplicaciones móviles (2011)](http://ocw.uc3m.es/ingenieria-telematica/aplicaciones-moviles){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -35,7 +56,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 - [De Novato a Desarrollador Exitoso](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fde-novato-a-desarrollador-exitoso	){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj){:target="_blank" rel="nofollow,noreferrer"} (iDESWEB, YouTube)
 
-## Angular <i class="fab fa-angular"></i>
+## **Angular <i class="fab fa-angular"></i>**
 
 - [Angular: Convierte cualquier template HTML en una WebAPP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhtml-hacia-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Angular: Fundamentos desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcurso-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -56,8 +77,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-
-## Ionic
+## **Ionic**
 
 - [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 - [Curso de Ionic + Firebase](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_uPaY3MSr3dqG9DJTJ-XVC) (Eduardo Ibarra, Youtube)
@@ -69,16 +89,32 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 - [Ionic: crear una aplicación iOS o Android](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcurso-de-ionic-aprende-a-crear-una-aplicacion-ios-o-android){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Ionic, introducción y creación de una app](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 
-## JQuery
+## **JQuery**
 
 - [JQuery para implementar tus aplicaciones web (2017)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faprende-jquery-para-implementar-tus-aplicaciones-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [jQuery UI - Amplia los límites de jQuery](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjquery-ui-amplia-los-limites-de-jquery){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## PhoneGap (Apache Cordoba)
+## **PhoneGap (Apache Cordoba)**
 
 - [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 
-## React
+### ¿Qué es Córdoba?
+
+Cordova es un marco que permite a los desarrolladores crear aplicaciones móviles híbridas utilizando HTML, CSS y JavaScript. Es una gran herramienta para hacer que las aplicaciones web sean compatibles con múltiples plataformas móviles, es decir, iOS, Android y Windows Phone. Cordova se comporta como un contenedor y conecta una aplicación de sitio web con características móviles nativas. Cordova es un marco de código abierto para crear aplicaciones móviles multiplataforma.
+
+### ¿Cuáles son los requisitos previos para aprender Córdoba?
+
+Está listo para seguir adelante si está familiarizado con HTML, CSS y el lenguaje JavaScript. Algunos conocimientos básicos sobre la creación de una aplicación de una sola página también pueden ayudar a aprender Cordova rápidamente. Uno debe comenzar con un tutorial de Cordova para principiantes y luego pasar a los tutoriales avanzados.
+
+### ¿Por qué debería aprender Córdoba?
+
+Cordova es un marco de desarrollo de aplicaciones móviles para crear aplicaciones híbridas que pueden ejecutarse en varias plataformas móviles. Usando Cordova, puede acceder a funcionalidades del teléfono como la cámara, geolocalización, medios, SMS, contactos y muchas otras. Una gran comunidad de programadores de apoyo detrás de Cordova significa que no está solo mientras resuelve un error. Además, Cordova gestiona la compilación de paquetes de una aplicación, lo que hace que la aplicación sea adecuada para diferentes tiendas de aplicaciones. Básicamente, los desarrolladores no necesitan usar herramientas ni lenguajes adicionales para crear la misma aplicación en múltiples plataformas, por lo tanto, ahorran tiempo y recursos.
+
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Cordova?
+
+Ciberninjas es un gran lugar para descubrir los mejores tutoriales de Cordova. Síguenos a través de las redes sociales parar estar informado sobre noticias y artículos recientes, incluido Cordova, sobre Hackr.
+
+## **React**
 
 - [Aprender React JS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprendiendo-react%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Fundamentos de React](https://www.youtube.com/playlist?list=PLpOqH6AE0tNg-6kaolSnySpJ0vxk3Xhoo){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2019)
@@ -86,14 +122,64 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 - [React JS - Curso de introducción desde cero y primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-curso-de-introduccion-desde-cero-y-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-inicia-en-el-mundo-de-los-frameworks-de-javascript%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### React Native
+### **React Native**
 
 - [Crea tu propio Netflix con React Native con Mario Díez](/react-native-crear-aplicacion-como-netflix-con-mario-diez/){:target="_blank" rel="nofollow,noreferrer"}
 - [React Native con Iván B. Trujillo](/react-native-con-ivan-b-trujillo/){:target="_blank" rel="nofollow,noreferrer"}
 - [React Native con Mario Díez](/react-native-con-mario-diez/){:target="_blank" rel="nofollow,noreferrer"}
 - [React Native por Ciencia del Aprendizaje Fácil](/react-native-desde-ciencia-del-aprendizaje-facil/){:target="_blank" rel="nofollow,noreferrer"}
 
-## Vue
+### ¿Cómo aprender React Native?
+
+Comenzar con React Native requiere una comprensión básica del desarrollo de aplicaciones móviles. Debe conocer los diversos componentes de una aplicación de Android o iOS, como Button, Drawer, TabBar y Toolbar. Luego, puede continuar con la práctica de React Native como cualquier otro marco de desarrollo de aplicaciones.
+
+### ¿Dónde aprender React Native?
+
+Puede aprender React Native desde varias plataformas. Ciberninjas, Udemy, Coursera y YouTube son solo algunos de ellos. También puede consultar libros y libros electrónicos para mejorar aún más su experiencia de aprendizaje con React Native.
+
+### ¿Cuál es la mejor fuente para aprender React Native?
+
+La mejor fuente para aprender React Native puede ser cualquiera que le parezca interesante y divertida. Una explicación adecuada y ejemplos amplios son dos atributos de una gran fuente de aprendizaje de React Native.
+
+
+### ¿Cuál es el mejor libro para aprender React Native?
+
+A continuación se muestran 5 de los mejores libros sobre React Native:
+
+1. Reaccionar nativo con el ejemplo de Richard Kho
+
+2. React Native Cookbook de Crysfel Villa y Stan Bershadskiy
+
+3. React Native for Mobile Development por Akshat Paul y Abhishek Nalwaya
+
+4. React Native in Action de Nader Dabit
+
+5. Aprendiendo React Native por Bonnie Eisenman
+
+### ¿Quién puede aprender React Native?
+
+Aunque cualquiera puede aprender React Native, será mucho más fácil para quienes tengan un conocimiento sólido del desarrollo de aplicaciones móviles y JS. Tomará bastante tiempo para las personas que son completamente nuevas en el desarrollo de aplicaciones móviles.
+
+### ¿Debo aprender React Native o Flutter?
+
+Tanto React Native como Flutter son marcos de desarrollo de aplicaciones móviles de código abierto. Sin embargo, cuando necesite elegir uno de ellos para satisfacer sus requisitos, debe considerar una variedad de factores.
+
+En términos de popularidad, React Native es más popular. Sin embargo, Flutter está creciendo mucho más rápido y también tiene un mejor rendimiento. Sin embargo, los ejecutables creados con React Native son más pequeños que los creados con Flutter.
+
+### ¿Cuáles son los requisitos previos para aprender React Native?
+
+Los siguientes son los requisitos previos para aprender React Native:
+
+1. Conocimientos sólidos de JavaScript y npm
+2. Capacidad para pensar en términos de componentes
+3. Comprensión básica de Xcode
+4. Algo de experiencia con Android
+
+### ¿Por qué debería aprender React Native?
+
+Necesita aprender React Native si está interesado o necesita desarrollar aplicaciones móviles con capacidades de plataforma nativa.
+
+## **Vue**
 
 - [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Anticuado, ver más actual: Escuela Vue) (WMedia)
 - [Curso de Vue JS](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT){:target="_blank" rel="nofollow,noreferrer"} (BluuWeb, Youtube) (2018)
