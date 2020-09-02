@@ -9,9 +9,9 @@ tags: [Cursos Gratis, Bases de Datos]
 title: "▷ 22 Mejores cursos gratis de bases de datos"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
-date: 2020-08-21T10:22:00.000+02:00
-permalink: /cursos-bases-datos/
-canonical_URL: https://ciberninjas.com/cursos-bases-datos/
+date: 2020-09-02T08:22:00.000+02:00
+permalink: /cursos-programacion/
+canonical_URL: https://ciberninjas.com/cursos-programacion/
 thumbnail: "/assets/img/paginas-cursos/cursos-programacion.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-programacion.webp"
 img: "/assets/img/paginas-cursos/cursos-programacion.webp"
