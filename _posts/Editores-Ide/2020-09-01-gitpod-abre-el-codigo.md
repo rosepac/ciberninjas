@@ -7,8 +7,8 @@ tags:
 - Editores de Texto
 - Gitpod
 - Desarrollo en Nube
-# thumbnail: /assets/img/blog/webstorm-wallpaper-1.webp
-# feature-img: /assets/img/blog/webstorm-wallpaper-1.webp
+thumbnail: /assets/img/blog/02-gitpod.webp
+feature-img: /assets/img/blog/02-gitpod.webp
 title: '▷ Gitpod: Plataforma IDE en la nube de código abierto'
 description: >-
   Gitpod aplica CI / CD a los entornos de desarrollo, lo que les permite mantenerse como código.
