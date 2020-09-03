@@ -121,123 +121,122 @@ Si no sabes qué es SQL y por qué deberías aprenderlo, vamos a ver [una breve 
 
 ## **Cursos gratis de Big Data 👨‍👩‍👦**
 
-[👉 Ir a los Cursos Gratis de Big Data 👨‍👩‍👦](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Big Data 👨‍👩‍👦](https://ciberninjas.com/cursos-big-data/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Machine Learning**
 
-[👉 Ir a de Machine Learning](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a de Machine Learning](https://ciberninjas.com/cursos-machine-y-deep-learning/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de  Criptomonedas y Cadenas de Bloques ⛓**
 
-[👉 Ir a los Cursos Gratis de Criptomonedas y Blockchain](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Criptomonedas y Blockchain](https://ciberninjas.com/cursos-blockchain-criptos/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Ciencias de la Computación 🔬**
 
-[👉 Ir a los Cursos Gratis de Ciencias de la Computación 📁](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Ciencias de la Computación 📁](https://ciberninjas.com/cursos-ciencias-computacion/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Comercio Electrónico**
 
-[👉 Ir a los Cursos Gratis de Comercio Electrónico 🛒](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Comercio Electrónico 🛒](https://ciberninjas.com/cursos-comercio-electronico/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Desarrollo Web**
 
-[👉 Ir a los Cursos Gratis de Desarrollo Web](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Desarrollo Web](https://ciberninjas.com/cursos-programacion-web-movil/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Android <i class="fa fa-android" aria-hidden="true"></i>**
 
 Android y Flutter.
 
-[👉 Ir a los Cursos Gratis de Android](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Android](https://ciberninjas.com/cursos-android/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Editores de Código**
 
-[👉 Ir a los Cursos Gratis de Editores de Código](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Editores de Código](https://ciberninjas.com/cursos-editores-texto/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Navegadores**
 
-[👉 Ir a los Cursos Gratis de Navegadores](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
-
+[👉 Ir a los Cursos Gratis de Navegadores](https://ciberninjas.com/cursos-navegadores/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Diseño Web 👨‍🎨**
 
-[👉 Ir a los Cursos Gratis de Diseño Web 👨‍🎨](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Diseño Web 👨‍🎨](https://ciberninjas.com/cursos-programacion-web-movil/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Bootstrap**
 
-[👉 Ir a los Cursos Gratis de Bootstrap](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Bootstrap](https://ciberninjas.com/cursos-bootstrap/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Lenguajes de Estilos y Preprocesadores 🎨**
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
 
-[👉 Ir a los Cursos Gratis de Lenguajes de Estilos y Preprocesadores 🎨](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Lenguajes de Estilos y Preprocesadores 🎨](https://ciberninjas.com/cursos-css-preprocesadores/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Lenguajes de Marcado ✍**
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
 
 HTML, Markdown, XHTML, Open.
 
-[👉 Ir a los Cursos Gratis de Lenguajes de Marcado ✍](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Lenguajes de Marcado ✍](https://ciberninjas.com/cursos-lenguajes-marcado/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Sistemas de Plantillas 🌱**
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 
-[👉 Ir a los Cursos Gratis de Sistemas de Plantillas 🌱](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Sistemas de Plantillas 🌱](https://ciberninjas.com/cursos-prototipado-ux-ui/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Ecosistema de Software Libre 🐧**
 
-[👉 Ir a los Cursos Gratis de Ecosistema de Software Libre 🐧](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Ecosistema de Software Libre 🐧](https://ciberninjas.com/cursos-linux-software-libre/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Lenguajes de Programación 👨‍💻**
 
-[👉 Ir a los Cursos Gratis de Lenguajes de Programación 👨‍💻](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Lenguajes de Programación 👨‍💻](https://ciberninjas.com/cursos-programacion/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Metodologías de Desarrollo 💼**
 
-[👉 Ir a los Cursos Gratis de Metodologías de Desarrollo 💼](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Metodologías de Desarrollo 💼](https://ciberninjas.com/cursos-flujos-trabajo-workflow/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Ofimática 💻**
 
-[👉 Ir a los Cursos Gratis de Ofimática 💻](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Ofimática 💻](https://ciberninjas.com/cursos-ofimatica/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Procesadores de Lenguaje 🔨**
 
-[👉 Ir a los Cursos Gratis de Procesadores de Lenguaje 🔨](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Procesadores de Lenguaje 🔨](https://ciberninjas.com/cursos-procesadores-de-lenguajes/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Programación Infantil 👦**
 
-[👉 Ir a los Cursos Gratis de Programación Infantil 👦](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Programación Infantil 👦](https://ciberninjas.com/cursos-programacion-infantil/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Programación Web 👩‍💻**
 
-[👉 Ir a los Cursos Gratis de Programación Web 👩‍💻](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Programación Web 👩‍💻](https://ciberninjas.com/cursos-programacion-web-movil/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Programación de Videojuegos 🎮**
 
-[👉 Ir a los Cursos Gratis de Programación de Videojuegos 🎮](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Programación de Videojuegos 🎮](https://ciberninjas.com/cursos-videojuegos/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Redes 🕸**
 
-[👉 Ir a los Cursos Gratis de Redes 🕸](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Redes 🕸](https://ciberninjas.com/cursos-redes/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Servidores y Servicios Nube ⛅**
 
-[👉 Ir a los Cursos Gratis de Servidores y Servicios Nube ⛅](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Servidores y Servicios Nube ⛅](https://ciberninjas.com/cursos-servidores/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Redes de Telefonía 📞**
 
-[👉 Ir a los Cursos Gratis de Redes de Telefonía 📞](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Redes de Telefonía 📞](https://ciberninjas.com/cursos-redes-telefonicas/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Robótica 🤖**
 
-[👉 Ir a los Cursos Gratis de Robótica 🤖](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Robótica 🤖](https://ciberninjas.com/cursos-robotica/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Seguridad 👮‍♀️**
 
-[👉 Ir a los Cursos Gratis de Seguridad 👮‍♀️](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Seguridad 👮‍♀️](https://ciberninjas.com/cursos-seguridad/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Técnico de Software & Hardware 👨‍🔧**
 
-[👉 Ir a los Cursos Gratis de Técnico de Software & Hardware 👨‍🔧](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Técnico de Software & Hardware 👨‍🔧](https://ciberninjas.com/cursos-software-tecnico/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Webmaster 👷‍♂️**
 
@@ -245,19 +244,19 @@ HTML, Markdown, XHTML, Open.
 
 ## **Cursos gratis de Accesibilidad Web ♿**
 
-[👉 Ir a los Cursos Gratis de Accesibilidad Web ♿](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Accesibilidad Web ♿](https://ciberninjas.com/cursos-accesibilidad-web/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Análitica Web, SEO y Posicionamiento 📈**
 
-[👉 Ir a los Cursos Gratis de Análitica Web, SEO y Posicionamiento 📈](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Análitica Web, SEO y Posicionamiento 📈](https://ciberninjas.com/cursos-seo-posicionamiento/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Marketing Digital 🏪**
 
-[👉 Ir a los Cursos Gratis de Marketing Digital 🏪](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Marketing Digital 🏪](https://ciberninjas.com/cursos-marketing-digital/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Sistemas de Gestión de Contenidos ✍**
 
-[👉 Ir a los Cursos Gratis de Sistemas de Gestión de Contenidos ✍](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Sistemas de Gestión de Contenidos ✍](https://ciberninjas.com/cursos-sistemas-gestion-cms/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>**
 
