@@ -260,7 +260,7 @@ HTML, Markdown, XHTML, Open.
 
 ## **Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>**
 
-[👉 Ir a los Cursos Gratis de Wordpress](https://ciberninjas.com/cursos-bases-datos/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Ir a los Cursos Gratis de Wordpress](https://ciberninjas.com/cursos-sistemas-gestion-cms/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 <!-- Por Actualizar -->
 <!-- Universidad de Murcia https://umumooc.um.es/ -->
