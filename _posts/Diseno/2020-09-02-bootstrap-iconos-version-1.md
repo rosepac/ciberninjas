@@ -7,8 +7,8 @@ tags:
 - Bootstrap
 - Framework CSS
 - Iconos
-thumbnail: /assets/img/blog/bootstrap-5.webp
-feature-img: /assets/img/blog/bootstrap-5.webp
+thumbnail: /assets/img/blog/bootstrap-iconos.webp
+feature-img: /assets/img/blog/bootstrap-iconos.webp
 title: '▷ Lanzados los iconos de Bootstrap, en su primera versión estable'
 description: >-
   ¡Después de cinco alfas en los últimos nueve meses, Bootstrap lanza la versión estable de sus iconos. Más de 1.100 íconos y en camino de agregar cientos en próximos lanzamientos menores.

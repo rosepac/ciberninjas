@@ -6,8 +6,8 @@ comments: false
 tags:
 - Bootstrap
 - Framework CSS
-thumbnail: /assets/img/blog/bootstrap-5.webp
-feature-img: /assets/img/blog/bootstrap-5.webp
+thumbnail: /assets/img/blog/bootstrap-cambios-agosto.webp
+feature-img: /assets/img/blog/bootstrap-cambios-agosto.webp
 title: '▷ Bootstrap: Correcciones de Agosto 2020'
 description: >-
   Lanzamientos de nuevos parches y correcciones de pequeños problemas en las nuevas versiones de Boostrap: 4.5.1 y 4.5.2 sigue leyendo para mayor información.
