@@ -24,15 +24,9 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 2 de Septiembre
-
-- (18:00 H. ESP.) Taller online #1: Aprende a Programar desde Cero 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-taller-online-1-aprende-a-programar-desde-cero-113319768478?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
-
 ### 🔔 3 de Septiembre
 
-- (00:00 H. ESP.) Fundamentos de JDK 🗞 [Registrarse](https://www.eventbrite.com.ar/e/jdk-fundamentalks-septiembre-tickets-118032986841?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-- 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
+- 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://economiadigitalsantander.es/agenda/){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Desarrollo Móvil: Cómo empezar con David Jardón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-mobile-development-start-here-117962110849?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Desarrollador Java: Cómo Empezar, con Antonio Martín 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-java-development-start-here-117962863099?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Ciencia de Datos: Cómo Empezar, con Adrián Ceja 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-data-science-start-here-117963577235?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -584,3 +578,12 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (18:30 H. Española) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Full Stack: Cómo Empezar, con Mario Girón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-full-stack-start-here-117748513975?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} ¿Por qué apostar por Javascript?, Frameworks más destacados, Perfil del Full Stack Developer, Etc.
 - (19:00 PM H. Española) Ciberseguridad: Cómo Empezar, con Roberto López 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-cybersecurity-start-here-117960469941?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 2 de Septiembre
+
+- (18:00 H. ESP.) Taller online #1: Aprende a Programar desde Cero 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-taller-online-1-aprende-a-programar-desde-cero-113319768478?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
+
+### 🔔 3 de Septiembre
+
+- (00:00 H. ESP.) Fundamentos de JDK 🗞 [Registrarse](https://www.eventbrite.com.ar/e/jdk-fundamentalks-septiembre-tickets-118032986841?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
