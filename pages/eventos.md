@@ -73,8 +73,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 14 de Septiembre
 
-- MeT [Mujeres en Tecnología] lanzamos el MeTCaMP WeB 2020, una capacitación intensiva en programación web [REGISTRO](https://www.eventbrite.com.ar/e/metcamp-web-tickets-111985740364?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-
 ### 🔔 15 de Septiembre
 
 - (19:00 PM) ¿Pondrá Deno el mundo de Node del revés? - [Registro](https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/){:target="_blank" rel="nofollow, noreferrer"}
@@ -187,7 +185,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - [10 Times](https://10times.com/technology?month=december){:target="_blank" rel="nofollow,noreferrer"}
 - [BMC - EVentos Más Importantes de 2020](https://www.bmc.com/blogs/tech-it-conferences/){:target="_blank" rel="nofollow,noreferrer"}
 
-## **Eventos de Tecnología Anteriores**
+## **Eventos de Tecnología Pasados**
 
 ### Eventos del 18 de Junio de 2020
 
@@ -334,11 +332,11 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 ### Eventos para el 30 de Junio de 2020
 
-- ⏰ **NASA Spaceapps AI Bootcamp** (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp' target="_blank" rel="nofollow,noreferrer">https://kutt.it/nasa-space-bootcamp</a>)
-- ⏰ **Virtual Lab: Serverless** (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar' target="_blank" rel="nofollow,noreferrer">https://kutt.it/eventos-ibm-ar</a>)
-- ⏰ **Python Fundamentals aplicado: Data Science** (18:30) 👉 (<a href='https://kutt.it/30-junio-python' target="_blank" rel="nofollow,noreferrer">https://kutt.it/30-junio-python</a>)
-- ⏰ **Webinar: Tecnologías Emergentes** (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente' target="_blank" rel="nofollow,noreferrer">https://kutt.it/tecnologia-emergente</a>
-- ⏰ **Webinar: Análisis y Conclusiones del WWDC 2020** (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding' target="_blank" rel="nofollow,noreferrer">https://kutt.it/wwdc-keep-coding</a>
+- ⏰ NASA Spaceapps AI Bootcamp (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp' target="_blank" rel="nofollow,noreferrer">https://kutt.it/nasa-space-bootcamp</a>)
+- ⏰ Virtual Lab: Serverless (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar' target="_blank" rel="nofollow,noreferrer">https://kutt.it/eventos-ibm-ar</a>)
+- ⏰ Python Fundamentals aplicado: Data Science (18:30) 👉 (<a href='https://kutt.it/30-junio-python' target="_blank" rel="nofollow,noreferrer">https://kutt.it/30-junio-python</a>)
+- ⏰ Webinar: Tecnologías Emergentes (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente' target="_blank" rel="nofollow,noreferrer">https://kutt.it/tecnologia-emergente</a>
+- ⏰ Webinar: Análisis y Conclusiones del WWDC 2020 (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding' target="_blank" rel="nofollow,noreferrer">https://kutt.it/wwdc-keep-coding</a>
 
 ## **Eventos tecnológicos de Julio**
 
@@ -365,13 +363,13 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 ### Eventos para el 06 de Julio de 2020
 
-⏰ **Startups y las APIs** (Días 6, 8 y 10)
+⏰ Startups y las APIs (Días 6, 8 y 10)
 
 <a href='https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ### Eventos para el 07 de Julio de 2020
 
-- ⏰ **Webinar: inteligencia artificial aplicada a correos electrónicos** (19:00 H.) 👉 <a href='https://kutt.it/ai-mail-keepcoding'>https://kutt.it/ai-mail-keepcoding</a>
+- ⏰ Webinar: inteligencia artificial aplicada a correos electrónicos (19:00 H.) 👉 <a href='https://kutt.it/ai-mail-keepcoding'>https://kutt.it/ai-mail-keepcoding</a>
 
 ### Eventos para el 08 de Julio de 2020
 
@@ -444,34 +442,27 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 ### 🔔 13 de Agosto
 
-- (19:00 H. ESP) Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
+- Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
 [REGISTRO](https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (22:00 H. ESP -17 H. Arg) Aprende a programar con gatitos
-👉 Ver en [Canal Instagram](https://www.instagram.com/conexionhr/?hl=en){:target="_blank" rel="nofollow, noreferrer"}
+- Aprende a programar con gatitos 👉 Ver en [Canal Instagram](https://www.instagram.com/conexionhr/?hl=en){:target="_blank" rel="nofollow, noreferrer"}
 🗞 Más Info. [Twitter](https://twitter.com/iamdoomling/status/1291435341589573632){:target="_blank" rel="nofollow, noreferrer"}
-- (00:00 H. ESP - 19 hs Arg) Creando diseño web con Bootstrap
-[Formulario de REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform){:target="_blank" rel="nofollow, noreferrer"}
+- Creando diseño web con Bootstrap - [Formulario de REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 14 de Agosto
 
-- (20:30 H. Española) Webinar sobre Grafología Gratis
-👉 Registro al evento [EventBrite](https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-🗞 Temario : [Temario del Curso](http://grafologia.estrategica.pro/valor){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 H. ESP) Unreal Engine & Fortnite en la educación - [REGISTRO](https://www.eventbrite.com/e/unreal-engine-fortnite-en-la-educacion-tickets-113377862238?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00 H. ESP - 18:00 hrs Arg.) Hablando sobre VUE JS
-👉 Charla con @ianaya89 sobre #VueJS. ¡Los invito a que disfruten de este encuentro! [Canal de Youtube](https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be){:target="_blank" rel="nofollow, noreferrer"}
-- (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
-NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
+- Webinar sobre Grafología Gratis 👉 Registro al evento [EventBrite](https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🗞 Temario :[Temario del Curso](http://grafologia.estrategica.pro/valor){:target="_blank" rel="nofollow, noreferrer"}
+- Unreal Engine & Fortnite en la educación - [REGISTRO](https://www.eventbrite.com/e/unreal-engine-fortnite-en-la-educacion-tickets-113377862238?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Hablando sobre VUE JS 👉 Charla con @ianaya89 sobre #VueJS. ¡Los invito a que disfruten de este encuentro! [Canal de Youtube](https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be){:target="_blank" rel="nofollow, noreferrer"}
+- NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 15 de Agosto
 
-- (02:00 AM) Diseñando productos responsables [Ver Youtube](https://www.youtube.com/watch?v=EaiyzaFGhDM){:target="_blank" rel="nofollow, noreferrer"}
-- (10:00 AM hasta las 15:00 PM) Jornada de redes y comunicaciones: el dilema del Hombre Araña (Ciberseguridad): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/jornada-de-redes-y-comunicaciones-el-dilema-del-hombre-araa){:target="_blank" rel="nofollow, noreferrer"}
-- ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española): <a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">Eventbrite</a>
+- Diseñando productos responsables [Ver Youtube](https://www.youtube.com/watch?v=EaiyzaFGhDM){:target="_blank" rel="nofollow, noreferrer"}
+- Jornada de redes y comunicaciones: el dilema del Hombre Araña (Ciberseguridad): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/jornada-de-redes-y-comunicaciones-el-dilema-del-hombre-araa){:target="_blank" rel="nofollow, noreferrer"}
+- ⏰ Azure Live Latam 2020: <a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">Eventbrite</a>
 - Evento / Concurso sobre Programación: Maratón de Código de IBM [Maratona](https://maratona.dev/es){:target="_blank" rel="nofollow, noreferrer"} (Solamente para América Latina)
 - (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (14 y 15 de Agosto) NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"} (Entrada: 10$)
-NgConf Colombia es la primera Conferencia Angular en América Latina. Reúne una mezcla diversa de locutores angulares de primer nivel de diferentes países de todo el mundo. Este evento de 2 días consta de talleres avanzados completos, conferencias magistrales y charlas.
+- NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 17 de Agosto
 
@@ -542,48 +533,48 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 
 ### 🔔 27 de Agosto
 
-- (01:00 AM H. Esp.) GitHub Student Developer Pack - Christian Granados 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
-- (01:00 AM H. ESP - 18:00 H. Ciudad de México) Diseño: Conversatorio Anatomía de un Ilustrador 👉 [REGISTRO](https://www.eventbrite.co/e/entradas-conversatorio-anatomia-de-un-ilustrador-117462247745){:target="_blank" rel="nofollow, noreferrer"}
-- (02:00 AM H. ESP - 19:00 H. Ciudad de México) ¿Qué buscan los reclutadores en los profesionales de Tecnología? 👉 [REGISTRO](https://www.eventbrite.com/e/que-buscan-los-reclutadores-en-los-profesionales-de-tecnologia-tickets-115610539235){:target="_blank" rel="nofollow, noreferrer"}
-- (02:30 AM H. ESP - 19:30 H. Ciudad de México) Mejorando mi sitio web mediante la estructura del blog 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-29-mejorando-mi-sitio-web-mediante-la-estructura-del-blog-registration-116771461585){:target="_blank" rel="nofollow, noreferrer"}
-- (15:00 PM H. Española) Transformación digital en los servicios educativos 👉 [REGISTRO](https://www.eventbrite.com.ar/e/transformacion-digital-en-los-servicios-educativos-tickets-116754151811){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM H. Española)  Crea y Construye con la nueva plataforma Autodesk BIM 360 Docs 👉 [REGISTRO](https://www.eventbrite.es/e/27-de-agosto-crea-y-construye-con-la-nueva-plataforma-v-tickets-116460852545){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM H. Española) ITIL 4 y la práctica de Gestión de Seguridad de la Información 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-itil-4-y-la-practica-de-gestion-de-seguridad-de-la-informacion-116295183023){:target="_blank" rel="nofollow, noreferrer"}
-- (17:00 PM H. Española)  Conoce el modelo de negocio Adobe e incrementa tus ingresos 👉 [REGISTRO](https://www.eventbrite.com.mx/e/webinar-conoce-el-modelo-de-negocio-adobe-e-incrementa-tus-ventas-tickets-110873262914){:target="_blank" rel="nofollow, noreferrer"}
-- (19:00 PM H. Española) Segmentando el mercado con Data Science 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-segmentando-el-mercado-con-data-science-116982877937){:target="_blank" rel="nofollow, noreferrer"}
-- (23:30 PM H. Española) Arquitectura: Hablemos de Microservicios! 👉 [REGISTRO](https://www.eventbrite.com.ar/e/webinar-arquitectura-hablemos-de-microservicios-tickets-116996123555?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (23:30 PM H. Española) Women Tech Camp: Mujeres Tech creando ideas innovadoras en Retail 👉 [REGISTRO](https://www.eventbrite.com.ar/e/women-tech-camp-tickets-115774142577){:target="_blank" rel="nofollow, noreferrer"}
-- (23:30 PM H. Española) Diseño: Una historia sobre el pincel, el rótulo y la tipografía 👉 [REGISTRO](https://www.eventbrite.com.ar/x/byl7-una-historia-sobre-el-pincel-el-rotulo-y-la-tipografia-gen-ramirez-tickets-117783687179){:target="_blank" rel="nofollow, noreferrer"}
+- GitHub Student Developer Pack - Christian Granados 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
+- Diseño: Conversatorio Anatomía de un Ilustrador 👉 [REGISTRO](https://www.eventbrite.co/e/entradas-conversatorio-anatomia-de-un-ilustrador-117462247745){:target="_blank" rel="nofollow, noreferrer"}
+- ¿Qué buscan los reclutadores en los profesionales de Tecnología? 👉 [REGISTRO](https://www.eventbrite.com/e/que-buscan-los-reclutadores-en-los-profesionales-de-tecnologia-tickets-115610539235){:target="_blank" rel="nofollow, noreferrer"}
+- Mejorando mi sitio web mediante la estructura del blog 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-29-mejorando-mi-sitio-web-mediante-la-estructura-del-blog-registration-116771461585){:target="_blank" rel="nofollow, noreferrer"}
+- Transformación digital en los servicios educativos 👉 [REGISTRO](https://www.eventbrite.com.ar/e/transformacion-digital-en-los-servicios-educativos-tickets-116754151811){:target="_blank" rel="nofollow, noreferrer"}
+- Crea y Construye con la nueva plataforma Autodesk BIM 360 Docs 👉 [REGISTRO](https://www.eventbrite.es/e/27-de-agosto-crea-y-construye-con-la-nueva-plataforma-v-tickets-116460852545){:target="_blank" rel="nofollow, noreferrer"}
+- ITIL 4 y la práctica de Gestión de Seguridad de la Información 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-itil-4-y-la-practica-de-gestion-de-seguridad-de-la-informacion-116295183023){:target="_blank" rel="nofollow, noreferrer"}
+- Conoce el modelo de negocio Adobe e incrementa tus ingresos 👉 [REGISTRO](https://www.eventbrite.com.mx/e/webinar-conoce-el-modelo-de-negocio-adobe-e-incrementa-tus-ventas-tickets-110873262914){:target="_blank" rel="nofollow, noreferrer"}
+- Segmentando el mercado con Data Science 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-segmentando-el-mercado-con-data-science-116982877937){:target="_blank" rel="nofollow, noreferrer"}
+- Arquitectura: Hablemos de Microservicios! 👉 [REGISTRO](https://www.eventbrite.com.ar/e/webinar-arquitectura-hablemos-de-microservicios-tickets-116996123555?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Women Tech Camp: Mujeres Tech creando ideas innovadoras en Retail 👉 [REGISTRO](https://www.eventbrite.com.ar/e/women-tech-camp-tickets-115774142577){:target="_blank" rel="nofollow, noreferrer"}
+- Diseño: Una historia sobre el pincel, el rótulo y la tipografía 👉 [REGISTRO](https://www.eventbrite.com.ar/x/byl7-una-historia-sobre-el-pincel-el-rotulo-y-la-tipografia-gen-ramirez-tickets-117783687179){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 28 de Agosto
 
-- (00:00 AM H. ESP.) Gestión de memoria en java 🗞 [Registrarse](https://www.eventbrite.com.ar/e/meetup-edicion-agosto-tickets-117779083409?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) ¿Qué hace un diseñador industrial? 🗞 [Registrarse](https://que-hace-un-disenador-industrial.eventbrite.com.mx){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) Diseño: Taller de Experimento de color y forma 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-de-experimento-de-color-y-forma-tickets-116794989959){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) Workshop: Tu primera wallet 🗞 [Registrarse](https://www.eventbrite.com.ar/e/workshop-tu-primera-wallet-tickets-117546409475){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (00:00 AM H. ESP.) Taller de Ingeniería de audio 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-formacion-de-sonideras-agosto-septiembre-y-octubre-registration-114998519668?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (01:00 AM H. ESP.) Introducción a la blockchain de Algorand 🗞 [Registrarse](https://www.eventbrite.com/e/introduccion-a-la-blockchain-de-algorand-tickets-116656995213?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (02:00 AM H. ESP.) Python explicado en ABC/Sesiones en vivo. 🗞 [Registrarse](https://www.eventbrite.com.mx/e/python-explicado-en-abcsesiones-en-vivo-tickets-114348643872){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
-- (04:00 AM H. Española) Portales de Revistas Científicas: trabajo colaborativo y redes 👉 [REGISTRO](https://117354116321.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
+- Gestión de memoria en java 🗞 [Registrarse](https://www.eventbrite.com.ar/e/meetup-edicion-agosto-tickets-117779083409?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- ¿Qué hace un diseñador industrial? 🗞 [Registrarse](https://que-hace-un-disenador-industrial.eventbrite.com.mx){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- Diseño: Taller de Experimento de color y forma 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-de-experimento-de-color-y-forma-tickets-116794989959){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- Workshop: Tu primera wallet 🗞 [Registrarse](https://www.eventbrite.com.ar/e/workshop-tu-primera-wallet-tickets-117546409475){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- Taller de Ingeniería de audio 🗞 [Registrarse](https://www.eventbrite.com.mx/e/taller-formacion-de-sonideras-agosto-septiembre-y-octubre-registration-114998519668?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- Introducción a la blockchain de Algorand 🗞 [Registrarse](https://www.eventbrite.com/e/introduccion-a-la-blockchain-de-algorand-tickets-116656995213?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- Python explicado en ABC/Sesiones en vivo. 🗞 [Registrarse](https://www.eventbrite.com.mx/e/python-explicado-en-abcsesiones-en-vivo-tickets-114348643872){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
+- Portales de Revistas Científicas: trabajo colaborativo y redes 👉 [REGISTRO](https://117354116321.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 29 de Agosto
 
 - NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM) Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 PM H. ESP - 16 H. Argentina) Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
+- Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 1 de Septiembre
 
-- (17:00 PM H. Española) Herramientas Digitales para Docentes 👉 [REGISTRO](https://www.eventbrite.com.ar/e/herramientas-digitales-para-docentes-tickets-118381041883?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (18:30 H. Española) Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (19:00 PM H. Española) Full Stack: Cómo Empezar, con Mario Girón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-full-stack-start-here-117748513975?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} ¿Por qué apostar por Javascript?, Frameworks más destacados, Perfil del Full Stack Developer, Etc.
-- (19:00 PM H. Española) Ciberseguridad: Cómo Empezar, con Roberto López 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-cybersecurity-start-here-117960469941?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Herramientas Digitales para Docentes 👉 [REGISTRO](https://www.eventbrite.com.ar/e/herramientas-digitales-para-docentes-tickets-118381041883?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Full Stack: Cómo Empezar, con Mario Girón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-full-stack-start-here-117748513975?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} ¿Por qué apostar por Javascript?, Frameworks más destacados, Perfil del Full Stack Developer, Etc.
+- Ciberseguridad: Cómo Empezar, con Roberto López 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-cybersecurity-start-here-117960469941?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 2 de Septiembre
 
-- (18:00 H. ESP.) Taller online #1: Aprende a Programar desde Cero 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-taller-online-1-aprende-a-programar-desde-cero-113319768478?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Taller online #1: Aprende a Programar desde Cero 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-taller-online-1-aprende-a-programar-desde-cero-113319768478?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 
 ### 🔔 3 de Septiembre
 
-- (00:00 H. ESP.) Fundamentos de JDK 🗞 [Registrarse](https://www.eventbrite.com.ar/e/jdk-fundamentalks-septiembre-tickets-118032986841?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- Fundamentos de JDK 🗞 [Registrarse](https://www.eventbrite.com.ar/e/jdk-fundamentalks-septiembre-tickets-118032986841?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
