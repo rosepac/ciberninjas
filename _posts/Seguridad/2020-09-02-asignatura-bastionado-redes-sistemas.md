@@ -20,7 +20,10 @@ published: true
 
 ---
 
-Resultados de aprendizaje y criterios de evaluación.
+Esta asignatura de bastionado de redes y sistemas del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
+
+## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+
 
 1. Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes.
 

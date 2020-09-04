@@ -20,7 +20,10 @@ published: true
 
 ---
 
-Resultados de aprendizaje y criterios de evaluación.
+Esta asignatura de análisis forense informático del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
+
+## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+
 
 1. Aplica metodologías de análisis forense caracterizando las fases de preservación, adquisición, análisis y documentación.
 

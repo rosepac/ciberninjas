@@ -20,11 +20,11 @@ published: true
 
 ---
 
-Resultados de aprendizaje y criterios de evaluación.
+Esta asignatura de puesta en producción segura del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
 
-1. Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.
+## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
 
-Criterios de evaluación:
+### 1. **Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución**
 
 a) Se han comparado diferentes lenguajes de programación de acuerdo a sus características principales.
 
@@ -36,9 +36,7 @@ d) Se han ejecutado diferentes tipos de prueba de software.
 
 e) Se han evaluado los lenguajes de programación de acuerdo a la infraestructura de seguridad que proporcionan.
 
-2. Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados.
-
-Criterios de evaluación:
+### 2. **Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados**
 
 a) Se han caracterizado los niveles de verificación de seguridad en aplicaciones establecidos por los estándares internacionales (ASVS, “Application Security Verification Standard”).
 
@@ -48,9 +46,7 @@ c) Se han enumerado los requisitos de verificación necesarios asociados al nive
 
 d) Se han reconocido los principales riesgos de las aplicaciones desarrolladas, en función de sus características.
 
-3. Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web.
-
-Criterios de evaluación:
+### 3. **Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web**
 
 a) Se han validado las entradas de los usuarios.
 
@@ -66,9 +62,7 @@ f) Se han configurado servidores web para reducir el riesgo de sufrir ataques co
 
 g) Se han incorporado medidas para evitar los ataques a contraseñas, envío masivo de mensajes o registros de usuarios a través de programas automáticos (bots).
 
-4. Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos.
-
-Criterios de evaluación:
+### 4. **Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos**
 
 a) Se han comparado los diferentes modelos de permisos de las plataformas móviles.
 
@@ -80,9 +74,7 @@ d) Se han utilizado herramientas de monitorización de tráfico de red para dete
 
 e) Se han inspeccionado binarios de aplicaciones móviles para buscar fugas de información sensible.
 
-5. Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos.
-
-Criterios de evaluación:
+### 5. **Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos**
 
 a) Se han identificado las características, principios y objetivos de la integración del desarrollo y operación del software.
 
@@ -98,7 +90,6 @@ f) Se han documentado las tareas realizadas y los procedimientos a seguir para l
 
 g) Se han creado bucles de retroalimentación ágiles entre los miembros del equipo.
 
-Duración: 65 horas.
 
 Contenidos básicos:
 
