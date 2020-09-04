@@ -20,7 +20,21 @@ published: true
 
 ---
 
-Esta asignatura de puesta en producción segura del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
+Esta asignatura de puesta en producción segura del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
+
+- [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
+  - [1. **Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución**](#1-prueba-aplicaciones-web-y-aplicaciones-para-dispositivos-móviles-analizando-la-estructura-del-código-y-su-modelo-de-ejecución)
+  - [2. **Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados**](#2-determina-el-nivel-de-seguridad-requerido-por-aplicaciones-identificando-los-vectores-de-ataque-habituales-y-sus-riesgos-asociados)
+  - [3. **Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web**](#3-detecta-y-corrige-vulnerabilidades-de-aplicaciones-web-analizando-su-código-fuente-y-configurando-servidores-web)
+  - [4. **Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos**](#4-detecta-problemas-de-seguridad-en-las-aplicaciones-para-dispositivos-móviles-monitorizando-su-ejecución-y-analizando-ficheros-y-datos)
+  - [5. **Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos**](#5-implanta-sistemas-seguros-de-desplegado-de-software-utilizando-herramientas-para-la-automatización-de-la-construcción-de-sus-elementos)
+- [¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
+  - [Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles](#aprenderás-a-realizar-pruebas-de-aplicaciones-web-y-para-dispositivos-móviles)
+  - [Aprenderás a determinar el nivel de seguridad requerido por cada aplicación](#aprenderás-a-determinar-el-nivel-de-seguridad-requerido-por-cada-aplicación)
+  - [Aprenderás a detectar y corregir vulnerabilidades en aplicaciones web](#aprenderás-a-detectar-y-corregir-vulnerabilidades-en-aplicaciones-web)
+  - [Aprenderás a detectar problemas de seguridad en aplicaciones para dispositivos móviles](#aprenderás-a-detectar-problemas-de-seguridad-en-aplicaciones-para-dispositivos-móviles)
+  - [Aprenderás a implantar sistemas seguros de desplegado de software](#aprenderás-a-implantar-sistemas-seguros-de-desplegado-de-software)
+- [**¿Cuáles son los objetivos pedagógicos finales de la asignatura?**](#cuáles-son-los-objetivos-pedagógicos-finales-de-la-asignatura)
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
@@ -38,13 +52,10 @@ e) Se han evaluado los lenguajes de programación de acuerdo a la infraestructur
 
 ### 2. **Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados**
 
-a) Se han caracterizado los niveles de verificación de seguridad en aplicaciones establecidos por los estándares internacionales (ASVS, “Application Security Verification Standard”).
-
-b) Se ha identificado el nivel de verificación de seguridad requerido por las aplicaciones en función de sus riesgos de acuerdo a estándares reconocidos.
-
-c) Se han enumerado los requisitos de verificación necesarios asociados al nivel de seguridad establecido.
-
-d) Se han reconocido los principales riesgos de las aplicaciones desarrolladas, en función de sus características.
+- Se han caracterizado los niveles de verificación de seguridad en aplicaciones establecidos por los estándares internacionales (ASVS, “Application Security Verification Standard”).
+- Se ha identificado el nivel de verificación de seguridad requerido por las aplicaciones en función de sus riesgos de acuerdo a estándares reconocidos.
+- Se han enumerado los requisitos de verificación necesarios asociados al nivel de seguridad establecido.
+- Se han reconocido los principales riesgos de las aplicaciones desarrolladas, en función de sus características.
 
 ### 3. **Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web**
 
@@ -64,113 +75,72 @@ g) Se han incorporado medidas para evitar los ataques a contraseñas, envío mas
 
 ### 4. **Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos**
 
-a) Se han comparado los diferentes modelos de permisos de las plataformas móviles.
-
-b) Se han descrito técnicas de almacenamiento seguro de datos en los dispositivos, para evitar la fuga de información.
-
-c) Se ha implantado un sistema de validación de compras integradas en la aplicación haciendo uso de validación en el servidor.
-
-d) Se han utilizado herramientas de monitorización de tráfico de red para detectar el uso de protocolos inseguros de comunicación de las aplicaciones móviles.
-
-e) Se han inspeccionado binarios de aplicaciones móviles para buscar fugas de información sensible.
+- Se han comparado los diferentes modelos de permisos de las plataformas móviles.
+- Se han descrito técnicas de almacenamiento seguro de datos en los dispositivos, para evitar la fuga de información.
+- Se ha implantado un sistema de validación de compras integradas en la aplicación haciendo uso de validación en el servidor.
+- Se han utilizado herramientas de monitorización de tráfico de red para detectar el uso de protocolos inseguros de comunicación de las aplicaciones móviles.
+- Se han inspeccionado binarios de aplicaciones móviles para buscar fugas de información sensible.
 
 ### 5. **Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos**
 
-a) Se han identificado las características, principios y objetivos de la integración del desarrollo y operación del software.
+- Se han identificado las características, principios y objetivos de la integración del desarrollo y operación del software.
+- Se han implantado sistemas de control de versiones, administrando los roles y permisos solicitados.
+- Se han instalado, configurado y verificado sistemas de integración continua, conectándolos con sistemas de control de versiones.
+- Se han planificado, implementado y automatizado planes de desplegado de software.
+- Se ha evaluado la capacidad del sistema desplegado para reaccionar de forma automática a fallos.
+- Se han documentado las tareas realizadas y los procedimientos a seguir para la recuperación ante desastres.
+- Se han creado bucles de retroalimentación ágiles entre los miembros del equipo.
 
-b) Se han implantado sistemas de control de versiones, administrando los roles y permisos solicitados.
+## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
-c) Se han instalado, configurado y verificado sistemas de integración continua, conectándolos con sistemas de control de versiones.
-
-d) Se han planificado, implementado y automatizado planes de desplegado de software.
-
-e) Se ha evaluado la capacidad del sistema desplegado para reaccionar de forma automática a fallos.
-
-f) Se han documentado las tareas realizadas y los procedimientos a seguir para la recuperación ante desastres.
-
-g) Se han creado bucles de retroalimentación ágiles entre los miembros del equipo.
-
-
-Contenidos básicos:
-
-Prueba de aplicaciones web y para dispositivos móviles:
+### Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles
 
 − Fundamentos de la programación.
-
 − Lenguajes de programación interpretados y compilados.
-
 − Código fuente y entornos de desarrollo.
-
 − Ejecución de software.
-
 − Elementos principales de los programas.
-
 − Pruebas. Tipos.
-
 − Seguridad en los lenguajes de programación y sus entornos de ejecución (“sandboxes”).
 
-Determinación del nivel de seguridad requerido por aplicaciones:
+### Aprenderás a determinar el nivel de seguridad requerido por cada aplicación
 
 − Fuentes abiertas para el desarrollo seguro.
-
 − Listas de riesgos de seguridad habituales: OWASP Top Ten (web y móvil).
-
 − Requisitos de verificación necesarios asociados al nivel de seguridad establecido
-
 − Comprobaciones de seguridad a nivel de aplicación: ASVS (Application Security Verification Standard).
 
-Detección y corrección de vulnerabilidades de aplicaciones web:
+### Aprenderás a detectar y corregir vulnerabilidades en aplicaciones web
 
 − Desarrollo seguro de aplicaciones web.
-
 − Listas públicas de vulnerabilidades de aplicaciones web. OWASP Top Ten.
-
 − Entrada basada en formularios. Inyección. Validación de la entrada.
-
 − Estándares de autenticación y autorización.
-
 − Robo de sesión.
-
 − Vulnerabilidades web.
-
 − Almacenamiento seguro de contraseñas.
-
 − Contramedidas. HSTS, CSP, CAPTCHAs, entre otros.
-
 − Seguridad de portales y aplicativos web. Soluciones WAF(Web Application Firewall).
 
-Detección de problemas de seguridad en aplicaciones para dispositivos móviles:
+### Aprenderás a detectar problemas de seguridad en aplicaciones para dispositivos móviles
 
 − Modelos de permisos en plataformas móviles. Llamadas al sistema protegidas.
-
 − Firma y verificación de aplicaciones.
-
 − Almacenamiento seguro de datos.
-
 − Validación de compras integradas en la aplicación.
-
 − Fuga de información en los ejecutables.
-
 − Soluciones CASB.
 
-Implantación de sistemas seguros de desplegado de software:
+### Aprenderás a implantar sistemas seguros de desplegado de software
 
 − Puesta segura en producción.
-
 − Prácticas unificadas para el desarrollo y operación del software (DevOps).
-
 − Sistemas de control de versiones.
-
 − Sistemas de automatización de construcción (build).
-
 − Integración continua y automatización de pruebas.
-
 − Escalado de servidores. Virtualización. Contenedores.
-
 − Gestión automatizada de configuración de sistemas
-
 − Herramientas de simulación de fallos.
-
 − Orquestación de contenedores.
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
@@ -185,17 +155,15 @@ Implantación de sistemas seguros de desplegado de software:
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->
 <!-- https://www.infoworld.com/article/3572553/what-is-computer-vision-ai-for-images-and-video.html#tk.rss_all -->
 
-[Asignatura Incidentes de ciberseguridad](https://ciberninjas.com/ciberseguridad-asignatura-incidentes-de-ciberseguridad/)
-
-[Asignatura Bastionado de redes y sistemas](https://ciberninjas.com/ciberseguridad-asignatura-bastionado-redes-sistemas/)
-
-[Asignatura Puesta en producción segura](https://ciberninjas.com/ciberseguridad-asignatura-puesta-produccion-segura/)
-
 [Asignatura Análisis forense informático](https://ciberninjas.com/ciberseguridad-asignatura-analisis-forense-informatico/)
 
 [Asignatura Hacking ético](https://ciberninjas.com/ciberseguridad-asignatura-hacking-etico/)
 
 [Asignatura Normativa de cibersegurid](https://ciberninjas.com/ciberseguridad-asignatura-normativa-ciberseguridad/)
+
+[Asignatura Incidentes de ciberseguridad](https://ciberninjas.com/ciberseguridad-asignatura-incidentes-de-ciberseguridad/)
+
+[Asignatura Bastionado de redes y sistemas](https://ciberninjas.com/ciberseguridad-asignatura-bastionado-redes-sistemas/)
 
 [🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker](https://ciberninjas.com/mejores-sistemas-operativos-para-hackear/)
 

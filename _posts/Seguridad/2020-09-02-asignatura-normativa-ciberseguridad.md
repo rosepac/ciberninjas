@@ -22,6 +22,22 @@ published: true
 
 Esta asignatura de normativa de ciberseguridad del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
 
+- [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
+  - [1. **Identificar los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades**](#1-identificar-los-puntos-principales-de-aplicación-para-asegurar-el-cumplimiento-normativo-reconociendo-funciones-y-responsabilidades)
+  - [2. **Diseñar sistemas de cumplimiento normativo seleccionando la legislación y jurisprudencia de aplicación**](#2-diseñar-sistemas-de-cumplimiento-normativo-seleccionando-la-legislación-y-jurisprudencia-de-aplicación)
+  - [3. **Relaciona la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes**](#3-relaciona-la-normativa-relevante-para-el-cumplimiento-de-la-responsabilidad-penal-de-las-organizaciones-y-personas-jurídicas-con-los-procedimientos-establecidos-recopilando-y-aplicando-las-normas-vigentes)
+  - [4. **Aplica la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia**](#4-aplica-la-legislación-nacional-de-protección-de-datos-de-carácter-personal-relacionando-los-procedimientos-establecidos-con-las-leyes-vigentes-y-con-la-jurisprudencia-existente-sobre-la-materia)
+  - [5. **Recopila y aplica la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia**](#5-recopila-y-aplica-la-normativa-vigente-de-ciberseguridad-de-ámbito-nacional-e-internacional-actualizando-los-procedimientos-establecidos-de-acuerdo-con-las-leyes-y-con-la-jurisprudencia-existente-sobre-la-materia)
+- [¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
+  - [Aprenderás los puntos principales de aplicación para un correcto cumplimiento normativo](#aprenderás-los-puntos-principales-de-aplicación-para-un-correcto-cumplimiento-normativo)
+  - [Aprenderás a crear diseños de sistemas de cumplimiento normativo](#aprenderás-a-crear-diseños-de-sistemas-de-cumplimiento-normativo)
+  - [Aprenderás la legislación para el cumplimiento de la responsabilidad penal](#aprenderás-la-legislación-para-el-cumplimiento-de-la-responsabilidad-penal)
+  - [Aprenderás la legislación y jurisprudencia en materia de protección de datos](#aprenderás-la-legislación-y-jurisprudencia-en-materia-de-protección-de-datos)
+  - [Aprenderás la normativa vigente de ciberseguridad de ámbito nacional e internacional](#aprenderás-la-normativa-vigente-de-ciberseguridad-de-ámbito-nacional-e-internacional)
+  - [Aprenderás el Esquema Nacional de Seguridad (ENS)](#aprenderás-el-esquema-nacional-de-seguridad-ens)
+  - [Aprenderás la Ley PIC (Protección de infraestructuras críticas)](#aprenderás-la-ley-pic-protección-de-infraestructuras-críticas)
+- [**¿Cuáles son los objetivos pedagógicos finales de la asignatura?**](#cuáles-son-los-objetivos-pedagógicos-finales-de-la-asignatura)
+
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
 ### 1. **Identificar los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades**
@@ -97,9 +113,7 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 ### Aprenderás la normativa vigente de ciberseguridad de ámbito nacional e internacional
 
 − Normas nacionales e internacionales.
-
 − Sistema de Gestión de Seguridad de la Información (estándares internacionales) (ISO 27.001).
-
 − Acceso electrónico de los ciudadanos a los Servicios Públicos.
 
 ### Aprenderás el Esquema Nacional de Seguridad (ENS)
@@ -131,8 +145,6 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 [Asignatura Análisis forense informático](https://ciberninjas.com/ciberseguridad-asignatura-analisis-forense-informatico/)
 
 [Asignatura Hacking ético](https://ciberninjas.com/ciberseguridad-asignatura-hacking-etico/)
-
-[Asignatura Normativa de cibersegurid](https://ciberninjas.com/ciberseguridad-asignatura-normativa-ciberseguridad/)
 
 [🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker](https://ciberninjas.com/mejores-sistemas-operativos-para-hackear/)
 
