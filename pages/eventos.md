@@ -31,15 +31,19 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - (19:00 PM H. Española) Desarrollador Java: Cómo Empezar, con Antonio Martín 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-java-development-start-here-117962863099?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Ciencia de Datos: Cómo Empezar, con Adrián Ceja 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-data-science-start-here-117963577235?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-
 ### 🔔 4 de Septiembre
 
-- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
-- (00:00 H. ESP.) Open api 3.0 por José Calderón 🗞 [Registrarse](https://www.eventbrite.com.ar/e/java-bs-as-edicion-septiembre-tickets-117783631011?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing) CON SORTEO DE CÓDIGOS PARA JETBRAINS Y BIGBOX INCLUIDOS! 😻
-- 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
+- (00:00 H. ESP.) Open api 3.0 por José Calderón 🗞 [Registrarse](https://www.eventbrite.com.ar/e/java-bs-as-edicion-septiembre-tickets-117783631011?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} CON SORTEO DE CÓDIGOS PARA JETBRAINS Y BIGBOX INCLUIDOS! 😻
+- 📌 (00:00 H. ESP)  Entrevistas de trabajo en sistemas. Conocerlas, prepararse y navegarlas. Por Vicky Charra (@vickycharra) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
+- 📌 (02:00 H. ESP)  Cómo ser mi propia jefa y no despedirme en el intento. Por Maga Domínguez Lalli (@printmaga) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
+
+- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
+- 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://economiadigitalsantander.es/agenda/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 5 de Septiembre
 
+- 📌 (00:00 H. ESP) De TL a Manager en pandemia. Por Flor Mincucci (@florenciaypunto) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
+- 📌 (01:00 H. ESP)  Management[masked] Por Vale Colombo (@ValeZumZum) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
 - (03:00 AM H. Española) Code LATAM: Primeros pasos con React JS 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
 - (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
