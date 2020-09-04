@@ -34,6 +34,7 @@ Además, ya se trabaja en desarrollar durante los próximos años, varios cursos
   - [**Hacking ético**](#hacking-ético)
   - [**Normativa de ciberseguridad**](#normativa-de-ciberseguridad)
 - [**¿Qué vas a aprender en el curso de especialización en ciberseguridad?**](#qué-vas-a-aprender-en-el-curso-de-especialización-en-ciberseguridad)
+- [**¿Qué requisitos de acceso tiene el curso de especialización en ciberseguridad?**](#qué-requisitos-de-acceso-tiene-el-curso-de-especialización-en-ciberseguridad)
 - [**¿Por qué se ha creado el curso de especialización en ciberseguridad?**](#por-qué-se-ha-creado-el-curso-de-especialización-en-ciberseguridad)
 - [**¿Cuál es el entorno profesional que ofrece el curso de especialización en ciberseguridad?**](#cuál-es-el-entorno-profesional-que-ofrece-el-curso-de-especialización-en-ciberseguridad)
 - [**¿A qué puestos de trabajo podrás aspirar tras titular en el curso de especialización en ciberseguridad?**](#a-qué-puestos-de-trabajo-podrás-aspirar-tras-titular-en-el-curso-de-especialización-en-ciberseguridad)
@@ -41,7 +42,6 @@ Además, ya se trabaja en desarrollar durante los próximos años, varios cursos
   - [Software](#software)
   - [Hardware](#hardware)
 - [**¿Cuáles son los objetivos generales del curso de especialización en ciberseguridad?**](#cuáles-son-los-objetivos-generales-del-curso-de-especialización-en-ciberseguridad)
-- [**¿Qué requisitos de acceso tiene el curso de especialización en ciberseguridad?**](#qué-requisitos-de-acceso-tiene-el-curso-de-especialización-en-ciberseguridad)
 - [**¿Dónde se puede estudiar el curso de especialización en ciberseguridad?**](#dónde-se-puede-estudiar-el-curso-de-especialización-en-ciberseguridad)
 
 ## **¿De qué trata el curso de especialización en ciberseguridad?**
@@ -91,6 +91,16 @@ El curso de especialización consiste en definir e implementar estrategias de se
 13. Resolver situaciones, problemas o contingencias con iniciativa y autonomía en el ámbito de su competencia, con creatividad, innovación y espíritu de mejora en el trabajo personal y en el de los miembros del equipo
 14. Generar entornos seguros en el desarrollo de su trabajo y el de su equipo, supervisando y aplicando los procedimientos de prevención de riesgos laborales y ambientales, de acuerdo con lo establecido por la normativa y los objetivos de la organización.
 15. Supervisar y aplicar procedimientos de gestión de calidad, de accesibilidad universal y de «diseño para todas las personas», en las actividades profesionales incluidas en los procesos de producción o prestación de servicios.
+
+## **¿Qué requisitos de acceso tiene el curso de especialización en ciberseguridad?**
+
+Para acceder al Curso de Especialización en Ciberseguridad en entornos de las tecnologías de la información es necesario estar en posesión de alguno de los siguientes títulos:
+
+- Técnico Superior en Administración de Sistemas Informáticos en Red establecido por el Real Decreto 1629/2009, de 30 de octubre, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus enseñanzas mínimas.
+- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, establecido por el Real Decreto 450/2010, de 16 de abril, por el que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y se fijan sus enseñanzas mínimas.
+- Técnico Superior en Desarrollo de Aplicaciones Web, establecido por el Real Decreto 686/2010, de 20 de mayo, por el que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Web y se fijan sus enseñanzas mínimas.
+- Técnico Superior en Sistemas de Telecomunicaciones e Informáticos, establecido por el Real Decreto 883/2011, de 24 de junio, por el que se establece el título de Técnico Superior en Sistemas de Telecomunicaciones e Informáticos y se fijan sus enseñanzas mínimas.
+- Técnico Superior en Mantenimiento Electrónico, establecido por el Real Decreto 1578/2011, de 4 de noviembre, por el que se establece el Título de Técnico Superior en Mantenimiento Electrónico y se fijan sus enseñanzas mínimas.
 
 ## **¿Por qué se ha creado el curso de especialización en ciberseguridad?**
 
@@ -172,16 +182,6 @@ A continuación vas a poder conocer que programas de software y que componentes 
 - Identificar y proponer las acciones profesionales necesarias para dar respuesta a la accesibilidad universal y al «diseño para todas las personas».
 - Identificar y aplicar parámetros de calidad en los trabajos y actividades realizados en el proceso de aprendizaje, para valorar la cultura de la evaluación y de la calidad y ser capaces de supervisar y mejorar procedimientos de calidad.
 
-## **¿Qué requisitos de acceso tiene el curso de especialización en ciberseguridad?**
-
-Para acceder al Curso de Especialización en Ciberseguridad en entornos de las tecnologías de la información es necesario estar en posesión de alguno de los siguientes títulos:
-
-- Técnico Superior en Administración de Sistemas Informáticos en Red establecido por el Real Decreto 1629/2009, de 30 de octubre, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus enseñanzas mínimas.
-- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, establecido por el Real Decreto 450/2010, de 16 de abril, por el que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y se fijan sus enseñanzas mínimas.
-- Técnico Superior en Desarrollo de Aplicaciones Web, establecido por el Real Decreto 686/2010, de 20 de mayo, por el que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Web y se fijan sus enseñanzas mínimas.
-- Técnico Superior en Sistemas de Telecomunicaciones e Informáticos, establecido por el Real Decreto 883/2011, de 24 de junio, por el que se establece el título de Técnico Superior en Sistemas de Telecomunicaciones e Informáticos y se fijan sus enseñanzas mínimas.
-- Técnico Superior en Mantenimiento Electrónico, establecido por el Real Decreto 1578/2011, de 4 de noviembre, por el que se establece el Título de Técnico Superior en Mantenimiento Electrónico y se fijan sus enseñanzas mínimas.
-
 ## **¿Dónde se puede estudiar el curso de especialización en ciberseguridad?**
 
 El curso de especialización en Ciberseguridad es de nueva creación y por eso, [no existen muchos centros](https://www.todofp.es/dam/jcr:e3420862-3d1c-4020-9bac-19c848ad2626/oferta-ce-ciberseguridad-entornos--tecn-informaci-n.pdf){:target="_blank" rel="nofollow,noreferrer"} en los que se imparta aún.
@@ -199,14 +199,11 @@ A continuación vas a encontrar los centros en los que se impartirá durante el 
 - Ceuta
   - [IES Puertas del Campo](http://iespuertasdelcampo.educalab.es/noticias/-/asset_publisher/5bWrkvwcCWSV/content/ciberseguridad/maximized?_101_INSTANCE_5bWrkvwcCWSV_redirect=%2F){:target="_blank" rel="nofollow,noreferrer"} de Ceuta.
 
-------
+### **Relacionados** <!-- omit in toc -->
 
-<!-- BOE: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963 -->
+[🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker](https://ciberninjas.com/mejores-sistemas-operativos-para-hackear/)
 
-> “ 💃 **POR CONSTRUIR… EN PROGRESO…**💃 ”
+[🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux](https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-principiantes/)
 
-> ❔ Artículos de Interés Complementarios ❔
-
-> ❔ Chuletas de Apoyo y Consulta ❔
-
-> ❔ Recursos de Diseño y del Diseñador Web ❔
+[💻 Portátiles Chulos para trabajar en seguridad informática 🔥](https://www.amazon.es/shop/cibercursos?listId=3BF50A7M6Q79J){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
