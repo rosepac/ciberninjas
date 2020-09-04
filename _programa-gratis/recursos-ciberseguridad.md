@@ -8,9 +8,9 @@ comments: false
 date: 2020-09-02
 permalink: /recursos-fp-ciberseguridad/
 canonical_URL: https://ciberninjas.com/recursos-fp-ciberseguridad/
-# thumbnail: /assets/img/paginas/estudiar-daw.webp
-# feature-img: /assets/img/paginas/estudiar-daw.webp
-# img: /assets/img/paginas/estudiar-daw.webp
+thumbnail: /assets/img/blog/ciberseguridad.webp
+feature-img: /assets/img/blog/ciberseguridad.webp
+img: /assets/img/blog/ciberseguridad.webp
 ---
 
 Los ciclos formativos de desarrollo de aplicaciones web (DAW), desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red incluyen contenidos sobre seguridad; pero ninguno de ellos, profundiza en gran medida en ella.
