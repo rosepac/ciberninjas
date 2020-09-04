@@ -23,11 +23,11 @@ published: true
 Esta asignatura de hacking ético del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
 
 - [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
-  - [1. **Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético**](#1-determina-herramientas-de-monitorización-para-detectar-vulnerabilidades-aplicando-técnicas-de-hacking-ético)
-  - [2. **Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades**](#2-ataca-y-defiende-en-entornos-de-prueba-comunicaciones-inalámbricas-consiguiendo-acceso-a-redes-para-demostrar-sus-vulnerabilidades)
-  - [3. **Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros**](#3-ataca-y-defiende-en-entornos-de-prueba-redes-y-sistemas-consiguiendo-acceso-a-información-y-sistemas-de-terceros)
-  - [4. **Consolida y utiliza sistemas comprometidos garantizando accesos futuros**](#4-consolida-y-utiliza-sistemas-comprometidos-garantizando-accesos-futuros)
-  - [5. **Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas**](#5-ataca-y-defiende-en-entornos-de-prueba-aplicaciones-web-consiguiendo-acceso-a-datos-o-funcionalidades-no-autorizadas)
+  - [1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético](#1-determina-herramientas-de-monitorización-para-detectar-vulnerabilidades-aplicando-técnicas-de-hacking-ético)
+  - [2. Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades](#2-ataca-y-defiende-en-entornos-de-prueba-comunicaciones-inalámbricas-consiguiendo-acceso-a-redes-para-demostrar-sus-vulnerabilidades)
+  - [3. Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros**](#3-ataca-y-defiende-en-entornos-de-prueba-redes-y-sistemas-consiguiendo-acceso-a-información-y-sistemas-de-terceros)
+  - [4. Consolida y utiliza sistemas comprometidos garantizando accesos futuros](#4-consolida-y-utiliza-sistemas-comprometidos-garantizando-accesos-futuros)
+  - [5. Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas](#5-ataca-y-defiende-en-entornos-de-prueba-aplicaciones-web-consiguiendo-acceso-a-datos-o-funcionalidades-no-autorizadas)
 - [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás a determinar las herramientas de monitorización para detectar vulnerabilidades](#aprenderás-a-determinar-las-herramientas-de-monitorización-para-detectar-vulnerabilidades)
   - [Aprenderás a realizar ataques y defensas en entornos de pruebas, en comunicaciones inalámbricas](#aprenderás-a-realizar-ataques-y-defensas-en-entornos-de-pruebas-en-comunicaciones-inalámbricas)
@@ -38,7 +38,7 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-### 1. **Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético**
+### 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético
 
 - Se ha definido la terminología esencial del hacking ético.
 - Se han identificado los conceptos éticos y legales frente al ciberdelito.
@@ -50,7 +50,7 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
 - Se han determinado y caracterizado las diferentes vulnerabilidades existentes.
 - Se han determinado las herramientas de monitorización disponibles en el mercado adecuadas en función del tipo de organización.
 
-### 2. **Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades**
+### 2. Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades
 
 - Se han configurado los distintos modos de funcionamiento de las tarjetas de red inalámbricas.
 - Se han descrito las técnicas de encriptación de las redes inalámbricas y sus puntos vulnerables.
@@ -60,7 +60,7 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
 - Se han utilizado técnicas de “Equipo Rojo y Azul”.
 - Se han realizado informes sobre las vulnerabilidades detectadas.
 
-### 3. **Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros**
+### 3. Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros**
 
 - Se ha recopilado información sobre la red y sistemas objetivo mediante técnicas pasivas.
 - Se ha creado un inventario de equipos, cuentas de usuario y potenciales vulnerabilidades de la red y sistemas objetivo mediante técnicas activas.
@@ -68,14 +68,14 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
 - Se ha realizado un ataque de intermediario, leyendo, insertando y modificando, a voluntad, el tráfico intercambiado por dos extremos remotos.
 - Se han comprometido sistemas remotos explotando sus vulnerabilidades.
 
-### 4. **Consolida y utiliza sistemas comprometidos garantizando accesos futuros**
+### 4. Consolida y utiliza sistemas comprometidos garantizando accesos futuros
 
 - Se han administrado sistemas remotos a través de herramientas de línea de comandos.
 - Se han comprometido contraseñas a través de ataques de diccionario, tablas rainbow y fuerza bruta contra sus versiones encriptadas.
 - Se ha accedido a sistemas adicionales a través de sistemas comprometidos.
 - Se han instalado puertas traseras para garantizar accesos futuros a los sistemas comprometidos.
 
-### 5. **Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas**
+### 5. Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas
 
 - Se han identificado los distintos sistemas de autenticación web, destacando sus debilidades y fortalezas.
 - Se ha realizado un inventario de equipos, protocolos, servicios y sistemas operativos que proporcionan el servicio de una aplicación web.

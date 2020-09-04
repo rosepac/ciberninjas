@@ -23,11 +23,11 @@ published: true
 Esta asignatura de incidentes de ciberseguridad del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
 
 - [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
-  - [1. **Desarrollar planes de prevención y concienciación sobre ciberseguridad, estableciendo normas y medidas de protección**](#1-desarrollar-planes-de-prevención-y-concienciación-sobre-ciberseguridad-estableciendo-normas-y-medidas-de-protección)
-  - [2. **Analizar incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad**](#2-analizar-incidentes-de-ciberseguridad-utilizando-herramientas-mecanismos-de-detección-y-alertas-de-seguridad)
-  - [3. **Investigar incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar**](#3-investigar-incidentes-de-ciberseguridad-analizando-los-riesgos-implicados-y-definiendo-las-posibles-medidas-a-adoptar)
-  - [4.**Implementar medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas**](#4implementar-medidas-de-ciberseguridad-en-redes-y-sistemas-respondiendo-a-los-incidentes-detectados-y-aplicando-las-técnicas-de-protección-adecuadas)
-  - [5. **Detectar y documentar incidentes de ciberseguridad siguiendo procedimientos de actuación establecidos**](#5-detectar-y-documentar-incidentes-de-ciberseguridad-siguiendo-procedimientos-de-actuación-establecidos)
+  - [1. Desarrollar planes de prevención y concienciación sobre ciberseguridad, estableciendo normas y medidas de protección](#1-desarrollar-planes-de-prevención-y-concienciación-sobre-ciberseguridad-estableciendo-normas-y-medidas-de-protección)
+  - [2. Analizar incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad](#2-analizar-incidentes-de-ciberseguridad-utilizando-herramientas-mecanismos-de-detección-y-alertas-de-seguridad)
+  - [3. Investigar incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar](#3-investigar-incidentes-de-ciberseguridad-analizando-los-riesgos-implicados-y-definiendo-las-posibles-medidas-a-adoptar)
+  - [4.Implementar medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas](#4implementar-medidas-de-ciberseguridad-en-redes-y-sistemas-respondiendo-a-los-incidentes-detectados-y-aplicando-las-técnicas-de-protección-adecuadas)
+  - [5. Detectar y documentar incidentes de ciberseguridad siguiendo procedimientos de actuación establecidos](#5-detectar-y-documentar-incidentes-de-ciberseguridad-siguiendo-procedimientos-de-actuación-establecidos)
 - [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando](#aprenderás-a-desarrollar-planes-de-prevención-y-concienciación-en-ciberseguridad-aplicando)
   - [Aprenderás a crear auditorías sobre incidentes de ciberseguridad](#aprenderás-a-crear-auditorías-sobre-incidentes-de-ciberseguridad)
@@ -40,7 +40,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-### 1. **Desarrollar planes de prevención y concienciación sobre ciberseguridad, estableciendo normas y medidas de protección**
+### 1. Desarrollar planes de prevención y concienciación sobre ciberseguridad, estableciendo normas y medidas de protección
 
 - Se han definido los principios generales de la organización en materia de ciberseguridad, que deben ser conocidos y apoyados por la dirección de la misma.
 - Se ha establecido una normativa de protección del puesto de trabajo.
@@ -48,7 +48,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 - Desarrollar material necesario para llevar a cabo las acciones de concienciación dirigidas a los empleados.
 - Realizar una auditoría para verificar el cumplimiento del plan de prevención y concienciación de la organización.
 
-### 2. **Analizar incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad**
+### 2. Analizar incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad
 
 - Se ha clasificado y definido la taxonomía de incidentes de ciberseguridad que pueden afectar a la organización.
 - Se han establecido controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes
@@ -56,7 +56,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 - Se han establecido controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes a través de la investigación en fuentes abiertas (OSINT: Open Source Intelligence).
 - Se ha realizado una clasificación, valoración, documentación y seguimiento de los incidentes detectados dentro de la organización.
 
-### 3. **Investigar incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar**
+### 3. Investigar incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar
 
 - Se han recopilado y almacenado de forma segura evidencias de incidentes de ciberseguridad que afectan a la organización.
 - Se ha realizado un análisis de evidencias.
@@ -64,7 +64,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 - Se ha intercambiado información de incidentes, con proveedores y/o organismos competentes que podrían hacer aportaciones al respecto.
 - Se han iniciado las primeras medidas de contención de los incidentes para limitar los posibles daños causados.
 
-### 4.**Implementar medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas**
+### 4.Implementar medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas
 
 - Se han desarrollado procedimientos de actuación detallados para dar respuesta, mitigar, eliminar o contener los tipos de incidentes de ciberseguridad más habituales.
 - Se han preparado respuestas ciberresilientes ante incidentes que permitan seguir prestando los servicios de la organización y fortaleciendo las capacidades de identificación, detección, prevención, contención, recuperación y cooperación con terceros.
@@ -73,7 +73,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 - Se han documentado las acciones realizadas y las conclusiones que permitan mantener un registro de “lecciones aprendidas”.
 - Se ha realizado un seguimiento adecuado del incidente para evitar que una situación similar se vuelva a repetir.
 
-### 5. **Detectar y documentar incidentes de ciberseguridad siguiendo procedimientos de actuación establecidos**
+### 5. Detectar y documentar incidentes de ciberseguridad siguiendo procedimientos de actuación establecidos
 
 - Se ha desarrollado un procedimiento de actuación detallado para la notificación de incidentes de ciberseguridad en los tiempos adecuados.
 - Se ha notificado el incidente de manera adecuada al personal interno de la organización responsable de la toma de decisiones.

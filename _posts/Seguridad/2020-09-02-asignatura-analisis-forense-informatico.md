@@ -24,7 +24,7 @@ Esta asignatura de análisis forense informático del curso de especialización 
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-### 1. **Aplica metodologías de análisis forense caracterizando las fases de preservación, adquisición, análisis y documentación**
+### 1. Aplica metodologías de análisis forense caracterizando las fases de preservación, adquisición, análisis y documentación
 
 - Se han identificado los dispositivos a analizar para garantizar la preservación de evidencias.
 - Se han utilizado los mecanismos y las herramientas adecuadas para la adquisición y extracción de las evidencias.
@@ -34,14 +34,14 @@ Esta asignatura de análisis forense informático del curso de especialización 
 - Se ha elaborado un informe de conclusiones a nivel técnico y ejecutivo.
 - Se han presentado y expuesto las conclusiones del análisis forense realizado.
 
-### 2. **Realiza análisis forenses en dispositivos móviles, aplicando metodologías establecidas, actualizadas y reconocidas**
+### 2. Realiza análisis forenses en dispositivos móviles, aplicando metodologías establecidas, actualizadas y reconocidas
 
 - Se ha realizado el proceso de toma de evidencias en un dispositivo móvil.
 - Se han extraído, decodificado y analizado las pruebas conservando la cadena de custodia.
 - Se han generado informes de datos móviles, cumpliendo con los requisitos de la industria forense de telefonía móvil.
 - Se han presentado y expuesto las conclusiones del análisis forense realizado a quienes proceda.
 
-### 3. **Realiza análisis forenses en Cloud, aplicando metodologías establecidas, actualizadas y reconocidas**
+### 3. Realiza análisis forenses en Cloud, aplicando metodologías establecidas, actualizadas y reconocidas
 
 - Se ha desarrollado una estrategia de análisis forense en Cloud, asegurando la disponibilidad de los recursos y capacidades necesarios una vez ocurrido el incidente.
 - Se ha conseguido identificar las causas, el alcance y el impacto real causado por el incidente.
@@ -50,7 +50,7 @@ Esta asignatura de análisis forense informático del curso de especialización 
 - Se han cumplido los requerimientos legales en vigor, RGPD (Reglamento general de protección de datos) y directiva NIS (Directiva de la UE sobre seguridad de redes y sistemas de información) o las que eventualmente pudieran sustituirlas.
 - Se han presentado y expuesto las conclusiones del análisis forense realizado.
 
-### 4. **Realiza análisis forense en dispositivos del IoT, aplicando metodologías establecidas, actualizadas y reconocidas**
+### 4. Realiza análisis forense en dispositivos del IoT, aplicando metodologías establecidas, actualizadas y reconocidas
 
 - Se han identificado los dispositivos a analizar garantizando la preservación de las evidencias.
 - Se han utilizado mecanismos y herramientas adecuadas para la adquisición y extracción de evidencias
@@ -62,7 +62,7 @@ Esta asignatura de análisis forense informático del curso de especialización 
 - Se ha elaborado un informe de conclusiones a nivel técnico y ejecutivo.
 - Se han presentado y expuesto las conclusiones del análisis forense realizado.
 
-### 5. **Documenta análisis forenses elaborando informes que incluyan la normativa aplicable**
+### 5. Documenta análisis forenses elaborando informes que incluyan la normativa aplicable
 
 - Se ha definido el objetivo del informe pericial y su justificación.
 - Se ha definido el ámbito de aplicación del informe pericial.

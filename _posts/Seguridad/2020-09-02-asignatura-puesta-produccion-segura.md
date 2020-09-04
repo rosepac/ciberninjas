@@ -23,11 +23,11 @@ published: true
 Esta asignatura de puesta en producción segura del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
 
 - [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
-  - [1. **Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución**](#1-prueba-aplicaciones-web-y-aplicaciones-para-dispositivos-móviles-analizando-la-estructura-del-código-y-su-modelo-de-ejecución)
-  - [2. **Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados**](#2-determina-el-nivel-de-seguridad-requerido-por-aplicaciones-identificando-los-vectores-de-ataque-habituales-y-sus-riesgos-asociados)
-  - [3. **Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web**](#3-detecta-y-corrige-vulnerabilidades-de-aplicaciones-web-analizando-su-código-fuente-y-configurando-servidores-web)
+  - [1. Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución](#1-prueba-aplicaciones-web-y-aplicaciones-para-dispositivos-móviles-analizando-la-estructura-del-código-y-su-modelo-de-ejecución)
+  - [2. Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados](#2-determina-el-nivel-de-seguridad-requerido-por-aplicaciones-identificando-los-vectores-de-ataque-habituales-y-sus-riesgos-asociados)
+  - [3. Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web](#3-detecta-y-corrige-vulnerabilidades-de-aplicaciones-web-analizando-su-código-fuente-y-configurando-servidores-web)
   - [4. **Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos**](#4-detecta-problemas-de-seguridad-en-las-aplicaciones-para-dispositivos-móviles-monitorizando-su-ejecución-y-analizando-ficheros-y-datos)
-  - [5. **Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos**](#5-implanta-sistemas-seguros-de-desplegado-de-software-utilizando-herramientas-para-la-automatización-de-la-construcción-de-sus-elementos)
+  - [5. Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos](#5-implanta-sistemas-seguros-de-desplegado-de-software-utilizando-herramientas-para-la-automatización-de-la-construcción-de-sus-elementos)
 - [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles](#aprenderás-a-realizar-pruebas-de-aplicaciones-web-y-para-dispositivos-móviles)
   - [Aprenderás a determinar el nivel de seguridad requerido por cada aplicación](#aprenderás-a-determinar-el-nivel-de-seguridad-requerido-por-cada-aplicación)
@@ -38,7 +38,7 @@ Esta asignatura de puesta en producción segura del curso de especialización en
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-### 1. **Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución**
+### 1. Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución
 
 - Se han comparado diferentes lenguajes de programación de acuerdo a sus características principales.
 - Se han descrito los diferentes modelos de ejecución de software.
@@ -46,14 +46,14 @@ Esta asignatura de puesta en producción segura del curso de especialización en
 - Se han ejecutado diferentes tipos de prueba de software.
 - Se han evaluado los lenguajes de programación de acuerdo a la infraestructura de seguridad que proporcionan.
 
-### 2. **Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados**
+### 2. Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados
 
 - Se han caracterizado los niveles de verificación de seguridad en aplicaciones establecidos por los estándares internacionales (ASVS, “Application Security Verification Standard”).
 - Se ha identificado el nivel de verificación de seguridad requerido por las aplicaciones en función de sus riesgos de acuerdo a estándares reconocidos.
 - Se han enumerado los requisitos de verificación necesarios asociados al nivel de seguridad establecido.
 - Se han reconocido los principales riesgos de las aplicaciones desarrolladas, en función de sus características.
 
-### 3. **Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web**
+### 3. Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web
 
 - Se han validado las entradas de los usuarios.
 - Se han detectado riesgos de inyección tanto en el servidor como en el cliente.
@@ -71,7 +71,7 @@ Esta asignatura de puesta en producción segura del curso de especialización en
 - Se han utilizado herramientas de monitorización de tráfico de red para detectar el uso de protocolos inseguros de comunicación de las aplicaciones móviles.
 - Se han inspeccionado binarios de aplicaciones móviles para buscar fugas de información sensible.
 
-### 5. **Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos**
+### 5. Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos
 
 - Se han identificado las características, principios y objetivos de la integración del desarrollo y operación del software.
 - Se han implantado sistemas de control de versiones, administrando los roles y permisos solicitados.
@@ -87,8 +87,7 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ### Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles
 
-- Fundamentos de la programación.
-- Lenguajes de programación interpretados y compilados.
+- Fundamentos de la programación.Lenguajes de programación interpretados y compilados.
 - Código fuente y entornos de desarrollo.
 - Ejecución de software.
 - Elementos principales de los programas.

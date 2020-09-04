@@ -24,7 +24,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-### 1. **Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes**
+### 1. Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes
 
 - Se han identificado los activos, las amenazas y vulnerabilidades de la organización.
 - Se ha evaluado las medidas de seguridad actuales.
@@ -33,7 +33,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 - Se ha diseñado y elaborado un plan de medidas técnicas de seguridad a implantar en la organización, apropiadas para garantizar un nivel de seguridad adecuado en función de los riesgos de la organización.
 - Se han identificado las mejores prácticas en base a estándares, guías y políticas de securización adecuadas para el bastionado de los sistemas y redes de la organización.
 
-### 2. **Configura sistemas de control de acceso y autenticación de personas preservando la confidencialidad y privacidad de los datos**
+### 2. Configura sistemas de control de acceso y autenticación de personas preservando la confidencialidad y privacidad de los datos
 
 - Se han definido los mecanismos de autenticación en base a distintos / múltiples factores (físicos, inherentes y basados en el conocimiento), existentes.
 - Se han definido protocolos y políticas de autenticación basados en contraseñas y frases de paso, en base a las principales vulnerabilidades y tipos de ataques.
@@ -41,7 +41,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 - Se han definido protocolos y políticas de autenticación basados en tokens, OTPs, etc., en base a las principales vulnerabilidades y tipos de ataques.
 - Se han definido protocolos y políticas de autenticación basados en características biométricas, según las principales vulnerabilidades y tipos de ataques.
 
-### 3. **Administra credenciales de acceso a sistemas informáticos aplicando los requisitos de funcionamiento y seguridad establecidos**
+### 3. Administra credenciales de acceso a sistemas informáticos aplicando los requisitos de funcionamiento y seguridad establecidos
 
 - Se han identificado los tipos de credenciales más utilizados.
 - Se han generado y utilizado diferentes certificados digitales como medio de acceso a un servidor remoto.
@@ -49,7 +49,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 - Se han comparado certificados digitales válidos e inválidos por diferentes motivos.
 - Se ha instalado y configurado un servidor seguro para la administración de credenciales (tipo RADIUS - Remote Access Dial In User Service)
 
-### 4. **Diseña redes de computadores contemplando los requisitos de seguridad**
+### 4. Diseña redes de computadores contemplando los requisitos de seguridad
 
 - Se ha incrementado el nivel de seguridad de una red local plana segmentándola físicamente y utilizando técnicas y dispositivos de enrutamiento.
 - Se ha optimizado una red local plana utilizando técnicas de segmentación lógica (VLANs).
@@ -57,7 +57,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 - Se han configurado las medidas de seguridad adecuadas en los dispositivos que dan acceso a una red inalámbrica (routers, puntos de acceso, etc.).
 - Se ha establecido un túnel seguro de comunicaciones entre dos sedes geográficamente separadas.
 
-### 5. **Configura dispositivos y sistemas informáticos cumpliendo los requisitos de seguridad**
+### 5. Configura dispositivos y sistemas informáticos cumpliendo los requisitos de seguridad
 
 - Se han configurado dispositivos de seguridad perimetral acorde a una serie de requisitos de seguridad.
 - Se han detectado errores de configuración de dispositivos de red mediante el análisis de tráfico.
@@ -65,7 +65,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 - Se han implementado contramedidas frente a comportamientos no deseados en una red.
 - Se han caracterizado, instalado y configurado diferentes herramientas de monitorización.
 
-### 6. **Configura dispositivos para la instalación de sistemas informáticos minimizando las probabilidades de exposición a ataques**
+### 6. Configura dispositivos para la instalación de sistemas informáticos minimizando las probabilidades de exposición a ataques
 
 - Se ha configurado la BIOS para incrementar la seguridad del dispositivo y su contenido minimizando las probabilidades de exposición a ataques.
 - Se ha preparado un sistema informático para su primera instalación teniendo en cuenta las medidas de seguridad necesarias.
@@ -73,7 +73,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 - Se ha instalado un sistema informático utilizando sus capacidades de cifrado del sistema de ficheros para evitar la extracción física de datos.
 - Se ha particionado el sistema de ficheros del sistema informático para minimizar riesgos de seguridad.
 
-### 7. **Configura sistemas informáticos minimizando las probabilidades de exposición a ataques**
+### 7. Configura sistemas informáticos minimizando las probabilidades de exposición a ataques
 
 - Se han enumerado y eliminado los programas, servicios y protocolos innecesarios que hayan sido instalados por defecto en el sistema.
 - Se han configurado las características propias del sistema informático para imposibilitar el acceso ilegítimo mediante técnicas de explotación de procesos.
