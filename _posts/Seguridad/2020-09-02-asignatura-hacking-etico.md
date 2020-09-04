@@ -33,6 +33,7 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
   - [Aprenderás a realizar ataques y defensas en entornos de pruebas, en comunicaciones inalámbricas](#aprenderás-a-realizar-ataques-y-defensas-en-entornos-de-pruebas-en-comunicaciones-inalámbricas)
   - [Aprenderás a realizar ataques y defensas en entornos de pruebas, de redes y sistemas para acceder a sistemas de terceros](#aprenderás-a-realizar-ataques-y-defensas-en-entornos-de-pruebas-de-redes-y-sistemas-para-acceder-a-sistemas-de-terceros)
   - [Aprenderás a consolidar y utilizar sistemas comprometidos](#aprenderás-a-consolidar-y-utilizar-sistemas-comprometidos)
+  - [Aprenderás a realizar ataques y defensa en entorno de pruebas, a aplicaciones web](#aprenderás-a-realizar-ataques-y-defensa-en-entorno-de-pruebas-a-aplicaciones-web)
 - [**¿Cuáles son los objetivos pedagógicos finales de la asignatura?**](#cuáles-son-los-objetivos-pedagógicos-finales-de-la-asignatura)
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
@@ -83,81 +84,53 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
 - Se han usado herramientas de búsquedas y explotación de vulnerabilidades web.
 - Se ha realizado la búsqueda y explotación de vulnerabilidades web mediante herramientas software.
 
-
 ## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
 ### Aprenderás a determinar las herramientas de monitorización para detectar vulnerabilidades
 
 − Elementos esenciales del hacking ético.
-
 − Diferencias entre hacking, hacking ético, tests de penetración y hacktivismo.
-
 − Recolección de permisos y autorizaciones previos a un test de intrusión.
-
 − Fases del hacking.
-
 − Auditorías de caja negra y de caja blanca.
-
 − Documentación de vulnerabilidades.
-
 − Clasificación de herramientas de seguridad y hacking.
-
 − ClearNet, Deep Web, Dark Web, Darknets. Conocimiento, diferencias y herramientas de acceso: Tor. ZeroNet, FreeNet.
 
 ### Aprenderás a realizar ataques y defensas en entornos de pruebas, en comunicaciones inalámbricas
 
 − Comunicación inalámbrica.
-
 − Modo infraestructura, ad-hoc y monitor.
-
 − Análisis y recolección de datos en redes inalámbricas.
-
 − Técnicas de ataques y exploración de redes inalámbricas.
-
 − Ataques a otros sistemas inalámbricos.
-
 − Realización de informes de auditoría y presentación de resultados.
 
 ### Aprenderás a realizar ataques y defensas en entornos de pruebas, de redes y sistemas para acceder a sistemas de terceros
 
 − Fase de reconocimiento (footprinting).
-
 − Fase de escaneo (fingerprinting).
-
 − Monitorizacion de tráfico.
-
 − Interceptación de comunicaciones utilizando distintas técnicas.
-
 − Manipulación e inyección de tráfico.
-
 − Herramientas de búsqueda y explotación de vulnerabilidades.
-
 − Ingeniería social. Phising.
-
 − Escalada de privilegios.
 
 ### Aprenderás a consolidar y utilizar sistemas comprometidos
 
 − Administración de sistemas de manera remota.
-
 − Ataques y auditorías de contraseñas.
-
 − Pivotaje en la red.
-
 − Instalación de puertas traseras con troyanos (RAT, Remote Access Trojan).
 
-Ataque y defensa en entorno de pruebas, a aplicaciones web:
+### Aprenderás a realizar ataques y defensa en entorno de pruebas, a aplicaciones web
 
 − Negación de credenciales en aplicaciones web.
-
 − Recolección de información.
-
 − Automatización de conexiones a servidores web (ejemplo: Selenium).
-
 − Análisis de tráfico a través de proxies de intercepción.
-
 − Búsqueda de vulnerabilidades habituales en aplicaciones web.
-
 − Herramientas para la explotación de vulnerabilidades web.
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**

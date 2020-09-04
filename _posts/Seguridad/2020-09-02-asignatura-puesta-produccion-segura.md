@@ -40,15 +40,11 @@ Esta asignatura de puesta en producción segura del curso de especialización en
 
 ### 1. **Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución**
 
-a) Se han comparado diferentes lenguajes de programación de acuerdo a sus características principales.
-
-b) Se han descrito los diferentes modelos de ejecución de software.
-
-c) Se han reconocido los elementos básicos del código fuente, dándoles significado.
-
-d) Se han ejecutado diferentes tipos de prueba de software.
-
-e) Se han evaluado los lenguajes de programación de acuerdo a la infraestructura de seguridad que proporcionan.
+- Se han comparado diferentes lenguajes de programación de acuerdo a sus características principales.
+- Se han descrito los diferentes modelos de ejecución de software.
+- Se han reconocido los elementos básicos del código fuente, dándoles significado.
+- Se han ejecutado diferentes tipos de prueba de software.
+- Se han evaluado los lenguajes de programación de acuerdo a la infraestructura de seguridad que proporcionan.
 
 ### 2. **Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados**
 
@@ -59,19 +55,13 @@ e) Se han evaluado los lenguajes de programación de acuerdo a la infraestructur
 
 ### 3. **Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web**
 
-a) Se han validado las entradas de los usuarios.
-
-b) Se han detectado riesgos de inyección tanto en el servidor como en el cliente.
-
-c) Se ha gestionado correctamente la sesión del usuario durante el uso de la aplicación.
-
-d) Se ha hecho uso de roles para el control de acceso.
-
-e) Se han utilizado algoritmos criptográficos seguros para almacenar las contraseñas de usuario.
-
-f) Se han configurado servidores web para reducir el riesgo de sufrir ataques conocidos.
-
-g) Se han incorporado medidas para evitar los ataques a contraseñas, envío masivo de mensajes o registros de usuarios a través de programas automáticos (bots).
+- Se han validado las entradas de los usuarios.
+- Se han detectado riesgos de inyección tanto en el servidor como en el cliente.
+- Se ha gestionado correctamente la sesión del usuario durante el uso de la aplicación.
+- Se ha hecho uso de roles para el control de acceso.
+- Se han utilizado algoritmos criptográficos seguros para almacenar las contraseñas de usuario.
+- Se han configurado servidores web para reducir el riesgo de sufrir ataques conocidos.
+- Se han incorporado medidas para evitar los ataques a contraseñas, envío masivo de mensajes o registros de usuarios a través de programas automáticos (bots).
 
 ### 4. **Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos**
 

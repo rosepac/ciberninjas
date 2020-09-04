@@ -71,7 +71,6 @@ Esta asignatura de análisis forense informático del curso de especialización 
 - Se han recogido los requisitos establecidos por el cliente.
 - Se han incluido las conclusiones y su justificación.
 
-
 ## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
 ### Aprenderás a aplicar metodologías de análisis forenses
