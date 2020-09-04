@@ -28,7 +28,7 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
   - [3. **Relaciona la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes**](#3-relaciona-la-normativa-relevante-para-el-cumplimiento-de-la-responsabilidad-penal-de-las-organizaciones-y-personas-jurídicas-con-los-procedimientos-establecidos-recopilando-y-aplicando-las-normas-vigentes)
   - [4. **Aplica la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia**](#4-aplica-la-legislación-nacional-de-protección-de-datos-de-carácter-personal-relacionando-los-procedimientos-establecidos-con-las-leyes-vigentes-y-con-la-jurisprudencia-existente-sobre-la-materia)
   - [5. **Recopila y aplica la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia**](#5-recopila-y-aplica-la-normativa-vigente-de-ciberseguridad-de-ámbito-nacional-e-internacional-actualizando-los-procedimientos-establecidos-de-acuerdo-con-las-leyes-y-con-la-jurisprudencia-existente-sobre-la-materia)
-- [¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
+- [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás los puntos principales de aplicación para un correcto cumplimiento normativo](#aprenderás-los-puntos-principales-de-aplicación-para-un-correcto-cumplimiento-normativo)
   - [Aprenderás a crear diseños de sistemas de cumplimiento normativo](#aprenderás-a-crear-diseños-de-sistemas-de-cumplimiento-normativo)
   - [Aprenderás la legislación para el cumplimiento de la responsabilidad penal](#aprenderás-la-legislación-para-el-cumplimiento-de-la-responsabilidad-penal)
@@ -80,7 +80,7 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 - Se ha incluido en el plan de revisiones las modificaciones necesarias, sobre la nueva normativa aplicable a la organización, para un correcto cumplimiento normativo.
 - Se han determinado e implementado los controles necesarios para garantizar el correcto cumplimiento normativo de las nuevas normativas. incluidas en el plan de revisiones.
 
-## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
+## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
 ### Aprenderás los puntos principales de aplicación para un correcto cumplimiento normativo
 

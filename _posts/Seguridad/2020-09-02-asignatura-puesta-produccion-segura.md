@@ -28,7 +28,7 @@ Esta asignatura de puesta en producción segura del curso de especialización en
   - [3. **Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web**](#3-detecta-y-corrige-vulnerabilidades-de-aplicaciones-web-analizando-su-código-fuente-y-configurando-servidores-web)
   - [4. **Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos**](#4-detecta-problemas-de-seguridad-en-las-aplicaciones-para-dispositivos-móviles-monitorizando-su-ejecución-y-analizando-ficheros-y-datos)
   - [5. **Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos**](#5-implanta-sistemas-seguros-de-desplegado-de-software-utilizando-herramientas-para-la-automatización-de-la-construcción-de-sus-elementos)
-- [¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
+- [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles](#aprenderás-a-realizar-pruebas-de-aplicaciones-web-y-para-dispositivos-móviles)
   - [Aprenderás a determinar el nivel de seguridad requerido por cada aplicación](#aprenderás-a-determinar-el-nivel-de-seguridad-requerido-por-cada-aplicación)
   - [Aprenderás a detectar y corregir vulnerabilidades en aplicaciones web](#aprenderás-a-detectar-y-corregir-vulnerabilidades-en-aplicaciones-web)
@@ -81,7 +81,7 @@ Esta asignatura de puesta en producción segura del curso de especialización en
 - Se han documentado las tareas realizadas y los procedimientos a seguir para la recuperación ante desastres.
 - Se han creado bucles de retroalimentación ágiles entre los miembros del equipo.
 
-## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
+## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
 ### Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles
 

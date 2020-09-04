@@ -81,7 +81,7 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 - Se ha instalado y configurado un Sistema de detección de intrusos en un Host (HIDS) en el sistema informático.
 - Se han instalado y configurado sistemas de copias de seguridad.
 
-## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
+## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
 ### Aprenderás a diseñar planes de securización
 

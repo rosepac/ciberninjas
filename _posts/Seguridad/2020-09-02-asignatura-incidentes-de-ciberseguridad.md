@@ -28,7 +28,7 @@ Esta asignatura de incidentes de ciberseguridad del curso de especialización en
   - [3. **Investigar incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar**](#3-investigar-incidentes-de-ciberseguridad-analizando-los-riesgos-implicados-y-definiendo-las-posibles-medidas-a-adoptar)
   - [4.**Implementar medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas**](#4implementar-medidas-de-ciberseguridad-en-redes-y-sistemas-respondiendo-a-los-incidentes-detectados-y-aplicando-las-técnicas-de-protección-adecuadas)
   - [5. **Detectar y documentar incidentes de ciberseguridad siguiendo procedimientos de actuación establecidos**](#5-detectar-y-documentar-incidentes-de-ciberseguridad-siguiendo-procedimientos-de-actuación-establecidos)
-- [¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
+- [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando](#aprenderás-a-desarrollar-planes-de-prevención-y-concienciación-en-ciberseguridad-aplicando)
   - [Aprenderás a crear auditorías sobre incidentes de ciberseguridad](#aprenderás-a-crear-auditorías-sobre-incidentes-de-ciberseguridad)
   - [Aprenderás a investigar los incidentes de ciberseguridad](#aprenderás-a-investigar-los-incidentes-de-ciberseguridad)
@@ -81,7 +81,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 - Se ha notificado formalmente el incidente a los afectados, personal interno, clientes, proveedores, etc., en caso de ser necesario.
 - Se ha notificado el incidente a los medios de comunicación en caso de ser necesario.
 
-## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
+## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
 ### Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando
 
