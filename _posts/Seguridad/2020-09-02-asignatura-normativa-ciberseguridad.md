@@ -20,7 +20,7 @@ published: true
 
 ---
 
-Esta asignatura de normativa de ciberseguridad del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
+Esta asignatura de normativa de ciberseguridad del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
 
 - [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
   - [1. **Identificar los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades**](#1-identificar-los-puntos-principales-de-aplicación-para-asegurar-el-cumplimiento-normativo-reconociendo-funciones-y-responsabilidades)
@@ -86,43 +86,43 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ### Aprenderás los puntos principales de aplicación para un correcto cumplimiento normativo
 
-− Introducción al cumplimiento normativo (Compliance: objetivo, definición y conceptos principales).
-− Principios del buen gobierno y ética empresarial.
-− Compliance Officer: funciones y responsabilidades.
-− Relaciones con terceras partes dentro del Compliance.
+- Introducción al cumplimiento normativo (Compliance: objetivo, definición y conceptos principales).
+- Principios del buen gobierno y ética empresarial.
+- Compliance Officer: funciones y responsabilidades.
+- Relaciones con terceras partes dentro del Compliance.
 
 ### Aprenderás a crear diseños de sistemas de cumplimiento normativo
 
-− Sistemas de Gestión de Compliance.
-− Entorno regulatorio de aplicación.
-− Análisis y gestión de riesgos, mapas de riesgos.
-− Documentación del sistema de cumplimiento normativo diseñado.
+- Sistemas de Gestión de Compliance.
+- Entorno regulatorio de aplicación.
+- Análisis y gestión de riesgos, mapas de riesgos.
+- Documentación del sistema de cumplimiento normativo diseñado.
 
 ### Aprenderás la legislación para el cumplimiento de la responsabilidad penal
 
-− Riesgos penales que afectan a la organización.
-− Sistemas de gestión de Compliance penal.
-− Sistemas de gestión anticorrupción.
+- Riesgos penales que afectan a la organización.
+- Sistemas de gestión de Compliance penal.
+- Sistemas de gestión anticorrupción.
 
 ### Aprenderás la legislación y jurisprudencia en materia de protección de datos
 
-− Principios de protección de datos.
-− Novedades del RGPD de la Unión Europea.
-− Privacidad por Diseño y por Defecto.
-− Análisis de Impacto en Privacidad (PIA), y medidas de seguridad.
-− Delegado de Protección de Datos (DPO).
+- Principios de protección de datos.
+- Novedades del RGPD de la Unión Europea.
+- Privacidad por Diseño y por Defecto.
+- Análisis de Impacto en Privacidad (PIA), y medidas de seguridad.
+- Delegado de Protección de Datos (DPO).
 
 ### Aprenderás la normativa vigente de ciberseguridad de ámbito nacional e internacional
 
-− Normas nacionales e internacionales.
-− Sistema de Gestión de Seguridad de la Información (estándares internacionales) (ISO 27.001).
-− Acceso electrónico de los ciudadanos a los Servicios Públicos.
+- Normas nacionales e internacionales.
+- Sistema de Gestión de Seguridad de la Información (estándares internacionales) (ISO 27.001).
+- Acceso electrónico de los ciudadanos a los Servicios Públicos.
 
 ### Aprenderás el Esquema Nacional de Seguridad (ENS)
 
-− Planes de Continuidad de Negocio (estándares internacionales) (ISO 22.301).
-− Directiva NIS.
-− Legislación sobre la protección de infraestructuras críticas.
+- Planes de Continuidad de Negocio (estándares internacionales) (ISO 22.301).
+- Directiva NIS.
+- Legislación sobre la protección de infraestructuras críticas.
 
 ### Aprenderás la Ley PIC (Protección de infraestructuras críticas)
 

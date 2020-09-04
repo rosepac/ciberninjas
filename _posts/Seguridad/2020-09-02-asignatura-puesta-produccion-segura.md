@@ -87,53 +87,53 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ### Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles
 
-− Fundamentos de la programación.
-− Lenguajes de programación interpretados y compilados.
-− Código fuente y entornos de desarrollo.
-− Ejecución de software.
-− Elementos principales de los programas.
-− Pruebas. Tipos.
-− Seguridad en los lenguajes de programación y sus entornos de ejecución (“sandboxes”).
+- Fundamentos de la programación.
+- Lenguajes de programación interpretados y compilados.
+- Código fuente y entornos de desarrollo.
+- Ejecución de software.
+- Elementos principales de los programas.
+- Pruebas. Tipos.
+- Seguridad en los lenguajes de programación y sus entornos de ejecución (“sandboxes”).
 
 ### Aprenderás a determinar el nivel de seguridad requerido por cada aplicación
 
-− Fuentes abiertas para el desarrollo seguro.
-− Listas de riesgos de seguridad habituales: OWASP Top Ten (web y móvil).
-− Requisitos de verificación necesarios asociados al nivel de seguridad establecido
-− Comprobaciones de seguridad a nivel de aplicación: ASVS (Application Security Verification Standard).
+- Fuentes abiertas para el desarrollo seguro.
+- Listas de riesgos de seguridad habituales: OWASP Top Ten (web y móvil).
+- Requisitos de verificación necesarios asociados al nivel de seguridad establecido
+- Comprobaciones de seguridad a nivel de aplicación: ASVS (Application Security Verification Standard).
 
 ### Aprenderás a detectar y corregir vulnerabilidades en aplicaciones web
 
-− Desarrollo seguro de aplicaciones web.
-− Listas públicas de vulnerabilidades de aplicaciones web. OWASP Top Ten.
-− Entrada basada en formularios. Inyección. Validación de la entrada.
-− Estándares de autenticación y autorización.
-− Robo de sesión.
-− Vulnerabilidades web.
-− Almacenamiento seguro de contraseñas.
-− Contramedidas. HSTS, CSP, CAPTCHAs, entre otros.
-− Seguridad de portales y aplicativos web. Soluciones WAF(Web Application Firewall).
+- Desarrollo seguro de aplicaciones web.
+- Listas públicas de vulnerabilidades de aplicaciones web. OWASP Top Ten.
+- Entrada basada en formularios. Inyección. Validación de la entrada.
+- Estándares de autenticación y autorización.
+- Robo de sesión.
+- Vulnerabilidades web.
+- Almacenamiento seguro de contraseñas.
+- Contramedidas. HSTS, CSP, CAPTCHAs, entre otros.
+- Seguridad de portales y aplicativos web. Soluciones WAF(Web Application Firewall).
 
 ### Aprenderás a detectar problemas de seguridad en aplicaciones para dispositivos móviles
 
-− Modelos de permisos en plataformas móviles. Llamadas al sistema protegidas.
-− Firma y verificación de aplicaciones.
-− Almacenamiento seguro de datos.
-− Validación de compras integradas en la aplicación.
-− Fuga de información en los ejecutables.
-− Soluciones CASB.
+- Modelos de permisos en plataformas móviles. Llamadas al sistema protegidas.
+- Firma y verificación de aplicaciones.
+- Almacenamiento seguro de datos.
+- Validación de compras integradas en la aplicación.
+- Fuga de información en los ejecutables.
+- Soluciones CASB.
 
 ### Aprenderás a implantar sistemas seguros de desplegado de software
 
-− Puesta segura en producción.
-− Prácticas unificadas para el desarrollo y operación del software (DevOps).
-− Sistemas de control de versiones.
-− Sistemas de automatización de construcción (build).
-− Integración continua y automatización de pruebas.
-− Escalado de servidores. Virtualización. Contenedores.
-− Gestión automatizada de configuración de sistemas
-− Herramientas de simulación de fallos.
-− Orquestación de contenedores.
+- Puesta segura en producción.
+- Prácticas unificadas para el desarrollo y operación del software (DevOps).
+- Sistemas de control de versiones.
+- Sistemas de automatización de construcción (build).
+- Integración continua y automatización de pruebas.
+- Escalado de servidores. Virtualización. Contenedores.
+- Gestión automatizada de configuración de sistemas
+- Herramientas de simulación de fallos.
+- Orquestación de contenedores.
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 

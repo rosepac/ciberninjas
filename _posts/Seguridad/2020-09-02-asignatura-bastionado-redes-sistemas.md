@@ -83,73 +83,75 @@ Esta asignatura de bastionado de redes y sistemas del curso de especialización 
 
 ## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
+A continuación, un breve repaso de todas las temáticas que vas a enseñarte en la realización de la asignatura de bastionado en redes y sistemas.
+
 ### Aprenderás a diseñar planes de securización
 
-− Análisis de riesgos.
-− Principios de la Economía Circular en la Industria 4.0.
-− Plan de medidas técnicas de seguridad.
-− Políticas de securización más habituales.
-− Guías de buenas prácticas para la securización de sistemas y redes.
-− Estándares de securización de sistemas y redes.
-− Caracterización de procedimientos, instrucciones y recomendaciones.
-− Niveles, escalados y protocolos de atención a incidencias.
+- Análisis de riesgos.
+- Principios de la Economía Circular en la Industria 4.0.
+- Plan de medidas técnicas de seguridad.
+- Políticas de securización más habituales.
+- Guías de buenas prácticas para la securización de sistemas y redes.
+- Estándares de securización de sistemas y redes.
+- Caracterización de procedimientos, instrucciones y recomendaciones.
+- Niveles, escalados y protocolos de atención a incidencias.
 
 ### Aprenderás a configurar sistemas de control de acceso y autenticación de personas:
 
-− Mecanismos de autenticación. Tipos de factores.
-− Autenticación basada en distintas técnicas:
+- Mecanismos de autenticación. Tipos de factores.
+- Autenticación basada en distintas técnicas:
 
 ### Aprenderás a administrar credenciales de acceso a sistemas informáticos
 
-− Gestión de credenciales.
-− Infraestucturas de Clave Pública (PKI).
-− Acceso por medio de Firma electrónica.
-− Gestión de accesos. Sistemas NAC (Network Access Control, Sistemas de Gestión de Acceso a la Red).
-− Gestión de cuentas privilegiadas.
-− Protocolos RADIUS y TACACS, servicio KERBEROS, entre otros.
+- Gestión de credenciales.
+- Infraestucturas de Clave Pública (PKI).
+- Acceso por medio de Firma electrónica.
+- Gestión de accesos. Sistemas NAC (Network Access Control, Sistemas de Gestión de Acceso a la Red).
+- Gestión de cuentas privilegiadas.
+- Protocolos RADIUS y TACACS, servicio KERBEROS, entre otros.
 
 ### Aprenderás a diseñar redes de computadores seguras
 
-− Segmentación de redes.
-− Subnetting.
-− Redes virtuales (VLANs).
-− Zona desmilitarizada (DMZ).
-− Seguridad en redes inalámbricas (WPA2, WPA3, etc.).
-− Protocolos de red seguros (IPSec, etc.).
+- Segmentación de redes.
+- Subnetting.
+- Redes virtuales (VLANs).
+- Zona desmilitarizada (DMZ).
+- Seguridad en redes inalámbricas (WPA2, WPA3, etc.).
+- Protocolos de red seguros (IPSec, etc.).
 
 ### Aprenderás a configurar la seguridad en dispositivos y sistemas informáticos
 
-− Seguridad perimetral. Firewalls de Próxima Generación.
-− Seguridad de portales y aplicativos web. Soluciones WAF (Web Aplication Firewall).
-− Seguridad del puesto de trabajo y endpoint fijo y móvil. AntiAPT, antimalware.
-− Seguridad de entornos cloud. Soluciones CASB.
-− Seguridad del correo electrónico
-− Soluciones DLP (Data Loss Prevention)
-− Herramientas de almacenamiento de logs.
-− Protección ante ataques de denegación de servicio distribuido (DDoS).
-− Configuración segura de cortafuegos, enrutadores y proxies.
-− Redes privadas virtuales (VPNs), y túneles (protocolo IPSec).
-− Monitorización de sistemas y dispositivos.
-− Herramientas de monitorización (IDS, IPS).
-− SIEMs (Gestores de Eventos e Información de Seguridad).
-− Soluciones de Centros de Operación de Red, y Centros de Seguridad de Red: NOCs y SOCs.
+- Seguridad perimetral. Firewalls de Próxima Generación.
+- Seguridad de portales y aplicativos web. Soluciones WAF (Web Aplication Firewall).
+- Seguridad del puesto de trabajo y endpoint fijo y móvil. AntiAPT, antimalware.
+- Seguridad de entornos cloud. Soluciones CASB.
+- Seguridad del correo electrónico
+- Soluciones DLP (Data Loss Prevention)
+- Herramientas de almacenamiento de logs.
+- Protección ante ataques de denegación de servicio distribuido (DDoS).
+- Configuración segura de cortafuegos, enrutadores y proxies.
+- Redes privadas virtuales (VPNs), y túneles (protocolo IPSec).
+- Monitorización de sistemas y dispositivos.
+- Herramientas de monitorización (IDS, IPS).
+- SIEMs (Gestores de Eventos e Información de Seguridad).
+- Soluciones de Centros de Operación de Red, y Centros de Seguridad de Red: NOCs y SOCs.
 
 ### Aprenderás a configurar dispositivos para la instalación de sistemas informáticos
 
-− Precauciones previas a la instalación de un sistema informático: aislamiento, configuración del control de acceso a la BIOS, bloqueo del orden de arranque de los dispositivos, entre otros.
-− Seguridad en el arranque del sistema informático, configuración del arranque seguro.
-− Seguridad de los sistemas de ficheros, cifrado, particionado, entre otros.
+- Precauciones previas a la instalación de un sistema informático: aislamiento, configuración del control de acceso a la BIOS, bloqueo del orden de arranque de los dispositivos, entre otros.
+- Seguridad en el arranque del sistema informático, configuración del arranque seguro.
+- Seguridad de los sistemas de ficheros, cifrado, particionado, entre otros.
 
 ### Aprenderás a configurar los sistemas informáticos
 
-− Reducción del número de servicios, Telnet, RSSH, TFTP, entre otros.
-− Hardening de procesos (eliminación de información de depuración en caso de errores, aleatorización de la memoria virtual para evitar exploits, etc.).
-− Eliminación de protocolos de red innecesarios (ICMP, entre otros).
-− Securización de los sistemas de administración remota.
-− Sistemas de prevención y protección frente a virus e intrusiones (antivirus, HIDS, etc.).
-− Configuración de actualizaciones y parches automáticos.
-− Sistemas de copias de seguridad.
-− Shadow IT y políticas de seguridad en entornos SaaS.
+- Reducción del número de servicios, Telnet, RSSH, TFTP, entre otros.
+- Hardening de procesos (eliminación de información de depuración en caso de errores, aleatorización de la memoria virtual para evitar exploits, etc.).
+- Eliminación de protocolos de red innecesarios (ICMP, entre otros).
+- Securización de los sistemas de administración remota.
+- Sistemas de prevención y protección frente a virus e intrusiones (antivirus, HIDS, etc.).
+- Configuración de actualizaciones y parches automáticos.
+- Sistemas de copias de seguridad.
+- Shadow IT y políticas de seguridad en entornos SaaS.
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 

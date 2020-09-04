@@ -20,7 +20,7 @@ published: true
 
 ---
 
-Esta asignatura de hacking ético del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
+Esta asignatura de hacking ético del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
 
 - [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
   - [1. **Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético**](#1-determina-herramientas-de-monitorización-para-detectar-vulnerabilidades-aplicando-técnicas-de-hacking-ético)
@@ -28,7 +28,7 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
   - [3. **Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros**](#3-ataca-y-defiende-en-entornos-de-prueba-redes-y-sistemas-consiguiendo-acceso-a-información-y-sistemas-de-terceros)
   - [4. **Consolida y utiliza sistemas comprometidos garantizando accesos futuros**](#4-consolida-y-utiliza-sistemas-comprometidos-garantizando-accesos-futuros)
   - [5. **Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas**](#5-ataca-y-defiende-en-entornos-de-prueba-aplicaciones-web-consiguiendo-acceso-a-datos-o-funcionalidades-no-autorizadas)
-- [¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
+- [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás a determinar las herramientas de monitorización para detectar vulnerabilidades](#aprenderás-a-determinar-las-herramientas-de-monitorización-para-detectar-vulnerabilidades)
   - [Aprenderás a realizar ataques y defensas en entornos de pruebas, en comunicaciones inalámbricas](#aprenderás-a-realizar-ataques-y-defensas-en-entornos-de-pruebas-en-comunicaciones-inalámbricas)
   - [Aprenderás a realizar ataques y defensas en entornos de pruebas, de redes y sistemas para acceder a sistemas de terceros](#aprenderás-a-realizar-ataques-y-defensas-en-entornos-de-pruebas-de-redes-y-sistemas-para-acceder-a-sistemas-de-terceros)
@@ -84,63 +84,63 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
 - Se han usado herramientas de búsquedas y explotación de vulnerabilidades web.
 - Se ha realizado la búsqueda y explotación de vulnerabilidades web mediante herramientas software.
 
-## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
+## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
 A continuación, un breve repaso de todas las temáticas que vas a enseñarte en la realización de la asignatura de hacking ético.
 
 ### Aprenderás a determinar las herramientas de monitorización para detectar vulnerabilidades
 
-− Elementos esenciales del hacking ético.
-− Diferencias entre hacking, hacking ético, tests de penetración y hacktivismo.
-− Recolección de permisos y autorizaciones previos a un test de intrusión.
-− Fases del hacking.
-− Auditorías de caja negra y de caja blanca.
-− Documentación de vulnerabilidades.
-− Clasificación de herramientas de seguridad y hacking.
-− ClearNet, Deep Web, Dark Web, Darknets. Conocimiento, diferencias y herramientas de acceso: Tor. ZeroNet, FreeNet.
+- Elementos esenciales del hacking ético.
+- Diferencias entre hacking, hacking ético, tests de penetración y hacktivismo.
+- Recolección de permisos y autorizaciones previos a un test de intrusión.
+- Fases del hacking.
+- Auditorías de caja negra y de caja blanca.
+- Documentación de vulnerabilidades.
+- Clasificación de herramientas de seguridad y hacking.
+- ClearNet, Deep Web, Dark Web, Darknets. Conocimiento, diferencias y herramientas de acceso: Tor. ZeroNet, FreeNet.
 
 ### Aprenderás a realizar ataques y defensas en entornos de pruebas, en comunicaciones inalámbricas
 
-− Comunicación inalámbrica.
-− Modo infraestructura, ad-hoc y monitor.
-− Análisis y recolección de datos en redes inalámbricas.
-− Técnicas de ataques y exploración de redes inalámbricas.
-− Ataques a otros sistemas inalámbricos.
-− Realización de informes de auditoría y presentación de resultados.
+- Comunicación inalámbrica.
+- Modo infraestructura, ad-hoc y monitor.
+- Análisis y recolección de datos en redes inalámbricas.
+- Técnicas de ataques y exploración de redes inalámbricas.
+- Ataques a otros sistemas inalámbricos.
+- Realización de informes de auditoría y presentación de resultados.
 
 ### Aprenderás a realizar ataques y defensas en entornos de pruebas, de redes y sistemas para acceder a sistemas de terceros
 
-− Fase de reconocimiento (footprinting).
-− Fase de escaneo (fingerprinting).
-− Monitorizacion de tráfico.
-− Interceptación de comunicaciones utilizando distintas técnicas.
-− Manipulación e inyección de tráfico.
-− Herramientas de búsqueda y explotación de vulnerabilidades.
-− Ingeniería social. Phising.
-− Escalada de privilegios.
+- Fase de reconocimiento (footprinting).
+- Fase de escaneo (fingerprinting).
+- Monitorizacion de tráfico.
+- Interceptación de comunicaciones utilizando distintas técnicas.
+- Manipulación e inyección de tráfico.
+- Herramientas de búsqueda y explotación de vulnerabilidades.
+- Ingeniería social. Phising.
+- Escalada de privilegios.
 
 ### Aprenderás a consolidar y utilizar sistemas comprometidos
 
-− Administración de sistemas de manera remota.
-− Ataques y auditorías de contraseñas.
-− Pivotaje en la red.
-− Instalación de puertas traseras con troyanos (RAT, Remote Access Trojan).
+- Administración de sistemas de manera remota.
+- Ataques y auditorías de contraseñas.
+- Pivotaje en la red.
+- Instalación de puertas traseras con troyanos (RAT, Remote Access Trojan).
 
 ### Aprenderás a realizar ataques y defensa en entorno de pruebas, a aplicaciones web
 
-− Negación de credenciales en aplicaciones web.
-− Recolección de información.
-− Automatización de conexiones a servidores web (ejemplo: Selenium).
-− Análisis de tráfico a través de proxies de intercepción.
-− Búsqueda de vulnerabilidades habituales en aplicaciones web.
-− Herramientas para la explotación de vulnerabilidades web.
+- Negación de credenciales en aplicaciones web.
+- Recolección de información.
+- Automatización de conexiones a servidores web (ejemplo: Selenium).
+- Análisis de tráfico a través de proxies de intercepción.
+- Búsqueda de vulnerabilidades habituales en aplicaciones web.
+- Herramientas para la explotación de vulnerabilidades web.
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 
-− Los objetivos y las fases del hacking ético.
-− Las herramientas de seguridad y hacking.
-− La administración remota de sistemas.
-− El ataque ético a redes de comunicaciones, a sistemas y a las aplicaciones web.
+- Los objetivos y las fases del hacking ético.
+- Las herramientas de seguridad y hacking.
+- La administración remota de sistemas.
+- El ataque ético a redes de comunicaciones, a sistemas y a las aplicaciones web.
 
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->
 <!-- https://www.infoworld.com/article/3572553/what-is-computer-vision-ai-for-images-and-video.html#tk.rss_all -->

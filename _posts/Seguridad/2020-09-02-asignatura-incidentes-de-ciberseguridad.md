@@ -87,42 +87,42 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ### Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando
 
-− Los principios generales en materia de ciberseguridad.
-− La normativa de protección del puesto del trabajo.
-− El plan de formación y concienciación en materia de ciberseguridad.
-− Materiales de formación y concienciación.
-− Auditorías internas de cumplimiento en materia de prevención.
+- Los principios generales en materia de ciberseguridad.
+- La normativa de protección del puesto del trabajo.
+- El plan de formación y concienciación en materia de ciberseguridad.
+- Materiales de formación y concienciación.
+- Auditorías internas de cumplimiento en materia de prevención.
 
 ### Aprenderás a crear auditorías sobre incidentes de ciberseguridad
 
-− Conocer la taxonomía de incidentes de ciberseguridad.
-− Aplicar controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes: tipos y fuentes
-− Aplicar controles, herramientas y mecanismos de detección e identificación de incidentes de seguridad física.
-− Aplicar controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes a través de la investigación en fuentes abiertas (OSINT).
-− Clasificación, valoración, documentación y seguimiento inicial sobre incidentes de ciberseguridad.
+- Conocer la taxonomía de incidentes de ciberseguridad.
+- Aplicar controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes: tipos y fuentes
+- Aplicar controles, herramientas y mecanismos de detección e identificación de incidentes de seguridad física.
+- Aplicar controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes a través de la investigación en fuentes abiertas (OSINT).
+- Clasificación, valoración, documentación y seguimiento inicial sobre incidentes de ciberseguridad.
 
 ### Aprenderás a investigar los incidentes de ciberseguridad
 
-− Recopilación de evidencias.
-− Análisis de evidencias.
-− Investigación del incidente
-− Intercambio de información del incidente con proveedores u organismos competentes.
-− Medidas de contención de incidentes.
+- Recopilación de evidencias.
+- Análisis de evidencias.
+- Investigación del incidente
+- Intercambio de información del incidente con proveedores u organismos competentes.
+- Medidas de contención de incidentes.
 
 ### Aprenderás a implementar medidas de ciberseguridad
 
-− Desarrollar procedimientos de actuación detallados para dar respuesta, mitigar, eliminar o contener los tipos de incidentes.
-− Implantar capacidades de ciberresiliencia.
-− Establecer flujos de toma de decisiones y escalado interno y/o externo adecuados.
-− Tareas para reestablecer los servicios afectados por incidentes.
-− Documentación
-− Seguimiento de incidentes para evitar una situación similar.
+- Desarrollar procedimientos de actuación detallados para dar respuesta, mitigar, eliminar o contener los tipos de incidentes.
+- Implantar capacidades de ciberresiliencia.
+- Establecer flujos de toma de decisiones y escalado interno y/o externo adecuados.
+- Tareas para reestablecer los servicios afectados por incidentes.
+- Documentación
+- Seguimiento de incidentes para evitar una situación similar.
 
 ### Aprenderás a detectar y documentar incidentes de ciberseguridad
 
-− Desarrollar procedimientos de actuación para la notificación de incidentes.
-− Notificación interna de incidentes.
-− Notificación de incidentes a quienes corresponda.
+- Desarrollar procedimientos de actuación para la notificación de incidentes.
+- Notificación interna de incidentes.
+- Notificación de incidentes a quienes corresponda.
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 

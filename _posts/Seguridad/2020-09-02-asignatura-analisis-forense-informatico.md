@@ -20,7 +20,7 @@ published: true
 
 ---
 
-Esta asignatura de análisis forense informático del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
+Esta asignatura de análisis forense informático del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
 
 ## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
@@ -77,57 +77,57 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ### Aprenderás a aplicar metodologías de análisis forenses
 
-− Identificación de los dispositivos a analizar.
-− Recolección de evidencias (trabajar un escenario).
-− Análisis de la línea de tiempo (TimeStamp).
-− Análisis de volatilidad – Extracción de información (Volatility).
-− Análisis de Logs, herramientas más usadas.
+- Identificación de los dispositivos a analizar.
+- Recolección de evidencias (trabajar un escenario).
+- Análisis de la línea de tiempo (TimeStamp).
+- Análisis de volatilidad – Extracción de información (Volatility).
+- Análisis de Logs, herramientas más usadas.
 
 ### Aprenderás a realizar análisis forenses en dispositivos móviles
 
-− Métodos para la extracción de evidencias.
-− Herramientas de mercado más comunes.
+- Métodos para la extracción de evidencias.
+- Herramientas de mercado más comunes.
 
 ### Aprenderás a realizar análisis forenses en Cloud
 
-− Nube privada y nube pública o híbrida.
-− Retos legales, organizativos y técnicos particulares de un análisis en Cloud.
-− Estrategias de análisis forense en Cloud.
-− Realizar las fases relevantes del análisis forense en Cloud.
-− Utilizar herramientas de análisis en Cloud (Cellebrite UFED Cloud Analizer, Cloud Trail, Frost, OWADE, …).
+- Nube privada y nube pública o híbrida.
+- Retos legales, organizativos y técnicos particulares de un análisis en Cloud.
+- Estrategias de análisis forense en Cloud.
+- Realizar las fases relevantes del análisis forense en Cloud.
+- Utilizar herramientas de análisis en Cloud (Cellebrite UFED Cloud Analizer, Cloud Trail, Frost, OWADE, …).
 
 ### Aprenderás a realizar análisis forenses en IoT
 
-− Identificar los dispositivos a analizar.
-− Adquirir y extraer las evidencias.
-− Analizar las evidencias de manera manual y automática.
-− Documentar el proceso realizado.
-− Establecer la línea temporal.
-− Mantener la cadena de custodia.
-− Elaborar las conclusiones.
-− Presentar y exponer las conclusiones.
+- Identificar los dispositivos a analizar.
+- Adquirir y extraer las evidencias.
+- Analizar las evidencias de manera manual y automática.
+- Documentar el proceso realizado.
+- Establecer la línea temporal.
+- Mantener la cadena de custodia.
+- Elaborar las conclusiones.
+- Presentar y exponer las conclusiones.
 
 ### Aprenderás a crear documentación y elaborar informes sobre análisis forenses y todos los apartados de los que se compone un informe
 
-− Hoja de identificación (título, razón social, nombre y apellidos, firma).
-− Índice de la memoria.
-− Objeto (objetivo del informe pericial y su justificación).
-− Alcance (ámbito de aplicación del informe pericial - resumen ejecutivo para una supervisión rápida del contenido y resultados).
-− Antecedentes (aspectos necesarios para la comprensión de las alternativas estudiadas y las conclusiones finales).
-− Normas y referencias (documentos y normas legales y reglamentos citados en los distintos apartados).
-− Definiciones y abreviaturas (definiciones, abreviaturas y expresiones técnicas que se han utilizado a lo largo del informe).
-− Requisitos (bases y datos de partida establecidos por el cliente, la legislación, reglamentación y normativa aplicables)
-− Análisis de soluciones – resumen de conclusiones del informe pericial (alternativas estudiadas, qué caminos se han seguido para llegar a ellas, ventajas e inconvenientes de cada una y cuál es la solución finalmente elegida y su justificación).
+- Hoja de identificación (título, razón social, nombre y apellidos, firma).
+- Índice de la memoria.
+- Objeto (objetivo del informe pericial y su justificación).
+- Alcance (ámbito de aplicación del informe pericial - resumen ejecutivo para una supervisión rápida del contenido y resultados).
+- Antecedentes (aspectos necesarios para la comprensión de las alternativas estudiadas y las conclusiones finales).
+- Normas y referencias (documentos y normas legales y reglamentos citados en los distintos apartados).
+- Definiciones y abreviaturas (definiciones, abreviaturas y expresiones técnicas que se han utilizado a lo largo del informe).
+- Requisitos (bases y datos de partida establecidos por el cliente, la legislación, reglamentación y normativa aplicables)
+- Análisis de soluciones – resumen de conclusiones del informe pericial (alternativas estudiadas, qué caminos se han seguido para llegar a ellas, ventajas e inconvenientes de cada una y cuál es la solución finalmente elegida y su justificación).
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 
-− Las metodologías de análisis forense.
-− Las herramientas de análisis forense.
-− La toma de evidencias.
-− El análisis de resultados.
-− Los informes de resultados.
-− Las fases del análisis Cloud y herramientas para llevarlo a cabo.
-− La estrategia de análisis forense en IoT.
+- Las metodologías de análisis forense.
+- Las herramientas de análisis forense.
+- La toma de evidencias.
+- El análisis de resultados.
+- Los informes de resultados.
+- Las fases del análisis Cloud y herramientas para llevarlo a cabo.
+- La estrategia de análisis forense en IoT.
 
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->
 <!-- https://www.infoworld.com/article/3572553/what-is-computer-vision-ai-for-images-and-video.html#tk.rss_all -->
