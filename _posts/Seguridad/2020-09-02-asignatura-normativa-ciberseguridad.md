@@ -25,9 +25,9 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 - [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
   - [1. Identificar los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades](#1-identificar-los-puntos-principales-de-aplicación-para-asegurar-el-cumplimiento-normativo-reconociendo-funciones-y-responsabilidades)
   - [2. Diseñar sistemas de cumplimiento normativo seleccionando la legislación y jurisprudencia de aplicación](#2-diseñar-sistemas-de-cumplimiento-normativo-seleccionando-la-legislación-y-jurisprudencia-de-aplicación)
-  - [3. Relaciona la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes](#3-relaciona-la-normativa-relevante-para-el-cumplimiento-de-la-responsabilidad-penal-de-las-organizaciones-y-personas-jurídicas-con-los-procedimientos-establecidos-recopilando-y-aplicando-las-normas-vigentes)
-  - [4. Aplica la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia](#4-aplica-la-legislación-nacional-de-protección-de-datos-de-carácter-personal-relacionando-los-procedimientos-establecidos-con-las-leyes-vigentes-y-con-la-jurisprudencia-existente-sobre-la-materia)
-  - [5. Recopila y aplica la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia](#5-recopila-y-aplica-la-normativa-vigente-de-ciberseguridad-de-ámbito-nacional-e-internacional-actualizando-los-procedimientos-establecidos-de-acuerdo-con-las-leyes-y-con-la-jurisprudencia-existente-sobre-la-materia)
+  - [3. Relacionar la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes](#3-relacionar-la-normativa-relevante-para-el-cumplimiento-de-la-responsabilidad-penal-de-las-organizaciones-y-personas-jurídicas-con-los-procedimientos-establecidos-recopilando-y-aplicando-las-normas-vigentes)
+  - [4. Aplicar la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia](#4-aplicar-la-legislación-nacional-de-protección-de-datos-de-carácter-personal-relacionando-los-procedimientos-establecidos-con-las-leyes-vigentes-y-con-la-jurisprudencia-existente-sobre-la-materia)
+  - [5. Recopilar y aplicar la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia](#5-recopilar-y-aplicar-la-normativa-vigente-de-ciberseguridad-de-ámbito-nacional-e-internacional-actualizando-los-procedimientos-establecidos-de-acuerdo-con-las-leyes-y-con-la-jurisprudencia-existente-sobre-la-materia)
 - [**¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
   - [Aprenderás los puntos principales de aplicación para un correcto cumplimiento normativo](#aprenderás-los-puntos-principales-de-aplicación-para-un-correcto-cumplimiento-normativo)
   - [Aprenderás a crear diseños de sistemas de cumplimiento normativo](#aprenderás-a-crear-diseños-de-sistemas-de-cumplimiento-normativo)
@@ -55,14 +55,14 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 - Se han realizado análisis y evaluaciones de los riesgos de diferentes tipos de organizaciones de acuerdo con la normativa vigente (ISO 31.000 entre otras).
 - Se ha documentado el sistema de cumplimiento normativo diseñado.
 
-### 3. Relaciona la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes
+### 3. Relacionar la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes
 
 - Se han identificado los riesgos penales aplicables a diferentes organizaciones.
 - Se han implantado las medidas necesarias para eliminar o minimizar los riesgos identificados.
 - Se ha establecido un sistema de gestión de cumplimiento normativo penal de acuerdo con la legislación y normativa vigente (Código Penal y UNE 19.601, entre otros).
 - Se han determinado los principios básicos dentro de las organizaciones para combatir el soborno y promover una cultura empresarial ética de acuerdo con la legislación y normativa vigente (ISO 37.001 entre otros).
 
-### 4. Aplica la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia
+### 4. Aplicar la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia
 
 - Se han reconocido las fuentes del Derecho de acuerdo con el ordenamiento jurídico en materia de protección de datos de carácter personal.
 - Se han aplicado los principios relacionados con la protección de datos de carácter personal tanto a nivel nacional como internacional.
@@ -72,7 +72,7 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 - Se han implantado las medidas necesarias para eliminar o minimizar los riesgos identificados en la protección de datos.
 - Se han descrito las funciones o competencias del delegado de protección de datos dentro de las organizaciones.
 
-### 5. Recopila y aplica la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia
+### 5. Recopilar y aplicar la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia
 
 - Se ha establecido el plan de revisiones de la normativa, jurisprudencia, notificaciones, etc. jurídicas que puedan afectar a la organización.
 - Se ha detectado nueva normativa consultando las bases de datos jurídicas siguiendo el plan de revisiones establecido.
