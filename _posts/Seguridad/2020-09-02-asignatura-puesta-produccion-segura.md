@@ -173,28 +173,13 @@ Implantación de sistemas seguros de desplegado de software:
 
 − Orquestación de contenedores.
 
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para desempeñar la función de puesta en producción mediante el desarrollo de un sistema de despliegue de software seguro.
-
-La función de implantación de un sistema de despliegue seguro incluye aspectos como la monitorización de aplicaciones y dispositivos para detectar los vectores de ataque más comunes.
-
-Las actividades profesionales asociadas a esta función se aplican en el análisis de las aplicaciones web y dispositivos móviles así como en la configuración de servidores web.
-
-La formación del módulo contribuye a alcanzar los objetivos generales k), l), q), r), s), t), u) y v) y las competencias f), g), k), l), m), n) y ñ) del curso de especialización.
-
-Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 
 – El análisis de la estructura de aplicaciones y dispositivos móviles.
-
 – Los vectores de ataque más comunes.
-
 – El análisis del nivel de seguridad requerido por las aplicaciones.
-
 – La configuración de servidores web seguros.
-
 – La detección de los problemas de seguridad de las aplicaciones para los dispositivos móviles.
-
 – La implantación de sistemas seguros de desplegado de software.
 
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->

@@ -110,19 +110,13 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 
 ### Aprenderás la Ley PIC (Protección de infraestructuras críticas)
 
-
-## **¿Cuáles son los objetivos finales de la asignatura?
+## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 
 – La identificación de los cambios de la normativa de ciberseguridad, tanto nacional como internacional, que afectan a la organización.
-
 – La elaboración de mapas de riesgos.
-
 – La elaboración de materiales de formación y concienciación como presentaciones, guías, etc.
-
 – La investigación de incidentes de ciberseguridad.
-
 – La legislación y jurisprudencia en materia de protección de datos de carácter personal.
-
 – La notificación, tanto interna como externa de los incidentes detectados.
 
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->
