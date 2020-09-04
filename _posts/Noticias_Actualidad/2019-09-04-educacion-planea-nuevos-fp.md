@@ -1,10 +1,11 @@
 ---
+
 author: rosepac
 bootstrap: true
 title: "Educación diseña 80 nuevas ofertas de FP la mayoría centradas en la tecnología"
 description: 'Desde el Estado español se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE.'
 excerpt: 'Desde el Estado español se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE.'
-date: 2019/09/04 15:00:01
+date: 2019-09-04 01:10:32
 permalink: https://ciberninjas.com/educacion-planea-80-nuevas-ofertas-fp/
 author: rosepac
 bootstrap: true
