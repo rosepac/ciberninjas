@@ -155,9 +155,9 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 
-– El diseño de planes de securización de la organización.
-– El diseño de redes de computadores.
-– La administración de los sistemas de control de acceso.
+- El diseño de planes de securización de la organización.
+- El diseño de redes de computadores.
+- La administración de los sistemas de control de acceso.
 
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->
 <!-- https://www.infoworld.com/article/3572553/what-is-computer-vision-ai-for-images-and-video.html#tk.rss_all -->

@@ -136,12 +136,12 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 
-– El análisis de la estructura de aplicaciones y dispositivos móviles.
-– Los vectores de ataque más comunes.
-– El análisis del nivel de seguridad requerido por las aplicaciones.
-– La configuración de servidores web seguros.
-– La detección de los problemas de seguridad de las aplicaciones para los dispositivos móviles.
-– La implantación de sistemas seguros de desplegado de software.
+- El análisis de la estructura de aplicaciones y dispositivos móviles.
+- Los vectores de ataque más comunes.
+- El análisis del nivel de seguridad requerido por las aplicaciones.
+- La configuración de servidores web seguros.
+- La detección de los problemas de seguridad de las aplicaciones para los dispositivos móviles.
+- La implantación de sistemas seguros de desplegado de software.
 
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->
 <!-- https://www.infoworld.com/article/3572553/what-is-computer-vision-ai-for-images-and-video.html#tk.rss_all -->

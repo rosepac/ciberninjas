@@ -128,12 +128,12 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 ## **¿Cuáles son los objetivos pedagógicos finales de la asignatura?**
 
-– La identificación de los cambios de la normativa de ciberseguridad, tanto nacional como internacional, que afectan a la organización.
-– La elaboración de mapas de riesgos.
-– La elaboración de materiales de formación y concienciación como presentaciones, guías, etc.
-– La investigación de incidentes de ciberseguridad.
-– La legislación y jurisprudencia en materia de protección de datos de carácter personal.
-– La notificación, tanto interna como externa de los incidentes detectados.
+- La identificación de los cambios de la normativa de ciberseguridad, tanto nacional como internacional, que afectan a la organización.
+- La elaboración de mapas de riesgos.
+- La elaboración de materiales de formación y concienciación como presentaciones, guías, etc.
+- La investigación de incidentes de ciberseguridad.
+- La legislación y jurisprudencia en materia de protección de datos de carácter personal.
+- La notificación, tanto interna como externa de los incidentes detectados.
 
 ### **Más asignaturas del curso de especialización en ciberseguridad** <!-- omit in toc -->
 <!-- https://www.infoworld.com/article/3572553/what-is-computer-vision-ai-for-images-and-video.html#tk.rss_all -->
