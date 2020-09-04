@@ -82,6 +82,8 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 
 ## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
+A continuación, un breve repaso de todas las temáticas que vas a enseñarte en la realización de la asignatura normativa de ciberseguridad.
+
 ### Aprenderás los puntos principales de aplicación para un correcto cumplimiento normativo
 
 − Introducción al cumplimiento normativo (Compliance: objetivo, definición y conceptos principales).

@@ -83,6 +83,8 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 
 ## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
+A continuación, un breve repaso de todas las temáticas que vas a enseñarte en la realización de la asignatura sobre incidentes de ciberseguridad.
+
 ### Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando
 
 − Los principios generales en materia de ciberseguridad.

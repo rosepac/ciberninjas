@@ -86,6 +86,8 @@ Esta asignatura de hacking ético del curso de especialización en cibersegurida
 
 ## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
+A continuación, un breve repaso de todas las temáticas que vas a enseñarte en la realización de la asignatura de hacking ético.
+
 ### Aprenderás a determinar las herramientas de monitorización para detectar vulnerabilidades
 
 − Elementos esenciales del hacking ético.

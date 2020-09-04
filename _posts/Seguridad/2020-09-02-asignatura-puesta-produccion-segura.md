@@ -83,6 +83,8 @@ Esta asignatura de puesta en producción segura del curso de especialización en
 
 ## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
+A continuación, un breve repaso de todas las temáticas que vas a enseñarte en la realización de la asignatura de puesta en producción segura.
+
 ### Aprenderás a realizar pruebas de aplicaciones web y para dispositivos móviles
 
 − Fundamentos de la programación.

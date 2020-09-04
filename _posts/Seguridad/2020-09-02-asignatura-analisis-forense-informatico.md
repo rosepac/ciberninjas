@@ -73,6 +73,8 @@ Esta asignatura de análisis forense informático del curso de especialización 
 
 ## **¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
+A continuación, un breve repaso de todas las temáticas que vas a enseñarte en la realización de la asignatura de análisis forense informático.
+
 ### Aprenderás a aplicar metodologías de análisis forenses
 
 − Identificación de los dispositivos a analizar.
