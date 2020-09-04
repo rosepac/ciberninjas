@@ -22,12 +22,9 @@ published: true
 
 Esta asignatura de análisis forense informático del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
 
-## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-
-1. Aplica metodologías de análisis forense caracterizando las fases de preservación, adquisición, análisis y documentación.
-
-Criterios de evaluación:
+### 1. **Aplica metodologías de análisis forense caracterizando las fases de preservación, adquisición, análisis y documentación**
 
 a) Se han identificado los dispositivos a analizar para garantizar la preservación de evidencias.
 
@@ -43,9 +40,7 @@ f) Se ha elaborado un informe de conclusiones a nivel técnico y ejecutivo.
 
 g) Se han presentado y expuesto las conclusiones del análisis forense realizado.
 
-2. Realiza análisis forenses en dispositivos móviles, aplicando metodologías establecidas, actualizadas y reconocidas.
-
-Criterios de evaluación:
+### 2. **Realiza análisis forenses en dispositivos móviles, aplicando metodologías establecidas, actualizadas y reconocidas**
 
 a) Se ha realizado el proceso de toma de evidencias en un dispositivo móvil.
 
@@ -55,9 +50,7 @@ c) Se han generado informes de datos móviles, cumpliendo con los requisitos de 
 
 d) Se han presentado y expuesto las conclusiones del análisis forense realizado a quienes proceda.
 
-3. Realiza análisis forenses en Cloud, aplicando metodologías establecidas, actualizadas y reconocidas.
-
-Criterios de evaluación:
+### 3. **Realiza análisis forenses en Cloud, aplicando metodologías establecidas, actualizadas y reconocidas**
 
 a) Se ha desarrollado una estrategia de análisis forense en Cloud, asegurando la disponibilidad de los recursos y capacidades necesarios una vez ocurrido el incidente.
 
@@ -71,9 +64,7 @@ e) Se han cumplido los requerimientos legales en vigor, RGPD (Reglamento general
 
 f) Se han presentado y expuesto las conclusiones del análisis forense realizado.
 
-4. Realiza análisis forense en dispositivos del IoT, aplicando metodologías establecidas, actualizadas y reconocidas.
-
-Criterios de evaluación:
+### 4. **Realiza análisis forense en dispositivos del IoT, aplicando metodologías establecidas, actualizadas y reconocidas**
 
 a) Se han identificado los dispositivos a analizar garantizando la preservación de las evidencias.
 
@@ -93,7 +84,7 @@ h) Se ha elaborado un informe de conclusiones a nivel técnico y ejecutivo.
 
 i) Se han presentado y expuesto las conclusiones del análisis forense realizado.
 
-5. Documenta análisis forenses elaborando informes que incluyan la normativa aplicable.
+### 5. **Documenta análisis forenses elaborando informes que incluyan la normativa aplicable**
 
 Criterios de evaluación:
 
@@ -109,7 +100,6 @@ e) Se han recogido los requisitos establecidos por el cliente.
 
 f) Se han incluido las conclusiones y su justificación.
 
-Duración: 65 horas.
 
 Contenidos básicos:
 

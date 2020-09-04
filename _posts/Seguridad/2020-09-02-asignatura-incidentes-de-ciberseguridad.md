@@ -23,12 +23,13 @@ published: true
 Esta asignatura de incidentes de ciberseguridad del curso de especialización en ciberseguridad se centra en el aprendizaje de cinco apartados diferentes.
 
 - [¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**](#qué-conceptos-y-contenidos-básicos-vas-a-aprender-en-la-asignatura)
-  - [Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando:](#aprenderás-a-desarrollar-planes-de-prevención-y-concienciación-en-ciberseguridad-aplicando)
-  - [Aprenderás a crear auditorías sobre incidentes de ciberseguridad:](#aprenderás-a-crear-auditorías-sobre-incidentes-de-ciberseguridad)
-  - [Aprenderás a investigar los incidentes de ciberseguridad:](#aprenderás-a-investigar-los-incidentes-de-ciberseguridad)
-  - [Aprenderás a implementar medidas de ciberseguridad:](#aprenderás-a-implementar-medidas-de-ciberseguridad)
-  - [Aprenderás a detectar y documentar incidentes de ciberseguridad:](#aprenderás-a-detectar-y-documentar-incidentes-de-ciberseguridad)
-- [**¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-de-la-asignatura)
+  - [Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando](#aprenderás-a-desarrollar-planes-de-prevención-y-concienciación-en-ciberseguridad-aplicando)
+  - [Aprenderás a crear auditorías sobre incidentes de ciberseguridad](#aprenderás-a-crear-auditorías-sobre-incidentes-de-ciberseguridad)
+  - [Aprenderás a investigar los incidentes de ciberseguridad](#aprenderás-a-investigar-los-incidentes-de-ciberseguridad)
+  - [Aprenderás a implementar medidas de ciberseguridad](#aprenderás-a-implementar-medidas-de-ciberseguridad)
+  - [Aprenderás a detectar y documentar incidentes de ciberseguridad](#aprenderás-a-detectar-y-documentar-incidentes-de-ciberseguridad)
+- [**¿Cuáles son los objetivos finales de la asignatura?](#cuáles-son-los-objetivos-finales-de-la-asignatura)
+- [**¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**](#qué-objetivos-deberás-ser-capaz-de-superar-al-finalizar-la-asignatura)
   - [1. **Desarrollar planes de prevención y concienciación sobre ciberseguridad, estableciendo normas y medidas de protección**](#1-desarrollar-planes-de-prevención-y-concienciación-sobre-ciberseguridad-estableciendo-normas-y-medidas-de-protección)
   - [2. **Analizar incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad**](#2-analizar-incidentes-de-ciberseguridad-utilizando-herramientas-mecanismos-de-detección-y-alertas-de-seguridad)
   - [3. **Investigar incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar**](#3-investigar-incidentes-de-ciberseguridad-analizando-los-riesgos-implicados-y-definiendo-las-posibles-medidas-a-adoptar)
@@ -39,7 +40,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 
 ## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
-### Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando:
+### Aprenderás a desarrollar planes de prevención y concienciación en ciberseguridad aplicando
 
 − Los principios generales en materia de ciberseguridad.
 − La normativa de protección del puesto del trabajo.
@@ -47,7 +48,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 − Materiales de formación y concienciación.
 − Auditorías internas de cumplimiento en materia de prevención.
 
-### Aprenderás a crear auditorías sobre incidentes de ciberseguridad:
+### Aprenderás a crear auditorías sobre incidentes de ciberseguridad
 
 − Conocer la taxonomía de incidentes de ciberseguridad.
 − Aplicar controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes: tipos y fuentes
@@ -55,7 +56,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 − Aplicar controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes a través de la investigación en fuentes abiertas (OSINT).
 − Clasificación, valoración, documentación y seguimiento inicial sobre incidentes de ciberseguridad.
 
-### Aprenderás a investigar los incidentes de ciberseguridad:
+### Aprenderás a investigar los incidentes de ciberseguridad
 
 − Recopilación de evidencias.
 − Análisis de evidencias.
@@ -63,7 +64,7 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 − Intercambio de información del incidente con proveedores u organismos competentes.
 − Medidas de contención de incidentes.
 
-### Aprenderás a implementar medidas de ciberseguridad:
+### Aprenderás a implementar medidas de ciberseguridad
 
 − Desarrollar procedimientos de actuación detallados para dar respuesta, mitigar, eliminar o contener los tipos de incidentes.
 − Implantar capacidades de ciberresiliencia.
@@ -72,13 +73,19 @@ Cada una de las cinco secciones anteriores serán evaluados bajo específicos cr
 − Documentación
 − Seguimiento de incidentes para evitar una situación similar.
 
-### Aprenderás a detectar y documentar incidentes de ciberseguridad:
+### Aprenderás a detectar y documentar incidentes de ciberseguridad
 
 − Desarrollar procedimientos de actuación para la notificación de incidentes.
 − Notificación interna de incidentes.
 − Notificación de incidentes a quienes corresponda.
 
-## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+## **¿Cuáles son los objetivos finales de la asignatura?
+
+– La elaboración de planes de prevención y concienciación de ciberseguridad. – La detección de incidentes mediante distintas herramientas de monitorización. – La implantación de las medidas necesarias para responder a los incidentes detectados. – Identificación de la normativa nacional e internacional aplicable en la organización. – La notificación de incidentes tanto interna como externa, si procede, mediante los procedimientos adecuados.
+
+
+
+## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
 ### 1. **Desarrollar planes de prevención y concienciación sobre ciberseguridad, estableciendo normas y medidas de protección**
 

@@ -22,7 +22,7 @@ published: true
 
 Esta asignatura de puesta en producción segura del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
 
-## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
 ### 1. **Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución**
 

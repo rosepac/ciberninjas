@@ -22,7 +22,7 @@ published: true
 
 Esta asignatura de normativa de ciberseguridad del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
 
-## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
 ### 1. **Identificar los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades**
 
@@ -64,51 +64,37 @@ Esta asignatura de normativa de ciberseguridad del curso de especialización en 
 - Se ha incluido en el plan de revisiones las modificaciones necesarias, sobre la nueva normativa aplicable a la organización, para un correcto cumplimiento normativo.
 - Se han determinado e implementado los controles necesarios para garantizar el correcto cumplimiento normativo de las nuevas normativas. incluidas en el plan de revisiones.
 
-Duración: 30 horas.
+## ¿Qué conceptos y contenidos básicos vas a aprender en la asignatura?**
 
-Contenidos básicos:
-
-Puntos principales de aplicación para un correcto cumplimiento normativo:
+### Aprenderás los puntos principales de aplicación para un correcto cumplimiento normativo
 
 − Introducción al cumplimiento normativo (Compliance: objetivo, definición y conceptos principales).
-
 − Principios del buen gobierno y ética empresarial.
-
 − Compliance Officer: funciones y responsabilidades.
-
 − Relaciones con terceras partes dentro del Compliance.
 
-Diseño de sistemas de cumplimiento normativo:
+### Aprenderás a crear diseños de sistemas de cumplimiento normativo
 
 − Sistemas de Gestión de Compliance.
-
 − Entorno regulatorio de aplicación.
-
 − Análisis y gestión de riesgos, mapas de riesgos.
-
 − Documentación del sistema de cumplimiento normativo diseñado.
 
-Legislación para el cumplimiento de la responsabilidad penal:
+### Aprenderás la legislación para el cumplimiento de la responsabilidad penal
 
 − Riesgos penales que afectan a la organización.
-
 − Sistemas de gestión de Compliance penal.
-
 − Sistemas de gestión anticorrupción.
 
-Legislación y jurisprudencia en materia de protección de datos:
+### Aprenderás la legislación y jurisprudencia en materia de protección de datos
 
 − Principios de protección de datos.
-
 − Novedades del RGPD de la Unión Europea.
-
 − Privacidad por Diseño y por Defecto.
-
 − Análisis de Impacto en Privacidad (PIA), y medidas de seguridad.
-
 − Delegado de Protección de Datos (DPO).
 
-Normativa vigente de ciberseguridad de ámbito nacional e internacional:
+### Aprenderás la normativa vigente de ciberseguridad de ámbito nacional e internacional
 
 − Normas nacionales e internacionales.
 
@@ -116,27 +102,16 @@ Normativa vigente de ciberseguridad de ámbito nacional e internacional:
 
 − Acceso electrónico de los ciudadanos a los Servicios Públicos.
 
-Esquema Nacional de Seguridad (ENS).
+### Aprenderás el Esquema Nacional de Seguridad (ENS)
 
 − Planes de Continuidad de Negocio (estándares internacionales) (ISO 22.301).
-
 − Directiva NIS.
-
 − Legislación sobre la protección de infraestructuras críticas.
 
-Ley PIC (Protección de infraestructuras críticas).
+### Aprenderás la Ley PIC (Protección de infraestructuras críticas)
 
-Orientaciones pedagógicas.
 
-Este módulo profesional contiene la formación necesaria para desempeñar la función de diseñar el sistema de cumplimiento normativo de ciberseguridad en una organización.
-
-La función de diseñar un sistema de cumplimiento normativo incluye aspectos como la caracterización de los principales aspectos de las diferentes normativas de ciberseguridad de obligado cumplimiento para la organización.
-
-Las actividades profesionales asociadas a esta función se aplican en la integración, de las últimas actualizaciones en normativa de ciberseguridad a nivel nacional e internacional que apliquen, en el sistema de cumplimiento normativo de la organización.
-
-La formación del módulo contribuye a alcanzar los objetivos generales o), p), q), r), s), t), u) y v) y las competencias j), k), l), m), n) y ñ) del curso de especialización.
-
-Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+## **¿Cuáles son los objetivos finales de la asignatura?
 
 – La identificación de los cambios de la normativa de ciberseguridad, tanto nacional como internacional, que afectan a la organización.
 

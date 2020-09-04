@@ -22,12 +22,9 @@ published: true
 
 Esta asignatura de bastionado de redes y sistemas del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
 
-## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-
-1. Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes.
-
-Criterios de evaluación:
+### 1. **Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes**
 
 a) Se han identificado los activos, las amenazas y vulnerabilidades de la organización.
 
@@ -41,9 +38,7 @@ e) Se ha diseñado y elaborado un plan de medidas técnicas de seguridad a impla
 
 f) Se han identificado las mejores prácticas en base a estándares, guías y políticas de securización adecuadas para el bastionado de los sistemas y redes de la organización.
 
-2. Configura sistemas de control de acceso y autenticación de personas preservando la confidencialidad y privacidad de los datos.
-
-Criterios de evaluación:
+### 2. **Configura sistemas de control de acceso y autenticación de personas preservando la confidencialidad y privacidad de los datos**
 
 a) Se han definido los mecanismos de autenticación en base a distintos / múltiples factores (físicos, inherentes y basados en el conocimiento), existentes.
 
@@ -55,7 +50,7 @@ d) Se han definido protocolos y políticas de autenticación basados en tokens, 
 
 e) Se han definido protocolos y políticas de autenticación basados en características biométricas, según las principales vulnerabilidades y tipos de ataques.
 
-3. Administra credenciales de acceso a sistemas informáticos aplicando los requisitos de funcionamiento y seguridad establecidos.
+### 3. **Administra credenciales de acceso a sistemas informáticos aplicando los requisitos de funcionamiento y seguridad establecidos**
 
 Criterios de evaluación:
 
@@ -69,9 +64,7 @@ d) Se han comparado certificados digitales válidos e inválidos por diferentes 
 
 e) Se ha instalado y configurado un servidor seguro para la administración de credenciales (tipo RADIUS - Remote Access Dial In User Service)
 
-4. Diseña redes de computadores contemplando los requisitos de seguridad.
-
-Criterios de evaluación:
+### 4. **Diseña redes de computadores contemplando los requisitos de seguridad**
 
 a) Se ha incrementado el nivel de seguridad de una red local plana segmentándola físicamente y utilizando técnicas y dispositivos de enrutamiento.
 
@@ -83,9 +76,7 @@ d) Se han configurado las medidas de seguridad adecuadas en los dispositivos que
 
 e) Se ha establecido un túnel seguro de comunicaciones entre dos sedes geográficamente separadas.
 
-5. Configura dispositivos y sistemas informáticos cumpliendo los requisitos de seguridad.
-
-Criterios de evaluación:
+### 5. **Configura dispositivos y sistemas informáticos cumpliendo los requisitos de seguridad**
 
 a) Se han configurado dispositivos de seguridad perimetral acorde a una serie de requisitos de seguridad.
 
@@ -97,9 +88,7 @@ d) Se han implementado contramedidas frente a comportamientos no deseados en una
 
 e) Se han caracterizado, instalado y configurado diferentes herramientas de monitorización.
 
-6. Configura dispositivos para la instalación de sistemas informáticos minimizando las probabilidades de exposición a ataques.
-
-Criterios de evaluación:
+### 6. **Configura dispositivos para la instalación de sistemas informáticos minimizando las probabilidades de exposición a ataques**
 
 a) Se ha configurado la BIOS para incrementar la seguridad del dispositivo y su contenido minimizando las probabilidades de exposición a ataques.
 
@@ -111,9 +100,7 @@ d) Se ha instalado un sistema informático utilizando sus capacidades de cifrado
 
 e) Se ha particionado el sistema de ficheros del sistema informático para minimizar riesgos de seguridad.
 
-7. Configura sistemas informáticos minimizando las probabilidades de exposición a ataques.
-
-Criterios de evaluación:
+### 7. **Configura sistemas informáticos minimizando las probabilidades de exposición a ataques**
 
 a) Se han enumerado y eliminado los programas, servicios y protocolos innecesarios que hayan sido instalados por defecto en el sistema.
 
@@ -125,7 +112,6 @@ d) Se ha instalado y configurado un Sistema de detección de intrusos en un Host
 
 e) Se han instalado y configurado sistemas de copias de seguridad.
 
-Duración: 95 horas.
 
 Contenidos básicos:
 

@@ -22,11 +22,9 @@ published: true
 
 Esta asignatura de hacking ético del curso de especialización en ciberseguridad se centra en el aprendizaje de X apartados diferentes.
 
-## **¿Qué objetivos deberás ser capaz de superar al finalizar de la asignatura?**
+## **¿Qué objetivos deberás ser capaz de superar al finalizar la asignatura?**
 
-1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.
-
-Criterios de evaluación:
+### 1. **Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético**
 
 a) Se ha definido la terminología esencial del hacking ético.
 
@@ -46,9 +44,7 @@ h) Se han determinado y caracterizado las diferentes vulnerabilidades existentes
 
 i) Se han determinado las herramientas de monitorización disponibles en el mercado adecuadas en función del tipo de organización.
 
-2. Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades.
-
-Criterios de evaluación:
+### 2. **Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades**
 
 a) Se han configurado los distintos modos de funcionamiento de las tarjetas de red inalámbricas.
 
@@ -64,9 +60,7 @@ f) Se han utilizado técnicas de “Equipo Rojo y Azul”.
 
 g) Se han realizado informes sobre las vulnerabilidades detectadas.
 
-3. Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros.
-
-Criterios de evaluación:
+### 3. **Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros**
 
 a) Se ha recopilado información sobre la red y sistemas objetivo mediante técnicas pasivas.
 
@@ -78,9 +72,7 @@ d) Se ha realizado un ataque de intermediario, leyendo, insertando y modificando
 
 e) Se han comprometido sistemas remotos explotando sus vulnerabilidades.
 
-4. Consolida y utiliza sistemas comprometidos garantizando accesos futuros.
-
-Criterios de evaluación:
+### 4. **Consolida y utiliza sistemas comprometidos garantizando accesos futuros**
 
 a) Se han administrado sistemas remotos a través de herramientas de línea de comandos.
 
@@ -90,9 +82,7 @@ c) Se ha accedido a sistemas adicionales a través de sistemas comprometidos.
 
 d) Se han instalado puertas traseras para garantizar accesos futuros a los sistemas comprometidos.
 
-5. Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas.
-
-Criterios de evaluación:
+### 5. **Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas**
 
 a) Se han identificado los distintos sistemas de autenticación web, destacando sus debilidades y fortalezas.
 
@@ -106,7 +96,6 @@ e) Se han usado herramientas de búsquedas y explotación de vulnerabilidades we
 
 f) Se ha realizado la búsqueda y explotación de vulnerabilidades web mediante herramientas software.
 
-Duración: 65 horas.
 
 Contenidos básicos:
 
