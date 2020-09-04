@@ -5,8 +5,9 @@ bootstrap: true
 comments: false
 tags:
 - Ciberseguridad
-# thumbnail: /assets/img/blog/typescript-4.webp
-# feature-img: /assets/img/blog/typescript-4.webp
+thumbnail: /assets/img/blog/ciberseguridad.webp
+feature-img: /assets/img/blog/ciberseguridad.webp
+img: /assets/img/blog/ciberseguridad.webp
 title: '▷ Asignatura incidentes de ciberseguridad del curso de especialización en ciberseguridad'
 description: >-
   Contenidos, conceptos, resultados de aprendizaje del módulo profesional incidentes de ciberseguridad.

@@ -5,8 +5,9 @@ bootstrap: true
 comments: false
 tags:
 - Ciberseguridad
-# thumbnail: /assets/img/blog/typescript-4.webp
-# feature-img: /assets/img/blog/typescript-4.webp
+thumbnail: /assets/img/blog/ciberseguridad.webp
+feature-img: /assets/img/blog/ciberseguridad.webp
+img: /assets/img/blog/ciberseguridad.webp
 title: '▷ Asignatura análisis forense informático del curso de especialización en ciberseguridad'
 description: >-
   Contenidos, conceptos, resultados de aprendizaje del módulo profesional análisis forense informático.
