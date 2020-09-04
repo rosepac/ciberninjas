@@ -21,10 +21,6 @@ Creando el Curso de Especialización en Ciberseguridad en entornos de las tecnol
 
 Además, ya se trabaja en desarrollar durante los próximos años, varios cursos más en relación con los campos tecnológicos más en auge. Estén atentos al blog y nuestras redes sociales, si quieres seguir informado de los nuevos cursos que vayan apareciendo.
 
-- [**Asignaturas del curso de especialización en ciberseguridad**](#asignaturas-del-curso-de-especialización-en-ciberseguridad)
-
-> Recopilación de apuntes, cursos y libros con los que estudiar el Curso de Ciberseguridad (próximamente).
-
 - [**¿De qué trata el curso de especialización en ciberseguridad?**](#de-qué-trata-el-curso-de-especialización-en-ciberseguridad)
 - [**¿Qué asignaturas incluye el curso de especialización en ciberseguridad?**](#qué-asignaturas-incluye-el-curso-de-especialización-en-ciberseguridad)
   - [**Incidentes de ciberseguridad**](#incidentes-de-ciberseguridad)
@@ -198,6 +194,8 @@ A continuación vas a encontrar los centros en los que se impartirá durante el 
   - [IES Valle del Jerte](https://iesvallejertepla.educarex.es/index.php/oferta-educativa/428-curso-de-especializacion-en-ciberseguridad){:target="_blank" rel="nofollow,noreferrer"} de Plasencia.
 - Ceuta
   - [IES Puertas del Campo](http://iespuertasdelcampo.educalab.es/noticias/-/asset_publisher/5bWrkvwcCWSV/content/ciberseguridad/maximized?_101_INSTANCE_5bWrkvwcCWSV_redirect=%2F){:target="_blank" rel="nofollow,noreferrer"} de Ceuta.
+
+> 👷‍♂️ Recopilación de apuntes, cursos y libros con los que estudiar el Curso de Ciberseguridad (próximamente).
 
 ### **Relacionados** <!-- omit in toc -->
 
