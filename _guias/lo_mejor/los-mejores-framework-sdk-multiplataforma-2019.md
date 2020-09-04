@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻"
+title: "🥇 ▷ Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻"
 author: rosepac
 bootstrap: true
-description: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
-excerpt: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
+description: 'Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
+excerpt: 'Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
 published: true
 date: 2020-06-16
 last_modified_at: 
@@ -59,8 +59,8 @@ En la actualidad, apenas se ve la influencia directa de este SDK. Más todos los
 
 A lo largo del año 2020, sin lugar a dudas, será el año de un reformulado Android, gracias en gran medida; tanto a Dart como a Flutter, los dos nuevos "juguetes mimados" de Android/Google.
 
-[👉 Repositorio del Código Flutter](https://kutt.it/repositorioflutter "Código fuente del framework Flutter en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📖 Documentación de Flutter en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Flutter](https://kutt.it/repositorioflutter "Código fuente del framework Flutter en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📖 Documentación de Flutter en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Ionic**
 
@@ -79,8 +79,8 @@ Si manejas con desenvoltura HTML5, JavaScript y CS serás capaz de controlar con
 
 Debido a su capacidad para construir aplicaciones tanto nativas como multiplataforma, Ionic es un gran marco para el desarrollo de las Progressive Web Apps; y permite combinarse junto a los proyectos de PhoneGap, Trigger o Cordova, lo que ofrece una mayor accesibilidad a los gadgets de la arquitectura física de los dispositivos móviles, como pueden ser la Cámara, el GPS, la linterna u otros.
 
-[👉 Repositorio del Código Ionic](https://kutt.it/repositorioionic "Código fuente del framework Ionic en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📖 Conocer Más de Ionic](/ionic-framework/){: .btn .btn--inverse .btn--large .align-center}
+[👉 Repositorio del Código Ionic](https://kutt.it/repositorioionic "Código fuente del framework Ionic en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📖 Conocer Más de Ionic](/ionic-framework/){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **React Native**
@@ -96,7 +96,7 @@ React Native integra los beneficios de JavaScript y ReactJS proporciona a los de
 
 Además, React Native es altamente compatible con complementos de terceros, como Google Maps.
 
-[👉 Repositorio del Código React Native](https://kutt.it/repositorioreactnative "Código fuente del framework React Native en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código React Native](https://kutt.it/repositorioreactnative "Código fuente del framework React Native en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Xamarin**
 
@@ -111,7 +111,7 @@ Xamarin favorece especialmente a los expertos en C# y .NET, siendo estos los len
 
 A través de su API te permite generar apps esteticamente similares a las nativas y permite incluir las bibliotecas de Objective-C, Java y C++ sin ningun problema y presenta una adaptación total al editor Visual Studio de la propia Microsoft.
 
-[👉 Repositorio del Código Xamarin](https://kutt.it/repositorioxamarin "Código fuente del framework Xamarin en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Xamarin](https://kutt.it/repositorioxamarin "Código fuente del framework Xamarin en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **PhoneGap**
@@ -125,7 +125,7 @@ El Framework de PhoneGap, en la actualidad comprado por Adobe; con anterioridad 
 
 Además, es totalmente compatible con las funciones integradas del dispositivo, como GPS, cámara, agenda telefónica, almacenamiento, etc facilitando así, en gran medida, la creación de código que se ejecute sin problemas a la hora de acceder a los diferentes apartados de hardware del dispositivo; siendo esté, su gran punto fuerte.
 
-[👉 Repositorio del Código PhoneGap](https://kutt.it/repositoriophonegap "Código fuente del framework Phonegap en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código PhoneGap](https://kutt.it/repositoriophonegap "Código fuente del framework Phonegap en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Native Script**
 
@@ -138,7 +138,7 @@ Nombrado como el mejor framework de aplicaciones híbridas 2019-2020, Native Scr
 
 El sitio web oficial de Native Scripts proporciona continuamente recursos y tutoriales para desarrolladores en ciernes para que puedan aprender a trabajar en este marco como un profesional.
 
-[👉 Repositorio del Código Native Script](https://kutt.it/repositorionativescript "Código fuente del framework Native Script en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Native Script](https://kutt.it/repositorionativescript "Código fuente del framework Native Script en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Appcelerator Titanium**
@@ -156,7 +156,7 @@ Appcelerator ofrece varias herramientas para el desarrollo rápido de aplicacion
 
  Titanium ofrece conectores preconstruidos para hacerlo trabajar junto a MS Azure, MS SQL, Salesforce, Box, etc.
 
-[👉 Repositorio del Código Appcelerator](https://kutt.it/repositorioappcelerator "Código fuente del framework Appcelerator Titanium en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Appcelerator](https://kutt.it/repositorioappcelerator "Código fuente del framework Appcelerator Titanium en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **jQuery Móvil**
 
@@ -171,7 +171,7 @@ JQuery Móvil, nos ofrece múltiples componentes pre-construidos como por ejempl
 
 El código escrito con JQuery, en comparación con otros códigos que ofrezcan las mismas características; casi siempre es más reducido y el resultado son interfaces más simples, interactivas y fáciles de usar. Otro punto importante, es que está totalmente optimizado hacía el [Posicionamiento Web Seo](/posicionamiento-web-seo/ "La guía definitiva de posicionamiento, web y seo; robots.txt y enlaces obligatorios").
 
-[👉 Repositorio del Código jQuery Móvil](https://kutt.it/repositoriojquerymovil "Código fuente del framework jQuery Móvil en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código jQuery Móvil](https://kutt.it/repositoriojquerymovil "Código fuente del framework jQuery Móvil en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Móvil Angular UI**
@@ -187,7 +187,7 @@ La interfaz de usuario angular móvil consta de muchos componentes interactivos 
 
 Especialmente indicado para los desarrolladores que prefieran Angular y Boostrap que te permite construir a través de HTML5 sin mayores problemas; y es capaz de aprovechar el ágil soporte del lado del servidor que admite aplicaciones complejas con facilidad que le ofrece la implementación de Angular.
 
-[👉 Repositorio del Código Angular UI](https://kutt.it/repositorioangularui "Código fuente del framework Angular UI en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Angular UI](https://kutt.it/repositorioangularui "Código fuente del framework Angular UI en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Weex**
 
@@ -204,7 +204,7 @@ Weex se centra en la productividad y el rendimiento. Escribir una página con We
 
 Weex nos ofrece toda una aplicación de prácticas y código, denominada [Playground Weex](https://weex.apache.org/tools/playground.html?spm=a2c7j.-guide-introduction.0.0.3c4f1dbasnEA6M), ¡Una auténtica maravilla, desde luego!
 
-[👉 Repositorio del Código Weex](https://kutt.it/repositorioweex "Código fuente del framework Weex en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Weex](https://kutt.it/repositorioweex "Código fuente del framework Weex en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Corona SDK**
@@ -220,7 +220,7 @@ Es el framework ideal para aquellos que desean codificar rápidamente sin perder
  
 Utilizando sus características, Corona SDK es altamente capaz de incluir interactividad y contenido gráfico agradable en las aplicaciones. Además, el desarrollo de la aplicación Corona SDK escala el contenido automáticamente en múltiples dispositivos y sus APIs de juegos se incluyen fácilmente en la aplicación y permiten monetizar de manera fácil y rápida.
 
-[👉 Repositorio del Código Corona SDK](https://kutt.it/repositoriocorona "Código fuente del SDK Corona en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Corona SDK](https://kutt.it/repositoriocorona "Código fuente del SDK Corona en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 12. **Unity**
 
@@ -235,7 +235,7 @@ Ahora está preparado para ofrecerte la posibilidad de desarrollar apps de reali
 
 He considerado incluirlo aquí, como esponsor de los SDK enfocados a la creación de aplicaciones en realidad virtual; junto a otras posibilidades; entre las que podemos encontrar a: Unreal Engine, iOS ARKit, ArCore, Vuforia, Wikitude, EasyAR, Kudan o Artoolkit+ pero todos estos, mejor los dejamos para realizar una revisión algún otro día.
 
-[👉 Repositorio del Código Unity](https://kutt.it/unitydescarga "Código fuente del SDK Unity en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Unity](https://kutt.it/unitydescarga "Código fuente del SDK Unity en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 13. **Qt**
@@ -253,7 +253,7 @@ Una de las mayores ventajas que ofrece Qt, es la capacidad de generar código so
  
 Entre otras: Una consolidada API de ubicación, acceso a sensores a través de hardware, conectividad Bluetooth o bloques de código enfocados en el desarrollo de sistemas e-commerce.
 
-[👉 Repositorio del Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 14. **Intel System Studio**
 <figure>
@@ -283,7 +283,7 @@ Solución de desarrollo integrada basada en la nube para el desarrollo en C++ qu
  
 Entre otros..
 
-[👉 Repositorio del Intel System Studio](https://kutt.it/intelstudiodescarga "Implementa mejoras en las aplicaciones IoT"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio del Intel System Studio](https://kutt.it/intelstudiodescarga "Implementa mejoras en las aplicaciones IoT"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Conclusión** <!-- omit in toc -->
 
