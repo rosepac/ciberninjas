@@ -81,7 +81,7 @@ Esta asignatura de análisis forense informático del curso de especialización 
 − Análisis de volatilidad – Extracción de información (Volatility).
 − Análisis de Logs, herramientas más usadas.
 
-### Aprenderás a realizar análisis forenses en dispositivos móviles:
+### Aprenderás a realizar análisis forenses en dispositivos móviles
 
 − Métodos para la extracción de evidencias.
 − Herramientas de mercado más comunes.
