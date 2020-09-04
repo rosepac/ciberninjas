@@ -13,14 +13,15 @@ feature-img: /assets/img/blog/ciberseguridad.webp
 img: /assets/img/blog/ciberseguridad.webp
 ---
 
-Los ciclos formativos de desarrollo de aplicaciones web (DAW), desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red incluyen contenidos sobre seguridad; pero ninguno de ellos, profundiza en gran medida en ella.
+En los ciclos formativos de administración de sistemas informáticos en red, desarrollo de aplicaciones multiplataforma (DAM), desarrollo de aplicaciones web (DAW) y el ciclo de grado medio de sistemas microinformáticos y redes; incluyen algunos contenidos sobre seguridad; pero ninguno de ellos, profundiza en gran medida en ella.
 
-Por eso, el estado español ha decidido ampliar la formación sobre un campo en auge como es el de la ciberseguridad.
+Por eso, el Estado español ha decidido ampliar la formación sobre un campo en auge como es el de la ciberseguridad, deciendo para ello el crear un formato educativo nuevo. Denominado "curso en especialización".
 
-Creando el Curso de Especialización en Ciberseguridad en entornos de las tecnologías de la información, es una formación extra de nueva creación, creada para transmitir unos conocimientos superiores y más concretos en cuanto a la seguridad informática.
+Denominado **Curso de Especialización en Ciberseguridad en entornos de las tecnologías de la información**, es un curso de nueva creación, creada para transmitir unos conocimientos más concretos respecto a la seguridad informática; y para cursarlo necesitarás haber obtenido con anterioridad alguna titulación relacionada con el campo de la informática o mecánica.
 
-Además, ya se trabaja en desarrollar durante los próximos años, varios cursos más en relación con los campos tecnológicos más en auge. Estén atentos al blog y nuestras redes sociales, si quieres seguir informado de los nuevos cursos que vayan apareciendo.
+Además, desde el Ministerio de Educación español, [ya trabaja en desarrollar varios ciclos y cursos más](https://ciberninjas.com/educacion-planea-80-nuevas-ofertas-fp/) en correlación con los campos tecnológicos más en auge.
 
+Por lo que habrá que estar atento durante los próximos años, desde [Ciberninjas](https://ciberninjas.com/que-es-ciberninjas/){:target="_blank"} esperamos informar de todos los nuevos ciclos de formación profesional, a si que no te olvides de [seguirnos](https://twitter.com/ciberninjas){:target="_blank"}.
 - [**¿De qué trata el curso de especialización en ciberseguridad?**](#de-qué-trata-el-curso-de-especialización-en-ciberseguridad)
 - [**¿Qué asignaturas incluye el curso de especialización en ciberseguridad?**](#qué-asignaturas-incluye-el-curso-de-especialización-en-ciberseguridad)
   - [**Incidentes de ciberseguridad**](#incidentes-de-ciberseguridad)
