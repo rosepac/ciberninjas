@@ -7,7 +7,8 @@ author: rosepac
 bootstrap: true
 comments: false
 published: true
-permalink: /alternativas-reales-a-facebook-twitter-aparte-de-steemit-claro-esta
+permalink: /alternativas-reales-a-facebook-twitter-aparte-de-steemit-claro-esta/
+canonical_URL: https://ciberninjas.com/alternativas-reales-a-facebook-twitter-aparte-de-steemit-claro-esta/
 tags:
 - Redes Sociales
 - Redes Alternativas

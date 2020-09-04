@@ -14,6 +14,7 @@ date: 2019-01-22 06:01:35
 tags:
 - Inteligencia Artificial
 permalink: /el-mercado-de-la-inteligencia-articial-esta-creciendo-pero-que-tan-rapido-lo-hace/
+canonical_URL: https://ciberninjas.com/el-mercado-de-la-inteligencia-articial-esta-creciendo-pero-que-tan-rapido-lo-hace/
 
 ---
 Si trabajas en tecnología, has oído hablar de inteligencia artificial: cómo nos va a reemplazar, si se ha exagerado o no, y qué naciones la aprovecharán para prevenir o instigar la guerra.
