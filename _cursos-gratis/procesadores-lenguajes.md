@@ -11,7 +11,7 @@ description: "Los mejores cursos gratuitos con los que aprender todo sobre los p
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre los procesadores de lenguajes, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
 permalink: /cursos-de-procesadores-de-lenguajes/
-canonical_URL: https://ciberninjas.com/cursos-de-procesadores-de-lenguajes/
+canonical_URL: https://ciberninjas.com/cursos-procesadores-de-lenguajes/
 thumbnail: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
