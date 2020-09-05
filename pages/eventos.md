@@ -47,7 +47,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - (03:00 AM H. Española) Code LATAM: Primeros pasos con React JS 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
 - (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (17:00 PM H. Española - 10:00 AM H. México CDMX) Seguridad en Base de Datos 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-seguridad-en-base-de-datos-117898049239?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 6 de Septiembre
 
