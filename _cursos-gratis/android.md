@@ -29,13 +29,14 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [**¿Qué lenguaje de programación es mejor para el desarrollo de Android?**](#qué-lenguaje-de-programación-es-mejor-para-el-desarrollo-de-android)
 - [**¿Qué lenguajes se requieren para el desarrollo de Android?**](#qué-lenguajes-se-requieren-para-el-desarrollo-de-android)
 - [Cursos Gratis de Flutter](#cursos-gratis-de-flutter)
+- [**¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Flutter?**](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-flutter)
 - [Cursos Gratis de Dart](#cursos-gratis-de-dart)
 
 ## Cursos Gratis de Android
 
 - [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Android Studio: Instalación, emuladores, git, plugins y tips](plugins-y-tips	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+- [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Android Studio](/android-studio-con-jesus-conde/){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [App Android: Registro de inventarios](https://www.youtube.com/playlist?list=PLzSFZWTjelbJfNqwa2KlCp0Dixm4O4oic){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2016)
 - [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
