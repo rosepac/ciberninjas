@@ -6,6 +6,7 @@ title: "\U0001F469‍\U0001F3EB Curso de Android Studio con Jesús Conde"
 description: "▷ Conoce y aprende a usar el IDE o entorno de desarrollo \U0001F4F2 Android Studio con este curso online del formador \U0001F468‍\U0001F3EB Jesús Conde"
 excerpt: "▷ Conoce y aprende a usar el IDE o entorno de desarrollo \U0001F4F2 Android Studio con este curso online del formador \U0001F468‍\U0001F3EB Jesús Conde"
 permalink: /android-studio-con-jesus-conde/
+canonical_URL: https://ciberninjas.com/android-studio-con-jesus-conde/
 comments: false
 date: 2019-07-25 15:00:00 +0200
 tags:
