@@ -38,6 +38,9 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [**¿Cómo funciona Flutter?**](#cómo-funciona-flutter)
 - [**¿Por qué aprender Flutter?**](#por-qué-aprender-flutter)
 - [**¿Qué lenguaje de programación usa Flutter?**](#qué-lenguaje-de-programación-usa-flutter)
+- [**¿Cuáles son los mejores libros para aprender Flutter?**](#cuáles-son-los-mejores-libros-para-aprender-flutter)
+- [Cursos Gratis de Kotlin](#cursos-gratis-de-kotlin)
+- [**¿Cuáles son los mejores libros para aprender Kotlin?**](#cuáles-son-los-mejores-libros-para-aprender-kotlin)
 - [Cursos Gratis de Dart](#cursos-gratis-de-dart)
 
 ## **Cursos Gratis de Android**
@@ -100,12 +103,12 @@ Estos son algunos de los mejores libros para aprender Android:
 - [Android Studio. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu){:target="_blank" rel="nofollow,noreferrer"}
 - [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM){:target="_blank" rel="nofollow,noreferrer"} (2018)
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726623&linkId=0d517a5c36d84c2d92ddfd99c7d33806"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441538921&linkId=156686933d757a8aedf3cfe4dc1d2715"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=240901447X&linkId=227b72c11e15bbd7ad712bf2cb3ceafc"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717014&linkId=5a6136db4c875be417303208017f9e70"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726631&linkId=ca99853282436c05a9d8714916b76089"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726623&linkId=0d517a5c36d84c2d92ddfd99c7d33806"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441538921&linkId=156686933d757a8aedf3cfe4dc1d2715"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=240901447X&linkId=227b72c11e15bbd7ad712bf2cb3ceafc"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717014&linkId=5a6136db4c875be417303208017f9e70"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726631&linkId=ca99853282436c05a9d8714916b76089"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=9389845203&linkId=82eff17cdc299f923432f6948df07cbe"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1449374433&linkId=e2bc96c36ffc2b7dc4d2156ad6aec224"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1491974052&linkId=9548b12bdf915a40cbec22aa0e85bb69"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1934356565&linkId=ad3951882cb42cd40f082aa2cdcfc8e0"></iframe>
 
-- Libro de cocina de Android: Problemas y soluciones para desarrolladores de Android por Ian Darwin
-- Desarrollo de aplicaciones de Android para tontos por Donn Felker
-- Head First Android Development: una guía amigable para el cerebro de David Griffiths y Dawn Griffiths
-- Hola, Android: Presentamos la plataforma de desarrollo móvil de Google por Ed Burnette
+- **[EN]** [Fundamentos del desarrollo de aplicaciones de Android](https://amzn.to/2F8GYGd){:target="_blank" rel="nofollow,noreferrer"} por Ian Darwin
+- **[EN]** [Recetario de Android: Problemas y soluciones para desarrolladores de Android](https://amzn.to/331ZacM){:target="_blank" rel="nofollow,noreferrer"} por Ian Darwin
+- **[EN]** [Head First Android Development: una guía amigable para el cerebro](https://amzn.to/3ia2wAD){:target="_blank" rel="nofollow,noreferrer"} de David Griffiths y Dawn Griffiths
+- **[EN]** [Hola, Android: Presentamos la plataforma de desarrollo móvil de Google](https://amzn.to/326mQxq){:target="_blank" rel="nofollow,noreferrer"} por Ed Burnette
 
 <!-- AGREGAR ENLACES A LIBROS DE AFILIADOS DE AMAZON +++++ -->
 ## **¿Está muriendo el desarrollo de Android?**
@@ -133,8 +136,6 @@ El desarrollo de Android requiere principalmente los lenguajes de programación 
 
 - [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (G Coding Academy, Youtube)
 
-[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
 ## **¿Qué es Flutter?**
 
 Flutter es un SDK de desarrollo de aplicaciones móviles (Software Development Kit) creado por las mentes de Google. Los desarrolladores de Flutter lo denominan como un creador de aplicaciones de alto rendimiento y alta fidelidad para aplicaciones iOS y Android, a partir de una única base de código. La idea detrás de Flutter era ayudar a los desarrolladores a crear aplicaciones rápidas que se sientan fluidas en distintas plataformas. Con hermosos widgets con sabor a iOS construidos con el propio marco de Flutter, los desarrolladores pueden crear una experiencia de usuario hermosa y personalizada.
@@ -149,7 +150,7 @@ Flutter ha ganado bastantes números en los últimos tiempos debido a su capacid
 
 ## **¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Flutter?**
 
-Si desea aprender Flutter para principiantes y obtener conocimientos críticos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada para usted. Ofrece una gran cantidad de tutoriales que ayudarán a los desarrolladores tanto aficionados como profesionales a concentrarse en aprender todo sobre la programación de Flutter y sus características. 
+Si desea aprender Flutter para principiantes y obtener conocimientos críticos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada para usted. Ofrece una gran cantidad de tutoriales que ayudarán a los desarrolladores tanto aficionados como profesionales a concentrarse en aprender todo sobre la programación de Flutter y sus características.
 
 Los usuarios pueden encontrar los tutoriales de introducción de Flutter en español, tanto gratuitas como de pago, y decidir el modo del tutorial, que puede ser un video o un libro.
 
@@ -158,7 +159,6 @@ Ciberninjas es una página web que se creo enfocada en fomentar la educación y 
 ## **¿Cómo funciona Flutter?**
 
 Flutter, a diferencia de sus contemporáneos, funciona más como un motor de juegos que como un marco de aplicación tradicional. Una aplicación Flutter se compone de widgets, que se procesan en un lienzo de Skia y se envían a la plataforma. La plataforma muestra el lienzo y envía eventos según sea necesario.
-
 
 ## **¿Por qué aprender Flutter?**
 
@@ -172,6 +172,27 @@ Hay varias buenas razones para aprender Flutter, la más notable:
 ## **¿Qué lenguaje de programación usa Flutter?**
 
 Flutter usa la plataforma Dart. Se ejecuta en la máquina virtual Dart que cuenta con un motor de ejecución JIT (justo a tiempo). Las aplicaciones de Flutter aprovechan muchas de las funciones avanzadas disponibles en el lenguaje de programación optimizado para el cliente.
+
+## **¿Cuáles son los mejores libros para aprender Flutter?**
+
+Estos son algunos de los mejores libros para aprender Flutter:
+
+
+
+## Cursos Gratis de Kotlin
+
+- [Fundamentos de Kotlin](https://devcode.la/cursos/kotlin){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
+- [Introducción a Kotlin avanzado](https://plataforma.keepcoding.io/p/introduccion-desarrollo-de-aplicaciones-android-en-kotlin-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+- [Introducción a Kotlin desde cero](https://plataforma.keepcoding.io/p/curso_kotlin_desde_cero_introductorio){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+
+## **¿Cuáles son los mejores libros para aprender Kotlin?**
+
+Estos son algunos de los mejores libros para aprender Kotlin:
+
+- [Aprende a programar con KOTLIN](https://amzn.to/2Lgibk1){:target="_blank" rel="nofollow,noreferrer"}
+- **[EN]** [Desarrollo de aplicaciones para Android con Kotlin](https://amzn.to/3h6SWxh)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717022&linkId=e874cd4066972fa08858d0aad097796e"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=9389423503&linkId=44976d7186febb3007b3911982bd679c"></iframe>
 
 ## Cursos Gratis de Dart
 
