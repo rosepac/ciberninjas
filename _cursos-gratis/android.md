@@ -177,7 +177,12 @@ Flutter usa la plataforma Dart. Se ejecuta en la máquina virtual Dart que cuent
 
 Estos son algunos de los mejores libros para aprender Flutter:
 
+- **[EN]** [Aprenda Flutter rápidamente: 65 ejemplos de aplicaciones](https://amzn.to/325VA1Z){:target="_blank" rel="nofollow,noreferrer"}
+- **[EN]** [Comenzando con Flutter](https://amzn.to/3lWdhZJ){:target="_blank" rel="nofollow,noreferrer"}
+- **[EN]** [Flutter en acción](https://amzn.to/3h0oxAA){:target="_blank" rel="nofollow,noreferrer"}
+- **[EN]** [Guía de Inico Rápido con Flutter](https://amzn.to/33bx9zA){:target="_blank" rel="nofollow,noreferrer"}
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1092297375&linkId=02bbdc6a9d3dd576abd0b6558f565172"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1119550823&linkId=0affc70648bf959c8feff8a9809831eb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1617296147&linkId=98259e1b589e59dfa12789a9c4ecea2e"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789344964&linkId=f98ec07e491c8ccc3e9ec790aae85888"></iframe>
 
 ## Cursos Gratis de Kotlin
 
