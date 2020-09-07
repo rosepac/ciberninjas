@@ -49,6 +49,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 12 de Septiembre
 
 - (03:00 AM H. Española) Code LATAM: Introducción a Accesibilidad Web 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
+- (10:00 AM H. Española) HACK & BEERS Remakes Vol. 6 👉 Más INFO. [Agenda e Inscripción](https://l.immune.institute/capture-the-flag-ctf){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. ESP - 12:00 H. México) Cómo analizar la corrupción con datos de auditorías en R 👉 [Meetup y Zoom](https://www.meetup.com/es/rladies-aguascalientes/events/273033675/){:target="_blank" rel="nofollow, noreferrer"}
 
