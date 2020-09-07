@@ -111,17 +111,7 @@ https://amzn.to/2TxtN52
 
 ## Android <i class="fa fa-android" aria-hidden="true"></i>
 
-* [El Gran Libro de Android - 7ª ED](https://amzn.to/2Pz5cOu){:target="_blank" rel="nofollow,noreferrer"} (2019)
-* [Desarrollo de aplicaciones para Android](https://amzn.to/2VaoniT){:target="_blank" rel="nofollow,noreferrer"} (2018)
-* [Desarrolle una aplicación android. Programación en Java con Android Studio](https://amzn.to/2HH8TuP){:target="_blank" rel="nofollow,noreferrer"} (2018)
-* [Android Studio. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu){:target="_blank" rel="nofollow,noreferrer"}
-* [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM){:target="_blank" rel="nofollow,noreferrer"} (2018)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726623&linkId=0d517a5c36d84c2d92ddfd99c7d33806"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441538921&linkId=156686933d757a8aedf3cfe4dc1d2715"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=240901447X&linkId=227b72c11e15bbd7ad712bf2cb3ceafc"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717014&linkId=5a6136db4c875be417303208017f9e70"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726631&linkId=ca99853282436c05a9d8714916b76089"></iframe>
-
-* [Aprende a programar con KOTLIN](https://amzn.to/2Lgibk1){:target="_blank" rel="nofollow,noreferrer"}
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717022&linkId=e874cd4066972fa08858d0aad097796e"></iframe>
+- [Los Mejores Libros y Cursos Gratis con los que Aprender Android](https://ciberninjas.com/cursos-android/)
 
 ## PHP Framework
 
