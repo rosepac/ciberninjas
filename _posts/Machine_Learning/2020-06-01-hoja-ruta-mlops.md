@@ -34,9 +34,11 @@ Los MLOps deben verse como una práctica para administrar consistentemente los a
 
 Esto también incluye DataOps, ya que Machine Learning sin datos completos, consistentes, semánticamente válidos, correctos, oportunos e imparciales es problemático o conduce a soluciones defectuosas que pueden exacerbar los sesgos incorporados.
 
-En la actualidad, la gestión de los activos de ML en producción permanece en una etapa muy temprana de madurez, y la mayoría de las organizaciones se ven obligadas a construir soluciones a medida para su implementación o a limitarse a herramientas altamente específicas de la ciencia de datos que tratan los componentes de ML como datos no controlados. conjuntos.
+En la actualidad, la gestión de los activos de ML en producción permanece en una etapa muy temprana de madurez, y la mayoría de las organizaciones se ven obligadas a construir soluciones a medida para su implementación o a limitarse a herramientas altamente específicas de la ciencia de datos que tratan los componentes de ML como datos no controlados.
 
-En este punto del desarrollo de la práctica, gran parte de la actividad de investigación y desarrollo de ML e IA ha sido impulsada por Data Science más que por equipos de Computer Science. Con la creación de la Hoja de ruta de MLOps, esperamos poder aprovechar las lecciones de los últimos setenta años de administración de activos de software en entornos comerciales para acelerar la viabilidad de administrar activos de ML en productos del mundo real.
+En este punto del desarrollo de la práctica, gran parte de la actividad de investigación y desarrollo de ML e IA ha sido impulsada por Data Science más que por equipos de Computer Science.
+
+Con la creación de la Hoja de ruta de MLOps, esperamos poder aprovechar las lecciones de los últimos setenta años de administración de activos de software en entornos comerciales para acelerar la viabilidad de administrar activos de ML en productos del mundo real.
 
 Existe una brecha significativa entre el esfuerzo requerido para crear una prueba de concepto viable de un modelo ML capacitado en una computadora portátil de Data Scientist frente a lo que se necesita para poder hacer una transición segura de ese activo a un producto comercial en entornos de producción, y la falta Un buen proceso, experiencia y herramientas para respaldar ese trabajo significa que actualmente la mayoría de los experimentos de ML no logran entrar en producción.
 
