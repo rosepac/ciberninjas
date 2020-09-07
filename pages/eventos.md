@@ -24,17 +24,9 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 5 de Septiembre
+### 🔔 7 de Septiembre
 
-- 📌 (00:00 H. ESP) De TL a Manager en pandemia. Por Flor Mincucci (@florenciaypunto) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
-- 📌 (01:00 H. ESP)  Management[masked] Por Vale Colombo (@ValeZumZum) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
-- (03:00 AM H. Española) Code LATAM: Primeros pasos con React JS 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
-- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
-- (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 6 de Septiembre
-
-- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
+- (23:30 H. ESP.) UX Writing: Diseñando experiencias con palabras, por Emilia Alegre 👉 [Ver Directo en Youtube](https://www.youtube.com/watch?v=s9-u2mYL7rY&ab_channel=CoDeAr){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 8 de Septiembre
 
@@ -44,6 +36,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 - (13:00 H. Esp.) Neo4j - Aplicaciones en Retail 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"}
+- CICLO DE CHARLAS VIRTUALES WEF: COMUNIDADES DE MUJERES
 
 ### 🔔 10 de Septiembre
 
@@ -57,31 +50,44 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 - (03:00 AM H. Española) Code LATAM: Introducción a Accesibilidad Web 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00 PM H. ESP - 12:00 H. México) Cómo analizar la corrupción con datos de auditorías en R 👉 [Meetup y Zoom](https://www.meetup.com/es/rladies-aguascalientes/events/273033675/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 14 de Septiembre
 
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} Conferenciantes (https://megatestingweek.com/speakers/) | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+
 ### 🔔 15 de Septiembre
 
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} Conferenciantes (https://megatestingweek.com/speakers/) | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (19:00 PM) ¿Pondrá Deno el mundo de Node del revés? - [Registro](https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/){:target="_blank" rel="nofollow, noreferrer"}
 
 Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dahl, que, aprovechando todo el conocimiento obtenido durante los 10 años de vida de Node decidió comenzar este proyecto para enmendar errores. Deno cuenta con soporte nativo de TypeScript —es decir no hace falta compilar antes de ejecutar un fichero de TypeScript—, un modelo de seguridad, una forma descentralizada de distribuir paquetes, un único ejecutable y muchas más cosas. En esta charla introductoria veremos qué es y qué características tiene, ¡así que no te lo pierdas!
 
 ### 🔔 16 de Septiembre
 
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (18:00 H. ESP.) Inspired by Woman: Enciende tu marca personal 🗞 [REGISTRO](https://www.eventbrite.co.uk/e/inspired-by-women-tickets-117973442743?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 
 ### 🔔 17 de Septiembre
 
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (19:00 H. ESP.) Webinar: guía de supervivencia para un Data Scientist 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-webinar-guia-de-supervivencia-para-un-data-scientist-112423947052?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 18 de Septiembre
 
-- Congreso EsLibre. Más Información, Charlas y Propuestas (https://propuestas.eslib.re/2020/)
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+- Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 19 de Septiembre
 
-- Congreso EsLibre. Más Información, Charlas y Propuestas (https://propuestas.eslib.re/2020/)
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+- Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
+- (11:00 AM H. ESP.) ✨ OSWeekends #3: Animaciones svg, Blog Nuxt, Cypress Testing 👉 [Registro](https://www.meetup.com/es/Open-Source-Weekends/events/273013139/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 20 de Septiembre
+
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 
 ### 🔔 23 de Septiembre
 
@@ -94,6 +100,14 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 24 de Septiembre
 
 - (23:00 H. ESP. - 16:00 H. Ciudad de México) Tu personal Branding y la Nueva Normalidad 🗞 [Registro](https://www.eventbrite.com.mx/e/tu-personal-branding-y-la-nueva-normalidad-tickets-117309725547?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
+### 🔔 27 de Septiembre
+
+- (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
+
+### 🔔 28 de Septiembre
+
+- (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
 
 ### 🔔 29 de Septiembre
 
@@ -159,6 +173,54 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 5 de Noviembre
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 16 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 17 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 18 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 19 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 20 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 21 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 22 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 23 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 24 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 25 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 26 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 27 de Noviembre
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Eventos tecnológicos de Diciembre**
 
@@ -582,3 +644,15 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
 - 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://economiadigitalsantander.es/agenda/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 5 de Septiembre
+
+- 📌 (00:00 H. ESP) De TL a Manager en pandemia. Por Flor Mincucci (@florenciaypunto) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
+- 📌 (01:00 H. ESP)  Management[masked] Por Vale Colombo (@ValeZumZum) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
+- (03:00 AM H. Española) Code LATAM: Primeros pasos con React JS 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
+- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
+- (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 6 de Septiembre
+
+- (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
