@@ -37,7 +37,7 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Android Studio](/android-studio-con-jesus-conde/){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [App Android: Registro de inventarios](https://www.youtube.com/playlist?list=PLzSFZWTjelbJfNqwa2KlCp0Dixm4O4oic){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2016)
+- [App Android: Registro de inventarios](/android-studio-registro-inventarios/){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2016)
 - [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
