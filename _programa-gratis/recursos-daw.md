@@ -61,6 +61,8 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 **Asignaturas del primer curso de DAW**
 
+El primer curso de Desarrollo de Aplicaciones Web consiste en cursar las asignaturas de programación, bases de datos, entornos de desarrollo, lenguajes de marcas y sistemas de gestión de la información, y formación y orientación laboral.
+
 ## 1. **Bases de datos**
 
 - Diseño Conceptual de Bases de Datos (2.004) 📖 [**OpenLibra: Diseño Conceptual de Bases de Datos**](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (todas las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo).
@@ -101,7 +103,9 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 ### Libros de lenguajes de marcas y sistemas de gestión de información
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Sintesis](https://amzn.to/2ZlXglY) (2018) \ [Garceta](https://amzn.to/2GIm8hv) (2012) \ [Rama](https://amzn.to/35lJHH4) (2011)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491711759&linkId=4de97fd4b80513e1b8b89abf5bd75003"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452179&linkId=6348e4058e4c3b9f604f6191975d986b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641016&linkId=837d36d2acdeed5a714b0c689ec4660b"></iframe>
 
 ## 5. **Programación**
 
@@ -127,15 +131,21 @@ Piensa en JAVA. Edición Española (2.002)
 
 ### Libros de programación
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Garceta](https://amzn.to/2R5jVOT) (2013) \ [Rama](https://amzn.to/35jZshB) (2011)
 
-## 6. **Sistemas informáticos**
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452594&linkId=9263f21a58c82b01bb84c94cce8ed82c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499640885&linkId=4abe484ec5abede0d376840723f3675c"></iframe>
 
 **Asignaturas del segundo curso de DAW**
 
+El segundo curso de Desarrollo de Aplicaciones Web consiste en cursar las asignaturas de desarrollo web en entorno cliente, desarrollo web en entorno servidor, despliegue de aplicaciones web, diseño de interfaces web, sistemas informáticos, inglés técnico, empresa e iniciativa emprendedora, proyecto de desarrollo de aplicaciones web y formación en centros de trabajo.
+
+## 6. **Sistemas informáticos**
+
 ### Libros de sistemas informáticos
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Garceta](https://amzn.to/3m1Bwpp) (2017) \ [Rama](https://amzn.to/3bLtIDp) (2011)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416228930&linkId=4f294fc16a1c5b5ca881def72af79dc3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499640990&linkId=efbad61f9afbe8359a507eb3b9f1a858"></iframe>
 
 ## 7. **Diseño de interfaces web**
 
@@ -158,13 +168,17 @@ Tema 2 . Estilos
 
 ### Libros de diseño de interfaces web
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Sintesis](https://amzn.to/2R4Ndxl) (2019) \ [Garceta](https://amzn.to/3lWSF3o) (2016) \ [Rama](https://amzn.to/337Ps8J) (2012)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713247&linkId=00df9b013ca7ebcdf2f075fa04398427"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416228620&linkId=20e6f9ee0550e59a1f2e632cc6a365e4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641547&linkId=c795f2e3f16ed0b864c37dcfb01621fa"></iframe>
 
 ## 8. **Empresa e iniciativa emprendedora**
 
 ### Libros de empresa e iniciativa emprendedora
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Paraninfo](https://amzn.to/33bB5jK) (2019) \ [Editex](https://amzn.to/3ibXBPJ) \ [Garceta]() (2019) \ [Garceta]() (2014) \ [Rama]() (2012)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428341656&linkId=c03b8ff97c537e8ff307fd0f5c1ff3bd"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491618813&linkId=2b53001b718c91b17516c7aa47480f47"></iframe>
 
 ## 10. **Inglés técnico para grado superior**
 
