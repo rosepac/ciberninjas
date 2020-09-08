@@ -14,7 +14,7 @@ tags:
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe" allowfullscreen></iframe>
 </div><br/>
 
 ## Índice
@@ -30,4 +30,4 @@ tags:
 
 Editor del blog de Medium: Canarias JS
 
-[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Cursos de React y Programación Móvil](/cursos-programacion-web-movil/){: .btn .btn-outline-dark .btn-lg .btn-block}
