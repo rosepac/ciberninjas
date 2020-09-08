@@ -24,10 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 7 de Septiembre
-
-- (23:30 H. ESP.) UX Writing: Diseñando experiencias con palabras, por Emilia Alegre 👉 [Ver Directo en Youtube](https://www.youtube.com/watch?v=s9-u2mYL7rY&ab_channel=CoDeAr){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 8 de Septiembre
 
 - (18:30 H. Esp.) Front End: taller para principiantes FULLSTACK 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-front-end-taller-para-principiantes-fullstack-111285114774?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}- (18:00 H. Esp.) ¿Has acabado de estudiar? Te recomendamos qué hacer 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-has-acabado-de-estudiar-te-recomendamos-que-hacer-d-115882500679?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -35,11 +31,11 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 9 de Septiembre
 
 - (13:00 H. Esp.) Neo4j - Aplicaciones en Retail 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"}
-- CICLO DE CHARLAS VIRTUALES WEF: COMUNIDADES DE MUJERES
+- (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"} 🎥 [Ver Directo](https://www.youtube.com/watch?v=bmLvEKoHm-s&ab_channel=SEOPuntoRojo%21){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 10 de Septiembre
 
+- (00:00 AM) CICLO DE CHARLAS VIRTUALES WEF: COMUNIDADES DE MUJERES 👉 [REGISTRO](https://www.inscribirme.com/ciclodecharlasvirtualeswefcomunidadesdemujeres){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 11 de Septiembre
@@ -55,7 +51,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 14 de Septiembre
 
-- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} Conferenciantes (https://megatestingweek.com/speakers/) | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 
 ### 🔔 15 de Septiembre
 
@@ -100,6 +96,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 ### 🔔 24 de Septiembre
 
+- (14:30 H. ESP.) La Product Conf Madrid | Online Edition 🗞 [Registro](https://www.eventbrite.com/e/la-product-conf-madrid-online-edition-tickets-115347246720)
 - (23:00 H. ESP. - 16:00 H. Ciudad de México) Tu personal Branding y la Nueva Normalidad 🗞 [Registro](https://www.eventbrite.com.mx/e/tu-personal-branding-y-la-nueva-normalidad-tickets-117309725547?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 ### 🔔 27 de Septiembre
@@ -657,3 +654,7 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 ### 🔔 6 de Septiembre
 
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 7 de Septiembre
+
+- (23:30 H. ESP.) UX Writing: Diseñando experiencias con palabras, por Emilia Alegre 👉 [Ver Directo en Youtube](https://www.youtube.com/watch?v=s9-u2mYL7rY&ab_channel=CoDeAr){:target="_blank" rel="nofollow, noreferrer"}
