@@ -11,9 +11,9 @@ permalink: /sociologia-neurologia/
 canonical_URL: https://ciberninjas.com/sociologia-neurologia/
 ---
 
-[Kim Peek](https://es.wikipedia.org/wiki/Kim_Peek)
+- [Kim Peek](https://es.wikipedia.org/wiki/Kim_Peek)
 https://www.youtube.com/watch?v=-zt0sWrLIUg
-Stephen Wiltshire https://www.youtube.com/watch?v=JrhLWoMl7_Y
+- Stephen Wiltshire https://www.youtube.com/watch?v=JrhLWoMl7_Y
 
 El síndrome de Savant?.. Buscar personas y vídeos colocar en Sociología, Savant. Categoría..
 
