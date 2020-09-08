@@ -21,9 +21,7 @@ Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecno
 
 Con lo primero que se encuentra una persona al comenzar los estudios de formación profesional de desarrollo de aplicaciones web, es con el serio problema de no poseer los apuntes tomados personalmente; con los que lograr centrarse únicamente en estudiar mediante una dinámica organizada.
 
-Por eso, lo primero que tiende a hacer uno, es ir a buscar información complementaria.
-
-Al dar este paso, uno se sumerge en el mundo de la información infinita; la documentación masificada a lo largo de miles de plataformas y en distintos soportes. Con lo que puedes llegar a volverte ‘loco’.
+Lo primero que hace uno es introducirse en Internet, y al dar este paso. Uno se sumerge en el mundo de la información infinita; la documentación masificada a lo largo de miles de plataformas y en distintos soportes. Con lo que puedes llegar a volverte ‘loco’.
 
 Pues he aquí, los documentos que mayor validez han tenido para mi hasta el momento durante un largo año y medio peleando contra el código 😎
 
@@ -53,6 +51,8 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
   - [Libros de servicios en red](#libros-de-servicios-en-red)
 
 **Asignaturas del primer curso de SMR**
+
+El primer curso de Sistemas Microinformáticos y Redes consiste en cursar las asignaturas de aplicaciones ofimáticas, montaje y mantenimiento de equipo, redes locales, sistemas operativos monopuesto, y formación y orientación laboral.
 
 ## **Aplicaciones ofimáticas**
 
@@ -89,6 +89,8 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428341397&linkId=f3859c8756248882d96e566f495ef7f3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713778&linkId=3f35f6caa21e7510494f7caf5b11f6d6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180321&linkId=daadf4ab3e0de16a28085511284f0deb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415426453&linkId=a095c9932cfaf7f1e6bb4d4cc75107fa"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719719&linkId=6822685f520352949a7d5f6e102e26a4"></iframe>
 
 **Asignaturas del segundo curso de SMR**
+
+El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las asignaturas de aplicaciones web, seguridad informática, servicios en red, sistemas operativos en red, formación en centros de trabajo y empresa e iniciativa emprendedora.
 
 ## **Aplicaciones web**
 
