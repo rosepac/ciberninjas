@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🥇 ▷ Los libros favoritos y más recomendados por Elon Musk, para el día del libro 2020"
+title: "🥇 ▷ 61 mejores libros recomendados por Elon Musk"
 description: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
 excerpt: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
 date: 2020-04-23 23:33:59
@@ -41,38 +41,134 @@ Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores m�
 <!-- https://www.cnbc.com/2017/02/21/billionaire-elon-musk-credits-his-success-to-these-8-books.html -->
 <!-- https://www.businessinsider.com/elon-musk-favorite-books-2015-10?IR=T -->
 
-> **🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/libros-recomendados-elon-musk-2020/){:target="_blank" rel="nofollow,noreferrer"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow,noreferrer"}
+> **🔥 Libros Recomendados Por**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/libros-recomendados-elon-musk-2020/){:target="_blank" rel="nofollow,noreferrer"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow,noreferrer"}
+- [1. **De Cero a Uno: Cómo inventar el Futuro de Peter Thiel**](#1-de-cero-a-uno-cómo-inventar-el-futuro-de-peter-thiel)
+  - [¿Quién es Peter Thiel?](#quién-es-peter-thiel)
+- [2. **Dune de Frank Herbert**](#2-dune-de-frank-herbert)
+  - [¿Quién es Frank Herbert?](#quién-es-frank-herbert)
+- [3. **La rebelión de Atlas de Ayn Rand**](#3-la-rebelión-de-atlas-de-ayn-rand)
+  - [¿Quién es Alisa Rosenbaum?](#quién-es-alisa-rosenbaum)
+- [4. **Vida 3.0 de Max Tegmark**](#4-vida-30-de-max-tegmark)
+- [5. **Nuestra invención final de James Barrat**](#5-nuestra-invención-final-de-james-barrat)
+- [6. **La Fundación de Isaac Asimov**](#6-la-fundación-de-isaac-asimov)
+- [7. **El Señor de los Anillos de JRR Tolkien**](#7-el-señor-de-los-anillos-de-jrr-tolkien)
+- [8. **Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson**](#8-nikola-tesla-el-inventor-de-la-era-eléctrica-por-walter-isaacson)
+- [9. **Einstein: Su vida y su universo de Walter Isaacson**](#9-einstein-su-vida-y-su-universo-de-walter-isaacson)
+- [10. **La Guía del Autoestopista Galáctico de Douglas Adams**](#10-la-guía-del-autoestopista-galáctico-de-douglas-adams)
+- [11. **Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom**](#11-superinteligencia-caminos-peligros-estrategias-de-nick-bostrom)
+- [12. **Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark**](#12-encendido-una-historia-informal-de-los-propulsores-de-cohetes-líquidos-de-john-d-clark)
+  - [Leer Encendido - Online](#leer-encendido---online)
+- [13. **Benjamin Franklin: Una Vida Americana de Walter Isaacson**](#13-benjamin-franklin-una-vida-americana-de-walter-isaacson)
+- [14. **Estructuras: O porque las cosas no se caen de J. E. Gordon**](#14-estructuras-o-porque-las-cosas-no-se-caen-de-j-e-gordon)
+- [15. **Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes**](#15-mercaderes-de-la-duda-de-erik-m-conway-y-naomi-oreskes)
+- [16. **El Señor de las Moscas de William Golding**](#16-el-señor-de-las-moscas-de-william-golding)
+- [17. **Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele**](#17-howard-hughes-su-vida-y-locura-de-donald-l-barlett-y-james-b-steele)
+- [18. **La Luna es una Cruel Amante de Robert Heinlein**](#18-la-luna-es-una-cruel-amante-de-robert-heinlein)
+- [19. **Cultura de Iain M. Banks**](#19-cultura-de-iain-m-banks)
+<!-- https://www.vbqspeakers.com/max-tegmark -->
+
+## 1. **De Cero a Uno: Cómo inventar el Futuro de Peter Thiel**
+
+El libro De cero a uno. Esta basado en notas de una clase popular que Peter Thiel enseñó en la Universidad de Stanford el año 2012 que se centra en **la necesidad de encontrar un pensamiento único** entre los emprendedores fundadores de startups.
+
+El libro, escrito por el cofundador de Paypal, Peter Thiel, junto al propio Elon Musk. Ofrece una **exploración muy interesante del proceso constitutivo de una empresa exitosa**.
+
+[🔥 COMPRAR el libro De Cero a Uno: Cómo inventar el Futuro](https://amzn.to/2RTqzJ4 "Comprar el libro De Cero a Uno: Cómo inventar el Futuro"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> "Peter Thiel ha creado múltiples empresas innovadoras, y Zero to One te muestra cómo puedes hacerlo".
+>
+> Elon Musk
+
+Otras personas, como CEO de Facebook.
+Han dicho de él..
+
+> Este libro ofrece ideas completamente nuevas y refrescantes sobre cómo crear valor en el mundo.
+>
+> Mark Zuckerberg
+
+O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W9gwg){:target="_blank" rel="nofollow,noreferrer"}
+
+> "Cuando un tomador de riesgos escribe un libro, léelo. En el caso de Peter Thiel, léelo dos veces. O, para estar seguro, tres veces. Es un clásico".
+>
+> Nassim Nicholas Taleb
 
 <details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/libros-recomendados-elon-musk-2020/#1-vida-30-de-max-tegmark" title="Saber más sobre el libro Vida 3.0 de Max Tegmark"><strong>Vida 3.0 de Max Tegmark</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#2-nuestra-invención-final-de-james-barrat" title="Saber más sobre el libro Nuestra Invención Final de James Barrat"><strong>Nuestra Invención Final de James Barrat</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#3-la-fundación-de-isaac-asimov" title="Saber más sobre el libro La Fundación de Isaac Asimov"><strong>La Fundación de Isaac Asimov</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#4-el-señor-de-los-anillos-de-jrr-tolkien" title="Saber más sobre el libro El Señor de los Anillos de J. R. R. Tolkien"><strong>El Señor de los Anillos de J. R. R. Tolkien</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#5-nikola-tesla-el-inventor-de-la-era-eléctrica-por-walter-isaacson" title="Saber más sobre el libro Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson"><strong>Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#6-einstein-su-vida-y-su-universo-de-walter-isaacson" title="Saber más sobre el libro einstein: Su Vida y Su Universo de Walter Isaacson"><strong>einstein: Su Vida y Su Universo de Walter Isaacson</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#7-la-guía-del-autoestopista-galáctico-de-douglas-adams" title="Saber más sobre el libro La Guía del Autoestopista Galáctico de Douglas Adams"><strong>La Guía del Autoestopista Galáctico de Douglas Adams</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#8-superinteligencia-caminos-peligros-estrategias-de-nick-bostrom" title="Saber más sobre el libro Super Inteligencia: Caminos, Peligros y Estrategias de Nick Bostrom"><strong>Super Inteligencia: Caminos, Peligros y Estrategias de Nick Bostrom</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#9-encendido-una-historia-informal-de-los-propulsores-de-cohetes-líquidos-de-john-d-clark" title="Saber más sobre el libro Encendido: Una Historia Informal de los Propulsores de Cohetes de John D. Clark"><strong>Encendido: Una Historia Informal de los Propulsores de Cohetes de John D. Clark</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#10-benjamin-franklin-una-vida-americana-de-walter-isaacson" title="Saber más sobre el libro Benjamin Franklin: Una Vida Americada de Walter Isaacson"><strong>Benjamin Franklin: Una Vida Americada de Walter Isaacson</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#11-estructuras-o-porque-las-cosas-no-se-caen-de-j-e-gordon" title="Saber más sobre el libro Estructuras: O porque las Cosas no se Caen de J. E. Gordon"><strong>Estructuras: O porque las Cosas no se Caen de J. E. Gordon</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#12-mercaderes-de-la-duda-de-erik-m-conway-y-naomi-oreskes" title="Saber más sobre el libro Mercaderes de la Duda de Erick M. Conway y Naomi Oreskes"><strong>Mercaderes de la Duda de Erick M. Conway y Naomi Oreskes</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#13-el-señor-de-las-moscas-de-william-golding" title="Saber más sobre el libro El Señor de las Moscas de William Golding"><strong>El Señor de las Moscas de William Golding</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#14-de-cero-a-uno-cómo-inventar-el-futuro-de-peter-thiel" title="Saber más sobre el libro De Cero a Uno: Cómo inventar el Futuro de Peter Thiel"><strong>De Cero a Uno: Cómo inventar el Futuro de Peter Thiel</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#15-howard-hughes-su-vida-y-locura-de-donald-l-barlett-y-james-b-steele" title="Saber más sobre el libro Howard Hughes: Su Vida y Locura de Donald L. Barret y James B. Steele"><strong>Howard Hughes: Su Vida y Locura de Donald L. Barret y James B. Steele</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#16-la-luna-es-una-cruel-amante-de-robert-heinlein" title="Saber más sobre el libro La Luna es una Cruel Amante de Robert Heinlein"><strong>La Luna es una Cruel Amante de Robert Heinlein</strong></a></li>
-    <li><a href="/libros-recomendados-elon-musk-2020/#17-cultura-de-iain-m-banks" title="Saber más sobre el libro Cultura de Iain M. Banks"><strong>Cultura de Iain M. Banks</strong></a></li>
-  </ol>
-</nav>
-</details><br/>
-<!-- https://www.vbqspeakers.com/max-tegmark -->
-## 1. **[Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc){:target="_blank" rel="nofollow,noreferrer"}**
+<summary>Saber Más</summary>
+<br/>
+<p>Si quieres construir un futuro mejor, debes creer en los secretos.</p>
+<p>El gran secreto de nuestro tiempo es que todavía hay fronteras inexploradas para explorar y nuevos inventos para crear. En Zero to One, el legendario empresario e inversor Peter Thiel muestra cómo podemos encontrar formas singulares de crear esas cosas nuevas.
+</p>
+<p>Thiel comienza con la premisa contraria de que vivimos en una era de estancamiento tecnológico, incluso si estamos demasiado distraídos por dispositivos móviles brillantes como para notarlo. La tecnología de la información ha mejorado rápidamente, pero no hay razón para que el progreso se limite a las computadoras o Silicon Valley. Se puede lograr progreso en cualquier industria o área de negocios. Proviene de la habilidad más importante que todo líder debe dominar: aprender a pensar por sí mismo.</p>
+<p>Hacer lo que otra persona ya sabe hacer lleva al mundo de 1 a n, agregando más de algo familiar. Pero cuando haces algo nuevo, pasas de 0 a 1. El próximo Bill Gates no construirá un sistema operativo. El próximo Larry Page o Sergey Brin no harán un motor de búsqueda. Los campeones del mañana no ganarán compitiendo despiadadamente en el mercado actual. Escaparán de la competencia por completo, porque sus negocios serán únicos.</p>
+<p>Zero to One presenta a la vez una visión optimista del futuro del progreso en Estados Unidos y una nueva forma de pensar sobre la innovación: comienza aprendiendo a hacer las preguntas que lo llevan a encontrar valor en lugares inesperados.</p>
+</details>
+<br/>
+
+### ¿Quién es Peter Thiel?
+
+Peter Thiel es emprendedor e inversor. Cofundador de PayPal, lo lideró como CEO y lo hizo público; hizo la primera inversión externa en Facebook, donde se desempeña como director; y cofundó Palantir Technologies, donde se desempeña como presidente.
+
+Ha proporcionado fondos iniciales para LinkedIn, Yelp y decenas de nuevas empresas, muchas de ellas dirigidas por antiguos colegas que han sido apodados como la "mafia de PayPal".
+
+Es socio de Founders Fund, una firma de capital de riesgo de Silicon Valley que ha financiado empresas como SpaceX y Airbnb. Comenzó Thiel Fellowship, que financia a jóvenes emprendedores, y dirige la Thiel Foundation, que trabaja para promover el progreso tecnológico y el pensamiento a largo plazo.
+
+También es el autor número uno en ventas del New York Times del título "De cero a uno: notas sobre las nuevas empresas" o "Cómo construir el futuro".
+
+[🔥 COMPRAR el libro De Cero a Uno: Cómo inventar el Futuro](https://amzn.to/2RTqzJ4 "Comprar el libro De Cero a Uno: Cómo inventar el Futuro"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 2. **Dune de Frank Herbert**
+
+Ambientada en el planeta desértico Arrakis, Dune es la historia del niño Paul Atreides, heredero de una familia noble encargada de gobernar un mundo inhóspito donde lo único de valor es la mezcla de "especias", una droga capaz de prolongar la vida y mejorar la conciencia. Codiciada en todo el universo conocido, la melange es un premio por el que vale la pena matar..
+
+Cuando la Casa Atreides es traicionada, la destrucción de la familia de Paul pondrá al niño en un viaje hacia un destino más grande de lo que jamás hubiera imaginado. Y a medida que evoluciona hasta convertirse en el hombre misterioso conocido como Muad'Dib, hará realidad el sueño más antiguo e inalcanzable de la humanidad.
+
+[🔥 COMPRAR el libro Dune de Frank Herbert](https://amzn.to/3k37VKt "Comprar el libro Dune de Frank Herbert"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+Una asombrosa mezcla de aventura y misticismo, ambientalismo y política, Dune ganó el primer premio Nebula, compartió el premio Hugo y formó la base de lo que, sin duda, es la epopeya más grandiosa de la ciencia ficción.
+
+### ¿Quién es Frank Herbert?
+
+Frank Herbert fue un autor de ciencia ficción estadounidense aclamado por la crítica y de éxito comercial.
+
+Es mejor conocido por la novela Dune y sus cinco secuelas. La saga Dune, ambientada en un futuro lejano y que se desarrolla a lo largo de milenios, trató temas como la supervivencia y evolución humana, la ecología y la intersección de la religión, la política y el poder, y está ampliamente considerada como una de las clásicas en el campo. de Ciencia ficcion.
+
+[🔥 COMPRAR el libro Dune de Frank Herbert](https://amzn.to/3k37VKt "Comprar el libro Dune de Frank Herbert"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 3. **La rebelión de Atlas de Ayn Rand**
+
+¿Por qué tuvo que pelear su batalla, no contra sus enemigos, sino contra aquellos que más lo necesitaban, y su batalla más dura contra la mujer que amaba? ¿Cuál es el motor del mundo y la fuerza motriz de cada hombre? Sabrá la respuesta a estas preguntas cuando descubra la razón detrás de los desconcertantes eventos que causan estragos en la vida de los personajes de esta historia.
+
+Tremenda en su alcance, esta novela presenta un panorama asombroso de la vida humana, desde el genio productivo que se convierte en un playboy sin valor, hasta el gran industrial siderúrgico que no sabe que está trabajando para su propia destrucción, hasta el filósofo que se convierte en pirata.
+
+[🔥 COMPRAR el libro La rebelión de Atlas de Ayn Rand](https://amzn.to/2F4oVRM "Comprar el libro La rebelión de Atlas de Ayn Rand"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+Al compositor que abandona su carrera la noche de su triunfo - a la mujer que dirige un ferrocarril transcontinental - al trabajador de la vía más baja en los túneles de su terminal.
+
+Debe estar preparado, cuando lea esta novela, para comprobar cada premisa en la raíz de sus convicciones.
+
+Esta es una historia de misterio, no sobre el asesinato y el renacimiento del espíritu del hombre. Es una revolución filosófica, contada en forma de un thriller de acción de eventos violentos, una estructura de trama despiadadamente brillante y un suspenso irresistible. ¿Dices que esto es imposible? Bueno, esa es la primera de sus instalaciones en verificar.
+
+### ¿Quién es Alisa Rosenbaum?
+
+Alisa Rosenbaum nació en el San Petersburgo prerrevolucionario en una próspera familia judía. Cuando los bolcheviques requisaron la farmacia propiedad de su padre, Fronz, los Rosenbaum huyeron a Crimea. Alisa regresó a la ciudad (rebautizada como Leningrado) para asistir a la universidad, pero en 1926 familiares que ya se habían establecido en América le ofrecieron la oportunidad de unirse a ellos allí.
+
+Con el dinero de la venta de las joyas de su madre, Alisa compró un boleto a Nueva York. Al llegar a la isla de Ellis, se transformó en Ayn (por el nombre de algún autor finlandés, probablemente "Aino") Rand (que según ella era una abreviatura de su apellido ruso). Se mudó rápidamente a Hollywood, donde aprendió inglés, trabajó en el departamento de vestuario de RKO y como extra, y escribió durante la noche en guiones y novelas.
+
+Rand vendió su primer guión en 1932, pero nadie compraría su primera novela We the Living (1936), un melodrama ambientado en Rusia. Su primer éxito real fue The Fountainhead (rechazado por más de diez editores antes de su publicación en 1943).
+
+Comenzó una nueva filosofía conocida como objetivismo, opuesta a la interferencia estatal de todo tipo, y su novela de seguimiento Atlas Shrugged (1957) describe un grupo que intenta escapar de la conspiración de mediocridad de Estados Unidos.
+
+El objetivismo ha influido en varios otros movimientos, como el libertarismo, y el apoyo vocal de Rand al capitalismo del laissez-faire y al libre mercado le ha valido un lugar distinto entre los filósofos estadounidenses y los filósofos en general.
+
+[🔥 COMPRAR el libro La rebelión de Atlas de Ayn Rand](https://amzn.to/2F4oVRM "Comprar el libro La rebelión de Atlas de Ayn Rand"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 4. **Vida 3.0 de Max Tegmark**
 
 Si vas a encontrar un tema en común dentro de muchos de los libros de esta lista, es que **Musk está realmente interesado en explorar el futuro de la inteligencia artificial**.
 
 En **Vida 3.0**, el profesor del MIT: **Max Tegmark**. Escribe sobre **cómo desarrollar el futuro de la inteligencia artificial**, siendo beneficiosa para la vida humana y logrando garantizar que el progreso tecnológico se mantenga dentro de una línea de objetivos de importancia para toda la humanidad.
+
+[🔥 COMPRAR el libro Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc "Comprar el libro Vida 3.0 de Max Tegmark"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Esté, va a ser uno de los pocos libros, si no el único. Entre los que Musk recomienda, en el que se aborda la posibilidad de que **la inteligencia artificial sea una evolución en búsqueda del bien** de la humanidad y no para crear el mal.
 
@@ -109,12 +205,17 @@ Ha dicho sobre Vida 3.0..
 <p>¿Qué tipo de futuro tienes? ¿O deseas?</p>
 <p>Este libro te permite unirte a lo que puede ser la conversación más importante de nuestro tiempo. No rehuye ninguna opinión respecto a los puntos de vista sobre los temas más controvertidos, desde la superinteligencia hasta el significado, la conciencia y los límites físicos de la vida dentro del cosmos.</p>
 </details>
+<br/>
 
-## 2. **[Nuestra invención final de James Barrat](https://amzn.to/2XTdaEG){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc "Comprar el libro Vida 3.0 de Max Tegmark"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 5. **Nuestra invención final de James Barrat**
 
 Musk ha advertido publicamente contra los peligros de la inteligencia artificial. En una entrevista de 2014 en el Simposio Centenario de AeroAstro en el MIT, calificó a la IA como "**nuestra mayor amenaza existencial**".
 
 Se puede ver reflejado ese pensamiento, con su inversión dentro de la empresa de inteligencia artificial DeepMind. Puesto qué, al propio Elon Musk, se le ha escuchado decir que esa era una inversión "exclusivamente para vigilar de cerca lo que va sucediendo con la inteligencia artificial" lo que no deja de ser un comentario bajo un "tono" que muestra preocupación hacía las nuevas tecnologías.
+
+[🔥 COMPRAR el libro Nuestra invención final](https://amzn.to/2XTdaEG "Comprar el libro Nuestra invención final"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Por lo tanto, no es sorprendente que **Elon haya elegido el libro "Nuestra invención final: La inteligencia artificial y el fin de la era humana"** como "un libro digno de leer" a través de [un tweet](https://twitter.com/elonmusk/status/496010572333580289){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -133,8 +234,11 @@ En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y de
 <p>Hasta ahora, la inteligencia humana no ha tenido rival.</p>
 <p>¿Podemos convivir con seres cuya inteligencia eclipsa la nuestra? ¿Nos lo permitirán?</p>
 </details>
+<br/>
 
-## 3. **[La Fundación de Isaac Asimov](https://amzn.to/2VmcXYL){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro Nuestra invención final](https://amzn.to/2XTdaEG "Comprar el libro Nuestra invención final"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 6. **La Fundación de Isaac Asimov**
 
 Es posible que **el interés de Musk por la tecnología de la exploración espacial** se deba a los días que paso leyendo ciencia ficción.
 <!-- tweet de 2020: https://twitter.com/elonmusk/status/1230293973673136129 -->
@@ -143,15 +247,7 @@ En una entrevista de 2013 en The Guardian. Musk aseguro que **los libros de Asim
 
 “Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra”, dice, “parece que sería prudente actuar mientras la ventana estaba abierta y no contar con el hecho estará abierto mucho tiempo ”.
 
-<!-- La saga “Foundation” de Asimov trata sobre “el colapso y el renacimiento de un vasto imperio interestelar en el universo del futuro”, según la Enciclopedia Británica .
-
-“La lección que extraje de [la saga de la“ Fundación ”] es que debes intentar tomar el conjunto de acciones que probablemente prolongarán la civilización, minimizarán la probabilidad de una edad oscura y reducirán la duración de una edad oscura si hay una, Musk le dijo a Rolling Stone en 2017.
-
-Musk también dijo que le enseñó que “las civilizaciones se mueven en ciclos”, influyéndolo para que continúe la exploración espacial y promueva el “ciclo ascendente” de la humanidad, dijo a  The Guardian  en 2013.
-
-“Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra, parece que sería prudente actuar mientras la ventana estaba abierta y no contar con el hecho de que se abrirá un mucho tiempo ”, dijo Musk.
-
-Como resultado, Musk comenzó SpaceX en 2002 (después de su segunda puesta en marcha, X.com, que más tarde se convirtió en PayPal, se vendió a eBay por $ 1.5 mil millones). -->
+[🔥 COMPRAR el libro La Fundación](https://amzn.to/2VmcXYL "Comprar el libro La Fundación"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Las lecciones de la historia sugerirían que las civilizaciones se mueven en ciclos. Puedes rastrear eso bastante lejos: los babilonios, los sumerios, seguidos por los egipcios, los romanos, China. Obviamente estamos en un ciclo muy ascendente en este momento y esperamos que ese sea el caso. Pero puede que no. Podría haber una serie de eventos que causen que el nivel de tecnología disminuya. Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra, parece que sería prudente actuar mientras la ventana se encuentre abierta y no contar con el hecho de que estará abierta por mucho tiempo más".
 >
@@ -168,14 +264,17 @@ Como resultado, Musk comenzó SpaceX en 2002 (después de su segunda puesta en m
 <h3>La Fundación: Parte 3</h3>
 <p>Hasta ahora, la Fundación estaba a salvo. Pero había una segunda fundación oculta para proteger a la primera. La Mula aún no lo ha encontrado, pero se estaba acercando todo el tiempo. Los hombres de la Fundación también buscaban escapar del control mental de Mule. Solo Arkady, una niña de 14 años parecía tener la respuesta, ¿o ella ...?</p>
 </details>
+<br/>
 
-## 4. **[El Señor de los Anillos de JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro La Fundación](https://amzn.to/2VmcXYL "Comprar el libro La Fundación"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-Cuando de pequeñ, era maltratado por sus compañeros; Musk reecibía el feo apodo de Muskrat (Musk Rata). En una entrevista para el períodico "The New Yorker" el propio Musk, hablo sobre lo que hacía para poder abstraerse de los abusos que cometían sobre él.
+## 7. **El Señor de los Anillos de JRR Tolkien**
 
-Y eso era, aprovechar su soledad para leer constantemente libros sobre fantasía y ciencia ficción.
+Cuando de pequeñ, era maltratado por sus compañeros; Musk reecibía el feo apodo de Muskrat (Musk Rata). En una entrevista para el períodico "The New Yorker" el propio Musk, hablo sobre lo que hacía para poder abstraerse de los abusos que cometían sobre él. Y eso era, aprovechar su soledad para leer constantemente libros sobre fantasía y ciencia ficción.
 
 Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; pero también le encantaba **la saga de El señor de los anillos de JRR Tolkien** y dentro de todos esos libros; se encuentra la mayor para de culpa de la construcción del pensamiento futurista de Elon Musk.
+
+[🔥 COMPRAR el libro El Señor de los Anillos](https://amzn.to/2wQkAgG "Comprar el libro El Señor de los Anillos"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Los héroes de los libros que leí siempre sintieron el deber de salvar al mundo".
 >
@@ -190,12 +289,17 @@ Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; per
 <p>El Señor de los Anillos cuenta la gran búsqueda emprendida por Frodo y la Comunidad del Anillo: Gandalf el mago; los hobbits Merry, Pippin y Sam; Gimli el enano; Legolas el elfo; Boromir de Gondor; y un extraño alto y misterioso llamado Strider.
 </p>
 </details>
+<br/>
 
-## 5. **[Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson](https://amzn.to/3eDVFOE){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro El Señor de los Anillos](https://amzn.to/2wQkAgG "Comprar el libro El Señor de los Anillos"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 8. **Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson**
 
 Nikola Tesla hizo una importante contribución a la evolución de la electricidad, que transformó la vida cotidiana a principios del siglo XX. Sus inventos, patentes y trabajos científicos formaron la base de la electricidad moderna y contribuyeron al desarrollo de la radio y la televisión.
 
 Al igual que su rival Thomas Edison, Tesla fue uno de los primeros investigadores famosos en Estados Unidos, disfrutó de una sociedad de las clases altas de Nueva York y entretuvo a Mark Twain con sus espectáculos eléctricos.
+
+[🔥 COMPRAR el libro Nikola Tesla: El Inventor de la Era Eléctrica](https://amzn.to/2wQkAgG "Comprar el libro Nikola Tesla: El Inventor de la Era Eléctrica"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de un genio excéntrico entre la gente. Incluso muriendo en la pobreza, logró atraer a los entrevistadores para su cumpleaños gracias a las acusaciones de su creación de armas subatómicas que podrían destruir los aviones enemigos.
 
@@ -213,10 +317,12 @@ Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de
 <p>Basándose en documentos originales de la vida privada y pública de Tesla, Carlson muestra cómo fue un inventor idealista que buscó la realización experimental perfecta de una gran idea o principio, y que vendió hábilmente sus inventos al público a través de la mitología y la ilusión.</p>
 <p>Esta importante biografía arroja nueva luz sobre el enfoque visionario de Tesla para la invención y las estrategias comerciales detrás de sus avances tecnológicos más importantes.</p>
 </details>
-
+<br/>
 <!-- https://twitter.com/elonmusk/status/1007668113591005184 -->
 
-## 6. **[Einstein: Su vida y su universo de Walter Isaacson](https://amzn.to/3bmQh08){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro Nikola Tesla: El Inventor de la Era Eléctrica](https://amzn.to/2wQkAgG "Comprar el libro Nikola Tesla: El Inventor de la Era Eléctrica"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 9. **Einstein: Su vida y su universo de Walter Isaacson**
 
 En una entrevista, Musk le dice a Kevin Rose (Youtuber Entrevistador) que fue influenciado por la biografía del físico teórico Albert Einstein, y está claro por qué.
 
@@ -229,14 +335,17 @@ Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar
 <p></p>
 <p></p>
 </details>
+<br/>
 
-## 7. **[La Guía del Autoestopista Galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro Einstein: Su vida y su universo](https://amzn.to/3bmQh08 "Comprar el libro Einstein: Su vida y su universo"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 10. **La Guía del Autoestopista Galáctico de Douglas Adams**
 
 Musk ha hablado en varias situaciones sobre su "crisis existencial" cuando tenía entre 12 y 15 años, encerrándose en un auto confinamiento forzado para leer a Friedrich Nietzsche, Arthur Schopenhauer y otros filósofos malhumorados, intentando encontrar el sentido de la vida en sus lecturas; y que no le sirvió de nada.
 
-Hasta que se encontró con "La Guía del Autoestopista Galáctico" un divertido cómic interestelar de Douglas Adams. En el libro, una supercomputadora encuentra que la "respuesta" a una vida significativa es el número 42, pero la pregunta nunca se resolvió.
+Hasta que se encontró con "La Guía del Autoestopista Galáctico" un divertido cómic interestelar de Douglas Adams. En el libro, una supercomputadora encuentra que la "respuesta" a una vida significativa es el número 42, pero la pregunta nunca se resolvió. Esto fue instructivo para un joven Elon.
 
-Esto fue instructivo para un joven Elon.
+[🔥 COMPRAR el libro La Guía del Autoestopista Galáctico](https://amzn.to/3btdGx2 "Comprar el libro La Guía del Autoestopista Galáctico"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Si puedes formular correctamente la pregunta, entonces la respuesta es la parte fácil" . "Entonces, en la medida en que podamos comprender mejor el universo, entonces podremos saber qué preguntas hacer".
 >
@@ -249,10 +358,15 @@ Esto fue instructivo para un joven Elon.
 <p>Protagonizada por Peter Jones, Simon Jones, Geoffrey McGivern, Mark Wing-Davey, Susan Sheridan y Stephen Moore, estos seis episodios (Fit the First to Fit the Sixth) han sido remasterizados a los estándares modernos por Dirk Maggs, y por primera vez presentan el arreglo de Philip Pope de la melodía del tema familiar, con anuncios recién grabados de John Marsh.</p>
 <p>También se incluye en esta edición especial la Guía de Douglas Adams de la Guía del autoestopista Galáctico, emitida por primera vez en 1999, que analiza la génesis y el éxito fenomenal de la serie.</p>
 </details>
+<br/>
 
-## 8. **[Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro La Guía del Autoestopista Galáctico](https://amzn.to/3btdGx2 "Comprar el libro La Guía del Autoestopista Galáctico"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 11. **Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom**
 
 Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido **sus preocupaciones sobre los peligros potenciales** y **las preocupaciones éticas asociadas con la tecnología**.
+
+[🔥 COMPRAR el libro Superinteligencia: Caminos, Peligros, Estrategias](https://amzn.to/3cvqOSr "Comprar el libro Superinteligencia: Caminos, Peligros, Estrategias"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Vale la pena leer el libro de Bostrom, que trata sobre los posibles desafíos presentados si la inteligencia computacional supera la inteligencia humana".
 >
@@ -269,12 +383,17 @@ Aunque Musk es futurista y está profundamente interesado en la inteligencia art
 <p>Pero tenemos una ventaja: Podemos hacer el primer movimiento.</p>
 <p>¿Será posible construir una Semilla de Inteligencia Artificial, diseñar condiciones iniciales para que una explosión de inteligencia pueda sobrevivir? ¿Cómo se puede lograr una detonación controlada?</p>
 </details>
+<br/>
 
-## 9. **[Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro Superinteligencia: Caminos, Peligros, Estrategias](https://amzn.to/3cvqOSr "Comprar el libro Superinteligencia: Caminos, Peligros, Estrategias"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 12. **Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark**
 
 "¡Encendido!" en inglés "Ignition" es una historia complicado de reconstruir sobre la ciencia, basada en la búsqueda de un propulsor de cohete confiable para llevar al ser humano hacía el espacio.
 
 Clark fue un químico estadounidense activo en el desarrollo de combustibles para cohetes en las décadas de 1960 y 1970, y el libro es una descripción del crecimiento del campo y una gran explicación de sobre cómo funciona la ciencia.
+
+[👓 Leer Encendido de forma Online](http://library.sciencemadness.org/library/books/ignition.pdf "Leer encendido de forma Online"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Aunque el libro es difícil de encontrar, a la gente le suele gustar: Este libro tiene la combinación correcta de detalles técnicos, descripciones de experimentos con resultados espectaculares, información básica sobre por qué y cómo, y sobre la política involucrada.
 
@@ -284,15 +403,17 @@ Es un libro muy interesante y estimulante porque Clark captó en él; mucho del 
 >
 > Elon Musk
 
-### Encendido - Leer Versión PDF Online
+### Leer Encendido - Online
 
 Afortunadamente, este extraño libro está disponible en línea [aquí](http://library.sciencemadness.org/library/books/ignition.pdf){:target="_blank" rel="nofollow,noreferrer"} y [aquí](http://mikea.ath.cx/Ignition/){:target="_blank" rel="nofollow,noreferrer"} (aunque en inglés).
 
-## 10. **[Benjamin Franklin: Una Vida Americana de Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank" rel="nofollow,noreferrer"}**
+## 13. **Benjamin Franklin: Una Vida Americana de Walter Isaacson**
 
 **Ben Franklin, autor, inventor, científico y diplomático, es uno de los héroes de Musk**.
 
 Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica) ir a la escuela en Canadá, cambiarse a la Universidad de Pensilvania y luego usar una invitación del programa de doctorado para aterrizar en Silicon Valley.
+
+[🔥 COMPRAR el libro Benjamin Franklin: Una Vida Americana](https://amzn.to/2KgNHNm "Comprar el libro Benjamin Franklin: Una Vida Americana"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Franklin es bastante impresionante" . "Se puede ver cómo Franklin era un empresario” . “Era un emprendedor. Él comenzó de la nada. Era solo un niño fugitivo"
 >
@@ -309,14 +430,17 @@ Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica)
 <p>A pesar de todo, confiaba en los corazones y las mentes de sus compañeros "delantales de cuero" más que en los de cualquier élite endogámica. Él veía los valores de la clase media como una fuente de fortaleza social, no como algo para ser ridiculizado. Su principio rector era una "aversión a todo lo que tiende a degradar el espíritu de la gente común". Pocos de sus compañeros fundadores sintieron este consuelo con la democracia tan plenamente, y ninguno tan intuitivamente.</p>
 <p>En esta narrativa colorida e íntima, Isaacson ofrece la visión completa de la increíble vida de Franklin, desde sus días como impresor desbocado hasta sus triunfos como estadista, científico y padre fundador. Narra la tumultuosa relación de Franklin con su hijo y nieto ilegítimos, su matrimonio práctico y sus coqueteos con las damas de París. También muestra cómo Franklin ayudó a crear el personaje estadounidense y por qué tiene una resonancia particular en el siglo XXI.</p>
 </details>
+<br/>
 
-## 11. **[Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro Benjamin Franklin: Una Vida Americana](https://amzn.to/2KgNHNm "Comprar el libro Benjamin Franklin: Una Vida Americana"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-**Musk es un autodidacta comprometido, devorando los temas que necesita saber**.
+## 14. **Estructuras: O porque las cosas no se caen de J. E. Gordon**
 
-JE Gordon despoja a **la ingeniería de sus términos técnicos confusos**, **comunicando sus principios fundacionales en prosa accesible e ingeniosa**.
+**Musk es un autodidacta comprometido, devorando los temas que necesita saber**. JE Gordon despoja a **la ingeniería de sus términos técnicos confusos**, **comunicando sus principios fundacionales en prosa accesible e ingeniosa**.
 
 Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes no colapsan bajo ocho carriles de tráfico, cómo las presas se retienen y no ceden bajo la presión de miles de litros de agua, o qué principios guían el diseño de un rascacielos. Este libro aliviará su ansiedad y responderá sus preguntas.
+
+[🔥 COMPRAR el libro Estructuras: O porque las cosas no se caen](https://amzn.to/3anrcB1 "Comprar el libro Estructuras: O porque las cosas no se caen"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 **Cuando Musk decidió que quería aprender ciencia espacial**, **estudió libros de texto sobre astrofísica e ingeniería**. Si bien la lectura de textos avanzados sobre física puede no ser para todos, este libro ofrece una visión más clara de la ciencia detrás de SpaceX.
 
@@ -333,10 +457,15 @@ Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes
 <p>Sin jerga o simplificación excesiva,abre las maravillas de la tecnología a cualquier persona interesada en los cimientos de nuestra vida cotidiana.</p>
 <p></p>
 </details>
+<br/>
 
-## 12. **[Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro Estructuras: O porque las cosas no se caen](https://amzn.to/3anrcB1 "Comprar el libro Estructuras: O porque las cosas no se caen"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 15. **Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes**
 
 Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persiguen estos dos historiadores se basa en **su creencia de que científicos con conexiones políticas y corporativas han enturbiado los hechos en torno a muchos problemas de salud pública**, **como los efectos negativos del tabaquismo** o **la negación del cambio climático**.
+
+[🔥 COMPRAR el libro Mercaderes de la Duda](https://amzn.to/2RUchrx "Comprar el libro Mercaderes de la Duda"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <details>
 <summary>Saber Más</summary>
@@ -346,11 +475,15 @@ Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persi
 <p>Naomi Oreskes y Erik M. Conway, historiadores de la ciencia, hacen retroceder la alfombra en este oscuro rincón de la comunidad científica estadounidense, mostrando cómo la ideología y los intereses corporativos, con la ayuda de medios demasiado conformes, han sesgado la comprensión pública de algunos de los más importantes. cuestiones urgentes de nuestra era.</p>
 </details>
 
-## 13. [El Señor de las Moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Mercaderes de la Duda](https://amzn.to/2RUchrx "Comprar el libro Mercaderes de la Duda"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 16. **El Señor de las Moscas de William Golding**
 
 Esta **novela clásica sobre supervivencia**, **competencia y avaricia** dejó su huella en el emprendedor tecnológico.
 
 La novela trata sobre Ralph, un niño inglés de la remota isla donde tiene lugar “El señor de las moscas” que quiere crear códigos morales y éticos para salvar a la humanidad. Mientras tanto, el antagonista del libro, Jack, inicialmente solo un rebelde, se encuentra consumido por el poder y la codicia.
+
+[🔥 COMPRAR el libro El Señor de las Moscas](https://amzn.to/3cyQZYy "Comprar el libro El Señor de las Moscas"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Su **lucha es una historia de advertencia sobre lo que puede suceder** cuando los hombres se quedan solos. El libro dio forma a la cosmovisión de Musk sobre su propio futuro. Por ejemplo, ha hablado públicamente sobre los peligros de la inteligencia artificial en manos de los humanos. 
 
@@ -361,49 +494,18 @@ Su **lucha es una historia de advertencia sobre lo que puede suceder** cuando lo
 <p> Intentan forjar su propia sociedad, sin embargo, fracasan ante el terror, el pecado y el mal. Y a medida que el orden colapsa, mientras los extraños aullidos resuenan en la noche, mientras el terror comienza a reinar, la esperanza de la aventura parece tan lejos de la realidad como la esperanza de ser rescatado. Etiquetada como una parábola, una alegoría, un mito, una historia de moralidad, una parodia, un tratado político, incluso una visión del apocalipsis, Lord of the Flies es quizás nuestra novela más memorable sobre "el fin de la inocencia, la oscuridad del corazón del hombre".</p>
 <p></p>
 </details>
-
-## 14. [De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank" rel="nofollow,noreferrer"}
-
-El libro De cero a uno. Esta basado en notas de una clase popular que Peter Thiel enseñó en la Universidad de Stanford el año 2012 que se centra en **la necesidad de encontrar un pensamiento único** entre los emprendedores fundadores de startups.
-
-El libro, escrito por el cofundador de Paypal, Peter Thiel, junto al propio Elon Musk. Ofrece una **exploración muy interesante del proceso constitutivo de una empresa exitosa**.
-
-> "Peter Thiel ha creado múltiples empresas innovadoras, y Zero to One te muestra cómo puedes hacerlo".
->
-> Elon Musk
-
-Otras personas, como CEO de Facebook.
-Han dicho de él..
-
-> Este libro ofrece ideas completamente nuevas y refrescantes sobre cómo crear valor en el mundo.
->
-> Mark Zuckerberg
-
-O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W9gwg){:target="_blank" rel="nofollow,noreferrer"}
-
-> "Cuando un tomador de riesgos escribe un libro, léelo. En el caso de Peter Thiel, léelo dos veces. O, para estar seguro, tres veces. Es un clásico".
->
-> Nassim Nicholas Taleb
-
-<details>
-<summary>Saber Más</summary>
 <br/>
-<p>Si quieres construir un futuro mejor, debes creer en los secretos.</p>
-<p>El gran secreto de nuestro tiempo es que todavía hay fronteras inexploradas para explorar y nuevos inventos para crear. En Zero to One, el legendario empresario e inversor Peter Thiel muestra cómo podemos encontrar formas singulares de crear esas cosas nuevas.
-</p>
-<p>Thiel comienza con la premisa contraria de que vivimos en una era de estancamiento tecnológico, incluso si estamos demasiado distraídos por dispositivos móviles brillantes como para notarlo. La tecnología de la información ha mejorado rápidamente, pero no hay razón para que el progreso se limite a las computadoras o Silicon Valley. Se puede lograr progreso en cualquier industria o área de negocios. Proviene de la habilidad más importante que todo líder debe dominar: aprender a pensar por sí mismo.</p>
-<p>Hacer lo que otra persona ya sabe hacer lleva al mundo de 1 a n, agregando más de algo familiar. Pero cuando haces algo nuevo, pasas de 0 a 1. El próximo Bill Gates no construirá un sistema operativo. El próximo Larry Page o Sergey Brin no harán un motor de búsqueda. Los campeones del mañana no ganarán compitiendo despiadadamente en el mercado actual. Escaparán de la competencia por completo, porque sus negocios serán únicos.</p>
-<p>Zero to One presenta a la vez una visión optimista del futuro del progreso en Estados Unidos y una nueva forma de pensar sobre la innovación: comienza aprendiendo a hacer las preguntas que lo llevan a encontrar valor en lugares inesperados.</p>
-</details>
 
-## 15. **[Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele](0393326020){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro El Señor de las Moscas](https://amzn.to/3cyQZYy "Comprar el libro El Señor de las Moscas"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 17. **Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele**
 
 No disponible en español, por tanto si deseas disfrutar de este libro deberás saber inglés.
 {: .notice--info}
 
 En una entrevista con CNN, Musk dijo que acababa de terminar el "Howard Hughes" de Barlett y Steele, una biografía del excéntrico cineasta y magnate de la aviación, que se volvió un poco loco al final de su vida.
 
-, dice Musk .
+[👓 Leer la vida de Howard Hughes en la Wikipedia](https://es.wikipedia.org/wiki/Howard_Hughes "Comprar el libro Howard Hughes: Su vida y Locura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó en múltiples industrias y empujó los límites de volar, rompiendo récords de velocidad del aire.
 
@@ -415,16 +517,18 @@ Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó 
 <summary>Saber Más</summary>
 <br/>
 <p>Howard Hughes siempre ha fascinado al público con su mezcla de secretismo, estilo de vida elegante y tranquilidad. Este es el libro que rompe la imagen para llegar al hombre. Publicado originalmente bajo el título Empire: The Life, Legend, and Madness of Howard Hughes .</p>
-<p></p>
-<p></p>
 </details>
+<br/>
 
-## 16. **[La Luna es una Cruel Amante de Robert Heinlein](https://amzn.to/2Kj940x){:target="_blank" rel="nofollow,noreferrer"}**
+[👓 Leer la vida de Howard Hughes en la Wikipedia](https://es.wikipedia.org/wiki/Howard_Hughes "Comprar el libro Howard Hughes: Su vida y Locura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 18. **La Luna es una Cruel Amante de Robert Heinlein**
 
 Esta galardonada novela de ciencia ficción, publicada originalmente en 1966, pinta el cuadro de una distopía no muy lejana en el futuro. Es exactamente el tipo de mundo de fantasía vívido que satisfaría una imaginación activa como la de Musk.
 
 En el libro, un grupo de personas ha sido exiliado de la tierra a la luna, donde han creado una sociedad libertaria. En el año 2076, un grupo de rebeldes, incluido un superordenador llamado Mike y un técnico informático con un solo brazo, lideran la revolución de la colonia lunar contra sus gobernantes terrestres.
 
+[🔥 COMPRAR el libro La Luna es una Cruel Amante](https://amzn.to/2Kj940x "Comprar el libro La Luna es una Cruel Amante"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- En términos de libros, Lord Of The Rings es probablemente mi libro favorito, pero no es realmente ciencia ficción, de hecho, curiosamente, JR Tolkien es casi anti-tecnología. Es gracioso. Lord Of The Rings fue un libro, pero es una especie de antitecnología, pero sigue siendo genial. Creo que la serie Foundation de Asimov es como una de las mejores de la historia, y los libros de Arthur C. Clarke y Heinlein son probablemente los tres mejores autores de ciencia ficción. Recientemente, alguien me recomendaba las novelas de Ian Banks como bastante buenas. Sí, ¿qué crees que es bueno? [La Luna es una amante dura.] Sí, es gracioso que debas mencionar eso. Creo que ese es el mejor libro de Heinlein, sinceramente. -->
 
 > "Creo que es el mejor libro de Heinlein, sinceramente".
@@ -437,16 +541,19 @@ En el libro, un grupo de personas ha sido exiliado de la tierra a la luna, donde
 <p>Es una historia de revolución, de la rebelión de una antigua colonia penal en la Luna contra sus amos en la Tierra. Es una historia de una cultura cuyas estructuras familiares se basan en la presencia de dos hombres por cada mujer, lo que lleva a formas novedosas de matrimonio y familia.</p>
 <p>Es la historia de personas dispares, un técnico informático, una vigorosa joven agitadora y una académica de edad avanzada que se convierten en líderes del movimiento, y de Mike, la supercomputadora cuya sensibilidad es conocida solo por el círculo interno de la revuelta, que por razones de el suyo está comprometido con el éxito final de la revolución.</p>
 </details>
+<br/>
 
-## 17. **[Cultura de Iain M. Banks](https://amzn.to/3eFHE2S){:target="_blank" rel="nofollow,noreferrer"}**
+[🔥 COMPRAR el libro La Luna es una Cruel Amante](https://amzn.to/2Kj940x "Comprar el libro La Luna es una Cruel Amante"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 19. **Cultura de Iain M. Banks**
 
 Curiosa saga de nueva ficción, que no se encuentra en papel. Exclusivamente en nuevos formatos, ósea: Ebooks. La saga se divide en dos partes, y cada una a su vez en varios títulos diferentes.
 
 La [primera parte la puedes conseguir aquí](https://amzn.to/3ajyqWx), [la segunda parte](https://amzn.to/2KluZnK); en total, 4 y 4, 8 títulos diferentes: Pensad en flebas, Eljugador, Última generación y El uso de las armas. Excesión, Inversiones, A Barlovento y Materia; y faltan otros dos títulos que no han sido traducidos al español.. 
 
-Musk la ha estado leyendo desde el año 2014.
+[🔥 COMPRAR el libro Cultura](https://amzn.to/3eFHE2S "Comprar el libro Cultura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-Los libros cuentan la historia de una futura sociedad semi-anarquista llamada Cultura, que incluye humanoides, extraterrestres e inteligencias artificiales.
+Musk la ha estado leyendo desde el año 2014. Los libros cuentan la historia de una futura sociedad semi-anarquista llamada Cultura, que incluye humanoides, extraterrestres e inteligencias artificiales.
 
 > "Es una convincente imagen omnipresente de un gran futuro galáctico semi-utópico" . "Esperemos que no sea demasiado optimista sobre la IA".
 >
@@ -479,6 +586,12 @@ Los libros cuentan la historia de una futura sociedad semi-anarquista llamada Cu
 <p>Detalle de la superficie (Cultura) Lededje Y'breq es una de las personas intactas, su cuerpo marcado es testigo de una vergüenza familiar. , Su vida pertenece a un hombre cuya ansia de poder es ilimitada.</p>
 <p>La Sonata de Hidrógeno (Cultura) Un pueblo antiguo, organizado según principios militares y, sin embargo, casi perversamente pacífico, el Gzilt ayudó a establecer la Cultura diez mil años antes y fue casi una de sus sociedades fundadoras.</p>
 </details>
+<br/>
+
+[🔥 COMPRAR el libro Cultura](https://amzn.to/3eFHE2S "Comprar el libro Cultura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+Hasta aquí, llega la recopilación de todos los mejores libros que Elon Musk quiere que leas o considera que pueden ser beneficiosos e inspiradores.
 
 **Fuentes**\: [Fresh Dialogues](http://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/){:target="_blank" rel="nofollow,noreferrer"}, [Kevin Rose Youtube](https://www.youtube.com/watch?v=L-s_3b5fRd8#t=38), [KCRW](https://www.kcrw.com/culture/articles/can-elon-musk-fix-the-405){:target="_blank" rel="nofollow,noreferrer"}, [Media Bistro](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209){:target="_blank" rel="nofollow,noreferrer"}, [CNN Youtube](https://www.youtube.com/watch?v=fQQ2xtXPLkU){:target="_blank" rel="nofollow,noreferrer"}, [The Guardian](http://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank" rel="nofollow,noreferrer"}, [Shitelonsays](http://shitelonsays.com/transcript/elon-musk-at-mits-aeroastro-centennial-part-6-of-6-2014-10-24){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
+<!-- https://mostrecommendedbooks.com/elon-musk-books/ -->
