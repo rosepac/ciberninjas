@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Seguridad]
-title: "▷ 22 Mejores cursos gratis de seguridad"
+title: "▷ 21 Mejores cursos gratis de seguridad"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
@@ -31,6 +31,7 @@ img: "/assets/img/paginas-cursos/cursos-seguridad-red.webp"
 - [Cross site scripting xss](https://www.youtube.com/playlist?list=PL1UnfB2evouGiHRoUB_t-I4Mt_0RreZUu) (Jhonny Ramos, YouTube)
 - [Derecho e Internet (2011)](http://ocw.uv.es/ciencias-sociales-y-juridicas/plant/Course_listing) (OCW)
 - [Garantía y seguridad en sistemas y redes (2016)](https://ocw.unican.es/course/view.php?id=16) (OCW)
+- [Hacking Ético: Curso de Metasploit Framework](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-metasploit-framework%2F) por Marco Mendoza (Udemy)
 - [Incibe. Ciberseguridad para micropymes y autónomos](https://www.incibe.es/formacion/ciberseguridad-para-micropymes-y-autonomos) (Registro + Udemy)
 - [Introducción a curso Ciberseguridad enfocada en Pentesting](https://plataforma.keepcoding.io/p/introduccion_ciberseguridad_enfocada_en_pentesting1) (Keep Coding)
 - [Programación Hacking](https://www.youtube.com/playlist?list=PL1UnfB2evouHZjiRJp-z9jstL-yqfTi_X) (OHCS, YouTube)

@@ -109,6 +109,7 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
   - [Ruby and Rails](#ruby-and-rails)
 - [💼 Sistemas de ERP](#-sistemas-de-erp)
 - [Swift <i class="fab fa-apple"></i>](#swift-i-classfab-fa-applei)
+- [**Cursos de Typescript**](#cursos-de-typescript)
 - [**Typescript**](#typescript)
   - [¿Qué es TypeScript?](#qué-es-typescript)
   - [¿Cuáles son los requisitos previos para aprender TypeScript?](#cuáles-son-los-requisitos-previos-para-aprender-typescript)
@@ -436,9 +437,7 @@ Lo mejor para comenzar a aprender JS es con libros. No obstante, también puede 
 
 ## Kotlin
 
-- [Fundamentos de Kotlin](https://devcode.la/cursos/kotlin){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
-- [Introducción a Kotlin avanzado](https://plataforma.keepcoding.io/p/introduccion-desarrollo-de-aplicaciones-android-en-kotlin-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-- [Introducción a Kotlin desde cero](https://plataforma.keepcoding.io/p/curso_kotlin_desde_cero_introductorio){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos a la página de [Android](https://ciberninjas.com/cursos-android/) por considerarse la sección más adecuada para ellos. 🔥
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
@@ -627,6 +626,10 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 - [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
 - [Programando Apps de iOS](https://www.udemy.com/programando-apps-para-ios){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [XCode para iOS, iOS 6.1, Xcode 4.6](https://www.youtube.com/playlist?list=PLrfF-ThuRn5AqHTeS4W-5VPvCPLI8ioqs){:target="_blank" rel="nofollow,noreferrer"} (Eugenio Mendoza Robaina, YouTube)
+
+## **Cursos de Typescript**
+
+- [NestJS: Node + Typescript al estilo Angular para crear APIS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnestjs-free%2F){:target="_blank" rel="nofollow,noreferrer"} por Alejandro Lora y Miguel Campos Rivera (Udemy)
 
 ## **Typescript**
 

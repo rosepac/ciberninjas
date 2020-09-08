@@ -6,9 +6,9 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Android]
-title: "▷ 15 Mejores cursos gratis de android"
-description: "Los mejores cursos gratuitos con los que aprender todo sobre android, desde cero hasta nivel experto"
-excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre android, desde cero hasta nivel experto"
+title: "▷ 15 Mejores cursos gratis de Android, Flutter, Kotlin y Dart"
+description: "Los mejores cursos gratuitos con los que aprender todo sobre Android, desde cero hasta nivel experto"
+excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre Android, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
 permalink: /cursos-android/
 canonical_URL: https://ciberninjas.com/cursos-android/
@@ -45,11 +45,12 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 
 ## **Cursos Gratis de Android**
 
-- [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
+- [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
 - [Android Studio](/android-studio-con-jesus-conde/){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [App Android: Registro de inventarios](/android-studio-registro-inventarios/){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2016)
 - [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+- [Crear una aplicación sin conocimiento en programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-aplicacion-sin-conocimiento-en-programacion%2F){:target="_blank" rel="nofollow,noreferrer"} por Michael Díaz (Udemy)
 - [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 - [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
@@ -60,6 +61,10 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+- [Mi primera app con Android N](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmi-primera-app-con-android-n%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Minicurso Diseño para Android con Material Design y Theming](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-diseno-para-android-con-material-design-y-theming%2F){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
+- [Minicurso Firebase para android. Base de dato en tiempo real](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-firebase-para-android-base-datos-tiempo-real%2F){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
+- [Programación Android 01: Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F){:target="_blank" rel="nofollow,noreferrer"} por Javier San José Ortiz (Udemy)
 
 ## **¿Qué es Android?**
 
@@ -134,7 +139,8 @@ El desarrollo de Android requiere principalmente los lenguajes de programación 
 
 ## Cursos Gratis de Flutter
 
-- [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (G Coding Academy, Youtube)
+- [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, Youtube)
+- [Flutter: Una introducción al SDK de Google](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} por Fernando Herrera (Udemy)
 
 ## **¿Qué es Flutter?**
 
@@ -186,9 +192,13 @@ Estos son algunos de los mejores libros para aprender Flutter:
 
 ## Cursos Gratis de Kotlin
 
+- [ButterKnife para desarrollo Android](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftodo-sobre-butter-knife-para-android-con-kotlin-y-java%2F){:target="_blank" rel="nofollow,noreferrer"} por David Cruz Anaya (Udemy)
+- [De Android a iOS - de Swift a Kotlin - Curso básico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fde-android-a-ios-de-swift-a-kotlin%2F){:target="_blank" rel="nofollow,noreferrer"} de Andrés Cruz Yoris (Udemy)
 - [Fundamentos de Kotlin](https://devcode.la/cursos/kotlin){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
+- [Introducción a Kotlin](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-kotlin%2F){:target="_blank" rel="nofollow,noreferrer"} por Alejandro Lora y Miguel Campos Rivera(Udemy)
 - [Introducción a Kotlin avanzado](https://plataforma.keepcoding.io/p/introduccion-desarrollo-de-aplicaciones-android-en-kotlin-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Introducción a Kotlin desde cero](https://plataforma.keepcoding.io/p/curso_kotlin_desde_cero_introductorio){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+- [Kotlin para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkotlin-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} por Jesús Almeral (Udemy)
 
 ## **¿Cuáles son los mejores libros para aprender Kotlin?**
 
@@ -202,6 +212,7 @@ Estos son algunos de los mejores libros para aprender Kotlin:
 ## Cursos Gratis de Dart
 
 - [Curso básico de Dart](https://www.youtube.com/watch?v=dDZ-NOTjXiA&list=PLl_hIu4u7P65q3qDQfwoGF6sK9upzi3Jf){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, Youtube)
+- [Dart & Introducción a Flutter](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdart-flutter-gratis%2F){:target="_blank" rel="nofollow,noreferrer"} por Miguel Campos Rivera y Alejandro Lora (Udemy)
 
 ### **Relacionados** <!-- omit in toc -->
 
