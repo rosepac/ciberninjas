@@ -78,13 +78,18 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 ### Libros de entornos de desarrollo
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Garceta](https://amzn.to/2R9LRkV) \ [Rama](https://amzn.to/3bM7gdu) (2012)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452977&linkId=80e164825ced0a5889429147018bf288"></iframe>
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641695&linkId=a9ce9daf9d086594dccdbf7a73ddaa95"></iframe>
 
 ## 3. **Formación y orientación laboral**
 
 ### Libros de formación y orientación laboral
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Editex](https://amzn.to/35k39Ea) (2020) \ [Paraninfo](https://amzn.to/2R9mzn2) (2019) \ [Paraninfo](https://amzn.to/2DMcPfq) (2018) \ [Editex](https://amzn.to/33cGpmO) (2018) \ [McGraw Hill](https://amzn.to/32c9gsa) (2017)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8413212340&linkId=d3d925f4b91c10de5b38b7c97e1fa08c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=842834230X&linkId=e65380d49375d99f7d03e895102a16d5"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428341079&linkId=e875db12467b4fc7c929f6eedfa13260"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8490789940&linkId=36228fd6d905d386df8a608d7483d86d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=844861206X&linkId=fd06ba91e8cefbb0ea6a2740ce81943e"></iframe>
 
 ## 4. **Lenguajes de Marcas y Sistemas de Gestión de Información**
 
