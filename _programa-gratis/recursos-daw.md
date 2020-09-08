@@ -29,51 +29,34 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 > Recopilación de apuntes, cursos y libros relacionados por asignaturas del FP de Desarrollo de Aplicaciones Web (DAW).
 
+- [1. **Bases de datos**](#1-bases-de-datos)
+- [2. **Entornos de desarrollo**](#2-entornos-de-desarrollo)
+- [3. **Formación y orientación laboral**](#3-formación-y-orientación-laboral)
+- [4. **Lenguajes de Marcas y Sistemas de Gestión de Información**](#4-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
+- [5. **Programación**](#5-programación)
+- [6. **Sistemas informáticos**](#6-sistemas-informáticos)
+- [7. **Diseño de interfaces web**](#7-diseño-de-interfaces-web)
+- [8. **Empresa e iniciativa emprendedora**](#8-empresa-e-iniciativa-emprendedora)
+- [10. **Inglés técnico para grado superior**](#10-inglés-técnico-para-grado-superior)
+- [11. **Desarrollo web en entorno cliente**](#11-desarrollo-web-en-entorno-cliente)
+- [12. **Desarrollo web en entorno servidor**](#12-desarrollo-web-en-entorno-servidor)
+- [13. **Despliegue de aplicaciones web**](#13-despliegue-de-aplicaciones-web)
+- [14. **Proyecto de desarrollo de aplicaciones web**](#14-proyecto-de-desarrollo-de-aplicaciones-web)
+- [15. **Formación en centros de trabajo**](#15-formación-en-centros-de-trabajo)
 - [**Apuntes Completos: FP de Desarrollo de Aplicaciones Web**](#apuntes-completos-fp-de-desarrollo-de-aplicaciones-web)
-- [**Asignaturas del primer curso de DAW**](#asignaturas-del-primer-curso-de-daw)
-  - [1. **Bases de datos**](#1-bases-de-datos)
-  - [2. **Entornos de desarrollo**](#2-entornos-de-desarrollo)
-  - [3. **Formación y orientación laboral**](#3-formación-y-orientación-laboral)
-  - [4. **Lenguajes de Marcas y Sistemas de Gestión de Información**](#4-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
-  - [5. **Programación**](#5-programación)
-  - [6. **Sistemas informáticos**](#6-sistemas-informáticos)
-- [Asignaturas del segundo curso de DAW](#asignaturas-del-segundo-curso-de-daw)
-  - [7. Diseño de interfaces web](#7-diseño-de-interfaces-web)
-  - [8. Empresa e iniciativa emprendedora](#8-empresa-e-iniciativa-emprendedora)
-  - [10. **Inglés técnico para grado superior**](#10-inglés-técnico-para-grado-superior)
-  - [11. Desarrollo web en entorno cliente](#11-desarrollo-web-en-entorno-cliente)
-  - [Desarrollo web en entorno servidor](#desarrollo-web-en-entorno-servidor)
-  - [Despliegue de aplicaciones web](#despliegue-de-aplicaciones-web)
-  - [Administración de Servidores](#administración-de-servidores)
-  - [10. Servidores de Aplicaciones](#10-servidores-de-aplicaciones)
-  - [11. Arquitecturas Web](#11-arquitecturas-web)
-  - [12. Proyecto de desarrollo de aplicaciones web](#12-proyecto-de-desarrollo-de-aplicaciones-web)
-  - [Formación en centros de trabajo.](#formación-en-centros-de-trabajo)
 
-## **Apuntes Completos: FP de Desarrollo de Aplicaciones Web**
+**Asignaturas del primer curso de DAW**
 
-Existe un repositorio Online de apuntes referentes al temario de DAW, todos los apuntes están en documentos PDF y pueden encontrarse en la página web [www.sitiolibre.com](https://www.sitiolibre.com/daw.php){:target="_blank" rel="nofollow,noreferrer"} de José Luis Comesaña.
-
-Estos mismos apuntes, están disponibles a través del repositorio de [Github](https://ciberninjas.com/github-git-recursos/){:target="_blank" rel="nofollow,noreferrer"} creado por [Statickidz](https://github.com/statickidz/TemarioDAW#temario-daw){:target="_blank" rel="nofollow,noreferrer"}.
-
-Ahora iremos **asignatura por asignatura**, enlazando siempre a **recursos gratuitos**:
-
-- Cursos Mooc alojados en repositorios universitarios.
-- Libros de Creative Commons.
-- Videotutoriales de Youtube.
-
-## **Asignaturas del primer curso de DAW**
-
-### 1. **Bases de datos**
+## 1. **Bases de datos**
 
 - Diseño Conceptual de Bases de Datos (2.004) 📖 [**OpenLibra: Diseño Conceptual de Bases de Datos**](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (todas las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo).
 - Apuntes Básicos de SQL (2.008) 📖 [**OpenLibra: Apuntes Básicos de SQL**](https://openlibra.com/es/book/download/apuntes-basicos-de-sql){:target="_blank" rel="nofollow,noreferrer"} (estos apuntes son una introducción muy básica al SQL, en ningún caso sustituyen a un buen manual).
 - Bases de Datos (2.010) 📖 [**OpenLibra: Bases de Datos**](https://openlibra.com/es/book/download/bases-de-datos-2){:target="_blank" rel="nofollow,noreferrer"} (Este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas).
 - Bases de Datos Avanzadas (2.013) 📖 [**OpenLibra: Bases de datos avanzadas**](https://openlibra.com/es/book/download/bases-de-datos-avanzadas){:target="_blank" rel="nofollow,noreferrer"} (Esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos)
 
-### 2. **Entornos de desarrollo**
-### 3. **Formación y orientación laboral**
-### 4. **Lenguajes de Marcas y Sistemas de Gestión de Información**
+## 2. **Entornos de desarrollo**
+## 3. **Formación y orientación laboral**
+## 4. **Lenguajes de Marcas y Sistemas de Gestión de Información**
 
 - Guía Completa de CSS3. Antonio Navajas: [**OpenLibra: Guía Completa de CSS3**](https://openlibra.com/es/book/download/guia-completa-de-css3){:target="_blank" rel="nofollow,noreferrer"} (CSS u hojas de estilo en cascada (en inglés Cascading Style Sheets) es un lenguaje usado para definir la presentación).
 
@@ -81,7 +64,7 @@ Ahora iremos **asignatura por asignatura**, enlazando siempre a **recursos gratu
 - HTML5. ArkaitzGarro: [**HTML5**](https://www.arkaitzgarro.com/html5/index.html){:target="_blank" rel="nofollow,noreferrer"}
 - CSS3. ArkaitzGarro: [**CSS 3**](https://www.arkaitzgarro.com/css3/){:target="_blank" rel="nofollow,noreferrer"}
 
-### 5. **Programación**
+## 5. **Programación**
 
 - Programación en Lenguaje JAVA (2.015) OpenCourse: [Curso: Programación en Lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26){:target="_blank" rel="nofollow,noreferrer"} (programación en Lenguaje Java, en el que se ven los fundamentos de la programación de computadores y del razonamiento).
 - Programación en JAVA (2.012): [**Programación en Java - Sitio Web de Javier García Escobedo (javiergarciaescobedo.es)**](https://javiergarciaescobedo.es/programacion-en-java){:target="_blank" rel="nofollow,noreferrer"}
@@ -103,11 +86,11 @@ Piensa en JAVA. Edición Española (2.002)
 
 > Los lenguajes de programación tienen muchas similitudes con las lenguas de uso general como el inglés.
 
-### 6. **Sistemas informáticos**
+## 6. **Sistemas informáticos**
 
-## Asignaturas del segundo curso de DAW
+**Asignaturas del segundo curso de DAW**
 
-### 7. Diseño de interfaces web
+## 7. **Diseño de interfaces web**
 
 
 Tema 1. Planificación de Interfaces Web
@@ -127,13 +110,13 @@ Tema 2 . Estilos
 1. [Ejemplo. 1](http://www.upv.es/entidades/ASIC/manuales/guia_estilos_upv.pdf){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Valencia)
 2. [Ejemplo. 2](https://editorial.ugr.es/pages/calidad/guiadeestilo/!){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Granada)
 
-### 8. Empresa e iniciativa emprendedora
+## 8. **Empresa e iniciativa emprendedora**
 
-### 10. **Inglés técnico para grado superior**
+## 10. **Inglés técnico para grado superior**
 
 - English 4 IT. Activites and Classroom: [**English for Information Technology, an online course**](https://www.english4it.com/){:target="_blank" rel="nofollow,noreferrer"}
 
-### 11. Desarrollo web en entorno cliente
+## 11. **Desarrollo web en entorno cliente**
 
 Introducción a Javascript
 
@@ -163,32 +146,33 @@ Manual de JavaScript
 [**JavaScript**
 *1.4 Cómo incluir JavaScript en documentos XHTML*www.arkaitzgarro.com](https://www.arkaitzgarro.com/javascript/){:target="_blank" rel="nofollow,noreferrer"}
 
-### Desarrollo web en entorno servidor
+## 12. **Desarrollo web en entorno servidor**
 
 - Ajax. ArkaitzGarro
 
 * [**AJAX**](https://www.arkaitzgarro.com/ajax/){:target="_blank" rel="nofollow,noreferrer"}
 
-### Despliegue de aplicaciones web
+## 13. **Despliegue de aplicaciones web**
 
+- [**Administración de servidores web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/81-administracion-de-servidores-web){:target="_blank" rel="nofollow,noreferrer"}
+- [**Servidores de aplicaciones](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/86-servidores-de-aplicaciones){:target="_blank" rel="nofollow,noreferrer"}
+- [**Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web){:target="_blank" rel="nofollow,noreferrer"}
 
-### Administración de Servidores
+## 14. **Proyecto de desarrollo de aplicaciones web**
 
-* [**Administración de servidores web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/81-administracion-de-servidores-web){:target="_blank" rel="nofollow,noreferrer"}
+## 15. **Formación en centros de trabajo**
 
-### 10. Servidores de Aplicaciones
+## **Apuntes Completos: FP de Desarrollo de Aplicaciones Web**
 
-* [**Servidores de aplicaciones](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/86-servidores-de-aplicaciones){:target="_blank" rel="nofollow,noreferrer"}
+Existe un repositorio Online de apuntes referentes al temario de DAW, todos los apuntes están en documentos PDF y pueden encontrarse en la página web [www.sitiolibre.com](https://www.sitiolibre.com/daw.php){:target="_blank" rel="nofollow,noreferrer"} de José Luis Comesaña.
 
-### 11. Arquitecturas Web
+Estos mismos apuntes, están disponibles a través del repositorio de [Github](https://ciberninjas.com/github-git-recursos/){:target="_blank" rel="nofollow,noreferrer"} creado por [Statickidz](https://github.com/statickidz/TemarioDAW#temario-daw){:target="_blank" rel="nofollow,noreferrer"}.
 
-* [**Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web){:target="_blank" rel="nofollow,noreferrer"}
+Ahora iremos **asignatura por asignatura**, enlazando siempre a **recursos gratuitos**:
 
-### 12. Proyecto de desarrollo de aplicaciones web
-
-### Formación en centros de trabajo.
-
-
+- Cursos Mooc alojados en repositorios universitarios.
+- Libros de Creative Commons.
+- Videotutoriales de Youtube.
 
 ------
 
