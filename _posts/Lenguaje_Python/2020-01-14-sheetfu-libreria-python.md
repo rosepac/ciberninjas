@@ -1,7 +1,6 @@
 ---
 author: rosepac
 bootstrap: true
-
 title: "▷ Sheetfu: Librería de Python para interactuar con la API de Google Sheets V4 🐍"
 description: "Librería que enlaza Python con las tablas de las hojas de cálculados de Google Docs: Google Sheets"
 excerpt: "Librería que enlaza Python con las tablas de las hojas de cálculados de Google Docs: Google Sheets"
@@ -9,11 +8,12 @@ published: true
 comments: false
 date: 2020-05-20 19:10:12
 last_modified_at: 
-canonical_URL: /sheetfu-libreria-python/
-categories:
-- Librería Python
+permalink: /sheetfu-libreria-python/
+canonical_URL: https://ciberninjas.com/sheetfu-libreria-python/
 tags:
 - Python
+- Librería Python
+
 ---
 
 Sheetfu fue creado para interactuar con Google Sheets con una API simple, intuitiva y rápida. El objetivo principal de esta biblioteca es adaptar la API de Google App Script para hojas de cálculo a Python.
