@@ -21,18 +21,20 @@ published: true
 
 ---
 
-Android es uno de los sistemas operativos más utilizados, y hay muchas aplicaciones que se pueden descargar desde Google Play Store además de las aplicaciones integradas que vienen con el teléfono. Algunas características y beneficios de Android son:
+Android es uno de los sistemas operativos más utilizados, y hay muchas aplicaciones que se pueden descargar desde Google Play Store además de las aplicaciones integradas que vienen con el teléfono.
 
-- De código abierto y gratuito: fácil para las pequeñas empresas desarrollar su elección de aplicaciones
-- Gran comunidad y apoyo
-- Entorno de desarrollo rico
-- Muy rentable para desarrollar aplicaciones
-- Interfaz de usuario intuitiva
-- Amplias opciones de conectividad.
-- Amplio soporte para formato de archivos multimedia.
-- Almacenamiento de datos usando SQLite
-- Widgets redimensionables
-- Multitáctil y multitarea
+Las características y beneficios más importantes del uso del sistema operativo Android son:
+
+- De código abierto y gratuito: fácil para las pequeñas empresas desarrollar su elección de aplicaciones.
+- Gran comunidad y apoyo.
+- Entorno de desarrollo rico.
+- Muy rentable para desarrollar aplicaciones.
+- Interfaz de usuario intuitiva.
+- Amplias opciones de conectividad..
+- Amplio soporte para formato de archivos multimedia..
+- Almacenamiento de datos usando SQLite.
+- Widgets redimensionables.
+- Multitáctil y multitarea.
 
 El desarrollo de Android es fácil y rápido, y puedes aprender a través de cursos de capacitación, videos, tutoriales y, por supuesto, ¡buenos libros!
 
