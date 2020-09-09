@@ -21,9 +21,9 @@ img: "/assets/img/paginas-cursos/cursos-comercio-electronico.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 🛒 Comercio Electrónico
+## Comercio Electrónico 🛒
 
-[Prestashop](/cursos-tecnologia/#prestashop){: .btn .btn--inverse .btn--large} [WooCommerce](/cursos-tecnologia/#woocommerce){: .btn .btn--inverse .btn--large} [Ir a Marketing Digital 🏪](/cursos-tecnologia/#marketing-digital-){: .btn .btn--inverse .btn--large}
+[Prestashop](/cursos-comercio-electronico/#prestashop){: .btn .btn--inverse .btn--large} [WooCommerce](/cursos-comercio-electronico/#woocommerce){: .btn .btn--inverse .btn--large} [Ir a Marketing Digital 🏪]([/cursos-tecnologia/#marketing-digital-](https://ciberninjas.com/cursos-marketing-digital/)){: .btn .btn--inverse .btn--large}
 
 - [¿Cómo vender cualquier producto en Internet?](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-vender-cualquier-producto-en-internet%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Aprende a crear tu propia tienda Online](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-tu-tienda-online%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
