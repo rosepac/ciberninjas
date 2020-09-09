@@ -21,13 +21,13 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-- [Cursos Gratis de Cadena de Bloques 🔗](#cursos-gratis-de-cadena-de-bloques-)
-- [Cursos Gratis de Criptomonedas 💰](#cursos-gratis-de-criptomonedas-)
-  - [Cursos Gratis de Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](#cursos-gratis-de-bitcoin-i-classfa-fa-btc-aria-hiddentruei)
+- [**Cursos Gratis de Cadena de Bloques 🔗**](#cursos-gratis-de-cadena-de-bloques-)
+- [**Cursos Gratis de Criptomonedas 💰**](#cursos-gratis-de-criptomonedas-)
+  - [Cursos Gratis de Bitcoin](#cursos-gratis-de-bitcoin)
   - [Cursos Gratis de Dash](#cursos-gratis-de-dash)
-  - [Cursos Gratis de Trading <i class="fa fa-line-chart" aria-hidden="true"></i>](#cursos-gratis-de-trading-i-classfa-fa-line-chart-aria-hiddentruei)
+  - [Cursos Gratis de Trading](#cursos-gratis-de-trading)
 
-## Cursos Gratis de Cadena de Bloques 🔗
+## **Cursos Gratis de Cadena de Bloques 🔗**
 
 - [Blockchain Básico para Periodistas](https://www.tutellus.com/tecnologia/blockchain/blockchain-basico-para-periodistas-18631){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [Blockchain Demo Day: Proyectos 2019](https://www.tutellus.com/tecnologia/blockchain/blockchain-demo-day-abril-2019-24449){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
@@ -44,9 +44,9 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 - [Lightning Network: Cómo funciona y cómo instalar un nodo LN](https://www.tutellus.com/tecnologia/blockchain/lightning-network-como-funciona-y-como-instalar-un-nodo-ln-23692){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [Qué es y Cómo usar la Blockchain de NEM](https://www.tutellus.com/tecnologia/blockchain/que-es-y-como-usar-la-blockchain-de-nem-22720){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 
-## Cursos Gratis de Criptomonedas 💰
+## **Cursos Gratis de Criptomonedas 💰**
 
-### Cursos Gratis de Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>
+### Cursos Gratis de Bitcoin
 
 - [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (Unimooc)
 - [Bitcoin Construye un imperio minando en la nube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbitcoin-construye-un-imperio-minando-en-la-nube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -57,7 +57,7 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 
 - [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 
-### Cursos Gratis de Trading <i class="fa fa-line-chart" aria-hidden="true"></i>
+### Cursos Gratis de Trading
 
 - [Curso básico de trading](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwisetradingacademy%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Curso de trading y bolsa desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-trading-y-bolsa-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
