@@ -24,10 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 8 de Septiembre
-
-- (18:30 H. Esp.) Front End: taller para principiantes FULLSTACK 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-front-end-taller-para-principiantes-fullstack-111285114774?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}- (18:00 H. Esp.) ¿Has acabado de estudiar? Te recomendamos qué hacer 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-has-acabado-de-estudiar-te-recomendamos-que-hacer-d-115882500679?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 9 de Septiembre
 
 - (13:00 H. Esp.) Neo4j - Aplicaciones en Retail 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -658,3 +654,7 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 ### 🔔 7 de Septiembre
 
 - (23:30 H. ESP.) UX Writing: Diseñando experiencias con palabras, por Emilia Alegre 👉 [Ver Directo en Youtube](https://www.youtube.com/watch?v=s9-u2mYL7rY&ab_channel=CoDeAr){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 8 de Septiembre
+
+- (18:30 H. Esp.) Front End: taller para principiantes FULLSTACK 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-front-end-taller-para-principiantes-fullstack-111285114774?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}- (18:00 H. Esp.) ¿Has acabado de estudiar? Te recomendamos qué hacer 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-has-acabado-de-estudiar-te-recomendamos-que-hacer-d-115882500679?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
