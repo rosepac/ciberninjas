@@ -22,7 +22,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 {: .notice--danger}
 
 - [**Programación Web 👩‍💻**](#programación-web-)
-- [**Angular <i class="fab fa-angular"></i>**](#angular-i-classfab-fa-angulari)
+- [**Angular**](#angular)
 - [**Ionic**](#ionic)
 - [**JQuery**](#jquery)
 - [**PhoneGap (Apache Cordoba)**](#phonegap-apache-cordoba)
@@ -72,7 +72,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 - [De Novato a Desarrollador Exitoso](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fde-novato-a-desarrollador-exitoso	){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj){:target="_blank" rel="nofollow,noreferrer"} (iDESWEB, YouTube)
 
-## **Angular <i class="fab fa-angular"></i>**
+## **Angular**
 
 - [Angular: Convierte cualquier template HTML en una WebAPP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhtml-hacia-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Angular: Fundamentos desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcurso-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
