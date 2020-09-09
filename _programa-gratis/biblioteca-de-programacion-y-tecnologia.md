@@ -44,49 +44,120 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 [📚 Ver Todas las Bibliotecas Gratuitas 📚](/biblioteca-de-programacion-y-tecnologia/#índice-de-libros){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **Historia de los Lenguajes de Programación**
-
-La programación informática es esencial en nuestro mundo actual, ya que ejecuta los sistemas para casi todos los dispositivos que utilizamos; los lenguajes de programación de computadoras nos permiten decirle a las máquinas qué hacer. Las máquinas y los humanos "piensan" de manera muy diferente, por lo que los lenguajes de programación son necesarios para cerrar esa brecha.
-
-El primer lenguaje de programación de computadoras fue creado en 1883, cuando una mujer llamada Ada Lovelace trabajó con Charles Babbage en su primera computadora mecánica, el motor analítico. Mientras que a Babbage le preocupaba simplemente calcular números, Lovelace vio que los números con los que trabajaba la computadora podían representar algo más que cantidades de cosas.
-
-Ella escribió un algoritmo para el motor analítico que fue el primero de su tipo. Debido a su contribución, se le atribuye a Lovelace la creación del primer lenguaje de programación de computadoras. A medida que surgieron diferentes necesidades y se crearon nuevos dispositivos, se siguieron muchos más idiomas.
-
-A continuación, vamos a realizar un repaso cronológico a través del nacimiento de cada uno de los diferentes lenguajes de programación más importantes a todo lo largo de la historia de la informática.
-
-- 1883: **El primer algoritmo creado por Ada Lovelace** para la máquina analítica de Charles Babbage para calcular los números de Bernoulli, y por tanto, se le considera el primer lenguaje creado en la historia de la programación.
-- 1949: **Lenguaje ensamblador, el primero fue creado por Maurice Wilkes** y todo su equipo matemático en la Universidad de Cambridge y se uso en la calculadora electrónica automática de almacenamiento (EDSAC), destacar aquí a las primeras operadoras de la máquina (Joyce Wheeler y Margaret Marrs y Liz Howe, operadora de la EDSAC 2). El lenguaje ensamblador es un tipo de lenguaje de programación de computadora de bajo nivel que simplifica el lenguaje del código de máquina y las instrucciones específicas necesarias para indicarle a la computadora qué hacer.
-- 1952: El primer **Autocode desarrollado por Alick Glennie** para la computadora Mark 1 de la Universidad de Manchester en el Reino Unido. Autocode fue un término genérico para una familia de lenguajes de programación de las primeras computadoras creadas en la historia. Algunos consideran que el código automático es el primer lenguaje de programación compilado, lo que significa que se puede traducir directamente al código de la máquina usando un programa llamado compilador.
-- 1957: **Fortran, creado por John Backus** para trabajos científicos, matemáticos y estadísticos complicados, Fortran significa For mula Tran slation. Es uno de los lenguajes de programación de computadoras más antiguos que todavía se usan en la actualidad.
-- 1958: **Algol, creado por un comité para uso científico**, Algol representa el lenguaje L rítmico de Algo . Algol sirvió como punto de partida en el desarrollo de lenguajes como Pascal, C, C ++ y Java.
-- 1959: **COBOL, creado por el Dr. Grace Murray Hopper** como un lenguaje de programación informática que puedan ejecutarse en todas las marcas y tipos de ordenadores, COBOL significa CO mmon B usiness O riented L anguage. Se utiliza en cajeros automáticos, procesamiento de tarjetas de crédito, sistemas telefónicos, computadoras de hospitales y gobiernos, sistemas automotrices y señales de tráfico. En la película The Terminator, se utilizaron piezas del código fuente de COBOL en la pantalla de visión de Terminator.
-- 1959: **LISP, creado por John McCarthy de MIT**, LISP todavía está en uso. Es sinónimo de lenguaje de procesamiento LIS t P. Fue creado originalmente para la investigación de inteligencia artificial, pero hoy se puede usar en situaciones en las que se usan Ruby o Python.
-- 1964: **BASIC, Desarrollado por John G. Kemeny y Thomas E. Kurtz** en el Dartmouth College de manera que los estudiantes que no tienen un fuerte conocimiento técnico o matemático todavía podían usar las computadoras, lo que representa B de eginner A ll-propósito S ymbolic I nstruction C oda. Una versión modificada de BASIC fue escrita por Bill Gates y Paul Allen. Este se convertiría en el primer producto de Microsoft.
-- 1970: **Pascal, Desarrollado por Niklaus Wirth**, Pascal fue nombrado en honor del matemático, físico y filósofo francés Blaise Pascal. Es fácil de aprender y fue creado originalmente como una herramienta para enseñar programación de computadoras. Pascal fue el idioma principal utilizado para el desarrollo de software en los primeros años de Apple.
-- 1972: **Smalltalk desarrollado por Alan Kay, Adele Goldberg y Dan Ingalls en el Centro de Investigación Xerox Palo Alto**, Smalltalk permitió a los programadores de computadoras modificar el código sobre la marcha y también introdujo otros aspectos ahora presentes en lenguajes de programación de computadoras comunes, como Python, Java y Rubí.
-- 1972: **C, Desarrollado por Dennis Ritchie en Bell Labs**, C es considerado por muchos como el primer lenguaje de alto nivel. Un lenguaje de programación de computadora de alto nivel está más cerca del lenguaje humano y se elimina más del código de la máquina. C fue creado para que un sistema operativo llamado Unix pudiera usarse en muchos tipos diferentes de computadoras. Ha influido en muchos otros lenguajes, incluidos Ruby, C #, Go, Java, JavaScript, Perl, PHP y Python.
-- 1972: **SQL desarrollado por Donald D. Chamberlin y Raymond F**. Boyce en IBM. SQL significa S tructured Q uery L anguage. Se utiliza para ver y cambiar la información que se almacena en las bases de datos. SQL usa oraciones de comando llamadas consultas para agregar, eliminar o ver datos.
-- 1978: **MATLAB, Desarrollado por Cleve Moler**. MATLAB significa Mat rix Lab oratory. Es uno de los mejores lenguajes de programación de computadoras para escribir programas matemáticos y se utiliza principalmente en matemáticas, investigación y educación. También se puede usar para crear gráficos de dos y tres dimensiones.
-- 1983: **Objective-C, Creado por Brad Cox y Tom Love**. Objective-C es el principal lenguaje de programación de computadoras utilizado al escribir software para macOS e iOS, los sistemas operativos de Apple.
-- 1983: **C++ es una extensión del lenguaje C y fue desarrollado por Bjarne Stroustrup**. Es uno de los idiomas más utilizados en el mundo. C ++ se usa en motores de juegos y software de alto rendimiento como Adobe Photoshop. La mayoría del software empaquetado todavía está escrito en C++.
-- 1987: **Perl fue desarrollado originalmente por Larry Wall en 1987** como un lenguaje de script diseñado para la edición de texto. Su propósito era facilitar el procesamiento de informes. Ahora se usa ampliamente para muchos propósitos, incluida la administración de sistemas Linux, el desarrollo web y la programación de redes.
-- 1990: **Haskell, lleva el nombre de Haskell Brooks Curry**, un lógico y matemático estadounidense. Haskell se llama un lenguaje de programación de computadora puramente funcional, lo que básicamente significa que es principalmente matemático. Es utilizado por muchas industrias, especialmente aquellas que se ocupan de cálculos complicados, registros y cálculo de números.
-- 1991: **Python, diseñado por Guido Van Rossum**. Python es más fácil de leer y requiere menos líneas de código que muchos otros lenguajes de programación de computadoras. Fue nombrado después del grupo de comedia británico Monty Python. Los sitios populares como Instagram usan marcos que están escritos en Python.
-- 1991: **Visual Basic, desarrollado por Microsoft**, Visual Basic permite a los programadores elegir y cambiar fragmentos de código preseleccionados de manera arrastrar y soltar a través de una interfaz gráfica de usuario (GUI).
-- 1993: **R, desarrollado por Ross Ihaka y Robert Gentleman en la Universidad de Auckland**, Nueva Zelanda, R lleva el nombre de los primeros nombres de los dos primeros autores. Es utilizado principalmente por estadísticos y aquellos que realizan diferentes tipos de análisis de datos.
-- 1995: **Java, originalmente llamado Oak, desarrollado por James Gosling**. Posteriormente, controlado, mantenido y desarrollado por la empresa Sun Microsystems. Estaba destinado a decodificadores de cable y dispositivos de mano, pero luego se mejoró para que pudiera usarse para entregar información en la World Wide Web. Java está en todas partes, desde computadoras hasta teléfonos inteligentes y parquímetros. ¡Tres mil millones de dispositivos ejecutan Java!
-- 1995: **PHP, creado por Rasmus Lerdorf**, PHP se utiliza principalmente para el desarrollo web y generalmente se ejecuta en servidores web. En un principio se puso de pie para P ersonal H ome P edad, ya que fue utilizado por Lerdorf para gestionar su propia información en línea. PHP ahora se usa ampliamente para crear sitios web y blogs. WordPress, una popular herramienta de creación de sitios web, está escrita con PHP.
-- 1995: **Ruby fue creado por Yukihiro "Matz" Matsumoto**, quien combinó partes de sus idiomas favoritos para formar un nuevo lenguaje de programación de computadora de propósito general que puede realizar muchas tareas de programación. Es popular en el desarrollo de aplicaciones web. El código Ruby se ejecuta más lentamente, pero permite a los programadores de computadoras armar y ejecutar un programa rápidamente.
-- 1995: **JavaScript creado en solo 10 días por Brendan Eich**, este lenguaje se utiliza principalmente para mejorar muchas interacciones del navegador web. Casi todos los sitios web principales usan Javascript.
-- 2000: **C # desarrollado por Microsoft** con el objetivo de combinar la capacidad informática de C ++ con la simplicidad de Visual Basic, C # se basa en C ++ y es similar a Java en muchos aspectos. Se usa en casi todos los productos de Microsoft y se usa principalmente para desarrollar aplicaciones de escritorio.
-- 2003: **Scala creado por Martin Odersky**. Scala es un lenguaje de programación de computadora que combina programación funcional, que es matemática, con programación orientada a objetos, que se organiza alrededor de datos que controlan el acceso al código. Su compatibilidad con Java lo hace útil en el desarrollo de Android.
-- 2003: **Groovy, desarrollado por James Strachan y Bob McWhirter**, Groovy se deriva de Java y mejora la productividad de los desarrolladores porque es fácil de aprender y conciso.
-- 2009: **Go fue desarrollado por Google** para abordar problemas que pueden ocurrir en grandes sistemas de software. Dado que el uso de la computadora y la tecnología es muy diferente hoy que cuando se introdujeron y pusieron en uso lenguajes como C ++, Java y Python, surgieron problemas cuando los grandes sistemas informáticos se volvieron comunes. Go tenía la intención de mejorar el entorno de trabajo de los programadores para que pudieran escribir, leer y mantener grandes sistemas de software de manera más eficiente.
-- 2014: **Swift desarrollado por Apple como un reemplazo para C, C ++ y Objective-C**. Se supone que Swift es más fácil de usar y deja menos espacio para los errores. Es versátil y se puede utilizar para aplicaciones de escritorio y móviles y servicios en la nube.
-
-La mayoría de los lenguajes de programación de computadoras, en la actualidad, fueron inspirados o construidos sobre conceptos de lenguajes de programación de computadoras anteriores. Hoy en día, si bien los lenguajes más antiguos aún sirven como una base sólida para los nuevos, los lenguajes de programación más nuevos hacen que el trabajo de los programadores sea más simple.
-
-Las empresas dependen en gran medida de los programas para satisfacer todas sus necesidades de datos, transacciones y servicio al cliente. La ciencia y la medicina necesitan programas precisos y complejos para su investigación. Las aplicaciones móviles deben actualizarse para satisfacer las demandas de los consumidores. Y todas estas nuevas y crecientes necesidades aseguran que los lenguajes de programación informática, tanto antiguos como nuevos, sigan siendo una parte importante de la vida moderna.
+- [**Mejores Libros Gratuitos PDF para Programar**](#mejores-libros-gratuitos-pdf-para-programar)
+- [**Índice de Libros**](#índice-de-libros)
+- [🗃 Meta-Listas](#-meta-listas)
+  - [🧰 Meta-Listas Herramientas](#-meta-listas-herramientas)
+  - [🌐 Cursos Masivos en Línea](#-cursos-masivos-en-línea)
+- [Algoritmos 🔡](#algoritmos-)
+- [📁 Bases de Datos](#-bases-de-datos)
+- [MySQL](#mysql)
+- [SQL](#sql)
+- [NoSQL](#nosql)
+  - [MongoDB](#mongodb)
+  - [Redis](#redis)
+- [⛓ Blockchain](#-blockchain)
+- [Cadena de Bloques 🔗](#cadena-de-bloques-)
+- [Criptomonedas 💰](#criptomonedas-)
+  - [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](#bitcoin-i-classfa-fa-btc-aria-hiddentruei)
+  - [Ethereum <i class="fab fa-ethereum"></i>](#ethereum-i-classfab-fa-ethereumi)
+- [🔬 Ciencias de la Computación](#-ciencias-de-la-computación)
+- [🛒 Comercio Electrónico](#-comercio-electrónico)
+  - [Startups](#startups)
+- [📐 Diseño Cad](#-diseño-cad)
+- [🐧 Ecosistema de Software Libre](#-ecosistema-de-software-libre)
+  - [Hacktivismo](#hacktivismo)
+  - [Linux <i class="fa fa-linux" aria-hidden="true"></i>](#linux-i-classfa-fa-linux-aria-hiddentruei)
+  - [Ubuntu](#ubuntu)
+- [💼 Metodologías de Desarrollo](#-metodologías-de-desarrollo)
+- [Misceláneos](#misceláneos)
+- [👨‍🔧 Técnico de Software & Hardware](#-técnico-de-software--hardware)
+  - [Montaje & Mantenimiento 🔧](#montaje--mantenimiento-)
+- [💻 Ofimática](#-ofimática)
+  - [Software Libre](#software-libre)
+  - [Otros](#otros)
+- [👨‍💻 Paradigmas de Programación](#-paradigmas-de-programación)
+- [👦 Programación Infantil](#-programación-infantil)
+  - [App Inventor](#app-inventor)
+  - [Scratch <i class="fas fa-paw"></i>](#scratch-i-classfas-fa-pawi)
+- [🕸 Redes](#-redes)
+  - [Servicios en red](#servicios-en-red)
+  - [Virtualización](#virtualización)
+- [👮‍♀️ Seguridad](#️-seguridad)
+- [Criptografía 🔓](#criptografía-)
+- [Sistemas Operativos](#sistemas-operativos)
+  - [iPhone](#iphone)
+- [Software](#software)
+- [Consola y Editores de Texto](#consola-y-editores-de-texto)
+- [Anotaciones y Transcripciones](#anotaciones-y-transcripciones)
+- [🗞 Revistas](#-revistas)
+- [🤖 Robótica](#-robótica)
+- [Arduino 🔦](#arduino-)
+- [Casas Inteligentes 🏡](#casas-inteligentes-)
+- [Inteligencia Artificial](#inteligencia-artificial)
+- [Raspberry Pi](#raspberry-pi)
+- [👩‍💻 Desarrollo Web](#-desarrollo-web)
+- [Android <i class="fa fa-android" aria-hidden="true"></i>](#android-i-classfa-fa-android-aria-hiddentruei)
+- [Docker <i class="fab fa-docker"></i>](#docker-i-classfab-fa-dockeri)
+- [Bootstrap](#bootstrap)
+- [Ionic](#ionic)
+- [PhoneGap (Apache Cordoba)](#phonegap-apache-cordoba)
+- [Programación Web 👩‍💻](#programación-web-)
+- [👨‍💻 Lenguajes de Programación](#-lenguajes-de-programación)
+  - [C](#c)
+  - [C++](#c-1)
+  - [Coffescript](#coffescript)
+  - [Emacs y Lisp](#emacs-y-lisp)
+  - [Ensamblador](#ensamblador)
+  - [Erlang <i class="fab fa-erlang"></i>](#erlang-i-classfab-fa-erlangi)
+  - [Elixir](#elixir)
+- [Git <i class="fab fa-git"></i>](#git-i-classfab-fa-giti)
+- [Github <i class="fab fa-github"></i>](#github-i-classfab-fa-githubi)
+  - [Go](#go)
+  - [Haskell](#haskell)
+- [👨‍🎨 Diseño Web](#-diseño-web)
+- [Bootstrap](#bootstrap-1)
+- [Lenguajes de Estilos y Preprocesadores 🎨](#lenguajes-de-estilos-y-preprocesadores-)
+- [Lenguajes de Marcado ✍](#lenguajes-de-marcado-)
+- [Sistemas de Plantillas 🌱](#sistemas-de-plantillas-)
+- [HTML / CSS <i class="fa fa-html5" aria-hidden="true"></i> <i class="fa fa-css3" aria-hidden="true"></i> <i class="fab fa-sass"></i>](#html--css-i-classfa-fa-html5-aria-hiddentruei-i-classfa-fa-css3-aria-hiddentruei-i-classfab-fa-sassi)
+- [Java](#java)
+- [JavaScript](#javascript)
+  - [Angular <i class="fab fa-angular"></i>](#angular-i-classfab-fa-angulari)
+  - [D3.js](#d3js)
+  - [jQuery](#jquery)
+  - [Node <i class="fab fa-node-js"></i>](#node-i-classfab-fa-node-jsi)
+  - [React](#react)
+- [Rust](#rust)
+- [Vue](#vue)
+- [.NET (C# / Visual Studio)](#net-c--visual-studio)
+- [PHP](#php)
+  - [Cake PHP](#cake-php)
+  - [Laravel](#laravel)
+- [Perl](#perl)
+- [Python](#python)
+- [Python Frameworks](#python-frameworks)
+  - [Django](#django)
+  - [Web2py](#web2py)
+- [Ruby](#ruby)
+  - [Ruby on Rails](#ruby-on-rails)
+- [R](#r)
+- [Scala](#scala)
+- [SVG](#svg)
+- [Swift <i class="fab fa-swift"></i>](#swift-i-classfab-fa-swifti)
+- [Tex & LaTeX](#tex--latex)
+- [🎮 Programación Videojuegos](#-programación-videojuegos)
+- [✍ Sistemas de Gestión de Contenidos](#-sistemas-de-gestión-de-contenidos)
+  - [Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](#wordpress-i-classfa-fa-wordpress-aria-hiddentruei)
+- [👷‍♂️ Webmaster](#️-webmaster)
+- [Accesibilidad Web ♿](#accesibilidad-web-)
+- [Análitica Web 📈](#análitica-web-)
+- [Marketing Digital 🏪](#marketing-digital-)
+  - [Instagram <i class="fa fa-instagram" aria-hidden="true"></i>](#instagram-i-classfa-fa-instagram-aria-hiddentruei)
+- [Seo y Posicionamiento 🔍](#seo-y-posicionamiento-)
+- [**Historia de los Lenguajes de Programación**](#historia-de-los-lenguajes-de-programación)
+- [Licencia](#licencia)
+  - [**Nos Referencian**](#nos-referencian)
 
 ## **Índice de Libros**
 
@@ -556,7 +627,6 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Raspberry Pi
 
-
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👩‍💻 Desarrollo Web
@@ -689,10 +759,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Markdown: Guía Breve y Detallada](https://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf) (PDF) (2013)
 
-
 ## Sistemas de Plantillas 🌱
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
-
 
 ## HTML / CSS <i class="fa fa-html5" aria-hidden="true"></i> <i class="fa fa-css3" aria-hidden="true"></i> <i class="fab fa-sass"></i>
 
@@ -848,7 +916,6 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Django. Documentación](https://media.readthedocs.org/pdf/djangotutorial/1.8/djangotutorial.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/){:target="_blank" rel="nofollow"} (PDF)
 
-
 ### Web2py
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](https://www.web2py.com/books/default/chapter/41){:target="_blank" rel="nofollow"} (HTML)
@@ -862,12 +929,10 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart){:target="_blank" rel="nofollow"} (HTML)
 * [Ruby tutorial o como pasar un buen rato programando](https://rubytutorial.wikidot.com/introduccion){:target="_blank" rel="nofollow"} (HTML)
 
-
 ### Ruby on Rails
 
 * [Introducción a Rails](https://rubysur.org/introduccion.a.rails){:target="_blank" rel="nofollow"} (Gitbook) (2015)
 * [Introducción a Ruby on Rails](https://librosweb.es/libro/introduccion_rails){:target="_blank" rel="nofollow"} (HTML)
-
 
 ## R
 
@@ -881,7 +946,6 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Programación en R del método de las palabras asociadas](https://www.docentes.unal.edu.co/cepardot/docs/TrabajosGrado/TrabajoGrado_Daniel.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [R para Principiantes](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf){:target="_blank" rel="nofollow"} (PDF)
 
-
 ## Scala
 
 * [Manual de Scala para programadores Java](https://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf){:target="_blank" rel="nofollow"} (PDF) (2007)
@@ -890,7 +954,6 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## SVG
 
 * [Scalable: Un libro sobre SVG](https://lookaside.fbsbx.com/file/scalable.pdf?token=AWxNiz6LRucqQSrNUMf8ntZOEIDPzn1YO3DyPQbwJbE6KZJvBqzlRHHn5pgC4bwM4VbgaVG8KxCvSDrlSSsSZ3_svwdff0cGNrS9p98bylJI-X5itT4zgescpGGbQ-AdmWVIDQSH6_ZMTlzzb5eRxNkeREL81VUXSXajXV3gqfyc_w){:target="_blank" rel="nofollow"} (Descarga PDF) (2017)
-
 
 ## Swift <i class="fab fa-swift"></i>
 
@@ -969,6 +1032,49 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+## **Historia de los Lenguajes de Programación**
+
+La programación informática es esencial en nuestro mundo actual, ya que ejecuta los sistemas para casi todos los dispositivos que utilizamos; los lenguajes de programación de computadoras nos permiten decirle a las máquinas qué hacer. Las máquinas y los humanos "piensan" de manera muy diferente, por lo que los lenguajes de programación son necesarios para cerrar esa brecha.
+
+El primer lenguaje de programación de computadoras fue creado en 1883, cuando una mujer llamada Ada Lovelace trabajó con Charles Babbage en su primera computadora mecánica, el motor analítico. Mientras que a Babbage le preocupaba simplemente calcular números, Lovelace vio que los números con los que trabajaba la computadora podían representar algo más que cantidades de cosas.
+
+Ella escribió un algoritmo para el motor analítico que fue el primero de su tipo. Debido a su contribución, se le atribuye a Lovelace la creación del primer lenguaje de programación de computadoras. A medida que surgieron diferentes necesidades y se crearon nuevos dispositivos, se siguieron muchos más idiomas.
+
+A continuación, vamos a realizar un repaso cronológico a través del nacimiento de cada uno de los diferentes lenguajes de programación más importantes a todo lo largo de la historia de la informática.
+
+- 1883: **El primer algoritmo creado por Ada Lovelace** para la máquina analítica de Charles Babbage para calcular los números de Bernoulli, y por tanto, se le considera el primer lenguaje creado en la historia de la programación.
+- 1949: **Lenguaje ensamblador, el primero fue creado por Maurice Wilkes** y todo su equipo matemático en la Universidad de Cambridge y se uso en la calculadora electrónica automática de almacenamiento (EDSAC), destacar aquí a las primeras operadoras de la máquina (Joyce Wheeler y Margaret Marrs y Liz Howe, operadora de la EDSAC 2). El lenguaje ensamblador es un tipo de lenguaje de programación de computadora de bajo nivel que simplifica el lenguaje del código de máquina y las instrucciones específicas necesarias para indicarle a la computadora qué hacer.
+- 1952: El primer **Autocode desarrollado por Alick Glennie** para la computadora Mark 1 de la Universidad de Manchester en el Reino Unido. Autocode fue un término genérico para una familia de lenguajes de programación de las primeras computadoras creadas en la historia. Algunos consideran que el código automático es el primer lenguaje de programación compilado, lo que significa que se puede traducir directamente al código de la máquina usando un programa llamado compilador.
+- 1957: **Fortran, creado por John Backus** para trabajos científicos, matemáticos y estadísticos complicados, Fortran significa For mula Tran slation. Es uno de los lenguajes de programación de computadoras más antiguos que todavía se usan en la actualidad.
+- 1958: **Algol, creado por un comité para uso científico**, Algol representa el lenguaje L rítmico de Algo . Algol sirvió como punto de partida en el desarrollo de lenguajes como Pascal, C, C ++ y Java.
+- 1959: **COBOL, creado por el Dr. Grace Murray Hopper** como un lenguaje de programación informática que puedan ejecutarse en todas las marcas y tipos de ordenadores, COBOL significa CO mmon B usiness O riented L anguage. Se utiliza en cajeros automáticos, procesamiento de tarjetas de crédito, sistemas telefónicos, computadoras de hospitales y gobiernos, sistemas automotrices y señales de tráfico. En la película The Terminator, se utilizaron piezas del código fuente de COBOL en la pantalla de visión de Terminator.
+- 1959: **LISP, creado por John McCarthy de MIT**, LISP todavía está en uso. Es sinónimo de lenguaje de procesamiento LIS t P. Fue creado originalmente para la investigación de inteligencia artificial, pero hoy se puede usar en situaciones en las que se usan Ruby o Python.
+- 1964: **BASIC, Desarrollado por John G. Kemeny y Thomas E. Kurtz** en el Dartmouth College de manera que los estudiantes que no tienen un fuerte conocimiento técnico o matemático todavía podían usar las computadoras, lo que representa B de eginner A ll-propósito S ymbolic I nstruction C oda. Una versión modificada de BASIC fue escrita por Bill Gates y Paul Allen. Este se convertiría en el primer producto de Microsoft.
+- 1970: **Pascal, Desarrollado por Niklaus Wirth**, Pascal fue nombrado en honor del matemático, físico y filósofo francés Blaise Pascal. Es fácil de aprender y fue creado originalmente como una herramienta para enseñar programación de computadoras. Pascal fue el idioma principal utilizado para el desarrollo de software en los primeros años de Apple.
+- 1972: **Smalltalk desarrollado por Alan Kay, Adele Goldberg y Dan Ingalls en el Centro de Investigación Xerox Palo Alto**, Smalltalk permitió a los programadores de computadoras modificar el código sobre la marcha y también introdujo otros aspectos ahora presentes en lenguajes de programación de computadoras comunes, como Python, Java y Rubí.
+- 1972: **C, Desarrollado por Dennis Ritchie en Bell Labs**, C es considerado por muchos como el primer lenguaje de alto nivel. Un lenguaje de programación de computadora de alto nivel está más cerca del lenguaje humano y se elimina más del código de la máquina. C fue creado para que un sistema operativo llamado Unix pudiera usarse en muchos tipos diferentes de computadoras. Ha influido en muchos otros lenguajes, incluidos Ruby, C #, Go, Java, JavaScript, Perl, PHP y Python.
+- 1972: **SQL desarrollado por Donald D. Chamberlin y Raymond F**. Boyce en IBM. SQL significa S tructured Q uery L anguage. Se utiliza para ver y cambiar la información que se almacena en las bases de datos. SQL usa oraciones de comando llamadas consultas para agregar, eliminar o ver datos.
+- 1978: **MATLAB, Desarrollado por Cleve Moler**. MATLAB significa Mat rix Lab oratory. Es uno de los mejores lenguajes de programación de computadoras para escribir programas matemáticos y se utiliza principalmente en matemáticas, investigación y educación. También se puede usar para crear gráficos de dos y tres dimensiones.
+- 1983: **Objective-C, Creado por Brad Cox y Tom Love**. Objective-C es el principal lenguaje de programación de computadoras utilizado al escribir software para macOS e iOS, los sistemas operativos de Apple.
+- 1983: **C++ es una extensión del lenguaje C y fue desarrollado por Bjarne Stroustrup**. Es uno de los idiomas más utilizados en el mundo. C ++ se usa en motores de juegos y software de alto rendimiento como Adobe Photoshop. La mayoría del software empaquetado todavía está escrito en C++.
+- 1987: **Perl fue desarrollado originalmente por Larry Wall en 1987** como un lenguaje de script diseñado para la edición de texto. Su propósito era facilitar el procesamiento de informes. Ahora se usa ampliamente para muchos propósitos, incluida la administración de sistemas Linux, el desarrollo web y la programación de redes.
+- 1990: **Haskell, lleva el nombre de Haskell Brooks Curry**, un lógico y matemático estadounidense. Haskell se llama un lenguaje de programación de computadora puramente funcional, lo que básicamente significa que es principalmente matemático. Es utilizado por muchas industrias, especialmente aquellas que se ocupan de cálculos complicados, registros y cálculo de números.
+- 1991: **Python, diseñado por Guido Van Rossum**. Python es más fácil de leer y requiere menos líneas de código que muchos otros lenguajes de programación de computadoras. Fue nombrado después del grupo de comedia británico Monty Python. Los sitios populares como Instagram usan marcos que están escritos en Python.
+- 1991: **Visual Basic, desarrollado por Microsoft**, Visual Basic permite a los programadores elegir y cambiar fragmentos de código preseleccionados de manera arrastrar y soltar a través de una interfaz gráfica de usuario (GUI).
+- 1993: **R, desarrollado por Ross Ihaka y Robert Gentleman en la Universidad de Auckland**, Nueva Zelanda, R lleva el nombre de los primeros nombres de los dos primeros autores. Es utilizado principalmente por estadísticos y aquellos que realizan diferentes tipos de análisis de datos.
+- 1995: **Java, originalmente llamado Oak, desarrollado por James Gosling**. Posteriormente, controlado, mantenido y desarrollado por la empresa Sun Microsystems. Estaba destinado a decodificadores de cable y dispositivos de mano, pero luego se mejoró para que pudiera usarse para entregar información en la World Wide Web. Java está en todas partes, desde computadoras hasta teléfonos inteligentes y parquímetros. ¡Tres mil millones de dispositivos ejecutan Java!
+- 1995: **PHP, creado por Rasmus Lerdorf**, PHP se utiliza principalmente para el desarrollo web y generalmente se ejecuta en servidores web. En un principio se puso de pie para P ersonal H ome P edad, ya que fue utilizado por Lerdorf para gestionar su propia información en línea. PHP ahora se usa ampliamente para crear sitios web y blogs. WordPress, una popular herramienta de creación de sitios web, está escrita con PHP.
+- 1995: **Ruby fue creado por Yukihiro "Matz" Matsumoto**, quien combinó partes de sus idiomas favoritos para formar un nuevo lenguaje de programación de computadora de propósito general que puede realizar muchas tareas de programación. Es popular en el desarrollo de aplicaciones web. El código Ruby se ejecuta más lentamente, pero permite a los programadores de computadoras armar y ejecutar un programa rápidamente.
+- 1995: **JavaScript creado en solo 10 días por Brendan Eich**, este lenguaje se utiliza principalmente para mejorar muchas interacciones del navegador web. Casi todos los sitios web principales usan Javascript.
+- 2000: **C # desarrollado por Microsoft** con el objetivo de combinar la capacidad informática de C ++ con la simplicidad de Visual Basic, C # se basa en C ++ y es similar a Java en muchos aspectos. Se usa en casi todos los productos de Microsoft y se usa principalmente para desarrollar aplicaciones de escritorio.
+- 2003: **Scala creado por Martin Odersky**. Scala es un lenguaje de programación de computadora que combina programación funcional, que es matemática, con programación orientada a objetos, que se organiza alrededor de datos que controlan el acceso al código. Su compatibilidad con Java lo hace útil en el desarrollo de Android.
+- 2003: **Groovy, desarrollado por James Strachan y Bob McWhirter**, Groovy se deriva de Java y mejora la productividad de los desarrolladores porque es fácil de aprender y conciso.
+- 2009: **Go fue desarrollado por Google** para abordar problemas que pueden ocurrir en grandes sistemas de software. Dado que el uso de la computadora y la tecnología es muy diferente hoy que cuando se introdujeron y pusieron en uso lenguajes como C ++, Java y Python, surgieron problemas cuando los grandes sistemas informáticos se volvieron comunes. Go tenía la intención de mejorar el entorno de trabajo de los programadores para que pudieran escribir, leer y mantener grandes sistemas de software de manera más eficiente.
+- 2014: **Swift desarrollado por Apple como un reemplazo para C, C ++ y Objective-C**. Se supone que Swift es más fácil de usar y deja menos espacio para los errores. Es versátil y se puede utilizar para aplicaciones de escritorio y móviles y servicios en la nube.
+
+La mayoría de los lenguajes de programación de computadoras, en la actualidad, fueron inspirados o construidos sobre conceptos de lenguajes de programación de computadoras anteriores. Hoy en día, si bien los lenguajes más antiguos aún sirven como una base sólida para los nuevos, los lenguajes de programación más nuevos hacen que el trabajo de los programadores sea más simple.
+
+Las empresas dependen en gran medida de los programas para satisfacer todas sus necesidades de datos, transacciones y servicio al cliente. La ciencia y la medicina necesitan programas precisos y complejos para su investigación. Las aplicaciones móviles deben actualizarse para satisfacer las demandas de los consumidores. Y todas estas nuevas y crecientes necesidades aseguran que los lenguajes de programación informática, tanto antiguos como nuevos, sigan siendo una parte importante de la vida moderna.
 
 ## Licencia
 
