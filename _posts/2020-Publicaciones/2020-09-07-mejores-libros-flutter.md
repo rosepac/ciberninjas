@@ -10,9 +10,9 @@ thumbnail: /assets/img/flutter/flutter-trabajadores.webp
 feature-img: /assets/img/flutter/flutter-trabajadores.webp
 title: '▷ Los 4 mejores libros de Flutter'
 description: >-
-  ➜ ¿Qué libros sobre Flutter necesitas? ➜ ¿Cuáles son las fortalezas y debilidades de los libros? ➜ ¡Aquí vas a encontrar todas las respuestas!
+  ➜ ¿Qué libros sobre Flutter necesitas? ➜ ¿Cuáles son las fortalezas y debilidades de los libros de Flutter? ➜ ¡Aquí vas a encontrar todas las respuestas!
 excerpt: >-
-  ➜ ¿Qué libros sobre Flutter necesitas? ➜ ¿Cuáles son las fortalezas y debilidades de los libros? ➜ ¡Aquí vas a encontrar todas las respuestas!
+  ➜ ¿Qué libros sobre Flutter necesitas? ➜ ¿Cuáles son las fortalezas y debilidades de los libros de Flutter? ➜ ¡Aquí vas a encontrar todas las respuestas!
 canonical_URL: https://ciberninjas.com/mejores-libros-flutter/
 permalink: /mejores-libros-flutter/
 date: 2020-09-07 08:38:32
@@ -27,16 +27,16 @@ Si quieres aprender Flutter, vas a necesitar la mejor fuente desde la que comenz
 
 A continuación, tienes 4 de los mejores libros con los que aprender el framework de Flutter. Por desgracia, no existen grandes libros sobre Flutter en español.
 
-- [**Aprendiendo Flutter rápidamente: 65 ejemplos de aplicaciones**](#aprendiendo-flutter-rápidamente-65-ejemplos-de-aplicaciones)
+- [1. **Aprendiendo Flutter rápidamente: 65 ejemplos de aplicaciones**](#1-aprendiendo-flutter-rápidamente-65-ejemplos-de-aplicaciones)
   - [¿Qué aprenderás con el libro Aprendiendo Flutter?](#qué-aprenderás-con-el-libro-aprendiendo-flutter)
-- [**Comenzando con Flutter**](#comenzando-con-flutter)
+- [2. **Comenzando con Flutter**](#2-comenzando-con-flutter)
   - [¿Qué aprenderás con el libro Comenzando con Flutter?](#qué-aprenderás-con-el-libro-comenzando-con-flutter)
-- [**Flutter en Acción**](#flutter-en-acción)
+- [3. **Flutter en Acción**](#3-flutter-en-acción)
   - [¿Qué aprenderás con el libro Flutter en Acción?](#qué-aprenderás-con-el-libro-flutter-en-acción)
-- [**Guía de Inico Rápido con Flutter**](#guía-de-inico-rápido-con-flutter)
+- [4. **Guía de Inico Rápido con Flutter**](#4-guía-de-inico-rápido-con-flutter)
   - [¿Qué aprenderás con la Guía de Inico Rápido con Flutter?](#qué-aprenderás-con-la-guía-de-inico-rápido-con-flutter)
 
-## **Aprendiendo Flutter rápidamente: 65 ejemplos de aplicaciones**
+## 1. **Aprendiendo Flutter rápidamente: 65 ejemplos de aplicaciones**
 
 Si estás buscando un gran libro sobre Flutter, Aprendiendo Flutter es una guía increíble para ti. Es un hecho que un ejemplo vale más que mil palabras y esta te enseñará a través de hechos. Con 65 ejemplos de aplicaciones perfectos para que seas capaz de entenderlos fácilmente.
 
@@ -58,7 +58,7 @@ Por último, el libro incluye State y BloCs con streams, depuración y rendimien
 
 [🔥 COMPRAR el libro Aprendiendo Flutter Rápidamente](https://amzn.to/325VA1Z "Comprar el libro Aprendiendo Flutter Rápidamente"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **Comenzando con Flutter**
+## 2. **Comenzando con Flutter**
 
 Comenzando con Flutter: una guía práctica para el desarrollo de aplicaciones
 
@@ -80,7 +80,7 @@ Además de esto, el libro Beginning Flutter hace que todo el proceso sea mucho m
 
 [🔥 COMPRAR el libro Comenzando con Flutter](https://amzn.to/3lWdhZJ "Comprar el libro Comenzando con Flutter"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **Flutter en Acción**
+## 3. **Flutter en Acción**
 
 Flutter es un nuevo pero más poderoso kit de desarrollo de aplicaciones móviles. Casi todos los desarrolladores de aplicaciones móviles están familiarizados con este marco. Entonces, la mayoría de los desarrolladores principiantes comienzan a aprender este idioma como su primer idioma. Es porque Flutter es un marco del lenguaje Dart que también es fácil de aprender.
 
@@ -100,7 +100,7 @@ Además de esto, creará la mejor interfaz de usuario. Aprenderá más sobre la 
 
 [🔥 COMPRAR el libro Flutter en Acción](https://amzn.to/3h0oxAA "Comprar el libro Flutter en Acción"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **Guía de Inico Rápido con Flutter**
+## 4. **Guía de Inico Rápido con Flutter**
 
 Guía de inicio rápido de desarrollo móvil de Google Flutter: comience a trabajar con el desarrollo de aplicaciones móviles para iOS y Android.
 
