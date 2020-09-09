@@ -194,7 +194,9 @@ En un momento en que Estados Unidos busca formas de mantener su ventaja innovado
 
 Sabía que la mejor manera de crear valor en el siglo XXI era conectar la creatividad con la tecnología. Creó una empresa donde los saltos de la imaginación se combinaron con notables hazañas de ingeniería. Aunque Jobs cooperó con este libro, no pidió ningún control sobre lo que estaba escrito ni el derecho a leerlo antes de su publicación.
 
-No puso nada fuera de los límites. Alentó a la gente que conocía a hablar con honestidad. Y Jobs habla con franqueza, a veces con brutalidad, sobre las personas con las que trabajó y con las que compitió. Sus amigos, enemigos y colegas brindan una visión sin adornos de las pasiones, el perfeccionismo, las obsesiones, el arte, la maldad y la compulsión por el control que dieron forma a su enfoque de los negocios y los productos innovadores que resultaron.
+No puso nada fuera de los límites. Alentó a la gente que conocía a hablar con honestidad. Y Jobs habla con franqueza, a veces con brutalidad, sobre las personas con las que trabajó y con las que compitió.
+
+Sus amigos, enemigos y colegas brindan una visión sin adornos de las pasiones, el perfeccionismo, las obsesiones, el arte, la maldad y la compulsión por el control que dieron forma a su enfoque de los negocios y los productos innovadores que resultaron.
 
 Impulsado por demonios, Jobs podía llevar a quienes lo rodeaban a la furia y la desesperación. Pero su personalidad y sus productos estaban interrelacionados, tal como solían estarlo el hardware y el software de Apple, como si formaran parte de un sistema integrado.
 
