@@ -18,6 +18,11 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 
 ---
 
+- [Lenguajes de Marcado ✍](#lenguajes-de-marcado-)
+  - [HTML <i class="fa fa-html5" aria-hidden="true"></i> y CSS <i class="fa fa-css3" aria-hidden="true"></i>](#html-i-classfa-fa-html5-aria-hiddentruei-y-css-i-classfa-fa-css3-aria-hiddentruei)
+  - [Markdown](#markdown)
+  - [XML](#xml)
+
 ## Lenguajes de Marcado ✍
 
 ### HTML <i class="fa fa-html5" aria-hidden="true"></i> y CSS <i class="fa fa-css3" aria-hidden="true"></i>

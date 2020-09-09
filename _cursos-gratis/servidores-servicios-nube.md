@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Servidores]
-title: "▷ 22 Mejores cursos gratis de servidores"
+title: "▷ 22 Mejores cursos gratis de servicios en la nube y servidores"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto"
 date: 2020-09-02T04:22:00.000+02:00
@@ -22,8 +22,8 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 {: .notice--danger}
 
 - [Servidores y Servicios Nube ⛅](#servidores-y-servicios-nube-)
-- [Docker <i class="fab fa-docker"></i>](#docker-i-classfab-fa-dockeri)
-- [Node <i class="fab fa-node-js"></i>](#node-i-classfab-fa-node-jsi)
+- [**Docker**](#docker)
+- [**Node**](#node)
 - [**¿Qué es Docker?**](#qué-es-docker)
 - [**¿Cuáles son los requisitos previos para aprender Docker?**](#cuáles-son-los-requisitos-previos-para-aprender-docker)
 - [**¿Por qué debería aprender Docker?**](#por-qué-debería-aprender-docker)
@@ -64,7 +64,7 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 - [Windows Server 2012](https://www.youtube.com/playlist?list=PL5A481BA9FF8A8B75) (Pablo Martinez, YouTube)
 - [Windows Server 2016](https://www.youtube.com/playlist?list=PLn5IkU1Zhgibnm35AkK0OADKx9KacjbxW) (JGAITPro, YouTube)
 
-## Docker <i class="fab fa-docker"></i>
+## **Docker**
 
 - [Curso de Docker](https://www.youtube.com/playlist?list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Creación de una Imagen con Docker](/spring-boot-docker-con-albert-coronado/) (Albert Coronado, Youtube) (2019)
@@ -74,7 +74,7 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Node <i class="fab fa-node-js"></i>
+## **Node**
 
 - [Crear una REST API desde Cero con NodeJS y AdonisJS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Curso de NodeJS](https://www.youtube.com/playlist?list=PL38CA7BD8CB5F3FF9){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
@@ -112,6 +112,7 @@ Todos los cursos disponibles en la plataforma son enviados y votados por los mie
 
 <!-- seccionar a una página de Microsoft Azure -->
 ## ¿Qué es Microsoft Azure?
+
 Microsoft Azure es una plataforma de computación en la nube pública diseñada por Microsoft. Su nombre anterior era Windows Azure, que se cambió en 2014 debido a sus características ampliadas. Ofrece una gama de servicios como la creación, la gestión, las pruebas y la implementación de servicios y aplicaciones web. Gestiona aplicaciones a través de los centros de datos ubicados globalmente mediante la ejecución de estas funciones vitales. Microsoft Azure es muy beneficioso para desarrollar nuevas aplicaciones o para ejecutar y escalar la existente.
 
 ¿Cuáles son los requisitos previos para aprender Microsoft Azure?

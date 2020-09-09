@@ -100,7 +100,7 @@ Puede haber diferentes razones para que cualquiera aprenda Android. Algunas buen
 
 ## **¿Cuáles son los mejores libros para aprender Android?**
 
-Estos son algunos de los mejores libros para aprender Android:
+Estos son algunos de [los mejores libros para aprender Android](https://ciberninjas.com/mejores-libros-android-kotlin/):
 
 - [El Gran Libro de Android - 7ª ED](https://amzn.to/2Pz5cOu){:target="_blank" rel="nofollow,noreferrer"} (2019)
 - [Desarrollo de aplicaciones para Android](https://amzn.to/2VaoniT){:target="_blank" rel="nofollow,noreferrer"} (2018)
