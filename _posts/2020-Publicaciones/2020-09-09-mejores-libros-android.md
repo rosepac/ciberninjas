@@ -121,11 +121,17 @@ Todos los módulos son funcionales, explotables directamente y proporcionan una 
 
 ## 4. **Android Studio: Aprendiendo a desarrollar Aplicaciones de José Dimas Luján**
 
+Aprende a utilizar la principal herramienta de desarrollo para aplicaciones móviles, ofrecida directamente por Google. Android es sin lugar a dudas el sistema operativo más utilizado a lo largo del mundo, y por lo tanto; eso hace que el desarrollo de aplicaciones móviles sean uno de los mayores campos de posible trabajo para los desarrolladores.
 
+La herramienta de Google, es la herramienta más sencilla con la que crear apps de forma nativa.
+
+En este libro vas a aprender a usar cada una de las diferentes apartados existentes dentro del Android Studio y la implementación de sus elementos principales, como por ejemplo el acceso a las APIS.
 
 [🔥 COMPRAR el libro Android Studio: Aprendiendo a desarrollar Aplicaciones](https://amzn.to/2LgDjFu "Comprar el libro Android Studio: Aprendiendo a desarrollar Aplicaciones"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Plataformas Android de Jesús Tomás Gironés**
+
+Este libro va dirigio hacía los desarrolladores Android que ya posean experiencia en el desarrollo de aplicaciones y deseen enfrontar la creación de apps enfocadas principalmente hacía televisores.
 
 [🔥 COMPRAR el libro Plataformas Android](https://amzn.to/2LbZUUM "Comprar el libro Plataformas Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
