@@ -184,7 +184,9 @@ El objetivismo ha influido en varios otros movimientos, como el libertarismo, y 
 
 Del autor de las biografías más vendidas de Benjamin Franklin y Albert Einstein, esta es la biografía exclusiva y más vendida del New York Times del cofundador de Apple, Steve Jobs.
 
-Basado en más de cuarenta entrevistas con Jobs realizadas durante dos años, así como entrevistas con más de cien miembros de la familia, amigos, adversarios, competidores y colegas, Walter Isaacson ha escrito una historia fascinante de la vida de la montaña rusa y de una intensa intensidad personalidad de un emprendedor creativo cuya pasión por la perfección y un impulso feroz revolucionaron seis industrias: computadoras personales, películas animadas, música, teléfonos, tabletas y publicación digital.
+Basado en más de cuarenta entrevistas con Jobs realizadas durante dos años, así como entrevistas con más de cien miembros de la familia, amigos, adversarios, competidores y colegas, Walter Isaacson ha escrito una historia fascinante de la vida de la montaña rusa.
+
+La vida intensa de un emprendedor creativo cuya pasión por la perfección y un impulso feroz revolucionaron seis industrias: computadoras personales, películas animadas, música, teléfonos, tabletas y publicación digital.
 
 [🔥 COMPRAR el libro Steve Jobs de Walter Isaacson](https://amzn.to/2ZBVNIH "Comprar el libro Steve Jobs de Walter Isaacson"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
