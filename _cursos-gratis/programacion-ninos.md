@@ -19,10 +19,11 @@ img: "/assets/img/paginas-cursos/cursos-ninos.webp"
 ---
 
 ## 👦 Programación Infantil
+- [👦 Programación Infantil](#-programación-infantil)
+  - [**App Inventor**](#app-inventor)
+  - [**Scratch**](#scratch)
 
-[App Inventor](/cursos-tecnologia/#app-inventor){: .btn .btn--inverse .btn--large} [Scratch <i class="fas fa-paw"></i>](/cursos-tecnologia/#scratch-){: .btn .btn--inverse .btn--large}
-
-### App Inventor
+### **App Inventor**
 
 - [Como usar el componente Sound](https://www.udemy.com/como-usar-el-componente-sound-sin-morir-en-el-intento){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Componente Contact Picker](https://www.udemy.com/app-inventor-2-componente-contact-picker){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -41,7 +42,7 @@ img: "/assets/img/paginas-cursos/cursos-ninos.webp"
 
 [⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-### Scratch <i class="fas fa-paw"></i>
+### **Scratch**
 
 - [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
 - [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch){:target="_blank" rel="nofollow,noreferrer"} (Udemy)

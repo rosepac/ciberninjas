@@ -21,9 +21,13 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Metodologías de Desarrollo 💼
+- [**Metodologías de Desarrollo 💼**](#metodologías-de-desarrollo-)
+- [**Integración Continua**](#integración-continua)
+- [**Grunt**](#grunt)
+  - [**Estudiar 💭**](#estudiar-)
+- [**QA Pruebas**](#qa-pruebas)
 
-[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large} [QA Pruebas](/cursos-tecnologia/#QA-Pruebas){: .btn .btn--inverse .btn--large}
+## **Metodologías de Desarrollo 💼**
 
 - [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
@@ -55,19 +59,19 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 - [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-## Integración Continua
+## **Integración Continua**
 
 - [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## Grunt
+## **Grunt**
 
 - [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### Estudiar 💭
+### **Estudiar 💭**
 
 - [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank" rel="nofollow,noreferrer"}
 
-## QA Pruebas
+## **QA Pruebas**
 
 - [Curso de programación para QA](https://jj.github.io/curso-tdd/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [Repositorio de Github](https://jj.github.io/curso-tdd/) (Github)
 

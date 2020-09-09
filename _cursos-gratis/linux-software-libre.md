@@ -18,14 +18,16 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 
 ---
 
-## 🐧 Ecosistema de Software Libre
+- [**Ecosistema de Software Libre 🐧**](#ecosistema-de-software-libre-)
+  - [**Linux**](#linux)
+  - [Ubuntu](#ubuntu)
 
-[Linux <i class="fa fa-linux" aria-hidden="true"></i>](/cursos-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu](/cursos-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
+## **Ecosistema de Software Libre 🐧**
 
 - [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Programación con Qt](https://www.youtube.com/playlist?list=PL54fdmMKYUJvn4dAvziRopztp47tBRNum){:target="_blank" rel="nofollow,noreferrer"} (Duarte Corporation, YouTube)
 
-### Linux <i class="fa fa-linux" aria-hidden="true"></i>
+### **Linux**
 
 - [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/course/shell-interprete-de-comandos-de-linux-aprende-desde-cero/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2020)
 - [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)

@@ -23,8 +23,6 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 
 ## 🤖 Robótica
 
-[Arduino 🔦](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Casas Inteligentes 🏡](/cursos-tecnologia/#casas-inteligentes-){: .btn .btn--inverse .btn--large}  [Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn--inverse .btn--large} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#raspberry-pi){: .btn .btn--inverse .btn--large}
-
 - [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Diseña, fabrica y programa tu propio robot](https://www.edx.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 - [Diseño y fabricación de un robot móvil](https://www.youtube.com/playlist?list=PL9A2AEC3E2F1BD975){:target="_blank" rel="nofollow,noreferrer"} (entivoo, YouTube)
