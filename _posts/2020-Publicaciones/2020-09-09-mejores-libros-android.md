@@ -56,8 +56,8 @@ En la gran mayoría de casos, se requieren conocimientos básicos de Java para a
   - [¿Qué aprenderás con el libro Android profesional, de Reto Meier?](#qué-aprenderás-con-el-libro-android-profesional-de-reto-meier)
 - [9. **Programación en Android de Bill Philips**](#9-programación-en-android-de-bill-philips)
   - [¿Qué aprenderás con el libro Programación en Android de Bill Philips?](#qué-aprenderás-con-el-libro-programación-en-android-de-bill-philips)
-- [10. **Empieza aquí: Desarrollador Android**](#10-empieza-aquí-desarrollador-android)
-  - [¿Qué aprenderás con el libro Empieza aquí: Desarrollador Android?](#qué-aprenderás-con-el-libro-empieza-aquí-desarrollador-android)
+- [10. **Empieza aquí: Desarrolla en Android**](#10-empieza-aquí-desarrolla-en-android)
+  - [¿Qué aprenderás con el libro Empieza aquí: Desarrolla en Android?](#qué-aprenderás-con-el-libro-empieza-aquí-desarrolla-en-android)
 - [11. **Inicio del desarrollo de juegos para Android Unity**](#11-inicio-del-desarrollo-de-juegos-para-android-unity)
   - [¿Qué aprenderás con el libro Inicio del desarrollo de juegos para Android Unity?](#qué-aprenderás-con-el-libro-inicio-del-desarrollo-de-juegos-para-android-unity)
 
@@ -230,7 +230,7 @@ El libro cubre todos los conceptos esenciales de Android desde actividad, hilos,
 
 [🔥 COMPRAR el libro Programación en Android de Bill Philips](https://amzn.to/2FbgTX2 "Comprar el libro Programación en Android de Bill Philips"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 10. **Empieza aquí: Desarrollador Android**
+## 10. **Empieza aquí: Desarrolla en Android**
 
 Este es un libro para principiantes y también para programadores de nivel superior. Debe conocer Java antes de comenzar con este libro. Si ya tiene alguna idea sobre la programación de Android, es posible que sienta que el libro es un poco lento y repetitivo, pero será un gran repaso para todo lo que ya sabe. El tono del autor es divertido e ingenioso, con explicaciones y ejemplos de código fáciles de entender.
 
@@ -241,11 +241,11 @@ Este es un libro para principiantes y también para programadores de nivel super
 - Cubre los fundamentos de manera detallada.
 - Un poco detallado para aquellos que tienen experiencia.
 
-### ¿Qué aprenderás con el libro Empieza aquí: Desarrollador Android?
+### ¿Qué aprenderás con el libro Empieza aquí: Desarrolla en Android?
 
 A programar una aplicación básica en Android, totalmente desde cero.
 
-[🔥 COMPRAR el libro Empieza aquí: Desarrollador Android](https://amzn.to/3i9eI4C "Comprar el libro Empieza aquí: Desarrollador Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Empieza aquí: Desarrolla en Android](https://amzn.to/3i9eI4C "Comprar el libro Empieza aquí: Desarrolla en Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Inicio del desarrollo de juegos para Android Unity**
 
@@ -290,4 +290,4 @@ Se puede iniciar el desarrollo de aplicaciones de Android en Windows, Mac o Linu
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/ "")
+![Los 11 mejores libros de Android y Kotlin 2020](/assets/img/blog/libros-android-kotlin.webp "Los 11 mejores libros de Android y Kotlin 2020")
