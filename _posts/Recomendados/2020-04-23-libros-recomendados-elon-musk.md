@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🥇 ▷ 61 mejores libros recomendados por Elon Musk"
+title: "🥇 ▷ 21 mejores libros recomendados por Elon Musk"
 description: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
 excerpt: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
 date: 2020-04-23 23:33:59
@@ -50,8 +50,12 @@ Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores m�
   - [¿Quién es Frank Herbert?](#quién-es-frank-herbert)
 - [3. **La rebelión de Atlas de Ayn Rand**](#3-la-rebelión-de-atlas-de-ayn-rand)
   - [¿Quién es Alisa Rosenbaum?](#quién-es-alisa-rosenbaum)
+- [4. **Steve Jobs de Walter Isaacson**](#4-steve-jobs-de-walter-isaacson)
+  - [¿Quién es Walter Isaacson?](#quién-es-walter-isaacson)
 - [4. **Vida 3.0 de Max Tegmark**](#4-vida-30-de-max-tegmark)
+  - [¿Quién es Max Tegmark?](#quién-es-max-tegmark)
 - [5. **Nuestra invención final de James Barrat**](#5-nuestra-invención-final-de-james-barrat)
+  - [¿Quién es James Barrat?](#quién-es-james-barrat)
 - [6. **La Fundación de Isaac Asimov**](#6-la-fundación-de-isaac-asimov)
 - [7. **El Señor de los Anillos de JRR Tolkien**](#7-el-señor-de-los-anillos-de-jrr-tolkien)
 - [8. **Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson**](#8-nikola-tesla-el-inventor-de-la-era-eléctrica-por-walter-isaacson)
@@ -164,6 +168,32 @@ El objetivismo ha influido en varios otros movimientos, como el libertarismo, y 
 
 [🔥 COMPRAR el libro La rebelión de Atlas de Ayn Rand](https://amzn.to/2F4oVRM "Comprar el libro La rebelión de Atlas de Ayn Rand"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+## 4. **Steve Jobs de Walter Isaacson**
+
+Del autor de las biografías más vendidas de Benjamin Franklin y Albert Einstein, esta es la biografía exclusiva y más vendida del New York Times del cofundador de Apple, Steve Jobs.
+
+Basado en más de cuarenta entrevistas con Jobs realizadas durante dos años, así como entrevistas con más de cien miembros de la familia, amigos, adversarios, competidores y colegas, Walter Isaacson ha escrito una historia fascinante de la vida de la montaña rusa y de una intensa intensidad personalidad de un emprendedor creativo cuya pasión por la perfección y un impulso feroz revolucionaron seis industrias: computadoras personales, películas animadas, música, teléfonos, tabletas y publicación digital.
+
+[🔥 COMPRAR el libro Steve Jobs de Walter Isaacson](https://amzn.to/2ZBVNIH "Comprar el libro Steve Jobs de Walter Isaacson"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+En un momento en que Estados Unidos busca formas de mantener su ventaja innovadora y cuando las sociedades de todo el mundo intentan construir economías en la era digital, Jobs se erige como el máximo icono de inventiva e imaginación aplicada.
+
+Sabía que la mejor manera de crear valor en el siglo XXI era conectar la creatividad con la tecnología. Creó una empresa donde los saltos de la imaginación se combinaron con notables hazañas de ingeniería. Aunque Jobs cooperó con este libro, no pidió ningún control sobre lo que estaba escrito ni el derecho a leerlo antes de su publicación.
+
+No puso nada fuera de los límites. Alentó a la gente que conocía a hablar con honestidad. Y Jobs habla con franqueza, a veces con brutalidad, sobre las personas con las que trabajó y con las que compitió. Sus amigos, enemigos y colegas brindan una visión sin adornos de las pasiones, el perfeccionismo, las obsesiones, el arte, la maldad y la compulsión por el control que dieron forma a su enfoque de los negocios y los productos innovadores que resultaron.
+
+Impulsado por demonios, Jobs podía llevar a quienes lo rodeaban a la furia y la desesperación. Pero su personalidad y sus productos estaban interrelacionados, tal como solían estarlo el hardware y el software de Apple, como si formaran parte de un sistema integrado.
+
+Su historia es instructiva y cautelosa, llena de lecciones sobre innovación, carácter, liderazgo y valores.
+
+[🔥 COMPRAR el libro Steve Jobs de Walter Isaacson](https://amzn.to/2ZBVNIH "Comprar el libro Steve Jobs de Walter Isaacson"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+### ¿Quién es Walter Isaacson?
+
+Walter Isaacson, director ejecutivo del Instituto Aspen, ha sido presidente de CNN y editor en jefe de la revista "Time".
+
+Walter es el autor de "Steve Jobs"; "Einstein: su vida y su universo"; "Benjamin Franklin: una vida estadounidense"; y "Kissinger: una biografía" y el coautor de "Los sabios: seis amigos y el mundo que hicieron". Vive en Washington, DC.
+
 ## 4. **Vida 3.0 de Max Tegmark**
 
 Si vas a encontrar un tema en común dentro de muchos de los libros de esta lista, es que **Musk está realmente interesado en explorar el futuro de la inteligencia artificial**.
@@ -209,6 +239,14 @@ Ha dicho sobre Vida 3.0..
 </details>
 <br/>
 
+### ¿Quién es Max Tegmark?
+
+Max Tegmark es un profesor del MIT al que le encanta pensar en las grandes preguntas de la vida. Ha escrito dos libros populares,  Our Mathematical Universe: My Quest for the Ultimate Nature of Reality y Life 3.0: Being Human in the Age of Artificial Intelligence, así como más de 200 artículos técnicos nerds sobre temas desde cosmología hasta IA.
+
+Conocido como "Mad Max" por sus ideas poco ortodoxas y su pasión por la aventura, sus intereses científicos van desde la cosmología de precisión hasta la naturaleza última de la realidad, todo explorado en su nuevo y popular libro "Our Mathematical Universe".
+
+Es profesor de física del MIT con más de doscientos artículos técnicos y ha aparecido en decenas de documentales científicos. Su trabajo con la colaboración de SDSS sobre agrupación de galaxias compartió el primer premio en el "Avance del año: 2003" de la revista Science, además es fundador (con Anthony Aguirre) del Foundational Questions Institute.
+
 [🔥 COMPRAR el libro Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc "Comprar el libro Vida 3.0 de Max Tegmark"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Nuestra invención final de James Barrat**
@@ -237,6 +275,28 @@ En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y de
 <p>¿Podemos convivir con seres cuya inteligencia eclipsa la nuestra? ¿Nos lo permitirán?</p>
 </details>
 <br/>
+
+### ¿Quién es James Barrat?
+
+Realizador de documentales y autor de 'Our Final Invention'
+
+Durante unos 20 años he escrito y producido documentales, una de las formas más gratificantes de contar historias jamás inventada. Es un privilegio sumergirse en diferentes culturas y épocas y armar narrativas profundamente humanas que todos puedan disfrutar. Entre mis clientes se incluyen National Geographic, Discovery, PBS y otras emisoras de EE. UU. y Europa. 
+
+Algunas de sus películas favoritas y las series en las que he contribuido aparecen en la página siguiente.
+
+Su larga fascinación por la inteligencia artificial llegó a un punto crítico en 2000, cuando entrevisto al inventor Ray Kurzweil, al creyente de la robótica Rodney Brooks y a la leyenda de la ciencia ficción Arthur C. Clarke.
+
+Kurzweil y Brooks eran casualmente optimistas sobre un futuro que consideraban inevitable: un momento en el que compartiremos el planeta con máquinas inteligentes.
+
+"No será una invasión alienígena de robots que se acerquen a la colina", me dijo Kurzweil, "porque los haremos nosotros". En su complejo de Sri Lanka, Clarke no estaba tan seguro. “Creo que es solo cuestión de tiempo antes de que las máquinas dominen a la humanidad”, dijo. "La inteligencia ganará".
+
+La inteligencia, no el encanto ni la belleza, es el poder especial que permite a los humanos dominar la Tierra. Ese dominio tampoco fue ganado por un gran margen intelectual, sino por uno relativamente pequeño.
+
+No se necesita mucho para llevarlo todo. Ahora, impulsados ​​por un poderoso viento económico, los científicos están desarrollando máquinas inteligentes. Cada año, la inteligencia se acerca más a deshacerse de su bobina biológica y asumir una sintética infinitamente más rápida y poderosa.
+
+Pero antes de que la inteligencia de las máquinas coincida con la nuestra, tenemos una oportunidad. Debemos desarrollar una ciencia para comprender y coexistir con máquinas inteligentes, incluso superinteligentes.
+
+Si fallamos, estaremos atrapados en un dilema imposible de ganar. Tendremos que confiar en la bondad de las máquinas para sobrevivir. ¿Las máquinas nos amarán y protegerán naturalmente?
 
 [🔥 COMPRAR el libro Nuestra invención final](https://amzn.to/2XTdaEG "Comprar el libro Nuestra invención final"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
