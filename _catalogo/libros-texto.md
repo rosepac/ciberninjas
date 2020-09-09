@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "👩‍🏫 Catálogo de Libros Educativos"
+title: "Libros de texto con los que estudiar los ciclos formativos de Formación Profesional sobre Tecnología"
 description: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 excerpt: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 published: true
@@ -19,90 +19,86 @@ permalink: /libros-texto/
 canonical_URL: https://ciberninjas.com/libros-texto/
 ---
 
-## 🕵️‍♂️ Saber Más
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p>
 En este catálogo se pueden encontrar los libros de texto referentes a la educación reglada española; en concreto los dirigidos a los diferentes estudios de los ciclos formativos de formación profesional enfocados a las temáticas de la técnica, la tecnología; la comunicación y las comunicaciones; así como a los cursos existentes de formación básica dentro de los mismos campos.
-</p>
-<p></p>
-</details>
+
+Los ciclos formativos que vas a poder encontrar a continuación, son los relacionados a los ámbitos de:
+
+- Informática y comunicaciones.
+- Artes gráficas.
+- Imagen y sonido.
+- Comercio y marketing.
+
+En cada una de los campos vas a poder encontrar cursos formativos centrados hacía diferentes niveles. Los cursos enfocados hacía las personas que aún no han logrado la ESO, los cursos para las personas que recientemente tienen la Educación Secundaria Obligatoria, y los cursos que te requieren haber realizado con anterioridad alguna de las siguientes formaciones: Bachiller u otro estudio superior o en su defecto, haber terminado con aprovechamiento un ciclo formativo de grado medio del mismo campo de estudio.
+
 <!-- 
-## ¿Qué es la Formación Profesional o los Ciclos Formativos?
-## ¿Qué clases de tipos de cursos de formación tecnológica existen en España?
+ ¿Qué es la Formación Profesional o los Ciclos Formativos?
+ ¿Qué clases de tipos de cursos de formación tecnológica existen en España?
 -->
 
-💡 Contenido Totalmente Funcional Aunque Pueden Existir Contenidos en Construcción 💡
-{: .notice--info}
-
+> 💡 Es posible que puedan existir contenidos en construcción 💡
 <!-- http://todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones.html -->
-## 💻 Informática y Comunicaciones
 
-## 👇 Grado Superior
+- [Informática y Comunicaciones 💻](#informática-y-comunicaciones-)
+- [Ciclos Formativos de Grado Superior](#ciclos-formativos-de-grado-superior)
+- [👉 Administración de Sistemas Informáticos en Red](#-administración-de-sistemas-informáticos-en-red)
+- [👉 Desarrollo de Aplicaciones Multiplataforma](#-desarrollo-de-aplicaciones-multiplataforma)
+- [👉 Desarrollo de Aplicaciones Web](#-desarrollo-de-aplicaciones-web)
+- [**Ciclos Formativos de Grado Medio**](#ciclos-formativos-de-grado-medio)
+  - [👉 Sistemas Microinformáticos y Redes](#-sistemas-microinformáticos-y-redes)
+  - [Formación en centros de trabajo. *](#formación-en-centros-de-trabajo-)
+- [👇 Formación Profesional Básica](#-formación-profesional-básica)
+  - [Informática de Oficina](#informática-de-oficina)
+  - [Informática y Comunicaciones](#informática-y-comunicaciones)
+- [👩‍🎨 Artes Gráficas](#-artes-gráficas)
+- [👇 Grado Superior](#-grado-superior)
+- [👉 Diseño y Edición de Publicaciones Impresas y Multimedia](#-diseño-y-edición-de-publicaciones-impresas-y-multimedia)
+- [👉 Diseño y Gestión de la Producción Gráfica](#-diseño-y-gestión-de-la-producción-gráfica)
+- [👇 Grado Medio](#-grado-medio)
+  - [👉 Impresión Gráfica](#-impresión-gráfica)
+  - [👉 Postimpresión y Acabados Gráficos](#-postimpresión-y-acabados-gráficos)
+  - [👉 Preimpresión Digital](#-preimpresión-digital)
+- [👇 Formación Profesional Básica](#-formación-profesional-básica-1)
+  - [👉 Artes Gráficas](#-artes-gráficas-1)
+- [🎧 Imagen y Sonido](#-imagen-y-sonido)
+- [👇 Grado Superior](#-grado-superior-1)
+- [👇 Grado Medio](#-grado-medio-1)
+  - [👉 Video Disc-Jockey y Sonido](#-video-disc-jockey-y-sonido)
+- [🕴 Comercio y Marketing](#-comercio-y-marketing)
+- [👇 Grado Medio](#-grado-medio-2)
+  - [👉 Actividades Comerciales](#-actividades-comerciales)
+  - [Comercialización de Productos Alimentarios](#comercialización-de-productos-alimentarios)
+- [👇 Formación Profesional Básica](#-formación-profesional-básica-2)
+  - [👉 Servicios Comerciales](#-servicios-comerciales)
+- [📂 Categorías de Libros](#-categorías-de-libros)
+    - [Páginas Compras 🛒](#páginas-compras-)
+
+## Informática y Comunicaciones 💻
+
+## Ciclos Formativos de Grado Superior
 
 ## 👉 Administración de Sistemas Informáticos en Red
 
 ## 👉 Desarrollo de Aplicaciones Multiplataforma
 
+Los módulos son bases de datos, entornos de desarrollo, formación y orientación laboral, lenguajes de marcas y sistemas de gestión de información, programación, sistemas informáticos, acceso a datos, desarrollo de interfaces, empresa e iniciativa emprendedora, inglés técnico, programación de servicios y procesos, sistemas de gestión empresarial, proyecto de desarrollo de aplicaciones multiplataforma y formación en centros de trabajo.
+
 ## 👉 Desarrollo de Aplicaciones Web
 
-## 👇 Grado Medio
+https://ciberninjas.com/recursos-daw/
 
-## 👉 Sistemas Microinformáticos y Redes
+En este enlace vas a poder encontrar todos los libros para estudiar los módulos del FP de desarrollo y creación de aplicacaciones web.
 
-### Montaje y mantenimiento de equipo.
+Los módulos de las que se forma el ciclo son: bases de datos, entornos de desarrollo, formación y orientación laboral, lenguajes de marcas y sistemas de gestión de información, programación, sistemas informáticos, diseño de interfaces web, empresa e iniciativa emprendedora, inglés técnico, desarrollo web en entorno cliente, desarrollo web en entorno cliente, servidores de aplicaciones, arquitécturas web, proyecto de desarrollo de aplicaciones web y formación en centros de trabajo.
 
-[Paraninfo - 2019](https://amzn.to/2AhVN3m) [2014](https://amzn.to/2Nfmtu2) \ [Sintesis - 2019](https://amzn.to/2patj9q) \ [Editex](https://amzn.to/2NdYRGm) \ [Mcgraw Hill](https://amzn.to/2Q7KZ2A) \ [MacMillan](https://amzn.to/2Afqwhr)
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428340811&linkId=255c2fc2d11446a3a024e8ab3d9585f6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428335133&linkId=b2c4167a9bb210837ee1a9956233355d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491712925&linkId=4d5c7cf40c9445c794d5ed4aea5daee9"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719697&linkId=b83271a3036afb94847d09d9ee285a29"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180364&linkId=b041138c03df7ab42bbe5ef7269d288d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415426445&linkId=60a14772548b098f83ef1391cde6f88b"></iframe>
+## **Ciclos Formativos de Grado Medio**
 
-### Sistemas operativos monopuesto.
- 
-[Paraninfo - 2019](https://amzn.to/2Q7fPZf) \ [Sintesis - 2019](https://amzn.to/2AcKXM3) \ [Mcgraw Hill - 2012](https://amzn.to/34LTdAv) \ [MacMillan- 2012](https://amzn.to/2AkuIwc) \ [Editex - 2011](https://amzn.to/2AiPQTC)
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428341397&linkId=f3859c8756248882d96e566f495ef7f3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713778&linkId=3f35f6caa21e7510494f7caf5b11f6d6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180321&linkId=daadf4ab3e0de16a28085511284f0deb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415426453&linkId=a095c9932cfaf7f1e6bb4d4cc75107fa"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719719&linkId=6822685f520352949a7d5f6e102e26a4"></iframe>
+### 👉 Sistemas Microinformáticos y Redes
 
-### Aplicaciones ofimáticas.
+En el siguiente enlace vas a poder encontrar todos los libros necesarios para estudiar los módulos impartidos en el ciclo formativo de formación profesional de grado medio de sistemas microinformátivos y redes.
 
-[Paraninfo -2012](https://amzn.to/2LH2gLL) \ [Mcgraw Hill](https://amzn.to/2LH2pPj) \ [MacMillan](https://amzn.to/2Az7Edz) \ [Editex](https://amzn.to/2AB9VEO)
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497327942&linkId=e3bc76a320ee34e2296626a8f0597c03"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180402&linkId=9ca85bb167aa3120aef1f8ebb040d9a0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416092478&linkId=ba7dd1bee84e43e5846d8f3adb91c0d0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719735&linkId=3fe760bed0828e5e43de828c8afcc44f"></iframe>
+Los módulos que incluye el curso, son los siguientes: aplicaciones ofimáticas, formación y orientación laboral, montaje y mantenimiento de equipo, redes locales, sistemas operativos monopuesto, aplicaciones web, empresa e iniciativa emprendedora, seguridad informática, sistemas operativos en red y servicios en red.
 
-### Sistemas operativos en red.
-
-[Sintesis - 2019](https://amzn.to/2Nu2XKq) \ [MacMillan](https://amzn.to/2LJthOo) \ [Mcgraw Hill](https://amzn.to/2Oeo0jD) \ [Editex](https://amzn.to/2mKBcBt) \ [Paraninfo](https://amzn.to/2p6hEs1)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=849171295X&linkId=ee26c431d09d0d510ef5585f42827c17"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841565670X&linkId=e83e9fe6951f6ca688f541426e9005f7"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448183940&linkId=ba602a971857d470310518e7ee9e9251"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719700&linkId=8e73760c641017f4b143fd35f9a6b110"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497328116&linkId=18efbb89deba6ecaa4e06da8d6b57637"></iframe>
-
-### Redes locales.
-
-[Paraninfo](https://amzn.to/34XMS5c) \ [MacMillan](https://amzn.to/30GQMvX) \ [Mcgraw Hill](https://amzn.to/2AESFPf) \ [Editex](https://amzn.to/30B5dS5)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428335303&linkId=ecb80dc10db6f6b95533226c97989fae"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841542647X&linkId=eca2a8523863f96efe617684fdc3de6d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180828&linkId=af189c2ac17ed1c5c5703dca75dd4f1d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719727&linkId=2d38b36c84adb8561da55b77c9c9cdd0"></iframe>
-
-### Seguridad informática.
-
-[Sintesis](https://amzn.to/2NsDcdE) \ [Heinemann](https://amzn.to/2LHFovx) \ [McGraw Hill](https://amzn.to/2Qn3eks) \ [Paraninfo](https://amzn.to/2AAC66P)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491712933&linkId=309a952f646238bc29d05ea9160e8cdc"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656645&linkId=46e56f7d164e06e2ff8c98b2244b833b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448183967&linkId=37920a56c70fe82a0aa13fcbf5360c6f"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497328124&linkId=aff35a7e2505a6d21b97faaf6fba7d73"></iframe>
-
-### Servicios en red.
-
-[Heinemann](https://amzn.to/2NqNzhX) \ [MacMillan](https://amzn.to/2oyZZZU) \ [McGraw Hill](https://amzn.to/2AADDK7) \ [Ra.Ma](https://amzn.to/2LFMTmA) \ [Paraninfo](https://amzn.to/2QxotR0)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656637&linkId=c6ed6730efcae1231b6b21e848088367"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656637&linkId=087c434d7ed04836a6c5faf5ee5f6595"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448171330&linkId=002615c0ce30b886148257246399d21b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8478979832&linkId=94c6512e29bd16f92ca082e90e7ac165"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497327659&linkId=36f119ba78569c2b1bfa19433888dffa"></iframe>
-
-### Aplicaciones web
-
-[CreateSpace](https://amzn.to/2LKy7LD) \ [Paraninfo](https://amzn.to/2NtnQ8I) \ [McGraw Hill - 2013](https://amzn.to/2NqNJWB) [2010](https://amzn.to/2nK22KJ) \ [RaMa](https://amzn.to/2plvTt8)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1500397458&linkId=d5ed35d5390557b40274ba349e3184a8"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448183924&linkId=5ab4e483b67cba967e107a58a8596d85"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448171357&linkId=80fb2da27c4ab1777dc98b1929106d46"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641679&linkId=1fc271619284c50f4697147f11d68989"></iframe>
-
-### Formación y orientación laboral
-
-[Paraninfo](https://amzn.to/32YUZwB) [2018](https://amzn.to/30EbNHH) \ [Editex. [2018](https://amzn.to/2QnVrDi) [Editex 360º](https://amzn.to/2LJZghM) \ [McGraw Hill](https://amzn.to/2OgTjdC) [2017](https://amzn.to/2LH3PcB) [2014](https://amzn.to/30BVwDa) [McGraw Hill Esencial](https://amzn.to/32SudWs) \ [MacMillan](https://amzn.to/331tIK1) \ [Anaya](https://amzn.to/2NsE5Tw) \ [Santillana](https://amzn.to/30B7LzD) \ [vicens Vivens](https://amzn.to/2Nu3EU2) \ [Bruño](https://amzn.to/30DrLSj)
-
-### Empresa e iniciativa empresarial.
-
-[Paraninfo]() \ [Editex]() \ [Santillana]() \ [Anaya]() \ [Donostiarra]() \ [Vértice]() \ [Sintesis]() \ [Rodio]() \ [IC]()
+[👨‍🎓 Hoja de Ruta de Sistemas Microinformáticos y Redes](https://ciberninjas.com/recursos-smr/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Formación en centros de trabajo. *
 
@@ -190,11 +186,15 @@ CONTENIDOS AÚN PENDIENTES DE CREACIÓN..
 ## 👇 Formación Profesional Básica
 ### 👉 Servicios Comerciales
 
+-----
+
+[Paraninfo]() \ [Editex]() \ [Santillana]() \ [Anaya]() \ [Donostiarra]() \ [Vértice]() \ [Sintesis]() \ [Rodio]() \ [IC]()
+
 ## 📂 Categorías de Libros
 
 <a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#administración-y-redes" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Administración y Redes</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
-## 🛒 Páginas Compras
+#### Páginas Compras 🛒
 
 <a href="/regalos" title="Página del Catálogo de Los Mejores Regalos Perfectos para Geeks o Ninjas de la Programación y la Tecnología" class="btn btn--success btn--large">🎁 Regalos</a>
 
