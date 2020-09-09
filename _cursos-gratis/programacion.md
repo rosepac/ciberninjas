@@ -107,7 +107,7 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 - [Ruby](#ruby)
 - [Ruby Frameworks](#ruby-frameworks)
   - [Ruby and Rails](#ruby-and-rails)
-- [💼 Sistemas de ERP](#-sistemas-de-erp)
+- [Sistemas de ERP](#sistemas-de-erp)
 - [Swift <i class="fab fa-apple"></i>](#swift-i-classfab-fa-applei)
 - [**Cursos de Typescript**](#cursos-de-typescript)
 - [**Typescript**](#typescript)
@@ -596,7 +596,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 - [Introducción a Ruby on Rails y servicios REST](https://plataforma.keepcoding.io/courses/enrolled/123885){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 
-## 💼 Sistemas de ERP
+## Sistemas de ERP
 
 ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 {: .notice--info}
