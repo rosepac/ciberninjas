@@ -220,7 +220,9 @@ Manual de JavaScript
 
 ### Libros de desarrollo web en entorno cliente
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Sintesis](https://amzn.to/3m31Mj6) (2020) \ [Garceta](https://amzn.to/3k16gF0) (2019) \ [Garceta](https://amzn.to/2DNAFHG) (2013) \ [Rama](https://amzn.to/33e54aC) (2012)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491714901&linkId=7406ef4a9027958e906626c8910510a2"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417289402&linkId=364335d3702f98602566182a40005f8b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452640&linkId=02255e77c70d13ffb290659df8ce0533"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641555&linkId=c5dfd616c9a8db6cd3c24a72eb8e3445"></iframe>
 
 ## 12. **Desarrollo web en entorno servidor**
 
@@ -240,7 +242,9 @@ Manual de JavaScript
 
 ### Libros de desarrollo web en entorno servidor
 
-[Garceta]() (2014) \ [Rama]() (2012)
+[Sintesis](https://amzn.to/35gcUmR) (2019) \ [Garceta](https://amzn.to/2FfFcTV) (2014) \ [Rama](https://amzn.to/3m30vIX) (2012)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713492&linkId=a93eab5073e6c1ec346ba8e36f3c9ba6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452926&linkId=e646ab978def43f836b9b954841ee9de"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641563&linkId=857a2b024d0a4d6d7330f53bfc6e958c"></iframe>
 
 ## 14. **Proyecto de desarrollo de aplicaciones web**
 
@@ -250,9 +254,7 @@ Manual de JavaScript
 
 ## 15. **Formación en centros de trabajo**
 
-### Libros de formación en centros de trabajo
 
-[Garceta]() (2014) \ [Rama]() (2012)
 
 ## **Apuntes Completos: FP de Desarrollo de Aplicaciones Web**
 
