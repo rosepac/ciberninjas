@@ -15,7 +15,7 @@ excerpt: >-
   Siempre es bueno mantener tu enfoque de diseño despierto. Los diseñadores encuentran la inspiración en todas partes. Prueba a visitar a diario estos espectaculares blogs.
 canonical_URL: https://ciberninjas.com/blogs-diseno-grafico-ingles/
 permalink: /blogs-diseno-grafico-ingles/
-date: 2020-04-27
+date: 2020-09-09
 last_modified_at: 
 published: true
 
@@ -28,8 +28,10 @@ Siempre se puede trabajar en fomentar más la creatividad y el talento, aunque e
 Los diseñadores encuentran la inspiración por todas partes. Cuando están fuera de casa, en libros y revistas, galerías y exposiciones y, por supuesto, a través de Internet. La siguiente lista puede ahorrarte el camino, hacía el encuentro de nuevos brillantes enfoques de diseño.
 
 Aquí está la lista de los mejores blogs de diseño, a seguir y visitar asiduamente para el 2020.
+<div id="menu"></div>
 
-## Índice <!-- omit in toc -->
+## Índice
+- [Índice](#índice)
 - [1. **Smashing Magazine**](#1-smashing-magazine)
 - [2. **UXbooth**](#2-uxbooth)
 - [**3. UX Magazine{:target="_blank" rel="nofollow,noreferrer"}**](#3-ux-magazinetarget_blank-relnofollownoreferrer)
@@ -41,20 +43,20 @@ Aquí está la lista de los mejores blogs de diseño, a seguir y visitar asiduam
 - [9. **Design Week**](#9-design-week)
 - [10. **Create Adobe**](#10-create-adobe)
 - [11. **99U**](#11-99u)
-- [**12. Creative Review{:target="_blank" rel="nofollow,noreferrer"}**](#12-creative-reviewtarget_blank-relnofollownoreferrer)
-- [**13. Dieline{:target="_blank" rel="nofollow,noreferrer"}**](#13-dielinetarget_blank-relnofollownoreferrer)
-- [**14. InspoFinds{:target="_blank" rel="nofollow,noreferrer"}**](#14-inspofindstarget_blank-relnofollownoreferrer)
-- [**15. MasterPicks{:target="_blank" rel="nofollow,noreferrer"}**](#15-masterpickstarget_blank-relnofollownoreferrer)
-- [**16. Frank Chimero{:target="_blank" rel="nofollow,noreferrer"}**](#16-frank-chimerotarget_blank-relnofollownoreferrer)
-- [**17. Mockplus blog{:target="_blank" rel="nofollow,noreferrer"}**](#17-mockplus-blogtarget_blank-relnofollownoreferrer)
-- [**18. UX Pin Blog{:target="_blank" rel="nofollow,noreferrer"}**](#18-ux-pin-blogtarget_blank-relnofollownoreferrer)
-- [**19. Design Modo UX{:target="_blank" rel="nofollow,noreferrer"}**](#19-design-modo-uxtarget_blank-relnofollownoreferrer)
+- [12. **Creative Review**](#12-creative-review)
+- [13. **Dieline**](#13-dieline)
+- [14. **InspoFinds**](#14-inspofinds)
+- [15. **MasterPicks**](#15-masterpicks)
+- [16. **Frank Chimero**](#16-frank-chimero)
+- [17. **Mockplus Blog**](#17-mockplus-blog)
+- [18. **UX Pin Blog**](#18-ux-pin-blog)
+- [19. **Design Modo UX**](#19-design-modo-ux)
 - [**20. Eye Magazine{:target="_blank" rel="nofollow,noreferrer"}**](#20-eye-magazinetarget_blank-relnofollownoreferrer)
-- [**21. Digital Arts{:target="_blank" rel="nofollow,noreferrer"}**](#21-digital-artstarget_blank-relnofollownoreferrer)
-- [**22. Invision APP{:target="_blank" rel="nofollow,noreferrer"}**](#22-invision-apptarget_blank-relnofollownoreferrer)
-- [**23. Shillington Blog{:target="_blank" rel="nofollow,noreferrer"}**](#23-shillington-blogtarget_blank-relnofollownoreferrer)
-- [**24. Under Consideration: New Brand{:target="_blank" rel="nofollow,noreferrer"}**](#24-under-consideration-new-brandtarget_blank-relnofollownoreferrer)
-- [**25. Art of the Menu{:target="_blank" rel="nofollow,noreferrer"}**](#25-art-of-the-menutarget_blank-relnofollownoreferrer)
+- [21. **Digital Arts**](#21-digital-arts)
+- [22. **Invision APP**](#22-invision-app)
+- [23. **Shillington Blog**](#23-shillington-blog)
+- [24. **Under Consideration: New Brand**](#24-under-consideration-new-brand)
+- [25. **Art of the Menu**](#25-art-of-the-menu)
 - [**26. Print.pm{:target="_blank" rel="nofollow,noreferrer"}**](#26-printpmtarget_blank-relnofollownoreferrer)
 - [**27. For Print Only{:target="_blank" rel="nofollow,noreferrer"}**](#27-for-print-onlytarget_blank-relnofollownoreferrer)
 - [**28. The Dsgn Blog{:target="_blank" rel="nofollow,noreferrer"}**](#28-the-dsgn-blogtarget_blank-relnofollownoreferrer)
@@ -130,7 +132,7 @@ Lo que me atrae de este sitio web es su excelente diseño visual. Los suscriptor
 
 [Web Designer Depot](http://www.webdesignerdepot.com/ "Web Designer Depot"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#Índice){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## 6. **Abduzeedo**
 
@@ -172,95 +174,95 @@ Create es la revista de Adobe para creativos, para creativos, disponible en lín
 
 [99U](https://99u.adobe.com/ "99U"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[12. Creative Review](https://www.creativereview.co.uk/category/cr-blog/){:target="_blank" rel="nofollow,noreferrer"}**
+## 12. **Creative Review**
 
 Fundada en 1980, Creative Review es la revista mensual líder mundial en publicidad, diseño y cultura visual. Y el mismo periodismo de alta calidad que informa lo lleva a su sitio web, que presenta una variedad de noticias, reseñas y características del mundo creativo.
 
-[Creative Review]( "Creative Review"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Creative Review](https://www.creativereview.co.uk/category/cr-blog/ "Creative Review"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[13. Dieline](http://www.thedieline.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 13. **Dieline**
 
 Para cualquiera que trabaje en el diseño de empaques, The Dieline lo tiene todo envuelto. Básicamente es la Biblia del sector: un lugar donde la comunidad puede revisar, criticar y mantenerse informado de las últimas tendencias de la industria, y ver los proyectos de diseño que se están creando en el campo
 
-[Dieline]( "Dieline"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Dieline](http://www.thedieline.com/ "Dieline"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[14. InspoFinds](https://inspofinds.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 14. **InspoFinds**
 
 InspoFinds es un sitio web y un libro de edición limitada que tiene como objetivo promover y celebrar el último trabajo de diseño, los diseñadores emergentes y la comunidad de diseño.
 
-[InspoFinds]( "InspoFinds"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[InspoFinds](https://inspofinds.com/ "InspoFinds"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[15. MasterPicks](http://www.themasterpicks.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 15. **MasterPicks**
 
 ¿Buscas inspiración en proyectos del mundo real? En Masterpicks lo vas a encontrar. Este blog guiado por imágenes le presenta un nuevo proyecto de diseño cuidadosamente seleccionado todos los días, a través de diseño, ilustración, animación, arte 3D, diseño gráfico, marca, diseño industrial y fotografía.
 
-[MasterPicks]( "MasterPicks"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[MasterPicks](http://www.themasterpicks.com/ "MasterPicks"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## **[16. Frank Chimero](https://frankchimero.com/blog/){:target="_blank" rel="nofollow,noreferrer"}**
+## 16. **Frank Chimero**
 
 El veterano diseñador Frank Chimero comparte sus pensamientos regularmente en su blog muy visitado, y vale la pena leerlos. Saltando entre internet, diseño, escritura, música, cine, autodesarrollo y cultura laboral, sus publicaciones están bellamente escritas y siempre son relevantes.
 
-[Frank Chimero]( "Frank Chimero"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Frank Chimero](https://frankchimero.com/blog/ "Frank Chimero"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[17. Mockplus blog](https://www.mockplus.com/blog){:target="_blank" rel="nofollow,noreferrer"}**
+## 17. **Mockplus Blog**
 
 La interfaz de este blog es muy simple y limpia. Todos los artículos tratan los temas de herramientas de diseño, recursos.
 
-[Mockplus Blog]( "Mockplus Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Mockplus Blog](https://www.mockplus.com/blog "Mockplus Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[18. UX Pin Blog](https://www.uxpin.com/studio/){:target="_blank" rel="nofollow,noreferrer"}**
+## 18. **UX Pin Blog**
 
 Artículos útiles sobre cómo crear experiencias de usuario efectivas.
 
-[UX Pin Blog]( "UX Pin Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[UX Pin Blog](https://www.uxpin.com/studio/ "UX Pin Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[19. Design Modo UX](http://designmodo.com/design/ux-design/){:target="_blank" rel="nofollow,noreferrer"}**
+## 19. **Design Modo UX**
 
 Sitio completo que cubre los elementos estéticos, comerciales y psicológicos de UX.
 
-[Design Modo UX]( "Design Modo UX"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Design Modo UX](http://designmodo.com/design/ux-design/ "Design Modo UX"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[20. Eye Magazine](http://www.eyemagazine.com/blog){:target="_blank" rel="nofollow,noreferrer"}**
 
 Eye Magazine, la revista internacional de diseño gráfico, es una revista impresa trimestral sobre diseño gráfico y cultura visual. Este, y su blog asociado, presenta una variedad de escritos críticos e informados sobre diseño y cultura visual.
 
-[Eye Magazine]( "Eye Magazine"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Eye Magazine](http://www.eyemagazine.com/blog "Eye Magazine"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## **[21. Digital Arts](https://www.digitalartsonline.co.uk/){:target="_blank" rel="nofollow,noreferrer"}**
+## 21. **Digital Arts**
 
 Digital Arts es una revista en línea enfocada en el Reino Unido para diseñadores profesionales, con un enfoque en técnicas, mejores prácticas y recursos útiles.
 
-[Digital Arts]( "Digital Arts"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Digital Arts](https://www.digitalartsonline.co.uk/ "Digital Arts"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[22. Invision APP](https://www.invisionapp.com/inside-design){:target="_blank" rel="nofollow,noreferrer"}**
+## 22. **Invision APP**
 
 Invision, una de las principales plataformas de creación de prototipos, colaboración y flujo de trabajo del mundo, tiene un blog propio bastante inspirador, que comparte ideas sobre los usuarios, la experiencia y el diseño. Dale un giro a esto si necesitas consejos sobre mejores procesos de diseño o si te encanta el extraño conjunto de iconos gratis.
 
-[Invision APP]( "Invision APP"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Invision APP](https://www.invisionapp.com/inside-design "Invision APP"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[23. Shillington Blog](https://www.shillingtoneducation.com/blog/){:target="_blank" rel="nofollow,noreferrer"}**
+## 23. **Shillington Blog**
 
 Shillington es una red de universidades que ofrece un enfoque innovador para la educación del diseño basado en cursos cortos e intensivos y aprendizaje práctico centrado en la industria. Y también tiene su propio blog, que presenta una gama de trabajos de diseño inspiradores y artículos interesantes.
 
-[Shillington Blog]( "Shillington Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Shillington Blog](https://www.shillingtoneducation.com/blog/ "Shillington Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[24. Under Consideration: New Brand](https://www.underconsideration.com/brandnew/){:target="_blank" rel="nofollow,noreferrer"}**
+## 24. **Under Consideration: New Brand**
 
 Under Consideration es una firma de diseño gráfico que genera sus propios proyectos, iniciativas y contenido, mientras asume una cantidad limitada de trabajo del cliente. Su nuevo blog es conocido por hacer crónica y proporcionar opiniones sobre el trabajo de identidad corporativa y de marca. Está editado y escrito por Armin Vit.
 
-[Under Consideration: New Brand]( "Under Consideration: New Brand"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Under Consideration, New Brand](https://www.underconsideration.com/brandnew/ "Under Consideration, New Brand"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[25. Art of the Menu](https://www.underconsideration.com/artofthemenu/){:target="_blank" rel="nofollow,noreferrer"}**
+## 25. **Art of the Menu**
 
 Otro gran blog de Under Consideration, Art of the Menu cataloga la creatividad subestimada de los menús de todo el mundo. Dan la bienvenida y alientan sugerencias y presentaciones, y los lectores son libres de comentar tanto el menú como el restaurante, si lo han visitado.
 
-[Art of the Menu]( "Art of the Menu"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Art of the Menu](https://www.underconsideration.com/artofthemenu/ "Art of the Menu"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
