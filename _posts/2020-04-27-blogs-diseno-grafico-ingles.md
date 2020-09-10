@@ -8,7 +8,7 @@ tags:
 - Blogs
 thumbnail: /assets/img/blog/abril-inspiracion-paginas-web.webp
 feature-img: /assets/img/blog/abril-inspiracion-paginas-web.webp
-title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 2020'
+title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 20 (en inglés)'
 description: >-
   Siempre es bueno mantener tu enfoque de diseño despierto. Los diseñadores encuentran la inspiración en todas partes. Prueba a visitar a diario estos espectaculares blogs.
 excerpt: >-
@@ -29,73 +29,172 @@ Los diseñadores encuentran la inspiración por todas partes. Cuando están fuer
 
 Aquí está la lista de los mejores blogs de diseño, a seguir y visitar asiduamente para el 2020.
 
+## Índice <!-- omit in toc -->
+- [1. **Smashing Magazine**](#1-smashing-magazine)
+- [2. **UXbooth**](#2-uxbooth)
+- [**3. UX Magazine{:target="_blank" rel="nofollow,noreferrer"}**](#3-ux-magazinetarget_blank-relnofollownoreferrer)
+- [4. **Design Modo**](#4-design-modo)
+- [5. **Web Designer Depot**](#5-web-designer-depot)
+- [6. **Abduzeedo**](#6-abduzeedo)
+- [7. **Mirador**](#7-mirador)
+- [8. **Dropbox Design**](#8-dropbox-design)
+- [9. **Design Week**](#9-design-week)
+- [10. **Create Adobe**](#10-create-adobe)
+- [11. **99U**](#11-99u)
+- [**12. Creative Review{:target="_blank" rel="nofollow,noreferrer"}**](#12-creative-reviewtarget_blank-relnofollownoreferrer)
+- [**13. Dieline{:target="_blank" rel="nofollow,noreferrer"}**](#13-dielinetarget_blank-relnofollownoreferrer)
+- [**14. InspoFinds{:target="_blank" rel="nofollow,noreferrer"}**](#14-inspofindstarget_blank-relnofollownoreferrer)
+- [**15. MasterPicks{:target="_blank" rel="nofollow,noreferrer"}**](#15-masterpickstarget_blank-relnofollownoreferrer)
+- [**16. Frank Chimero{:target="_blank" rel="nofollow,noreferrer"}**](#16-frank-chimerotarget_blank-relnofollownoreferrer)
+- [**17. Mockplus blog{:target="_blank" rel="nofollow,noreferrer"}**](#17-mockplus-blogtarget_blank-relnofollownoreferrer)
+- [**18. UX Pin Blog{:target="_blank" rel="nofollow,noreferrer"}**](#18-ux-pin-blogtarget_blank-relnofollownoreferrer)
+- [**19. Design Modo UX{:target="_blank" rel="nofollow,noreferrer"}**](#19-design-modo-uxtarget_blank-relnofollownoreferrer)
+- [**20. Eye Magazine{:target="_blank" rel="nofollow,noreferrer"}**](#20-eye-magazinetarget_blank-relnofollownoreferrer)
+- [**21. Digital Arts{:target="_blank" rel="nofollow,noreferrer"}**](#21-digital-artstarget_blank-relnofollownoreferrer)
+- [**22. Invision APP{:target="_blank" rel="nofollow,noreferrer"}**](#22-invision-apptarget_blank-relnofollownoreferrer)
+- [**23. Shillington Blog{:target="_blank" rel="nofollow,noreferrer"}**](#23-shillington-blogtarget_blank-relnofollownoreferrer)
+- [**24. Under Consideration: New Brand{:target="_blank" rel="nofollow,noreferrer"}**](#24-under-consideration-new-brandtarget_blank-relnofollownoreferrer)
+- [**25. Art of the Menu{:target="_blank" rel="nofollow,noreferrer"}**](#25-art-of-the-menutarget_blank-relnofollownoreferrer)
+- [**26. Print.pm{:target="_blank" rel="nofollow,noreferrer"}**](#26-printpmtarget_blank-relnofollownoreferrer)
+- [**27. For Print Only{:target="_blank" rel="nofollow,noreferrer"}**](#27-for-print-onlytarget_blank-relnofollownoreferrer)
+- [**28. The Dsgn Blog{:target="_blank" rel="nofollow,noreferrer"}**](#28-the-dsgn-blogtarget_blank-relnofollownoreferrer)
+- [**29. BP&O{:target="_blank" rel="nofollow,noreferrer"}**](#29-bpotarget_blank-relnofollownoreferrer)
+- [**30. Design Clever{:target="_blank" rel="nofollow,noreferrer"}**](#30-design-clevertarget_blank-relnofollownoreferrer)
+- [**31. Grain Edit{:target="_blank" rel="nofollow,noreferrer"}**](#31-grain-edittarget_blank-relnofollownoreferrer)
+- [**32. Fonts in Use{:target="_blank" rel="nofollow,noreferrer"}**](#32-fonts-in-usetarget_blank-relnofollownoreferrer)
+- [**33. Design Made in Japan{:target="_blank" rel="nofollow,noreferrer"}**](#33-design-made-in-japantarget_blank-relnofollownoreferrer)
+- [**34. Wix{:target="_blank" rel="nofollow,noreferrer"}**](#34-wixtarget_blank-relnofollownoreferrer)
+- [**35. Dribbble{:target="_blank" rel="nofollow,noreferrer"}**](#35-dribbbletarget_blank-relnofollownoreferrer)
+- [**36. Mindsparkle{:target="_blank" rel="nofollow,noreferrer"}**](#36-mindsparkletarget_blank-relnofollownoreferrer)
+- [**37. Typeroom{:target="_blank" rel="nofollow,noreferrer"}**](#37-typeroomtarget_blank-relnofollownoreferrer)
+- [**38. Its Nice That{:target="_blank" rel="nofollow,noreferrer"}**](#38-its-nice-thattarget_blank-relnofollownoreferrer)
+- [**39. Designer News{:target="_blank" rel="nofollow,noreferrer"}**](#39-designer-newstarget_blank-relnofollownoreferrer)
+- [**40. Httpster{:target="_blank" rel="nofollow,noreferrer"}**](#40-httpstertarget_blank-relnofollownoreferrer)
+- [**41. Site Inspire{:target="_blank" rel="nofollow,noreferrer"}**](#41-site-inspiretarget_blank-relnofollownoreferrer)
+- [**42. Logo Design Love{:target="_blank" rel="nofollow,noreferrer"}**](#42-logo-design-lovetarget_blank-relnofollownoreferrer)
+- [**43. The Inspiration Grid{:target="_blank" rel="nofollow,noreferrer"}**](#43-the-inspiration-gridtarget_blank-relnofollownoreferrer)
+- [**44. Visuelle{:target="_blank" rel="nofollow,noreferrer"}**](#44-visuelletarget_blank-relnofollownoreferrer)
+- [**45. Creative Boom{:target="_blank" rel="nofollow,noreferrer"}**](#45-creative-boomtarget_blank-relnofollownoreferrer)
+- [**46. AIGA{:target="_blank" rel="nofollow,noreferrer"}**](#46-aigatarget_blank-relnofollownoreferrer)
+- [**47. Visual Journal{:target="_blank" rel="nofollow,noreferrer"}**](#47-visual-journaltarget_blank-relnofollownoreferrer)
+- [**48. WebFlow{:target="_blank" rel="nofollow,noreferrer"}**](#48-webflowtarget_blank-relnofollownoreferrer)
+- [**49. Ambalaj{:target="_blank" rel="nofollow,noreferrer"}**](#49-ambalajtarget_blank-relnofollownoreferrer)
+- [**50. 8 Faces{:target="_blank" rel="nofollow,noreferrer"}**](#50-8-facestarget_blank-relnofollownoreferrer)
+- [**51. Swiss Miss{:target="_blank" rel="nofollow,noreferrer"}**](#51-swiss-misstarget_blank-relnofollownoreferrer)
+- [**52. Wrap Magazine{:target="_blank" rel="nofollow,noreferrer"}**](#52-wrap-magazinetarget_blank-relnofollownoreferrer)
+- [**53. Design Taxi{:target="_blank" rel="nofollow,noreferrer"}**](#53-design-taxitarget_blank-relnofollownoreferrer)
+- [**54. SideBar{:target="_blank" rel="nofollow,noreferrer"}**](#54-sidebartarget_blank-relnofollownoreferrer)
+- [**55. Readdd{:target="_blank" rel="nofollow,noreferrer"}**](#55-readddtarget_blank-relnofollownoreferrer)
+- [**56. Blog de Van Schneider{:target="_blank" rel="nofollow,noreferrer"}**](#56-blog-de-van-schneidertarget_blank-relnofollownoreferrer)
+- [**57. Underpinned{:target="_blank" rel="nofollow,noreferrer"}**](#57-underpinnedtarget_blank-relnofollownoreferrer)
+- [**58. Identity Designed{:target="_blank" rel="nofollow,noreferrer"}**](#58-identity-designedtarget_blank-relnofollownoreferrer)
+- [**59. UX Collective{:target="_blank" rel="nofollow,noreferrer"}**](#59-ux-collectivetarget_blank-relnofollownoreferrer)
+- [**60. This is Paper{:target="_blank" rel="nofollow,noreferrer"}**](#60-this-is-papertarget_blank-relnofollownoreferrer)
+- [**61. GoodDesignMakesMeHappy{:target="_blank" rel="nofollow,noreferrer"}**](#61-gooddesignmakesmehappytarget_blank-relnofollownoreferrer)
+- [**62. Aisleone{:target="_blank" rel="nofollow,noreferrer"}**](#62-aisleonetarget_blank-relnofollownoreferrer)
+- [**63. The Book Design Blog{:target="_blank" rel="nofollow,noreferrer"}**](#63-the-book-design-blogtarget_blank-relnofollownoreferrer)
+- [**64. Inspire UX{:target="_blank" rel="nofollow,noreferrer"}**](#64-inspire-uxtarget_blank-relnofollownoreferrer)
+- [**65. Johnny Holland{:target="_blank" rel="nofollow,noreferrer"}**](#65-johnny-hollandtarget_blank-relnofollownoreferrer)
+- [**66. Webcredible{:target="_blank" rel="nofollow,noreferrer"}**](#66-webcredibletarget_blank-relnofollownoreferrer)
+  - [**Relacionados**](#relacionados)
+
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[1. Smashing Magazine](https://www.smashingmagazine.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 1. **Smashing Magazine**
 
 Un sitio web completo que proporciona artículos de alta calidad con el emplea del UX sobre el diseño, la codificación, los dispositivos móviles y Wordpress, etc.
 
-## **[2. UXbooth](http://www.uxbooth.com/){:target="_blank" rel="nofollow,noreferrer"}**
+[Smashing Magazine sitio de diseño gráfico que proporciona artículos sobre diseño UX de altísima calidad](https://www.smashingmagazine.com/ "Smashing Magazine, sitio de diseño gráfico que proporciona artículos sobre diseño UX de altísima calidad"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 2. **UXbooth**
 
 Un sitio web profesional de UX. La diferencia entre este y Smashing Magazine es que Uxbooth se enfoca más en el aspecto del diseño de la experiencia del usuario.
 
-## **[3. UX Magazine](https://uxmag.com/){:target="_blank" rel="nofollow,noreferrer"}**
+[UXBooth blog centrado principalmente en la experiencia del usuario](http://www.uxbooth.com/ "UXBooth blog centrado principalmente en la experiencia del usuario"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-Los artículos son cortos y contundentes con un caso de diseño popular para explicar el conocimiento teórico, y la inferencia en los artículos es muy convincente.
+## **[3. UX Magazine](){:target="_blank" rel="nofollow,noreferrer"}**
 
-## **[4. Design Modo](http://designmodo.com/){:target="_blank" rel="nofollow,noreferrer"}**
+Los artículos son cortos y contundentes con casos de diseño popular para explicar el conocimiento teórico, y la inferencia en los artículos es muy convincente.
+
+[UX Magazine conocimientos teóricos de UX](https://uxmag.com/ "UX Magazine conocimientos teóricos de UX"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 4. **Design Modo**
 
 Puede encontrar muchos artículos excelentes en la categoría de "Diseño", incluido el diseño de experiencia de usuario, diseño receptivo, diseño de sitios web y diseño de aplicaciones.
 
-## **[5. Web Designer Depot](http://www.webdesignerdepot.com/){:target="_blank" rel="nofollow,noreferrer"}**
+[Design Modo ofrece todo el diseño web](http://designmodo.com/ "Design Modo ofrece todo el diseño web"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 5. **Web Designer Depot**
 
 Lo que me atrae de este sitio web es su excelente diseño visual. Los suscriptores pueden recibir la información ultramoderna sobre el diseño visual que merece la atención sostenida de los diseñadores visuales.
 
+[Web Designer Depot](http://www.webdesignerdepot.com/ "Web Designer Depot"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## **[6. Abduzeedo](https://abduzeedo.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 6. **Abduzeedo**
 
 Abduzeedo es un colectivo de escritores individuales que comparten artículos sobre arquitectura, diseño, fotografía y UX. Fundado por el diseñador brasileño Fabio Sasso en 2006, es particularmente fuerte en el trabajo en 3D, que es algo que no recibe mucha atención de la mayoría de los blogs de diseño.
 
-## **[7. Mirador](http://www.thisismirador.com/){:target="_blank" rel="nofollow,noreferrer"}**
+[Abduzeedo](https://abduzeedo.com/ "Abduzeedo"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-Mira What es presentado por Say What Studio , un dúo de diseño gráfico con sede en París. Ellos seleccionan los trabajos más inspiradores y los comparten a través de esta colección de proyectos.
+## 7. **Mirador**
 
-## **[8. Dropbox Design](https://dropbox.design/){:target="_blank" rel="nofollow,noreferrer"}**
+Mira What es presentado por Say What Studio, un dúo de diseño gráfico con sede en París. Ellos seleccionan los trabajos más inspiradores y los comparten a través de esta colección de proyectos.
+
+[Mirador](http://www.thisismirador.com/ "Mirador"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 8. **Dropbox Design**
 
 La mayoría de nosotros hemos usado el servicio de intercambio de archivos Dropbox en algún momento de nuestras vidas, pero ¿sabías que también tiene un blog? Es excelente, con una variedad de artículos sobre el tema de UX, con temas que incluyen investigación de usuarios, gestión de proyectos y herramientas de diseño.
 
+[Dropbox Design](https://dropbox.design/ "Dropbox Design"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[9. Design week](https://www.designweek.co.uk/){:target="_blank" rel="nofollow,noreferrer"}**
+## 9. **Design Week**
 
 Fundada en 1986, Design Week fue la revista de diseño líder del Reino Unido hasta 2011, cuando se convirtió solo en línea. Continúa brindándole noticias e inspiración bien escritas y de alta calidad en gráficos, marcas, interiores, digital, productos, muebles y más.
 
-## **[10. Create Adobe](https://create.adobe.com/graphic-design.html){:target="_blank" rel="nofollow,noreferrer"}**
+[Design Week](https://www.designweek.co.uk/ "Design Week"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 10. **Create Adobe**
 
 Create es la revista de Adobe para creativos, para creativos, disponible en línea y como aplicación móvil. Visítelos para obtener inspiración y tutoriales sobre fotografía, ilustración, diseño gráfico, diseño web, motion graphics, audio / video, branding y más.
 
+[Create Adobe](https://create.adobe.com/graphic-design.html "Create Adobe"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## **[11. 99U](https://99u.adobe.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 11. **99U**
 
 99U es un blog de Adobe destinado a ayudar a cualquier persona en una profesión creativa a desarrollar sus carreras. Está repleto de artículos de calidad sobre liderazgo, productividad y marketing, que cubren temas como cómo superar su miedo al fracaso y cómo desarrollar buenos hábitos de trabajo.
+
+[99U](https://99u.adobe.com/ "99U"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[12. Creative Review](https://www.creativereview.co.uk/category/cr-blog/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Fundada en 1980, Creative Review es la revista mensual líder mundial en publicidad, diseño y cultura visual. Y el mismo periodismo de alta calidad que informa lo lleva a su sitio web, que presenta una variedad de noticias, reseñas y características del mundo creativo.
 
+[Creative Review]( "Creative Review"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[13. Dieline](http://www.thedieline.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Para cualquiera que trabaje en el diseño de empaques, The Dieline lo tiene todo envuelto. Básicamente es la Biblia del sector: un lugar donde la comunidad puede revisar, criticar y mantenerse informado de las últimas tendencias de la industria, y ver los proyectos de diseño que se están creando en el campo
+
+[Dieline]( "Dieline"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[14. InspoFinds](https://inspofinds.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 InspoFinds es un sitio web y un libro de edición limitada que tiene como objetivo promover y celebrar el último trabajo de diseño, los diseñadores emergentes y la comunidad de diseño.
 
+[InspoFinds]( "InspoFinds"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[15. MasterPicks](http://www.themasterpicks.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ¿Buscas inspiración en proyectos del mundo real? En Masterpicks lo vas a encontrar. Este blog guiado por imágenes le presenta un nuevo proyecto de diseño cuidadosamente seleccionado todos los días, a través de diseño, ilustración, animación, arte 3D, diseño gráfico, marca, diseño industrial y fotografía.
+
+[MasterPicks]( "MasterPicks"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -103,23 +202,33 @@ InspoFinds es un sitio web y un libro de edición limitada que tiene como objeti
 
 El veterano diseñador Frank Chimero comparte sus pensamientos regularmente en su blog muy visitado, y vale la pena leerlos. Saltando entre internet, diseño, escritura, música, cine, autodesarrollo y cultura laboral, sus publicaciones están bellamente escritas y siempre son relevantes.
 
+[Frank Chimero]( "Frank Chimero"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[17. Mockplus blog](https://www.mockplus.com/blog){:target="_blank" rel="nofollow,noreferrer"}**
 
 La interfaz de este blog es muy simple y limpia. Todos los artículos tratan los temas de herramientas de diseño, recursos.
 
-## **[18. UXPin Blog](https://www.uxpin.com/studio/){:target="_blank" rel="nofollow,noreferrer"}**
+[Mockplus Blog]( "Mockplus Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## **[18. UX Pin Blog](https://www.uxpin.com/studio/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Artículos útiles sobre cómo crear experiencias de usuario efectivas.
 
+[UX Pin Blog]( "UX Pin Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[19. DesignModo UX](http://designmodo.com/design/ux-design/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[19. Design Modo UX](http://designmodo.com/design/ux-design/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Sitio completo que cubre los elementos estéticos, comerciales y psicológicos de UX.
+
+[Design Modo UX]( "Design Modo UX"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[20. Eye Magazine](http://www.eyemagazine.com/blog){:target="_blank" rel="nofollow,noreferrer"}**
 
 Eye Magazine, la revista internacional de diseño gráfico, es una revista impresa trimestral sobre diseño gráfico y cultura visual. Este, y su blog asociado, presenta una variedad de escritos críticos e informados sobre diseño y cultura visual.
+
+[Eye Magazine]( "Eye Magazine"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -127,21 +236,31 @@ Eye Magazine, la revista internacional de diseño gráfico, es una revista impre
 
 Digital Arts es una revista en línea enfocada en el Reino Unido para diseñadores profesionales, con un enfoque en técnicas, mejores prácticas y recursos útiles.
 
+[Digital Arts]( "Digital Arts"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[22. Invision APP](https://www.invisionapp.com/inside-design){:target="_blank" rel="nofollow,noreferrer"}**
 
 Invision, una de las principales plataformas de creación de prototipos, colaboración y flujo de trabajo del mundo, tiene un blog propio bastante inspirador, que comparte ideas sobre los usuarios, la experiencia y el diseño. Dale un giro a esto si necesitas consejos sobre mejores procesos de diseño o si te encanta el extraño conjunto de iconos gratis.
+
+[Invision APP]( "Invision APP"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[23. Shillington Blog](https://www.shillingtoneducation.com/blog/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Shillington es una red de universidades que ofrece un enfoque innovador para la educación del diseño basado en cursos cortos e intensivos y aprendizaje práctico centrado en la industria. Y también tiene su propio blog, que presenta una gama de trabajos de diseño inspiradores y artículos interesantes.
 
+[Shillington Blog]( "Shillington Blog"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[24. Under Consideration: New Brand](https://www.underconsideration.com/brandnew/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Under Consideration es una firma de diseño gráfico que genera sus propios proyectos, iniciativas y contenido, mientras asume una cantidad limitada de trabajo del cliente. Su nuevo blog es conocido por hacer crónica y proporcionar opiniones sobre el trabajo de identidad corporativa y de marca. Está editado y escrito por Armin Vit.
 
+[Under Consideration: New Brand]( "Under Consideration: New Brand"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[25. Art of the Menu](https://www.underconsideration.com/artofthemenu/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Otro gran blog de Under Consideration, Art of the Menu cataloga la creatividad subestimada de los menús de todo el mundo. Dan la bienvenida y alientan sugerencias y presentaciones, y los lectores son libres de comentar tanto el menú como el restaurante, si lo han visitado.
+
+[Art of the Menu]( "Art of the Menu"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -149,13 +268,19 @@ Otro gran blog de Under Consideration, Art of the Menu cataloga la creatividad s
 
 El blog es la creación del director de arte parisino Martin Joubert, PRINT.PM. Inspiración diaria para los amantes de la impresión. proporciona una explosión diaria de inspiración para los amantes del diseño editorial impreso, principalmente en torno a libros y revistas artísticos.
 
+[Print.pm]( "Print.pm"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[27. For Print Only](http://www.underconsideration.com/fpo/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Un blog más de Under Consideration que vale la pena mencionar. For Print Only celebra la realidad de que la impresión no está muerta, al mostrar los últimos y mejores proyectos impresos. No solo el trabajo es superlativo, sino que los escritores profundizan en las malas hierbas, revelando muchos detalles encantadores sobre el diseño y los métodos de producción de impresión.
 
+[For Print Only]( "For Print Only"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[28. The Dsgn Blog](https://thedsgnblog.com/tagged/graphic-design){:target="_blank" rel="nofollow,noreferrer"}**
 
 El Blog de diseño tiene que ver con la inspiración visual. Fundada, diseñada y comisariada por Ena Baćanović, un diseñador con sede en Zagreb, Croacia, presenta el trabajo de diseñadores y estudios de diseño de todo el mundo, centrándose principalmente en jóvenes diseñadores y estudiantes.
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -163,9 +288,13 @@ El Blog de diseño tiene que ver con la inspiración visual. Fundada, diseñada 
 
 BP&O significa Branding, Packaging y Opinion, y cumple con todas estas cosas, con una combinación de imágenes inspiradoras y análisis en profundidad. Es el hijo del cerebro de Richard Baird, un diseñador y escritor independiente británico que se especializa en identidades de marca y empaques.
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[30. Design Clever](https://www.designclever.co.uk/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Design Clever es una colaboración iniciada por Jonathan Ring y Bethany Baker, dos aspirantes a diseñadores gráficos apasionados por todo lo relacionado con el diseño. Este blog fue creado para mostrar diseñadores talentosos en todo el mundo, y alientan a los creativos de todas partes a enviar su trabajo.
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -173,21 +302,31 @@ Design Clever es una colaboración iniciada por Jonathan Ring y Bethany Baker, d
 
 Grain Edit se centra en el trabajo de diseño clásico de la década de 1950 a la década de 1970, así como en diseñadores contemporáneos que se inspiran en esa época. Cuenta con entrevistas, artículos, bibliotecas de diseñadores, publicaciones anuales de diseños raros, especímenes tipo, Ephemera, carteles y libros antiguos para niños. Con sede en California, está dirigido por Dave Cuzner, Ethan Davis y Grace Danico.
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[32. Fonts in Use](https://fontsinuse.com/blog){:target="_blank" rel="nofollow,noreferrer"}**
 
 Fonts In Use es un archivo público de tipografía indexado por tipo de letra, formato e industria. Un proyecto independiente dirigido por Sam Berlow, Stephen Coles y Nick Sherman, documenta y examina el diseño gráfico con el objetivo de mejorar la alfabetización y la apreciación tipográfica.
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[33. Design Made in Japan](http://designmadeinjapan.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 La cultura japonesa está teniendo una gran influencia global en este momento, y Design Made In Japan es el lugar perfecto para mantenerse actualizado con su producción de diseño. Hay una gran cantidad de diseños editoriales, de productos y empaques en exhibición e incluso una bolsa de trabajo de diseño para aquellos que desean trabajar en Japón.
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[34. Wix](https://www.wix.com/blog/creative){:target="_blank" rel="nofollow,noreferrer"}**
 
 Wix es una plataforma basada en la nube para crear su propio sitio web, y su blog ofrece inspiración, consejos y recursos para creativos en todas partes. Incluye guías profesionales paso a paso para guiarlo a través de todo, desde la teoría del color hasta la creación de una tabla de humor.
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[35. Dribbble](https://dribbble.com/stories){:target="_blank" rel="nofollow,noreferrer"}**
 
 Permitiendo que los creativos compartan su trabajo mucho antes de que se soñara Instagram, Dribbble es una institución de la industria del diseño. Su blog relacionado está repleto de consejos útiles para impulsar su carrera, como cómo formar buenos hábitos y cómo salir de un mal ciclo de retroalimentación de diseño.
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
