@@ -11,11 +11,9 @@ tags:
 - SEO
 - Videotutorial SEO y Posicionamiento
 - Romuald Fons
+canonical_URL: https://ciberninjas.com/seo-facil-romuald-fons/
+permalink: /seo-facil-romuald-fons/
 ---
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
-</div><br/>
 
 ## Índice
 
@@ -36,3 +34,7 @@ tags:
 - Aprender cómo ganar dinero con Amazon afiliados en 4 días en 2019
 - ¿Quieres aparecer Primero en Google con tu blog? Haz esto!
 - Cómo instalar un certificado SSL y activar HTTPS en Wordpress Gratis
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW" allowfullscreen></iframe>
+</div><br/>

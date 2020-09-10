@@ -11,11 +11,9 @@ tags:
 - SEO Avanzado
 - Videotutorial SEO y Posicionamiento
 - Romuald Fons
+canonical_URL: https://ciberninjas.com/seo-avanzado-hardcore-romuald-fons/
+permalink: /seo-avanzado-hardcore-romuald-fons/
 ---
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
-</div><br/>
 
 ## Índice
 
@@ -29,3 +27,7 @@ tags:
 - Enlaces EDU, GOV y medios con y sin fuerza
 - ¿Las notas de prensa penalizan?
 - ¿Cuál es el mejor enlace?
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PL6heMTo6Ni5cYkAL_JmICryjGtFQJsT-f" allowfullscreen></iframe>
+</div><br/>

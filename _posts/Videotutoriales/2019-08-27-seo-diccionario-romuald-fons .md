@@ -9,14 +9,11 @@ comments: false
 date: 2019-08-27 15:36:12
 tags:
 - SEO
-categories:
 - Videotutorial SEO y Posicionamiento
 - Romuald Fons
+canonical_URL: https://ciberninjas.com/seo-diccionario-facil-romuald-fons/
+permalink: /seo-diccionario-facil-romuald-fons/
 ---
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
-</div><br/>
 
 ## Índice
 
@@ -58,3 +55,7 @@ categories:
 - ¿Qué son las Meta Keywords?
 - ¿Qué es un TSA?
 - ¿Qué es un Enlace de Afiliado?
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL6heMTo6Ni5fQaUBZhK1Zpj5fnHtbVN9A" allowfullscreen></iframe>
+</div><br/>

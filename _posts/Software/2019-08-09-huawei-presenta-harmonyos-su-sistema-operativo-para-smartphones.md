@@ -12,19 +12,11 @@ toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
 toc_sticky: true
+permalink: /huawei-presenta-harmonyos-su-sistema-operativo/
+canonical_URL: https://ciberninjas.com/huawei-presenta-harmonyos-su-sistema-operativo/
 ---
 
-> Huawei presenta, HarmonyOS, un nuevo sistema operativo para sus Smartphones
-
-Desde el siguiente Twitter:
-
-<twitter-widget class="twitter-tweet twitter-tweet-rendered" id="twitter-widget-0" style="position: static; visibility: visible; display: block; transform: rotate(0deg); max-width: 100%; width: 500px; min-width: 220px; margin-top: 10px; margin-bottom: 10px;" data-tweet-id="1159720783855460352"></twitter-widget>
-
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-> C&oacute;mo vamos a construir un ecosistema inteligente y experiencia para todo escenario? &iquest;C&oacute;mo superaremos los desafíos del sistema operativo futuro para las cosas conectadas? Estate atento a nosotros para averiguarlo.
-
-<figure><a class="image-popup" href="/assets/img/harmony-os.jpg"><img src="/assets/img/harmony-os.jpg" /></a><figcaption>Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas</figcaption></figure>
+Huawei presenta, HarmonyOS, un nuevo sistema operativo para sus Smartphones. C&oacute;mo vamos a construir un ecosistema inteligente y experiencia para todo escenario? &iquest;C&oacute;mo superaremos los desafíos del sistema operativo futuro para las cosas conectadas? Estate atento a nosotros para averiguarlo.
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -56,3 +48,5 @@ El primer compilador est&aacute;tico de Huawei, ARK Compiler, admitir&aacute; la
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [📰 Ver la Noticia Completa](https://twitter.com/HuaweiMobile/status/1159720783855460352){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+<figure><a class="image-popup" href="/assets/img/harmony-os.jpg"><img src="/assets/img/harmony-os.jpg" /></a><figcaption>Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas</figcaption></figure>

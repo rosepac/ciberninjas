@@ -93,6 +93,7 @@ Junto con la simplicidad de la tienda de aplicaciones, es encomiable lo que el e
 ## **2. Mint**
 
 ![Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad](/assets/img/blog/mint-cinamon.webp "Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad")
+
 > **Fuente**: [Linux Mint Blog](https://www.linuxmint.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 Durante años **Linux Mint** ha sido la distribución número uno entre los usuarios de Distrowatch. Un lugar bien merecido, puesto que sin lugar a dudas: **Linux Mint es la versión de Linux más parecida a Windows que existe** (Windows 7). Lo que favorece de forma brutal, el aprendizaje de su manejo.

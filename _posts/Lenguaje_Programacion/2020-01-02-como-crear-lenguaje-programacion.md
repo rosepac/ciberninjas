@@ -8,15 +8,12 @@ published: true
 comments: false
 date: 2020-01-02 17:35:12
 last_modified_at: 2020-01-02 17:45:12
-canonical_URL: /manual-crear-lenguaje-programacion/
+canonical_URL: https://ciberninjas.com/manual-crear-lenguaje-programacion/
+permalink: /manual-crear-lenguaje-programacion/
 thumbnail: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 tags:
   - Reflexión de Programación
-toc: false
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 ## Manual para hacer lenguajes de programación
@@ -29,7 +26,4 @@ Puedes leer todo el libro, gratis, en línea.. Si esta publicando un capítulo c
 
 [👉 Leer Libro 😺](http://craftinginterpreters.com/contents.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-_____
-
-**Fuentes**:
-* [Crafting Intérpretes](http://craftinginterpreters.com/){:target="_blank" rel="nofollow,noreferrer"}
+> **Fuentes**: [Crafting Intérpretes](http://craftinginterpreters.com/){:target="_blank" rel="nofollow,noreferrer"}

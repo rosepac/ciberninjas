@@ -9,7 +9,8 @@ tags:
 - Suite Ofimática
 thumbnail: "/assets/img/libre-office.jpg"
 feature-img: "/assets/img/libre-office.jpg"
-
+permalink: /libreoffice-6-3-disponible/
+canonical_URL: https://ciberninjas.com/libreoffice-6-3-disponible/
 ---
 
 Nueva versión de la Suite de Ofimática Libre Office.

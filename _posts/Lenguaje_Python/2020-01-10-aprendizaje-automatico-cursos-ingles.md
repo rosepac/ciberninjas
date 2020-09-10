@@ -8,10 +8,10 @@ published: true
 comments: false
 date: 2020-03-13 23:20:12
 last_modified_at:
-canonical_URL: /aprendizaje-automatico-cursos-ingles/
-categories:
-- Aprendizaje Automático
+canonical_URL: https://ciberninjas.com/aprendizaje-automatico-cursos-ingles/
+permalink: /aprendizaje-automatico-cursos-ingles/
 tags:
+- Aprendizaje Automático
 - Python
 - PNL
 - Recursos

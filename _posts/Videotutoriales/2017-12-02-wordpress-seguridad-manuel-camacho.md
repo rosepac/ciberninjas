@@ -10,6 +10,8 @@ date: 2017-12-02 18:20:12
 tags:
 - Videotutorial Wordpress
 - Videotutorial Seguridad
+permalink: /wordpress-seguridad-manuel-camacho/
+canonical_URL: https://ciberninjas.com/wordpress-seguridad-manuel-camacho/
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
