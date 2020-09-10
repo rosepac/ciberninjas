@@ -15,8 +15,8 @@ excerpt: >-
   Siempre es bueno mantener tu enfoque de diseño despierto. Los diseñadores encuentran la inspiración en todas partes. Prueba a visitar a diario estos espectaculares blogs.
 canonical_URL: https://ciberninjas.com/blogs-diseno-grafico-ingles/
 permalink: /blogs-diseno-grafico-ingles/
-date: 2020-09-09
-last_modified_at: 
+date: 2020-04-27
+last_modified_at: 2020-09-09
 published: true
 
 ---
