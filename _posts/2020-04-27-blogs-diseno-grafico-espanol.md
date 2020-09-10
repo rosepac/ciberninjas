@@ -35,39 +35,39 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 **¡¡¡Detrás de cada enlace te espera una grata sorpresa!!!**
 
-
+- []
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## [**1. Graffica**](https://graffica.info/){:target="_blank" rel="nofollow,noreferrer"}
+## [**1. Graffica**](){:target="_blank" rel="nofollow,noreferrer"}
 
 ![graffica, uno de los mejores blogs de diseño](/assets/img/blog/blog-diseno-espanol/1-blog-diseno.webp "Mejores Blogs de diseño 2020: Graffica")
 
-[Graffica]( "Graffica"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Graffica](https://graffica.info/ "Graffica"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[2. Domestika](https://www.domestika.org/es/blog){:target="_blank" rel="nofollow,noreferrer"}**
+## **[2. Domestika](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Domestika](/assets/img/blog/blog-diseno-espanol/2-blog-diseno.webp "Domestika")
 
-[Domestika]( "Domestika"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Domestika](https://www.domestika.org/es/blog "Domestika"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[3. Enfoque Gaussiano](https://www.enfoquegaussiano.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[3. Enfoque Gaussiano](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Enfoque Gaussiano](/assets/img/blog/blog-diseno-espanol/3-blog-diseno.webp "Enfoque Gaussiano")
 
-[Enfoque Gaussiano]( "Enfoque Gaussiano"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Enfoque Gaussiano](https://www.enfoquegaussiano.com/ "Enfoque Gaussiano"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[4. Cosas Visuales](http://cosasvisuales.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[4. Cosas Visuales](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Cosas Visuales](/assets/img/blog/blog-diseno-espanol/4-blog-diseno.webp "Cosas Visuales")
 
-[Cosas Visuales]( "Cosas Visuales"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Cosas Visuales](https://kutt.it/cosas-visuales "Cosas Visuales"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[5. Macho Dominante](https://www.machodominante.es/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Macho Dominante](/assets/img/blog/blog-diseno-espanol/5-blog-diseno.webp "Macho Dominante")
 
-[Macho Dominante]( "Macho Dominante"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Macho Dominante]( "Macho Dominante"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -75,83 +75,83 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 ![Rayitas Azules](/assets/img/blog/blog-diseno-espanol/6-blog-diseno.webp "Rayitas Azules")
 
-[Rayitos Azules]( "Rayitos Azules"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Rayitos Azules]( "Rayitos Azules"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[7. Old Skull](https://www.oldskull.net/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Old Skull](/assets/img/blog/blog-diseno-espanol/7-blog-diseno.webp "Old Skull")
 
-[Old Skull]( "Old Skull"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Old Skull]( "Old Skull"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[8. 25 Horas](https://25-horas.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![25 Horas](/assets/img/blog/blog-diseno-espanol/8-blog-diseno.webp "25 Horas")
 
-[25 Horas]( "25 Horas"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[25 Horas]( "25 Horas"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[9. No Me Toques las Helvéticas](http://www.nometoqueslashelveticas.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[9. No Me Toques las Helvéticas](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![No me toques las helvéticas](/assets/img/blog/blog-diseno-espanol/9-blog-diseno.webp "No me toques las helvéticas")
 
-[No me toques las Helvéticas]( "No me toques las Helvéticas"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[No me toques las Helvéticas](https://kutt.it/nometoqueslashelveticas "No me toques las Helvéticas"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[10. The City Lovers You](https://thecitylovesyou.com/category/arte/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![The City Lovers You](/assets/img/blog/blog-diseno-espanol/10-blog-diseno.webp "The City Lovers You")
 
-[The City Lovers You]( "The City Lovers You"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[The City Lovers You]( "The City Lovers You"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[11. Roc21](https://www.roc21.com/tag/diseno-grafico/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[11. Roc21](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Roc 21](/assets/img/blog/blog-diseno-espanol/11-blog-diseno.webp "Roc 21")
 
-[Roc 21]( "Roc 21"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Roc 21](https://www.roc21.com/tag/diseno-grafico/ "Roc 21"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[12. Red Box](https://redboxinnovation.com/inspirate/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[12. Red Box](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Red Box](/assets/img/blog/blog-diseno-espanol/12-blog-diseno.webp "Red Box")
 
-[Red Box]( "Red Box"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Red Box](https://redboxinnovation.com/inspirate/ "Red Box"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[13. Brandemia](http://www.brandemia.org/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[13. Brandemia](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Brandemia](/assets/img/blog/blog-diseno-espanol/13-blog-diseno.webp "Brandemia")
 
-[Brandemia]( "Brandemia"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Brandemia](http://www.brandemia.org/ "Brandemia"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[14. Summa](https://summa.es/blog/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[14. Summa](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Summa](/assets/img/blog/blog-diseno-espanol/14-blog-diseno.webp "Summa")
 
-[Summa]( "Summa"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Summa](https://summa.es/blog/ "Summa"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[15. Nice Fucking Graphics](http://nfgraphics.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## **[15. Nice Fucking Graphics](){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Nice Fucking Graphics](/assets/img/blog/blog-diseno-espanol/15-blog-diseno.webp "Nice Fucking Graphics")
 
-[Nice Fucking Graphics]( "Nice Fucking Graphics"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Nice Fucking Graphics](https://kutt.it/nicefuckinggraphics "Nice Fucking Graphics"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[16. Área Visual](http://www.area-visual.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 16. **Área Visual**
 
 ![Área Visual](/assets/img/blog/blog-diseno-espanol/16-blog-diseno.webp "Área Visual")
 
-[Área Visual]( "Área Visual"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Área Visual](https://kutt.it/area-visual "Área Visual"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[17. Enkil](https://www.enkil.org/){:target="_blank" rel="nofollow,noreferrer"}**
+## 17. **Enkil**
 
 ![Enkil](/assets/img/blog/blog-diseno-espanol/17-blog-diseno.webp "Enkil")
 
-[Enkil]( "Enkil"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Enkil](https://www.enkil.org/ "Enkil"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[18. Makamo](https://www.makamo.es/){:target="_blank" rel="nofollow,noreferrer"}**
+## 18. **Makamo**
 
 ![Mejores Blogs de diseño 2020: Makamo](/assets/img/blog/blog-diseno-espanol/18-blog-diseno.webp "Mejores Blogs de diseño 2020: Makamo")
 
-[Makamo]( "Makamo"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Makamo](https://www.makamo.es/ "Makamo"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

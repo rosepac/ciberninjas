@@ -1,10 +1,11 @@
 ---
+
 author: rosepac
 bootstrap: true
+published: true
 title: '▷ Open GApps lanza paquetes de aplicaciones de Google flasheables para ROM personalizadas de Android 10'
 description: 'Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo ahora es posible usando las aplicaciones de Google de Open GApps.'
 excerpt: 'Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo ahora es posible usando las aplicaciones de Google de Open GApps.'
-published: true
 comments: false
 date: 2020-01-25 01:53:12
 thumbnail: https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png
@@ -19,7 +20,7 @@ tags:
 
 Si desea utilizar cualquier aplicación que requiera los servicios de Google Play en una ROM personalizada, lo más probable es que necesite actualizar un paquete de aplicaciones de Google o GApps por separado después de actualizar la ROM.
 
-![](https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png "Logotipo de Open GApps aplicaciones para Android y ROMs flasheables")
+![Logotipo de Open GApps aplicaciones para Android y ROMs flasheables](https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png "Logotipo de Open GApps aplicaciones para Android y ROMs flasheables")
 
 Este paso es algo que la mayoría de los desarrolladores de ROM personalizados requieren que haga para evitar desafíos legales con ellos al incorporar aplicaciones de Google en sus ROM personalizadas de terceros. Después del lanzamiento de cada actualización importante de Android, el equipo Open GApss lanza sus últimos paquetes GApps flasheables para esa versión de Android.
 
@@ -35,4 +36,4 @@ Si bien los miembros de la comunidad ya han lanzado algunas compilaciones no ofi
 
 A partir de ahora, el equipo Open GApps solo ha lanzado paquetes pico y nano de aplicaciones de Google, pero el equipo también está trabajando para obtener los otros paquetes. Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo, ahora puede descargar los paquetes Open GApps desde el siguiente enlace.
 
-[👉 Descargar Open GApps](https://opengapps.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Descargar Open GApps](https://opengapps.org/ "Descargar Open GAPPS"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

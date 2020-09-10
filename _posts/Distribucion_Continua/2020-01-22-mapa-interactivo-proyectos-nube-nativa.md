@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "▷ Mapa Interactivo de Proyectos y Empresas de Cloud Native 2020 👨‍💻 "
-description: "🌟 Panórama de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native"
-excerpt: "🌟 Panórama de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native"
+title: "▷ Mapa Interactivo de Proyectos y Empresas de Cloud Native 2020"
+description: "Plano interactivo de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native"
+excerpt: "Plano interactivo de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native"
 published: true
 comments: false
 date: 2020-07-01 17:27:12
@@ -11,6 +11,7 @@ last_modified_at:
 thumbnail: /assets/img/2020-news/cncf-landscape-horizontal-color.webp
 feature-img: /assets/img/2020-news/cncf-landscape-horizontal-color.webp
 canonical_URL: https://ciberninjas.com/mapa-interactivo-proyectos-nube-nativa/
+permalink: /mapa-interactivo-proyectos-nube-nativa/
 tags:
 - Proyectos
 - Distribución Continua
@@ -20,8 +21,7 @@ El Proyecto de Paisaje Cloud Native o CNCF está diseñado como un mapa a travé
 
 Existen muchas rutas para implementar una aplicación nativa en la nube, y los proyectos CNCF representan una ruta particularmente transitada. Ha sido construido en colaboración con Redpoint Ventures y Amplify Partners .
 
-El software para el paisaje interactivo se ha extraído de [Landscape APP](https://github.com/cncf/landscapeapp){:target="_blank rel="nofollow,noreferrer""}, donde también se usa para otros paisajes. Este repositorio incluye todos los datos e imágenes específicos de los paisajes de CNCF.
-
+El software para el paisaje interactivo se ha extraído de [Landscape APP](https://github.com/cncf/landscapeapp){:target="_blank" rel="nofollow,noreferrer"}, donde también se usa para otros paisajes. Este repositorio incluye todos los datos e imágenes específicos de los paisajes de CNCF.
 
 ## Visualizar Mapa del Cloud Native 2020
 
@@ -42,11 +42,6 @@ El software para el paisaje interactivo se ha extraído de [Landscape APP](https
 
 [👉 Sección Interactiva de Proyectos de Integración Continua 2020 🔨](https://landscape.cncf.io/category=continuous-integration-delivery&format=card-mode&grouping=category){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
------
+> **Fuente**: [Cloud Native Landscape](https://landscape.cncf.io/){:target="_blank" rel="nofollow,noreferrer"}, [Repositorio de Github](https://github.com/cncf/landscape#cloud-native-landscape){:target="_blank" rel="nofollow,noreferrer"}
 
-**Fuente**:
-
-* [Cloud Native Landscape](https://landscape.cncf.io/){:target="_blank" rel="nofollow,noreferrer"}
-* [Repositorio de Github](https://github.com/cncf/landscape#cloud-native-landscape){:target="_blank" rel="nofollow,noreferrer"}
-
-![Logotipo de la CNFC o Cloud Native Computing Foundation](/assets/img/2020-news/cncf-landscape-horizontal-color.png)
+![Logotipo de la CNFC o Cloud Native Computing Foundation](/assets/img/2020-news/cncf-landscape-horizontal-color.png "Logotipo de la CNFC o Cloud Native Computing Foundation")
