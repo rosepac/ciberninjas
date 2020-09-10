@@ -130,7 +130,7 @@ Lo que me atrae de este sitio web es su excelente diseño visual. Los suscriptor
 
 [Web Designer Depot](http://www.webdesignerdepot.com/ "Web Designer Depot"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#Índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## 6. **Abduzeedo**
 
@@ -164,7 +164,7 @@ Create es la revista de Adobe para creativos, para creativos, disponible en lín
 
 [Create Adobe](https://create.adobe.com/graphic-design.html "Create Adobe"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## 11. **99U**
 

@@ -8,7 +8,7 @@ tags:
 - Blogs
 thumbnail: /assets/img/blog/mejores-paginas-diseno-espanol.webp
 feature-img: /assets/img/blog/mejores-paginas-diseno-espanol.webp
-title: '🥇 ▷ Los 18 mejores blogs de diseño gráfico en español con los que inspirarte 2020'
+title: '🥇 ▷ 18 Mejores blogs de diseño gráfico en español con los que inspirarte 2020'
 description: >-
   Vamos a buscar la inspiración gráfica y despertar nuestra inspiración entre las páginas de diseño de habla hispana.
 excerpt: >-
@@ -37,21 +37,31 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 ![Mejores Blogs de diseño 2020: Graffica](/assets/img/blog/blog-diseno-espanol/1-blog-diseno.webp "Mejores Blogs de diseño 2020: Graffica")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[2. Domestika](https://www.domestika.org/es/blog){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Domestika](/assets/img/blog/blog-diseno-espanol/2-blog-diseno.webp "Mejores Blogs de diseño 2020: Domestika")
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[3. Enfoque Gaussiano](https://www.enfoquegaussiano.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Enfoque Gaussiano](/assets/img/blog/blog-diseno-espanol/3-blog-diseno.webp "Mejores Blogs de diseño 2020: Enfoque Gaussiano")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[4. Cosas Visuales](http://cosasvisuales.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Cosas Visuales](/assets/img/blog/blog-diseno-espanol/4-blog-diseno.webp "Mejores Blogs de diseño 2020: Cosas Visuales")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[5. Macho Dominante](https://www.machodominante.es/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Macho Dominante](/assets/img/blog/blog-diseno-espanol/5-blog-diseno.webp "Mejores Blogs de diseño 2020: Macho Dominante")
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -59,21 +69,31 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 ![Mejores Blogs de diseño 2020: Rayitas Azules](/assets/img/blog/blog-diseno-espanol/6-blog-diseno.webp "Mejores Blogs de diseño 2020: Rayitas Azules")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[7. Old Skull](https://www.oldskull.net/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Old Skull](/assets/img/blog/blog-diseno-espanol/7-blog-diseno.webp "Mejores Blogs de diseño 2020: Old Skull")
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[8. 25 Horas](https://25-horas.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: 25 Horas](/assets/img/blog/blog-diseno-espanol/8-blog-diseno.webp "Mejores Blogs de diseño 2020: 25 Horas")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[9. No Me Toques las Helvéticas](http://www.nometoqueslashelveticas.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: No me toques las helvéticas](/assets/img/blog/blog-diseno-espanol/9-blog-diseno.webp "Mejores Blogs de diseño 2020: No me toques las helvéticas")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[10. The City Lovers You](https://thecitylovesyou.com/category/arte/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: The City Lovers You](/assets/img/blog/blog-diseno-espanol/10-blog-diseno.webp "Mejores Blogs de diseño 2020: The City Lovers You")
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -81,21 +101,31 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 ![Mejores Blogs de diseño 2020: Roc 21](/assets/img/blog/blog-diseno-espanol/11-blog-diseno.webp "Mejores Blogs de diseño 2020: Roc 21")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[12. Red Box](https://redboxinnovation.com/inspirate/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Red Box](/assets/img/blog/blog-diseno-espanol/12-blog-diseno.webp "Mejores Blogs de diseño 2020: Red Box")
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[13. Brandemia](http://www.brandemia.org/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Brandemia](/assets/img/blog/blog-diseno-espanol/13-blog-diseno.webp "Mejores Blogs de diseño 2020: Brandemia")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[14. Summa](https://summa.es/blog/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Summa](/assets/img/blog/blog-diseno-espanol/14-blog-diseno.webp "Mejores Blogs de diseño 2020: Summa")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[15. Nice Fucking Graphics](http://nfgraphics.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Nice Fucking Graphics](/assets/img/blog/blog-diseno-espanol/15-blog-diseno.webp "Mejores Blogs de diseño 2020: Nice Fucking Graphics")
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -103,11 +133,17 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 ![Mejores Blogs de diseño 2020: Área Visual](/assets/img/blog/blog-diseno-espanol/16-blog-diseno.webp "Mejores Blogs de diseño 2020: Área Visual")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[17. Enkil](https://www.enkil.org/){:target="_blank" rel="nofollow,noreferrer"}**
 
 ![Mejores Blogs de diseño 2020: Enkil](/assets/img/blog/blog-diseno-espanol/17-blog-diseno.webp "Mejores Blogs de diseño 2020: Enkil")
 
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[18. Makamo](https://www.makamo.es/){:target="_blank" rel="nofollow,noreferrer"}**
+
+[]( ""){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
