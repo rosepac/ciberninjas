@@ -28,7 +28,7 @@ img: "/assets/img/blog/steemit-publicaciones-1-1.webp"
 
 ## Visores de Steemit
 
-* [Steemit Beta](https://beta.steemit.com/)
+* [Steemit Beta](https://beta.steemit.com/){:target="_blank" rel="nofollow,noreferrer"}
 * [Steemit](https://steemit.com){:target="_blank" rel="nofollow,noreferrer"}
 * [SteemStem](https://www.steemstem.io/){:target="_blank" rel="nofollow,noreferrer"}
 * [Busy](https://busy.org/){:target="_blank" rel="nofollow,noreferrer"}
@@ -40,7 +40,7 @@ img: "/assets/img/blog/steemit-publicaciones-1-1.webp"
 
 ## Proyectos Más Estables
 
-* [DTube](https://d.tube/#!)
+* [DTube](https://d.tube/#!){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Proyectos y dAPPs Más Interesantes
 
