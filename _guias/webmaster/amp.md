@@ -7,6 +7,6 @@ published: false
 comments: false
 date: 2018-04-25
 last_modified_at: 2019-09-19
-permalink: /posicionamiento-web-seo/
-canonical_URL: https://ciberninjas.com/posicionamiento-web-seo/
+permalink: /amp/
+canonical_URL: https://ciberninjas.com/amp/
 ---
