@@ -541,13 +541,13 @@ Artículos y recursos sobre la experiencia de usuario.
 
 [🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2020](/blogs-diseno-grafico-espanol/)
 
-[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020](/mejor-software-dibujo-windows-android/)
+[🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D](/cursos-animacion-diseno/)
 
 [🥇 ▷ Cómo aprender Diseño Gráfico en 2020 👩‍🎨](/dise%C3%B1o-grafico/)
 
 [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
 
-[🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D](/cursos-animacion-diseno/)
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020](/mejor-software-dibujo-windows-android/)
 
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 
