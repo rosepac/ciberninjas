@@ -24,11 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 9 de Septiembre
-
-- (13:00 H. Esp.) Neo4j - Aplicaciones en Retail 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"} 🎥 [Ver Directo](https://www.youtube.com/watch?v=bmLvEKoHm-s&ab_channel=SEOPuntoRojo%21){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 10 de Septiembre
 
 - (00:00 AM) CICLO DE CHARLAS VIRTUALES WEF: COMUNIDADES DE MUJERES 👉 [REGISTRO](https://www.inscribirme.com/ciclodecharlasvirtualeswefcomunidadesdemujeres){:target="_blank" rel="nofollow, noreferrer"}
@@ -658,3 +653,8 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 ### 🔔 8 de Septiembre
 
 - (18:30 H. Esp.) Front End: taller para principiantes FULLSTACK 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-front-end-taller-para-principiantes-fullstack-111285114774?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}- (18:00 H. Esp.) ¿Has acabado de estudiar? Te recomendamos qué hacer 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-has-acabado-de-estudiar-te-recomendamos-que-hacer-d-115882500679?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 9 de Septiembre
+
+- (13:00 H. Esp.) Neo4j - Aplicaciones en Retail 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"} 🎥 [Ver Directo](https://www.youtube.com/watch?v=bmLvEKoHm-s&ab_channel=SEOPuntoRojo%21){:target="_blank" rel="nofollow, noreferrer"}
