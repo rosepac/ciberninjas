@@ -8,7 +8,7 @@ tags:
 - Blogs
 thumbnail: /assets/img/blog/abril-inspiracion-paginas-web.webp
 feature-img: /assets/img/blog/abril-inspiracion-paginas-web.webp
-title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 20 (en inglés)'
+title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 2020 (en inglés)'
 description: >-
   Siempre es bueno mantener tu enfoque de diseño despierto. Los diseñadores encuentran la inspiración en todas partes. Prueba a visitar a diario estos espectaculares blogs.
 excerpt: >-
