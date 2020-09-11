@@ -4,7 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Inteligencia Artificial
+- Javascript
+- Typescript
 thumbnail: /assets/img/blog/typescript-4.webp
 feature-img: /assets/img/blog/typescript-4.webp
 title: '▷ TypeScript 4.0: Comienza a escribir código más limpio y transparente'
@@ -21,7 +22,11 @@ published: true
 
 El superconjunto JavaScript de código abierto de Microsoft recibe una gran actualización, lo que facilita la escritura de aplicaciones complejas para la Web.
 
-Probablemente no debería sorprendernos que JavaScript se haya convertido en uno de los lenguajes de programación más populares en uso en la actualidad. Es potente, flexible y fácil de aprender. Pero todavía tiene problemas, especialmente en cuanto a cómo maneja los tipos. Es difícil escribir aplicaciones grandes y complejas en JavaScript porque es difícil validar el código antes de que se ejecute. Es difícil usar herramientas de análisis de código en línea cuando se usa escritura dinámica, lo que reduce la efectividad de herramientas como IntelliSense de Visual Studio.
+Probablemente no debería sorprendernos que JavaScript se haya convertido en uno de los lenguajes de programación más populares en uso en la actualidad. Es potente, flexible y fácil de aprender.
+
+Pero todavía tiene problemas, especialmente en cuanto a cómo maneja los tipos. Es difícil escribir aplicaciones grandes y complejas en JavaScript porque es difícil validar el código antes de que se ejecute.
+
+Es difícil usar herramientas de análisis de código en línea cuando se usa escritura dinámica, lo que reduce la efectividad de herramientas como IntelliSense de Visual Studio.
 
 Sin tipos estáticos, es difícil recomendar JavaScript como lenguaje para crear aplicaciones a gran escala. Ciertamente, no querrá usarlo para aplicaciones como Office o para crear editores de programadores complejos.
 
