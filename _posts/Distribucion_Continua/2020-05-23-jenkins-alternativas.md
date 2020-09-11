@@ -20,7 +20,6 @@ tags:
 - Bamboo
 - Strider
 - Gitlab CI
-categories:
 - Distribución Continua
 thumbnail: /assets/img/blog/devops-ciclo.webp
 feature-img: /assets/img/blog/devops-ciclo.webp

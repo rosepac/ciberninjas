@@ -11,14 +11,11 @@ date: 2020-05-12 19:10:12
 last_modified_at: 
 canonical_URL: https://ciberninjas.com/jenkins-x-divulgación/
 permalink: /jenkins-x-divulgación/
-categories:
-- Distribución Continua
 tags:
+- Distribución Continua
 - CD Fundación
 
 ---
-<br/>
-# ▷ Jenkins X - Solicitud y búsqueda de ayuda: Divulgación
 
 Neha Gupta está agregando soporte para Kustomize en Jenkins X, para habilitar la administración de configuración nativa de Kubernetes, mientras participa en Outreachy desde diciembre de 2019 hasta marzo de 2020.
 

@@ -6,7 +6,6 @@ date: 2020-04-14 13:10:00 +0100
 canonical_URL: https://ciberninjas.com/sobre-la-nueva-energía-nuclear/
 permalink: /sobre-la-nueva-energía-nuclear/
 published: true
-categories:
 tags:
   - Energía Nuclear
   - Energías del Futuro
@@ -16,8 +15,6 @@ feature-img: /assets/img/blog/nueva-energia-nuclear.webp
 ---
 
 En algún momento de 2021, si todo va según lo planeado, el equipo de movimiento de tierras llegará a un lugar azotado y desaliñado por el viento en el Este de Idaho y comenzará a excavar un gran agujero.
-
-![Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura](/assets/img/blog/nueva-energia-nuclear.webp "Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura")
 
 El **Desierto de Artemisa**, el punto en el que se escavará, **no se encuentra demasiado lejos de la "Ciudad Atómica" de Idaho**. La ciudad, en la actualidad, **no tiene mucho que ver con lo que era en la antigüedad**. Quedan menos de 30 residentes en ella y la única estación de servicio que existe, ya no vende gas. 
 
@@ -150,15 +147,19 @@ Muchos defensores de la energía alternativa creen que podemos satisfacer esa de
 
 Pero [un estudio reciente](https://news.mit.edu/2018/adding-power-choices-reduces-cost-risk-carbon-free-electricity-0906){:target="_blank" rel="nofollow,noreferrer"} dirigido por Jenkins de Princeton (que estaba en el MIT en ese momento) concluye que intentar alimentar la red principalmente con energía eólica y solar sería prohibitivamente costoso. Según los autores del estudio, una red limpia y confiable seguirá necesitando fuentes "potentes, estables y bajas en carbono" como la nuclear.
 
-En los últimos años, ha existido un cambio de pensamiento importante, en el que muchos ambientalistas y activistas climáticos han apoyado la energía nuclear. (Ver "[La opción nuclear](https://www.city-journal.org/atomic-power){:target="_blank" rel="nofollow,noreferrer"}", City Journal, 2019). Algunos de estos defensores están luchando contra una acción de retaguardia para salvar a las plantas nucleares existentes del cierre prematuro. Pero pocos expertos esperan un aumento repentino en la construcción de grandes instalaciones nuevas, al menos no en Europa, ni en América del Norte.
+En los últimos años, ha existido un cambio de pensamiento importante, en el que muchos ambientalistas y activistas climáticos han apoyado la energía nuclear. (Ver "[La opción nuclear](https://www.city-journal.org/atomic-power){:target="_blank" rel="nofollow,noreferrer"}", City Journal, 2019).
+
+Algunos de estos defensores están luchando contra una acción de retaguardia para salvar a las plantas nucleares existentes del cierre prematuro. Pero pocos expertos esperan un aumento repentino en la construcción de grandes instalaciones nuevas, al menos no en Europa, ni en América del Norte.
 
 > "¿Podrían las SMR ayudar a llenar ese vacío? Es adecuado mantener un cierto escepticismo. Pero creo que estos reactores podrían encajar bastante bien en una combinación de posibles fuentes energéticas del futuro. La gran pregunta es, cómo pueden construirse económicamente”, dijo Jenkins.
 
 La variable más importante a la que se enfrentan los empresarios nucleares es el laborioso proceso de la aprobación regulatoria. Cochran y su cofundador de Oklo refinaron su plan de negocios en la famosa incubadora de Y Combinator de Silicon Valley.
 
-Desde entonces, dijo, "Hemos tenido amigos que han comenzado más de una compañía en el tiempo que hemos estado trabajando con esto". Solo el libertario más radical argumentaría que la industria nuclear debería estar completamente desregulada. Y, bajo la supervisión de la Comisión Federal Reguladora Nuclear, la industria de energía nuclear de los Estados Unidos nunca ha tenido una fatalidad por radiación. No obstante, el tiempo y los gastos involucrados en la navegación de aprobaciones han aumentado constantemente, en parte porque los diseños de reactores de gran tamaño más nuevos se han vuelto también más complejos.
+Desde entonces, dijo, "Hemos tenido amigos que han comenzado más de una compañía en el tiempo que hemos estado trabajando con esto". Solo el libertario más radical argumentaría que la industria nuclear debería estar completamente desregulada.
 
-**¿Las nuevas empresas nucleares también se estancarán ante las interminables críticas?**
+Y, bajo la supervisión de la Comisión Federal Reguladora Nuclear, la industria de energía nuclear de los Estados Unidos nunca ha tenido una fatalidad por radiación. No obstante, el tiempo y los gastos involucrados en la navegación de aprobaciones han aumentado constantemente, en parte porque los diseños de reactores de gran tamaño más nuevos se han vuelto también más complejos.
+
+## **¿Las nuevas empresas nucleares también se estancarán ante las interminables críticas?**
 
 Los primeros signos sugieren que no.
 
@@ -181,7 +182,7 @@ Buongiorno cree que ayudar a las startups a pasar por el proceso de licenciamien
 La idea de que la próxima generación nuclear podría ser una industria estadounidense importante está resonando en Washington. Y, a diferencia de tantos problemas actuales, el apoyo a la energía nuclear se podría encontrar en ambos lados (políticos).
 
 > "Es uno de esos raros agujeros de gusano del bipartidismo", dijo Nordhaus.
- 
+
 Con el físico nuclear Ernest Moniz como secretario de energía, la administración Obama aumentó el apoyo a la energía nuclear en su segundo mandato. Bajo Trump, el Departamento de Energía ha destinado más de 100 millones de dólares en subvenciones para financiar la investigación nuclear y ayudar a las nuevas empresas a atravesar el proceso de concesión de las licencias.
 
 El año pasado, el presidente firmó un proyecto de ley destinado a racionalizar la cooperación entre los laboratorios nacionales y la industria privada en el sector nuclear. La Ley de Liderazgo de Energía Nuclear, un proyecto de ley bipartidista que crea más incentivos para desarrollar reactores avanzados, [abriéndose paso](https://world-nuclear-news.org/Articles/US-Senate-committee-passes-bill-promoting-advanced?fbclid=IwAR1noW1MugT9mVByH6sLLehBdav4uYm0jQtG1tM3xo9f2URUWS8pULvP8Q0){:target="_blank" rel="nofollow,noreferrer"} gracias al Senado.
@@ -206,7 +207,7 @@ Otra preocupación es la que ha surgido sobre la energía nuclear comercial desd
 
 Pero una pequeña cantidad de reactores de próxima generación implican el manejo de isótopos más potentes. En teoría, al menos, una nación deshonesta podría secuestrar tales materiales para armas atómicas. E incluso sin el riesgo de la fabricación de las bombas atómicas.
 
-**¿No podrían los terroristas obtener un poco de combustible usado y usarlo para fabricar una bomba sucia?**
+## **¿No podrían los terroristas obtener un poco de combustible usado y usarlo para fabricar una bomba sucia?**
 
 Los partidarios de las SMR señalan que la cantidad de combustible en un SMR es bastante pequeña, en comparación con la de los reactores convencionales, lo que significa que la cantidad de combustible gastado también es menor.
 
@@ -218,7 +219,7 @@ Nordhaus va más allá, argumentando que los reactores de próxima generación p
 
 Anticipa un modelo donde la mayoría de los jugadores en el negocio construyen, poseen y operan sus reactores. Nadie más tendría acceso al sistema ni a ningún material nuclear. "Así es como los rusos manejan las plantas que construyen en otros países en la actualidad", dijo. “Construyen el reactor; ellos lo operan; traen el combustible y se encargan de los residuos". Anteriormente, muchos países desarrollaron sus propias industrias nucleares con la ayuda del estamento militar, lo que aumentó la amenaza de las tecnologías de doble uso que podrían usarse para fabricar diferentes armas nucleares. "Cuando te mueves al modelo de construir, mantener y gestionar; eliminas esas posibilidades", dice Nordhaus.
 
-**¿Qué pasaría si hubiera una forma de energía atómica que no involucrara ningún desperdicio nuclear?**
+## **¿Qué pasaría si hubiera una forma de energía atómica que no involucrara ningún desperdicio nuclear?**
 
 Existe, por supuesto: La fusión de hidrógeno que alimenta a nuestro sol.
 
@@ -242,5 +243,6 @@ NuScale y otras nuevas empresas nucleares tienen un largo camino por recorrer an
 
 > "Si logras suficientes tiros a portería", "es mucho mayor la probabilidad de que alguno de ellos logré su objetivo", dijo Nordhaus.
 
-**Fuentes**\: City Journal. Artículo: [Next-Gean Nuclear Power](https://www.city-journal.org/next-generation-nuclear-power "Energía nuclear de próxima generación") y [NuScale Cheks Off Another](https://news.yahoo.com/m/a445ccc7-c125-393f-9e6a-85296a97f531/nuscale-checks-off-another.html "NuScale marca otra casilla en la revisión del reactor modular pequeño") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
-{: .notice--info}
+> **Fuentes**\: City Journal. Artículo: [Next-Gean Nuclear Power](https://www.city-journal.org/next-generation-nuclear-power "Energía nuclear de próxima generación"){:target="_blank" rel="nofollow,noreferrer"} y [NuScale Cheks Off Another](https://news.yahoo.com/m/a445ccc7-c125-393f-9e6a-85296a97f531/nuscale-checks-off-another.html "NuScale marca otra casilla en la revisión del reactor modular pequeño"){:target="_blank" rel="nofollow,noreferrer"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
+
+![Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura](/assets/img/blog/nueva-energia-nuclear.webp "Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura")

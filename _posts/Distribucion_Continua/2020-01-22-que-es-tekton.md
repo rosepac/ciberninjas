@@ -12,9 +12,8 @@ thumbnail: /assets/img/blog/pagina-tekton.webp
 feature-img: /assets/img/blog/pagina-tekton.webp
 canonical_URL: https://ciberninjas.com/que-es-tekton/
 permalink: /que-es-tekton/
-categories:
-- Distribución Continua
 tags:
+- Distribución Continua
 - CD Fundación
 - Tekton
 ---

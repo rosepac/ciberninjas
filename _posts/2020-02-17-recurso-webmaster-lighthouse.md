@@ -13,7 +13,7 @@ thumbnail: /assets/img/blog/webmaster-herramientas-lighthouse.webp
 feature-img: /assets/img/blog/webmaster-herramientas-lighthouse.webp
 permalink: /recurso-webmaster-lighthouse/
 canonical_URL: https://ciberninjas.com/recurso-webmaster-lighthouse/
-categories:
+tags:
 - Herramientas Webmaster
 - Auditorías
 - Aplicaciones
@@ -24,8 +24,6 @@ categories:
 
 Lighthouse es una herramienta automatizada de código abierto para mejorar el rendimiento, la calidad y la corrección de sus aplicaciones web.
 
-![Lighthouse: Herramienta de auditoría de aplicaciones web de Google](/assets/img/blog/webmaster-herramientas-lighthouse.webp "Lighthouse: Herramienta de auditoría de aplicaciones web de Google")
-
 Cuando se audita una _app_ o página web, **Lighthouse** ejecuta un aluvión de pruebas contra la página y luego genera un informe sobre el desempeño de la página. Desde aquí, puede utilizar las pruebas fallidas como indicadores de lo que puede hacer para mejorar su aplicación.
 
 Guía de inicio rápido sobre el uso de Lighthoouse**: [Web de la documentación oficial](https://kutt.it/lighthouse){:target="_blank" rel="nofollow,noreferrer"}
@@ -33,3 +31,5 @@ Guía de inicio rápido sobre el uso de Lighthoouse**: [Web de la documentación
 **Página web de la extensión de Chrome**: [Lighthouse](https://kutt.it/lighthousegithub){:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**\: [Repositorio Github del Proyecto Lighthouse](https://kutt.it/lighthousedoc){:target="_blank" rel="nofollow,noreferrer"}
+
+![Lighthouse: Herramienta de auditoría de aplicaciones web de Google](/assets/img/blog/webmaster-herramientas-lighthouse.webp "Lighthouse: Herramienta de auditoría de aplicaciones web de Google")

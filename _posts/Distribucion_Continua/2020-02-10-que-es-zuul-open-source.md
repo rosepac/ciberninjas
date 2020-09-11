@@ -13,10 +13,8 @@ thumbnail: /assets/img/blog/ci-cd-zuul.webp
 feature-img: /assets/img/blog/ci-cd-zuul.webp
 permalink: /introduccion-zuul-open-source/
 canonical_URL: https://ciberninjas.com/introduccion-zuul-open-source/
-
-categories:
-- Distribución Continua
 tags:
+- Distribución Continua
 - Zuul
 - Software CI
 - Software CD

@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Proyectos CD
-categories:
 - Distribución Continua
+- Proyectos CD
 thumbnail: /assets/img/blog/google-summer-code-2.webp
 feature-img: /assets/img/blog/google-summer-code-2.webp
 title: '9 proyectos de la Fundación CD que participan en el Google Summer of Code de este año'

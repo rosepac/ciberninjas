@@ -6,7 +6,6 @@ bootstrap: true
 tags:
 - Servicios Nube
 - Cloudflare
-categories:
 thumbnail: /assets/img/blog/
 title: "🚀 ▷ Cloudflare's Gen X: Servidores para un futuro acelerado"
 description: >-

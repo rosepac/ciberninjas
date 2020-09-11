@@ -12,9 +12,8 @@ thumbnail: /assets/img/blog/10-captura-destornillador.webp
 feature-img: /assets/img/blog/10-captura-destornillador.webp
 permalink: /screwdriver-plataforma-escalable-entrega-continua/
 canonical_URL: https://ciberninjas.com/screwdriver-plataforma-escalable-entrega-continua/
-categories:
-- Distribución Continua
 tags:
+- Distribución Continua
 - Screwdriver
 - Software CD
 ---
@@ -28,8 +27,8 @@ Es el producto de nuestro viaje de CI / CD a escala, lecciones aprendidas en el 
 ![](/assets/img/blog/10-captura-destornillador.webp "Las tuberías o programas para la gestión continua del código")
 
 - [**Screwdriver es altamente personalizable**](#screwdriver-es-altamente-personalizable)
-- [**Tubería como código**](#tuber%c3%ada-como-c%c3%b3digo)
-- [**Compartir las mejores prácticas a través de plantillas y comandos**](#compartir-las-mejores-pr%c3%a1cticas-a-trav%c3%a9s-de-plantillas-y-comandos)
+- [**Tubería como código**](#tubería-como-código)
+- [**Compartir las mejores prácticas a través de plantillas y comandos**](#compartir-las-mejores-prácticas-a-través-de-plantillas-y-comandos)
 - [**Seguridad**](#seguridad)
 - [**Empezando**](#empezando)
 

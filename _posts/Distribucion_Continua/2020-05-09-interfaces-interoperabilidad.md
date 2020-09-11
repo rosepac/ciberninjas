@@ -11,9 +11,8 @@ date: 2020-05-09 19:10:12
 last_modified_at: 
 canonical_URL: https://ciberninjas.com/escalado-cd-interfaces-interoperabilidad/
 permalink: /escalado-cd-interfaces-interoperabilidad/
-categories:
-- Distribución Continua
 tags:
+- Distribución Continua
 - CD Fundación
 
 ---

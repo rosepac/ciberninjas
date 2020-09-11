@@ -8,7 +8,6 @@ tags:
 - Kubernetes
 - Kubenav
 - Despliegue
-categories:
 thumbnail: /assets/img/blog/kubenav-gestor-kubernetes.webp
 feature-img: /assets/img/blog/kubenav-gestor-kubernetes.webp
 title: '🚀 ▷ '

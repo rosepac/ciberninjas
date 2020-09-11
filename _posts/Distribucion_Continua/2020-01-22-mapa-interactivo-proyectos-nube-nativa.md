@@ -13,8 +13,8 @@ feature-img: /assets/img/2020-news/cncf-landscape-horizontal-color.webp
 canonical_URL: https://ciberninjas.com/mapa-interactivo-proyectos-nube-nativa/
 permalink: /mapa-interactivo-proyectos-nube-nativa/
 tags:
-- Proyectos
 - Distribución Continua
+- Proyectos
 ---
 
 El Proyecto de Paisaje Cloud Native o CNCF está diseñado como un mapa a través del terreno previamente desconocido de las tecnologías nativas en la nube. Esto intenta clasificar la mayoría de los proyectos y ofertas de productos en el espacio nativo de la nube.

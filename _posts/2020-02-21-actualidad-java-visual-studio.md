@@ -8,7 +8,6 @@ tags:
 - Editores de Texto
 - Java
 - Visual Studio Code
-categories:
 thumbnail: /assets/img/blog/java-visual-studio.webp
 feature-img: /assets/img/blog/java-visual-studio.webp
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
