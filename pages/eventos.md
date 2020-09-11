@@ -24,11 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 11 de Septiembre
-
-- (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (21:00 H. Esp.) TikTok paso a paso 👉 [REGISTRO](https://www.eventbrite.com.ar/e/tiktok-paso-a-paso-registration-119089230093){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 12 de Septiembre
 
 - (03:00 AM H. Española) Code LATAM: Introducción a Accesibilidad Web 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
@@ -663,3 +658,8 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 
 - (00:00 AM) CICLO DE CHARLAS VIRTUALES WEF: COMUNIDADES DE MUJERES 👉 [REGISTRO](https://www.inscribirme.com/ciclodecharlasvirtualeswefcomunidadesdemujeres){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 11 de Septiembre
+
+- (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (21:00 H. Esp.) TikTok paso a paso 👉 [REGISTRO](https://www.eventbrite.com.ar/e/tiktok-paso-a-paso-registration-119089230093){:target="_blank" rel="nofollow, noreferrer"}
