@@ -6,7 +6,7 @@ bootstrap: true
 comments: false
 date: 2019-01-27 10:01:45
 tags:
-- Reflexiones Programación
+- Reflexión de Programación
 title: "Nuestro problema con las dependencias del software, por Russ Cox"
 description: "Russ Cox reflexiona sobre como la programación en la nube puede producir dudas a la hora de pasar a producción."
 excerpt: "Russ Cox reflexiona sobre como la programación en la nube puede producir dudas a la hora de pasar a producción."

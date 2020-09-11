@@ -9,7 +9,7 @@ description: "Desde la Fundación Mozilla reflexionan sobre la desaparición del
 date: 2020-08-21 12:12:14
 tags:
 - Mozilla
-- Reflexión Programación
+- Reflexión de Programación
 permalink: /adios-edgehtml/
 canonical_URL: https://ciberninjas.com/adios-edgehtml/
 ---
