@@ -29,7 +29,7 @@ Sobre Android, arduino, bases de datos, ciencias de la computación, comercio el
 
 Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación [^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
 
-- [Educación Global 🗃](#educación-global-)
+- [Educación Global](#educación-global)
 - [Academias de Cursos Masivos 🌐](#academias-de-cursos-masivos-)
   - [Academias Mayoritariamente en Inglés](#academias-mayoritariamente-en-inglés)
 - [**Cursos gratis de Bases de Datos 📁**](#cursos-gratis-de-bases-de-datos-)
@@ -71,7 +71,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Educación Global 🗃
+## Educación Global
 
 * [¿Cómo aprender absolutamente todo lo que quieras?](/aprender/){:target="_blank"}
 * [Aprender Aprendizaje Automático](/que-aprender-sobre-machine-learning-2020/){:target="_blank"}
