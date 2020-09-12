@@ -7,7 +7,7 @@ canonical_URL: https://ciberninjas.com/nativescript-framework-6-5/
 permalink: /nativescript-framework-6-5/
 published: true
 tags:
-  - Framework Multiplataforma
+  - Frameworks Multiplataforma
   - NativeScript
   - Kotlin
 thumbnail: /assets/img/blog/nativescript-app-1.webp

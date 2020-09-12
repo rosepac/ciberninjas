@@ -8,7 +8,7 @@ permalink: /ionic-anuncia-capacitor-2/
 
 published: true
 tags:
-  - Framework Multiplataforma
+  - Frameworks Multiplataforma
   - Ionic
 thumbnail: /assets/img/blog/capacitor-2-img.webp
 feature-img: /assets/img/blog/capacitor-2-img.webp
