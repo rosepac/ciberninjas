@@ -8,8 +8,8 @@ tags:
 - Framework CSS
 - Ionic
 - Angular
-thumbnail: /assets/img/blog/
-feature-img: /assets/img/blog/
+thumbnail: /assets/img/blog/ciberninjas-ionic-angular-2.webp
+feature-img: /assets/img/blog/ciberninjas-ionic-angular-2.webp
 title: '▷ Ionic y Angular alimentan las tiendas de aplicaciones y la web'
 description: >-
   ¿Sabías que Ionic y Angular alimentan aproximadamente el 10% de las aplicaciones en iOS y casi el 20% de las aplicaciones en Android?
@@ -93,4 +93,4 @@ De cualquier manera, su inversión en Angular le será de gran utilidad. Y estar
 
 > **Fuente**: [Blog oficial de Angular](https://blog.angular.io/ionic-angular-powering-the-app-store-and-the-web-4c4d420ca117 "Blog oficial de Angular"){:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/ "")
+![Ionic y Angular alimentan las tiendas de aplicaciones y la web](/assets/img/blog/ciberninjas-ionic-angular-2.webp "Ionic y Angular alimentan las tiendas de aplicaciones y la web")
