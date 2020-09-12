@@ -27,7 +27,14 @@ published: true
 
 Sí, Angular impulsa una gran cantidad de aplicaciones en las tiendas de aplicaciones.
 
-**¿Por qué es útil saber esto?**
+- [**¿Por qué es útil saber esto?**](#por-qué-es-útil-saber-esto)
+- [**Analicemos el frío dato**](#analicemos-el-frío-dato)
+  - [¿Cuál es el último SDK de mensajería, mapeo o desarrollo?](#cuál-es-el-último-sdk-de-mensajería-mapeo-o-desarrollo)
+- [**¿Por qué elegir Angular para dispositivos móviles?**](#por-qué-elegir-angular-para-dispositivos-móviles)
+- [**La web frente a tiendas de aplicaciones**](#la-web-frente-a-tiendas-de-aplicaciones)
+- [**¿Por qué no tener lo mejor de ambos lados?**](#por-qué-no-tener-lo-mejor-de-ambos-lados)
+
+## **¿Por qué es útil saber esto?**
 
 Bueno, si estaba indeciso acerca de la elección sobre que tecnología  debería usar para su próxima aplicación, debería ser tranquilizador saber que las aplicaciones impulsadas por la tecnología web están prosperando dentro de las tiendas de aplicaciones. Exploremos cómo llegamos a esa conclusión y por qué eso es importante.
 
@@ -43,7 +50,7 @@ Si nunca has oído hablar de [Appfigures](https://appfigures.com/top-sdks/develo
 
 Appfigures proporciona una gran perspectiva sobre qué tipo de herramientas están utilizando los desarrolladores para crear sus aplicaciones.
 
-### **¿Cuál es el último SDK de mensajería, mapeo o desarrollo?**
+### ¿Cuál es el último SDK de mensajería, mapeo o desarrollo?
 
 Esta última es la métrica más importante que queremos explorar. Veamos cuáles son los principales SDK de desarrollo para el desarrollo de aplicaciones: Y tras revisar los datos, aproximadamente el 10% de las aplicaciones en iOS y casi el 20% de las aplicaciones en Android usan Ionic y Angular. Lo que es bastante.
 
