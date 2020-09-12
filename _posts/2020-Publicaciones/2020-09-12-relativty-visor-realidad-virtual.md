@@ -16,7 +16,7 @@ canonical_URL: https://ciberninjas.com/relativty-visor-vr-open-source/
 permalink: /relativty-visor-vr-open-source/
 date: 2020-09-11 07:44:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
