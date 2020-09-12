@@ -22,7 +22,7 @@ published: true
 
 ---
 
-Este curso, de un mes de duración, va dirigido hacía aquellos que aspiran a conseguir trabajos relacionados con Linux dentro de la industria tecnológica. Como por ejemplo: Un administrador de sistemas Linux junior, o cualquier otro trabajo relacionado con devops o similar.
+Este curso, de un mes de duración, va dirigido hacía aquellos que aspiran a conseguir trabajos relacionados con Linux dentro de la industria tecnológica. Como por ejemplo: Un administrador de sistemas Linux junior, o cualquier otro trabajo relacionado con devops o similar..
 
 Centrado en el aprendizaje para el manejo de un servidor y en la línea de comandos, pero partiendo totalmente desde cero, y muy poco a poco, el curso fue diseñado para adaptarse bien a personas acostumbradas en Windows o Apple, así como a aquellos que ya usan Linux.
 
