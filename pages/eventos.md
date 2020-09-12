@@ -50,7 +50,7 @@ Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dah
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (18:00 H. ESP.) Inspired by Woman: Enciende tu marca personal 🗞 [REGISTRO](https://www.eventbrite.co.uk/e/inspired-by-women-tickets-117973442743?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
+- (00:00 H. ESP.) Inicios de la Programación 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Miércoles al Jueves)
 
 ### 🔔 17 de Septiembre
 
@@ -61,12 +61,14 @@ Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dah
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00 H. ESP.) ¿Cómo ser un programador web? 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Viernes al Sábado)
 
 ### 🔔 19 de Septiembre
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
 - (11:00 AM H. ESP.) ✨ OSWeekends #3: Animaciones svg, Blog Nuxt, Cypress Testing 👉 [Registro](https://www.meetup.com/es/Open-Source-Weekends/events/273013139/){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00 H. ESP.) Haz tus propias páginas web 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Sábado al Domingo)
 
 ### 🔔 20 de Septiembre
 
@@ -84,6 +86,11 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - (14:30 H. ESP.) La Product Conf Madrid | Online Edition 🗞 [Registro](https://www.eventbrite.com/e/la-product-conf-madrid-online-edition-tickets-115347246720)
 - (23:00 H. ESP. - 16:00 H. Ciudad de México) Tu personal Branding y la Nueva Normalidad 🗞 [Registro](https://www.eventbrite.com.mx/e/tu-personal-branding-y-la-nueva-normalidad-tickets-117309725547?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+- [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
+
+### 🔔 25 de Septiembre
+
+- [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
 
 ### 🔔 27 de Septiembre
 
