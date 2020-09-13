@@ -61,7 +61,7 @@ En la siguiente lista de los mejores auriculares para juegos vas a encontrar opc
   - [Características del auricular Razer Kraken X](#características-del-auricular-razer-kraken-x)
   - [¿Qué puntos fuertes tiene el auricular Razer Kraken X?](#qué-puntos-fuertes-tiene-el-auricular-razer-kraken-x)
   - [Precio del auricular Razer Kraken X](#precio-del-auricular-razer-kraken-x)
-  - [**Más Ofertas con Rebajas y Flash 🎁**](#más-ofertas-con-rebajas-y-flash-)
+- [**Más Ofertas con Rebajas y Flash 🎁**](#más-ofertas-con-rebajas-y-flash-)
 
 ## 1. **HyperX Cloud Alpha**
 
@@ -226,11 +226,11 @@ En OFERTA Actualmente sale por solamente 53,99 €. Su precio habitual es de 69,
 
 [🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3ke4hgR){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### **Más Ofertas con Rebajas y Flash 🎁**
+## **Más Ofertas con Rebajas y Flash 🎁**
 
-[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
