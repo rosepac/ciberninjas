@@ -1,12 +1,14 @@
 ---
-title: "📰 Alternativas reales a Facebook, Twitter: Steemit, Diaspora o Mastodon"
-description: '👨‍👩‍👦 Alternativas reales a Facebook, Twitter: Diaspora, Mastodon o Quitter son las mejores opciones que existen'
-excerpt: '👨‍👩‍👦 Alternativas reales a Facebook, Twitter: Diaspora, Mastodon o Quitter son las mejores opciones que existen'
-date: 2018-03-31 17:10:10
+
 author: rosepac
 bootstrap: true
 comments: false
 published: true
+title: "Alternativas reales a Facebook, Twitter: Steemit, Diaspora o Mastodon"
+description: 'A pesar de que no terminan de tener el auge que se merecen existen otras redes diferentes a las globalizadas; siendo redes sociales descentralizadas y libres en las que puedes construir una nueva red de amigos.'
+excerpt: 'A pesar de que no terminan de tener el auge que se merecen existen otras redes diferentes a las globalizadas; siendo redes sociales descentralizadas y libres en las que puedes construir una nueva red de amigos.'
+date: 2018-03-31 17:10:10
+last_modified_at: 2020-09-14 18:10:10
 permalink: /alternativas-reales-a-facebook-twitter-aparte-de-steemit-claro-esta/
 canonical_URL: https://ciberninjas.com/alternativas-reales-a-facebook-twitter-aparte-de-steemit-claro-esta/
 tags:
@@ -14,14 +16,14 @@ tags:
 - Redes Alternativas
 - Facebook
 - Twitter
-- Diaspora
-- Mastodon
 thumbnail: "/assets/img/amigos-redes-sociales.webp"
 feature-img: "/assets/img/amigos-redes-sociales.webp"
+
 ---
-> Las alternativas reales a Facebook o Twitter son Diaspora, Mastodon o Quitter; aunque siempre carecen de la falta de masa social existente en las dos grandes empresas mayoritarias
 
 A pesar de que no terminan de tener el auge que se merecen existen otras redes diferentes a las globalizadas; siendo redes sociales descentralizadas y libres en las que puedes construir una nueva red de amigos.
+
+> Las alternativas reales a Facebook o Twitter son Diaspora, Mastodon o Quitter; aunque siempre carecen de la falta de masa social existente en las dos grandes empresas mayoritarias
 
 Además, aportan el beneficio de que en ellas no existe publicidad, ni control o vigilancia externa, pasando a ser cada usuario el dueño de sus propios actos y contenidos: siendo está la clave principal de estas redes.
 
@@ -31,7 +33,18 @@ Con el clima actual y con todos los ojos apuntando hacia las diferentes redes so
 
 Me gustaría compartir algunas alternativas reales a las redes sociales más difundidas, como son los dos grandes gigantes: **Facebook** y **Twitter**.
 
-## Hablemos de Facebook
+- [**Hablemos de Facebook**](#hablemos-de-facebook)
+  - [Facebook a pasado al asalto final](#facebook-a-pasado-al-asalto-final)
+  - [Los problemas de Facebook](#los-problemas-de-facebook)
+- [**Hablemos de Twitter**](#hablemos-de-twitter)
+- [**Alternativas a Facebook**](#alternativas-a-facebook)
+  - [Diaspora](#diaspora)
+- [Alternativas a Twitter](#alternativas-a-twitter)
+  - [Quitter](#quitter)
+  - [Mastodon](#mastodon)
+- [**Alternativa a las alternativas: Regresar a las RSS**](#alternativa-a-las-alternativas-regresar-a-las-rss)
+
+## **Hablemos de Facebook**
 
 **Facebook** a trazado lineas incuestionables y no hablo por los problemas actuales. Más bien fijándonos en toda su linea de negocio desde hace años a esta parte.
 
@@ -43,7 +56,7 @@ Eso daba al usuario una sensación de respeto, al menos respecto hacia la privac
 
 Más. Vista la adictividad generada en todas las gamas de edades y entre todos sus usuarios activos y habiendo destrozado literalmente por activa y por pasiva a todas sus posibles competencias.
 
-## Facebook ha pasado al asalto final
+### Facebook a pasado al asalto final
 
 El objetivo principal de Facebook es agasajarnos de manera indiscriminada de publicidad masiva sin complejos.
 
@@ -53,15 +66,17 @@ Aglutinando así, todo tipo de información. Ahora **Facebook**, asocia lo que t
 
 El mundo de la publicidad y el comercio, siempre ha soñado con profundizar así sobre sus consumidores y jamás habían logrado ingresar de una forma tan directa en la vida privada.
 
-## Los problemas de Facebook
+### Los problemas de Facebook
 
 Esto no es algo nuevo, puesto que hay algunas voces que con anterioridad ya alzaron su voz al respecto; entre ellas, la más destacable a mi parecer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bnl0zm_ovqY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/bnl0zm_ovqY" allowfullscreen></iframe>
+</div><br/>
 
 La voz de **Richard Stallman**, sobre todo por llevar un discurso uniforme, constante y prolongado durante el tiempo. Desde el nacimiento de las redes sociales masificadas y de la inclusión de la publicidad en el universo web, hasta la actualidad.
 
-## Hablemos de Twitter
+## **Hablemos de Twitter**
 
 Si bien **Twitter**, aún parece respetar algo al usuario.. sin lugar a dudas, es una red que va enfocándose cada vez más en proseguir la línea de **Facebook**.
 
@@ -71,7 +86,7 @@ A pesar de todo, la estrategia de **Twitter** es ligeramente más discreta. Pues
 
 Maquilla y nos hace sentir que esa publicidad, no es tal; si no que forma parte directa del propio contenido que deseamos ir visualizando en **Twitter** y que nosotros elegimos; cuando no es así.
 
-## Alternativa a Facebook
+## **Alternativas a Facebook**
 
 Puede parecer curioso, pero durante muchos años **Facebook** se peleo contra muchas redes sociales que bien le hacían sombra pero que por muchas diversas razones, unas y otras han ido desapareciendo o transformándose hasta llegar a su practica inutilización.
 
@@ -81,30 +96,26 @@ Otras directamente dejaron de ser, red social como tal y otras tantas, se montar
 
 Lo gracioso, es que jamás se habla de posibles sustitos de estas redes; y que de lo poco que se habla (periscope, por ejemplo) es aún peor que lo existente.
 
-#### Diaspora
+### Diaspora
 
-La red más similar y con un desempeño que se podría comparar a **Facebook** es sin lugar a dudas [**Diaspora**](https://diasporafoundation.org/), a pesar de todo es un tanto liosa a la hora de registrarse, y eso seguramente es su mayor defecto.
+La red más similar y con un desempeño que se podría comparar a **Facebook** es sin lugar a dudas [**Diaspora**](https://diasporafoundation.org/){:target="_blank" rel="nofollow,noreferrer"}, a pesar de todo es un tanto liosa a la hora de registrarse, y eso seguramente es su mayor defecto.
 
-Los beneficios y perjucios de esta red social los podemos leer a través del Blog de [Lignux: El Facebook libre: Diaspora, abandona tu lugar de origen](https://lignux.com/diaspora/)
+Los beneficios y perjucios de esta red social los podemos leer a través del Blog de [Lignux: El Facebook libre: Diaspora, abandona tu lugar de origen](https://lignux.com/diaspora/){:target="_blank" rel="nofollow,noreferrer"}.
 
 Sin lugar a dudas Diaspora tiene muchísimos por menores, entre ellos el no poseer tanta masa social a sus alrededores; pero sin lugar a dudas, tiene una opción que me ha encantado y que considero es una auténtica maravilla.. que es el poder difundir a través de varias redes a la vez.
 
 ![Imagen de diaspora, conectado como usuario](https://steemitimages.com/640x0/https://image.ibb.co/hrnKPS/Interfaz_diaspora.png)
 
-**Por [Edycop - Own work](https://commons.wikimedia.org/wiki/User:Edycop "Fotografía de Wikimedia de la red social Diaspora"), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)**
+**Por [Edycop - Own work](https://commons.wikimedia.org/wiki/User:Edycop "Fotografía de Wikimedia de la red social Diaspora"){:target="_blank" rel="nofollow,noreferrer"}, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0){:target="_blank" rel="nofollow,noreferrer"}**
 {: .notice--info}
 
 Si lo que deseas es ser un creador de contenidos, sin formar parte constante de la publicidad y agravio que los grandes peces consideran que eres.
 
 La fórmula que Diaspora nos ofrece es compartir tus publicaciones instantáneamente vía Facebook, Twitter y Wordpress, sin mayor preocupación que la de publicar en una única vía.
 
-Además, permite la utilización de [markdown](https://markdown.es/), un cómodo lenguaje con el que redactar sencillamente tus entradas.
-
-
+Además, permite la utilización de [markdown](https://markdown.es/){:target="_blank" rel="nofollow,noreferrer"}, un cómodo lenguaje con el que redactar sencillamente tus entradas.
 
 **Obviamente, es una red social ausente de publicidad.**
-
-
 
 ------
 
@@ -112,19 +123,19 @@ Además, permite la utilización de [markdown](https://markdown.es/), un cómodo
 
 La red sociales de microblogging que he encontrado y que se asemejan son **Quitter** y **Mastodon**.
 
-#### Quitter
+### Quitter
 
-La que ofrece interfaz más limpia y sobre todo similar a Twitter, es: [Quitter](http://quitter.es/).
+La que ofrece interfaz más limpia y sobre todo similar a Twitter, es: [Quitter](http://quitter.es/){:target="_blank" rel="nofollow,noreferrer"}.
 
 Que es casi un clon de Twitter:
 
 ![Captura del Inicio de Quitter](https://steemitimages.com/640x0/https://image.ibb.co/mfMnTn/image.png)
 
-Podemos conocer más sobre Quitter en este buen y extenso [artículo de Genbeta](https://www.genbeta.com/redes-sociales-y-comunidades/quitter-que-es-como-funciona-y-todo-lo-que-tienes-que-saber), mucho mejor explicado de lo que yo pueda hacerlo.
+Podemos conocer más sobre Quitter en este buen y extenso [artículo de Genbeta](https://www.genbeta.com/redes-sociales-y-comunidades/quitter-que-es-como-funciona-y-todo-lo-que-tienes-que-saber){:target="_blank" rel="nofollow,noreferrer"}, mucho mejor explicado de lo que yo pueda hacerlo.
 
-#### Mastodon
+### Mastodon
 
-Otro opción con la que sustituir Twitter, es [Mastodon](https://mastodon.social/).
+Otro opción con la que sustituir Twitter, es [Mastodon](https://mastodon.social/){:target="_blank" rel="nofollow,noreferrer"}.
 
 Lo primero que te encuentras en la página de registro, es su aspecto en negro; y muchos mensajes en chino e inglés; poca masa social en español.
 
@@ -140,7 +151,7 @@ Existe la posibilidad de pasar a un estilo “*light*”..
 
 ------
 
-## Alternativa *Outsider*
+## **Alternativa a las alternativas: Regresar a las RSS**
 
 Aunque no sea una Red Social como tal, las RSS (Really Simple Syndication) o agregadores de contenidos web, a pesar de los pesares y con el paso del tiempo, las RSS siempre han estado aquí y no han dejado de ser el estándar perfecto, que ha sobrevivido y perdurado.
 
@@ -148,11 +159,4 @@ Aunque no sea una Red Social como tal, las RSS (Really Simple Syndication) o agr
 
 Sin lugar a dudas, las RSS han sido, son y serán: la mejor fórmula de mantenerse informado, de gestionar tus contenidos y por consiguiente de abstraerse de la masificación y la publicidad descontrolada dentro de las redes sociales, de la perdida de tiempo.
 
-Podríamos definir RSS como la red social del solitario.
-
-Los lectores de RSS y apps de visualización de RSS sobre Android, siempre han sido mi primera opción y siempre lo serán.
-
-<!-- <figure>
-    <a href="/assets/img/Fx636.jpg" class="image-popup"><img src="/assets/img/F.jpg"></a>
-    <figcaption>DS | Ciberninjas</figcaption>
-</figure> -->
+Podríamos definir RSS como la red social del solitario. Los lectores de RSS y apps de visualización de RSS sobre Android, siempre han sido mi primera opción y siempre lo serán.
