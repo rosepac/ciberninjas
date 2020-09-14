@@ -21,9 +21,13 @@ published: true
 
 ---
 
-NVIDIA y SoftBank Group Corp. (SBG) anunciaron hoy un acuerdo definitivo en virtud del cual NVIDIA comprará a la compañía Arm Limited de SBG y SoftBank Vision Fund (juntos, “SoftBank”) en una transacción valorada en 40.000 millones de dólares. Se espera que la transacción incremente inmediatamente el margen bruto no GAAP y las ganancias por acción no GAAP de NVIDIA.
+NVIDIA y SoftBank Group Corp. (SBG) anunciaron hoy un acuerdo definitivo en virtud del cual NVIDIA comprará a la compañía Arm Limited de SBG y SoftBank Vision Fund (juntos, “SoftBank”) en una transacción valorada en 40.000 millones de dólares.
 
-La combinación reúne la plataforma de computación de IA líder de NVIDIA con el vasto ecosistema de Arm para crear la principal empresa de computación para la era de la inteligencia artificial, acelerando la innovación mientras se expande a mercados grandes y de alto crecimiento. SoftBank seguirá comprometido con el éxito a largo plazo de Arm a través de su participación en la propiedad de NVIDIA, que se espera sea inferior al 10 por ciento.
+Se espera que la transacción incremente inmediatamente el margen bruto y las ganancias por acción de NVIDIA.
+
+La combinación reúne a la plataforma de computación líder de NVIDIA con el ecosistema de Arm para crear la mayor empresa de computación en la era de la inteligencia artificial, acelerando así, la innovación mientras se expande a grandes mercados.
+
+SoftBank seguirá comprometido con el éxito a largo plazo de Arm a través de su participación en la propiedad de NVIDIA, que se espera sea inferior al 10 por ciento.
 
 “La IA es la fuerza tecnológica más poderosa de nuestro tiempo y ha lanzado una nueva ola de computación”, dijo Jensen Huang, fundador y director ejecutivo de NVIDIA. “En los próximos años, billones de computadoras que ejecutan IA crearán una nueva Internet de las cosas que será miles de veces más grande que la Internet de las personas de hoy. Nuestra combinación creará una empresa en una posición fabulosa para la era de la IA.
 
