@@ -24,17 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 12 de Septiembre
-
-- (03:00 AM H. Española) Code LATAM: Introducción a Accesibilidad Web 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
-- (10:00 AM H. Española) HACK & BEERS Remakes Vol. 6 👉 Más INFO. [Agenda e Inscripción](https://l.immune.institute/capture-the-flag-ctf){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (19:00 PM H. ESP - 12:00 H. México) Cómo analizar la corrupción con datos de auditorías en R 👉 [Meetup y Zoom](https://www.meetup.com/es/rladies-aguascalientes/events/273033675/){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 13 de Septiembre
-
-- (00:00 H. ESP. - noche del domingo al lunes -) Política y Big Data 👉 [Registro](https://www.eventbrite.com.ar/e/politica-y-big-data-tickets-119948504205?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 14 de Septiembre
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
@@ -670,3 +659,14 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 
 - (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 H. Esp.) TikTok paso a paso 👉 [REGISTRO](https://www.eventbrite.com.ar/e/tiktok-paso-a-paso-registration-119089230093){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 12 de Septiembre
+
+- (03:00 AM H. Española) Code LATAM: Introducción a Accesibilidad Web 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
+- (10:00 AM H. Española) HACK & BEERS Remakes Vol. 6 👉 Más INFO. [Agenda e Inscripción](https://l.immune.institute/capture-the-flag-ctf){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00 PM H. ESP - 12:00 H. México) Cómo analizar la corrupción con datos de auditorías en R 👉 [Meetup y Zoom](https://www.meetup.com/es/rladies-aguascalientes/events/273033675/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 13 de Septiembre
+
+- (00:00 H. ESP. - noche del domingo al lunes -) Política y Big Data 👉 [Registro](https://www.eventbrite.com.ar/e/politica-y-big-data-tickets-119948504205?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
