@@ -16,7 +16,7 @@ feature-img: /assets/img/blog/nativescript-app-1.webp
 
 ¡Bienvenido a otro lanzamiento del framework de desarrollo de aplicaciones multiplataforma NativeScript! La versión 6.5 de NativeScript ofrece algunos importantes cambios.
 
-![](/assets/img/blog/nativescript-app-1.webp "Novedades de NativeScript 6.5")
+![Novedades de NativeScript 6.5](/assets/img/blog/nativescript-app-1.webp "Novedades de NativeScript 6.5")
 
 Antes de nada debemos actualizar nuestra versión de NativeScript, a la nueva versión 6.5:
 
