@@ -14,7 +14,7 @@ excerpt: >-
   Nuevo software de audiolibros para los sistemas operativos Unix, ¡Comienza a escuchar tus libros favoritos de la forma más cómoda!
 canonical_URL: https://ciberninjas.com/cozy-reproductor-audiolibros/
 permalink: /cozy-reproductor-audiolibros/
-date: 2020-09-11 07:38:32
+date: 2020-09-14 05:42:32
 last_modified_at: 
 published: true
 
