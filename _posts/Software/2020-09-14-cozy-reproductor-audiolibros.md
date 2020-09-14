@@ -38,7 +38,7 @@ Cozy es un reproductor de audiolibros moderno para Linux.
 - Soporta archivos DRM free mp3, m4a (aac, ALAC,…), flac, ogg, opus, wav.
 - Integración Mpris (teclas multimedia e información de reproducción para el entorno de escritorio).
 
-> 📚 Quizás te interese: [Libros recomendados por Elon Musk](https://ciberninjas.com/libros-recomendados-elon-musk-2020/) | [Libros recomendados por Satya Nadella](https://ciberninjas.com/libros-recomendados-satya-nadella-2020/) | [Libros recomendados por Mark Zuckerberg](https://ciberninjas.com/libros-ciencias-zuckerberg/)
+> 📚 Quizás te interese: [Libros recomendados por Elon Musk](https://ciberninjas.com/libros-recomendados-elon-musk-2020/) / [Libros recomendados por Satya Nadella](https://ciberninjas.com/libros-recomendados-satya-nadella-2020/) / [Libros recomendados por Mark Zuckerberg](https://ciberninjas.com/libros-ciencias-zuckerberg/)
 
 ## **Sistemas operativos para los que se encuentra disponible Cozy**
 
