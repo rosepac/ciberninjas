@@ -15,9 +15,9 @@ excerpt: >-
   NVIDIA une su liderazgo junto al de ARM para impulsar la innovación a través de la inteligencia artificial.
 canonical_URL: https://ciberninjas.com/nvidia-compra-arm/
 permalink: /nvidia-compra-arm/
-date: 2020-09-13 23:38:32
+date: 2020-09-14 05:46:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
