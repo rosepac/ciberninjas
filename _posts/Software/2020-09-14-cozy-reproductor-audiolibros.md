@@ -22,7 +22,7 @@ published: true
 
 Cozy es un reproductor de audiolibros moderno para Linux.
 
-> 📚 Quizás te interese: [Mejores auriculares para todo](https://ciberninjas.com/auriculares-diseño/) | [Mejores auriculares gamers](https://ciberninjas.com/auriculares-gamer/)
+> 📚 Quizás te interese: [Mejores auriculares para todo](https://ciberninjas.com/auriculares-diseño/) / [Mejores auriculares gamers](https://ciberninjas.com/auriculares-gamer/)
 
 ## **Características del reproductor de audiolibros Cozy**
 
