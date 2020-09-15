@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Lenguajes de Marcado]
-title: "▷ 32 Mejores cursos gratis de lenguajes de marcado: HTML, XHTML, Markdown, Yaml, etc"
+title: "▷ 33 Mejores cursos gratis de diseño web y lenguajes de marcado: HTML, XHTML, Markdown, Yaml, etc"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 date: 2020-08-30T06:22:00.000+02:00
@@ -41,6 +41,7 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 - [Cómo crear una página web en 30 minutos](https://www.udemy.com/como-crear-una-pagina-web-en-30-minutos){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Cómo programar para emprendedores, HTML y CSS](https://www.udemy.com/programacion-para-emprendedores){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Curso básico de HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
+- [Curso de Diseño Web](/curso-diseno-web-dustin-hurtado/) (Dostin Hurtado, Youtube)
 - [Curso de HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
 - [Curso de HTML y CSS Gratis](https://devcode.la/cursos/html-css) (DevCode)
 - [Curso de HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK) (Pildoras Informáticas, Youtube)
