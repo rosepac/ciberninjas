@@ -20,7 +20,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5tA44GpyFntFHtHd6Zxb2xQZpxwOfeu3" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Scratch y Arduino**
 
 1. ¿Qué es Scratch?
 2. El Origen de Scratch

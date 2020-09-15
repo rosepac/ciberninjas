@@ -19,12 +19,12 @@ tags: [Java, Framework Spring, Redis, Videotutorial Java, Videotutorial Docker, 
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/X7Qq5n5Ph80" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Spring Boot y Docker de Abel Fresnillo**
 
-* 10 Comandos Básicos de Docker
-* Seguridad con Spring Boot y Okta
-* Primeros pasos con Spring Boot y Redis
-* Corriendo una Spring Boot App con Docker
-* Spring Boot Rest API
+1. 10 Comandos Básicos de Docker
+1. Seguridad con Spring Boot y Okta
+1. Primeros pasos con Spring Boot y Redis
+1. Corriendo una Spring Boot App con Docker
+1. Spring Boot Rest API
 
 [Spring](/cursos-tecnologia/#spring){: .btn .btn-outline-dark .btn-lg .btn-block}

@@ -3,9 +3,9 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Curso de Registro de Inventarios de Android"
-description: "▷ Conoce y aprende a crear un registro de inventarios con Android con este curso online del formador Programación y Más"
-excerpt: "▷ Conoce y aprende a crear un registro de inventarios con Android con este curso online del formador Programación y Más"
+title: "Curso de Registro de Inventarios de Android"
+description: "Conoce y aprende a crear un registro de inventarios con Android con este curso online del formador Programación y Más"
+excerpt: "Conoce y aprende a crear un registro de inventarios con Android con este curso online del formador Programación y Más"
 permalink: /android-studio-registro-inventarios/
 canonical_URL: https://ciberninjas.com/android-studio-registro-inventarios/
 comments: false
@@ -21,7 +21,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLzSFZWTjelbJfNqwa2KlCp0Dixm4O4oic" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenidos del Curso de Creción de Registro de Inventarios en Android**
 
 1. Cómo leer código de barras y QR en Android.
 2. Crear una lista dinámica en Android usando RecyclerView.
@@ -36,6 +36,6 @@ tags:
 11. Login usando SharedPreferences.
 12. Obtener y registrar datos usando Retrofit y GSON.
 
-## Creador
+## **Creador del Curso de Creción de Registro de Inventarios en Android**
 
 Aprender a programar a través de Android Studio con el curso impartido por el canal de Youtube Programación y Más.

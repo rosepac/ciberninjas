@@ -17,7 +17,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Curso de React Native de Aprendizaje Fácil**
 
 1. React Native Curso en español 2019
 2. Instalación y Expo

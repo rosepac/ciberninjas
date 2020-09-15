@@ -3,9 +3,9 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "👨‍🏫 Diccionario SEO Fácil con Romuald Fons"
-description: "🔠 Diccionario SEO Fácil con Romuald Fons"
-excerpt: "🔠 Diccionario SEO Fácil con Romuald Fons"
+title: "Diccionario SEO Fácil con Romuald Fons 👨‍🏫"
+description: "✅ Diccionario SEO Fácil con Romuald Fons"
+excerpt: "✅ Diccionario SEO Fácil con Romuald Fons"
 comments: false
 date: 2019-08-27 15:36:12
 tags:

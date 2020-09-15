@@ -18,7 +18,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de React Native de Iván Trujillo**
 
 1. Primeros Pasos
 2. Componentes, Botones y Alertas
@@ -27,7 +27,7 @@ tags:
 5. Peticiones a API y ListView
 6. Vista Detalles y Paso de Propiedades a Componente Hijo
 
-## Creador
+## **¿Quién es Iván Trujillo?**
 
 Editor del blog de Medium: Canarias JS
 

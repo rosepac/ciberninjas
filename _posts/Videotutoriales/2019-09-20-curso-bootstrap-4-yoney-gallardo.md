@@ -3,7 +3,7 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "👨‍🏫 Curso de Bootstrap 4 por Yoney Gallardo"
+title: "Curso de Bootstrap 4 por Yoney Gallardo"
 description: "👩‍🎨 Curso de Bootstrap 4 por Yoney Gallardo"
 excerpt: "👩‍🎨 Curso de Creación de Bootstrap 4 por Yoney Gallardo"
 permalink: /👨‍🏫-curso-bootstrap-4-yoney-gallardo/
@@ -18,7 +18,7 @@ tags: [Bootstrap, Videotutorial Bootstrap, Yoney Gallardo]
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/-83eiJ9EaD4" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Bootstrap de Yoney Gallardo**
 
 1. INTRODUCCIÓN  -  0:10
  - Que es bootstrap y para que sirve

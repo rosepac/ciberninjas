@@ -22,22 +22,21 @@ permalink: /seo-facil-romuald-fons/
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW" allowfullscreen></iframe>
 </div><br/>
 
-## **Contenido del Curso de SEO Intermedio de Romuald Fons
-
-- Cómo gane 18.000 € con Adsense
-- ¿Qué es el SEO para los furiosos?
-- Cómo elegir el Dominio Perfecto para tu web
-- ¿Qué dominios posicionan mejor para el seo?
-- Semrush Gratis para posicionar tu web
-- Hosting gratis y de calidad para los furiosos
-- Tutorial Wordpress completo en español 2019
-- Los 8 mejores plugins para wordpress 2018
-- Cómo buscar y encontrar palabras clave para los artículos de tu web
-- Arquitéctura SILO y lógicade URLs
-- Navegación web por Clusters y Sorpresa
-- Gana más tráfico con tu página de inicio
-- Cómo posicionar una web con Google 2019
-- El mejor tutorial de Interlinking o Enlazado Interno de la historia
-- Aprender cómo ganar dinero con Amazon afiliados en 4 días en 2019
-- ¿Quieres aparecer Primero en Google con tu blog? Haz esto!
-- Cómo instalar un certificado SSL y activar HTTPS en Wordpress Gratis
+## **Contenido del Curso de SEO Intermedio de Romuald Fons**
+1. Cómo gane 18.000 € con Adsense
+1. ¿Qué es el SEO para los furiosos?
+1. Cómo elegir el Dominio Perfecto para tu web
+1. ¿Qué dominios posicionan mejor para el seo?
+1. Semrush Gratis para posicionar tu web
+1. Hosting gratis y de calidad para los furiosos
+1. Tutorial Wordpress completo en español 2019
+1. Los 8 mejores plugins para wordpress 2018
+1. Cómo buscar y encontrar palabras clave para los artículos de tu web
+1. Arquitéctura SILO y lógicade URLs
+1. Navegación web por Clusters y Sorpresa
+1. Gana más tráfico con tu página de inicio
+1. Cómo posicionar una web con Google 2019
+1. El mejor tutorial de Interlinking o Enlazado Interno de la historia
+1. Aprender cómo ganar dinero con Amazon afiliados en 4 días en 2019
+1. ¿Quieres aparecer Primero en Google con tu blog? Haz esto!
+1. Cómo instalar un certificado SSL y activar HTTPS en Wordpress Gratis
