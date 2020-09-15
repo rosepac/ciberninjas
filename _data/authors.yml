@@ -1,7 +1,7 @@
 ﻿rosepac:
-  name: "Pablo Alvarez Corredera"
-  avatar: "https://avatars0.githubusercontent.com/u/4309005?s=460&u=4"
-  url: "https://twitter.com/ciberninjas"
+  name: "Pablo Álvarez Corredera"
+  avatar: "/assets/img/logos/ciberninjas-logo.webp"
+  url: "/quien-soy/"
 unknown:
   name: Unknown
   avatar:
