@@ -23,6 +23,7 @@ Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada del **
 
 - [**Introducción a Hiren´s Boot CD**](#introducción-a-hirens-boot-cd)
 - [**Sobre Hiren´s Boot CD 🏛**](#sobre-hirens-boot-cd-)
+- [**¿Cómo reparar un disco duro con Hiren´s Boot?**](#cómo-reparar-un-disco-duro-con-hirens-boot)
 - [**Software Incluidos 🔧**](#software-incluidos-)
   - [Herramientas BCD-MBR](#herramientas-bcd-mbr)
   - [Recuperación de Datos](#recuperación-de-datos)
@@ -71,6 +72,16 @@ Sabemos que hay toneladas de software útil para propósitos de uso diario. Pero
 Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejores solo para los casos de emergencia.
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## **¿Cómo reparar un disco duro con Hiren´s Boot?**
+
+En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que hará es chequear y dejar anuladas las posibles fracciones que se encuentren dañadas, ¿Cómo haremos esto?
+
+1. Arrancamos el ordenador con el CD de Hiren´s Boot insertado.
+2. Crea una copia de seguridad de tus datos.
+3. Ejecuta el software HDTune v2.55 (una de entre varias opciones).
+4. Revisa el reporte final y vigila si te indica la existencia de sectores dañados.
+5. Utiliza el formateado de HDD Low Level Format si fuese necesario.
 
 ## **Software Incluidos 🔧**
 
