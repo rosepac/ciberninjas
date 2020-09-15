@@ -21,7 +21,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Javascript de Falcon Masters**
 
 1. Introducción
 2. Variables

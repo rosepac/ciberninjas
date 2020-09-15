@@ -19,7 +19,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Android de Jesús Conde**
 
 1. Crear Entorno de Trabajo
 2. Crear y Usar Dispositivos Virtuales

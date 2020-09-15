@@ -17,7 +17,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenidos del Curso de App Inventor y Android**
 
 1. App Inventor 1: Introducción
 2. App Inventor 1.2: Propiedades de la App y ventanas

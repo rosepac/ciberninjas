@@ -20,7 +20,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del curso de Javascript de Eduardo Ibarra**
 
 1. Qué es un lenguaje de programación
 2. Qué es Javascript Y nuestro primer Hola Mundo\!

@@ -18,11 +18,9 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Introducción
-
 Esta serie de vídeos te ayudará a conocer pequeñas técnicas, librerías y detalles que implementados a la hora de aprender a programar te asegurarán estar realizando un buen trabajo y siempre lo más cercano posible a las últimas novedades del lenguaje de Javascript.
 
-## Índice
+## **Contenido del Curso de Javascript y Nuevos Consejos de Jesús Conde**
 
 1. Agregar Fuente 'Fira Code' para codificar mejor en JavaScript
 2. Formateo de Código con Prettier

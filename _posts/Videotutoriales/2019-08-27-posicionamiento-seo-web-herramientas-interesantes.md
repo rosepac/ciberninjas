@@ -16,7 +16,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Posicionamiento Web y SEO - Herramientas Técnicas**
 
 - Google My Bussiness para tu Negocio Local en 2019
 - Tutorial Screaming Fro para optimizar el seo de una web

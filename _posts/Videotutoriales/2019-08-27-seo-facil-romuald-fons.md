@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -13,9 +14,15 @@ tags:
 - Romuald Fons
 canonical_URL: https://ciberninjas.com/seo-facil-romuald-fons/
 permalink: /seo-facil-romuald-fons/
+
 ---
 
-## Índice
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW" allowfullscreen></iframe>
+</div><br/>
+
+## **Contenido del Curso de SEO Intermedio de Romuald Fons
 
 - Cómo gane 18.000 € con Adsense
 - ¿Qué es el SEO para los furiosos?
@@ -34,7 +41,3 @@ permalink: /seo-facil-romuald-fons/
 - Aprender cómo ganar dinero con Amazon afiliados en 4 días en 2019
 - ¿Quieres aparecer Primero en Google con tu blog? Haz esto!
 - Cómo instalar un certificado SSL y activar HTTPS en Wordpress Gratis
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW" allowfullscreen></iframe>
-</div><br/>

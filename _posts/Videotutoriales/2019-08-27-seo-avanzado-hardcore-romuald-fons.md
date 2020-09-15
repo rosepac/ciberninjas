@@ -15,7 +15,7 @@ canonical_URL: https://ciberninjas.com/seo-avanzado-hardcore-romuald-fons/
 permalink: /seo-avanzado-hardcore-romuald-fons/
 ---
 
-## Índice
+## **Contenido del Curso de SEO Avanzado (nivel hardcore) de Romuald Fons**
 
 - Truco para posicionar sin enlaces y sin contenido
 - Los secretos SEO de las Metas noindex y nofollow

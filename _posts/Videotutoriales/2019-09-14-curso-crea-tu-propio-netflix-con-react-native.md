@@ -18,7 +18,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Creación de una APP similar a Netflix**
 
 1. FlatList Horizontal
 2. Componente Swiper

@@ -20,7 +20,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
 </div><br/>
 
-## Índice
+## **Contenido del Curso de Material Design y Android Studio de Jesús Conde**
 
 1. ¿Qué es Material Design?
 2. El tema de Material Design
