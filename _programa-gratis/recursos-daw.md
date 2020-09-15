@@ -13,7 +13,7 @@ feature-img: /assets/img/paginas/estudiar-daw.webp
 img: /assets/img/paginas/estudiar-daw.webp
 ---
 
-El ciclo de formación profesional de desarrollo de aplicaciones web te ofrece la posibilidad de lograr el título de técnico superior en desarrollo de aplicaciones web.
+El **ciclo de formación profesional de desarrollo de aplicaciones web** o también conocido como DAW, te ofrece la posibilidad de lograr **el título de técnico superior en desarrollo de aplicaciones web**.
 
 Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.
 
@@ -25,9 +25,9 @@ Por eso, lo primero que tiende a hacer uno, es ir a buscar información compleme
 
 Al dar este paso, uno se sumerge en el mundo de la información infinita; la documentación masificada a lo largo de miles de plataformas y en distintos soportes. Con lo que puedes llegar a volverte ‘loco’.
 
-Pues he aquí, los documentos que mayor validez han tenido para mi hasta el momento durante un largo año y medio peleando contra el código 😎
+Pues aquí, vas a poder encontrar una recopilación de apuntes, cursos y libros relacionados por asignaturas del FP de Desarrollo de Aplicaciones Web.
 
-> Recopilación de apuntes, cursos y libros relacionados por asignaturas del FP de Desarrollo de Aplicaciones Web (DAW).
+No dejen de estudiar, ¡Espero que les sea de grata ayuda 😎!
 
 - [1. **Bases de datos**](#1-bases-de-datos)
   - [Libros de bases de datos](#libros-de-bases-de-datos)
@@ -56,7 +56,6 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 - [14. **Proyecto de desarrollo de aplicaciones web**](#14-proyecto-de-desarrollo-de-aplicaciones-web)
   - [Libros de proyecto de desarrollo de aplicaciones web](#libros-de-proyecto-de-desarrollo-de-aplicaciones-web)
 - [15. **Formación en centros de trabajo**](#15-formación-en-centros-de-trabajo)
-  - [Libros de formación en centros de trabajo](#libros-de-formación-en-centros-de-trabajo)
 - [**Apuntes Completos: FP de Desarrollo de Aplicaciones Web**](#apuntes-completos-fp-de-desarrollo-de-aplicaciones-web)
 
 **Asignaturas del primer curso de DAW**
@@ -65,10 +64,12 @@ El primer curso de Desarrollo de Aplicaciones Web consiste en cursar las asignat
 
 ## 1. **Bases de datos**
 
-- Diseño Conceptual de Bases de Datos (2.004) 📖 [**OpenLibra: Diseño Conceptual de Bases de Datos**](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (todas las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo).
-- Apuntes Básicos de SQL (2.008) 📖 [**OpenLibra: Apuntes Básicos de SQL**](https://openlibra.com/es/book/download/apuntes-basicos-de-sql){:target="_blank" rel="nofollow,noreferrer"} (estos apuntes son una introducción muy básica al SQL, en ningún caso sustituyen a un buen manual).
-- Bases de Datos (2.010) 📖 [**OpenLibra: Bases de Datos**](https://openlibra.com/es/book/download/bases-de-datos-2){:target="_blank" rel="nofollow,noreferrer"} (Este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas).
-- Bases de Datos Avanzadas (2.013) 📖 [**OpenLibra: Bases de datos avanzadas**](https://openlibra.com/es/book/download/bases-de-datos-avanzadas){:target="_blank" rel="nofollow,noreferrer"} (Esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos)
+En nuestra biblioteca Ciberninjas vas a poder encontre [los mejores libros de bases de datos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos) bajo licencia Creative Commons, a continuación, te indico los que personalmente me parecen los mejores.
+
+- Diseño Conceptual de Bases de Datos (2.004) 📖 [**Diseño Conceptual de Bases de Datos**](https://drive.google.com/file/d/177YFW1w002Kz0_Z4DQ2V4XmztZOen5dt/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (todas las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo) por Jorge Sanchéz.
+- Apuntes Básicos de SQL (2.008) 📖 [**Apuntes Básicos de SQL**](https://drive.google.com/file/d/11JtEKAQWPgDynT3A7jkYp1d4YvMCn4Hs/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (estos apuntes son una introducción muy básica al SQL, en ningún caso sustituyen a un buen manual) por Unai Estébanez.
+- Bases de Datos (2.011) 📖 [**Bases de Datos**](https://drive.google.com/file/d/1R2MbP0uldOvFRER37NCOAzPNA8fhxudj/view){:target="_blank" rel="nofollow,noreferrer"} (este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas) por Mercedes Marqués.
+- Bases de Datos Avanzadas (2.013) 📖 [**Bases de datos avanzadas**](https://drive.google.com/file/d/1GZlfXH303ZdnB_kxFkx2rnid7uoLooWe/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos) por Aramburu & Sanz Blasco.
 
 ### Libros de bases de datos
 
