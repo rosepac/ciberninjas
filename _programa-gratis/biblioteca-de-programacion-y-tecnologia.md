@@ -6,6 +6,7 @@ description: "Los Mejores Libros PDF Gratuitos de Informática: Programar para p
 excerpt: "Los Mejores Libros PDF Gratuitos de Informática: Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
 bootstrap: true
 date: 2020-08-07
+last_modified_at: 2020-09-15
 permalink: /biblioteca-de-programacion-y-tecnologia/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
 published: true
@@ -24,9 +25,11 @@ Los **desarrolladores web** y de **software**, junto a sus múltiples metodolog�
 
 Viendo fortalecidas así, sus aptitudes para llevar a cabo cualquier puesto de trabajo relacionado con [**las nuevas profesiones digitales**](/profesiones-digitales/).
 
+{% include libros-prog.html %}
+
 ## **Mejores Libros Gratuitos PDF para Programar**
 
-Si tu profesión o futuro trabajo esta entre los siguientes campos como son: el campo de los desarrolladores web y multimedia, los desarrolladores de software, los programadores de aplicaciones, diseñadores gráficos y multimedia, administradores de sistemas y bases de datos, especialistas en seguridad informática o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
+Si tu profesión o futuro trabajo esta entre los siguientes campos comomunicaciones.
 
 Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad y el marketing digital, e incluso los profesionales de gestión. Con toda seguridad aquí vas a encontrar libros que te ayudarán a seguir aprendiendo lo que más te gusta.
 
