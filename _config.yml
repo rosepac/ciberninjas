@@ -57,6 +57,9 @@ collections:
   programa-gratis:
     output: true
     permalink: /:collection/:name
+  libros-prog:
+    output: true
+    permalink: /:collection/:name
   cursos-gratis:
     output: true
     permalink: /:collection/:name
