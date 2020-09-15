@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -10,6 +11,7 @@ canonical_URL: https://ciberninjas.com/👨‍💻-curso-xcode-swift-mouredev/
 comments: false
 date: 2019-12-19
 tags: [XCode, Swift, Videotutorial XCode, Videotutorial Swift, Moure Dev]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

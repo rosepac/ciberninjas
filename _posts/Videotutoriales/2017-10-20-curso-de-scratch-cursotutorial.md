@@ -13,11 +13,7 @@ tags:
 - Scratch
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
-</div><br/>
-
-## Índice
+## **Contenidos del Curso de Scratch desde Cero**
 
 1. Introducción
 2. Añadir personajes en Scratch
@@ -28,3 +24,7 @@ tags:
 7. Poner sonidos en Scratch
 8. Simulación de parquímetro
 9. Dibujo de funciones gráficas
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
+</div><br/>

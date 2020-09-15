@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -11,6 +12,7 @@ permalink: /web-scraping-c-sharp-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
 tags: [Web Scraping, Videotutorial Web Scraping, Jap Software]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

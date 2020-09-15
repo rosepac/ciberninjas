@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -10,6 +11,7 @@ canonical_URL: 'https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv/'
 comments: false
 date: 2019-09-26 02:00:00 +0200
 tags: [Power Bi]
+
 ---
 
 ## Módulo I - Análisis de Información

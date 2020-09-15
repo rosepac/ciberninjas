@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -13,6 +14,7 @@ tags:
   - Android Studio
   - Videotutorial Android Studio
   - Programación y Más
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

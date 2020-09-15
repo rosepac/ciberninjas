@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -10,6 +11,7 @@ canonical_URL: https://ciberninjas.com/👨‍🏫-curso-marketing-digital-david
 comments: false
 date: 2019-11-28
 tags: [Marketing Digital, Videotutorial Marketing Digital]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

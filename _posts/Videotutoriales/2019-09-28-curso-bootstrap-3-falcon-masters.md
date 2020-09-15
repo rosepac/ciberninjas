@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -10,6 +11,7 @@ canonical_URL: https://ciberninjas.com/👨‍🏫-curso-bootstrap-3-falcon-mast
 comments: false
 date: 2019-09-28
 tags: [Bootstrap, Videotutorial Bootstrap, Falcon Masters]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

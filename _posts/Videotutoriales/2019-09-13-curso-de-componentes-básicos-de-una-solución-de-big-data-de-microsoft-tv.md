@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -11,6 +12,7 @@ comments: false
 date: 2019-09-26
 tags: [Big Data]
 published: false
+
 ---
 
 ## Módulo I - Componentes de una solución de Big Data

@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -10,6 +11,7 @@ canonical_URL: https://ciberninjas.com/👨‍💻-curso-aprendizaje-automatico-
 comments: false
 date: 2020-01-02
 tags: [Aprendizaje Automático, Videotutorial Aprendizaje Automático]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

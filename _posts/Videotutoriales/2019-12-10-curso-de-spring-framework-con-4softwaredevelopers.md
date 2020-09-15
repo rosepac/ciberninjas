@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -11,6 +12,7 @@ permalink: /spring-framework-con-4softwaredevelopers/
 comments: false
 date: 2019-12-04 18:08:00 +0200
 tags: [Java, Framework Spring, Videotutorial Java, 4SoftwareDevelopers]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -11,6 +12,7 @@ permalink: /c-mas-con-programacion-explicada/
 comments: false
 date: 2016-09-20 15:35:00 +0200
 tags: [C++, Videotutorial C++]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

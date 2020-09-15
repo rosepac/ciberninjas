@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -11,6 +12,7 @@ permalink: /go-con-g-coding-academy/
 comments: false
 date: 2020-03-01 15:35:00 +0200
 tags: [Go desde Cero, Videotutorial Go desde Cero]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

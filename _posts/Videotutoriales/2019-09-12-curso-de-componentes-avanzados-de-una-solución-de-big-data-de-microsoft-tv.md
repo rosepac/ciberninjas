@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -12,6 +13,7 @@ comments: false
 date: 2019-09-26 03:03:00 +0200
 tags: [Big Data]
 published: false
+
 ---
 
 ## Módulo I - Introducción a Spark

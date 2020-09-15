@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -11,6 +12,7 @@ permalink: /spring-boot-con-jose-orjuela/
 comments: false
 date: 2019-12-04 17:42:00 +0200
 tags: [Framework Spring, Videotutorial Java, José Orjuela]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -10,6 +11,7 @@ canonical_URL: https://ciberninjas.com/👨‍🏫-curso-php-7-mysql-purito-codi
 comments: false
 date: 2019-12-19
 tags: [PHP, MySQL, Videotutorial PHP, Purito Código]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

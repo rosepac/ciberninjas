@@ -1,4 +1,5 @@
 ---
+
 author: rosepac
 bootstrap: true
 published: true
@@ -10,6 +11,7 @@ canonical_URL: https://ciberninjas.com/👨‍🏫-galerias-varios-efectos-css-p
 comments: false
 date: 2019-12-19
 tags: [CSS, Videotutorial CSS, Purito Código]
+
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
