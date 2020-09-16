@@ -24,16 +24,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 15 de Septiembre
-
-- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} Conferenciantes (https://megatestingweek.com/speakers/) | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
-- (19:00 PM) ¿Pondrá Deno el mundo de Node del revés? - [Registro](https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 16 de Septiembre
-
-- (18:00 H. ESP.) Inspired by Woman: Enciende tu marca personal 🗞 [REGISTRO](https://www.eventbrite.co.uk/e/inspired-by-women-tickets-117973442743?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (00:00 H. ESP.) Inicios de la Programación 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Miércoles al Jueves)
-
 ### 🔔 17 de Septiembre
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
@@ -667,3 +657,13 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 ### 🔔 14 de Septiembre
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+
+### 🔔 15 de Septiembre
+
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} Conferenciantes (https://megatestingweek.com/speakers/) | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+- (19:00 PM) ¿Pondrá Deno el mundo de Node del revés? - [Registro](https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 16 de Septiembre
+
+- (18:00 H. ESP.) Inspired by Woman: Enciende tu marca personal 🗞 [REGISTRO](https://www.eventbrite.co.uk/e/inspired-by-women-tickets-117973442743?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00 H. ESP.) Inicios de la Programación 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Miércoles al Jueves)
