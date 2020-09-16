@@ -14,29 +14,17 @@ feature-img: /assets/img/paginas/estudiar-daw.webp
 img: /assets/img/paginas/estudiar-daw.webp
 ---
 
+<div>
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
     <li class="breadcrumb-item active" aria-current="page">Recursos DAW</li>
   </ol>
 </nav>
+</div>
 
 El **ciclo de formación profesional de desarrollo de aplicaciones web** o también conocido como DAW, te ofrece la posibilidad de lograr **el título de técnico superior en desarrollo de aplicaciones web**.
-
-Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.
-
-Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información de reciente creación.
-
-Con lo primero que se encuentra una persona al comenzar los estudios de formación profesional de desarrollo de aplicaciones web, es con el serio problema de no poseer los apuntes tomados personalmente; con los que lograr centrarse únicamente en estudiar mediante una dinámica organizada.
-
-Por eso, lo primero que tiende a hacer uno, es ir a buscar información complementaria.
-
-Al dar este paso, uno se sumerge en el mundo de la información infinita; la documentación masificada a lo largo de miles de plataformas y en distintos soportes. Con lo que puedes llegar a volverte ‘loco’.
-
-Pues aquí, vas a poder encontrar una recopilación de apuntes, cursos y libros relacionados por asignaturas del FP de Desarrollo de Aplicaciones Web.
-
-No dejen de estudiar, ¡Espero que les sea de grata ayuda 😎!
 
 - [1. **Bases de datos**](#1-bases-de-datos)
   - [Libros de bases de datos](#libros-de-bases-de-datos)
@@ -67,6 +55,20 @@ No dejen de estudiar, ¡Espero que les sea de grata ayuda 😎!
   - [Libros de proyecto de desarrollo de aplicaciones web](#libros-de-proyecto-de-desarrollo-de-aplicaciones-web)
 - [15. **Formación en centros de trabajo**](#15-formación-en-centros-de-trabajo)
 - [**Apuntes Completos: FP de Desarrollo de Aplicaciones Web**](#apuntes-completos-fp-de-desarrollo-de-aplicaciones-web)
+
+Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.
+
+Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información de reciente creación.
+
+Con lo primero que se encuentra una persona al comenzar los estudios de formación profesional de desarrollo de aplicaciones web, es con el serio problema de no poseer los apuntes tomados personalmente; con los que lograr centrarse únicamente en estudiar mediante una dinámica organizada.
+
+Por eso, lo primero que tiende a hacer uno, es ir a buscar información complementaria.
+
+Al dar este paso, uno se sumerge en el mundo de la información infinita; la documentación masificada a lo largo de miles de plataformas y en distintos soportes. Con lo que puedes llegar a volverte ‘loco’.
+
+Pues aquí, vas a poder encontrar una recopilación de apuntes, cursos y libros relacionados por asignaturas del FP de Desarrollo de Aplicaciones Web.
+
+No dejen de estudiar, ¡Espero que les sea de grata ayuda 😎!
 
 **Asignaturas del primer curso de DAW**
 
