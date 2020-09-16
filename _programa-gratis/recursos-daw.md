@@ -5,6 +5,7 @@ description: "Los mejores apuntes y recursos para superar el FP de desarrollo de
 excerpt: "Los mejores apuntes y recursos para superar el FP de desarrollo de aplicaciones web."
 published: true
 comments: false
+bootstrap: true
 date: 2020-09-02
 permalink: /recursos-daw/
 canonical_URL: https://ciberninjas.com/recursos-daw/
@@ -73,7 +74,9 @@ El primer curso de Desarrollo de Aplicaciones Web consiste en cursar las asignat
 
 ## 1. **Bases de datos**
 
-En nuestra biblioteca Ciberninjas vas a poder encontre [los mejores libros de bases de datos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos) bajo licencia Creative Commons, a continuación, te indico los que personalmente me parecen los mejores.
+En la asignatura de bases de datos vas a poder aprender una introducción a los sistemas lógicos de información, aprenderás a comprender el modelo relacional, los lenguajes relacionales, el lenguaje SQL, a diseñar, proyectar y prototipar de bases de datos, vas a conocer el modelo de entidad - relación, y a crear diseños relacionales lógicos.
+
+En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de bases de datos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos) bajo licencia Creative Commons, a continuación, te indico los que personalmente me parecen los mejores.
 
 - Diseño Conceptual de Bases de Datos (2.004) 📖 [**Diseño Conceptual de Bases de Datos**](https://drive.google.com/file/d/177YFW1w002Kz0_Z4DQ2V4XmztZOen5dt/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (todas las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo) por Jorge Sanchéz.
 - Apuntes Básicos de SQL (2.008) 📖 [**Apuntes Básicos de SQL**](https://drive.google.com/file/d/11JtEKAQWPgDynT3A7jkYp1d4YvMCn4Hs/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (estos apuntes son una introducción muy básica al SQL, en ningún caso sustituyen a un buen manual) por Unai Estébanez.
@@ -87,6 +90,12 @@ En nuestra biblioteca Ciberninjas vas a poder encontre [los mejores libros de ba
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452950&linkId=779c655de6e046705dc1c74ac323ebb0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641571&linkId=c7752adee0fedbe1567202790020e92e"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8490770425&linkId=b50590bbd7d1fb65fbf112332fe4c85b"></iframe>
 
 ## 2. **Entornos de desarrollo**
+
+En la asignatura de entornos de desarrollo vas a conocer los diferentes entornos de desarrollo integrados, los entornos de desarrollo más actuales, los entornos de desarrollo online.
+
+Verás una amplia introducirte en el mundo de los procedimientos de pruebas, la calidad del software, los casos de uso, el testing, la automatización de pruebas.
+
+Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportamiento, además de aprender a generar documentación.
 
 ### Apuntes de la asignatura de Entornos de Desarrollo
 
@@ -106,6 +115,9 @@ En nuestra biblioteca Ciberninjas vas a poder encontre [los mejores libros de ba
 
 ## 3. **Formación y orientación laboral**
 
+En la asignatura de formación y orientación laboral vas a aprender a conocer los contratos de trabajo, la jornada laboral y su retribución, la creación y estudio de nóminas, la prevención en la empresa, los riesgos laborales y los posibles conflictos dentro de la empresa.
+<!-- https://www.mheducation.es/bcv/guide/capitulo/8448191595.pdf -->
+
 ### Libros de formación y orientación laboral
 
 [Editex](https://amzn.to/35k39Ea) (2020) \ [Paraninfo](https://amzn.to/2R9mzn2) (2019) \ [Paraninfo](https://amzn.to/2DMcPfq) (2018) \ [Editex](https://amzn.to/33cGpmO) (2018) \ [McGraw Hill](https://amzn.to/32c9gsa) (2017)
@@ -113,6 +125,8 @@ En nuestra biblioteca Ciberninjas vas a poder encontre [los mejores libros de ba
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8413212340&linkId=d3d925f4b91c10de5b38b7c97e1fa08c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=842834230X&linkId=e65380d49375d99f7d03e895102a16d5"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428341079&linkId=e875db12467b4fc7c929f6eedfa13260"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8490789940&linkId=36228fd6d905d386df8a608d7483d86d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=844861206X&linkId=fd06ba91e8cefbb0ea6a2740ce81943e"></iframe>
 
 ## 4. **Lenguajes de Marcas y Sistemas de Gestión de Información**
+
+En la asignatura de lenguajes de marcas y sistemas de gestión vas a aprender que es XHTML, que es HTML, que es DTD, que es XSD y la estructura y formas de trabajo con todos ellos.
 
 - Guía Completa de CSS3. Antonio Navajas: [**OpenLibra: Guía Completa de CSS3**](https://openlibra.com/es/book/download/guia-completa-de-css3){:target="_blank" rel="nofollow,noreferrer"} (CSS u hojas de estilo en cascada (en inglés Cascading Style Sheets) es un lenguaje usado para definir la presentación).
 
