@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://ciberninjas.com/sitemap.xml
-Disallow: /donb/*.*
-Disallow: /filósofos/*.*
+Disallow: /proyectos/*.*

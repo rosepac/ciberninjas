@@ -3,30 +3,24 @@ baseurl: ""
 url: "https://ciberninjas.com"
 title: Ciberninjas
 description: "El Jardín Digital del Saber Binario 🌱 Los mejores recursos para aprender programación, desarrollo y diseño web"
-
 # Configuración
 author: Pablo Álvarez Corredera
 # : Libros PDF, cursos, tutoriales y eventos
-avatar: 'assets/img/logos/ciberninjas-emoji-160px.png'
+avatar: '/assets/img/ciberninjas-emoji-160px.webp'
 favicon: 'assets/favicon.ico'
-
 # Header and footer text
 header_text: 'Jardín Digital del Saber Binario'
 header_feature_image: '/assets/img/portada.webp'
 footer_text: >
   © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología<br/> Desarrollado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
-
 # Seo Redes
-
 twitter:
   username: ciberninjas
   card: sumary
-
 # Blog
 excerpt: false                                       # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.webp                    # A bit transparent for color posts.
-
 # Features
 katex: true                                          # Enable if using math markup
 google_analytics: "UA-142542230-1  "                      # Tracking ID, e.g. "UA-000000-01"
@@ -38,11 +32,9 @@ footer_icons:                                           # In _data/social.yml
 share_buttons:                                          # In _data/social.yml
 authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
-
 # PAGINATION
 paginate: 10
 paginate_path: "/blog/page:num"
-
 # PORTFOLIO
 collections:
   portfolio:
@@ -102,6 +94,5 @@ sass:
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*", ".travis.yml",
           "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
-
-# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+# Tema: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
