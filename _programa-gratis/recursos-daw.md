@@ -27,30 +27,30 @@ img: /assets/img/paginas/estudiar-daw.webp
 El **ciclo de formación profesional de desarrollo de aplicaciones web** o también conocido como DAW, te ofrece la posibilidad de lograr **el título de técnico superior en desarrollo de aplicaciones web**.
 
 - [1. **Bases de datos**](#1-bases-de-datos)
-  - [Libros de bases de datos](#libros-de-bases-de-datos)
+  - [**Libros de bases de datos**](#libros-de-bases-de-datos)
 - [2. **Entornos de desarrollo**](#2-entornos-de-desarrollo)
   - [Apuntes de la asignatura de Entornos de Desarrollo](#apuntes-de-la-asignatura-de-entornos-de-desarrollo)
-  - [Libros de entornos de desarrollo](#libros-de-entornos-de-desarrollo)
+  - [**Libros de entornos de desarrollo**](#libros-de-entornos-de-desarrollo)
 - [3. **Formación y orientación laboral**](#3-formación-y-orientación-laboral)
-  - [Libros de formación y orientación laboral](#libros-de-formación-y-orientación-laboral)
+  - [**Libros de formación y orientación laboral**](#libros-de-formación-y-orientación-laboral)
 - [4. **Lenguajes de Marcas y Sistemas de Gestión de Información**](#4-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
-  - [Libros de lenguajes de marcas y sistemas de gestión de información](#libros-de-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
+  - [**Libros de lenguajes de marcas y sistemas de gestión de información**](#libros-de-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
 - [5. **Programación**](#5-programación)
-  - [Libros de programación](#libros-de-programación)
+  - [**Libros de programación**](#libros-de-programación)
 - [6. **Sistemas informáticos**](#6-sistemas-informáticos)
-  - [Libros de sistemas informáticos](#libros-de-sistemas-informáticos)
+  - [**Libros de sistemas informáticos**](#libros-de-sistemas-informáticos)
 - [7. **Diseño de interfaces web**](#7-diseño-de-interfaces-web)
-  - [Libros de diseño de interfaces web](#libros-de-diseño-de-interfaces-web)
+  - [**Libros de diseño de interfaces web**](#libros-de-diseño-de-interfaces-web)
 - [8. **Empresa e iniciativa emprendedora**](#8-empresa-e-iniciativa-emprendedora)
-  - [Libros de empresa e iniciativa emprendedora](#libros-de-empresa-e-iniciativa-emprendedora)
+  - [**Libros de empresa e iniciativa emprendedora**](#libros-de-empresa-e-iniciativa-emprendedora)
 - [10. **Inglés técnico para grado superior**](#10-inglés-técnico-para-grado-superior)
-  - [Libros de inglés técnico para grado superior](#libros-de-inglés-técnico-para-grado-superior)
+  - [**Libros de inglés técnico para grado superior**](#libros-de-inglés-técnico-para-grado-superior)
 - [11. **Desarrollo web en entorno cliente**](#11-desarrollo-web-en-entorno-cliente)
-  - [Libros de desarrollo web en entorno cliente](#libros-de-desarrollo-web-en-entorno-cliente)
+  - [**Libros de desarrollo web en entorno cliente**](#libros-de-desarrollo-web-en-entorno-cliente)
 - [12. **Desarrollo web en entorno servidor**](#12-desarrollo-web-en-entorno-servidor)
-  - [Libros de desarrollo web en entorno servidor](#libros-de-desarrollo-web-en-entorno-servidor)
+  - [**Libros de desarrollo web en entorno servidor**](#libros-de-desarrollo-web-en-entorno-servidor)
 - [13. **Despliegue de aplicaciones web**](#13-despliegue-de-aplicaciones-web)
-  - [Libros de desarrollo web en entorno servidor](#libros-de-desarrollo-web-en-entorno-servidor-1)
+  - [**Libros de desarrollo web en entorno servidor**](#libros-de-desarrollo-web-en-entorno-servidor-1)
 - [14. **Proyecto de desarrollo de aplicaciones web**](#14-proyecto-de-desarrollo-de-aplicaciones-web)
   - [Libros de proyecto de desarrollo de aplicaciones web](#libros-de-proyecto-de-desarrollo-de-aplicaciones-web)
 - [15. **Formación en centros de trabajo**](#15-formación-en-centros-de-trabajo)
@@ -85,7 +85,7 @@ En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de b
 - Bases de Datos (2.011) 📖 [**Bases de Datos**](https://drive.google.com/file/d/1R2MbP0uldOvFRER37NCOAzPNA8fhxudj/view){:target="_blank" rel="nofollow,noreferrer"} (este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas) por Mercedes Marqués.
 - Bases de Datos Avanzadas (2.013) 📖 [**Bases de datos avanzadas**](https://drive.google.com/file/d/1GZlfXH303ZdnB_kxFkx2rnid7uoLooWe/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos) por Aramburu & Sanz Blasco.
 
-### Libros de bases de datos
+### **Libros de bases de datos**
 
 [Garceta](https://amzn.to/3icE9SZ) (2014) \ [Rama](https://amzn.to/3bEueD3) (2012) \ [Sintesis](https://amzn.to/2GIPmgc) (2014)
 
@@ -108,7 +108,7 @@ Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportami
 4. [Elaboración de diagramas de clases](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/5.DIAGRAMAS_CLASES.md){:target="_blank" rel="nofollow,noreferrer"}
 5. [Elaboración de diagramas de comportamiento](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/6.DIAGRAMAS_COMPORTAMIENTO.md){:target="_blank" rel="nofollow,noreferrer"}
 
-### Libros de entornos de desarrollo
+### **Libros de entornos de desarrollo**
 
 [Garceta](https://amzn.to/2R9LRkV) \ [Rama](https://amzn.to/3bM7gdu) (2012)
 
@@ -120,7 +120,7 @@ Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportami
 En la asignatura de formación y orientación laboral vas a aprender a conocer los contratos de trabajo, la jornada laboral y su retribución, la creación y estudio de nóminas, la prevención en la empresa, los riesgos laborales y los posibles conflictos dentro de la empresa.
 <!-- https://www.mheducation.es/bcv/guide/capitulo/8448191595.pdf -->
 
-### Libros de formación y orientación laboral
+### **Libros de formación y orientación laboral**
 
 [Editex](https://amzn.to/35k39Ea) (2020) \ [Paraninfo](https://amzn.to/2R9mzn2) (2019) \ [Paraninfo](https://amzn.to/2DMcPfq) (2018) \ [Editex](https://amzn.to/33cGpmO) (2018) \ [McGraw Hill](https://amzn.to/32c9gsa) (2017)
 
@@ -136,7 +136,7 @@ En la asignatura de lenguajes de marcas y sistemas de gestión vas a aprender qu
 - HTML5. ArkaitzGarro: [**HTML5**](https://www.arkaitzgarro.com/html5/index.html){:target="_blank" rel="nofollow,noreferrer"}
 - CSS3. ArkaitzGarro: [**CSS 3**](https://www.arkaitzgarro.com/css3/){:target="_blank" rel="nofollow,noreferrer"}
 
-### Libros de lenguajes de marcas y sistemas de gestión de información
+### **Libros de lenguajes de marcas y sistemas de gestión de información**
 
 [Sintesis](https://amzn.to/2ZlXglY) (2018) \ [Garceta](https://amzn.to/2GIm8hv) (2012) \ [Rama](https://amzn.to/35lJHH4) (2011)
 
@@ -164,7 +164,7 @@ Piensa en JAVA. Edición Española (2.002)
 
 > Los lenguajes de programación tienen muchas similitudes con las lenguas de uso general como el inglés.
 
-### Libros de programación
+### **Libros de programación**
 
 [Garceta](https://amzn.to/2R5jVOT) (2013) \ [Rama](https://amzn.to/35jZshB) (2011)
 
@@ -176,7 +176,7 @@ El segundo curso de Desarrollo de Aplicaciones Web consiste en cursar las asigna
 
 ## 6. **Sistemas informáticos**
 
-### Libros de sistemas informáticos
+### **Libros de sistemas informáticos**
 
 [Garceta](https://amzn.to/3m1Bwpp) (2017) \ [Rama](https://amzn.to/3bLtIDp) (2011)
 
@@ -201,7 +201,7 @@ Tema 2 . Estilos
 1. [Ejemplo. 1](http://www.upv.es/entidades/ASIC/manuales/guia_estilos_upv.pdf){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Valencia)
 2. [Ejemplo. 2](https://editorial.ugr.es/pages/calidad/guiadeestilo/!){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Granada)
 
-### Libros de diseño de interfaces web
+### **Libros de diseño de interfaces web**
 
 [Sintesis](https://amzn.to/2R4Ndxl) (2019) \ [Garceta](https://amzn.to/3lWSF3o) (2016) \ [Rama](https://amzn.to/337Ps8J) (2012)
 
@@ -209,7 +209,7 @@ Tema 2 . Estilos
 
 ## 8. **Empresa e iniciativa emprendedora**
 
-### Libros de empresa e iniciativa emprendedora
+### **Libros de empresa e iniciativa emprendedora**
 
 [Editex](https://amzn.to/3m0rGE5) (2020) \ [Paraninfo](https://amzn.to/33bB5jK) (2019) \ [Editex](https://amzn.to/3ibXBPJ) (2019) \ [McGraw Hill](https://amzn.to/3hfZ6uS) (2018) \ [Bruño](https://amzn.to/3m5bTUr) (2018) \ [Algaida](https://amzn.to/3idsJ18) (2017) \ [Paraninfo](https://amzn.to/3idpZRB) (2016)
 
@@ -219,41 +219,20 @@ Tema 2 . Estilos
 
 - English 4 IT. Activites and Classroom: [**English for Information Technology, an online course**](https://www.english4it.com/){:target="_blank" rel="nofollow,noreferrer"}
 
-### Libros de inglés técnico para grado superior
+### **Libros de inglés técnico para grado superior**
 
 [Garceta]() (2014) \ [Rama]() (2012)
 
 ## 11. **Desarrollo web en entorno cliente**
 
-Introducción a Javascript
+- [**Introducción a JavaScript**](https://uniwebsidad.com/libros/javascript){:target="_blank" rel="nofollow,noreferrer"} (*Cómo incluir JavaScript en documentos XHTML*)
+- [**Jardín de JavaScript**](http://bonsaiden.github.io/JavaScript-Garden/es/#intro){:target="_blank" rel="nofollow,noreferrer"} (Una guía sobre los defectos y lo peculiar de JavaScript).
+- [**Manual de JavaScript**](https://desarrolloweb.com/manuales/manual-javascript.html){:target="_blank" rel="nofollow,noreferrer"} (Manual de Javascript desde cero. Adéntrate en el lenguaje de programación más popular de la web).
+- [**Guía de JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank" rel="nofollow,noreferrer"} de los Desarrolladores de Mozilla (La Guía de JavaScript te muestra cómo usar JavaScript y te brinda una perspectiva general del lenguaje).
 
-* [**Introducción a JavaScript**
-*1.4. Cómo incluir JavaScript en documentos XHTML*librosweb.es](https://uniwebsidad.com/libros/javascript){:target="_blank" rel="nofollow,noreferrer"}
+- [**JavaScript**](https://www.arkaitzgarro.com/javascript/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
 
-Jardín de JavaScript
-
-* [**Jardín de JavaScript**](http://bonsaiden.github.io/JavaScript-Garden/es/#intro){:target="_blank" rel="nofollow,noreferrer"}
-
-> Una guía sobre lo peculiar y defectos de JavaScript.
-
-Manual de JavaScript
-
-* [**Manual de JavaScript**](https://desarrolloweb.com/manuales/manual-javascript.html){:target="_blank" rel="nofollow,noreferrer"}
-
-> Manual de Javascript desde cero. Adéntrate en el lenguaje de programación más popular de la web y conoce todas las
-
-- Guía de JavaScript
-
-* [**Guía de JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank" rel="nofollow,noreferrer"}
-
-> La Guía de JavaScript te muestra cómo usar JavaScript y te brinda una perspectiva general del lenguaje.
-
-- Javascript. ArkaitzGarro
-
-[**JavaScript**
-*1.4 Cómo incluir JavaScript en documentos XHTML*www.arkaitzgarro.com](https://www.arkaitzgarro.com/javascript/){:target="_blank" rel="nofollow,noreferrer"}
-
-### Libros de desarrollo web en entorno cliente
+### **Libros de desarrollo web en entorno cliente**
 
 [Sintesis](https://amzn.to/3m31Mj6) (2020) \ [Garceta](https://amzn.to/3k16gF0) (2019) \ [Garceta](https://amzn.to/2DNAFHG) (2013) \ [Rama](https://amzn.to/33e54aC) (2012)
 
@@ -261,21 +240,21 @@ Manual de JavaScript
 
 ## 12. **Desarrollo web en entorno servidor**
 
-- Ajax. ArkaitzGarro
+- [**AJAX**](https://www.arkaitzgarro.com/ajax/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
 
-* [**AJAX**](https://www.arkaitzgarro.com/ajax/){:target="_blank" rel="nofollow,noreferrer"}
+### **Libros de desarrollo web en entorno servidor**
 
-### Libros de desarrollo web en entorno servidor
+[Sintesis](https://amzn.to/3c2zTmR) (2019) \ [Garceta](https://amzn.to/3muGTxF) (2017) \ [Garceta](https://amzn.to/2FrEhju) (2014) \ [Rama](https://amzn.to/3hIN9hK) (2012)
 
-[Garceta]() (2014) \ [Rama]() (2012)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713492&linkId=f358782d51fc13474622d7712f6bf916"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416228949&linkId=ace53f3def5119baaee6a9aa44540047"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452926&linkId=495f09353fe0fc44ed093257ff2a20c4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641563&linkId=6553d73318ad201d26bc7e7918f874e4"></iframe>
 
 ## 13. **Despliegue de aplicaciones web**
 
-- [**Administración de servidores web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/81-administracion-de-servidores-web){:target="_blank" rel="nofollow,noreferrer"}
-- [**Servidores de aplicaciones](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/86-servidores-de-aplicaciones){:target="_blank" rel="nofollow,noreferrer"}
-- [**Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web){:target="_blank" rel="nofollow,noreferrer"}
+- [**Administración de servidores web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/81-administracion-de-servidores-web){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
+- [**Servidores de aplicaciones](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/86-servidores-de-aplicaciones){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
+- [**Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
 
-### Libros de desarrollo web en entorno servidor
+### **Libros de desarrollo web en entorno servidor**
 
 [Sintesis](https://amzn.to/35gcUmR) (2019) \ [Garceta](https://amzn.to/2FfFcTV) (2014) \ [Rama](https://amzn.to/3m30vIX) (2012)
 
@@ -297,18 +276,19 @@ Existe un repositorio Online de apuntes referentes al temario de DAW, todos los 
 
 Estos mismos apuntes, están disponibles a través del repositorio de [Github](https://ciberninjas.com/github-git-recursos/){:target="_blank" rel="nofollow,noreferrer"} creado por [Statickidz](https://github.com/statickidz/TemarioDAW#temario-daw){:target="_blank" rel="nofollow,noreferrer"}.
 
-Ahora iremos **asignatura por asignatura**, enlazando siempre a **recursos gratuitos**:
+### **Relacionados** <!-- omit in toc -->
 
-- Cursos Mooc alojados en repositorios universitarios.
-- Libros de Creative Commons.
-- Videotutoriales de Youtube.
+[🥇 ▷ Hoja de ruta de desarrollo de aplicaciones multiplataforma (DAM)](/recursos-dam/)
 
-------
+[🥇 ▷ Hoja de ruta del curso de especialización en ciberseguridad](/recursos-fp-ciberseguridad/)
 
-> “ 💃 **POR CONSTRUIR… EN PROGRESO…**💃 ”
+[🥇 ▷ Hoja de ruta de administración de sistemas informáticos en red (ASIR)](/recursos-asir/)
 
-> ❔ Artículos de Interés Complementarios ❔
+[🥇 ▷ Hoja de ruta de sistemas microinformáticos y redes (SMR)](/recursos-smr/)
 
-> ❔ Chuletas de Apoyo y Consulta ❔
 
-> ❔ Recursos de Diseño y del Diseñador Web ❔
+[▷ ¿Qué son los módulos profesionales de la formación profesional?](/fp-modulos-formacion-profesional/)
+
+[▷ ¿Qué es un curso de especialización en la formación profesional?](/fp-cursos-especializacion/)
+
+![Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/estudiar-daw.webp "Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
