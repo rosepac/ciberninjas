@@ -2,9 +2,10 @@
 layout: page
 author: rosepac
 bootstrap: true
-title: "Cursos Gratis 🥇"
-description: Cursos gratuitos de programación desde cero. Desarrollo web, informática, inteligencia artificial y más.
-excerpt: Cursos gratuitos de programación desde cero. Desarrollo web, informática, inteligencia artificial y más.
+hide: true
+title: "🥇 Cursos GRATIS de programación en español 2020"
+description: ✅ Más de 700 cursos gratuitos de tecnología perfectamente clasificados.
+excerpt: ✅ Más de 700 cursos gratuitos de tecnología perfectamente clasificados.
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 tags: [Recursos Gratis, Cursos Gratis, Cursos Programación]
