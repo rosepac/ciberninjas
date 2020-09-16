@@ -9,7 +9,7 @@ excerpt: "👩‍🎨 Curso de Material Design y Boostrap 4 por Bluuweb"
 permalink: /👨‍🏫-curso-material-design-bootstrap-4-bluuweb/
 canonical_URL: https://ciberninjas.com/👨‍🏫-curso-material-design-bootstrap-4-bluuweb/
 comments: false
-date: 2019-09-28
+date: 2018-04-19
 tags: [Bootstrap, Material Design, Videotutorial Bootstrap, Videotutorial Material Design, Bluuweb]
 
 ---
