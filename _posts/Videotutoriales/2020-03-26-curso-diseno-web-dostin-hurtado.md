@@ -9,7 +9,7 @@ excerpt: "En este curso vas a aprender"
 permalink: /curso-diseno-web-dustin-hurtado/
 canonical_URL: https://ciberninjas.com/curso-diseno-web-dustin-hurtado/
 comments: false
-date: 2020-09-15
+date: 2020-03-26
 tags: [Diseño Web, Videotutorial Diseño Web, Dostin Hurtado]
 
 ---
