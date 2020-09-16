@@ -4812,6 +4812,10 @@ input[type="button"].btn-block {
   border-radius: 0.25rem;
 }
 
+ol.breadcrumb {
+  margin-left: 0rem;
+}
+
 .breadcrumb-item + .breadcrumb-item {
   padding-left: 0.5rem;
 }
