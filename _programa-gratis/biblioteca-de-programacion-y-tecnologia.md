@@ -26,6 +26,7 @@ Los **desarrolladores web** y de **software**, junto a sus múltiples metodolog�
 Viendo fortalecidas así, sus aptitudes para llevar a cabo cualquier puesto de trabajo relacionado con [**las nuevas profesiones digitales**](/profesiones-digitales/).
 
 {% include libros-prog.html %}
+<!-- LIBROS INDIVIDUALES: https://www.pdf-manual.es/programacion-web/css/155-libro-bootstrap-3.html , https://pdfcursos.com/155-curso-libro-bootstrap-3.pdf , https://pdfcursos.com/, https://pdfcursos.com/180-curso-taller-de-raspberry-pi.pdf -->
 
 ## **Mejores Libros Gratuitos PDF para Programar**
 
@@ -358,6 +359,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Compilación de ensayos sobre software libre (2002)](https://buleria.unileon.es/bitstream/handle/10612/1986/Gregorio.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Copia este libro](https://www.rebelion.org/docs/23824.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Copyleft: la creación se promueve... compartiéndola](https://www.sindominio.net/~xabier/old/textos/copyleft/copyleft.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [El Código 2.0](https://drive.google.com/file/d/1_W2boRtfoSZMja134OOLFSzOWHoKpPGy/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Lawrence Lessig (PDF) (2009)
 * [Guía básica del software de fuentes abiertas](https://softlibre.unizar.es/manuales/softwarelibre/guia_basica_sfa.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Guía práctica sobre software libre. Su selección y aplicación local en América Latina y el Caribe](https://softlibre.unizar.es/manuales/softwarelibre/GSL_UNESCO.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Internet, hackers y software libre](https://fortinux.com/wp-content/uploads/2010/12/editora_fantasma.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -370,6 +372,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Libro blanco del Software Libre en España III](https://softlibre.unizar.es/manuales/softwarelibre/III_libro_blanco_del_software_libre.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Metabolismo, comunicación y evolución en redes bacterianas y tecnológicas](https://www.sindominio.net/~xabier/old/textos/autobact/autobact.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Agenda Común de Migración a Sistemas Libres](https://lookaside.fbsbx.com/file/agenda-com%C3%BAn-de-migraci%C3%B3n-a-software-libre-2016.pdf?token=AWzl5ynxxRQoXlAf9B-2wyU1MZbvHR6eyK4F_lY3GwnQwNM6V5Wcw2D6F1q8kO3Y-RX2Fps4I6kIbviR4i2nqGR5Cz7s2fav6kkqX60nKhtv4PXE8jus48TBaL9fVSVTCApJjFjAAfqHKOCnHNoFRRMEuJ-3kX2evnkFUtiXsTzwwQ){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [Planeta Web 2.0](https://drive.google.com/file/d/15x0F4yzaK9uGad-rQZh5TOqQ8i6aboIo/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Cobo Romaní, Cristóbal; Pardo Kuklinski, Hugo. 2007.Planeta Web 2.0 (PDF) (2007)
 * [Posix de tiempo real (1993)](https://www.ctr.unican.es/publications/mgh-1993b.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Sistema Operativo GNU/Linux Básico](https://softlibre.unizar.es/manuales/linux/868.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (Richard M. Stallman)
@@ -425,7 +428,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Kit de supervivencia para trabajar desde casa](https://www.carlosjonayss.com/wp-content/uploads/2020/03/guia_trabajo_remoto_1_0.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/https://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Introducción a GIT](https://carloscarcamo.gitbooks.io/git-intro/content) (HTML) (2016)
-* [Lean Manufacturing](https://lookaside.fbsbx.com/file/Lean_Manufacturing_Versi%C3%B3n_2.2_Marzo%202019.pdf?token=AWxLg_hrPQDVENPfs--NKMfpAb1BBNSJaDITIzjX2uoI1NvTGrnGSdatRUxrpYVolVCrxId4uXu6mSB96EbVH4tW-V63S7x1_AR646uEVo-pLQF__w3_yLhnVDzrAp_Aa8ZVKjVykHwK_37dk7K3t98OtdL6deIo4iSYEeq4Fs4qrQ){:target="_blank" rel="nofollow,noreferrer"} (PDF) ()En ESpañol)
+* [Lean Manufacturing](https://lookaside.fbsbx.com/file/Lean_Manufacturing_Versi%C3%B3n_2.2_Marzo%202019.pdf?token=AWxLg_hrPQDVENPfs--NKMfpAb1BBNSJaDITIzjX2uoI1NvTGrnGSdatRUxrpYVolVCrxId4uXu6mSB96EbVH4tW-V63S7x1_AR646uEVo-pLQF__w3_yLhnVDzrAp_Aa8ZVKjVykHwK_37dk7K3t98OtdL6deIo4iSYEeq4Fs4qrQ){:target="_blank" rel="nofollow,noreferrer"} (PDF) (En ESpañol)
 * [Más allá de Google (2008)](https://www.infonomia.com/wp-content/uploads/2014/11/40.-Mas-alla-de-Google.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/https://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Scrum y XP desde las trincheras](https://lookaside.fbsbx.com/file/scrum-y-xp-desde-las-trincheras.pdf?token=AWwc3nzu7NxFOI59Z8uHnW42jr9EGDMjBf-OW4D677Ds4L7i-_Yj2guniUWxtw7HVPA83rHWTuUE0E7wXecS7keBVsZF9B01PZG25XocJ-sAobqA7DwvT2dSHMGk67F05V8pPtqFRSaVU45t2DP7K3FR87yWobkNYG4Jc-Qdpi1Ncg){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2007)
@@ -660,7 +663,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Bootstrap
 
-* [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+* [Bootstrap 3: El manual oficial](https://librosweb.es/libro/bootstrap_3){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+* [Bootstrap 3: Introducción al diseño responsive](https://drive.google.com/file/d/1xrywZA_yEJXHKKuPOcg1mI-NPiFYR2E8/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Antonio Javier Gallego Sánchez (PDF)
 
 ## Ionic
 
@@ -735,6 +739,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Conociendo Github Documentación](https://media.readthedocs.org/pdf/conociendogithub/latest/conociendogithub.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple){:target="_blank" rel="nofollow,noreferrer"} (Github)
+* [Github Chuleta de Comandos](https://drive.google.com/file/d/1Gm4fhWzDWtfjnnoxwjeq5PESYMaouwdi/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 ### Go
 
@@ -759,6 +764,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Lenguajes de Marcado ✍
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
 
+* [Guía fácil del RSS](https://drive.google.com/file/d/1ivMIwIIEjArB2Q9Nsc-4RWHxV-GqUMZ8/view?usp=sharing) (PDF)
 * [Markdown: Guía Breve y Detallada](https://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf) (PDF) (2013)
 
 ## Sistemas de Plantillas 🌱
@@ -986,7 +992,9 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## ✍ Sistemas de Gestión de Contenidos
 
 ### Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
+
 * [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [Tutorial, paso a paso, de Wordpress](https://drive.google.com/file/d/1K0cNYes6nHFuGwueA5hFxHXHmOS7FSkZ/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -996,6 +1004,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Accesibilidad Web ♿
 
+* [Accesibilidad a los contenidos audiovisuales en la Web](https://drive.google.com/file/d/1TsYwnUV8wmoFZ5e4b5QFnAt_cHSf7vEM/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2011)
+* [Accesibilidad a los contenidos audiovisuales en la Web a través de HTML5](https://drive.google.com/file/d/1ct6a6U7AMHAp4fLy2jtgX14i1812ryRk/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2011)
 * [Accesibilidad web en el SID](https://sid.usal.es/idocs/F8/FDO20873/InformeAccesibilidad.pdf){:target="_blank" rel="nofollow,noreferrer"} (2008)
 * [Guía de Accesibilidad de Aplicaciones Móviles](https://drive.google.com/file/d/10MHIwij-bfliVYQnFX5FTXeyg5dqNS5N/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2017) [Código Android](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-Android#ejemplo-de-correcci%C3%B3n-de-errores-de-accesibilidad-en-una-app-para-android){:target="_blank" rel="nofollow,noreferrer"} [Código iOS](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-iOS#todo-manager){:target="_blank" rel="nofollow,noreferrer"}
 * [Guía de Accesibilidad en Documentos PDF con Adobe Acrobat 9.0](https://drive.google.com/file/d/1FhPza_vy39oGO6f61NRjK53kV3MtCEvt/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2014)
@@ -1027,8 +1037,10 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Seo y Posicionamiento 🔍
 
 * [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf){:target="_blank" rel="nofollow,noreferrer"}
+* [Guía para principiantes sobre optimización para motores de búsqueda](https://drive.google.com/file/d/1g5nAGrtSVainEOVahZjEBwhAfi9kXG7N/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Google
 * [Posicionamiento en Buscadores](https://drive.google.com/file/d/12EkdvIOmV51r6gQxlakBrbe5RjQ_TDJR/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"}
 * [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf){:target="_blank" rel="nofollow,noreferrer"}
+* [SEO: Optimización de Webs para Buscadores](https://drive.google.com/file/d/156XG3EZwqjxxuzJu57OK3w9Rez8bAT0P/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Interactive Advertising Bureau
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 

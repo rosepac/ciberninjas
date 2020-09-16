@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title: "🥇 ▷ Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones"
 description: "Los mejores apuntes y recursos para superar el FP de desarrollo de aplicaciones web."
@@ -12,6 +13,7 @@ canonical_URL: https://ciberninjas.com/recursos-daw/
 thumbnail: /assets/img/paginas/estudiar-daw.webp
 feature-img: /assets/img/paginas/estudiar-daw.webp
 img: /assets/img/paginas/estudiar-daw.webp
+
 ---
 
 <div class="hidden-sm-down">
