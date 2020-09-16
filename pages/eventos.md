@@ -29,11 +29,8 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} Conferenciantes (https://megatestingweek.com/speakers/) | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (19:00 PM) ¿Pondrá Deno el mundo de Node del revés? - [Registro](https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/){:target="_blank" rel="nofollow, noreferrer"}
 
-Deno es según muchos el sucesor de Node, entre ellos el creador ambos: Ryan Dahl, que, aprovechando todo el conocimiento obtenido durante los 10 años de vida de Node decidió comenzar este proyecto para enmendar errores. Deno cuenta con soporte nativo de TypeScript —es decir no hace falta compilar antes de ejecutar un fichero de TypeScript—, un modelo de seguridad, una forma descentralizada de distribuir paquetes, un único ejecutable y muchas más cosas. En esta charla introductoria veremos qué es y qué características tiene, ¡así que no te lo pierdas!
-
 ### 🔔 16 de Septiembre
 
-- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (18:00 H. ESP.) Inspired by Woman: Enciende tu marca personal 🗞 [REGISTRO](https://www.eventbrite.co.uk/e/inspired-by-women-tickets-117973442743?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (00:00 H. ESP.) Inicios de la Programación 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Miércoles al Jueves)
 
