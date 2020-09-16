@@ -14,10 +14,10 @@ feature-img: /assets/img/paginas/estudiar-daw.webp
 img: /assets/img/paginas/estudiar-daw.webp
 ---
 
-<div>
+<div class="hidden-sm-down">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item" tabindex="0"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
     <li class="breadcrumb-item active" aria-current="page">Recursos DAW</li>
   </ol>
