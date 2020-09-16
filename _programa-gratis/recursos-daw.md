@@ -13,6 +13,14 @@ feature-img: /assets/img/paginas/estudiar-daw.webp
 img: /assets/img/paginas/estudiar-daw.webp
 ---
 
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Recursos DAW</li>
+  </ol>
+</nav>
+
 El **ciclo de formación profesional de desarrollo de aplicaciones web** o también conocido como DAW, te ofrece la posibilidad de lograr **el título de técnico superior en desarrollo de aplicaciones web**.
 
 Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.
@@ -32,6 +40,7 @@ No dejen de estudiar, ¡Espero que les sea de grata ayuda 😎!
 - [1. **Bases de datos**](#1-bases-de-datos)
   - [Libros de bases de datos](#libros-de-bases-de-datos)
 - [2. **Entornos de desarrollo**](#2-entornos-de-desarrollo)
+  - [Apuntes de la asignatura de Entornos de Desarrollo](#apuntes-de-la-asignatura-de-entornos-de-desarrollo)
   - [Libros de entornos de desarrollo](#libros-de-entornos-de-desarrollo)
 - [3. **Formación y orientación laboral**](#3-formación-y-orientación-laboral)
   - [Libros de formación y orientación laboral](#libros-de-formación-y-orientación-laboral)
@@ -78,6 +87,15 @@ En nuestra biblioteca Ciberninjas vas a poder encontre [los mejores libros de ba
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452950&linkId=779c655de6e046705dc1c74ac323ebb0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641571&linkId=c7752adee0fedbe1567202790020e92e"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8490770425&linkId=b50590bbd7d1fb65fbf112332fe4c85b"></iframe>
 
 ## 2. **Entornos de desarrollo**
+
+### Apuntes de la asignatura de Entornos de Desarrollo
+
+1. [Elementos de desarrollo del software](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/1.ELEMENTOS.md){:target="_blank" rel="nofollow,noreferrer"}
+2. [Entornos integrados de desarrollo](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/2.ENTORNOS.md){:target="_blank" rel="nofollow,noreferrer"}
+2. [Diseño y realización de pruebas](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/3.PRUEBAS.md){:target="_blank" rel="nofollow,noreferrer"}
+3. [Documentación y optimización](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/4.DOCUMENTACION.md){:target="_blank" rel="nofollow,noreferrer"}
+4. [Elaboración de diagramas de clases](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/5.DIAGRAMAS_CLASES.md){:target="_blank" rel="nofollow,noreferrer"}
+5. [Elaboración de diagramas de comportamiento](https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/6.DIAGRAMAS_COMPORTAMIENTO.md){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Libros de entornos de desarrollo
 
