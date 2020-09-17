@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title: "🥇 ▷ Hoja de ruta de sistemas microinformáticos y redes (SMR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones"
 description: "Los mejores apuntes y recursos para superar el FP de sistemas microinformáticos y redes."
@@ -11,23 +12,24 @@ canonical_URL: https://ciberninjas.com/recursos-smr/
 # thumbnail: /assets/img/paginas/estudiar-daw.webp
 # feature-img: /assets/img/paginas/estudiar-daw.webp
 # img: /assets/img/paginas/estudiar-daw.webp
+
 ---
 
-El ciclo de formación profesional de desarrollo de aplicaciones web te ofrece la posibilidad de lograr el título de técnico superior en desarrollo de aplicaciones web.
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Recursos SMR</li>
+  </ol>
+</nav>
+</div>
 
-Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.
+El **ciclo de formación profesional de sistemas microinformáticos y redes** te ofrece la posibilidad de lograr el título de técnico en sistemas microinformáticos y redes.
 
-Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información de reciente creación.
+Este ciclo, de SMR, es la única opción existente de grado medio y que junto a los ciclos de grado superior de [desarrollo de aplicaciones web](/recursos-daw/) (DAW), [desarrollo de aplicaciones multiplataforma](/recursos-dam/) (DAM) y [administración de sistemas informáticos en red](/recursos-asir/) (ASIR).
 
-Con lo primero que se encuentra una persona al comenzar los estudios de formación profesional de desarrollo de aplicaciones web, es con el serio problema de no poseer los apuntes tomados personalmente; con los que lograr centrarse únicamente en estudiar mediante una dinámica organizada.
-
-Lo primero que hace uno es introducirse en Internet, y al dar este paso. Uno se sumerge en el mundo de la información infinita; la documentación masificada a lo largo de miles de plataformas y en distintos soportes. Con lo que puedes llegar a volverte ‘loco’.
-
-Pues he aquí, los documentos que mayor validez han tenido para mi hasta el momento durante un largo año y medio peleando contra el código 😎
-
-> Recopilación de apuntes, cursos y libros relacionados por asignaturas del FP de Desarrollo de Aplicaciones Web (DAW).
-
-Todas las asignaturas referentes al ciclo formativo de grado medio de sistemas microinformáticos y redes son las siguientes.
+Esas cuatro formaciones profesionales con sus respectivos [módulos profesionales](/fp-modulos-formacion-profesional/), más el [curso de especialización](/fp-cursos-especializacion/) en [ciberseguridad](/recursos-fp-ciberseguridad/) forman el conjunto de opciones dentro de las capacitaciones existentes en el campo de la informática y las comunicaciones.
 
 - [1. **Aplicaciones ofimáticas**](#1-aplicaciones-ofimáticas)
   - [Libros de aplicaciones ofimáticas](#libros-de-aplicaciones-ofimáticas)
@@ -46,18 +48,30 @@ Todas las asignaturas referentes al ciclo formativo de grado medio de sistemas m
 - [8. **Formación en centros de trabajo**](#8-formación-en-centros-de-trabajo)
   - [Libros de formación en centros de trabajo](#libros-de-formación-en-centros-de-trabajo)
 - [9. **Seguridad informática**](#9-seguridad-informática)
-  - [Libros de sguridad informática](#libros-de-sguridad-informática)
+  - [Libros de seguridad informática](#libros-de-seguridad-informática)
 - [10. **Sistemas operativos en red**](#10-sistemas-operativos-en-red)
   - [Libros de sistemas operativos en red](#libros-de-sistemas-operativos-en-red)
 - [11. **Servicios en red**](#11-servicios-en-red)
   - [Libros de servicios en red](#libros-de-servicios-en-red)
 - [**Apuntes Completos del FP: Sistemas Microinformáticos y Redes**](#apuntes-completos-del-fp-sistemas-microinformáticos-y-redes)
 
-**Asignaturas del primer curso de SMR**
+El ciclo formativo de sistemas microinformáticos y redes, es un ciclo en el que te forman en un amplio espectro del campo de la informática-tecnológica y las computadoras.
+
+Desde lo más básico, como por ejemplo, que es un sistema informático. Hasta contenidos más avanzados, como por ejemplo, a crear una red de ordenadores configurados a través de un servidor central. Pasando, por el manejo de Word, Excel, Photoshop, el aprendizaje del uso de Linux, la creación de un servidor, el montaje de una red telefónica, etc.
+
+Con el paso del tiempo, espero ir compartiendo mis apuntes (aunque con seguridad ya estarán algo desfasados) del FP de SMR del año 2016.
+
+Pues he aquí, los documentos que mayor validez han tenido para mi hasta el momento durante un largo año y medio peleando contra el código 😎
+
+A continuación vas a poder encontrar apuntes, cursos y libros; así como los libros de texto relacionados y existentes con las asignaturas del FP de Grado Medio de Sistemas Microinformáticos y Redes (SMR) de cada una de los módulos.
+
+> **Asignaturas del primer curso de SMR**
 
 El primer curso de Sistemas Microinformáticos y Redes consiste en cursar las asignaturas de aplicaciones ofimáticas, montaje y mantenimiento de equipo, redes locales, sistemas operativos monopuesto, y formación y orientación laboral.
 
 ## 1. **Aplicaciones ofimáticas**
+
+
 
 ### Libros de aplicaciones ofimáticas
 
@@ -69,6 +83,9 @@ El primer curso de Sistemas Microinformáticos y Redes consiste en cursar las as
 
 ### Libros de formación y orientación laboral
 
+Vas a poder encontrar [los libros dirigidos a la formación y orientación laboral](#3-formación-y-orientación-laboral), en nuestra publicacion de DAW.
+
+> Los libros de las asignaturas transversales dentro de los ciclos formativos, son los mismos, independientemente de la rama del curso y del grado.
 
 ## 3. **Montaje y mantenimiento de equipo**
 
@@ -96,7 +113,7 @@ Apuntes de montaje y mantenimiento de equipos.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428341397&linkId=f3859c8756248882d96e566f495ef7f3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713778&linkId=3f35f6caa21e7510494f7caf5b11f6d6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180321&linkId=daadf4ab3e0de16a28085511284f0deb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415426453&linkId=a095c9932cfaf7f1e6bb4d4cc75107fa"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719719&linkId=6822685f520352949a7d5f6e102e26a4"></iframe>
 
-**Asignaturas del segundo curso de SMR**
+> **Asignaturas del segundo curso de SMR**
 
 El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las asignaturas de aplicaciones web, seguridad informática, servicios en red, sistemas operativos en red, formación en centros de trabajo y empresa e iniciativa emprendedora.
 
@@ -120,7 +137,7 @@ El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las a
 
 ## 9. **Seguridad informática**
 
-### Libros de sguridad informática
+### Libros de seguridad informática
 
 [Sintesis](https://amzn.to/2NsDcdE) \ [Heinemann](https://amzn.to/2LHFovx) \ [McGraw Hill](https://amzn.to/2Qn3eks) \ [Paraninfo](https://amzn.to/2AAC66P)
 
@@ -144,12 +161,6 @@ El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las a
 
 ## **Apuntes Completos del FP: Sistemas Microinformáticos y Redes**
 
-------
+### **Relacionados** <!-- omit in toc -->
 
-> “ 💃 **POR CONSTRUIR… EN PROGRESO…**💃 ”
-
-> ❔ Otros Artículos de Interés Complementarios ❔
-
-> ❔ Chuletas de Apoyo y Consulta ❔
-
-> ❔ Recursos de Diseño y del Diseñador Web ❔
+> 👷‍♂️ PENDIENTE DE CONSTRUCCIÓN 👷‍♂️ 
