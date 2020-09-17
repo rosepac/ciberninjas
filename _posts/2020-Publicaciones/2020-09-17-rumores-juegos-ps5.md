@@ -36,9 +36,9 @@ En Noviembre, se lanza la nueva PlayStation 5 y en esta publicación vamos a con
 
 ![Final Fantasy es uno de los 8 juegos para PlayStation 5, que podrían tener una nueva versión en 2020](/assets/img/videojuegos/rumores/final-fantasy-7-remake-rumores-2.webp "Final Fantasy es uno de los 8 juegos para PlayStation 5, que podrían tener una nueva versión en 2020")
 
-Una vez más, no se ha confirmado que Final Fantasy 7 Remake sea ​​un juego de PS5, pero se ha lanzado exclusivamente para PS4, con un lanzamiento para Xbox One y PC probablemente en el futuro.
+Una vez más, no se ha confirmado que Final Fantasy 7 Remake vaya a ser ​​un juego de PS5, pero se ha lanzado exclusivamente para la PlayStation 4.
 
-Dada la edad de la PS4 y la naturaleza ambiciosa del juego, Final Fantasy Remake en PS5 no parece estar fuera de discusión. Espere que Final Fantasy 7 Remake Part 2 aterrice también en la plataforma de próxima generación de Sony.
+Dada la edad de la PS4 y la naturaleza ambiciosa del juego, no es para nada descartable que Final Fantasy 7 Remake aparecerá en su versión para PS5 no; y que con casi toda seguridad, Final Fantasy 7 Remake Part 2 se lance también en la nueva plataforma de próxima generación de Sony.
 
 [🔥 COMPRAR FINAL FANTASY 7 REMAKE 🎁](https://amzn.to/32Kn3GV){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔥 COMPRAR FINAL FANTASY 7 REMAKE EDICIÓN EXCLUSIVA AMAZON 🎁](https://amzn.to/2RDHxuw){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -47,7 +47,7 @@ Dada la edad de la PS4 y la naturaleza ambiciosa del juego, Final Fantasy Remake
 
 ![Death Stranding](/assets/img/videojuegos/rumores/death-stranding-rumores-1.webp "Death Stranding")
 
-Hideo Kojima y Sony han sido bastante herméticos sobre si veremos Death Stranding como un juego de PS5. 
+Hideo Kojima y Sony han sido bastante herméticos sobre si veremos Death Stranding como un juego de PS5.
 
 Death Stranding ya se lanzó en la PS4, pero en una entrevista con Wired , Mark Cerny de Sony insinuó que también podríamos estar viendo el título alusivo en la PS5.
 
@@ -88,9 +88,9 @@ En este punto, lo más probable es que God of War 2 llegue a PS5 que a PS4.
 
 ![Grand Theft Auto 6](/assets/img/videojuegos/rumores/grand-theft-auto-6-rumores-5.webp "Grand Theft Auto 6")
 
-De acuerdo, sí, tenemos un poco de esperanza aquí, principalmente porque Grand Theft Auto 6 no ha sido anunciado por Rockstar Games. Pero está casi garantizado que veremos una nueva instalación en la serie Grand Theft Auto, y no lo será por un tiempo. 
+De acuerdo, sí, tenemos un poco de esperanza en esto. Principalmente porque Grand Theft Auto 6 no ha sido anunciado por Rockstar Games. Pero está casi garantizado que veremos una nueva versión de la serie Grand Theft Auto, aunque tarde demasiado tiempo en salir.
 
-Por lo tanto, es probable que la fecha de lanzamiento caiga en la próxima generación, haciendo de GTA 6 un juego de PS5.
+Por lo tanto, es probable que la fecha de lanzamiento se encuentre ya dentro de la próxima generación de consolas, por lo que si llegase a existir un GTA 6 sería un juego de PlayStation 5.
 
 [🔥 COMPRAR 🎁](){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
