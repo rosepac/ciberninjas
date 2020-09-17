@@ -42,7 +42,7 @@ Dada la edad de la PS4 y la naturaleza ambiciosa del juego, Final Fantasy Remake
 
 ## 2. **Death Stranding**
 
-![](/assets/img/videojuegos/rumores/death-stranding-rumores-1.webp "")
+![Death Stranding](/assets/img/videojuegos/rumores/death-stranding-rumores-1.webp "Death Stranding")
 
 Hideo Kojima y Sony han sido bastante herméticos sobre si veremos Death Stranding como un juego de PS5. 
 
@@ -54,7 +54,7 @@ No es exactamente una confirmación, pero la respuesta de Cerny definitivamente 
 
 ## 3. **Ghost of Tsushima**
 
-![](/assets/img/videojuegos/rumores/ghost-of-tsushima-rumores-3.webp "")
+![Ghost of Tsushima](/assets/img/videojuegos/rumores/ghost-of-tsushima-rumores-3.webp "Ghost of Tsushima")
 
 La histórica aventura de mundo abierto de SuckerPunch llevará a los jugadores de regreso al Japón feudal, y ahora tenemos una idea mucho más clara de cuándo sucederá. En los Game Awards 2019, SuckerPunch reveló que Ghost of Tsushima llegará a las calles el 17 de julio de 2020, lo que significa que la espera casi ha terminado. 
 
@@ -62,7 +62,7 @@ Eso significa que el juego llegará antes que la PS5, pero dado lo hermosos que 
 
 ## 4. **God of War 2**
 
-![](/assets/img/videojuegos/rumores/god-of-war-rumores-4.webp "")
+![God of War 2](/assets/img/videojuegos/rumores/god-of-war-rumores-4.webp "God of War 2")
 
 No se ha confirmado oficialmente que God of War 2 esté en proceso, pero esperamos que lo esté. 
 
@@ -74,7 +74,7 @@ En este punto, lo más probable es que God of War 2 llegue a PS5 que a PS4.
 
 ## 5. **Grand Theft Auto 6**
 
-![](/assets/img/videojuegos/rumores/grand-theft-auto-6-rumores-5.webp "")
+![Grand Theft Auto 6](/assets/img/videojuegos/rumores/grand-theft-auto-6-rumores-5.webp "Grand Theft Auto 6")
 
 De acuerdo, sí, tenemos un poco de esperanza aquí, principalmente porque Grand Theft Auto 6 no ha sido anunciado por Rockstar Games. Pero está casi garantizado que veremos una nueva instalación en la serie Grand Theft Auto, y no lo será por un tiempo. 
 
@@ -82,7 +82,7 @@ Por lo tanto, es probable que la fecha de lanzamiento caiga en la próxima gener
 
 ## 6. **Starfield**
 
-![](/assets/img/videojuegos/rumores/starfield-rumores-6.webp "")
+![Starfield](/assets/img/videojuegos/rumores/starfield-rumores-6.webp "Starfield")
 
 Bethesda tiene muchos proyectos en proceso, pero el que parece que conocemos menos es Starfield . Todo lo que sabemos hasta ahora es que Starfield es la primera nueva IP del gigante de los juegos en 25 años y será un juego de rol para un solo jugador ambientado en el espacio exterior.
 
@@ -90,7 +90,7 @@ Habiendo visto solo un avance de anuncio, no esperamos que Starfield se lance al
 
 ## 7. **The Elder Scrolls 6**
 
-![](/assets/img/videojuegos/rumores/elder-scrolls-rumores-7.webp "")
+![The Elder Scrolls 6](/assets/img/videojuegos/rumores/elder-scrolls-rumores-7.webp "The Elder Scrolls 6")
 
 Bethesda ha estado bastante ocupada desde el E3 2018. No solo está Starfield entre sus trabajos, sino que también se ha confirmado que el esperadísimo Elder Scrolls 6 se encuentra en proceso de producción. 
 
@@ -98,7 +98,7 @@ Todd Howard de Bethesda ya ha declarado que The Elder Scrolls 6 no saldrá hasta
 
 ## 8. **The Last of Us: Parte 2**
 
-![](/assets/img/videojuegos/rumores/the-last-of-us-rumores-8.webp "")
+![The Last of Us: Parte 2](/assets/img/videojuegos/rumores/the-last-of-us-rumores-8.webp "The Last of Us: Parte 2")
 
 The Last of Us: Part 2 ya se lanzó para PS4, pero creemos que es una suposición segura que las exclusivas de Sony lanzadas en 2020 (o que vencen en 2020) probablemente serán títulos de generaciones cruzadas.
 

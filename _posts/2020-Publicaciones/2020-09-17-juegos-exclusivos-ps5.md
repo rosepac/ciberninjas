@@ -6,8 +6,8 @@ comments: false
 tags:
 - Videoconsolas
 - Videojuegos
-thumbnail: /assets/img/blog/ps5-2020.webp
-feature-img: /assets/img/blog/ps5-2020.webp
+thumbnail: /assets/img/videojuegos/juegos-exclusivos-ps5.webp
+feature-img: /assets/img/videojuegos/juegos-exclusivos-ps5.webp
 title: '🥇 ▷ Los 18 Mejores Juegos Exclusivos de la PlayStation 5'
 description: >-
   Colección de los mejores juegos para PS5 ya confirmados, con los que Sony quiere conquistarte para la mejor consola del mundo de próxima generación.
