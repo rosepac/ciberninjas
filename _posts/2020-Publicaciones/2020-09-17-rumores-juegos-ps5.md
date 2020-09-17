@@ -106,7 +106,7 @@ Parecería un poco extraño que Sony lance una de sus secuelas más esperadas so
 
 ### **Relacionados** <!-- omit in toc -->
 
-[]()
+[Juegos PlayStation 4: Novedades 2020 🎮](https://www.amazon.es/ideas/amzn1.account.AFL4OCRCXKV23OFAFNOUNBFNRVCQ/3UW0R0XIP0RL4){:target}
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
