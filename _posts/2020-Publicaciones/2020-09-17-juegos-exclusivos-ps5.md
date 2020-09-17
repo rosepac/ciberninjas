@@ -138,36 +138,46 @@ El juego parece estar tomando la forma de una entrada en la alabada serie Dishon
 
 Han pasado más de diez años desde que Demon's Souls nos frustró sin fin en PS3 , y su combate despiadadamente difícil está de vuelta para la ventana de lanzamiento de PS5. Está siendo construido desde cero por Japan Studio y Bluepoint Games. Ya sabes, en caso de que no creas que 2020 fue lo suficientemente difícil, este clásico te hará querer lanzar ese nuevo controlador PS5 DualSense por la habitación con ira. ¡Emprende el incesante combate de prueba y error!
 
-
-
 ## 12. **Gran Turismo 7**
+
+No sería un evento de lanzamiento de juegos de PlayStation adecuado sin un adelanto de un nuevo juego de Gran Turismo, y no sería un adelanto adecuado de Gran Turismo si no nos dejara rascándonos la cabeza sobre si esto sería o no. un juego de lanzamiento. No se adjuntó una fecha de lanzamiento para este próximo juego de PS5.
+
+No importa. Podemos decirles que el desarrollador Polyphony Digital está trabajando en su visión de próxima generación para la serie de simuladores de carreras y su primer juego de carreras GT numerado desde GT6 en 2013. A diferencia de otros avances de PS5 mostrados durante el evento de revelación de Sony, pudimos ver en -Metraje del juego desde detrás del volante. Pensarás que se ve magnífico o magníficamente aburrido dependiendo de tu visión de la franquicia.
 
 ## 13. **Horizon Forbidden West**
 
+Aloy regresa en otra aventura gráficamente impresionante, en la que el futuro guerrero se enfrentará a dinosaurios robóticos en todo Estados Unidos en la secuela de PS5 Horizon Forbidden West. En términos de jugabilidad, parece una configuración similar al juego anterior, una épica de mundo abierto a través de playas relucientes y montañas que provocan vértigo. Fue fácilmente el juego más visualmente llamativo durante la presentación de PS5, quizás el único juego que parecía un verdadero salto generacional de lo que hemos visto anteriormente en PS4 y PS4 Pro .
+
 ## 14. **Marvel's Spider-Man: Miles Morales**
+
+Inicialmente pensamos que Spider-Man Miles Morales era una secuela del Spider-Man aclamado por la crítica de Insomniac , luego parecía que el juego era una remasterización ampliada del juego original. Ahora, se ha confirmado que Spider-Man: Miles Morales es un título independiente similar a Uncharted: Lost Legacy, que actúa más como un spin-off que como una secuela en toda regla, una especie de iteración 1.5 sentada en el medio.
+
+Independientemente, estamos emocionados. Si bien no sabemos demasiado sobre el juego, deberías poder viajar rápidamente por Nueva York casi instantáneamente gracias a la PS5 SSD , mientras que la retroalimentación háptica en el controlador PS5 DualSense debería mejorar la sensación del combate.
 
 ## 15. **Project Athia**
 
+El tráiler de Project Athia PS5 indica explícitamente que el juego fue "diseñado exclusivamente para PS5" (aunque también llegará a la PC, como lo descubrimos posteriormente). No importa, esta IP completamente nueva es de Square-Enix, los desarrolladores detrás de la franquicia Final Fantasy. Ambientado en un exuberante mundo de fantasía lleno de criaturas y dragones gigantes, parece que va a ser una aventura de acción a gran escala, fusionando los elementos mágicos de los juegos de Final Fantasy con algunos de los entornos a gran escala que esperarías de un juego de mundo abierto. Uno para mirar.
 
 ## 16. **Ratchet and Clank: Rift**
 
+Un juego completamente nuevo de Ratchet and Clank, Rift Apart parece una película de Pixar hecha realidad. Un híbrido de disparos de plataforma colorido y amigable para los niños, fue quizás el mejor ejemplo del nuevo sistema de almacenamiento SSD de la PS5. Se mostraron secuencias en las que la desventurada pareja aparentemente irradiaba de un mundo detallado a un mundo de ciencia ficción detallado en un instante, una hazaña que el almacenamiento de la vieja escuela no habría sido capaz de hacer con el nivel de detalle en exhibición.
+
 ## 17. **Returnal**
+
+Returnal proviene de los especialistas en juegos de disparos de Housemarque, pero es un tipo de experiencia muy diferente a Dead Nation o Resogun. Este shooter en tercera persona / híbrido de pícaro te tiene atrapado en un planeta alienígena que se transforma cada vez que mueres, una premisa similar al Borde del Mañana donde la muerte es parte de la historia. Puede cambiar los modos de disparo utilizando los activadores adaptativos de DualSense.
+
 ## 18. **Sackboy: A Big Adventure**
+
+No, no vimos LittleBigPlanet 4 en el gran evento de revelación del juego de PS5, pero Sony y el desarrollador Sumo Digital ofrecieron un juego derivado con tu héroe de arpillera favorito de LBP, Sackboy. Este es un juego de plataformas en 3D, en lugar de un juego 2.5D, lo que le da a Sony un rival de Super Mario en el lanzamiento con la ternura de un juego de Yoshi. Lo mejor de todo es que parece incluir un juego de cuatro jugadores, como se revela al final del tráiler.  
 
 ### **Relacionados** <!-- omit in toc -->
 
-[]()
+[▷ Los 8 juegos para PlayStation 5, que podrían tener una nueva versión en 2020](/rumores-juegos-ps5/)
 
-[]()
+[▷ 70 juegos de PlayStation 4 que podrás jugar con tu PlayStation 5](/mejores-juegos-ps5/)
 
-[]()
-
-[]()
-
-[]()
+[▷ La PS5 se lanzará el 19 de Noviembre por 499,99 €](/compra-ps5/)
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-> **Fuente**: []( ""){:target="_blank" rel="nofollow,noreferrer"}
 
 ![La PS5 se lanzará el 19 de Noviembre por 499,99 €](/assets/img/blog/ps5-2020.webp "La PS5 se lanzará el 19 de Noviembre por 499,99 €")

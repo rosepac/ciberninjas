@@ -43,6 +43,9 @@ Ya se han anunciado numerosos juegos que se lanzarán exclusivamente para la nue
 
 Entre otros: Final Fantasy 16, God of War, Destruction AllStars, Demon´s Souls, Horizon, Marvel´s Spider-Man o Project Athia.
 
+<!-- https://www.techradar.com/news/ps5#:~:text=We'll%20cover%20them%20in,10.28%20TFLOPs%20of%20processing%20power.&text=Here's%20everything%20we%20know%20about%20the%20PS5%20so%20far. -->
+<!-- https://www.techradar.com/news/ps5-games -->
+
 ### **Relacionados** <!-- omit in toc -->
 
 [▷ 70 juegos de PlayStation 4 que podrás jugar con tu PlayStation 5](/mejores-juegos-ps5/)
