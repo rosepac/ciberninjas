@@ -17,7 +17,7 @@ canonical_URL: https://ciberninjas.com/comprar-nvidia-rtx-3080/
 permalink: /comprar-nvidia-rtx-3080/
 date: 2020-09-17 00:38:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -43,4 +43,4 @@ No dejes de estar totalmente atento, porque es más que posible que todas las un
 
 > **Fuente**: [The Verge](https://www.theverge.com/){:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/nvidia-rtx-3080-2080.webp "")
+![Dónde comprar la tarjeta gráfica RTX 3080 de Nvidia esta noche o mañana](/assets/img/blog/nvidia-rtx-3080-2080.webp "Dónde comprar la tarjeta gráfica RTX 3080 de Nvidia esta noche o mañana")
