@@ -1,4 +1,5 @@
 ---
+
 layout: page
 author: rosepac
 bootstrap: true
@@ -10,7 +11,17 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 thumbnail: /assets/img/paginas/amor-programacion.webp
 feature-img: /assets/img/paginas/amor-programacion.webp
 img: /assets/img/paginas/amor-programacion.webp
+
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item active" aria-current="page"><a href="/programa-gratis/">Programa Gratis</a></li>
+  </ol>
+</nav>
+</div>
 
 Si eres nuevo/a en el mundo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/) por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/).
 
