@@ -19,7 +19,7 @@ img: /assets/img/paginas/estudiar-daw.webp
 <div class="hidden-sm-down">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item" tabindex="0"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
     <li class="breadcrumb-item active" aria-current="page">Recursos DAW</li>
   </ol>
@@ -27,6 +27,10 @@ img: /assets/img/paginas/estudiar-daw.webp
 </div>
 
 El **ciclo de formación profesional de desarrollo de aplicaciones web** o también conocido como DAW, te ofrece la posibilidad de lograr **el título de técnico superior en desarrollo de aplicaciones web**.
+
+Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.
+
+Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información de reciente creación.
 
 - [1. **Bases de datos**](#1-bases-de-datos)
   - [**Libros de bases de datos**](#libros-de-bases-de-datos)
@@ -58,10 +62,6 @@ El **ciclo de formación profesional de desarrollo de aplicaciones web** o tambi
 - [15. **Formación en centros de trabajo**](#15-formación-en-centros-de-trabajo)
 - [**Apuntes Completos: FP de Desarrollo de Aplicaciones Web**](#apuntes-completos-fp-de-desarrollo-de-aplicaciones-web)
 
-Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.
-
-Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información de reciente creación.
-
 Con lo primero que se encuentra una persona al comenzar los estudios de formación profesional de desarrollo de aplicaciones web, es con el serio problema de no poseer los apuntes tomados personalmente; con los que lograr centrarse únicamente en estudiar mediante una dinámica organizada.
 
 Por eso, lo primero que tiende a hacer uno, es ir a buscar información complementaria.
@@ -72,7 +72,7 @@ Pues aquí, vas a poder encontrar una recopilación de apuntes, cursos y libros 
 
 No dejen de estudiar, ¡Espero que les sea de grata ayuda 😎!
 
-**Asignaturas del primer curso de DAW**
+> **Asignaturas del primer curso de DAW**
 
 El primer curso de Desarrollo de Aplicaciones Web consiste en cursar las asignaturas de programación, bases de datos, entornos de desarrollo, lenguajes de marcas y sistemas de gestión de la información, y formación y orientación laboral.
 
@@ -172,11 +172,15 @@ Piensa en JAVA. Edición Española (2.002)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452594&linkId=9263f21a58c82b01bb84c94cce8ed82c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499640885&linkId=4abe484ec5abede0d376840723f3675c"></iframe>
 
-**Asignaturas del segundo curso de DAW**
+> **Asignaturas del segundo curso de DAW**
 
 El segundo curso de Desarrollo de Aplicaciones Web consiste en cursar las asignaturas de desarrollo web en entorno cliente, desarrollo web en entorno servidor, despliegue de aplicaciones web, diseño de interfaces web, sistemas informáticos, inglés técnico, empresa e iniciativa emprendedora, proyecto de desarrollo de aplicaciones web y formación en centros de trabajo.
 
 ## 6. **Sistemas informáticos**
+
+En la asignatura de sistemas informáticos de los ciclos de informática de grado superior, se imparte basicámente el mismo contenido que se da en X módulos del ciclo formativo de sistemas microinformáticos y redes, pero comprimido en una sola asignatura.
+
+Los contenidos de los módulos de sistemas operativos monopuesto, redes locales y un poquito de sistemas operativos en red.
 
 ### **Libros de sistemas informáticos**
 

@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title: "🥇 ▷ Hoja de ruta del curso de especialización en ciberseguridad"
 description: "Conociendo el ciclo complementario de seguridad informática, sus asignaturas, quién lo puede cursas, etc."
@@ -11,6 +12,7 @@ canonical_URL: https://ciberninjas.com/recursos-fp-ciberseguridad/
 thumbnail: /assets/img/blog/ciberseguridad.webp
 feature-img: /assets/img/blog/ciberseguridad.webp
 img: /assets/img/blog/ciberseguridad.webp
+
 ---
 
 En los ciclos formativos de administración de sistemas informáticos en red, desarrollo de aplicaciones multiplataforma (DAM), desarrollo de aplicaciones web (DAW) y el ciclo de grado medio de sistemas microinformáticos y redes; incluyen algunos contenidos sobre seguridad; pero ninguno de ellos, profundiza en gran medida en ella.
