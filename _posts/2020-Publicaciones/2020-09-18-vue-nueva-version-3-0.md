@@ -21,11 +21,22 @@ published: true
 
 ---
 
-Hoy, el equipo de desarrollo de Vue ha presentado el lanzamiento oficial de Vue.js 3.0 "One Piece". Esta nueva versión principal del framework proporciona un rendimiento mejorado, tamaños de paquete más pequeños, una mejor integración de TypeScript, nuevas API para abordar casos de uso a gran escala y una base sólida para iteraciones futuras a largo plazo del framework.
+Hoy, el equipo de desarrollo de Vue ha presentado el lanzamiento oficial de Vue.js 3.0 "One Piece". Esta nueva versión principal del framework proporciona un rendimiento mejorado, tamaños de paquete más pequeños, una mejor integración de TypeScript, nuevas API para abordar casos de uso a gran escala y una base sólida para iteraciones futuras.
 
 La versión 3.0 representa más de 2 años de esfuerzos de desarrollo, con más de [30 RFC](https://github.com/vuejs/rfcs/tree/master/active-rfcs){:target="_blank" rel="nofollow,noreferrer"}, más de 2600 confirmaciones, [628 solicitudes de extracción](https://github.com/vuejs/vue-next/pulls?q=is%3Apr+is%3Amerged+-author%3Aapp%2Fdependabot-preview+){:target="_blank" rel="nofollow,noreferrer"} de [99 colaboradores](https://github.com/vuejs/vue-next/graphs/contributors){:target="_blank" rel="nofollow,noreferrer"}, además de una enorme cantidad de trabajo de desarrollo y documentación fuera del repositorio principal.
 
 Nos gustaría expresar nuestro más profundo agradecimiento a los miembros de nuestro equipo por asumir este desafío, a nuestros colaboradores por las solicitudes de extracción, a nuestros [patrocinadores y patrocinadores](https://github.com/vuejs/vue/blob/dev/BACKERS.md){:target="_blank" rel="nofollow,noreferrer"} por el apoyo financiero, y a la comunidad en general por participar en nuestras discusiones de diseño y brindar comentarios para el pre -versiones de lanzamiento. Vue es un proyecto independiente creado para la comunidad y sostenido por la comunidad, y Vue 3.0 no hubiera sido posible sin su apoyo constante.
+
+- [**Llevando más lejos el concepto de "framework progresivo"**](#llevando-más-lejos-el-concepto-de-framework-progresivo)
+  - [**Módulos internos en capas**](#módulos-internos-en-capas)
+  - [**Nuevas API para abordar la escala**](#nuevas-api-para-abordar-la-escala)
+  - [**Mejoras de rendimiento**](#mejoras-de-rendimiento)
+  - [**Integración con TypeScript mejorada**](#integración-con-typescript-mejorada)
+  - [**Funciones experimentales**](#funciones-experimentales)
+- [**Proceso de lanzamiento por fases**](#proceso-de-lanzamiento-por-fases)
+  - [Soporte de migración e IE11](#soporte-de-migración-e-ie11)
+- [**Próximos pasos en el desarrollo de Vue**](#próximos-pasos-en-el-desarrollo-de-vue)
+- [**Probando Vue 3.0**](#probando-vue-30)
 
 ## **Llevando más lejos el concepto de "framework progresivo"**
 
@@ -113,4 +124,4 @@ Para obtener más información sobre Vue 3.0, consulte nuestro [nuevo sitio web 
 
 > **Fuente**: [Blog oficial del framework de Vue 3.0](https://github.com/vuejs/vue-next/releases/tag/v3.0.0 "Blog oficial del framework de Vue 3.0"){:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/ "")
+![Lanzamiento de Vue 3.0 "One Piece" el framework de javascript más de moda](/assets/img/blog/vue-3-ciberninjas.webp "Lanzamiento de Vue 3.0 "One Piece" el framework de javascript más de moda")
