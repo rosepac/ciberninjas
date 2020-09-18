@@ -31,13 +31,98 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 18 de Septiembre
 
-- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+**CONGRESO ES LIBRE (HORAS ESPAÑOLAS)**
+
+SALA 1 (https://bbb.eslibre.urjc.es/b/jes-im8-yjv)
+
+- 11:00-11:25: Sobre la Gobernanza en Lenguajes de Programación - Luis García Castro
+- 11:25-11:50: Java sigue siendo libre (y gratis)
+- 11:50-12:15: Código colaborativo el Gobierno del Futuro - Alba Roza Suárez
+- 12:15-12:30 DESCANSO
+- 12:50-12:55: LibreOffice Décimo Aniversario - Italo Vignoli
+- Enseñando informática en 2020: Una propuesta basada en el software libre
+- The Things Network: Una red iot desplegada y mantenida por la ciudadania
+- COMIDA
+- Así se hizo ESLIBRE 2020 (Explicación sobre el software libre utilizado)
+- Hackeando la comunicación - Nuritzi SAnchez
+- Damegender - David Arroyo
+- ¿Está (realmente) roto el open source?
+- Public Money, Public Code - Alexander Sander
+- Comunicar el impacto social de la industria del software libre - Jesús García
+- Software libre y soberanía tecnológica en la ONG Ing. Sin Fronteras - Sergio Soto
+
+SALA 2 (https://eslib.re/2019/assets/icons/video-solid.svg)
+
+- Mosaicos are back - Javier Montes Heras
+- Creación de juegos 2D / 3D con Godot Engine
+- Configura tu nodo IOT y conéctalo a The Things Network
+
+SALA 3 (https://bbb.eslibre.urjc.es/b/jes-w76-gyt)
+
+- Sesión formativa sobre GLAMWiki: Instituciones culturales y conocimiento libre - Santiago Navarra.
+- Derechos de autoría y acceso a la cultura - Mesa Redonda
+
+SALA 4 (https://bbb.eslibre.urjc.es/b/jes-nsf-l6w)
+
+- Hackatahon de Katas de programación para entrenamiento con Haskell
+
+SALA 5 (https://bbb.eslibre.urjc.es/b/jes-ojo-vuh) A partir de las 12:30 H. ESP.
+
+- Presentación: Derecho digital y privacidad
+- Herramientas para mantener tu privacidad en Internet - Pablo Castro
+- Identidad bajo el contorl de las personas - Jorge Cuadrado
+- Existe vacuna para los sesgos en las inteligencias artificiales - Emma Lopez
+- Fact Cheking y fake news - Javier Cantón
+- Social Justice Code Repositories - Lorena Sánchez
+- Software libre para las personas - Paula de la Hoz
+- Hacktivismo no es nombre de señora - Sofía Prósper
+- Hacía un feudalismo de los datos - Luis Fajardo
+
+SALA 6 (https://bbb.eslibre.urjc.es/b/jes-bof-rbt)
+
+GNOME: La Experiencia de Escritorio Ético y Elegante
+
+- Flatpack para programadores - Daniel García
+- GTK 4 - Carlos Garnacho
+- GNOME Shell - Florian Mullner
+- Taller Newcomers
+- Tecnologías  de Gnome en entornos embebidos - Alvaro Peña
+
+**PROGRAMA COMPLETO** (https://eslib.re/2020/programa/)
+
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+
+#### Viernes 18/09
+
+10 H.: Rodrigo Montenegro: La Inteligencia Artificial y su impacto en el mundo del Testing (Tsoft)
+11 H.: Abel Quintana Lopez y Oscar Calderin: Testing como parte de la cultura de DevOps
+12 H.: Ernesto Urbina: Taller básico de Taurus (Abstracta Chile)
+13 H.: Pedro Alejandro Borsalino: Matemáticas para Machine Learning
+14 H.: Maria Amelia Castañeda: Formando los testers del futuro, Crowdar Academy (Crowdar)
+15 H.: Juan Pablo Moldero: Transformación Laboral con datos (Itiers)
+16 H.: Pablo Bernard: Representaciones Visuales para Test de Performance (Endava)
+17 H.: Leonardo Mantovan: Qué, cómo y por qué de la automatización
+18 H.: Mariela Alejadra Romera: Taller de Coaching y Neurociencias Aplicado al Testing de Software
+19 H.: Lucas Sebastian de la Fuente: Desmitificando BDD
+
 - (00:00 H. ESP.) ¿Cómo ser un programador web? 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Viernes al Sábado)
 
 ### 🔔 19 de Septiembre
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+
+#### Sabado 19/09
+
+10 H.: Happy Agile Testing - Monica Colombo
+12 H.: UAT Cross Agile como eslabón fundamental de un gobierno de pruebas - Lily Rodriguez
+14 H.: ¿Cómo incorporamos pruebas de accesibilidad a nuestros proyectos? - Micaela González
+15 H.: Automatización de pruebas en dispositivos móviles con Katalon Studio - Gastón Marichal y Alejandro Bermúdez
+16 H.: Testing a data science model (Exposición en Inglés) - Laveena Ramchandani
+17 H.: Incidencia de la tecnología y el covid19 en los recursos humanos (Human Quality) - Mariano Ruminot
+18 H.: Demystifying Exploratory Testing - Elisa Abedrapo
+
 - Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
 - (11:00 AM H. ESP.) ✨ OSWeekends #3: Animaciones svg, Blog Nuxt, Cypress Testing 👉 [Registro](https://www.meetup.com/es/Open-Source-Weekends/events/273013139/){:target="_blank" rel="nofollow, noreferrer"}
 - (00:00 H. ESP.) Haz tus propias páginas web 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Sábado al Domingo)
@@ -45,6 +130,11 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 20 de Septiembre
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+
+#### Domingo 20/09
+
+10 H.: Taller, Aprende API Testing jugando con SoapUI - Leonardo Espindola
+12 H.: CIERRE DEL MEGA TESTING WEEK 2020
 
 ### 🔔 23 de Septiembre
 
