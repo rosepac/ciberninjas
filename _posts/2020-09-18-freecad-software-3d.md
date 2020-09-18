@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Software
-thumbnail: /assets/img/blog/freecad.webp
-feature-img: /assets/img/blog/freecad.webp
+thumbnail: /assets/img/blog/freecad-logo.webp
+feature-img: /assets/img/blog/freecad-logo.webp
 title: '▷ FreeCAD: un modelador paramétrico 3D multiplataforma gratuito y de código abierto'
 description: >-
   El sustituto perfecto de AutoCAD GRATUITO. 
