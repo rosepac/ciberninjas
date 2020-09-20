@@ -59,4 +59,4 @@ La nueva fecha límite agrega más tensión a las negociaciones que se están pr
 
 > **Fuente**: [Yahoo News](https://news.yahoo.com/u-start-blocking-tiktok-wechat-122617979.html "Yahoo news"){:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/ "")
+![Estados Unidos comenzará a bloquear las descargas de TikTok y WeChat el domingo](/assets/img/blog/baneo-tiktok.webp "Estados Unidos comenzará a bloquear las descargas de TikTok y WeChat el domingo")
