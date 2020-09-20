@@ -88,15 +88,15 @@ En marzo de 2020, Cerf confirmó que había dado positivo por COVID-19 . Anunci�
 
 Cerf ha recibido varios títulos honoríficos, incluidos doctorados, de la Universidad de las Islas Baleares, ETHZ en Zurich, Suiza, Capitol College, Gettysburg College, Yale University, George Mason University, Marymount University, Bethany College (Kansas), Universidad de Pisa, Universidad de Rovira y Virgili ( Tarragona, España), Instituto Politécnico Rensselaer, Universidad Tecnológica de Luleå ( Suecia ), Universidad de Twente (Países Bajos ), Universidad de Correos y Telecomunicaciones de Beijing, la Universidad de Tsinghua (Beijing), Politécnico de Brooklyn, UPCT (Universidad de Cartagena, España), la Universidad de Zaragoza (España), Universidad de Reading (Reino Unido), Royal Roads University (Canadá), MGIMO (Universidad Estatal de Relaciones Internacionales de Moscú), Instituto Tecnológico de Buenos Aires (Argentina), Universidad Politécnica de Madrid, Universidad Keio (Japón), Universidad de Australia Meridional (Australia), Universidad de St Andrews (Escocia), Universidad de Pittsburgh y [ 68] Universidad Gallaudet (Estados Unidos). Otros premios incluyen:
 
-- [Miembro de la ACM](https://en.wikipedia.org/wiki/ACM_Fellow) (1994)
-- Premio Edward A. Dickson al alumno del año de UCLA [[69\]](https://en.wikipedia.org/wiki/Vint_Cerf#cite_note-69)
-- [Premio Príncipe de Asturias](https://en.wikipedia.org/wiki/Prince_of_Asturias_Awards) de ciencia y tecnología [[70\]](https://en.wikipedia.org/wiki/Vint_Cerf#cite_note-70)
-- [Miembro del IEEE](https://en.wikipedia.org/wiki/Fellow_of_the_IEEE), 1988, "por contribuciones y liderazgo en el diseño, desarrollo y aplicación de protocolos de Internet"
-- Miembro de la [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery), 1994, por "visión y liderazgo en el diseño, implementación, evolución y difusión del conjunto de protocolos de comunicación informática TCP / IP"
-- [Premio en memoria de Yuri Rubinsky](https://en.wikipedia.org/wiki/Yuri_Rubinsky_Memorial_Award), 1996
-- [Premio SIGCOMM](https://en.wikipedia.org/wiki/SIGCOMM_Award) por "contribuciones a Internet [que abarcan] más de 25 años, desde el desarrollo de los protocolos fundamentales TCP / IP". [[71\]](https://en.wikipedia.org/wiki/Vint_Cerf#cite_note-71)
-- [Certificado de mérito](https://en.wikipedia.org/wiki/The_Franklin_Institute_Awards) del [Instituto Franklin](https://en.wikipedia.org/wiki/The_Franklin_Institute), en 1996.
-- En diciembre de 1997, él, junto con su socio Robert E. Kahn, recibió la [Medalla Nacional de Tecnología](https://en.wikipedia.org/wiki/National_Medal_of_Technology) del presidente [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton), "por crear y mantener el desarrollo de protocolos de Internet y continuar proporcionando liderazgo en la industria emergente de interconexión". [[72\] ](https://en.wikipedia.org/wiki/Vint_Cerf#cite_note-72)[[73\]](https://en.wikipedia.org/wiki/Vint_Cerf#cite_note-73)
+- [Miembro de la ACM](https://en.wikipedia.org/wiki/ACM_Fellow){:target="_blank" rel="nofollow,noreferrer"} (1994)
+- Premio Edward A. Dickson al alumno del año de UCLA.
+- [Premio Príncipe de Asturias](https://en.wikipedia.org/wiki/Prince_of_Asturias_Awards){:target="_blank" rel="nofollow,noreferrer"} de ciencia y tecnología [[70\]](https://en.wikipedia.org/wiki/Vint_Cerf#cite_note-70){:target="_blank" rel="nofollow,noreferrer"}
+- [Miembro del IEEE](https://en.wikipedia.org/wiki/Fellow_of_the_IEEE){:target="_blank" rel="nofollow,noreferrer"}, 1988, "por contribuciones y liderazgo en el diseño, desarrollo y aplicación de protocolos de Internet"
+- Miembro de la [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery){:target="_blank" rel="nofollow,noreferrer"}, 1994, por "visión y liderazgo en el diseño, implementación, evolución y difusión del conjunto de protocolos de comunicación informática TCP / IP"
+- [Premio en memoria de Yuri Rubinsky](https://en.wikipedia.org/wiki/Yuri_Rubinsky_Memorial_Award){:target="_blank" rel="nofollow,noreferrer"}, 1996
+- [Premio SIGCOMM](https://en.wikipedia.org/wiki/SIGCOMM_Award){:target="_blank" rel="nofollow,noreferrer"} por "contribuciones a Internet [que abarcan] más de 25 años, desde el desarrollo de los protocolos fundamentales TCP / IP".{:target="_blank" rel="nofollow,noreferrer"}
+- [Certificado de mérito](https://en.wikipedia.org/wiki/The_Franklin_Institute_Awards){:target="_blank" rel="nofollow,noreferrer"} del [Instituto Franklin](https://en.wikipedia.org/wiki/The_Franklin_Institute){:target="_blank" rel="nofollow,noreferrer"}, en 1996.
+- En diciembre de 1997, él, junto con su socio Robert E. Kahn, recibió la [Medalla Nacional de Tecnología](https://en.wikipedia.org/wiki/National_Medal_of_Technology) del presidente [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton){:target="_blank" rel="nofollow,noreferrer"}, "por crear y mantener el desarrollo de protocolos de Internet y continuar proporcionando liderazgo en la industria emergente de interconexión".
 - Recibió la [Medalla de Leyenda Viviente](https://en.wikipedia.org/wiki/Living_Legend_Medal) de la Biblioteca del Congreso en abril de 2000
 - En 2000, fue nombrado miembro del [Museo de Historia](https://en.wikipedia.org/wiki/Computer_History_Museum) de la [Computación](https://en.wikipedia.org/wiki/Computer_History_Museum) "por sus contribuciones a la arquitectura, los sistemas operativos y la ingeniería de software". [[74\]](https://en.wikipedia.org/wiki/Vint_Cerf#cite_note-74)
 - Cerf fue seleccionada como miembro de la [Association for Women in Science](https://en.wikipedia.org/wiki/Association_for_Women_in_Science)(AWIS) en 2000.
@@ -134,7 +134,7 @@ Cerf ha recibido varios títulos honoríficos, incluidos doctorados, de la Unive
 - *Informe del segundo Grupo de revisión de gestión de redes ad hoc*,, agosto de 1989 
 - *Junta de Actividades de Internet*, septiembre de 1989 
 - *Reflexiones sobre la Red Nacional de Investigación y Educación*, julio de 1990 
-- *Redes*, [número especial de Scientific American sobre comunicaciones, computadoras y redes](https://en.wikipedia.org/wiki/Scientific_American_Special_Issue_on_Communications,_Computers,_and_Networks), septiembre de 1991
+- *Redes*, [número especial de Scientific American sobre comunicaciones, computadoras y redes](https://en.wikipedia.org/wiki/Scientific_American_Special_Issue_on_Communications,_Computers,_and_Networks){:target="_blank" rel="nofollow,noreferrer"}, septiembre de 1991
 - *Directrices para las actividades de medición de Internet*, octubre de 1991
 - *UNA VISTA DESDE EL SIGLO XXI*, 1 de abril de 1994 
 - *Un acuerdo entre Internet Society y Sun Microsystems, Inc. en materia de protocolos ONC RPC y XDR*, abril de 1995
@@ -145,8 +145,8 @@ Cerf ha recibido varios títulos honoríficos, incluidos doctorados, de la Unive
 ## **Bibliografía de Vint Cerf como coautor**
 
 - Vinton Cerf, Robert Kahn, [*A Protocol for Packet Network Intercommunication*](http://www-net.cs.umass.edu/653-04/documents/cerfkahn.pdf)( [IEEE](https://en.wikipedia.org/wiki/IEEE) Transactions on Communications, mayo de 1974)
-- Vinton Cerf, Yogen Dalal, Carl Sunshine, *Especificación del programa de control de transmisión de Internet* ( [RFC ](https://en.wikipedia.org/wiki/RFC_(identifier))[675](https://tools.ietf.org/html/rfc675), diciembre de 1974) 
-- Vinton Cerf, [Jon Postel](https://en.wikipedia.org/wiki/Jon_Postel), *plan de transición de correo* ( [RFC ](https://en.wikipedia.org/wiki/RFC_(identifier))[771](https://tools.ietf.org/html/rfc771), septiembre de 1980) 
+- Vinton Cerf, Yogen Dalal, Carl Sunshine, *Especificación del programa de control de transmisión de Internet* , diciembre de 1974) 
+- Vinton Cerf, [Jon Postel](https://en.wikipedia.org/wiki/Jon_Postel), *plan de transición de correo*, septiembre de 1980) 
 - Vinton Cerf, KL Mills *Explicación del papel de GOSIP*
 - Clark, Chapin, Cerf, Braden, Hobby, *Towards the Future Internet Architecture*, diciembre de 1991 
 - Vinton Cerf et al., *A Strategic Plan for Deploying an Internet X.500 Directory Service*, [RFC ](https://en.wikipedia.org/wiki/RFC_(identifier))[1430](https://tools.ietf.org/html/rfc1430), febrero de 1993 
@@ -159,11 +159,11 @@ Cerf escribe bajo el nombre de la columna "CERF'S UP", y el coche de Cerf tiene 
 
 ## **Enlaces Externos sobre Vint Cerf**
 
-- [Bio en Google](https://web.archive.org/web/20150312003109/http://research.google.com/pubs/author32412.html)
-- [Vint Cerf](https://web.archive.org/web/20110518161138/https://icannwiki.org/Vinton_Cerf) en la [wiki de ](https://en.wikipedia.org/wiki/Wiki)[ICANN](https://en.wikipedia.org/wiki/ICANN)
-- [Dr. Vint Cerf sobre "Reinventar Internet"](https://www.youtube.com/watch?v=qguED5Aouv4) (YouTube). [Sociedad de Internet](https://en.wikipedia.org/wiki/Internet_Society) . (13 de mayo de 2013)
-- [Vint Cerf](https://www.ted.com/speakers/vint_cerf) en [TED](https://en.wikipedia.org/wiki/TED_(conference)) [![Edita esto en Wikidata](https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png)](https://www.wikidata.org/wiki/Q92743#P2611)
-- [Apariciones](https://www.c-span.org/person/?vintoncerf) en [C-SPAN](https://en.wikipedia.org/wiki/C-SPAN)
+- [Bio en Google](https://web.archive.org/web/20150312003109/http://research.google.com/pubs/author32412.html){:target="_blank" rel="nofollow,noreferrer"}
+- [Vint Cerf](https://web.archive.org/web/20110518161138/https://icannwiki.org/Vinton_Cerf){:target="_blank" rel="nofollow,noreferrer"} en la [wiki de](https://en.wikipedia.org/wiki/Wiki) [ICANN](https://en.wikipedia.org/wiki/ICANN){:target="_blank" rel="nofollow,noreferrer"}
+- [Dr. Vint Cerf sobre "Reinventar Internet"](https://www.youtube.com/watch?v=qguED5Aouv4){:target="_blank" rel="nofollow,noreferrer"} (YouTube). [Sociedad de Internet](https://en.wikipedia.org/wiki/Internet_Society){:target="_blank" rel="nofollow,noreferrer"}. (13 de mayo de 2013)
+- [Vint Cerf](https://www.ted.com/speakers/vint_cerf){:target="_blank" rel="nofollow,noreferrer"} en [TED](https://en.wikipedia.org/wiki/TED_(conference)){:target="_blank" rel="nofollow,noreferrer"} [![Edita esto en Wikidata](https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png)](https://www.wikidata.org/wiki/Q92743#P2611){:target="_blank" rel="nofollow,noreferrer"}
+- [Apariciones](https://www.c-span.org/person/?vintoncerf){:target="_blank" rel="nofollow,noreferrer"} en [C-SPAN](https://en.wikipedia.org/wiki/C-SPAN){:target="_blank" rel="nofollow,noreferrer"}
 
 **Sitio Web**: [Investigación .google .com / pubs / author32412 .html](http://research.google.com/pubs/author32412.html){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
