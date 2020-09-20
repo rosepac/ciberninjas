@@ -1,4 +1,5 @@
 ---
+
 layout: page
 hide: true
 title: '🥇 Cómo aprender cualquier lenguaje de programación 2020'
@@ -11,6 +12,7 @@ published: true
 feature-img: /assets/img/paginas/progmb.webp
 description: "Aprende desde cero tu lenguaje de programación favorito, encuentra los mejores cursos, libros y recursos para convertirte en un profesional"
 excerpt: "Aprende desde cero tu lenguaje de programación favorito, encuentra los mejores cursos, libros y recursos para convertirte en un profesional"
+
 ---
 
 <!-- CAJA 1 PROGRAMACION-->
