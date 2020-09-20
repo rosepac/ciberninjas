@@ -17,7 +17,7 @@ canonical_URL: https://ciberninjas.com/premios-turing-apoyan-biden/
 permalink: /premios-turing-apoyan-biden/
 date: 2020-09-20 01:38:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -25,9 +25,11 @@ Veinticuatro ganadores del prestigioso Premio Turing respaldan al ex-vicepreside
 
 "Las personas más brillantes del mundo quieren venir aquí y ser estudiantes de posgrado, pero ahora no se les anima a venir aquí y muchos se van a otra parte", dice David Patterson, un distinguido ingeniero de Google y ex profesor de la Universidad de California.
 
-Entre los nombres que se encuentran en la declaración se encuentran entre otros: [Vint Cerf](/wiki/vint-cerf/), quien co-diseñó los protocolos TCP / IP y la arquitectura de Internet; Martin Hellman, quien inventó la criptografía de clave pública; Ed Catmull, cofundador de Pixar; El científico de inteligencia artificial de Facebook Yann LeCun; y Barbara Liskov, conocida por su trabajo en el diseño de lenguajes de programación de computadoras.
+Entre los nombres que se encuentran en la declaración se encuentran entre otros: [Vint Cerf](/wiki/vint-cerf/), quien co-diseñó los protocolos TCP / IP y la arquitectura de Internet; Martin Hellman, quien inventó la criptografía de clave pública; Ed Catmull, cofundador de Pixar; el científico de inteligencia artificial de Facebook Yann LeCun; y Barbara Liskov, conocida por su trabajo en el diseño de lenguajes de programación de computadoras.
 
-“No tiene precedentes que los ganadores del premio máximo en ciencias de la computación, el Premio ACM Turing, respalden a un candidato político, pero estos son tiempos sin precedentes”, tuiteó Hellman . Los patrocinadores actúan como ciudadanos privados y no representan a ninguna empresa u organización, e incluyen a 24 de los 35 ganadores del Premio Turing vivo.
+“No tiene precedentes que los ganadores del premio máximo en ciencias de la computación, el Premio ACM Turing, respalden a un candidato político, pero estos son tiempos sin precedentes”, tuiteó Hellman.
+
+Los patrocinadores actúan como ciudadanos privados y no representan a ninguna empresa u organización, e incluyen a 24 de los 35 ganadores del Premio Turing vivo.
 
 Aquí está la declaración completa:
 
