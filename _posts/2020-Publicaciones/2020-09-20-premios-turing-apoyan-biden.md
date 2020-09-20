@@ -6,8 +6,8 @@ comments: false
 tags:
 - Actualidad
 - Historia de las Computadoras
-thumbnail: /assets/img/blog/
-feature-img: /assets/img/blog/
+# thumbnail: /assets/img/blog/
+# feature-img: /assets/img/blog/
 title: '▷ 24 Ganadores del premio Turing respaldan a Biden y dicen que la política de inmigración de Trump sofocará la investigación tecnológica'
 description: >-
   Veinticuatro ganadores del Premio Turing respaldan al exvicepresidente Joe Biden en las próximas elecciones presidenciales, porque les preocupa que las políticas de inmigración de Trump puedan ser perjudiciales para la investigación informática y la industria tecnológica.
