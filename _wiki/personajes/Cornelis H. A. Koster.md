@@ -13,14 +13,20 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/cornelis-h-a-koster/
+canonical_URL: https://ciberninjas.com/wiki/cornelis-h-a-koster/
 feature-img: /assets/img/wiki/articulos/wiki-cornelis-koster.webp
 img: /assets/img/wiki/articulos/wiki-cornelis-koster.webp
 
 ---
 
-**Cornelis Hermanus Antonius " Kees " Koster** (nacido el 13 de julio de 1943 - 21 de marzo de 2013) era un informático holandés que era profesor en el Departamento de Informática de la Universidad Radboud Nijmegen en los Países Bajos.
+**Cornelis Hermanus Antonius "Kees" Koster** (nacido el 13 de julio de 1943 - 21 de marzo de 2013) era un informático holandés que era profesor en el Departamento de Informática de la Universidad Radboud Nijmegen en los Países Bajos.
 
-## Biografía
+- [**Biografía de Cornelis Koster**](#biografía-de-cornelis-koster)
+- [**Proyecto PHASAR**](#proyecto-phasar)
+- [**Proyecto LCS**](#proyecto-lcs)
+- [**Enlaces Externos sobre Cornelis Koster**](#enlaces-externos-sobre-cornelis-koster)
+
+## **Biografía de Cornelis Koster**
 
 Nacido en Haarlem , su familia se mudó a Yakarta después de la guerra. A los 11 años regresó a los Países Bajos por su cuenta. Después de estudiar en la Universidad de Amsterdam , trabajó en el Mathematisch Centrum (MC) en Amsterdam con Adriaan van Wijngaarden.
 
@@ -30,7 +36,7 @@ Koster también es el creador de las gramáticas Affix, que son una variante de 
 
 En 1972 se mudó a Berlín para iniciar un curso de informática en la Universidad Técnica de Berlín. En 1977 se convirtió en el primer profesor de informática en la Universidad Radboud de Nijmegen. Murió en un accidente de motocicleta en 2013.
 
-## Proyecto PHASAR
+## **Proyecto PHASAR**
 
 PHASAR, búsqueda y recuperación de alta precisión basada en frases.
 
@@ -42,7 +48,7 @@ El motor de búsqueda PHASAR todavía está en la etapa de prototipo. Su primera
 
 PHASAR requiere analizadores y tesauros extremadamente precisos, y solo es aplicable a los idiomas y dominios para los que están disponibles dichos analizadores y tesauros. El desarrollo (adicional) de analizadores y tesauros adecuados requiere una gran inversión, pero permitirá muchas aplicaciones profesionales de PHASAR.
 
-## Proyecto LCS
+## **Proyecto LCS**
 
 LCS, sistema de clasificación lingüistica.
 
@@ -62,7 +68,7 @@ Hay disponibles otros sistemas de clasificación con esta funcionalidad, a menud
 - monitoreo de calidad e informes
 El sistema LCS difiere de otros en que puede hacer uso de términos lingüísticos (triples de dependencia) para mejorar su precisión. Tiene un historial probado en la clasificación de documentos de patente.
 
-## Enlaces Externos
+## **Enlaces Externos sobre Cornelis Koster**
 
 **Sitio Web**: [http://phasar.nl/](http://phasar.nl/ "Página web de los estudios e intereses de investigación de Cornelis HA Koster"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
