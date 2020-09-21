@@ -32,27 +32,27 @@ Este ciclo, de SMR, es la única opción existente de grado medio y que junto a 
 Esas cuatro formaciones profesionales con sus respectivos [módulos profesionales](/fp-modulos-formacion-profesional/), más el [curso de especialización](/fp-cursos-especializacion/) en [ciberseguridad](/recursos-fp-ciberseguridad/) forman el conjunto de opciones dentro de las capacitaciones existentes en el campo de la informática y las comunicaciones.
 
 - [1. **Aplicaciones ofimáticas**](#1-aplicaciones-ofimáticas)
-  - [Libros de aplicaciones ofimáticas](#libros-de-aplicaciones-ofimáticas)
+  - [Libros de texto de aplicaciones ofimáticas](#libros-de-texto-de-aplicaciones-ofimáticas)
 - [2. **Formación y orientación laboral**](#2-formación-y-orientación-laboral)
-  - [Libros de formación y orientación laboral](#libros-de-formación-y-orientación-laboral)
+  - [Libros de texto de formación y orientación laboral](#libros-de-texto-de-formación-y-orientación-laboral)
 - [3. **Montaje y mantenimiento de equipo**](#3-montaje-y-mantenimiento-de-equipo)
-  - [Libros de montaje y mantenimiento de equipo](#libros-de-montaje-y-mantenimiento-de-equipo)
+  - [Libros de texto de montaje y mantenimiento de equipo](#libros-de-texto-de-montaje-y-mantenimiento-de-equipo)
 - [4. **Redes locales**](#4-redes-locales)
-  - [Libros de redes locales](#libros-de-redes-locales)
+  - [Libros de texto de redes locales](#libros-de-texto-de-redes-locales)
 - [5. **Sistemas operativos monopuesto**](#5-sistemas-operativos-monopuesto)
-  - [Libros de sistemas operativos monopuesto](#libros-de-sistemas-operativos-monopuesto)
+  - [Libros de texto de sistemas operativos monopuesto](#libros-de-texto-de-sistemas-operativos-monopuesto)
 - [6. **Aplicaciones web**](#6-aplicaciones-web)
-  - [Libros de aplicaciones web](#libros-de-aplicaciones-web)
+  - [Libros de texto de aplicaciones web](#libros-de-texto-de-aplicaciones-web)
 - [7. **Empresa e iniciativa emprendedora**](#7-empresa-e-iniciativa-emprendedora)
-  - [Libros de empresa e iniciativa emprendedora](#libros-de-empresa-e-iniciativa-emprendedora)
+  - [Libros de texto de empresa e iniciativa emprendedora](#libros-de-texto-de-empresa-e-iniciativa-emprendedora)
 - [8. **Formación en centros de trabajo**](#8-formación-en-centros-de-trabajo)
   - [Libros de formación en centros de trabajo](#libros-de-formación-en-centros-de-trabajo)
 - [9. **Seguridad informática**](#9-seguridad-informática)
-  - [Libros de seguridad informática](#libros-de-seguridad-informática)
+  - [Libros de texto de seguridad informática](#libros-de-texto-de-seguridad-informática)
 - [10. **Sistemas operativos en red**](#10-sistemas-operativos-en-red)
-  - [Libros de sistemas operativos en red](#libros-de-sistemas-operativos-en-red)
+  - [Libros de texto de sistemas operativos en red](#libros-de-texto-de-sistemas-operativos-en-red)
 - [11. **Servicios en red**](#11-servicios-en-red)
-  - [Libros de servicios en red](#libros-de-servicios-en-red)
+  - [Libros de texto de servicios en red](#libros-de-texto-de-servicios-en-red)
 - [**Apuntes Completos del FP: Sistemas Microinformáticos y Redes**](#apuntes-completos-del-fp-sistemas-microinformáticos-y-redes)
 
 El ciclo formativo de sistemas microinformáticos y redes, es un ciclo en el que te forman en un amplio espectro del campo de la informática-tecnológica y las computadoras.
@@ -65,15 +65,21 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 A continuación vas a poder encontrar apuntes, cursos y libros; así como los libros de texto relacionados y existentes con las asignaturas del FP de Grado Medio de Sistemas Microinformáticos y Redes (SMR) de cada una de los módulos.
 
-> **Asignaturas del primer curso de SMR**
+> **Asignaturas del primer curso de SMR**: Subiré los apuntes de cada asignatura, poco a poco 👷‍♂️
 
 El primer curso de Sistemas Microinformáticos y Redes consiste en cursar las asignaturas de aplicaciones ofimáticas, montaje y mantenimiento de equipo, redes locales, sistemas operativos monopuesto, y formación y orientación laboral.
 
 ## 1. **Aplicaciones ofimáticas**
 
+En la asignatura de aplicaciones ofimáticas se aprende básicamente el uso de la suite completa de Office, desde lo más básico hasta un uso más avanzado.
 
+Al finalizar la asignatura, deberías haber aprendido a utilizar con soltura Microsoft Word, Microsoft Excel, Microsoft Access y Microsoft Powerpoint.
 
-### Libros de aplicaciones ofimáticas
+Además, se debería de dar una pequeña introducción al mundo del diseño y vídeo digital, conjunto al aprendizaje del uso de alguno de los varios software existentes para la creación y edición de imágenes, así como de vídeo.
+
+Por ejemplo, Gimp, Photoshop, VirtualDub e incluso LightWorks u OpenShot.
+
+### Libros de texto de aplicaciones ofimáticas
 
 📚 [Paraninfo -2012](https://amzn.to/2LH2gLL) \ [Mcgraw Hill](https://amzn.to/2LH2pPj) \ [MacMillan](https://amzn.to/2Az7Edz) \ [Editex](https://amzn.to/2AB9VEO)
 
@@ -81,17 +87,19 @@ El primer curso de Sistemas Microinformáticos y Redes consiste en cursar las as
 
 ## 2. **Formación y orientación laboral**
 
-### Libros de formación y orientación laboral
+El módulo transversal de FOL se conforma del mismo contenido, que ya hemos visto en [el Ciclo de DAW](/recursos-daw/) al igual que los libros de las asignaturas transversales dentro de los ciclos formativos, que son las mismas, independientemente de la rama del curso y del grado.
+
+### Libros de texto de formación y orientación laboral
 
 Vas a poder encontrar [los libros dirigidos a la formación y orientación laboral](#3-formación-y-orientación-laboral), en nuestra publicacion de DAW.
-
-> Los libros de las asignaturas transversales dentro de los ciclos formativos, son los mismos, independientemente de la rama del curso y del grado.
 
 ## 3. **Montaje y mantenimiento de equipo**
 
 Apuntes de montaje y mantenimiento de equipos.
 
-### Libros de montaje y mantenimiento de equipo
+- Clases de Montaje y Mantenimiento de Ordenadores del Ciclo de Grado Medio de Sistemas Microinformáticos y Redes - [Github](https://github.com/AlfonsoDeUna/ClasesMME){:target="_blank" rel="nofollow,noreferrer"}
+
+### Libros de texto de montaje y mantenimiento de equipo
 
 [Paraninfo - 2019](https://amzn.to/2AhVN3m) [2014](https://amzn.to/2Nfmtu2) \ [Sintesis - 2019](https://amzn.to/2patj9q) \ [Editex](https://amzn.to/2NdYRGm) \ [Mcgraw Hill](https://amzn.to/2Q7KZ2A) \ [MacMillan](https://amzn.to/2Afqwhr)
 
@@ -99,7 +107,7 @@ Apuntes de montaje y mantenimiento de equipos.
 
 ## 4. **Redes locales**
 
-### Libros de redes locales
+### Libros de texto de redes locales
 
 [Paraninfo](https://amzn.to/34XMS5c) \ [MacMillan](https://amzn.to/30GQMvX) \ [Mcgraw Hill](https://amzn.to/2AESFPf) \ [Editex](https://amzn.to/30B5dS5)
 
@@ -107,19 +115,19 @@ Apuntes de montaje y mantenimiento de equipos.
 
 ## 5. **Sistemas operativos monopuesto**
 
-### Libros de sistemas operativos monopuesto
+### Libros de texto de sistemas operativos monopuesto
 
 [Paraninfo - 2019](https://amzn.to/2Q7fPZf) \ [Sintesis - 2019](https://amzn.to/2AcKXM3) \ [Mcgraw Hill - 2012](https://amzn.to/34LTdAv) \ [MacMillan- 2012](https://amzn.to/2AkuIwc) \ [Editex - 2011](https://amzn.to/2AiPQTC)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428341397&linkId=f3859c8756248882d96e566f495ef7f3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713778&linkId=3f35f6caa21e7510494f7caf5b11f6d6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180321&linkId=daadf4ab3e0de16a28085511284f0deb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415426453&linkId=a095c9932cfaf7f1e6bb4d4cc75107fa"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719719&linkId=6822685f520352949a7d5f6e102e26a4"></iframe>
 
-> **Asignaturas del segundo curso de SMR**
+> **Asignaturas del segundo curso de SMR**: Subiré los apuntes de cada asignatura, poco a poco 👷‍♂️
 
 El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las asignaturas de aplicaciones web, seguridad informática, servicios en red, sistemas operativos en red, formación en centros de trabajo y empresa e iniciativa emprendedora.
 
 ## 6. **Aplicaciones web**
 
-### Libros de aplicaciones web
+### Libros de texto de aplicaciones web
 
 [CreateSpace](https://amzn.to/2LKy7LD) \ [Paraninfo](https://amzn.to/2NtnQ8I) \ [McGraw Hill - 2013](https://amzn.to/2NqNJWB) [2010](https://amzn.to/2nK22KJ) \ [RaMa](https://amzn.to/2plvTt8)
 
@@ -127,7 +135,7 @@ El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las a
 
 ## 7. **Empresa e iniciativa emprendedora**
 
-### Libros de empresa e iniciativa emprendedora
+### Libros de texto de empresa e iniciativa emprendedora
 
 ## 8. **Formación en centros de trabajo**
 
@@ -137,7 +145,9 @@ El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las a
 
 ## 9. **Seguridad informática**
 
-### Libros de seguridad informática
+Los contenidos relacionados al módulo de la seguridad informática Protección pasiva y activa
+
+### Libros de texto de seguridad informática
 
 [Sintesis](https://amzn.to/2NsDcdE) \ [Heinemann](https://amzn.to/2LHFovx) \ [McGraw Hill](https://amzn.to/2Qn3eks) \ [Paraninfo](https://amzn.to/2AAC66P)
 
@@ -145,7 +155,7 @@ El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las a
 
 ## 10. **Sistemas operativos en red**
 
-### Libros de sistemas operativos en red
+### Libros de texto de sistemas operativos en red
 
 [Sintesis - 2019](https://amzn.to/2Nu2XKq) \ [MacMillan](https://amzn.to/2LJthOo) \ [Mcgraw Hill](https://amzn.to/2Oeo0jD) \ [Editex](https://amzn.to/2mKBcBt) \ [Paraninfo](https://amzn.to/2p6hEs1)
 
@@ -153,7 +163,7 @@ El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las a
 
 ## 11. **Servicios en red**
 
-### Libros de servicios en red
+### Libros de texto de servicios en red
 
 [Heinemann](https://amzn.to/2NqNzhX) \ [MacMillan](https://amzn.to/2oyZZZU) \ [McGraw Hill](https://amzn.to/2AADDK7) \ [Ra.Ma](https://amzn.to/2LFMTmA) \ [Paraninfo](https://amzn.to/2QxotR0)
 
@@ -161,6 +171,18 @@ El segundo curso de Sistemas Microinformáticos y Redes consiste en cursar las a
 
 ## **Apuntes Completos del FP: Sistemas Microinformáticos y Redes**
 
+> 💡 PENDIENTES DE AÑADIR 👷‍♂️
+
 ### **Relacionados** <!-- omit in toc -->
 
-> 👷‍♂️ PENDIENTE DE CONSTRUCCIÓN 👷‍♂️ 
+[🥇 ▷ Hoja de ruta de desarrollo de aplicaciones multiplataforma (DAW)](/recursos-daw/)
+
+[🥇 ▷ Hoja de ruta de desarrollo de aplicaciones multiplataforma (DAM)](/recursos-dam/)
+
+[🥇 ▷ Hoja de ruta del curso de especialización en ciberseguridad](/recursos-fp-ciberseguridad/)
+
+[🥇 ▷ Hoja de ruta de administración de sistemas informáticos en red (ASIR)](/recursos-asir/)
+
+[▷ ¿Qué son los módulos profesionales de la formación profesional?](/fp-modulos-formacion-profesional/)
+
+[▷ ¿Qué es un curso de especialización en la formación profesional?](/fp-cursos-especializacion/)

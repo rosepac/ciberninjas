@@ -59,7 +59,7 @@ Puede ver todos los títulos anunciados a continuación, junto con todos los dem
 - [18. **Fortnite**](#18-fortnite)
   - [¿Dónde comprar Fortnite Lote: La última risa para PlayStation 5?](#dónde-comprar-fortnite-lote-la-última-risa-para-playstation-5)
 - [19. **Ghostwire: Tokyo**](#19-ghostwire-tokyo)
-- [20. **Godfall **](#20-godfall-)
+- [20. **Godfall**](#20-godfall)
 - [21. **Goodbye Volcano High**](#21-goodbye-volcano-high)
 - [22. **Gothic**](#22-gothic)
 - [23. **Grand Theft Auto 5 enhanced**](#23-grand-theft-auto-5-enhanced)
@@ -235,7 +235,7 @@ Fortnite se confirmó para PS5 en mayo de 2020. Llegará en el lanzamiento y los
 
 Ghostwire: Tokyo es una nueva PS5 exclusiva de Shinji Mikami y Tango Dreamworks que ve la ciudad de Tokio despoblada en un 99% por un evento oculto paranormal, dejando espíritus malévolos para atacar la ciudad y sus sobrevivientes. Tiene todas las características del horror japonés moderno, hasta colegialas espeluznantes y espíritus sin rostro que arrojan paraguas vestidos como si fueran a trabajar en un banco de Neo-Tokio en las afueras de Akira. Juegas como uno de los supervivientes de la ciudad que desarrolla sus propios superpoderes durante el misterioso evento paranormal, por lo que depende de ti defender la ciudad contra las fuerzas que la asedian utilizando todo tipo de habilidades paranormales.
 
-## 20. **Godfall **
+## 20. **Godfall**
 
 Gearbox y Counterplay Games revelaron Godfall en los Video Game Awards de diciembre pasado, que parecía un Destiny de hack-and-slash, o un Borderlands con espadas. ¡Sorpresa! El avance del juego que vimos en el evento de PS5 de Sony confirmó nuestras sospechas, con jugadores atacando y cortando a grandes monstruos en conjuntos de armaduras gloriosamente ornamentadas. Esas se llaman Valorplates, porque por supuesto que lo son, y cambiarás entre ellas para 'transformarte ... en maestros imparables del combate cuerpo a cuerpo' en tu ascenso a través de reinos elementales para matar al dios loco Macros. Caída de Dios, de hecho. Este juego PvE en solitario o cooperativo se ve extra en todos los sentidos correctos.
 
@@ -543,7 +543,5 @@ Según el sitio web del juego, WRC 9 contará con rallies en Kenia, Nueva Zeland
 [▷ Los 8 juegos para PlayStation 5, que podrían tener una nueva versión en 2020](/rumores-juegos-ps5/)
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-> **Fuente**: []( ""){:target="_blank" rel="nofollow,noreferrer"}
 
 ![70 juegos de PlayStation 4 que podrás jugar con tu PlayStation 5](/assets/img/videojuegos/ps5-juegos.webp "70 juegos de PlayStation 4 que podrás jugar con tu PlayStation 5")
