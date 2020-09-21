@@ -20,9 +20,15 @@ permalink: /wiki/vint-cerf/
 
 Vinton Gray Cerf, nacido el 23 de junio de 1943) es un pionero de Internet estadounidense y es reconocido como uno de "los padres de Internet" con el desarrollador Bob Kahn.
 
+![Vint Cerf, pionero de internet estadounidense. La Enciclopedia Informática Tecnológica Ciberninjas](/assets/img/wiki/fotografias/Vint-Cerf-cn.webp "Vint Cerf, pionero de internet estadounidense. La Enciclopedia Informática Tecnológica Ciberninjas")
+
 Ha recibido títulos honoríficos y premios que incluyen la Medalla Nacional de Tecnología, el Premio Turing, la Medalla Presidencial de la Libertad, el Premio Marconi y la membresía de la Academia Nacional de Ingeniería.
 
-![Vint Cerf, pionero de internet estadounidense. La Enciclopedia Informática Tecnológica Ciberninjas](/assets/img/wiki/fotografias/Vint-Cerf-cn.webp "Vint Cerf, pionero de internet estadounidense. La Enciclopedia Informática Tecnológica Ciberninjas")
+- [**Biografía de Vint Cerf**](#biografía-de-vint-cerf)
+- [**Premios y Honores**](#premios-y-honores)
+- [**Bibliografía parcial de Vint Cerf**](#bibliografía-parcial-de-vint-cerf)
+- [**Bibliografía de Vint Cerf como coautor**](#bibliografía-de-vint-cerf-como-coautor)
+- [**Enlaces Externos sobre Vint Cerf**](#enlaces-externos-sobre-vint-cerf)
 
 ## **Biografía de Vint Cerf**
 
