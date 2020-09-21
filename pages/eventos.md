@@ -142,7 +142,8 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 ### 🔔 3 de Octubre
 
-- PyConES 2020 (https://2020.es.pycon.org/)
+- PyConES 2020 (https://2020.es.pycon.org/){:target="_blank" rel="nofollow, noreferrer"}
+- Conferencia de Tecnología [vOpen 2020](https://bit.ly/vopentech){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 6 de Octubre
 
