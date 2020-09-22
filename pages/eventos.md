@@ -23,48 +23,14 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 <iframe src="https://calendar.google.com/calendar/embed?height=410&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=AGENDA&amp;showPrint=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="410" frameborder="0" scrolling="no"></iframe>
 
 - [1. **Agenda y Eventos tecnológicos de Septiembre**](#1-agenda-y-eventos-tecnológicos-de-septiembre)
-  - [🔔 22 de Septiembre](#-22-de-septiembre)
-  - [🔔 23 de Septiembre](#-23-de-septiembre)
-  - [🔔 24 de Septiembre](#-24-de-septiembre)
-  - [🔔 25 de Septiembre](#-25-de-septiembre)
-  - [🔔 26 de Septiembre](#-26-de-septiembre)
-  - [🔔 27 de Septiembre](#-27-de-septiembre)
-  - [🔔 28 de Septiembre](#-28-de-septiembre)
-  - [🔔 29 de Septiembre](#-29-de-septiembre)
-  - [🔔 30 de Septiembre](#-30-de-septiembre)
 - [2. **Agenda y Eventos tecnológicos de Octubre**](#2-agenda-y-eventos-tecnológicos-de-octubre)
-  - [🔔 3 de Octubre](#-3-de-octubre)
-  - [🔔 6 de Octubre](#-6-de-octubre)
-  - [🔔 7 de Octubre](#-7-de-octubre)
-  - [🔔 13 de Octubre](#-13-de-octubre)
-  - [🔔 20 de Octubre](#-20-de-octubre)
-  - [🔔 21 de Octubre](#-21-de-octubre)
-  - [🔔 22 de Octubre](#-22-de-octubre)
-  - [**Tarugconf: 22, 23, 24 de Octubre**](#tarugconf-22-23-24-de-octubre)
-  - [🔔 27 de Octubre](#-27-de-octubre)
-  - [🔔 29 de Octubre](#-29-de-octubre)
 - [3. **Agenda y Eventos tecnológicos de Noviembre**](#3-agenda-y-eventos-tecnológicos-de-noviembre)
-  - [🔔 3 de Noviembre](#-3-de-noviembre)
-  - [🔔 4 de Noviembre](#-4-de-noviembre)
-  - [🔔 5 de Noviembre](#-5-de-noviembre)
-  - [🔔 16 de Noviembre](#-16-de-noviembre)
-  - [🔔 17 de Noviembre](#-17-de-noviembre)
-  - [🔔 18 de Noviembre](#-18-de-noviembre)
-  - [🔔 19 de Noviembre](#-19-de-noviembre)
-  - [🔔 20 de Noviembre](#-20-de-noviembre)
-  - [🔔 21 de Noviembre](#-21-de-noviembre)
-  - [🔔 22 de Noviembre](#-22-de-noviembre)
-  - [🔔 23 de Noviembre](#-23-de-noviembre)
-  - [🔔 24 de Noviembre](#-24-de-noviembre)
-  - [🔔 25 de Noviembre](#-25-de-noviembre)
-  - [🔔 26 de Noviembre](#-26-de-noviembre)
-  - [🔔 27 de Noviembre](#-27-de-noviembre)
 - [4. **Agenda y Eventos tecnológicos de Diciembre**](#4-agenda-y-eventos-tecnológicos-de-diciembre)
 - [**Agenda y Eventos Tecnológicos Más Importantes en Inglés 📆**](#agenda-y-eventos-tecnológicos-más-importantes-en-inglés-)
 
 ## 1. **Agenda y Eventos tecnológicos de Septiembre**
 
-### 🔔 22 de Septiembre
+### 🔔 22 de Septiembre <!-- omit in toc -->
 
 - Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/channel/UCQu6DwFarCIxha2BhTrRqUQ){:target="_blank" rel="nofollow, noreferrer"}
 - (15:00) Power BI - Decisiones Basadas en Datos 👉 [REGISTRO](https://www.eventbrite.com/e/entradas-power-bi-decisiones-basadas-en-datos-118694198543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -72,7 +38,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - (19:00) KeepCoding: ChatOps con Mattermost para DevOps 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00) Fabricación 3D en FreeCAD con Cecilia Herbert 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 23 de Septiembre
+### 🔔 23 de Septiembre  <!-- omit in toc -->
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
 - Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"}
@@ -93,7 +59,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (00:00) Trabaja seguro con HP 👉 [REGISTRO](https://www.eventbrite.es/e/22-de-septiembre-trabaja-seguro-con-hp-v-tickets-121234462541?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
 - (02:30) Meetup #30: ¿Cómo crear una suscripción tipo Netflix con WooCommerce? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-30-como-crear-una-suscripcion-tipo-netflix-con-woocommerce-registration-121387650731){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
 
-### 🔔 24 de Septiembre
+### 🔔 24 de Septiembre  <!-- omit in toc -->
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
 - Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"}v
@@ -109,7 +75,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
 
-### 🔔 25 de Septiembre
+### 🔔 25 de Septiembre  <!-- omit in toc -->
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
 
@@ -123,7 +89,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
 
-### 🔔 26 de Septiembre
+### 🔔 26 de Septiembre  <!-- omit in toc -->
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
 - Women in Data Science Conference in Medellín 2020 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-women-in-data-science-conference-in-medellin-2020-wids-medellin-117105659179?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -133,20 +99,20 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (00:00) Contenedores en Azure 👉 [REGISTRO](https://www.eventbrite.com/e/contenedores-en-azure-tickets-121574465499?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (02:00) Introducción a Programación Reactiva con Java y Groovy 👉 [REGISTRO](https://www.eventbrite.com.mx/e/introduccion-a-programacion-reactiva-tickets-121118700293?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 27 de Septiembre
+### 🔔 27 de Septiembre  <!-- omit in toc -->
 
 - (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
 
-### 🔔 28 de Septiembre
+### 🔔 28 de Septiembre  <!-- omit in toc -->
 
 - (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
 - (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 29 de Septiembre
+### 🔔 29 de Septiembre  <!-- omit in toc -->
 
 - (19:00 PM) Construyendo AI sin sesgos de género - [Registro](https://events.codemotion.com/webinars/memoirs-of-a-geisha-construyendo-ai-sin-sesgos-de-gnero/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 30 de Septiembre
+### 🔔 30 de Septiembre  <!-- omit in toc -->
 
 - (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00) Primavera UX UI: Diseño UI. Diseñando la interfaz 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
@@ -155,111 +121,111 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 ## 2. **Agenda y Eventos tecnológicos de Octubre**
 
-### 🔔 3 de Octubre
+### 🔔 3 de Octubre  <!-- omit in toc -->
 
 - PyConES 2020 (https://2020.es.pycon.org/){:target="_blank" rel="nofollow, noreferrer"}
 - Conferencia de Tecnología [vOpen 2020](https://bit.ly/vopentech){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 6 de Octubre
+### 🔔 6 de Octubre  <!-- omit in toc -->
 
 - (19:00 PM) Los Piratas del cloud: Nuevos retos de ciberseguridad - [Registro](https://events.codemotion.com/webinars/los-piratas-del-cloud-nuevos-retos-de-ciberseguridad/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 7 de Octubre
+### 🔔 7 de Octubre  <!-- omit in toc -->
 
 - (13:00 H. Esp.) Neo4j y Gestión 360 de Clientes 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 13 de Octubre
+### 🔔 13 de Octubre  <!-- omit in toc -->
 
 - (19:00 PM) Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 20 de Octubre
+### 🔔 20 de Octubre  <!-- omit in toc -->
 
 - ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 21 de Octubre
+### 🔔 21 de Octubre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 - (13:00 H. Esp.) Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 22 de Octubre
+### 🔔 22 de Octubre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### **Tarugconf: 22, 23, 24 de Octubre**
+### **Tarugconf: 22, 23, 24 de Octubre**  <!-- omit in toc -->
 
 - ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### 🔔 27 de Octubre
+### 🔔 27 de Octubre  <!-- omit in toc -->
 
 - (19:00 PM) Operadores de Kubernetes: Operando servicios nativos de la nube a escala - [REGISTRO](https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 29 de Octubre
+### 🔔 29 de Octubre  <!-- omit in toc -->
 
 - (11:00 AM) Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"}
 
 ## 3. **Agenda y Eventos tecnológicos de Noviembre**
 
-### 🔔 3 de Noviembre
+### 🔔 3 de Noviembre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 4 de Noviembre
+### 🔔 4 de Noviembre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 5 de Noviembre
+### 🔔 5 de Noviembre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 16 de Noviembre
+### 🔔 16 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 17 de Noviembre
+### 🔔 17 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 18 de Noviembre
+### 🔔 18 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 19 de Noviembre
+### 🔔 19 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 20 de Noviembre
+### 🔔 20 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 21 de Noviembre
+### 🔔 21 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 22 de Noviembre
+### 🔔 22 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 23 de Noviembre
+### 🔔 23 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 24 de Noviembre
+### 🔔 24 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 25 de Noviembre
+### 🔔 25 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 26 de Noviembre
+### 🔔 26 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 27 de Noviembre
+### 🔔 27 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
