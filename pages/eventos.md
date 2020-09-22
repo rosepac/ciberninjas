@@ -24,107 +24,63 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Eventos tecnológicos de Septiembre**
 
-### 🔔 19 de Septiembre
+### 🔔 22 de Septiembre
 
-- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
-
-10 H.: Happy Agile Testing - Monica Colombo
-12 H.: UAT Cross Agile como eslabón fundamental de un gobierno de pruebas - Lily Rodriguez
-14 H.: ¿Cómo incorporamos pruebas de accesibilidad a nuestros proyectos? - Micaela González
-15 H.: Automatización de pruebas en dispositivos móviles con Katalon Studio - Gastón Marichal y Alejandro Bermúdez
-16 H.: Testing a data science model (Exposición en Inglés) - Laveena Ramchandani
-17 H.: Incidencia de la tecnología y el covid19 en los recursos humanos (Human Quality) - Mariano Ruminot
-18 H.: Demystifying Exploratory Testing - Elisa Abedrapo
-
-- Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
-
-**CONGRESO ES LIBRE (HORAS ESPAÑOLAS)**
-
-🎥 SALA GENERAL (https://bbb.eslibre.urjc.es/b/jes-sik-ia8)
-
-15 / 15:45 - "FUTURO DE ESLIBRE Y DE LA COMUNIDAD DEL SOFTWARE LIBRE"
-19 / 19:45 - ACTO DE CLAUSURA
-
-🎥 SALA 1 (https://bbb.eslibre.urjc.es/b/jes-im8-yjv)
-
-11 / 11:25 - Entrenamientos de Hacking con Recursos Open Source
-11:25 / 11:50 - RISC V en Asignaturas de Arquitectura de Computadores
-11:50 / 12:15 - Máquinas virtuales ligeras para Serverless y Containers
-
-12:30 / 12:55 - CryptPad: Open source technology at the service eof privacy
-12:55 / 13:20 - ASSAP: Anti Shoulder Surfing Attack Platform
-13:20 / 13:45 - Kubernetes, en un Máster
-
-16 / 16:25 - Un bot multi interfaz y distribuido como asistente personal
-16:25/ 16:50 - Doc As Code
-16:50 / 17:15 - Iniciación e Instalación de PostMarketOS
-
-17:30 / 17:55 - Presentación de proyecto: Control de calidad en las ofertas de trabajo
-17:55 / 18:20 - UXBOX, la solución libre para diseño y prototipado
-18:20 / 18:45 - Web scrapeando las tecnologías más usadas de la Web
-
-🎥 SALA 2 (https://bbb.eslibre.urjc.es/b/jes-io9-2p0)
-
-11 / 12:15: Introducción a RAKU (taller)
-12:30 / 12:55: Introducción a ProxySQL
-12:55 / 13:20: Lo que te puede enamorar de GROOVY
-
-16 / 16:25 - TerosHDL: un IDE open source para HDL
-16:25 / 16:50 - Todo lo que necesitas saber sobre desarrollo de Apps con Ubuntu Touch
-
-17:30 / 19 - Configura un entorno bash geek y personalizado al gusto Bash y Tmux
-
-🎥 SALA 3 (https://bbb.eslibre.urjc.es/b/jes-hgf-njp)
-
-11 / 13:45: Análisis de RadarCOVID: exigencias de privacidad y seguridad en App para la Administración Pública
-16 / 17:55 - Introducción a la Cria de Camellos con Apache Camel
-
-🎥 SALA 4 (https://bbb.eslibre.urjc.es/b/jes-nsf-l6w)
-
-11 / 13:45: Hackathon de katas de programación para entrenamiento con Haskell
-
-🎥 SALA 5 (https://bbb.eslibre.urjc.es/b/jes-2cj-h2g)
-
-11.00-11.20 - Apps actuales: transcriptor y teclado (Félix Ontañón)
-11.20-11.35 - Wikipedia n’Andalûh (Fernando Gallego)
-11.35-11.50 - Andaluh.NET: caso de desarrollo Andalûh SDK (J.M. Sanfer)
-11:50-12.05 - De andalûh a castellano con Machine Learning (Rafa Haro)
-12:05-12.15 - Futuros proyectos (Félix Ontañón)
-
-12:30 / 13:45 - AndaluGeeks Roadmap 2020-2021
-17:30 / 19 - Desarrollo open source de una ortografía. El caso único del Andalûh.
-
-📓 PROGRAMA COMPLETO (https://eslib.re/2020/programa/)
-
-- (11:00 AM H. ESP.) ✨ OSWeekends #3: Animaciones svg, Blog Nuxt, Cypress Testing 👉 [Registro](https://www.meetup.com/es/Open-Source-Weekends/events/273013139/){:target="_blank" rel="nofollow, noreferrer"}
-- (00:00 H. ESP.) Haz tus propias páginas web 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Sábado al Domingo)
-
-### 🔔 20 de Septiembre
-
-- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
-
-#### Domingo 20/09
-
-10 H.: Taller, Aprende API Testing jugando con SoapUI - Leonardo Espindola
-12 H.: CIERRE DEL MEGA TESTING WEEK 2020
+- (15:00) Power BI - Decisiones Basadas en Datos 👉 [REGISTRO](https://www.eventbrite.com/e/entradas-power-bi-decisiones-basadas-en-datos-118694198543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00) Red Hat Forum: Programas de innovación abierta en formato digital 👉 [REGISTRO](https://www.eventbrite.com.mx/e/red-hat-forum-tickets-120094547023){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00) KeepCoding: ChatOps con Mattermost para DevOps 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00) Fabricación 3D en FreeCAD con Cecilia Herbert 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 23 de Septiembre
 
+- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+
 - (13:00 H. Esp.) Neo4j y Data Governance - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (13:00) Resolución eficiente del problema del viajante basada en callbacks 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-resolucion-eficiente-del-problema-del-viajante-basada-en-callbacks-118429729509?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Cómo desarrollar tus primeras Aplicaciones cloud nativas con Java - [Registro](https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/){:target="_blank" rel="nofollow, noreferrer"}
 
 Para aplicaciones nativas de la nube, Kubernetes e Istio proporcionan funcionalidades clave para microservicios independientes de su lenguaje de programación y sin cambios en su aplicación lógica. Sin embargo, algunas funcionalidades deben manejarse en la lógica empresarial de los microservicios, ej. funcionalidad de gestión de errores específica de la aplicación, métricas y gestión de permisos.
 En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse MicroProfile y cómo ejecutarlos en Kubernetes e Istio. Utilizaremos nuestro ejemplo de Cloud Native Starter disponible en Github.
 
+- (17:00) Cómo crear informes en Data Studio con tus métricas sociales 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-como-crear-informes-en-data-studio-con-tus-metricas-sociales-118280707781?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (18:00) Mujeres STEM: Industria 4.0 y Transformación Digital 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-mujeres-stem-industria-40-y-transformacion-digital-120348994081?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (18:30) ¿Trabajar en ciberseguridad, yo? ¡Pero si no soy hacker! 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-trabajar-en-ciberseguridad-yo-pero-si-no-soy-hacker-120367124309?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00) Primavera UX UI: Diseño UX. Conociendo al usuario 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
+
 ### 🔔 24 de Septiembre
 
+- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+
 - (14:30 H. ESP.) La Product Conf Madrid | Online Edition 🗞 [Registro](https://www.eventbrite.com/e/la-product-conf-madrid-online-edition-tickets-115347246720)
+- (18:00) Demo Day AI Saturdays Madrid 3ª ed 👉 [INFO.](https://www.eventbrite.es/e/entradas-demo-day-ai-saturdays-madrid-3a-ed-120947432025?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/c/SaturdaysAI/featured){:target="_blank" rel="nofollow, noreferrer"}
+- (18:00) Análisis de perfiles en texto y redes sociales 👉 [REGISTRO](https://www.eventbrite.co/e/analisis-de-perfiles-en-texto-y-redes-sociales-tickets-122136177595?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00) Webinar-Senati: Inicia tu carrera en TI con el Internet de las Cosas 👉 [REGISTRO](https://www.eventbrite.com.pe/e/webinar-senati-inicia-tu-carrera-en-ti-con-el-internet-de-las-cosas-tickets-117313908057?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00) IA :) o ¡Ay! :( Inteligencia Artificial en el mundo real 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-ia-o-ay-inteligencia-artificial-en-el-mundo-real-120046457185?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (20:00) Webinar: Chatbot, Buscador, Gestión de Tickets ¿Qué va primero? 👉 [REGISTRO](https://www.eventbrite.com/e/webinar-chatbot-buscador-gestion-de-tickets-que-va-primero-registration-121606465211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/c/InbentaTechnologies/featured){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 H. ESP. - 16:00 H. Ciudad de México) Tu personal Branding y la Nueva Normalidad 🗞 [Registro](https://www.eventbrite.com.mx/e/tu-personal-branding-y-la-nueva-normalidad-tickets-117309725547?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
 
 ### 🔔 25 de Septiembre
 
+- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+
+- (10:00) TOKEN: Impacto de Blockchain en los Servicios Públicos 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-token-impacto-de-blockchain-en-los-servicios-publicos-119411327495?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (17:00) Workshop: Windows + VMware en la nube de AWS 👉 [REGISTRO](https://www.eventbrite.com.mx/e/workshop-windows-vmware-en-la-nube-de-aws-tickets-120095774695?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (22:00) Conferencias Virtuales Paxful 👉 [REGISTRO](https://www.eventbrite.co/e/conferencias-virtuales-paxful-tickets-121127602921?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (23:00) Digital Hub Monterrey: Revolución del Big Data, ¿cómo la inició? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/revolucion-del-big-data-como-la-inicio-tickets-120107505783?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (23:00) Cienca de Datos y Lenguaje R 👉 [REGISTRO](https://www.eventbrite.com.ar/e/cienca-de-datos-y-lenguaje-r-tickets-120324075549?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (02:00) Kotlin: El futuro del desarrollo móvil/Sesiones en vivo [REGISTRO](https://www.eventbrite.com.mx/e/kotlin-el-futuro-del-desarrollo-movilsesiones-en-vivo-tickets-117468666945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
+
 - [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
+
+### 🔔 26 de Septiembre
+
+- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+- Women in Data Science Conference in Medellín 2020 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-women-in-data-science-conference-in-medellin-2020-wids-medellin-117105659179?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Azure Live Latam 2020 👉 [REGISTRO](https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+- (20:00) Construyendo clusters de microservicios 👉 [REGISTRO](https://www.eventbrite.com/e/lets-kubernetes-registration-119712624683?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 27 de Septiembre
 
@@ -133,10 +89,16 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 28 de Septiembre
 
 - (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
+- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 29 de Septiembre
 
 - (19:00 PM) Construyendo AI sin sesgos de género - [Registro](https://events.codemotion.com/webinars/memoirs-of-a-geisha-construyendo-ai-sin-sesgos-de-gnero/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 30 de Septiembre
+
+- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00) Primavera UX UI: Diseño UI. Diseñando la interfaz 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Eventos tecnológicos de Octubre**
 
@@ -816,3 +778,87 @@ GNOME: La Experiencia de Escritorio Ético y Elegante
 19 H.: Lucas Sebastian de la Fuente: Desmitificando BDD
 
 - (00:00 H. ESP.) ¿Cómo ser un programador web? 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Viernes al Sábado)
+
+### 🔔 19 de Septiembre
+
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+
+10 H.: Happy Agile Testing - Monica Colombo
+12 H.: UAT Cross Agile como eslabón fundamental de un gobierno de pruebas - Lily Rodriguez
+14 H.: ¿Cómo incorporamos pruebas de accesibilidad a nuestros proyectos? - Micaela González
+15 H.: Automatización de pruebas en dispositivos móviles con Katalon Studio - Gastón Marichal y Alejandro Bermúdez
+16 H.: Testing a data science model (Exposición en Inglés) - Laveena Ramchandani
+17 H.: Incidencia de la tecnología y el covid19 en los recursos humanos (Human Quality) - Mariano Ruminot
+18 H.: Demystifying Exploratory Testing - Elisa Abedrapo
+
+- Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+**CONGRESO ES LIBRE (HORAS ESPAÑOLAS)**
+
+🎥 SALA GENERAL (https://bbb.eslibre.urjc.es/b/jes-sik-ia8)
+
+15 / 15:45 - "FUTURO DE ESLIBRE Y DE LA COMUNIDAD DEL SOFTWARE LIBRE"
+19 / 19:45 - ACTO DE CLAUSURA
+
+🎥 SALA 1 (https://bbb.eslibre.urjc.es/b/jes-im8-yjv)
+
+11 / 11:25 - Entrenamientos de Hacking con Recursos Open Source
+11:25 / 11:50 - RISC V en Asignaturas de Arquitectura de Computadores
+11:50 / 12:15 - Máquinas virtuales ligeras para Serverless y Containers
+
+12:30 / 12:55 - CryptPad: Open source technology at the service eof privacy
+12:55 / 13:20 - ASSAP: Anti Shoulder Surfing Attack Platform
+13:20 / 13:45 - Kubernetes, en un Máster
+
+16 / 16:25 - Un bot multi interfaz y distribuido como asistente personal
+16:25/ 16:50 - Doc As Code
+16:50 / 17:15 - Iniciación e Instalación de PostMarketOS
+
+17:30 / 17:55 - Presentación de proyecto: Control de calidad en las ofertas de trabajo
+17:55 / 18:20 - UXBOX, la solución libre para diseño y prototipado
+18:20 / 18:45 - Web scrapeando las tecnologías más usadas de la Web
+
+🎥 SALA 2 (https://bbb.eslibre.urjc.es/b/jes-io9-2p0)
+
+11 / 12:15: Introducción a RAKU (taller)
+12:30 / 12:55: Introducción a ProxySQL
+12:55 / 13:20: Lo que te puede enamorar de GROOVY
+
+16 / 16:25 - TerosHDL: un IDE open source para HDL
+16:25 / 16:50 - Todo lo que necesitas saber sobre desarrollo de Apps con Ubuntu Touch
+
+17:30 / 19 - Configura un entorno bash geek y personalizado al gusto Bash y Tmux
+
+🎥 SALA 3 (https://bbb.eslibre.urjc.es/b/jes-hgf-njp)
+
+11 / 13:45: Análisis de RadarCOVID: exigencias de privacidad y seguridad en App para la Administración Pública
+16 / 17:55 - Introducción a la Cria de Camellos con Apache Camel
+
+🎥 SALA 4 (https://bbb.eslibre.urjc.es/b/jes-nsf-l6w)
+
+11 / 13:45: Hackathon de katas de programación para entrenamiento con Haskell
+
+🎥 SALA 5 (https://bbb.eslibre.urjc.es/b/jes-2cj-h2g)
+
+11.00-11.20 - Apps actuales: transcriptor y teclado (Félix Ontañón)
+11.20-11.35 - Wikipedia n’Andalûh (Fernando Gallego)
+11.35-11.50 - Andaluh.NET: caso de desarrollo Andalûh SDK (J.M. Sanfer)
+11:50-12.05 - De andalûh a castellano con Machine Learning (Rafa Haro)
+12:05-12.15 - Futuros proyectos (Félix Ontañón)
+
+12:30 / 13:45 - AndaluGeeks Roadmap 2020-2021
+17:30 / 19 - Desarrollo open source de una ortografía. El caso único del Andalûh.
+
+📓 PROGRAMA COMPLETO (https://eslib.re/2020/programa/)
+
+- (11:00 AM H. ESP.) ✨ OSWeekends #3: Animaciones svg, Blog Nuxt, Cypress Testing 👉 [Registro](https://www.meetup.com/es/Open-Source-Weekends/events/273013139/){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00 H. ESP.) Haz tus propias páginas web 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Sábado al Domingo)
+
+### 🔔 20 de Septiembre
+
+- (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
+
+#### Domingo 20/09
+
+10 H.: Taller, Aprende API Testing jugando con SoapUI - Leonardo Espindola
+12 H.: CIERRE DEL MEGA TESTING WEEK 2020
