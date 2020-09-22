@@ -9,9 +9,9 @@ comments: false
 date: 2020-09-02
 permalink: /recursos-dam/
 canonical_URL: https://ciberninjas.com/recursos-dam/
-# thumbnail: /assets/img/paginas/estudiar-daw.webp
-# feature-img: /assets/img/paginas/estudiar-daw.webp
-# img: /assets/img/paginas/estudiar-daw.webp
+thumbnail: /assets/img/paginas/fp/portada-dam.webp
+feature-img: /assets/img/paginas/fp/portada-dam.webp
+img: /assets/img/paginas/fp/portada-dam.webp
 
 ---
 

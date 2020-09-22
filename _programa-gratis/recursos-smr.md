@@ -9,9 +9,9 @@ comments: false
 date: 2020-09-02
 permalink: /recursos-smr/
 canonical_URL: https://ciberninjas.com/recursos-smr/
-# thumbnail: /assets/img/paginas/estudiar-daw.webp
-# feature-img: /assets/img/paginas/estudiar-daw.webp
-# img: /assets/img/paginas/estudiar-daw.webp
+thumbnail: /assets/img/paginas/fp/portada-smr.webp
+feature-img: /assets/img/paginas/fp/portada-smr.webp
+img: /assets/img/paginas/fp/portada-smr.webp
 
 ---
 
