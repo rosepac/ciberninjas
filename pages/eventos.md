@@ -66,6 +66,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 22 de Septiembre
 
+- Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/channel/UCQu6DwFarCIxha2BhTrRqUQ){:target="_blank" rel="nofollow, noreferrer"}
 - (15:00) Power BI - Decisiones Basadas en Datos 👉 [REGISTRO](https://www.eventbrite.com/e/entradas-power-bi-decisiones-basadas-en-datos-118694198543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00) Red Hat Forum: Programas de innovación abierta en formato digital 👉 [REGISTRO](https://www.eventbrite.com.mx/e/red-hat-forum-tickets-120094547023){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00) KeepCoding: ChatOps con Mattermost para DevOps 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
@@ -74,6 +75,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 23 de Septiembre
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+- Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"}
 
 - (13:00 H. Esp.) Neo4j y Data Governance - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (13:00) Resolución eficiente del problema del viajante basada en callbacks 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-resolucion-eficiente-del-problema-del-viajante-basada-en-callbacks-118429729509?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -94,6 +96,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 24 de Septiembre
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+- Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"}v
 
 - (14:30 H. ESP.) La Product Conf Madrid | Online Edition 🗞 [Registro](https://www.eventbrite.com/e/la-product-conf-madrid-online-edition-tickets-115347246720)
 - (18:00) Demo Day AI Saturdays Madrid 3ª ed 👉 [INFO.](https://www.eventbrite.es/e/entradas-demo-day-ai-saturdays-madrid-3a-ed-120947432025?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/c/SaturdaysAI/featured){:target="_blank" rel="nofollow, noreferrer"}
