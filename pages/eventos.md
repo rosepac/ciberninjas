@@ -22,13 +22,13 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 <iframe src="https://calendar.google.com/calendar/embed?height=410&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=AGENDA&amp;showPrint=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="410" frameborder="0" scrolling="no"></iframe>
 
-- [1. **Agenda y Eventos tecnológicos de Septiembre**](#1-agenda-y-eventos-tecnológicos-de-septiembre)
-- [2. **Agenda y Eventos tecnológicos de Octubre**](#2-agenda-y-eventos-tecnológicos-de-octubre)
-- [3. **Agenda y Eventos tecnológicos de Noviembre**](#3-agenda-y-eventos-tecnológicos-de-noviembre)
-- [4. **Agenda y Eventos tecnológicos de Diciembre**](#4-agenda-y-eventos-tecnológicos-de-diciembre)
+- [**Agenda y Eventos tecnológicos de Septiembre**](#agenda-y-eventos-tecnológicos-de-septiembre)
+- [**Agenda y Eventos tecnológicos de Octubre**](#agenda-y-eventos-tecnológicos-de-octubre)
+- [**Agenda y Eventos tecnológicos de Noviembre**](#agenda-y-eventos-tecnológicos-de-noviembre)
+- [**Agenda y Eventos tecnológicos de Diciembre**](#agenda-y-eventos-tecnológicos-de-diciembre)
 - [**Agenda y Eventos Tecnológicos Más Importantes en Inglés 📆**](#agenda-y-eventos-tecnológicos-más-importantes-en-inglés-)
 
-## 1. **Agenda y Eventos tecnológicos de Septiembre**
+## **Agenda y Eventos tecnológicos de Septiembre**
 
 ### 🔔 22 de Septiembre <!-- omit in toc -->
 
@@ -119,7 +119,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
-## 2. **Agenda y Eventos tecnológicos de Octubre**
+## **Agenda y Eventos tecnológicos de Octubre**
 
 ### 🔔 3 de Octubre  <!-- omit in toc -->
 
@@ -167,7 +167,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - (11:00 AM) Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"}
 
-## 3. **Agenda y Eventos tecnológicos de Noviembre**
+## **Agenda y Eventos tecnológicos de Noviembre**
 
 ### 🔔 3 de Noviembre  <!-- omit in toc -->
 
@@ -229,7 +229,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-## 4. **Agenda y Eventos tecnológicos de Diciembre**
+## **Agenda y Eventos tecnológicos de Diciembre**
 
 > 👷‍♂️ **Por Desarrollar** ✍
 
