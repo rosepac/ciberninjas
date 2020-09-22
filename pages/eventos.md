@@ -1,9 +1,9 @@
 ---
 layout: page
 hide: true
-title: "Eventos de Hoy sobre Tecnología, Programación, Diseño"
-description: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
-excerpt: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
+title: "Agenda y Eventos de Programación y Tecnología 2020"
+description: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
+excerpt: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 permalink: /eventos/
 canonical_URL: https://ciberninjas.com/eventos/
 published: true
@@ -20,9 +20,49 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre puedes darme un empujón a que esto siga creciendo, teniendo en cuenta mis enlaces de afiliados, el día que deseas [realizar una compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o en [tu próxima compra de Amazon](https://amzn.to/3aTZb5X){:target="_blank" rel="nofollow, noreferrer"} o desde las listas de dispositivos [ofrecidas en nuestro catálogo de recomendaciones](https://ciberninjas.com/amazon/).
 {: .notice--warning}
 
-<iframe src="https://calendar.google.com/calendar/embed?src=moiqagoad98jv4r0365p8vodv4%40group.calendar.google.com&ctz=Europe%2FMadrid" style="border: 0" width="950" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=410&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=AGENDA&amp;showPrint=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="410" frameborder="0" scrolling="no"></iframe>
 
-## **Eventos tecnológicos de Septiembre**
+- [1. **Agenda y Eventos tecnológicos de Septiembre**](#1-agenda-y-eventos-tecnológicos-de-septiembre)
+  - [🔔 22 de Septiembre](#-22-de-septiembre)
+  - [🔔 23 de Septiembre](#-23-de-septiembre)
+  - [🔔 24 de Septiembre](#-24-de-septiembre)
+  - [🔔 25 de Septiembre](#-25-de-septiembre)
+  - [🔔 26 de Septiembre](#-26-de-septiembre)
+  - [🔔 27 de Septiembre](#-27-de-septiembre)
+  - [🔔 28 de Septiembre](#-28-de-septiembre)
+  - [🔔 29 de Septiembre](#-29-de-septiembre)
+  - [🔔 30 de Septiembre](#-30-de-septiembre)
+- [2. **Agenda y Eventos tecnológicos de Octubre**](#2-agenda-y-eventos-tecnológicos-de-octubre)
+  - [🔔 3 de Octubre](#-3-de-octubre)
+  - [🔔 6 de Octubre](#-6-de-octubre)
+  - [🔔 7 de Octubre](#-7-de-octubre)
+  - [🔔 13 de Octubre](#-13-de-octubre)
+  - [🔔 20 de Octubre](#-20-de-octubre)
+  - [🔔 21 de Octubre](#-21-de-octubre)
+  - [🔔 22 de Octubre](#-22-de-octubre)
+  - [**Tarugconf: 22, 23, 24 de Octubre**](#tarugconf-22-23-24-de-octubre)
+  - [🔔 27 de Octubre](#-27-de-octubre)
+  - [🔔 29 de Octubre](#-29-de-octubre)
+- [3. **Agenda y Eventos tecnológicos de Noviembre**](#3-agenda-y-eventos-tecnológicos-de-noviembre)
+  - [🔔 3 de Noviembre](#-3-de-noviembre)
+  - [🔔 4 de Noviembre](#-4-de-noviembre)
+  - [🔔 5 de Noviembre](#-5-de-noviembre)
+  - [🔔 16 de Noviembre](#-16-de-noviembre)
+  - [🔔 17 de Noviembre](#-17-de-noviembre)
+  - [🔔 18 de Noviembre](#-18-de-noviembre)
+  - [🔔 19 de Noviembre](#-19-de-noviembre)
+  - [🔔 20 de Noviembre](#-20-de-noviembre)
+  - [🔔 21 de Noviembre](#-21-de-noviembre)
+  - [🔔 22 de Noviembre](#-22-de-noviembre)
+  - [🔔 23 de Noviembre](#-23-de-noviembre)
+  - [🔔 24 de Noviembre](#-24-de-noviembre)
+  - [🔔 25 de Noviembre](#-25-de-noviembre)
+  - [🔔 26 de Noviembre](#-26-de-noviembre)
+  - [🔔 27 de Noviembre](#-27-de-noviembre)
+- [4. **Agenda y Eventos tecnológicos de Diciembre**](#4-agenda-y-eventos-tecnológicos-de-diciembre)
+- [**Agenda y Eventos Tecnológicos Más Importantes en Inglés 📆**](#agenda-y-eventos-tecnológicos-más-importantes-en-inglés-)
+
+## 1. **Agenda y Eventos tecnológicos de Septiembre**
 
 ### 🔔 22 de Septiembre
 
@@ -100,7 +140,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00) Primavera UX UI: Diseño UI. Diseñando la interfaz 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
 
-## **Eventos tecnológicos de Octubre**
+<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+
+## 2. **Agenda y Eventos tecnológicos de Octubre**
 
 ### 🔔 3 de Octubre
 
@@ -148,7 +190,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - (11:00 AM) Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"}
 
-## **Eventos tecnológicos de Noviembre**
+## 3. **Agenda y Eventos tecnológicos de Noviembre**
 
 ### 🔔 3 de Noviembre
 
@@ -210,11 +252,11 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 
-## **Eventos tecnológicos de Diciembre**
+## 4. **Agenda y Eventos tecnológicos de Diciembre**
 
 > 👷‍♂️ **Por Desarrollar** ✍
 
-## **Calendario de Eventos Tecnológicos en Inglés 📆**
+## **Agenda y Eventos Tecnológicos Más Importantes en Inglés 📆**
 
 - [2019 - 2020 Conferences](https://www.cio.com/article/3344362/your-guide-to-top-tech-conferences-2019-2020.html){:target="_blank" rel="nofollow,noreferrer"}
 - [Calendario de Conferencias 2020](https://www.cfpland.com/ "Calendario de Conferencias Tecnológicas para 2020"){:target="_blank" rel="nofollow,noreferrer"}
@@ -222,9 +264,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - [10 Times](https://10times.com/technology?month=december){:target="_blank" rel="nofollow,noreferrer"}
 - [BMC - EVentos Más Importantes de 2020](https://www.bmc.com/blogs/tech-it-conferences/){:target="_blank" rel="nofollow,noreferrer"}
 
-## **Eventos de Tecnología Pasados**
+### **Agenda y Eventos de Tecnología Asistidos** <!-- omit in toc -->
 
-### Eventos del 18 de Junio de 2020
+#### Eventos del 18 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Investigación en fuentes abiertas (OSINT) para empresas de seguridad privado
 - ⏰ ¡El loco, loco loco mundo de JavaScript!
@@ -251,7 +293,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### Eventos del 19 de Junio de 2020
+### Eventos del 19 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Para nuevas empresas: hackers / fundadores - Meetup de LatAm
 - ⏰ ¿Cuándo es posible delegar decisiones a un algoritmo?
@@ -259,7 +301,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ IOT y Blockchain - Activation Programme
 - ⏰ Ciclo de Webinars sobre Agilidad: El Scrum Master más allá de las ceremonias
 
-### Eventos del 19 de Junio de 2020
+### Eventos del 19 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ **Workflow de maya a Substance painter** (18:00 H.) 👇
 - ⏰ **Vue Vixens MX Online** (19:00)
@@ -269,26 +311,26 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### Eventos del 20 de Junio de 2020
+### Eventos del 20 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Autos Inteligentes con AWS Greengrass - Parte 1 AWS Lambda para IoT
 - ⏰ Introducción al Diseño Interior
 - ⏰ Design thinking
 
 
-### Eventos del 20 de Junio de 2020
+### Eventos del 20 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Ekoparty University 2020
 - ⏰ Taller de Autodesk Inventor
 - ⏰ Juego Latinoaméricano de Excel: Habilidades para la Vida
 - ⏰ React Workshop 101 por Carolina Bustos
 
-### Eventos del 21 de Junio de 2020
+### Eventos del 21 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Mr.Coin Vr Meetup
 - ⏰ React Workshop 101 por Carolina Bustos
 
-### Eventos del 22 de Junio de 2020
+### Eventos del 22 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Administración Pública: una relación con futuro  por Itziar Leguinazabal y Santiago Segarra
 - ⏰ Model Creator: optimización en el preparado de modelos para impresión 3D
@@ -299,7 +341,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ Hablemos de Fintech: Qué son y su situación en Argentina** - JavaScript Linter Bot, Reutilización de Código, Elegante. 
 - ⏰ #EncuentrosWebConf | Sesión 03: Bots, reutilizando código, Variable Fonts** - JavaScript Linter Bot, Reutilización de Código, Elegante camino hacía las variables Fonts
 
-### Eventos del 23 de Junio de 2020
+### Eventos del 23 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Aprendiendo a usar Teams
 - ⏰ Tableau para Aplicaciones Móviles
@@ -313,12 +355,12 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ ¿Por qué Estudiar Ciencias de la Computación?
 - ⏰ Ilustración de personajes a partir de siluetas
 
-### Eventos del 24 de Junio de 2020
+### Eventos del 24 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Neo4J - Spring Data Neo4j RX
 - ⏰ Día Azure
 
-### Eventos del 25 de Junio de 2020
+### Eventos del 25 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Tecnología Multicluster
 - ⏰ Sesión informativa online curso de programación de septiembre de Adalab
@@ -337,7 +379,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ ¿Cómo diseñar productos y experiencias memorables en remoto?
 - ⏰ ¿Cómo medir la salud de tu start-up en base a los DATOS?
 
-### Eventos del 26 de Junio de 2020
+### Eventos del 26 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Serverless,la computación sin servidor y la eficiencia de recursos con Rahjut Fernández
 - ⏰ Agile desde el principio
@@ -349,7 +391,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ Ciberseguridad en tiempos del COVID-19
 - ⏰ Ciclo de Webinars sobre Agilidad: El Product Owner virtuoso, rol como ventaja competitiva
 
-### Eventos del 27 de Junio de 2020
+### Eventos del 27 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Desenredando la Inteligencia Artificial
 - ⏰ Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo
@@ -357,17 +399,17 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ Charla sobre VUE JS por Nacho Anaya
 - ⏰ React Workshop 101React Workshop 101 por Carolina Bustos
 
-### Eventos del 28 de Junio de 2020
+### Eventos del 28 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo
 
-### Eventos del 29 de Junio de 2020
+### Eventos del 29 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ Empleabilidad en lnteligencia Artificial: hype vs realidad, por Maite Iniesta
 - ⏰ Machine Learning 101 Webinar
 - ⏰ Aprende Linux desde Cero
 
-### Eventos para el 30 de Junio de 2020
+### Eventos para el 30 de Junio de 2020 <!-- omit in toc -->
 
 - ⏰ NASA Spaceapps AI Bootcamp (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp' target="_blank" rel="nofollow,noreferrer">https://kutt.it/nasa-space-bootcamp</a>)
 - ⏰ Virtual Lab: Serverless (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar' target="_blank" rel="nofollow,noreferrer">https://kutt.it/eventos-ibm-ar</a>)
@@ -375,9 +417,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ Webinar: Tecnologías Emergentes (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente' target="_blank" rel="nofollow,noreferrer">https://kutt.it/tecnologia-emergente</a>
 - ⏰ Webinar: Análisis y Conclusiones del WWDC 2020 (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding' target="_blank" rel="nofollow,noreferrer">https://kutt.it/wwdc-keep-coding</a>
 
-## **Eventos tecnológicos de Julio**
+## **Eventos tecnológicos de Julio** <!-- omit in toc -->
 
-### Eventos para el 01 de Julio de 2020
+### Eventos para el 01 de Julio de 2020 <!-- omit in toc -->
 
 - ⏰ **Webinar: Metodología Kanban** (01:30 H. AM) 👉 <a href='https://kutt.it/kanban-training-talent' target="_blank" rel="nofollow,noreferrer">https://kutt.it/kanban-training-talent</a>
 - ⏰ **Análisis de oportunidades SEO y Auditoría de backlinks** (19:00 H.) 👉 <a href='https://kutt.it/semrush-punto-rojo' target="_blank" rel="nofollow,noreferrer">https://kutt.it/semrush-punto-rojo</a>
@@ -385,99 +427,99 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ⏰ **Publicidad Digital: estrategias para aumentar ingresos** (19:00 H.) 👉 <a href='https://kutt.it/publi-unesdi' target="_blank" rel="nofollow,noreferrer">https://kutt.it/publi-unesdi</a>
 
 
-### Eventos para el 02 de Julio de 2020
+### Eventos para el 02 de Julio de 2020 <!-- omit in toc -->
 
 - ⏰ **Machine Learning. ¿Cómo empezar?/Sesiones en vivo** (02:00 H. AM) 👉 <a href='https://kutt.it/ml-ses-1-bedu'>https://kutt.it/ml-ses-1-bedu</a>
 - ⏰ **Webinar CACE - Primeros pasos para crear anuncios en Facebook e Instagram** (16:00 H.) 👉 <a href='https://kutt.it/tecnologia-anuncios-face-insta'>https://kutt.it/tecnologia-anuncios-face-insta</a>
 - ⏰ **Webinar: Qué habilidades necesitas para conseguir Tu Primer Empleo Tech!** (16:00 H.) 👉 <a href='https://kutt.it/empleo-tech-codenotch'>https://kutt.it/empleo-tech-codenotch</a>
 
-### Eventos para el 03 de Julio de 2020
+### Eventos para el 03 de Julio de 2020 <!-- omit in toc -->
 
 - ⏰ **Javascript 101** (02:00 H. AM) 👉 <a href='https://kutt.it/javascript-101-julio'>Javascript 101</a>
 - ⏰ **TypeScript en el BackEnd con NestJS** (13:00 H.) 👉 <a href='https://www.eventbrite.es/e/entradas-typescript-en-el-backend-con-nestjs-110797115154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>TypeScript en el BackEnd con NestJS</a>
 - ⏰ **Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil** (13:00 H.) 👉 <a href='https://kutt.it/web-agile-master'>https://kutt.it/web-agile-master</a>
 - ⏰ **Webinar: Transformación Digital** (16:00 H.) 👉 <a href='https://kutt.it/trans-digital-fund-global'>https://kutt.it/trans-digital-fund-global</a>
 
-### Eventos para el 06 de Julio de 2020
+### Eventos para el 06 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ Startups y las APIs (Días 6, 8 y 10)
 
 <a href='https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 07 de Julio de 2020
+### Eventos para el 07 de Julio de 2020 <!-- omit in toc -->
 
 - ⏰ Webinar: inteligencia artificial aplicada a correos electrónicos (19:00 H.) 👉 <a href='https://kutt.it/ai-mail-keepcoding'>https://kutt.it/ai-mail-keepcoding</a>
 
-### Eventos para el 08 de Julio de 2020
+### Eventos para el 08 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ Neo4J - 13h00 - Neo4j Bloom 👇
 
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 09 de Julio de 2020
+### Eventos para el 09 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ DojoConf: Conferencia(9 de Julio - 15:30) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 10 de Julio de 2020
+### Eventos para el 10 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ Webinar: Introducción a Linkedin (21:00 PM) 👉 <a href='https://kutt.it/intr-linkedin-grup-nucleo'>https://kutt.it/intr-linkedin-grup-nucleo</a>
 
-### Eventos para el 12 de Julio de 2020
+### Eventos para el 12 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ DojoConf: Conferencia (12 de Julio - 20:00) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 13 de Julio de 2020
+### Eventos para el 13 de Julio de 2020 <!-- omit in toc -->
 
 - ⏰ Introducción al diseño de mundos urbanos para videojuegos (13 de Julio, 17:00 H. Española) 👉 (<a href='https://kutt.it/h4w8AR'>https://kutt.it/h4w8AR</a>) / https://www.sae.edu/esp/es/open-days-bcn
 - ⏰ ¿Por qué enseñar machine learning a los más chicos? (13 de Julio, 21:30 H. Española) 👉 (<a href='https://kutt.it/Nd3Tjt'>https://kutt.it/Nd3Tjt</a>)
 - ⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
-### Eventos para el 15 de Julio de 2020
+### Eventos para el 15 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ La importancia de los videotutoriales en procesos formativos 👉 <a href='https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702</a>
 
 ⏰ Evento de Presentación de XIAOMI (22:00 PM H. Española) 👉  <a href='https://event.mi.com/global/launch2020/ecosystem#/a' target="_blank" rel="nofollow,noreferrer">https://event.mi.com/global/launch2020/ecosystem#/a</a>
 
-### Eventos para el 18 de Julio de 2020
+### Eventos para el 18 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ Jump! Tecnología (18 y 19 - 14:00) 👇
 
 <a href='https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 23 de Julio de 2020
+### Eventos para el 23 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ Evolución de la Ciberseguridad (23 y 24 - 15:30) 👇
 
 <a href='https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 28 de Julio de 2020
+### Eventos para el 28 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ Virtual Lab: CI / CD en Kubernetes con Tekton Pipelines (28 de Julio, 22:00 H. Española)
  👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
-### Eventos para el 29 de Julio de 2020
+### Eventos para el 29 de Julio de 2020 <!-- omit in toc -->
 
 ⏰ Neo4J: Graph Data Science Library (13:00 H.) 👇
 
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-## **Eventos tecnológicos de Agosto**
+## **Eventos tecnológicos de Agosto** <!-- omit in toc -->
 
-### 🔔 11 de Agosto
+### 🔔 11 de Agosto <!-- omit in toc -->
 
 - ⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 22:00 H. Española)
 - 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
-### 🔔 12 de Agosto
+### 🔔 12 de Agosto <!-- omit in toc -->
 
 - ⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### 🔔 13 de Agosto
+### 🔔 13 de Agosto <!-- omit in toc -->
 
 - Desarrolla tu primera App en solo 2 horas con nuestro profesor, Carlos de Tena.
 [REGISTRO](https://www.eventbrite.es/e/entradas-desarrollando-una-app-en-2-horas-115861726543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -485,14 +527,14 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 🗞 Más Info. [Twitter](https://twitter.com/iamdoomling/status/1291435341589573632){:target="_blank" rel="nofollow, noreferrer"}
 - Creando diseño web con Bootstrap - [Formulario de REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLScdDrZHA_y4HlgeAQgvXL51H-_1zEp6VHOxnslNTqQ9fM1HMw/viewform){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 14 de Agosto
+### 🔔 14 de Agosto <!-- omit in toc -->
 
 - Webinar sobre Grafología Gratis 👉 Registro al evento [EventBrite](https://www.eventbrite.com.mx/e/webinar-grafologia-gratis-tickets-116072771785?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🗞 Temario :[Temario del Curso](http://grafologia.estrategica.pro/valor){:target="_blank" rel="nofollow, noreferrer"}
 - Unreal Engine & Fortnite en la educación - [REGISTRO](https://www.eventbrite.com/e/unreal-engine-fortnite-en-la-educacion-tickets-113377862238?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - Hablando sobre VUE JS 👉 Charla con @ianaya89 sobre #VueJS. ¡Los invito a que disfruten de este encuentro! [Canal de Youtube](https://www.youtube.com/watch?v=w4jDwsl8Xuc&feature=youtu.be){:target="_blank" rel="nofollow, noreferrer"}
 - NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 15 de Agosto
+### 🔔 15 de Agosto <!-- omit in toc -->
 
 - Diseñando productos responsables [Ver Youtube](https://www.youtube.com/watch?v=EaiyzaFGhDM){:target="_blank" rel="nofollow, noreferrer"}
 - Jornada de redes y comunicaciones: el dilema del Hombre Araña (Ciberseguridad): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/jornada-de-redes-y-comunicaciones-el-dilema-del-hombre-araa){:target="_blank" rel="nofollow, noreferrer"}
@@ -501,11 +543,11 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - NG CONF COLOMBIA [Web Oficial](https://ngconf.co/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 17 de Agosto
+### 🔔 17 de Agosto <!-- omit in toc -->
 
 - (23:30 H. ESP.) El arte de los ´60s y el florecimiento del Pop", por Rodrigo Alonso. [REGISTRO](https://www.eventbrite.com.ar/e/el-arte-de-los-60s-y-el-florecimiento-del-pop-por-rodrigo-alonso-tickets-116000058297?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
-### 🔔 18 de Agosto
+### 🔔 18 de Agosto <!-- omit in toc -->
 
 - (18:00 H. ESP.) Especial Tecnologías Accesibles: Diferentes APP para celulares y pc - [Ver en Youtube](https://www.youtube.com/somoslaseu)
 - (18:00 H. ESP.) Crea tu feed de Instagram con HTML y CSS - [Registro](https://www.eventbrite.com/e/crea-tu-feed-de-instagram-con-html-y-css-tickets-115891930885?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
@@ -514,29 +556,29 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor Performo). El estará respondiendo en vivo sus preguntas enviadas a través de los chats de Facebook y Zoom. No te pierdas esta oportunidad de hacer preguntas sobre performance a un experto como Señor Performo.
 
-### 🔔 20 de Agosto
+### 🔔 20 de Agosto <!-- omit in toc -->
 
 - (01:30 AM) Impacto de la enseñanza integral y multidireccional en jóvenes mediante el uso de tecnologías - Daniella Mazzini (https://gdg.community.dev/e/mm2tsm/)
 - (03:00 AM) - Taller virtual "¿Cómo escribir para Internet?" con Mariángela Urbina C. - [REGISTRO](https://www.eventbrite.co/e/taller-virtual-como-escribir-para-internet-con-mariangela-urbina-c-tickets-113283407722?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - 19 Horas: Explotando mi primera vulnerabilidad [EventBrite](https://www.eventbrite.es/e/entradas-explotando-mi-primera-vulnerabilidad-116383226363?aff=eand){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 21 de Agosto
+### 🔔 21 de Agosto <!-- omit in toc -->
 
 - (02:00 AM) Frontend Foxes | Hablemos de frameworks (angular, react, vue) [VER ONLINE](https://www.youtube.com/watch?v=vBX8x5qZXc8) con @maleja111 @vanessamarely y @jetzable.
 
-### 🔔 22 de Agosto
+### 🔔 22 de Agosto <!-- omit in toc -->
 
 - (10:00 AM - 14:00 AM) Ingeniería social / El arte de la piratería humana (Hack Madrid): [Registro](https://community.codemotion.com/hackmadrid-27/meetups/social-engineering--the-art-of-human-hacking){:target="_blank" rel="nofollow, noreferrer"}
 - (15:00 AM) I Criptofestival (https://www.youtube.com/c/SombreroBlancoCiberseguridad/) [REGISTRO Y RECORDATORIO](https://www.eventbrite.cl/e/i-criptofestival-tickets-117403315477?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte II de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 PM) Cremona TV: Creando una app con Netx JS + TypeScript + Tailwind + Firebase [DIRECTO](https://www.twitch.tv/durancristhian){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 23 de Agosto
+### 🔔 23 de Agosto <!-- omit in toc -->
 
 - Hablando de GitHub Actions, DevOps, Azure Static Web Apps, SQL e incluso Xamarin.
 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 25 de Agosto
+### 🔔 25 de Agosto <!-- omit in toc -->
 
 - (15:00 H. ESP.) Programa Pymes PAE: Pensamiento de diseño 👉 [ENTRAR AL EVENTO](https://www.eventbrite.com.ar/e/programa-pymes-pae-pensamiento-de-diseno-tickets-117403297423?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 H. ESP.) LinkedIn apuntado a búsquedas laborales 👉 [ENTRAR AL EVENTO](https://www.eventbrite.com.ar/e/linkedin-apuntado-a-busquedas-laborales-tickets-117026943739?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -554,7 +596,7 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (01:00 AM H. ESP.) Azure DevOps con repositorios GitHub - Jorge Levy 👉 [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"} [Noche del 25 al 26]
 - (04:30 AM H. ESP.) GitHub Codespaces - Cristian González 👉 [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"} [Noche del 25 al 26]
 
-### 🔔 26 de Agosto
+### 🔔 26 de Agosto <!-- omit in toc -->
 
 - Congreso CASE 2020 - Congreso Argentino de Sistemas Embebidos: FPGA, HDL y ASIC y Bioingeniería - [Más Información](http://www.sase.com.ar/case/ediciones/case2020/){:target="_blank" rel="nofollow, noreferrer"} 👉 [REGISTRO](https://www.eventbrite.com.ar/e/congreso-case-2020-tickets-116823254499){:target="_blank" rel="nofollow, noreferrer"}
 - (17:00 PM H. ESP. - 10:00 H. México) GIAO México. Seminario: Prevención de Lavado de Dinero y Uso de Datos Personales en el Entorno Digital (https://giaoanticorrupcion.mx/eventos/#eventosGIAO){:target="_blank" rel="nofollow, noreferrer"} (Con derecho a certificado de asistencia, previo registo)
@@ -568,7 +610,7 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (23:30 PM H. Española) Introducción a Dart Lang #EncuentrosCodear 👉 [Ver en Youtube](https://www.youtube.com/watch?v=szOsAhMbz3k){:target="_blank" rel="nofollow, noreferrer"}
 
 
-### 🔔 27 de Agosto
+### 🔔 27 de Agosto <!-- omit in toc -->
 
 - GitHub Student Developer Pack - Christian Granados 🗞 Registrarse [REGISTRO](https://events.darry.codes/github){:target="_blank" rel="nofollow, noreferrer"}
 - Diseño: Conversatorio Anatomía de un Ilustrador 👉 [REGISTRO](https://www.eventbrite.co/e/entradas-conversatorio-anatomia-de-un-ilustrador-117462247745){:target="_blank" rel="nofollow, noreferrer"}
@@ -583,7 +625,7 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - Women Tech Camp: Mujeres Tech creando ideas innovadoras en Retail 👉 [REGISTRO](https://www.eventbrite.com.ar/e/women-tech-camp-tickets-115774142577){:target="_blank" rel="nofollow, noreferrer"}
 - Diseño: Una historia sobre el pincel, el rótulo y la tipografía 👉 [REGISTRO](https://www.eventbrite.com.ar/x/byl7-una-historia-sobre-el-pincel-el-rotulo-y-la-tipografia-gen-ramirez-tickets-117783687179){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 28 de Agosto
+### 🔔 28 de Agosto <!-- omit in toc -->
 
 - Gestión de memoria en java 🗞 [Registrarse](https://www.eventbrite.com.ar/e/meetup-edicion-agosto-tickets-117779083409?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
 - ¿Qué hace un diseñador industrial? 🗞 [Registrarse](https://que-hace-un-disenador-industrial.eventbrite.com.mx){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
@@ -594,37 +636,37 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - Python explicado en ABC/Sesiones en vivo. 🗞 [Registrarse](https://www.eventbrite.com.mx/e/python-explicado-en-abcsesiones-en-vivo-tickets-114348643872){:target="_blank" rel="nofollow, noreferrer"} [Noche del 27 al 28]
 - Portales de Revistas Científicas: trabajo colaborativo y redes 👉 [REGISTRO](https://117354116321.eventbrite.com.ar){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 29 de Agosto
+### 🔔 29 de Agosto <!-- omit in toc -->
 
 - NotPinkCon Security Conference: Conferencias técnicas de seguridad informática [REGISTRO](https://www.eventbrite.com.ar/e/entradas-notpinkcon-security-conference-109907416040?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://notpinkcon.org/#speakers){:target="_blank" rel="nofollow, noreferrer"}
 - Parte III de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - Introducción a Arduino! 🚀 Vamos a armar un tateti con leds y un auto robot con sensores de ultrasonido que esquiva obstaculos! - [📺 Ver en Directo](https://youtube.com/c/freeCodeCampBA){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 1 de Septiembre
+### 🔔 1 de Septiembre <!-- omit in toc -->
 
 - Herramientas Digitales para Docentes 👉 [REGISTRO](https://www.eventbrite.com.ar/e/herramientas-digitales-para-docentes-tickets-118381041883?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - Storytelling con Datos para Principiantes: Data Science [EventBrite](https://www.eventbrite.es/e/entradas-storytelling-con-datos-para-principiantes-data-science-105447273634?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - Full Stack: Cómo Empezar, con Mario Girón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-full-stack-start-here-117748513975?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} ¿Por qué apostar por Javascript?, Frameworks más destacados, Perfil del Full Stack Developer, Etc.
 - Ciberseguridad: Cómo Empezar, con Roberto López 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-cybersecurity-start-here-117960469941?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 2 de Septiembre
+### 🔔 2 de Septiembre <!-- omit in toc -->
 
 - Taller online #1: Aprende a Programar desde Cero 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-taller-online-1-aprende-a-programar-desde-cero-113319768478?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro) - [AGENDA](https://economiadigitalsantander.es/agenda/)
 
-### 🔔 3 de Septiembre
+### 🔔 3 de Septiembre <!-- omit in toc -->
 
 - Fundamentos de JDK 🗞 [Registrarse](https://www.eventbrite.com.ar/e/jdk-fundamentalks-septiembre-tickets-118032986841?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 
 
-### 🔔 3 de Septiembre
+### 🔔 3 de Septiembre <!-- omit in toc -->
 
 - 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://economiadigitalsantander.es/agenda/){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Desarrollo Móvil: Cómo empezar con David Jardón 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-mobile-development-start-here-117962110849?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Desarrollador Java: Cómo Empezar, con Antonio Martín 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-java-development-start-here-117962863099?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. Española) Ciencia de Datos: Cómo Empezar, con Adrián Ceja 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-data-science-start-here-117963577235?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 4 de Septiembre
+### 🔔 4 de Septiembre <!-- omit in toc -->
 
 - (00:00 H. ESP.) Open api 3.0 por José Calderón 🗞 [Registrarse](https://www.eventbrite.com.ar/e/java-bs-as-edicion-septiembre-tickets-117783631011?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} CON SORTEO DE CÓDIGOS PARA JETBRAINS Y BIGBOX INCLUIDOS! 😻
 - 📌 (00:00 H. ESP)  Entrevistas de trabajo en sistemas. Conocerlas, prepararse y navegarlas. Por Vicky Charra (@vickycharra) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
@@ -633,7 +675,7 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
 - 📌La próxima edición de #Santander34, se centrará en la #Digitalización y #Sostenibilidad para la Reconstrucción empieza el miércoles 02/09. [REGISTRO](https://ametic.es/es/evento/santander/registro){:target="_blank" rel="nofollow, noreferrer"} - [AGENDA](https://economiadigitalsantander.es/agenda/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 5 de Septiembre
+### 🔔 5 de Septiembre <!-- omit in toc -->
 
 - 📌 (00:00 H. ESP) De TL a Manager en pandemia. Por Flor Mincucci (@florenciaypunto) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
 - 📌 (01:00 H. ESP)  Management[masked] Por Vale Colombo (@ValeZumZum) 👉 [Directo en Youtube](https://www.youtube.com/channel/UCJmVVFz-dx4AjcMbk1T9H6A){:target="_blank" rel="nofollow, noreferrer"}
@@ -641,65 +683,65 @@ Nuestro primer webinar en JMeter en Español será con Leandro Melendez (Señor 
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html)
 - (16:00 PM) Parte IV de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 6 de Septiembre
+### 🔔 6 de Septiembre <!-- omit in toc -->
 
 - (4, 5 y 6 de Sept.) Conferencia de Ciberseguridad DragonJar - (https://www.dragonjarcon.org/index.html){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 7 de Septiembre
+### 🔔 7 de Septiembre <!-- omit in toc -->
 
 - (23:30 H. ESP.) UX Writing: Diseñando experiencias con palabras, por Emilia Alegre 👉 [Ver Directo en Youtube](https://www.youtube.com/watch?v=s9-u2mYL7rY&ab_channel=CoDeAr){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 8 de Septiembre
+### 🔔 8 de Septiembre <!-- omit in toc -->
 
 - (18:30 H. Esp.) Front End: taller para principiantes FULLSTACK 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-front-end-taller-para-principiantes-fullstack-111285114774?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}- (18:00 H. Esp.) ¿Has acabado de estudiar? Te recomendamos qué hacer 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-has-acabado-de-estudiar-te-recomendamos-que-hacer-d-115882500679?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 9 de Septiembre
+### 🔔 9 de Septiembre <!-- omit in toc -->
 
 - (13:00 H. Esp.) Neo4j - Aplicaciones en Retail 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (17:00 H. Esp.) SEO Day Latinoamérica: 30 Charlas diferentes sobre SEO con ponentes de todo el mundo. 🗞 [Registrarse](https://seoday.com.ar/#speakers){:target="_blank" rel="nofollow, noreferrer"} 🎥 [Ver Directo](https://www.youtube.com/watch?v=bmLvEKoHm-s&ab_channel=SEOPuntoRojo%21){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 10 de Septiembre
+### 🔔 10 de Septiembre <!-- omit in toc -->
 
 - (00:00 AM) CICLO DE CHARLAS VIRTUALES WEF: COMUNIDADES DE MUJERES 👉 [REGISTRO](https://www.inscribirme.com/ciclodecharlasvirtualeswefcomunidadesdemujeres){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 11 de Septiembre
+### 🔔 11 de Septiembre <!-- omit in toc -->
 
 - (21:00 H. Esp.) Aprende como hacer tarjetas digitales para tu negocio 🗞 [REGISTRO](https://www.eventbrite.com.ar/e/aprende-como-hacer-tarjetas-digitales-para-tu-negocio-registration-117653680325?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (21:00 H. Esp.) TikTok paso a paso 👉 [REGISTRO](https://www.eventbrite.com.ar/e/tiktok-paso-a-paso-registration-119089230093){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 12 de Septiembre
+### 🔔 12 de Septiembre <!-- omit in toc -->
 
 - (03:00 AM H. Española) Code LATAM: Introducción a Accesibilidad Web 👉 [Ver Directo en Youtube](https://www.youtube.com/channel/UCS0emIw9cgv9RIMowHlq3ng/){:target="_blank" rel="nofollow, noreferrer"}
 - (10:00 AM H. Española) HACK & BEERS Remakes Vol. 6 👉 Más INFO. [Agenda e Inscripción](https://l.immune.institute/capture-the-flag-ctf){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00 PM) Parte V de V: Diplomado Profesional Blockchain@Berkeley Fundamentals en Español [Registro](https://www.eventbrite.com.mx/e/diplomado-profesional-blockchainberkeley-fundamentals-en-espanol-tickets-109909664766?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM H. ESP - 12:00 H. México) Cómo analizar la corrupción con datos de auditorías en R 👉 [Meetup y Zoom](https://www.meetup.com/es/rladies-aguascalientes/events/273033675/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 13 de Septiembre
+### 🔔 13 de Septiembre <!-- omit in toc -->
 
 - (00:00 H. ESP. - noche del domingo al lunes -) Política y Big Data 👉 [Registro](https://www.eventbrite.com.ar/e/politica-y-big-data-tickets-119948504205?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 14 de Septiembre
+### 🔔 14 de Septiembre <!-- omit in toc -->
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 
-### 🔔 15 de Septiembre
+### 🔔 15 de Septiembre <!-- omit in toc -->
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} Conferenciantes (https://megatestingweek.com/speakers/) | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (19:00 PM) ¿Pondrá Deno el mundo de Node del revés? - [Registro](https://events.codemotion.com/webinars/pondr-deno-el-mundo-de-node-del-revs/){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 16 de Septiembre
+### 🔔 16 de Septiembre <!-- omit in toc --> <!-- omit in toc -->
 
 - (18:00 H. ESP.) Inspired by Woman: Enciende tu marca personal 🗞 [REGISTRO](https://www.eventbrite.co.uk/e/inspired-by-women-tickets-117973442743?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (00:00 H. ESP.) Inicios de la Programación 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Miércoles al Jueves)
 
 
-### 🔔 17 de Septiembre
+### 🔔 17 de Septiembre <!-- omit in toc --> <!-- omit in toc -->
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 - (19:00 H. ESP.) Webinar: guía de supervivencia para un Data Scientist 🗞 [Registrarse](https://www.eventbrite.es/e/entradas-webinar-guia-de-supervivencia-para-un-data-scientist-112423947052?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
-### 🔔 18 de Septiembre
+### 🔔 18 de Septiembre <!-- omit in toc --> <!-- omit in toc -->
 
 - Congreso EsLibre. Más Información, Charlas y Propuestas 👉 [ver Propuestas](https://propuestas.eslib.re/2020/){:target="_blank" rel="nofollow, noreferrer"}
 
@@ -764,7 +806,7 @@ GNOME: La Experiencia de Escritorio Ético y Elegante
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 
-#### Viernes 18/09
+#### Viernes 18/09 <!-- omit in toc --> <!-- omit in toc -->
 
 10 H.: Rodrigo Montenegro: La Inteligencia Artificial y su impacto en el mundo del Testing (Tsoft)
 11 H.: Abel Quintana Lopez y Oscar Calderin: Testing como parte de la cultura de DevOps
@@ -779,7 +821,7 @@ GNOME: La Experiencia de Escritorio Ético y Elegante
 
 - (00:00 H. ESP.) ¿Cómo ser un programador web? 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Viernes al Sábado)
 
-### 🔔 19 de Septiembre
+### 🔔 19 de Septiembre <!-- omit in toc --> <!-- omit in toc -->
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 
@@ -854,11 +896,11 @@ GNOME: La Experiencia de Escritorio Ético y Elegante
 - (11:00 AM H. ESP.) ✨ OSWeekends #3: Animaciones svg, Blog Nuxt, Cypress Testing 👉 [Registro](https://www.meetup.com/es/Open-Source-Weekends/events/273013139/){:target="_blank" rel="nofollow, noreferrer"}
 - (00:00 H. ESP.) Haz tus propias páginas web 👉 [Directo Youtube](https://www.youtube.com/c/ProgramaDesdeTuCasa/featured){:target="_blank" rel="nofollow, noreferrer"} (Noche del Sábado al Domingo)
 
-### 🔔 20 de Septiembre
+### 🔔 20 de Septiembre <!-- omit in toc -->
 
 - (Del 14 al 20) MEGA TESTING WEEK [🎥 DIRECTOS](https://www.youtube.com/channel/UCS3EBUPMiANrPUeve5NjEHQ){:target="_blank" rel="nofollow, noreferrer"} | [👨‍💻 Speakers](https://megatestingweek.com/speakers/){:target="_blank" rel="nofollow, noreferrer"} |Iniciativa de 4 comunidades de latinoamérica (Mendoza Testing Day, Testing en Chile, Testing Bolivia, Argentesting.
 
-#### Domingo 20/09
+#### Domingo 20/09 <!-- omit in toc -->
 
 10 H.: Taller, Aprende API Testing jugando con SoapUI - Leonardo Espindola
 12 H.: CIERRE DEL MEGA TESTING WEEK 2020
