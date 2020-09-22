@@ -15,6 +15,8 @@ img: /assets/img/paginas/fp/portada-asir.webp
 
 ---
 
+> 👷‍♂️ En construcción 👷‍♂️ 🛑🛑🛑 👷‍♂️ En construcción 👷‍♂️ ¡REGRESA MAÑANA! 🔥🔥🔥🔥🔥
+
 El ciclo de formación profesional de desarrollo de administración de sistemas informáticos en red te ofrece la posibilidad de lograr el título de técnico superior en administración de sistemas informáticos en red.
 
 Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones, conjunto al curso de desarrollo de aplicaciones web (DAW) y el curso de desarrollo de aplicaciones multiplataforma (DAM).
@@ -31,70 +33,64 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 **Asignaturas del primer curso de ASIR**
 
-## **Fundamentos de hardware**
+## 1. **Fundamentos de hardware**
 
 
 
-## **Gestión de bases de datos**
+## 2. **Gestión de bases de datos**
 
 ### Apuntes de la asignatura de Gestión de Bases de Datos del año 2017
 
 1. Elementos de las bases de datos
 2. 
 
-## **Implantación de sistemas operativos**
+## 3. **Implantación de sistemas operativos**
 
 
 
-## **Lenguajes de marcas y sistemas de gestión de información**
+## 4. **Lenguajes de marcas y sistemas de gestión de información**
 
 
 
-## **Planificación y administración de redes**
+## 5. **Planificación y administración de redes**
 
 
 
-## **Formación y orientación laboral**
 
 
 
 
 **Asignaturas del segundo curso de ASIR**
 
-## **Administración de sistemas gestores de bases de datos**
+## 6. **Administración de sistemas gestores de bases de datos**
 
 
 
-## **Administración de sistemas operativos**
+## 7. **Administración de sistemas operativos**
 
 
 
-## **Empresa e iniciativa emprendedora**
+## 8. **Empresa e iniciativa emprendedora**
 
 
 
-## **Implantación de aplicaciones web**
+## 9. **Implantación de aplicaciones web**
+
+
+## 10. **Seguridad y alta disponibilidad**
 
 
 
-## **Inglés técnico para grado superior**
+## 11. **Servicios de red e internet**
 
+> 👷‍♂️ En construcción 👷‍♂️
 
+## Extras
 
-## **Seguridad y alta disponibilidad**
-
-
-
-## **Servicios de red e internet**
-
-
+### **Formación y orientación laboral** <!-- omit in toc -->
 
 ## **Proyecto de administración de sistemas informáticos en red**
 
-
-
 ## **Formación en centros de trabajo**
-
-
 
 ![Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-asir.webp "Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
