@@ -37,31 +37,41 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 ### **Libros de texto de fundamentos de hardware**
 
-[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
+[Sintesis](https://amzn.to/3hVmUEO) (2019) \ [Garceta](https://amzn.to/32SZ4VX) (2018) \ [Garceta](https://amzn.to/3j7Hqnb) (2013) \ [Rama](https://amzn.to/33RclNV) (2010)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491712941&linkId=154a15deb0f11b30f001fc46d4c97243"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417289321&linkId=470165f8c8399bfc917d88d59c3bf794"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452608&linkId=8adafb9f66080a79dd23eb7906e265c7"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8478979859&linkId=6d77c5906094e306f180f6f8eb0ae225"></iframe>
 
 ## 2. **Gestión de bases de datos**
 
 ### **Libros de texto de gestión de bases de datos**
 
-[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
+[Garceta](https://amzn.to/3mFkFJr) (2014) \ [Rama](https://amzn.to/3iXACZ1) (2012)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452942&linkId=8d79abc58b6783f0bd62c7fb1b078a1c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=849964158X&linkId=52e5cf6ffae3fe6adb8f78c107edc736"></iframe>
 
 ## 3. **Implantación de sistemas operativos**
 
 ### **Libros de texto de implantación de sistemas operativos**
 
-[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
+[Garceta](https://amzn.to/32VpJS5) (2012) \ [Rama](https://amzn.to/2G1qy2q) (2010)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452195&linkId=9e2557e8eed05bde5af9ece796870e49"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8478979808&linkId=7948fab3cd1bbc9ac157d263ff2080e7"></iframe>
 
 ## 4. **Lenguajes de marcas y sistemas de gestión de información**
 
 ### **Libros de texto de lenguajes de marcas y sistemas de gestión de información**
 
-[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
+[Sintesis](https://amzn.to/3kFucOJ) (2018) \ [Garceta](https://amzn.to/2ZYQEuh) (2012) \ [Rama](https://amzn.to/32VdqVU) (2011)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491711759&linkId=38b0a7bbf1636db11149aff8c00e7e55"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452179&linkId=c5a679c9a6d59d4b2508dc6b80fd3e49"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641016&linkId=bd9643f99f63d1def7ca94ceb604033d"></iframe>
 
 ## 5. **Planificación y administración de redes**
 
 ### **Libros de texto de planificación y administración de redes**
 
-[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
+[Garceta](https://amzn.to/2RQdXSI) (2019) \ [Rama](https://amzn.to/3hRK3rK) (2010)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417289380&linkId=cc2df486ad90ab03f0148a198c38486d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8478979824&linkId=7ff6f0122fb3df619d988e7ccb04b9ec"></iframe>
 
 **Asignaturas del segundo curso de ASIR**
 
@@ -69,13 +79,17 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 ### **Libros de texto de administración de sistemas gestores de bases de datos**
 
-[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
+[Garceta](https://amzn.to/2RRuHZv) (2015) \ [Rama](https://amzn.to/3kFYTTO) (2015) \ [Startbook](https://amzn.to/35TLT98) (2011)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416228299&linkId=ddb069e6888afe9939b5efe4e9e02b8a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499645291&linkId=9cffcee5558c783bc311fafd417ddcae"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8492650788&linkId=8e467a1e7e2694116e1f130ce6c94ecf"></iframe>
 
 ## 7. **Administración de sistemas operativos**
 
 ### **Libros de texto de administración de sistemas operativos**
 
-[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
+[Garceta](https://amzn.to/3cqmWn4) (2012) \ [Rama](https://amzn.to/2ZXQoeW) (2011) \ [Rama](https://amzn.to/32SWnnd) (2011)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452128&linkId=2bcbb588e7fffeeaf8363fe4ac5854a4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499640915&linkId=df737c677e1e5e771c1aaa5fa6e2d1a6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499640826&linkId=c191af02b14b5b0079ac199183fa6506"></iframe>
 
 ## 8. **Implantación de aplicaciones web**
 
