@@ -35,62 +35,81 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 ## 1. **Fundamentos de hardware**
 
+### **Libros de texto de fundamentos de hardware**
 
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
 ## 2. **Gestión de bases de datos**
 
-### Apuntes de la asignatura de Gestión de Bases de Datos del año 2017
+### **Libros de texto de gestión de bases de datos**
 
-1. Elementos de las bases de datos
-2. 
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
 ## 3. **Implantación de sistemas operativos**
 
+### **Libros de texto de implantación de sistemas operativos**
 
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
 ## 4. **Lenguajes de marcas y sistemas de gestión de información**
 
+### **Libros de texto de lenguajes de marcas y sistemas de gestión de información**
 
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
 ## 5. **Planificación y administración de redes**
 
+### **Libros de texto de planificación y administración de redes**
 
-
-
-
-
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
 **Asignaturas del segundo curso de ASIR**
 
 ## 6. **Administración de sistemas gestores de bases de datos**
 
+### **Libros de texto de administración de sistemas gestores de bases de datos**
 
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
 ## 7. **Administración de sistemas operativos**
 
+### **Libros de texto de administración de sistemas operativos**
 
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
-## 8. **Empresa e iniciativa emprendedora**
+## 8. **Implantación de aplicaciones web**
 
+### **Libros de texto de implantación de aplicaciones web**
 
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
-## 9. **Implantación de aplicaciones web**
+## 9. **Seguridad y alta disponibilidad**
 
+### **Libros de texto de seguridad y alta disponibilidad**
 
-## 10. **Seguridad y alta disponibilidad**
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
+## 10. **Servicios de red e internet**
 
+### **Libros de texto de servicios de red e internet**
 
-## 11. **Servicios de red e internet**
+[Sintesis]() (2020) \ [Garceta]() (2019) \ [Garceta]() (2013) \ [Rama]() (2012)
 
 > 👷‍♂️ En construcción 👷‍♂️
 
 ## Extras
 
+### Apuntes de la asignatura de Gestión de Bases de Datos del año 2017 <!-- omit in toc -->
+
+1. Elementos de las bases de datos
+2. *
+
 ### **Formación y orientación laboral** <!-- omit in toc -->
 
-## **Proyecto de administración de sistemas informáticos en red**
+## **Empresa e iniciativa emprendedora** <!-- omit in toc -->
 
-## **Formación en centros de trabajo**
+## **Proyecto de administración de sistemas informáticos en red** <!-- omit in toc -->
+
+## **Formación en centros de trabajo** <!-- omit in toc -->
 
 ![Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-asir.webp "Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
