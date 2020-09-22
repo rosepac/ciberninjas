@@ -87,6 +87,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (18:00) Mujeres STEM: Industria 4.0 y Transformación Digital 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-mujeres-stem-industria-40-y-transformacion-digital-120348994081?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (18:30) ¿Trabajar en ciberseguridad, yo? ¡Pero si no soy hacker! 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-trabajar-en-ciberseguridad-yo-pero-si-no-soy-hacker-120367124309?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00) Primavera UX UI: Diseño UX. Conociendo al usuario 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00) DevAttack2020: Construye, desarrolla, explora con IBM 👉 [REGISTRO](https://www.eventbrite.com.pe/e/devattack2020-tickets-119929170377?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24) - Tecnología nativa en nube, despliegue de una API.
+- (00:00) Trabaja seguro con HP 👉 [REGISTRO](https://www.eventbrite.es/e/22-de-septiembre-trabaja-seguro-con-hp-v-tickets-121234462541?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
+- (02:30) Meetup #30: ¿Cómo crear una suscripción tipo Netflix con WooCommerce? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-30-como-crear-una-suscripcion-tipo-netflix-con-woocommerce-registration-121387650731){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
 
 ### 🔔 24 de Septiembre
 
@@ -99,7 +102,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (19:00) IA :) o ¡Ay! :( Inteligencia Artificial en el mundo real 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-ia-o-ay-inteligencia-artificial-en-el-mundo-real-120046457185?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (20:00) Webinar: Chatbot, Buscador, Gestión de Tickets ¿Qué va primero? 👉 [REGISTRO](https://www.eventbrite.com/e/webinar-chatbot-buscador-gestion-de-tickets-que-va-primero-registration-121606465211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/c/InbentaTechnologies/featured){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 H. ESP. - 16:00 H. Ciudad de México) Tu personal Branding y la Nueva Normalidad 🗞 [Registro](https://www.eventbrite.com.mx/e/tu-personal-branding-y-la-nueva-normalidad-tickets-117309725547?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
-- [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
+- (00:00) DevAttack2020: Construye, desarrolla, explora con IBM 👉 [REGISTRO](https://www.eventbrite.com.pe/e/devattack2020-tickets-119929170377?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 24 al 25) - Creación y despliegue de un modelo de machine learning, crea tu propio asistente virtual con AutoAI.
+
+- Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
 
 ### 🔔 25 de Septiembre
 
@@ -110,7 +115,8 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (22:00) Conferencias Virtuales Paxful 👉 [REGISTRO](https://www.eventbrite.co/e/conferencias-virtuales-paxful-tickets-121127602921?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
 - (23:00) Digital Hub Monterrey: Revolución del Big Data, ¿cómo la inició? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/revolucion-del-big-data-como-la-inicio-tickets-120107505783?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
 - (23:00) Cienca de Datos y Lenguaje R 👉 [REGISTRO](https://www.eventbrite.com.ar/e/cienca-de-datos-y-lenguaje-r-tickets-120324075549?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
-- (02:00) Kotlin: El futuro del desarrollo móvil/Sesiones en vivo [REGISTRO](https://www.eventbrite.com.mx/e/kotlin-el-futuro-del-desarrollo-movilsesiones-en-vivo-tickets-117468666945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
+- (01:00) Digital Hub MTY 👉 [REGISTRO](https://www.eventbrite.com.mx/e/panel-adaptabilidad-al-cambio-tickets-120095391549?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
+- (02:00) Kotlin: El futuro del desarrollo móvil/Sesiones en vivo 👉 [REGISTRO](https://www.eventbrite.com.mx/e/kotlin-el-futuro-del-desarrollo-movilsesiones-en-vivo-tickets-117468666945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
 
 - [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -121,6 +127,8 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - Azure Live Latam 2020 👉 [REGISTRO](https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 - (20:00) Construyendo clusters de microservicios 👉 [REGISTRO](https://www.eventbrite.com/e/lets-kubernetes-registration-119712624683?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00) Contenedores en Azure 👉 [REGISTRO](https://www.eventbrite.com/e/contenedores-en-azure-tickets-121574465499?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (02:00) Introducción a Programación Reactiva con Java y Groovy 👉 [REGISTRO](https://www.eventbrite.com.mx/e/introduccion-a-programacion-reactiva-tickets-121118700293?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 27 de Septiembre
 
