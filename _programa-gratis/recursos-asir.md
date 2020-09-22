@@ -97,12 +97,4 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 
 
-
-> “ 💃 **POR CONSTRUIR… EN PROGRESO…**💃 ”
-
-> ❔ Artículos de Interés Complementarios ❔
-
-> ❔ Chuletas de Apoyo y Consulta ❔
-
-> ❔ Recursos de Diseño y del Diseñador Web ❔
-<!-- https://www.uax.es/fps -->
+![Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-asir.webp "Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")

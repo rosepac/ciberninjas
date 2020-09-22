@@ -125,3 +125,5 @@ Enlaces a recursos en DAW. (https://ciberninjas.com/recursos-daw/#8-empresa-e-in
 [▷ ¿Qué son los módulos profesionales de la formación profesional?](/fp-modulos-formacion-profesional/)
 
 [▷ ¿Qué es un curso de especialización en la formación profesional?](/fp-cursos-especializacion/)
+
+![Hoja de ruta de desarrollo de aplicaciones multiplataforma (DAM) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-dam.webp "Hoja de ruta de desarrollo de aplicaciones multiplataforma (DAM) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")

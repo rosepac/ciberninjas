@@ -186,3 +186,5 @@ Los contenidos relacionados al módulo de la seguridad informática Protección 
 [▷ ¿Qué son los módulos profesionales de la formación profesional?](/fp-modulos-formacion-profesional/)
 
 [▷ ¿Qué es un curso de especialización en la formación profesional?](/fp-cursos-especializacion/)
+
+![Hoja de ruta de sistemas microinformáticos y redes (SMR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-smr.webp "Hoja de ruta de sistemas microinformáticos y redes (SMR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
