@@ -35,6 +35,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/channel/UCQu6DwFarCIxha2BhTrRqUQ){:target="_blank" rel="nofollow, noreferrer"}
 - (15:00) Power BI - Decisiones Basadas en Datos 👉 [REGISTRO](https://www.eventbrite.com/e/entradas-power-bi-decisiones-basadas-en-datos-118694198543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (16:00) Red Hat Forum: Programas de innovación abierta en formato digital 👉 [REGISTRO](https://www.eventbrite.com.mx/e/red-hat-forum-tickets-120094547023){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00) Accesibilidad aplicada a tu Ecommerce 🎥 [´Directo](https://www.youtube.com/watch?v=lar56J5fH6Q){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00) KeepCoding: ChatOps con Mattermost para DevOps 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00) Fabricación 3D en FreeCAD con Cecilia Herbert 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
 
@@ -65,6 +66,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"}v
 
 - (14:30 H. ESP.) La Product Conf Madrid | Online Edition 🗞 [Registro](https://www.eventbrite.com/e/la-product-conf-madrid-online-edition-tickets-115347246720)
+- (15:00 H. ESP.) SemRUSH Day 👉 [REGISTRO](https://www.semrush.com/lp/semrushday-es/es/#registro){:target="_blank" rel="nofollow, noreferrer"} 📆 [Programa](https://www.semrush.com/lp/semrushday-es/es/#programa){:target="_blank" rel="nofollow, noreferrer"}
 - (18:00) Demo Day AI Saturdays Madrid 3ª ed 👉 [INFO.](https://www.eventbrite.es/e/entradas-demo-day-ai-saturdays-madrid-3a-ed-120947432025?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/c/SaturdaysAI/featured){:target="_blank" rel="nofollow, noreferrer"}
 - (18:00) Análisis de perfiles en texto y redes sociales 👉 [REGISTRO](https://www.eventbrite.co/e/analisis-de-perfiles-en-texto-y-redes-sociales-tickets-122136177595?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00) Webinar-Senati: Inicia tu carrera en TI con el Internet de las Cosas 👉 [REGISTRO](https://www.eventbrite.com.pe/e/webinar-senati-inicia-tu-carrera-en-ti-con-el-internet-de-las-cosas-tickets-117313908057?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
@@ -125,6 +127,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - PyConES 2020 (https://2020.es.pycon.org/){:target="_blank" rel="nofollow, noreferrer"}
 - Conferencia de Tecnología [vOpen 2020](https://bit.ly/vopentech){:target="_blank" rel="nofollow, noreferrer"}
+- (14:00) TotoConf 🎥 [DIRECTO](https://www.twitch.tv/totoconf_toitospower){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 6 de Octubre  <!-- omit in toc -->
 
@@ -137,6 +140,10 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 13 de Octubre  <!-- omit in toc -->
 
 - (19:00 PM) Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 17 de Octubre  <!-- omit in toc -->
+
+- PEUMConf 2020
 
 ### 🔔 20 de Octubre  <!-- omit in toc -->
 
