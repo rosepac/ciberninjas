@@ -87,4 +87,4 @@ El [foro de FreeCAD](http://forum.freecadweb.org/){:target="_blank" rel="nofollo
 
 > **Fuente**: [Free Cad un software libre para la creación de diseños y modelos 3D](https://freecadweb.org/ "Free Cad un software libre para la creación de diseños y modelos 3D"){:target="_blank" rel="nofollow,noreferrer"}
 
-![FreeCAD: un modelador paramétrico 3D multiplataforma gratuito y de código abierto](/assets/img/blog/freecad.webp "FreeCAD: un modelador paramétrico 3D multiplataforma gratuito y de código abierto")
+![FreeCAD: un modelador paramétrico 3D multiplataforma gratuito y de código abierto](/assets/img/blog/freecad-logo.webp "FreeCAD: un modelador paramétrico 3D multiplataforma gratuito y de código abierto")
