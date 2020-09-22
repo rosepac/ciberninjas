@@ -14,9 +14,9 @@ excerpt: >-
   GitHub CLI trae GitHub a su terminal, te ayuda a concentrarse y tee permite crear scripts y crear tus propios flujos de trabajo con mayor facilidad.
 canonical_URL: https://ciberninjas.com/github-cli-1-0/
 permalink: /github-cli-1-0/
-date: 2020-09-18 07:38:32
+date: 2020-09-22 13:38:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
