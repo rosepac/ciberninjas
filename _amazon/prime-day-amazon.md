@@ -10,7 +10,7 @@ permalink: /prime-day-amazon/
 canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
 comments: false
-date: 2020-09-01 10:30:00 +0200
+date: 2020-09-22 10:30:00 +0200
 thumbnail: /assets/img/amazon/amazon-prime-day.gif
 feature-img: /assets/img/amazon/ciberninjas-prime-day.webp
 img: /assets/img/amazon/amazon-prime-day.gif
@@ -33,6 +33,31 @@ img: /assets/img/amazon/amazon-prime-day.gif
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
 
 > [¡Sigue las Mejores Ofertas Flash!](https://kutt.it/ciberninjast)  
+
+- [**Ofertas de Componentes de Ordenador**](#ofertas-de-componentes-de-ordenador)
+- [Ofertas de Dispositivo de Diseño Gráfico](#ofertas-de-dispositivo-de-diseño-gráfico)
+- [Ofertas de Auriculares y Otros Dispositivos de Sonido](#ofertas-de-auriculares-y-otros-dispositivos-de-sonido)
+- [Ofertas de Apple](#ofertas-de-apple)
+- [Ofertas de Dispositivos de Amazon](#ofertas-de-dispositivos-de-amazon)
+- [Ofertas de Robótica](#ofertas-de-robótica)
+- [Ofertas de Dispositivos Inteligentes o Smart Home](#ofertas-de-dispositivos-inteligentes-o-smart-home)
+- [Ofertas de Portátiles / Laptops](#ofertas-de-portátiles--laptops)
+- [Ofertas en Tablets](#ofertas-en-tablets)
+- [Ofertas de Videojuegos](#ofertas-de-videojuegos)
+- [Otras Ofertas](#otras-ofertas)
+- [Ofertas de Smartwarches](#ofertas-de-smartwarches)
+- [Cheques de Regalo](#cheques-de-regalo)
+- [Mejores Ofertas para Lectores](#mejores-ofertas-para-lectores)
+  - [Kindle](#kindle)
+  - [Kindle Unlimited](#kindle-unlimited)
+- [Preguntas y Respuestas](#preguntas-y-respuestas)
+  - [Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?](#si-no-soy-miembro-prime-puedo-comprar-ofertas-en-prime-day)
+  - [¿Qué servicios interesantes ofrece Amazon?](#qué-servicios-interesantes-ofrece-amazon)
+  - [¿Amazon ofrece ajustes de precios de Prime Day?](#amazon-ofrece-ajustes-de-precios-de-prime-day)
+  - [¿Qué países participarán en Amazon Prime Day 2020?](#qué-países-participarán-en-amazon-prime-day-2020)
+  - [¿Cómo puedo evitar ofertas falsas en Prime Day?](#cómo-puedo-evitar-ofertas-falsas-en-prime-day)
+  - [¿De qué otra manera puedo ahorrar dinero en Prime Day?](#de-qué-otra-manera-puedo-ahorrar-dinero-en-prime-day)
+- [Sobre los enlaces](#sobre-los-enlaces)
 
 ## **Ofertas de Componentes de Ordenador**
 
