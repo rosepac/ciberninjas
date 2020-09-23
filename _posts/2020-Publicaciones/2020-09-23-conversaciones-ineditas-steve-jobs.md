@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Historia de las Computadoras
 thumbnail: /assets/img/blog/23-steve-jobs-80.webp
 feature-img: /assets/img/blog/23-steve-jobs-80.webp
 title: '▷ Nuevas grabaciones inédidas de Steve Jobs en los años 80, ven la luz ahora'
