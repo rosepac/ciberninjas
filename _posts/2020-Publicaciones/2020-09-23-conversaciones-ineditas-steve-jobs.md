@@ -7,7 +7,7 @@ tags:
 - Historia de las Computadoras
 thumbnail: /assets/img/blog/23-steve-jobs-80.webp
 feature-img: /assets/img/blog/23-steve-jobs-80.webp
-title: '▷ Nuevas grabaciones inédidas de Steve Jobs en los años 80, ven la luz ahora'
+title: '▷ Nuevas grabaciones inéditas de Steve Jobs en los años 80, ven la luz ahora'
 description: >-
   Steve Jobs ahora es conocido por revolucionar casi todas las partes del mundo de la tecnología, pero en 1988, quizás era más conocido por ser despedido.
 excerpt: >-
