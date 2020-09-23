@@ -7,8 +7,8 @@ tags:
 - Lenguajes de Programación
 - Swift
 - Windows
-thumbnail: /assets/img/blog/23-swift-windows.webp
-feature-img: /assets/img/blog/23-swift-windows.webp
+thumbnail: /assets/img/blog/swift-windows.webp
+feature-img: /assets/img/blog/swift-windows.webp
 title: '▷ Apple presenta la versión de Swift para Windows'
 description: >-
   ¡El proyecto Swift presenta nuevas imágenes descargables de la cadena de herramientas Swift para Windows! Estas imágenes contienen componentes de desarrollo necesarios para construir y ejecutar código Swift en Windows.
@@ -46,10 +46,10 @@ Si quieres visualizar un posible ejemplo, el propio equipo de Swift ha creado [u
 
 [▷ Swift: Nueva versión Beta 5.2](https://ciberninjas.com/swift-version-beta-5-2/)
 
-[‍Aprende a Programar Swift - Programación iOS](‍ Aprende a Programar Swift - Programación iOS)
+[‍▷ Aprende a Programar Swift - Programación iOS](https://ciberninjas.com/catalogo/aprende-a-programar-swift-programacion-ios/‍)
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial de los mantenedores del lenguaje Swift de Apple](https://swift.org/blog/swift-on-windows/ "Blog oficial de los mantenedores del lenguaje Swift de Apple"){:target="_blank" rel="nofollow,noreferrer"}
 
-![Apple presenta la versión de Swift para Windows](/assets/img/blog/23-swift-windows.webp "Apple presenta la versión de Swift para Windows")
+![Apple presenta la versión de Swift para Windows](/assets/img/blog/swift-windows.webp "Apple presenta la versión de Swift para Windows")
