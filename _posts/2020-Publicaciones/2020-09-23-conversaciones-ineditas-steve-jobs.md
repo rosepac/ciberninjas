@@ -38,7 +38,11 @@ Lea la historia completa en ["The Powersharing Series" en Fast Company](https://
 
 ### **Relacionados** <!-- omit in toc -->
 
+[Personajes Históricos en la Historia de las Computadoras](https://ciberninjas.com/personajes-historicos/)
+
 [Steve Wozniak](https://ciberninjas.com/personajes-historicos/steve-wozniak/)
+
+[🥇 ▷ La Historia de los Ordenadores](https://ciberninjas.com/cronograma/)
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

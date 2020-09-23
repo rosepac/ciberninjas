@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Historia de la Programación
+- Historia de las Computadoras
 thumbnail: /assets/img/blog/frances-allen.webp
 feature-img: /assets/img/blog/frances-allen.webp
 title: '▷ Muere Frances Allen, la científica informática reconocida por su trabajo en el campo de la compilación'
