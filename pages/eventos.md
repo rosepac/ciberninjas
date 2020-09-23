@@ -112,6 +112,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 ### 🔔 29 de Septiembre  <!-- omit in toc -->
 
+- (12:00 hasta 20:30 PM) Congreso de Marketing Digital - [Registro](https://www.marketingandweb.es/congreso-marketing-digital/evento/){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00 PM) Construyendo AI sin sesgos de género - [Registro](https://events.codemotion.com/webinars/memoirs-of-a-geisha-construyendo-ai-sin-sesgos-de-gnero/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 30 de Septiembre  <!-- omit in toc -->
