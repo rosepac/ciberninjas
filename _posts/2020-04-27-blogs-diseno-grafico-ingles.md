@@ -30,8 +30,7 @@ Los diseñadores encuentran la inspiración por todas partes. Cuando están fuer
 Aquí está la lista de los mejores blogs de diseño, a seguir y visitar asiduamente para el 2020.
 <div id="menu"></div>
 
-## Índice
-- [Índice](#índice)
+## **Índice** <!-- omit in toc -->
 - [1. **Smashing Magazine**](#1-smashing-magazine)
 - [2. **UXbooth**](#2-uxbooth)
 - [3. **UX Magazine**](#3-ux-magazine)
