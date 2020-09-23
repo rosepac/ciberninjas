@@ -6,14 +6,14 @@ comments: false
 title: '▷ El mejor software de seguridad para tu PC en 2020'
 published: true
 tags:
-- Ciberseguridad
+- Seguridad
 - VPN
 - Malware
 - Firewall
 - Router
 description: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
 excerpt: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
-date: 2020-01-17 09:30:12
+date: 2020-08-20 09:30:12
 last_modified_at: 
 permalink: /el-mejor-software-seguridad-2020/
 canonical_URL: https://ciberninjas.com/el-mejor-software-seguridad-2020/

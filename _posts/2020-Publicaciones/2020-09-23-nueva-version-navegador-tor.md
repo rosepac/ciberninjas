@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Navegador
+- Navegadores
 - Seguridad
 thumbnail: /assets/img/blog/23-navegador-tor.webp
 feature-img: /assets/img/blog/23-navegador-tor.webp
