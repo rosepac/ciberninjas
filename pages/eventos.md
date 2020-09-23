@@ -30,15 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Septiembre**
 
-### 🔔 22 de Septiembre <!-- omit in toc -->
-
-- Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/channel/UCQu6DwFarCIxha2BhTrRqUQ){:target="_blank" rel="nofollow, noreferrer"}
-- (15:00) Power BI - Decisiones Basadas en Datos 👉 [REGISTRO](https://www.eventbrite.com/e/entradas-power-bi-decisiones-basadas-en-datos-118694198543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00) Red Hat Forum: Programas de innovación abierta en formato digital 👉 [REGISTRO](https://www.eventbrite.com.mx/e/red-hat-forum-tickets-120094547023){:target="_blank" rel="nofollow, noreferrer"}
-- (19:00) Accesibilidad aplicada a tu Ecommerce 🎥 [´Directo](https://www.youtube.com/watch?v=lar56J5fH6Q){:target="_blank" rel="nofollow, noreferrer"}
-- (19:00) KeepCoding: ChatOps con Mattermost para DevOps 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00) Fabricación 3D en FreeCAD con Cecilia Herbert 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 23 de Septiembre  <!-- omit in toc -->
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
@@ -57,7 +48,6 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (18:30) ¿Trabajar en ciberseguridad, yo? ¡Pero si no soy hacker! 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-trabajar-en-ciberseguridad-yo-pero-si-no-soy-hacker-120367124309?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00) Primavera UX UI: Diseño UX. Conociendo al usuario 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
 - (00:00) DevAttack2020: Construye, desarrolla, explora con IBM 👉 [REGISTRO](https://www.eventbrite.com.pe/e/devattack2020-tickets-119929170377?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24) - Tecnología nativa en nube, despliegue de una API.
-- (00:00) Trabaja seguro con HP 👉 [REGISTRO](https://www.eventbrite.es/e/22-de-septiembre-trabaja-seguro-con-hp-v-tickets-121234462541?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
 - (02:30) Meetup #30: ¿Cómo crear una suscripción tipo Netflix con WooCommerce? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-30-como-crear-una-suscripcion-tipo-netflix-con-woocommerce-registration-121387650731){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
 
 ### 🔔 24 de Septiembre  <!-- omit in toc -->
@@ -889,3 +879,12 @@ GNOME: La Experiencia de Escritorio Ético y Elegante
 
 10 H.: Taller, Aprende API Testing jugando con SoapUI - Leonardo Espindola
 12 H.: CIERRE DEL MEGA TESTING WEEK 2020
+
+### 🔔 22 de Septiembre <!-- omit in toc -->
+
+- Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/channel/UCQu6DwFarCIxha2BhTrRqUQ){:target="_blank" rel="nofollow, noreferrer"}
+- (15:00) Power BI - Decisiones Basadas en Datos 👉 [REGISTRO](https://www.eventbrite.com/e/entradas-power-bi-decisiones-basadas-en-datos-118694198543?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00) Red Hat Forum: Programas de innovación abierta en formato digital 👉 [REGISTRO](https://www.eventbrite.com.mx/e/red-hat-forum-tickets-120094547023){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00) Accesibilidad aplicada a tu Ecommerce 🎥 [´Directo](https://www.youtube.com/watch?v=lar56J5fH6Q){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00) KeepCoding: ChatOps con Mattermost para DevOps 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00) Fabricación 3D en FreeCAD con Cecilia Herbert 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
