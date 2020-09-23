@@ -16,7 +16,7 @@ canonical_URL: https://ciberninjas.com/core-plataforma/
 permalink: /core-plataforma/
 date: 2020-09-23 08:24:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
