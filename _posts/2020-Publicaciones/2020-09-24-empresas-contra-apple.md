@@ -4,7 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Actualidad
+- Guerra de Programación
 thumbnail: /assets/img/blog/24-apple-guerra.webp
 feature-img: /assets/img/blog/24-apple-guerra.webp
 title: '▷ Spotify, Epic, Tile, Match y más. Están uniendo a los desarrolladores contra las políticas de la App Store de Apple.'
