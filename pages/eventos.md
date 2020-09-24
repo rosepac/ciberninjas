@@ -30,26 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Septiembre**
 
-### 🔔 23 de Septiembre  <!-- omit in toc -->
-
-- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
-- Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"}
-
-- (13:00 H. Esp.) Neo4j y Data Governance - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (13:00) Resolución eficiente del problema del viajante basada en callbacks 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-resolucion-eficiente-del-problema-del-viajante-basada-en-callbacks-118429729509?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (16:00 PM) Cómo desarrollar tus primeras Aplicaciones cloud nativas con Java - [Registro](https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/){:target="_blank" rel="nofollow, noreferrer"}
-
-Para aplicaciones nativas de la nube, Kubernetes e Istio proporcionan funcionalidades clave para microservicios independientes de su lenguaje de programación y sin cambios en su aplicación lógica. Sin embargo, algunas funcionalidades deben manejarse en la lógica empresarial de los microservicios, ej. funcionalidad de gestión de errores específica de la aplicación, métricas y gestión de permisos.
-En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse MicroProfile y cómo ejecutarlos en Kubernetes e Istio. Utilizaremos nuestro ejemplo de Cloud Native Starter disponible en Github.
-
-- (17:00) Cómo crear informes en Data Studio con tus métricas sociales 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-como-crear-informes-en-data-studio-con-tus-metricas-sociales-118280707781?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (18:00) Mujeres STEM: Industria 4.0 y Transformación Digital 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-mujeres-stem-industria-40-y-transformacion-digital-120348994081?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (18:30) ¿Trabajar en ciberseguridad, yo? ¡Pero si no soy hacker! 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-trabajar-en-ciberseguridad-yo-pero-si-no-soy-hacker-120367124309?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00) Primavera UX UI: Diseño UX. Conociendo al usuario 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
-- (00:00) DevAttack2020: Construye, desarrolla, explora con IBM 👉 [REGISTRO](https://www.eventbrite.com.pe/e/devattack2020-tickets-119929170377?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24) - Tecnología nativa en nube, despliegue de una API.
-- (02:30) Meetup #30: ¿Cómo crear una suscripción tipo Netflix con WooCommerce? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-30-como-crear-una-suscripcion-tipo-netflix-con-woocommerce-registration-121387650731){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
-
 ### 🔔 24 de Septiembre  <!-- omit in toc -->
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
@@ -64,6 +44,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (20:00) Webinar: Chatbot, Buscador, Gestión de Tickets ¿Qué va primero? 👉 [REGISTRO](https://www.eventbrite.com/e/webinar-chatbot-buscador-gestion-de-tickets-que-va-primero-registration-121606465211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.youtube.com/c/InbentaTechnologies/featured){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00 H. ESP. - 16:00 H. Ciudad de México) Tu personal Branding y la Nueva Normalidad 🗞 [Registro](https://www.eventbrite.com.mx/e/tu-personal-branding-y-la-nueva-normalidad-tickets-117309725547?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - (00:00) DevAttack2020: Construye, desarrolla, explora con IBM 👉 [REGISTRO](https://www.eventbrite.com.pe/e/devattack2020-tickets-119929170377?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 24 al 25) - Creación y despliegue de un modelo de machine learning, crea tu propio asistente virtual con AutoAI.
+- (04:00) Desarrollo de Software a la Medida vs Software como Servicio 🎥 [DIRECTO](https://www.youtube.com/watch?v=kYVpEH1EugY)
 
 - Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -888,3 +869,23 @@ GNOME: La Experiencia de Escritorio Ético y Elegante
 - (19:00) Accesibilidad aplicada a tu Ecommerce 🎥 [´Directo](https://www.youtube.com/watch?v=lar56J5fH6Q){:target="_blank" rel="nofollow, noreferrer"}
 - (19:00) KeepCoding: ChatOps con Mattermost para DevOps 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
 - (23:00) Fabricación 3D en FreeCAD con Cecilia Herbert 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-webinar-chatops-con-mattermost-para-devops-119585995933){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 23 de Septiembre  <!-- omit in toc -->
+
+- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+- Infosecurity Mexico 2020 👉 [REGISTRO](https://communication.ecse.mx/es-mx/ecsevirtual-3?utm_campaign=INFOSEC&utm_source=recuperado%20de%20enlace%20roto){:target="_blank" rel="nofollow, noreferrer"} 📆 [AGENDA](https://www.infosecuritymexico.com/es/eventos-virtuales/agenda.html#/sessions){:target="_blank" rel="nofollow, noreferrer"}
+
+- (13:00 H. Esp.) Neo4j y Data Governance - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (13:00) Resolución eficiente del problema del viajante basada en callbacks 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-resolucion-eficiente-del-problema-del-viajante-basada-en-callbacks-118429729509?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (16:00 PM) Cómo desarrollar tus primeras Aplicaciones cloud nativas con Java - [Registro](https://events.codemotion.com/webinars/cmo-desarrollar-tus-primeras-aplicaciones-cloud-nativas-con-java-1/){:target="_blank" rel="nofollow, noreferrer"}
+
+Para aplicaciones nativas de la nube, Kubernetes e Istio proporcionan funcionalidades clave para microservicios independientes de su lenguaje de programación y sin cambios en su aplicación lógica. Sin embargo, algunas funcionalidades deben manejarse en la lógica empresarial de los microservicios, ej. funcionalidad de gestión de errores específica de la aplicación, métricas y gestión de permisos.
+En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse MicroProfile y cómo ejecutarlos en Kubernetes e Istio. Utilizaremos nuestro ejemplo de Cloud Native Starter disponible en Github.
+
+- (17:00) Cómo crear informes en Data Studio con tus métricas sociales 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-como-crear-informes-en-data-studio-con-tus-metricas-sociales-118280707781?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (18:00) Mujeres STEM: Industria 4.0 y Transformación Digital 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-mujeres-stem-industria-40-y-transformacion-digital-120348994081?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (18:30) ¿Trabajar en ciberseguridad, yo? ¡Pero si no soy hacker! 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-trabajar-en-ciberseguridad-yo-pero-si-no-soy-hacker-120367124309?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (23:00) Primavera UX UI: Diseño UX. Conociendo al usuario 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00) DevAttack2020: Construye, desarrolla, explora con IBM 👉 [REGISTRO](https://www.eventbrite.com.pe/e/devattack2020-tickets-119929170377?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24) - Tecnología nativa en nube, despliegue de una API.
+- (02:30) Meetup #30: ¿Cómo crear una suscripción tipo Netflix con WooCommerce? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/meetup-30-como-crear-una-suscripcion-tipo-netflix-con-woocommerce-registration-121387650731){:target="_blank" rel="nofollow, noreferrer"} (Noche 23 al 24)
