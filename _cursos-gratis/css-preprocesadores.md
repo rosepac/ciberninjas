@@ -18,13 +18,14 @@ img: "/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp"
 
 ---
 
+A continuación vas a encontrar los mejores cursos 
 ## Lenguajes de Estilos y Preprocesadores 🎨
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
 
-### CSS <i class="fa fa-css3" aria-hidden="true"></i>
+## **Lenguaje de estilos CSS** <i class="fa fa-css3" aria-hidden="true"></i>
 
-- [Aprende CSS para dar estilo a tus páginas web](https://www.udemy.com/aprende-css-para-dar-estilo-a-tus-paginas-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Aprende las bases del CSS](https://www.udemy.com/curso-basico-de-css){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Aprende CSS para dar estilo a tus páginas web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-css-para-dar-estilo-a-tus-paginas-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Aprende las bases del CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-basico-de-css%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Como crear galerías sencillas y varios efectos en CSS Purito Código](/👨‍🏫-galerias-varios-efectos-css-purito-codigo) (Purito Código, Youtube)
 - [Curso básico de CSS desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
 - [Curso CSS Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpUDdnWSglIIHfIosElaVN) (Pildoras Informáticas, Youtube)
@@ -36,8 +37,8 @@ img: "/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp"
 ### Flexbox
 
 - [Flexbox - Armar un sitio web responsive con CSS3](https://www.youtube.com/playlist?list=PLPl81lqbj-4JfZ9Ln5ojAl1GiORf2aK9U){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
-- [Flexbox desde 0](https://www.udemy.com/curso-de-flexbox-desde-0){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Flexbox y CSS3](https://www.udemy.com/css3-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Flexbox desde 0](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-flexbox-desde-0%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [CSS Básico + Introduccion a Flexbox](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcss-basico-css-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ## LESS
 
