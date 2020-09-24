@@ -9,7 +9,7 @@ tags: [Cursos Gratis, Programación Web]
 title: "▷ 22 Mejores cursos gratis de programación web y móvil"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre programación web y móvil, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programación web y móvil, desde cero hasta nivel experto"
-date: 2020-08-21T10:22:00.000+02:00
+date: 2020-09-24T10:22:00.000+02:00
 permalink: /cursos-programacion-web-movil/
 canonical_URL: https://ciberninjas.com/cursos-programacion-web-movil/
 thumbnail: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
@@ -134,6 +134,7 @@ Ciberninjas es un gran lugar para descubrir los mejores tutoriales de Cordova. S
 
 - [Aprender React JS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprendiendo-react%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Fundamentos de React](https://www.youtube.com/playlist?list=PLpOqH6AE0tNg-6kaolSnySpJ0vxk3Xhoo){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2019)
+- [React desde Cero: De Cero a Experto, de HolaMundo](https://www.youtube.com/embed/videoseries?list=PLSnadb41DsdKJQjAz4mVJjpbXbkciJ8sq){:target="_blank" rel="nofollow,noreferrer"} (HolaMundo, Youtube)
 - [React Hooks: Guia inicial utilizando Redux y Material.UI](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-hooks-guia-inicial-utilizando-redux-y-materialui%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [React JS - Curso de introducción desde cero y primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-curso-de-introduccion-desde-cero-y-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-inicia-en-el-mundo-de-los-frameworks-de-javascript%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
