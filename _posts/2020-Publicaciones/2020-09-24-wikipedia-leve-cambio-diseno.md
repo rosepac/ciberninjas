@@ -4,9 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
-thumbnail: /assets/img/blog/.webp
-feature-img: /assets/img/blog/.webp
+- Actualidad
+- Wikipedia
+thumbnail: /assets/img/blog/24-wikipedia-colores.webp
+feature-img: /assets/img/blog/24-wikipedia-colores.webp
 title: '▷ Wikipedia está teniendo su primer rediseño de escritorio en 10 años'
 description: >-
   El aspecto general de Wikipedia se está renovando por primera vez en 10 años, buscando que el sitio sea más accesible para los nuevos usuarios.
@@ -14,7 +15,7 @@ excerpt: >-
   El aspecto general de Wikipedia se está renovando por primera vez en 10 años, buscando que el sitio sea más accesible para los nuevos usuarios.
 canonical_URL: https://ciberninjas.com/wikipedia-leve-cambio-diseno/
 permalink: /wikipedia-leve-cambio-diseno/
-date: 2020-09-24 11:25:32
+date: 2020-09-24 14:25:32
 last_modified_at: 
 published: true
 
@@ -50,4 +51,4 @@ Notificando que planea rediseñar el aspecto de la versión de escritorio, por c
 
 > **Fuente**: [Wikimedia](https://diff.wikimedia.org/2020/09/23/wikipedia-is-getting-a-new-look-for-the-first-time-in-10-years-heres-why/){:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/.webp "")
+![Wikipedia está teniendo su primer rediseño de escritorio en 10 años](/assets/img/blog/24-wikipedia-colores.webp "Wikipedia está teniendo su primer rediseño de escritorio en 10 años")
