@@ -157,8 +157,8 @@ Cuando se lance en noviembre, Black Ops Cold War estará disponible en las conso
 
 ### ¿Dónde comprar Assasin´s Creed: Valhalla para PlayStation 5?
 
-[🔥 COMPRA Assasin´s Creed: Valhalla 🎁 para PlayStation 5](https://amzn.to/2FNoStE){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRA Assasin´s Creed: Valhalla Versión ORO 🎁 para PlayStation 5](https://amzn.to/35PWv8O){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRA Assasin´s Creed: Valhalla 🎁 para PlayStation 5](https://amzn.to/2FNoStE){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRA Assasin´s Creed: Valhalla Versión ORO 🎁 para PlayStation 5](https://amzn.to/35PWv8O){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08FC1R8C9&linkId=aadfe045e0fae77d57df0648ea16be9b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08G91DBJX&linkId=63cbc215ccae815fdc4d6d8b50c4b0b4"></iframe>
 
@@ -208,8 +208,8 @@ Far Cry 6 tiene lugar en un "paraíso tropical congelado en el tiempo" llamado Y
 
 ### ¿Dónde comprar Far Cry 6 para PlayStation 5?
 
-[🔥 COMPRAR Far Cry 6 para PS5 🎁 Edición Limitada](https://amzn.to/32LweXq){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRAR Far Cry 6 para PS5 🎁 Edición Oro](https://amzn.to/3kz8FY0){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Far Cry 6 para PS5 🎁 Edición Limitada](https://amzn.to/32LweXq){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Far Cry 6 para PS5 🎁 Edición Oro](https://amzn.to/3kz8FY0){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08FC4PHL9&linkId=73f12b2dd1dc68f404871412eeba41c9"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08FTQ9N3D&linkId=19a3b2ceebb6463ac87beb2b4967760e"></iframe>
 
@@ -227,7 +227,7 @@ Fortnite se confirmó para PS5 en mayo de 2020. Llegará en el lanzamiento y los
 
 ### ¿Dónde comprar Fortnite Lote: La última risa para PlayStation 5?
 
-[🔥 COMPRAR Fortnite Lote: La última risa para PS5 🎁 Edición Limitada](https://amzn.to/3iT3YYI){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Fortnite Lote: La última risa para PS5 🎁 Edición Limitada](https://amzn.to/3iT3YYI){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08H9CMTDL&linkId=88636206fcd69b517bded4492773648c"></iframe>
 
@@ -285,8 +285,8 @@ Si bien Immortals tiene una fecha de lanzamiento para PS4, Xbox One y PC (3 de d
 
 ### ¿Dónde comprar Immortals Fenyx Rising para PlayStation 5?
 
-[🔥 COMPRAR Immortals Fenyx Rising para PS5 🎁 Edición Limitada](https://amzn.to/3kz8xI0){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRAR Immortals Fenyx Rising para PS5 🎁 Edición Oro](https://amzn.to/3kAEAYa){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Immortals Fenyx Rising para PS5 🎁 Edición Limitada](https://amzn.to/3kz8xI0){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Immortals Fenyx Rising para PS5 🎁 Edición Oro](https://amzn.to/3kAEAYa){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08HP3JHZ7&linkId=dc37fcb4bc5f83e9aa0145dd9e33c731"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08HZG4NSW&linkId=cc1cf8bdae673b30cc52a5dfe5243162"></iframe>
 
@@ -300,7 +300,7 @@ La última entrada de la serie Just Dance se abrirá paso en boogie hacia PS5. C
 
 ### ¿Dónde comprar Just Dance 2021 para PlayStation 5?
 
-[🔥 COMPRAR Just Dance 2021 para PS5 🎁 Edición Limitada](https://amzn.to/3cg6lCn){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Just Dance 2021 para PS5 🎁 Edición Limitada](https://amzn.to/3cg6lCn){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08H9J12L5&linkId=a4ab95891f77c8ea41b5faf0297e30b3"></iframe>
 
@@ -344,7 +344,7 @@ El tráiler de NBA 2K21 para PS5 no contiene fanáticos que lo animen, por lo qu
 
 ### ¿Dónde comprar NBA 2K21 para PlayStation 5?
 
-[🔥 COMPRAR NBA 2K21 para PS5 🎁 Edición Limitada](https://amzn.to/2ZVbPgJ){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR NBA 2K21 para PS5 🎁 Edición Limitada](https://amzn.to/2ZVbPgJ){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08CBXXM57&linkId=5a5d34734009242201a51c86bc830024"></iframe>
 
@@ -357,7 +357,7 @@ La edición especial Mamba Forever del juego más impactante de la NBA este año
 
 ### ¿Dónde comprar NBA 2K21 - Mamba Forever para PlayStation 5?
 
-[🔥 COMPRAR NBA 2K21 - Mamba Forever para PS5 🎁 Edición Especial](https://amzn.to/2ZOGGeQ){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR NBA 2K21 - Mamba Forever para PS5 🎁 Edición Especial](https://amzn.to/2ZOGGeQ){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08CBTSCL6&linkId=01d799cb57ad8cac09daeae01040e888"></iframe>
 
@@ -431,7 +431,7 @@ La próxima entrada de la trepidante serie de carreras de motos llegará a PS5 y
 
 ### ¿Dónde comprar Ride 4 para PlayStation 5?
 
-[🔥 COMPRAR Ride 4 para PS5 🎁 Edición Limitada](https://amzn.to/3mKiynJ){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Ride 4 para PS5 🎁 Edición Limitada](https://amzn.to/3mKiynJ){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08HZTZFFB&linkId=33266b3fb14944912b3b8327e41dc16e"></iframe>
 
@@ -511,8 +511,8 @@ Anunciado por primera vez en el E3 2019,  Watch Dogs Legion  se confirmó inicia
 
 En los siguientes enlaces puedes encontrar los videojuegos de PS5 en preventa.
 
-[🔥 COMPRA WATCH DOGS para PS5 🎁 Edición Limitada](https://amzn.to/2Hhpjgp){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRA WATCH DOGS para PS5 🎁 Edición Oro](https://amzn.to/3mAzAV2){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRA WATCH DOGS para PS5 🎁 Edición Limitada](https://amzn.to/2Hhpjgp){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRA WATCH DOGS para PS5 🎁 Edición Oro](https://amzn.to/3mAzAV2){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08FC1S9YB&linkId=4912121726cfa4150c8179984ae4094c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08G91JJH4&linkId=0909b5c83c498743ae088e8cbc06472e"></iframe>
 
@@ -530,7 +530,7 @@ Según el sitio web del juego, WRC 9 contará con rallies en Kenia, Nueva Zeland
 
 ### ¿Dónde comprar WRC 9 para PlayStation 5?
 
-[🔥 COMPRAR WRC 9 para PS5 🎁 Edición Limitada](https://amzn.to/3chdmCP){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR WRC 9 para PS5 🎁 Edición Limitada](https://amzn.to/3chdmCP){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08GTBWMXJ&linkId=568479323af162e2ef96465aa0817516"></iframe>
 

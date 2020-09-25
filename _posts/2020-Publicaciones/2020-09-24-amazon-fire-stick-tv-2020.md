@@ -32,7 +32,7 @@ También apoyará los perfiles de usuario introducidos recientemente para hasta 
 
 La navegación de Fire TV también se ha simplificado. Atrás quedó la larga fila de pestañas en la parte superior de la pantalla para hacer clic. En cambio, la navegación se ha desplazado hacia abajo en la página junto al ícono de su perfil y ahora incluye pestañas para Inicio, Buscar, En vivo y Biblioteca, junto con una fila de sus aplicaciones favoritas.
 
-[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Mientras tanto, la parte superior de la pantalla se ha liberado para mostrar mejor un gran anuncio del contenido propio de Amazon o de otras propiedades. Esta es una opción de diseño comprensible, ya que le da a Amazon la capacidad de promocionar sus propios programas, pero también ocupa una gran parte de la pantalla para lo que puede parecer un anuncio para algunos clientes.
 
@@ -44,7 +44,7 @@ Pero la noticia más importante es cómo Amazon ve el Fire TV como un dispositiv
 
 "La gente ha estado viendo más y más televisión en casa a través de dispositivos como Fire TV y hoy hemos vendido más de 100 millones de ellos en vivo", dijo Marc Whitten, vicepresidente de dispositivos y servicios de entretenimiento de Amazon.
 
-[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 “Ven miles de millones de horas de entretenimiento al mes. Y también los han estado usando para cosas nuevas, cosas diferentes que no tenían antes ”, agregó.
 
@@ -62,7 +62,7 @@ El Fire TV Stick es uno de los más vendidos de Amazon y el primer producto en t
 
 El Fire TV Stick actualizado se ha actualizado con un procesador un 50% más potente y es compatible con HDR y con Dolby Atmos para transmisión en alta definición.
 
-[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Pero usará un 50% menos de energía que su predecesor, dice Amazon. Continuará enviándose con el control remoto Alexa, que incluye botones dedicados de volumen, encendido y silencio que pueden controlar su televisor, barra de sonido y equipo AV. El dispositivo se lanzará más adelante en el año por $ 39.99.
 
@@ -107,7 +107,7 @@ Gracias a su diseño compacto, se conecta directamente a un puerto HDMI y queda 
 
 El Fire TV aprende continuamente con nuevas Skills de Alexa y funcionalidades de voz. Mira el vídeo en directo de tus cámaras, consulta la previsión del tiempo y escucha música en streaming. Más información sobre dispositivos de Hogar digital compatibles.
 
-[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cuáles son las características técnicas de Fire Stick TV?**
 
@@ -146,7 +146,7 @@ Mando por Voz Alexa de 2ª Generación
 | ------------------ | ------------------------------------------------------------ |
 | **Compatibilidad** | Fire TV Stick (2.ª generación), Fire TV Cube (2.ª generación), Fire TV Cube (1.ª generación), Fire TV (3.ª generación, diseño colgante), Fire TV Stick 4K |
 
-[🔥 Reserva YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Reserva YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué características ofrece Fire Stick TV?**
 
@@ -169,7 +169,7 @@ Mando por Voz Alexa de 2ª Generación
 - Escucha música: reproduce música en streaming con Amazon Music, Spotify y más. Pueden aplicarse cargos de suscripción.
 - Fácil de configurar y discreto: conéctalo a la parte trasera del TV, enciende el TV y conéctate a Internet para configurarlo.
 
-[RESERVA en PREVENTA YA el Fire Stick TV LITE](https://amzn.to/33Yuvxo "Compra ya el nuevo fire stick tv LITE 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[RESERVA en PREVENTA YA el Fire Stick TV LITE](https://amzn.to/33Yuvxo "Compra ya el nuevo fire stick tv LITE 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 

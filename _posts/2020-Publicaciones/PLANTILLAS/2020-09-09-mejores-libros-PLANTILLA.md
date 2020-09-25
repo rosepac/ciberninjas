@@ -41,7 +41,7 @@ INTRODUCCION
 
 
 
-[🔥 COMPRAR el libro TITULO LIBRO 1]( "Comprar el libro TITULO LIBRO 1"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro TITULO LIBRO 1]( "Comprar el libro TITULO LIBRO 1"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **TITULO LIBRO 2**
 
@@ -51,7 +51,7 @@ INTRODUCCION
 
 
 
-[🔥 COMPRAR el libro TITULO LIBRO 2]( "Comprar el libro TITULO LIBRO 2"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro TITULO LIBRO 2]( "Comprar el libro TITULO LIBRO 2"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **TITULO LIBRO 3**
 
@@ -61,7 +61,7 @@ INTRODUCCION
 
 
 
-[🔥 COMPRAR el libro TITULO LIBRO 3]( "Comprar el libro TITULO LIBRO 3"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro TITULO LIBRO 3]( "Comprar el libro TITULO LIBRO 3"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **TITULO LIBRO 4**
 
@@ -71,7 +71,7 @@ INTRODUCCION
 
 
 
-[🔥 COMPRAR el libro TITULO LIBRO 4]( "Comprar el libro TITULO LIBRO 4"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro TITULO LIBRO 4]( "Comprar el libro TITULO LIBRO 4"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **TITULO LIBRO 5**
 
@@ -81,7 +81,7 @@ INTRODUCCION
 
 
 
-[🔥 COMPRAR el libro TITULO LIBRO 5]( "Comprar el libro TITULO LIBRO 5"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro TITULO LIBRO 5]( "Comprar el libro TITULO LIBRO 5"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- CONCLUSION FINAL o parrafo de cierra, finalizacion -->
 

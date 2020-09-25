@@ -48,7 +48,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/L57nRkP){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.redbubble.com/people/ciberninjas/shop){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.redbubble.com/people/ciberninjas/shop){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas](/assets/img/flutter/flutter-wallpaper-collage.webp "Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas")
 
@@ -72,7 +72,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/R07jv1R){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.redbubble.com/people/ciberninjas/shop){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.redbubble.com/people/ciberninjas/shop){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Logo más dibujos de diseños de prototipado de aplicaciones web](/assets/img/flutter/flutter-ios-aplicacion.webp "Los mejores fondos de pantalla de flutter")
 

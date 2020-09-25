@@ -91,7 +91,7 @@ El libro De cero a uno. Esta basado en notas de una clase popular que Peter Thie
 
 El libro, escrito por el cofundador de Paypal, Peter Thiel, junto al propio Elon Musk. Ofrece una **exploración muy interesante del proceso constitutivo de una empresa exitosa**.
 
-[🔥 COMPRAR el libro De Cero a Uno: Cómo inventar el Futuro](https://amzn.to/2RTqzJ4 "Comprar el libro De Cero a Uno: Cómo inventar el Futuro"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro De Cero a Uno: Cómo inventar el Futuro](https://amzn.to/2RTqzJ4 "Comprar el libro De Cero a Uno: Cómo inventar el Futuro"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Peter Thiel ha creado múltiples empresas innovadoras, y Zero to One te muestra cómo puedes hacerlo".
 >
@@ -132,7 +132,7 @@ Es socio de Founders Fund, una firma de capital de riesgo de Silicon Valley que 
 
 También es el autor número uno en ventas del New York Times del título "De cero a uno: notas sobre las nuevas empresas" o "Cómo construir el futuro".
 
-[🔥 COMPRAR el libro De Cero a Uno: Cómo inventar el Futuro](https://amzn.to/2RTqzJ4 "Comprar el libro De Cero a Uno: Cómo inventar el Futuro"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro De Cero a Uno: Cómo inventar el Futuro](https://amzn.to/2RTqzJ4 "Comprar el libro De Cero a Uno: Cómo inventar el Futuro"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Dune de Frank Herbert**
 
@@ -140,7 +140,7 @@ Ambientada en el planeta desértico Arrakis, Dune es la historia del niño Paul 
 
 Cuando la Casa Atreides es traicionada, la destrucción de la familia de Paul pondrá al niño en un viaje hacia un destino más grande de lo que jamás hubiera imaginado. Y a medida que evoluciona hasta convertirse en el hombre misterioso conocido como Muad'Dib, hará realidad el sueño más antiguo e inalcanzable de la humanidad.
 
-[🔥 COMPRAR el libro Dune de Frank Herbert](https://amzn.to/3k37VKt "Comprar el libro Dune de Frank Herbert"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Dune de Frank Herbert](https://amzn.to/3k37VKt "Comprar el libro Dune de Frank Herbert"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Una asombrosa mezcla de aventura y misticismo, ambientalismo y política, Dune ganó el primer premio Nebula, compartió el premio Hugo y formó la base de lo que, sin duda, es la epopeya más grandiosa de la ciencia ficción.
 
@@ -150,7 +150,7 @@ Frank Herbert fue un autor de ciencia ficción estadounidense aclamado por la cr
 
 Es mejor conocido por la novela Dune y sus cinco secuelas. La saga Dune, ambientada en un futuro lejano y que se desarrolla a lo largo de milenios, trató temas como la supervivencia y evolución humana, la ecología y la intersección de la religión, la política y el poder, y está ampliamente considerada como una de las clásicas en el campo. de Ciencia ficcion.
 
-[🔥 COMPRAR el libro Dune de Frank Herbert](https://amzn.to/3k37VKt "Comprar el libro Dune de Frank Herbert"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Dune de Frank Herbert](https://amzn.to/3k37VKt "Comprar el libro Dune de Frank Herbert"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **La rebelión de Atlas de Ayn Rand**
 
@@ -158,7 +158,7 @@ Es mejor conocido por la novela Dune y sus cinco secuelas. La saga Dune, ambient
 
 Tremenda en su alcance, esta novela presenta un panorama asombroso de la vida humana, desde el genio productivo que se convierte en un playboy sin valor, hasta el gran industrial siderúrgico que no sabe que está trabajando para su propia destrucción, hasta el filósofo que se convierte en pirata.
 
-[🔥 COMPRAR el libro La rebelión de Atlas de Ayn Rand](https://amzn.to/2F4oVRM "Comprar el libro La rebelión de Atlas de Ayn Rand"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La rebelión de Atlas de Ayn Rand](https://amzn.to/2F4oVRM "Comprar el libro La rebelión de Atlas de Ayn Rand"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Al compositor que abandona su carrera la noche de su triunfo - a la mujer que dirige un ferrocarril transcontinental - al trabajador de la vía más baja en los túneles de su terminal.
 
@@ -178,7 +178,7 @@ Comenzó una nueva filosofía conocida como objetivismo, opuesta a la interferen
 
 El objetivismo ha influido en varios otros movimientos, como el libertarismo, y el apoyo vocal de Rand al capitalismo del laissez-faire y al libre mercado le ha valido un lugar distinto entre los filósofos estadounidenses y los filósofos en general.
 
-[🔥 COMPRAR el libro La rebelión de Atlas de Ayn Rand](https://amzn.to/2F4oVRM "Comprar el libro La rebelión de Atlas de Ayn Rand"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La rebelión de Atlas de Ayn Rand](https://amzn.to/2F4oVRM "Comprar el libro La rebelión de Atlas de Ayn Rand"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Steve Jobs de Walter Isaacson**
 
@@ -188,7 +188,7 @@ Basado en más de cuarenta entrevistas con Jobs realizadas durante dos años, as
 
 La vida intensa de un emprendedor creativo cuya pasión por la perfección y un impulso feroz revolucionaron seis industrias: computadoras personales, películas animadas, música, teléfonos, tabletas y publicación digital.
 
-[🔥 COMPRAR el libro Steve Jobs de Walter Isaacson](https://amzn.to/2ZBVNIH "Comprar el libro Steve Jobs de Walter Isaacson"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Steve Jobs de Walter Isaacson](https://amzn.to/2ZBVNIH "Comprar el libro Steve Jobs de Walter Isaacson"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 En un momento en que Estados Unidos busca formas de mantener su ventaja innovadora y cuando las sociedades de todo el mundo intentan construir economías en la era digital, Jobs se erige como el máximo icono de inventiva e imaginación aplicada.
 
@@ -202,7 +202,7 @@ Impulsado por demonios, Jobs podía llevar a quienes lo rodeaban a la furia y la
 
 Su historia es instructiva y cautelosa, llena de lecciones sobre innovación, carácter, liderazgo y valores.
 
-[🔥 COMPRAR el libro Steve Jobs de Walter Isaacson](https://amzn.to/2ZBVNIH "Comprar el libro Steve Jobs de Walter Isaacson"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Steve Jobs de Walter Isaacson](https://amzn.to/2ZBVNIH "Comprar el libro Steve Jobs de Walter Isaacson"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Quién es Walter Isaacson?
 
@@ -219,7 +219,7 @@ En una entrevista de 2013 en The Guardian. Musk aseguro que **los libros de Asim
 
 “Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra”, dice, “parece que sería prudente actuar mientras la ventana estaba abierta y no contar con el hecho estará abierto mucho tiempo ”.
 
-[🔥 COMPRAR el libro La Fundación](https://amzn.to/2VmcXYL "Comprar el libro La Fundación"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Fundación](https://amzn.to/2VmcXYL "Comprar el libro La Fundación"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Las lecciones de la historia sugerirían que las civilizaciones se mueven en ciclos. Puedes rastrear eso bastante lejos: los babilonios, los sumerios, seguidos por los egipcios, los romanos, China. Obviamente estamos en un ciclo muy ascendente en este momento y esperamos que ese sea el caso. Pero puede que no. Podría haber una serie de eventos que causen que el nivel de tecnología disminuya. Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra, parece que sería prudente actuar mientras la ventana se encuentre abierta y no contar con el hecho de que estará abierta por mucho tiempo más".
 >
@@ -238,7 +238,7 @@ En una entrevista de 2013 en The Guardian. Musk aseguro que **los libros de Asim
 </details>
 <br/>
 
-[🔥 COMPRAR el libro La Fundación](https://amzn.to/2VmcXYL "Comprar el libro La Fundación"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Fundación](https://amzn.to/2VmcXYL "Comprar el libro La Fundación"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **El Señor de los Anillos de JRR Tolkien**
 
@@ -246,7 +246,7 @@ Cuando de pequeñ, era maltratado por sus compañeros; Musk reecibía el feo apo
 
 Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; pero también le encantaba **la saga de El señor de los anillos de JRR Tolkien** y dentro de todos esos libros; se encuentra la mayor para de culpa de la construcción del pensamiento futurista de Elon Musk.
 
-[🔥 COMPRAR el libro El Señor de los Anillos](https://amzn.to/2wQkAgG "Comprar el libro El Señor de los Anillos"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro El Señor de los Anillos](https://amzn.to/2wQkAgG "Comprar el libro El Señor de los Anillos"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Los héroes de los libros que leí siempre sintieron el deber de salvar al mundo".
 >
@@ -263,7 +263,7 @@ Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; per
 </details>
 <br/>
 
-[🔥 COMPRAR el libro El Señor de los Anillos](https://amzn.to/2wQkAgG "Comprar el libro El Señor de los Anillos"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro El Señor de los Anillos](https://amzn.to/2wQkAgG "Comprar el libro El Señor de los Anillos"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **La Guía del Autoestopista Galáctico de Douglas Adams**
 
@@ -271,7 +271,7 @@ Musk ha hablado en varias situaciones sobre su "crisis existencial" cuando tení
 
 Hasta que se encontró con "La Guía del Autoestopista Galáctico" un divertido cómic interestelar de Douglas Adams. En el libro, una supercomputadora encuentra que la "respuesta" a una vida significativa es el número 42, pero la pregunta nunca se resolvió. Esto fue instructivo para un joven Elon.
 
-[🔥 COMPRAR el libro La Guía del Autoestopista Galáctico](https://amzn.to/3btdGx2 "Comprar el libro La Guía del Autoestopista Galáctico"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Guía del Autoestopista Galáctico](https://amzn.to/3btdGx2 "Comprar el libro La Guía del Autoestopista Galáctico"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Si puedes formular correctamente la pregunta, entonces la respuesta es la parte fácil" . "Entonces, en la medida en que podamos comprender mejor el universo, entonces podremos saber qué preguntas hacer".
 >
@@ -286,7 +286,7 @@ Hasta que se encontró con "La Guía del Autoestopista Galáctico" un divertido 
 </details>
 <br/>
 
-[🔥 COMPRAR el libro La Guía del Autoestopista Galáctico](https://amzn.to/3btdGx2 "Comprar el libro La Guía del Autoestopista Galáctico"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Guía del Autoestopista Galáctico](https://amzn.to/3btdGx2 "Comprar el libro La Guía del Autoestopista Galáctico"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **Benjamin Franklin: Una Vida Americana de Walter Isaacson**
 
@@ -294,7 +294,7 @@ Hasta que se encontró con "La Guía del Autoestopista Galáctico" un divertido 
 
 Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica) ir a la escuela en Canadá, cambiarse a la Universidad de Pensilvania y luego usar una invitación del programa de doctorado para aterrizar en Silicon Valley.
 
-[🔥 COMPRAR el libro Benjamin Franklin: Una Vida Americana](https://amzn.to/2KgNHNm "Comprar el libro Benjamin Franklin: Una Vida Americana"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Benjamin Franklin: Una Vida Americana](https://amzn.to/2KgNHNm "Comprar el libro Benjamin Franklin: Una Vida Americana"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Franklin es bastante impresionante" . "Se puede ver cómo Franklin era un empresario” . “Era un emprendedor. Él comenzó de la nada. Era solo un niño fugitivo"
 >
@@ -313,7 +313,7 @@ Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica)
 </details>
 <br/>
 
-[🔥 COMPRAR el libro Benjamin Franklin: Una Vida Americana](https://amzn.to/2KgNHNm "Comprar el libro Benjamin Franklin: Una Vida Americana"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Benjamin Franklin: Una Vida Americana](https://amzn.to/2KgNHNm "Comprar el libro Benjamin Franklin: Una Vida Americana"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Vida 3.0 de Max Tegmark**
 
@@ -321,7 +321,7 @@ Si vas a encontrar un tema en común dentro de muchos de los libros de esta list
 
 En **Vida 3.0**, el profesor del MIT: **Max Tegmark**. Escribe sobre **cómo desarrollar el futuro de la inteligencia artificial**, siendo beneficiosa para la vida humana y logrando garantizar que el progreso tecnológico se mantenga dentro de una línea de objetivos de importancia para toda la humanidad.
 
-[🔥 COMPRAR el libro Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc "Comprar el libro Vida 3.0 de Max Tegmark"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc "Comprar el libro Vida 3.0 de Max Tegmark"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Esté, va a ser uno de los pocos libros, si no el único. Entre los que Musk recomienda, en el que se aborda la posibilidad de que **la inteligencia artificial sea una evolución en búsqueda del bien** de la humanidad y no para crear el mal.
 
@@ -368,7 +368,7 @@ Conocido como "Mad Max" por sus ideas poco ortodoxas y su pasión por la aventur
 
 Es profesor de física del MIT con más de doscientos artículos técnicos y ha aparecido en decenas de documentales científicos. Su trabajo con la colaboración de SDSS sobre agrupación de galaxias compartió el primer premio en el "Avance del año: 2003" de la revista Science, además es fundador (con Anthony Aguirre) del Foundational Questions Institute.
 
-[🔥 COMPRAR el libro Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc "Comprar el libro Vida 3.0 de Max Tegmark"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc "Comprar el libro Vida 3.0 de Max Tegmark"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **La Luna es una Cruel Amante de Robert Heinlein**
 
@@ -376,7 +376,7 @@ Esta galardonada novela de ciencia ficción, publicada originalmente en 1966, pi
 
 En el libro, un grupo de personas ha sido exiliado de la tierra a la luna, donde han creado una sociedad libertaria. En el año 2076, un grupo de rebeldes, incluido un superordenador llamado Mike y un técnico informático con un solo brazo, lideran la revolución de la colonia lunar contra sus gobernantes terrestres.
 
-[🔥 COMPRAR el libro La Luna es una Cruel Amante](https://amzn.to/2Kj940x "Comprar el libro La Luna es una Cruel Amante"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Luna es una Cruel Amante](https://amzn.to/2Kj940x "Comprar el libro La Luna es una Cruel Amante"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- En términos de libros, Lord Of The Rings es probablemente mi libro favorito, pero no es realmente ciencia ficción, de hecho, curiosamente, JR Tolkien es casi anti-tecnología. Es gracioso. Lord Of The Rings fue un libro, pero es una especie de antitecnología, pero sigue siendo genial. Creo que la serie Foundation de Asimov es como una de las mejores de la historia, y los libros de Arthur C. Clarke y Heinlein son probablemente los tres mejores autores de ciencia ficción. Recientemente, alguien me recomendaba las novelas de Ian Banks como bastante buenas. Sí, ¿qué crees que es bueno? [La Luna es una amante dura.] Sí, es gracioso que debas mencionar eso. Creo que ese es el mejor libro de Heinlein, sinceramente. -->
 
 > "Creo que es el mejor libro de Heinlein, sinceramente".
@@ -391,7 +391,7 @@ En el libro, un grupo de personas ha sido exiliado de la tierra a la luna, donde
 </details>
 <br/>
 
-[🔥 COMPRAR el libro La Luna es una Cruel Amante](https://amzn.to/2Kj940x "Comprar el libro La Luna es una Cruel Amante"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Luna es una Cruel Amante](https://amzn.to/2Kj940x "Comprar el libro La Luna es una Cruel Amante"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Cultura de Iain M. Banks**
 
@@ -399,7 +399,7 @@ Curiosa saga de nueva ficción, que no se encuentra en papel. Exclusivamente en 
 
 La [primera parte la puedes conseguir aquí](https://amzn.to/3ajyqWx), [la segunda parte](https://amzn.to/2KluZnK); en total, 4 y 4, 8 títulos diferentes: Pensad en flebas, Eljugador, Última generación y El uso de las armas. Excesión, Inversiones, A Barlovento y Materia; y faltan otros dos títulos que no han sido traducidos al español.. 
 
-[🔥 COMPRAR el libro Cultura](https://amzn.to/3eFHE2S "Comprar el libro Cultura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Cultura](https://amzn.to/3eFHE2S "Comprar el libro Cultura"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Musk la ha estado leyendo desde el año 2014. Los libros cuentan la historia de una futura sociedad semi-anarquista llamada Cultura, que incluye humanoides, extraterrestres e inteligencias artificiales.
 
@@ -436,7 +436,7 @@ Musk la ha estado leyendo desde el año 2014. Los libros cuentan la historia de 
 </details>
 <br/>
 
-[🔥 COMPRAR el libro Cultura](https://amzn.to/3eFHE2S "Comprar el libro Cultura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Cultura](https://amzn.to/3eFHE2S "Comprar el libro Cultura"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 12. **Nuestra invención final de James Barrat**
 
@@ -444,7 +444,7 @@ Musk ha advertido publicamente contra los peligros de la inteligencia artificial
 
 Se puede ver reflejado ese pensamiento, con su inversión dentro de la empresa de inteligencia artificial DeepMind. Puesto qué, al propio Elon Musk, se le ha escuchado decir que esa era una inversión "exclusivamente para vigilar de cerca lo que va sucediendo con la inteligencia artificial" lo que no deja de ser un comentario bajo un "tono" que muestra preocupación hacía las nuevas tecnologías.
 
-[🔥 COMPRAR el libro Nuestra invención final](https://amzn.to/2XTdaEG "Comprar el libro Nuestra invención final"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Nuestra invención final](https://amzn.to/2XTdaEG "Comprar el libro Nuestra invención final"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Por lo tanto, no es sorprendente que **Elon haya elegido el libro "Nuestra invención final: La inteligencia artificial y el fin de la era humana"** como "un libro digno de leer" a través de [un tweet](https://twitter.com/elonmusk/status/496010572333580289){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -487,7 +487,7 @@ Pero antes de que la inteligencia de las máquinas coincida con la nuestra, tene
 
 Si fallamos, estaremos atrapados en un dilema imposible de ganar. Tendremos que confiar en la bondad de las máquinas para sobrevivir. ¿Las máquinas nos amarán y protegerán naturalmente?
 
-[🔥 COMPRAR el libro Nuestra invención final](https://amzn.to/2XTdaEG "Comprar el libro Nuestra invención final"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Nuestra invención final](https://amzn.to/2XTdaEG "Comprar el libro Nuestra invención final"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 13. **La Riqueza de las Naciones de Adam Smith**
 
@@ -495,7 +495,7 @@ La obra maestra de Adam Smith, publicada por primera vez en 1776, es la base del
 
 Escrita con una prosa clara e incisiva, La riqueza de las naciones articula los conceptos indispensables para comprender la sociedad contemporánea; y la Introducción de Robert Reich aclara los análisis de Smith e ilumina su relevancia general para el mundo en el que vivimos. 
 
-[🔥 COMPRAR el libro La Riqueza de las Naciones de Adam Smith](https://amzn.to/3m4HTZa "Comprar el libro La Riqueza de las Naciones de Adam Smith"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Riqueza de las Naciones de Adam Smith](https://amzn.to/3m4HTZa "Comprar el libro La Riqueza de las Naciones de Adam Smith"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Como escribe Reich, "la mente de Smith se movió sobre temas tan frescos y de actualidad de hoy como lo eran a fines del siglo XVIII: trabajos, salarios, política, gobierno, comercio, educación, negocios y ética".
 
@@ -507,7 +507,7 @@ Filósofo moral escocés y pionero de la economía política. Una de las figuras
 
 Este último, generalmente abreviado como La riqueza de las naciones , se considera su obra magna y el primer trabajo moderno de economía. Adam Smith es ampliamente citado como el padre de la economía moderna.
 
-[🔥 COMPRAR el libro La Riqueza de las Naciones de Adam Smith](https://amzn.to/3m4HTZa "Comprar el libro La Riqueza de las Naciones de Adam Smith"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro La Riqueza de las Naciones de Adam Smith](https://amzn.to/3m4HTZa "Comprar el libro La Riqueza de las Naciones de Adam Smith"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 14. **El Señor de las Moscas de William Golding**
 
@@ -515,7 +515,7 @@ Esta **novela clásica sobre supervivencia**, **competencia y avaricia** dejó s
 
 La novela trata sobre Ralph, un niño inglés de la remota isla donde tiene lugar “El señor de las moscas” que quiere crear códigos morales y éticos para salvar a la humanidad. Mientras tanto, el antagonista del libro, Jack, inicialmente solo un rebelde, se encuentra consumido por el poder y la codicia.
 
-[🔥 COMPRAR el libro El Señor de las Moscas](https://amzn.to/3cyQZYy "Comprar el libro El Señor de las Moscas"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro El Señor de las Moscas](https://amzn.to/3cyQZYy "Comprar el libro El Señor de las Moscas"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Su **lucha es una historia de advertencia sobre lo que puede suceder** cuando los hombres se quedan solos. El libro dio forma a la cosmovisión de Musk sobre su propio futuro. Por ejemplo, ha hablado públicamente sobre los peligros de la inteligencia artificial en manos de los humanos. 
 
@@ -528,13 +528,13 @@ Su **lucha es una historia de advertencia sobre lo que puede suceder** cuando lo
 </details>
 <br/>
 
-[🔥 COMPRAR el libro El Señor de las Moscas](https://amzn.to/3cyQZYy "Comprar el libro El Señor de las Moscas"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro El Señor de las Moscas](https://amzn.to/3cyQZYy "Comprar el libro El Señor de las Moscas"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 15. **Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom**
 
 Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido **sus preocupaciones sobre los peligros potenciales** y **las preocupaciones éticas asociadas con la tecnología**.
 
-[🔥 COMPRAR el libro Superinteligencia: Caminos, Peligros, Estrategias](https://amzn.to/3cvqOSr "Comprar el libro Superinteligencia: Caminos, Peligros, Estrategias"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Superinteligencia: Caminos, Peligros, Estrategias](https://amzn.to/3cvqOSr "Comprar el libro Superinteligencia: Caminos, Peligros, Estrategias"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > "Vale la pena leer el libro de Bostrom, que trata sobre los posibles desafíos presentados si la inteligencia computacional supera la inteligencia humana".
 >
@@ -553,7 +553,7 @@ Aunque Musk es futurista y está profundamente interesado en la inteligencia art
 </details>
 <br/>
 
-[🔥 COMPRAR el libro Superinteligencia: Caminos, Peligros, Estrategias](https://amzn.to/3cvqOSr "Comprar el libro Superinteligencia: Caminos, Peligros, Estrategias"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Superinteligencia: Caminos, Peligros, Estrategias](https://amzn.to/3cvqOSr "Comprar el libro Superinteligencia: Caminos, Peligros, Estrategias"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 16. **Demonio de Daniel Suárez**
 
@@ -561,7 +561,7 @@ Un thriller de alta tecnología para la era inalámbrica que explora las consecu
 
 La tecnología controla casi todo en nuestro mundo moderno, desde un lugar remoto entrada en nuestros coches para acceder a nuestras casas, desde los controles de vuelo de nuestros aviones hasta los movimientos de toda la economía mundial.
 
-[🔥 COMPRAR el libro Demonio de Daniel Suárez](https://amzn.to/2FkywmW "Comprar el libro Demonio de Daniel Suárez"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Demonio de Daniel Suárez](https://amzn.to/2FkywmW "Comprar el libro Demonio de Daniel Suárez"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Miles de programas informáticos autónomos, o demonios, hacen posible nuestro mundo en red, funcionando constantemente en el fondo de nuestras vidas, traficando correo electrónico, transfiriendo dinero y monitoreando las redes eléctricas.
 
@@ -587,7 +587,7 @@ Suárez ha sido orador en TED Global, MIT Media Lab, NASA Ames, la Fundación Lo
 
 Autodidacta en desarrollo de software, se graduó de la Universidad de Delaware con una licenciatura en Literatura Inglesa. Ávido jugador de PC y consolas, sus propias habilidades para construir mundos se reforzaron a lo largo de los años como moderador de juegos de rol con lápiz y papel. Vive en Los Ángeles,
 
-[🔥 COMPRAR el libro Demonio de Daniel Suárez](https://amzn.to/2FkywmW "Comprar el libro Demonio de Daniel Suárez"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Demonio de Daniel Suárez](https://amzn.to/2FkywmW "Comprar el libro Demonio de Daniel Suárez"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 17. **El Gran Cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll**
 
@@ -595,7 +595,7 @@ Ya aclamado internacionalmente por su escritura elegante y lúcida sobre las noc
 
 También en nuestras preguntas personales más profundas. ¿Dónde estamos? ¿Quienes somos? ¿Nuestras emociones, nuestras creencias y nuestras esperanzas y sueños, en última instancia, no tienen sentido en el vacío? ¿Encaja el propósito y el significado humanos en una cosmovisión científica?
 
-[🔥 COMPRAR el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll](https://amzn.to/2R5xA8M "Comprar el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll](https://amzn.to/2R5xA8M "Comprar el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 En breves capítulos llenos de intrigantes anécdotas históricas, apartes personales y una exposición rigurosa, los lectores aprenden la diferencia entre cómo funciona el mundo en el nivel cuántico, el nivel cósmico y el nivel humano, y luego cómo se conectan entre sí. La presentación de Carroll de los principios que han guiado la revolución científica desde Darwin y Einstein hasta los orígenes de la vida, la conciencia y el universo es asombrosamente única.
 
@@ -609,7 +609,7 @@ Sean Carroll es físico teórico en el Instituto de Tecnología de California. R
 
 Su libro La partícula en el fin del universo ganó el prestigioso premio Winton de libros de ciencia en 2013. Carroll vive en Los Ángeles con su esposa, la escritora Jennifer Ouellette.
 
-[🔥 COMPRAR el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll](https://amzn.to/2R5xA8M "Comprar el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll](https://amzn.to/2R5xA8M "Comprar el libro El gran cuadro: Los orígenes de la vida, su sentido y el universo entero de Sean Carroll"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 18. **Si el universo está lleno de extraterrestres.. de Stephen Webb**
 
@@ -633,7 +633,7 @@ La variedad de argumentos, de científicos, filósofos e historiadores de primer
 
 Stephen Webb es un físico que trabaja en la Open University de Inglaterra y autor de Midiendo el Universo. y vigorosos ejercicios intelectuales para cualquier lector interesado en la ciencia y el puro placer del pensamiento especulativo.
 
-[🔥 COMPRAR el libro Si el universo está lleno de extraterrestres.. de Stephen Webb](https://amzn.to/32a37Ne "Comprar el libro Si el universo está lleno de extraterrestres.. de Stephen Webb"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Si el universo está lleno de extraterrestres.. de Stephen Webb](https://amzn.to/32a37Ne "Comprar el libro Si el universo está lleno de extraterrestres.. de Stephen Webb"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Quién es Stephen Webb?
 
@@ -647,7 +647,7 @@ A pesar del milagro médico que encoge el tumor que la ha comprado unos años, H
 
 Perspicaz, audaz, irreverente y cruda, The Fault in Our Stars es el trabajo más ambicioso y desgarrador del galardonado autor John Green hasta la fecha, y explora brillantemente el negocio divertido, emocionante y trágico de estar vivo y enamorado.
 
-[🔥 COMPRAR el libro Bajo la Misma Estrella de John Green](https://amzn.to/2FeUFTQ "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Bajo la Misma Estrella de John Green](https://amzn.to/2FeUFTQ "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Quién es John Green?
 
@@ -659,7 +659,7 @@ El elogio incluyó críticas favorables en Time Magazine y The New York Times, e
 
 Green también es coautor de un libro con David Levithan llamado Will Grayson, Will Grayson, publicado en 2010. Los derechos cinematográficos de todos sus libros, con la excepción de Will Grayson Will Grayson, se han transferido a los principales estudios de Hollywood.
 
-[🔥 COMPRAR el libro Bajo la Misma Estrella de John Green](https://amzn.to/2FeUFTQ "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Bajo la Misma Estrella de John Green](https://amzn.to/2FeUFTQ "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 20. **La Máquina se Para de E. M. Forster**
 
@@ -667,7 +667,7 @@ La Máquina se Para, es un cuento de ciencia ficción de 12.300 palabras de EM F
 
 Después de ser votada como una de las mejores novelas hasta 1965, se incluyó ese mismo año en la revista populista antología Modern Short Stories. En 1973 también se incluyó en The Science Fiction Hall of Fame, Volume Two .
 
-[🛑 No Disponible Temporalmente 🔥 COMPRAR el libro La Máquina se Para de E. M. Forster](https://amzn.to/3bHxrSv "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛑 No Disponible Temporalmente 🔥 COMPRAR el libro La Máquina se Para de E. M. Forster](https://amzn.to/3bHxrSv "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 El libro es particularmente notable por predecir nuevas tecnologías como la mensajería instantánea e Internet.
 
@@ -683,7 +683,7 @@ Los puntos de vista de Forster como humanista secular están en el corazón de s
 
 Se destaca por su uso del simbolismo como técnica en sus novelas, y ha sido criticado por su apego al misticismo. Sus otras obras incluyen Where Angels Fear to Tread (1905), The Longest Journey (1907), A Room with a View (1908) y Maurice (1971), su novela publicada póstumamente que cuenta la mayoría de edad de un hombre explícitamente gay. personaje.
 
-[🛑 No Disponible Temporalmente 🔥 COMPRAR el libro La Máquina se Para de E. M. Forster](https://amzn.to/3bHxrSv "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛑 No Disponible Temporalmente 🔥 COMPRAR el libro La Máquina se Para de E. M. Forster](https://amzn.to/3bHxrSv "Comprar el libro Bajo la Misma Estrella de John Green"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 21. **Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson**
 
@@ -691,7 +691,7 @@ Nikola Tesla hizo una importante contribución a la evolución de la electricida
 
 Al igual que su rival Thomas Edison, Tesla fue uno de los primeros investigadores famosos en Estados Unidos, disfrutó de una sociedad de las clases altas de Nueva York y entretuvo a Mark Twain con sus espectáculos eléctricos.
 
-[🔥 COMPRAR el libro Nikola Tesla: El Inventor de la Era Eléctrica](https://amzn.to/2wQkAgG "Comprar el libro Nikola Tesla: El Inventor de la Era Eléctrica"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Nikola Tesla: El Inventor de la Era Eléctrica](https://amzn.to/2wQkAgG "Comprar el libro Nikola Tesla: El Inventor de la Era Eléctrica"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de un genio excéntrico entre la gente. Incluso muriendo en la pobreza, logró atraer a los entrevistadores para su cumpleaños gracias a las acusaciones de su creación de armas subatómicas que podrían destruir los aviones enemigos.
 
@@ -712,7 +712,7 @@ Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de
 <br/>
 <!-- https://twitter.com/elonmusk/status/1007668113591005184 -->
 
-[🔥 COMPRAR el libro Nikola Tesla: El Inventor de la Era Eléctrica](https://amzn.to/2wQkAgG "Comprar el libro Nikola Tesla: El Inventor de la Era Eléctrica"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Nikola Tesla: El Inventor de la Era Eléctrica](https://amzn.to/2wQkAgG "Comprar el libro Nikola Tesla: El Inventor de la Era Eléctrica"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 22. **Einstein: Su vida y su universo de Walter Isaacson**
 
@@ -729,7 +729,7 @@ Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar
 </details>
 <br/>
 
-[🔥 COMPRAR el libro Einstein: Su vida y su universo](https://amzn.to/3bmQh08 "Comprar el libro Einstein: Su vida y su universo"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Einstein: Su vida y su universo](https://amzn.to/3bmQh08 "Comprar el libro Einstein: Su vida y su universo"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 23. **Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark**
 
@@ -737,7 +737,7 @@ Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar
 
 Clark fue un químico estadounidense activo en el desarrollo de combustibles para cohetes en las décadas de 1960 y 1970, y el libro es una descripción del crecimiento del campo y una gran explicación de sobre cómo funciona la ciencia.
 
-[👓 Leer Encendido de forma Online](http://library.sciencemadness.org/library/books/ignition.pdf "Leer encendido de forma Online"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👓 Leer Encendido de forma Online](http://library.sciencemadness.org/library/books/ignition.pdf "Leer encendido de forma Online"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Aunque el libro es difícil de encontrar, a la gente le suele gustar: Este libro tiene la combinación correcta de detalles técnicos, descripciones de experimentos con resultados espectaculares, información básica sobre por qué y cómo, y sobre la política involucrada.
 
@@ -757,7 +757,7 @@ Afortunadamente, este extraño libro está disponible en línea [aquí](http://l
 
 Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes no colapsan bajo ocho carriles de tráfico, cómo las presas se retienen y no ceden bajo la presión de miles de litros de agua, o qué principios guían el diseño de un rascacielos. Este libro aliviará su ansiedad y responderá sus preguntas.
 
-[🔥 COMPRAR el libro Estructuras: O porque las cosas no se caen](https://amzn.to/3anrcB1 "Comprar el libro Estructuras: O porque las cosas no se caen"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Estructuras: O porque las cosas no se caen](https://amzn.to/3anrcB1 "Comprar el libro Estructuras: O porque las cosas no se caen"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 **Cuando Musk decidió que quería aprender ciencia espacial**, **estudió libros de texto sobre astrofísica e ingeniería**. Si bien la lectura de textos avanzados sobre física puede no ser para todos, este libro ofrece una visión más clara de la ciencia detrás de SpaceX.
 
@@ -776,13 +776,13 @@ Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes
 </details>
 <br/>
 
-[🔥 COMPRAR el libro Estructuras: O porque las cosas no se caen](https://amzn.to/3anrcB1 "Comprar el libro Estructuras: O porque las cosas no se caen"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Estructuras: O porque las cosas no se caen](https://amzn.to/3anrcB1 "Comprar el libro Estructuras: O porque las cosas no se caen"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 25. **Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes**
 
 Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persiguen estos dos historiadores se basa en **su creencia de que científicos con conexiones políticas y corporativas han enturbiado los hechos en torno a muchos problemas de salud pública**, **como los efectos negativos del tabaquismo** o **la negación del cambio climático**.
 
-[🔥 COMPRAR el libro Mercaderes de la Duda](https://amzn.to/2RUchrx "Comprar el libro Mercaderes de la Duda"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Mercaderes de la Duda](https://amzn.to/2RUchrx "Comprar el libro Mercaderes de la Duda"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <details>
 <summary>Saber Más</summary>
@@ -792,7 +792,7 @@ Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persi
 <p>Naomi Oreskes y Erik M. Conway, historiadores de la ciencia, hacen retroceder la alfombra en este oscuro rincón de la comunidad científica estadounidense, mostrando cómo la ideología y los intereses corporativos, con la ayuda de medios demasiado conformes, han sesgado la comprensión pública de algunos de los más importantes. cuestiones urgentes de nuestra era.</p>
 </details>
 
-[🔥 COMPRAR el libro Mercaderes de la Duda](https://amzn.to/2RUchrx "Comprar el libro Mercaderes de la Duda"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Mercaderes de la Duda](https://amzn.to/2RUchrx "Comprar el libro Mercaderes de la Duda"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 26. **Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele**
 
@@ -801,7 +801,7 @@ No disponible en español, por tanto si deseas disfrutar de este libro deberás 
 
 En una entrevista con CNN, Musk dijo que acababa de terminar el "Howard Hughes" de Barlett y Steele, una biografía del excéntrico cineasta y magnate de la aviación, que se volvió un poco loco al final de su vida.
 
-[👓 Leer la vida de Howard Hughes en la Wikipedia](https://es.wikipedia.org/wiki/Howard_Hughes "Comprar el libro Howard Hughes: Su vida y Locura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👓 Leer la vida de Howard Hughes en la Wikipedia](https://es.wikipedia.org/wiki/Howard_Hughes "Comprar el libro Howard Hughes: Su vida y Locura"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó en múltiples industrias y empujó los límites de volar, rompiendo récords de velocidad del aire.
 
@@ -816,7 +816,7 @@ Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó 
 </details>
 <br/>
 
-[👓 Leer la vida de Howard Hughes en la Wikipedia](https://es.wikipedia.org/wiki/Howard_Hughes "Comprar el libro Howard Hughes: Su vida y Locura"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👓 Leer la vida de Howard Hughes en la Wikipedia](https://es.wikipedia.org/wiki/Howard_Hughes "Comprar el libro Howard Hughes: Su vida y Locura"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Hasta aquí, llega la recopilación de todos los mejores libros que Elon Musk quiere que leas o considera que pueden ser beneficiosos e inspiradores.
 

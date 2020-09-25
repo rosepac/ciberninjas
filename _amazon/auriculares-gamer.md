@@ -90,7 +90,7 @@ Los controles en línea son la única excepción a esa regla: se sienten endeble
 
 Actualmente en oferta 79,99 €. Su precio normal es de 99,99 €.
 
-[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3bTyCOC){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3bTyCOC){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Steelseries Arctis Pro + GameDAC**
 
@@ -123,7 +123,7 @@ Nuestras únicas reservas con el modelo GameDAC son que requiere un adaptador pa
 
 179,99 €.
 
-[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/2Fgqlst){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/2Fgqlst){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Razer Thresher Ultimate**
 
@@ -149,7 +149,7 @@ La conexión inalámbrica es sólida, el ajuste cómodo, la duración de la bate
 
 El precio del Razer Thresher Ultimate traido de importación desde EE.UU con el envío incluido es 135,55 €.
 
-[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3k73HkS){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3k73HkS){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **HyperX Cloud Orbit S**
 
@@ -177,7 +177,7 @@ Sin embargo, el software puede resultar un poco abrumador. Todavía no cambia el
 
 En OFERTAZA actualmente con 289 €. Su precio habitual es de 329 €.
 
-[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3ir4FZ1){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3ir4FZ1){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Steelseries Arctis 7**
 
@@ -206,7 +206,7 @@ Un micrófono funcional pero ligeramente silencioso y amortiguado es la única g
 
 179,99 €
 
-[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3bVv7ri){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3bVv7ri){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Razer Kraken X**
 
@@ -230,7 +230,7 @@ Hay algunos inconvenientes para sentirse cómodo con él, por supuesto (un micr�
 
 En OFERTA Actualmente sale por solamente 53,99 €. Su precio habitual es de 69,99 €.
 
-[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3ke4hgR){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3ke4hgR){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Más Ofertas con Rebajas y Flash 🎁**
 

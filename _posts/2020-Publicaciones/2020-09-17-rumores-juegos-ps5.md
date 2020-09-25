@@ -40,8 +40,8 @@ Una vez más, no se ha confirmado que Final Fantasy 7 Remake vaya a ser ​​un
 
 Dada la edad de la PS4 y la naturaleza ambiciosa del juego, no es para nada descartable que Final Fantasy 7 Remake aparecerá en su versión para PS5 no; y que con casi toda seguridad, Final Fantasy 7 Remake Part 2 se lance también en la nueva plataforma de próxima generación de Sony.
 
-[🔥 COMPRAR FINAL FANTASY 7 REMAKE 🎁](https://amzn.to/32Kn3GV){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRAR FINAL FANTASY 7 REMAKE EDICIÓN EXCLUSIVA AMAZON 🎁](https://amzn.to/2RDHxuw){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR FINAL FANTASY 7 REMAKE 🎁](https://amzn.to/32Kn3GV){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR FINAL FANTASY 7 REMAKE EDICIÓN EXCLUSIVA AMAZON 🎁](https://amzn.to/2RDHxuw){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Death Stranding**
 
@@ -55,9 +55,9 @@ Cuando Wired le preguntó sobre la transición de PS4 a la próxima generación 
 
 No es exactamente una confirmación, pero la respuesta de Cerny definitivamente ha alimentado la especulación de que Death Stranding podría ser un lanzamiento de generación cruzada.
 
-[🔥 COMPRAR DEATH STRANDING 🎁](https://amzn.to/32D34ty){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRAR DEATH STRANDING EDICIÓN ESPECIAL 🎁](https://amzn.to/2FHim7L){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRAR DEATH STRANDING EDICIÓN COLECCIONISTA 🎁](https://amzn.to/32HzzqB){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR DEATH STRANDING 🎁](https://amzn.to/32D34ty){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR DEATH STRANDING EDICIÓN ESPECIAL 🎁](https://amzn.to/2FHim7L){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR DEATH STRANDING EDICIÓN COLECCIONISTA 🎁](https://amzn.to/32HzzqB){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Ghost of Tsushima**
 
@@ -69,8 +69,8 @@ Pero dado lo hermoso que han sido los gráficos mostrados hasta ahora, no deber�
 
 A pesar de todo, aún no se a escuchado nadap or parte de Sony, sobre si Ghost of Tsushima será un juego para PS5.
 
-[🔥 COMPRAR GHOST OF TSUSHIMA 🎁](https://amzn.to/3iF98XW){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRAR GHOST OF TSUSHIMA EDICIÓN ESPECIAL 🎁](https://amzn.to/2FGHDi9){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR GHOST OF TSUSHIMA 🎁](https://amzn.to/3iF98XW){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR GHOST OF TSUSHIMA EDICIÓN ESPECIAL 🎁](https://amzn.to/2FGHDi9){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **God of War 2**
 
@@ -86,7 +86,7 @@ Han pasado dos años desde que el reinicio de God of War fue aclamado por la cr�
 
 A pesar de que Sony no ha abierto la boca sobre el tema, el éxito de God of War significa que la secuela que ya viene en camino, llegará a PS5.
 
-[🔥 COMPRAR GOD OF WAR 🎁](https://amzn.to/3iHLqu2){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR GOD OF WAR 🎁](https://amzn.to/3iHLqu2){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Grand Theft Auto 6**
 
@@ -96,7 +96,7 @@ De acuerdo, sí, existen grandes esperanzas entre los fans de Grand Theft Auto. 
 
 Por lo tanto, es probable que la fecha de lanzamiento se encuentre ya dentro de la próxima generación de consolas. Por lo que más tarde o temprano, vamos a disfrutar de GTA en la nueva PlayStation 5.
 
-[🔥 COMPRAR GRAND THEFT AUTO 5 🎁](https://amzn.to/3mw6QNf){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR GRAND THEFT AUTO 5 🎁](https://amzn.to/3mw6QNf){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Starfield**
 
@@ -120,7 +120,7 @@ Bethesda ha estado bastante ocupada desde el E3 2018. No solo está Starfield en
 
 Todd Howard de Bethesda ya ha declarado que The Elder Scrolls 6 no saldrá hasta después de que se presente Starfield. Así que, pasará un tiempo antes de que volvamos a aventurarnos en Tamriel, y probablemente eso será ya con las nuevas consolas de próxima generación.
 
-[🔥 COMPRAR THE ELDER SCROLLS 5🎁](https://amzn.to/3hGn5Uj){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR THE ELDER SCROLLS 5🎁](https://amzn.to/3hGn5Uj){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **The Last of Us: Parte 2**
 
@@ -130,8 +130,8 @@ The Last of Us: Part 2 ya se lanzó para PS4, pero creemos, y esto no es una sup
 
 Parecería un poco extraño que Sony lance una de sus secuelas más esperadas solo para la PS4 al final del ciclo de vida de la consola. Así que creemos que es una apuesta segura suponer que Joel y Ellie llegarán a la PS5, convirtiéndose instantáneamente en uno de los mejores juegos de PS5.
 
-[🔥 COMPRAR THE LAST OF US: PARTE 2🎁](https://amzn.to/3my6e9F){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 COMPRAR THE LAST OF US: PARTE 2. EDICIÓN ESPECIAL 🎁](https://amzn.to/32HEcAZ){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR THE LAST OF US: PARTE 2🎁](https://amzn.to/3my6e9F){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR THE LAST OF US: PARTE 2. EDICIÓN ESPECIAL 🎁](https://amzn.to/32HEcAZ){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 

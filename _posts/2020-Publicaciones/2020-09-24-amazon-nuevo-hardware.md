@@ -61,7 +61,7 @@ Amazon también presentó dos versiones más pequeñas y diluidas del nuevo Echo
 
 El Echo Dot básico sin reloj se puede reservar a partir de hoy. Todos los nuevos Echos comenzarán a enviarse a finales de este año.
 
-[👉 RESERVA en PREVENTA tu Echo DOT con CONTROLADOR para el HOGAR](https://amzn.to/3j3LCUP "Reserva YA el nuevo echo dot con reloj y alexa"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 RESERVA en PREVENTA tu Echo DOT con CONTROLADOR para el HOGAR](https://amzn.to/3j3LCUP "Reserva YA el nuevo echo dot con reloj y alexa"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Alexa intentará comprender mejor lo que estás preguntando**
 
@@ -69,7 +69,7 @@ El nuevo procesador de voz de Alexa, ahora será más cotilla, y comenzará a ha
 
 Por ejemplo, si un usuario le dice a Alexa que establezca la temperatura en “modo verano”, Alexa, podría preguntar qué es lo que significa el modo verano.
 
-[👉 RESERVA en PREVENTA tu Echo DOT](https://amzn.to/3iYUj2F "Reserva YA el nuevo echo dot con reloj y alexa"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 RESERVA en PREVENTA tu Echo DOT](https://amzn.to/3iYUj2F "Reserva YA el nuevo echo dot con reloj y alexa"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Amazon anuncia nuevos enrutadores Eero 6**
 
@@ -83,8 +83,8 @@ El precio del Eero 6 partirá alrededor de unos 129,99 dólares (+ 113 €) y el
 
 Por ahora, el nuevo Eero 6, no estará disponible en Europa.
 
-[🔥 Nuevo Enrutador Eero 6 "Exclusivo EE.UU"](https://amzn.to/32ZQUed){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Nuevo Enrutador Eero 6 Pro "Exclusivo EE.UU"](https://amzn.to/309TH2W){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Nuevo Enrutador Eero 6 "Exclusivo EE.UU"](https://amzn.to/32ZQUed){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Nuevo Enrutador Eero 6 Pro "Exclusivo EE.UU"](https://amzn.to/309TH2W){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Amazon anuncia un sistema de seguridad para automóviles, que se integrará en los automóviles Tesla**
 
@@ -116,7 +116,7 @@ El nuevo dispositivo tiene una pantalla de 10 pulgadas, así como una cámara de
 
 El Echo Show se girará silenciosamente hacia los usuarios para mantener la pantalla a la vista mientras se usa el dispositivo. También incluye llamadas grupales y agrega nuevos efectos para realizar videollamadas y llamadas directas. Cuesta 249,99 €.
 
-[👉 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Amazon su servicio de transmisión de videojuegos Luna para enfrentarse a Google y Microsoft**
 
@@ -136,13 +136,13 @@ Amazon lanza un **[nuevo Fire Stick TV](https://amzn.to/33ZZPvt)** implementando
 
 El exclusivo **Fire TV Stick incluirá un procesador mejorado que lo hace un 50% más potente** que la generación anterior. La opción clásica costará 39,99 €, mientras que la nueva versión Fire Stick Lite costará 29,99 €.
 
-[🔥 Nuevo Fire Stick TV](https://amzn.to/33ZZPvt){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Nuevo Fire Stick Lite](https://amzn.to/2FYjnbN){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Nuevo Fire Stick TV](https://amzn.to/33ZZPvt){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Nuevo Fire Stick Lite](https://amzn.to/2FYjnbN){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Compra el nuevo Fire Stick desde USA 💪
 
-[🔥 Nuevo Fire Stick TV](https://amzn.to/33ZZPvt){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Nuevo Fire Stick Lite](https://amzn.to/2FYjnbN){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Nuevo Fire Stick TV](https://amzn.to/33ZZPvt){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Nuevo Fire Stick Lite](https://amzn.to/2FYjnbN){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 

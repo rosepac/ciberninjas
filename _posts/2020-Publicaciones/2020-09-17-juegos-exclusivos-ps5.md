@@ -187,7 +187,7 @@ El videojuego ya está siendo desarrollado desde cero por Japan Studio y Bluepoi
 
 ### ¿Dónde comprar Demon´s Souls para PlayStation 5?
 
-[🔥 COMPRAR Demon´s Souls para PS5 🎁 Edición Limitada](https://amzn.to/3mCdYaP){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Demon´s Souls para PS5 🎁 Edición Limitada](https://amzn.to/3mCdYaP){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08B285TM4&linkId=5d271cf3d29fa1431771f23fe606b342"></iframe>
 
@@ -221,7 +221,7 @@ Independientemente, estamos emocionados. Si bien no sabemos demasiado sobre el j
 
 ### ¿Dónde comprar Spider-Man: Miles Morales para PlayStation 5?
 
-[🔥 COMPRAR Spider-Man: Miles Morales para PS5 🎁 Edición Limitada](https://amzn.to/3kCcRpF){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR Spider-Man: Miles Morales para PS5 🎁 Edición Limitada](https://amzn.to/3kCcRpF){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08B2625VB&linkId=e5377387b267d626800904bdbc097f14"></iframe>
 

@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/la-historia-y-el-legado-de-jquery/
 La historia y el legado de jQuery: Breve Historia. Cambios. NuevosFrameworks. &iquest;Cu&aacute;ndo debemos usar JQuery?, por [Danny Guo](https://blog.logrocket.com/author/dannyguo/ "La historia y el legado de jQuery: Breve Historia. Cambios. NuevosFrameworks. ¿Cuándo debemos usar JQuery?, por Danny Guo"){:target="_blank" rel="nofollow,noreferrer"}
 
 [📰 Ver la Noticia Completa](https://blog.logrocket.com/the-history-and-legacy-of-jquery/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [La historia y el legado de jQuery](https://blog.logrocket.com/the-history-and-legacy-of-jquery/ "La historia y el legado de jQuery"){:target="_blank" rel="nofollow,noreferrer"}
 

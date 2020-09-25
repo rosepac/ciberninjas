@@ -44,7 +44,7 @@ Si estás buscando un gran libro sobre Flutter, Aprendiendo Flutter es una guía
 - Conoce los entresijos de Flutter cubriendo todo el framework.
 - Más información sobre los últimos widgets y herramientas para desarrolladores.
 
-[🔥 COMPRAR el libro Aprendiendo Flutter Rápidamente](https://amzn.to/325VA1Z "Comprar el libro Aprendiendo Flutter Rápidamente"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Aprendiendo Flutter Rápidamente](https://amzn.to/325VA1Z "Comprar el libro Aprendiendo Flutter Rápidamente"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Aprendiendo Flutter?
 
@@ -56,7 +56,7 @@ Explicaciones de los widgets de construcción de aplicaciones y algunos widgets 
 
 Por último, el libro incluye State y BloCs con streams, depuración y rendimiento. Las claves y renderizado y otras consideraciones de rendimiento. Sin lugar a dudas, después del final del último capítulo, podrá publicar tu aplicación con éxito.
 
-[🔥 COMPRAR el libro Aprendiendo Flutter Rápidamente](https://amzn.to/325VA1Z "Comprar el libro Aprendiendo Flutter Rápidamente"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Aprendiendo Flutter Rápidamente](https://amzn.to/325VA1Z "Comprar el libro Aprendiendo Flutter Rápidamente"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Comenzando con Flutter**
 
@@ -68,7 +68,7 @@ Comenzando con Flutter: una guía práctica para el desarrollo de aplicaciones
 
 ¿Quieres aprender Flutter? Además, ¿tienes alguna experiencia en este marco? ¿Qué no tienes experiencia? ¡Bueno! ¡No hay necesidad de preocuparse en absoluto! Beginning Flutter: una guía práctica para el desarrollo de aplicaciones para usted. Este libro no requiere ninguna experiencia para comenzar.
 
-[🔥 COMPRAR el libro Comenzando con Flutter](https://amzn.to/3lWdhZJ "Comprar el libro Comenzando con Flutter"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Comenzando con Flutter](https://amzn.to/3lWdhZJ "Comprar el libro Comenzando con Flutter"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Comenzando con Flutter?
 
@@ -78,7 +78,7 @@ Mientras usa Flutter, significa que está trabajando en el lenguaje Dart. Es la 
 
 Además de esto, el libro Beginning Flutter hace que todo el proceso sea mucho más fácil. Por tanto, el objetivo principal de este libro es proporcionar una forma de aprendizaje rápida y sencilla.
 
-[🔥 COMPRAR el libro Comenzando con Flutter](https://amzn.to/3lWdhZJ "Comprar el libro Comenzando con Flutter"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Comenzando con Flutter](https://amzn.to/3lWdhZJ "Comprar el libro Comenzando con Flutter"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Flutter en Acción**
 
@@ -88,7 +88,7 @@ Flutter es un nuevo pero más poderoso kit de desarrollo de aplicaciones móvile
 - Además, aprenda a crear una aplicación con todas las funciones con la mejor interfaz de usuario.
 - No se requiere experiencia en codificación para comenzar.
 
-[🔥 COMPRAR el libro Flutter en Acción](https://amzn.to/3h0oxAA "Comprar el libro Flutter en Acción"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Flutter en Acción](https://amzn.to/3h0oxAA "Comprar el libro Flutter en Acción"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Flutter en Acción?
 
@@ -98,7 +98,7 @@ Flutter facilita el proceso de desarrollo. Para que pueda desarrollar las aplica
 
 Además de esto, creará la mejor interfaz de usuario. Aprenderá más sobre la gestión del estado y la integración de bases de datos utilizando una aplicación web de Dart. Entonces, al final de este libro, podrá desarrollar una aplicación competitiva de manera profesional.
 
-[🔥 COMPRAR el libro Flutter en Acción](https://amzn.to/3h0oxAA "Comprar el libro Flutter en Acción"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Flutter en Acción](https://amzn.to/3h0oxAA "Comprar el libro Flutter en Acción"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Guía de Inico Rápido con Flutter**
 
@@ -106,7 +106,7 @@ Guía de inicio rápido de desarrollo móvil de Google Flutter: comience a traba
 
 Flutter es el marco de desarrollo de aplicaciones móviles multiplataforma más famoso. Este marco utiliza el lenguaje de programación Dart ofrecido por Google. Entonces, si desea aprender Flutter rápidamente, la Guía de inicio rápido de desarrollo móvil de Google Flutter para usted. Además de esto, el objetivo principal de este libro es hacer que el desarrollo sea fácil, rápido y eficiente.
 
-[🔥 COMPRAR la Guía de Inico Rápido con Flutter](https://amzn.to/33bx9zA){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR la Guía de Inico Rápido con Flutter](https://amzn.to/33bx9zA){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con la Guía de Inico Rápido con Flutter?
 
@@ -118,7 +118,7 @@ El objetivo principal del libro es proporcionar la mejor plataforma de inicio pa
 
 Crearás y publicarás tus propios complementos después de leer este libro. La distribución del contenido en los diferentes capítulos es asombrosa. Después de completar el último capítulo, puedes crear y lanzar aplicaciones completamente funcionales en Android e iOS.
 
-[🔥 COMPRAR la Guía de Inico Rápido con Flutter](https://amzn.to/33bx9zA){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR la Guía de Inico Rápido con Flutter](https://amzn.to/33bx9zA){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 **¡Por fin, vas a poder trabajar con cualquier aplicación de desarrollo de aplicaciones móviles como un profesional!**
 

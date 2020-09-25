@@ -75,7 +75,7 @@ El libro propone un aprendizaje activo, con actividades, muchas de ellas a trav�
 - Explicaciones claras, paso a paso.
 - Ejercicios con los que practicar incluidos.
 
-[🔥 COMPRAR el libro El Gran Libro de Android](https://amzn.to/2Pz5cOu "Comprar el libro El Gran Libro de Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro El Gran Libro de Android](https://amzn.to/2Pz5cOu "Comprar el libro El Gran Libro de Android"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Desarrollo de Aplicaciones para Android de Joan Ribas Lequerica**
 
@@ -87,7 +87,7 @@ Basado en la versión Nogaut de Android. Serás capaz de conocer todas las carac
 
 Se explica el uso de Android Studio 2.3 y el lenguaje de configuración de proyectos: Gradle.
 
-[🔥 COMPRAR el libro Desarrollo de Aplicaciones para Android](https://amzn.to/2VaoniT "Comprar el libro Desarrollo de Aplicaciones para Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Desarrollo de Aplicaciones para Android](https://amzn.to/2VaoniT "Comprar el libro Desarrollo de Aplicaciones para Android"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3 **Desarrollar una Aplicación Android, de Sylvain Hebuterne**
 
@@ -119,7 +119,7 @@ Al final de esta lectura, Podrás desarrollar y publicar aplicaciones nativas de
 
 Todos los módulos son funcionales, explotables directamente y proporcionan una estructura básica sólida para sus desarrollos.
 
-[🔥 COMPRAR el libro Desarrollar una Aplicación Android](https://amzn.to/2HH8TuP "Comprar el libro Desarrollar una Aplicación Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Desarrollar una Aplicación Android](https://amzn.to/2HH8TuP "Comprar el libro Desarrollar una Aplicación Android"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Android Studio: Aprendiendo a desarrollar Aplicaciones de José Dimas Luján**
 
@@ -129,13 +129,13 @@ La herramienta de Google, es la herramienta más sencilla con la que crear apps 
 
 En este libro vas a aprender a usar cada una de las diferentes apartados existentes dentro del Android Studio y la implementación de sus elementos principales, como por ejemplo el acceso a las APIS.
 
-[🔥 COMPRAR el libro Android Studio: Aprendiendo a desarrollar Aplicaciones](https://amzn.to/2LgDjFu "Comprar el libro Android Studio: Aprendiendo a desarrollar Aplicaciones"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Android Studio: Aprendiendo a desarrollar Aplicaciones](https://amzn.to/2LgDjFu "Comprar el libro Android Studio: Aprendiendo a desarrollar Aplicaciones"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Plataformas Android de Jesús Tomás Gironés**
 
 Este libro va dirigio hacía los desarrolladores Android que ya posean experiencia en el desarrollo de aplicaciones y deseen enfrontar la creación de apps enfocadas principalmente hacía televisores.
 
-[🔥 COMPRAR el libro Plataformas Android](https://amzn.to/2LbZUUM "Comprar el libro Plataformas Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Plataformas Android](https://amzn.to/2LbZUUM "Comprar el libro Plataformas Android"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 **Los mejores libros sobre Android y Kotlin en Inglés**
 
@@ -150,7 +150,7 @@ Este libro en específico le ayuda a crear aplicaciones en Android 9, la última
 - Cubre los conceptos de la última versión de Android.
 - Es fácil de entender porque está escrito en un lenguaje muy sencillo.
 
-[🔥 COMPRAR el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth](https://amzn.to/2FdfK1h "Comprar el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth](https://amzn.to/2FdfK1h "Comprar el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth?
 
@@ -160,7 +160,7 @@ Otras áreas que se cubrirán en este libro incluyen; componentes de Android que
 
 Además, encontrarás conceptos como manejo de pantalla táctil, vistas de tarjetas, cajones de navegación, acción de botones flotantes, entre otros relacionados. En general, este libro es muy extenso y cubrirá todo lo que necesita saber en lo que respecta al desarrollo de aplicaciones basadas en Android.
 
-[🔥 COMPRAR el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth](https://amzn.to/2FdfK1h "Comprar el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth](https://amzn.to/2FdfK1h "Comprar el libro Fundamentos de desarrollo de Android Studio 4.0, de Neil Smyth"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi**
 
@@ -185,7 +185,7 @@ Puede consultar este código y probarlo. O puede desarrollar en paralelo y selec
 - Se crea una aplicación de muestra enriquecida para demostrar la capacidad de Kotlin en varias partes de la aplicación
 - Se discuten en profundidad los conceptos más recientes. Por ejemplo, Flow, NavigationComponent, Coroutine, ViewModel y LiveData.
 
-[🔥 COMPRAR el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi](https://amzn.to/2DHpVKH "Comprar el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi](https://amzn.to/2DHpVKH "Comprar el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi?
 
@@ -193,7 +193,7 @@ Con este libro serás capaz de codificar en Kotlin una aplicación de Android ap
 
 Además, aprenderás a tomar medidas antes de poner una aplicación en producción, y a aplicar prácticas ágiles antes y después de que se inicie el desarrollo de una aplicación.
 
-[🔥 COMPRAR el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi](https://amzn.to/2DHpVKH "Comprar el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi](https://amzn.to/2DHpVKH "Comprar el libro Desarrollo de aplicaciones para Android con Kotlin, de Hardik Trivedi"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **Android profesional, de Reto Meier**
 
@@ -204,13 +204,13 @@ Ofrece explicaciones y una exploración muy detalladas del estudio de Android qu
 - Incluye proyecto: esto es muy importante porque podrá crear una aplicación de muestra al final del libro que le brindará experiencia práctica en el campo.
 - Es asequible en comparación con el contenido ofrecido.
 
-[🔥 COMPRAR el libro Android profesional, de Reto Meier](https://amzn.to/3if8BM6 "Comprar el libro Android profesional, de Reto Meier"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Android profesional, de Reto Meier](https://amzn.to/3if8BM6 "Comprar el libro Android profesional, de Reto Meier"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Android profesional, de Reto Meier?
 
 El libro profesional de Android te ayudará; para aprender y comprender la anatomía, la metáfora de la interfaz de usuario de las aplicaciones de Android y la anatomía general de estas aplicaciones, también podrás diseñar todo tipo de aplicaciones de Android para todos los dispositivos, ya sea para teléfonos, tabletas e incluso para televisores, también podrás utilizar el framework de Android y los servicios de Google Play.
 
-[🔥 COMPRAR el libro Android profesional, de Reto Meier](https://amzn.to/3if8BM6 "Comprar el libro Android profesional, de Reto Meier"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Android profesional, de Reto Meier](https://amzn.to/3if8BM6 "Comprar el libro Android profesional, de Reto Meier"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Programación en Android de Bill Philips**
 
@@ -222,13 +222,13 @@ Este es un buen libro y una guía de referencia para principiantes, e incluso si
 - El libro se actualiza con los últimos cambios en Android Studio y otras herramientas.
 - El autor mantiene un buen ritmo a lo largo del libro.
 
-[🔥 COMPRAR el libro Programación en Android de Bill Philips](https://amzn.to/2FbgTX2 "Comprar el libro Programación en Android de Bill Philips"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Programación en Android de Bill Philips](https://amzn.to/2FbgTX2 "Comprar el libro Programación en Android de Bill Philips"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Programación en Android de Bill Philips?
 
 El libro cubre todos los conceptos esenciales de Android desde actividad, hilos, temas, vistas, fragmentos, comunicación en red, etc. y ni una sola palabra del libro es extra. Cada capítulo, cada párrafo abre un mundo de cosas nuevas para el lector.
 
-[🔥 COMPRAR el libro Programación en Android de Bill Philips](https://amzn.to/2FbgTX2 "Comprar el libro Programación en Android de Bill Philips"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Programación en Android de Bill Philips](https://amzn.to/2FbgTX2 "Comprar el libro Programación en Android de Bill Philips"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Empieza aquí: Desarrolla en Android**
 
@@ -245,7 +245,7 @@ Este es un libro para principiantes y también para programadores de nivel super
 
 A programar una aplicación básica en Android, totalmente desde cero.
 
-[🔥 COMPRAR el libro Empieza aquí: Desarrolla en Android](https://amzn.to/3i9eI4C "Comprar el libro Empieza aquí: Desarrolla en Android"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Empieza aquí: Desarrolla en Android](https://amzn.to/3i9eI4C "Comprar el libro Empieza aquí: Desarrolla en Android"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Inicio del desarrollo de juegos para Android Unity**
 
@@ -256,7 +256,7 @@ El autor comparte consejos a lo largo del camino para ayudar a mejorar el rendim
 - Aproveche al máximo los componentes y características populares de Unity.
 - Escribe un juego de Android con optimizaciones.
 
-[🔥 COMPRAR el libro Inicio del desarrollo de juegos para Android Unity](https://amzn.to/2R791Ir "Comprar el libro Inicio del desarrollo de juegos para Android Unity"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Inicio del desarrollo de juegos para Android Unity](https://amzn.to/2R791Ir "Comprar el libro Inicio del desarrollo de juegos para Android Unity"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué aprenderás con el libro Inicio del desarrollo de juegos para Android Unity?
 
@@ -266,7 +266,7 @@ También te familiarizarás con la creación de objetos 3D básicos en el juego 
 
 En los últimos capítulos aprenderás a crear un juego simple para Android utilizando los conceptos estudiados en los capítulos anteriores. Se escribirán guiones para manejar los comportamientos del jugador y los enemigos, así como para manejar otros aspectos del juego.
 
-[🔥 COMPRAR el libro Inicio del desarrollo de juegos para Android Unity](https://amzn.to/2R791Ir "Comprar el libro Inicio del desarrollo de juegos para Android Unity"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 COMPRAR el libro Inicio del desarrollo de juegos para Android Unity](https://amzn.to/2R791Ir "Comprar el libro Inicio del desarrollo de juegos para Android Unity"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Se puede iniciar el desarrollo de aplicaciones de Android en Windows, Mac o Linux y necesitará Java JDK5 o posterior y Android Studio. Nuestra lista contiene todo tipo de libros dirigidos a principiantes, intermedios y programadores experimentados.
 
