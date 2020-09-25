@@ -29,13 +29,23 @@ Actualmente, el aspecto general de la Wikipedia desde el escritorio del ordenado
 
 A través de la Mediawiki en la que se gestiona el trabajo del equipo de mantenimiento de la Wikipedia. Se establecen posibles nuevos cambios para el futuro próximo dentro de la interfaz de la Wikipedia.
 
+### **Tabla de Contenidos Flotante**
+
 Uno de ellos, será la incursión de una nueva función que incorpora una tabla de contenido en la parte superior de la página, haciendo mucho más fácil la lectura y navegación dentro de las páginas que poseen demasiado contenido. Sin la necesidad del desplazamiento hacía arriba y abajo por lo profundo de la web.
+
+### **Barra Lateral Plegable**
 
 Además, se incluirá una barra lateral plegable que será el primer cambio que se implementará. La barra, permitirá a los usuarios contraer el menú en el lado izquierdo de cada página, para minimizar las distracciones y limitar el contenido y los enlaces irrelevantes en el lado izquierdo de la pantalla.
 
+### **Botón de Cambio entre Idiomas de la página**
+
 El sitio web también agregará un botón para implementar el cambio rápido entre diferentes idiomas dentro de una misma página.
 
+### **Más Leves Cambios**
+
 Eso no es todo. Se agregarán además, mejoras a la herramienta de búsqueda del sitio para facilitar la búsqueda de otras páginas y se reconfigurará el logotipo para hacerlo más pequeño en cada página en las que se muestra.
+
+## **¿Cuándo se producirán los cambios en la Wikipedia?**
 
 La Fundación Wikimedia, la empresa matriz del sitio, anunció en una publicación de su blog que los cambios se producirán "de manera incremental durante un largo período de tiempo", lo que permitirá a los usuarios probar las nuevas funciones antes de que se implementen oficialmente.
 

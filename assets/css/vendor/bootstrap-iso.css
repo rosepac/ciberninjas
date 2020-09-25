@@ -17,7 +17,7 @@
 }
 
 .bootstrap-iso :root {
-    --blue: #007bff;
+    --blue: #c82333;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #e83e8c;
@@ -179,7 +179,7 @@
 }
 
 .bootstrap-iso a {
-    color: #007bff;
+    color: #c82333;
     text-decoration: none;
     background-color: transparent;
 }
@@ -2571,8 +2571,8 @@
 
 .bootstrap-iso .btn-primary {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #c82333;
+    border-color: #c82333;
 }
 
 .bootstrap-iso .btn-primary:hover {
@@ -2589,8 +2589,8 @@
 .bootstrap-iso .btn-primary.disabled,
 .bootstrap-iso .btn-primary:disabled {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #c82333;
+    border-color: #c82333;
 }
 
 .bootstrap-iso .btn-primary:not(:disabled):not(.disabled):active,
@@ -2874,14 +2874,14 @@
 }
 
 .bootstrap-iso .btn-outline-primary {
-    color: #007bff;
-    border-color: #007bff;
+    color: #c82333;
+    border-color: #c82333;
 }
 
 .bootstrap-iso .btn-outline-primary:hover {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #c82333;
+    border-color: #c82333;
 }
 
 .bootstrap-iso .btn-outline-primary:focus,
@@ -2891,7 +2891,7 @@
 
 .bootstrap-iso .btn-outline-primary.disabled,
 .bootstrap-iso .btn-outline-primary:disabled {
-    color: #007bff;
+    color: #c82333;
     background-color: transparent;
 }
 
@@ -2899,8 +2899,8 @@
 .bootstrap-iso .btn-outline-primary:not(:disabled):not(.disabled).active,
 .bootstrap-iso .show>.btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #c82333;
+    border-color: #c82333;
 }
 
 .bootstrap-iso .btn-outline-primary:not(:disabled):not(.disabled):active:focus,
@@ -3163,7 +3163,7 @@
 
 .bootstrap-iso .btn-link {
     font-weight: 400;
-    color: #007bff;
+    color: #c82333;
     text-decoration: none;
 }
 
@@ -3471,7 +3471,7 @@
 .bootstrap-iso .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #007bff;
+    background-color: #c82333;
 }
 
 .bootstrap-iso .dropdown-item.disabled,
@@ -3847,8 +3847,8 @@
 
 .bootstrap-iso .custom-control-input:checked~.custom-control-label::before {
     color: #fff;
-    border-color: #007bff;
-    background-color: #007bff;
+    border-color: #c82333;
+    background-color: #c82333;
 }
 
 .bootstrap-iso .custom-control-input:focus~.custom-control-label::before {
@@ -3912,8 +3912,8 @@
 }
 
 .bootstrap-iso .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::before {
-    border-color: #007bff;
-    background-color: #007bff;
+    border-color: #c82333;
+    background-color: #c82333;
 }
 
 .bootstrap-iso .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::after {
@@ -4142,7 +4142,7 @@
     width: 1rem;
     height: 1rem;
     margin-top: -0.25rem;
-    background-color: #007bff;
+    background-color: #c82333;
     border: 0;
     border-radius: 1rem;
     transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4173,7 +4173,7 @@
 .bootstrap-iso .custom-range::-moz-range-thumb {
     width: 1rem;
     height: 1rem;
-    background-color: #007bff;
+    background-color: #c82333;
     border: 0;
     border-radius: 1rem;
     transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4207,7 +4207,7 @@
     margin-top: 0;
     margin-right: 0.2rem;
     margin-left: 0.2rem;
-    background-color: #007bff;
+    background-color: #c82333;
     border: 0;
     border-radius: 1rem;
     transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4350,7 +4350,7 @@
 .bootstrap-iso .nav-pills .nav-link.active,
 .bootstrap-iso .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #007bff;
+    background-color: #c82333;
 }
 
 .bootstrap-iso .nav-fill .nav-item {
@@ -5088,7 +5088,7 @@
     padding: 0.5rem 0.75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #007bff;
+    color: #c82333;
     background-color: #fff;
     border: 1px solid #dee2e6;
 }
@@ -5121,8 +5121,8 @@
 .bootstrap-iso .page-item.active .page-link {
     z-index: 1;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #c82333;
+    border-color: #c82333;
 }
 
 .bootstrap-iso .page-item.disabled .page-link {
@@ -5206,7 +5206,7 @@
 
 .bootstrap-iso .badge-primary {
     color: #fff;
-    background-color: #007bff;
+    background-color: #c82333;
 }
 
 .bootstrap-iso a.badge-primary:hover,
@@ -5537,7 +5537,7 @@
     color: #fff;
     text-align: center;
     white-space: nowrap;
-    background-color: #007bff;
+    background-color: #c82333;
     transition: width 0.6s ease;
 }
 
@@ -5634,8 +5634,8 @@
 .bootstrap-iso .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #c82333;
+    border-color: #c82333;
 }
 
 .bootstrap-iso .list-group-horizontal {
@@ -6807,7 +6807,7 @@
 }
 
 .bootstrap-iso .bg-primary {
-    background-color: #007bff !important;
+    background-color: #c82333 !important;
 }
 
 .bootstrap-iso a.bg-primary:hover,
@@ -6943,7 +6943,7 @@
 }
 
 .bootstrap-iso .border-primary {
-    border-color: #007bff !important;
+    border-color: #c82333 !important;
 }
 
 .bootstrap-iso .border-secondary {
@@ -10157,7 +10157,7 @@
 }
 
 .bootstrap-iso .text-primary {
-    color: #007bff !important;
+    color: #c82333 !important;
 }
 
 .bootstrap-iso a.text-primary:hover,
