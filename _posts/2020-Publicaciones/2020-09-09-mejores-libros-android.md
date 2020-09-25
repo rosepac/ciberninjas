@@ -288,6 +288,6 @@ Se puede iniciar el desarrollo de aplicaciones de Android en Windows, Mac o Linu
 
 [¿Qué es DevTools para Flutter y Dart?](https://ciberninjas.com/flutter-dart-devtools/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los 11 mejores libros de Android y Kotlin 2020](/assets/img/blog/libros-android-kotlin.webp "Los 11 mejores libros de Android y Kotlin 2020")

@@ -46,6 +46,6 @@ Los oradores confirmados hasta el momento, son:
 
 [▷ Multiconferencia CodeMotion Europea 2020](https://ciberninjas.com/multiconferencia-europa-devs-2020/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Conferencia Técnica Codemotion 2020](https://events.codemotion.com/conferences/online/2020/online-tech-conference-spanish-edition){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

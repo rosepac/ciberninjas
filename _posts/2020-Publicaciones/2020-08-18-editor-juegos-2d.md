@@ -84,6 +84,6 @@ Cada copia corresponde a un tipo específico. Un tipo es una plantilla para nuev
 
 [La historia y el legado de jQuery](https://ciberninjas.com/la-historia-y-el-legado-de-jquery/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web Oficial de CT.JS](https://ctjs.rocks/){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

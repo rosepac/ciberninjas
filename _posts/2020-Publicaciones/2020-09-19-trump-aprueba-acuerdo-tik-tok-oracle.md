@@ -59,7 +59,7 @@ TikTok confirmó que la compañía creará "25,000 empleos en todo el país" com
 
 [▷ El ataque de los clones de las aplicaciones similares a TikTok](https://ciberninjas.com/clones-tiktok/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Verge](https://www.theverge.com/2020/9/19/21437850/president-trump-approves-oracle-tiktok-partnership-bytedance-china-ban "Verge"){:target="_blank" rel="nofollow,noreferrer"}
 

@@ -66,7 +66,7 @@ Si quieres probar, formarte y comenzar a usar la CLI de Github, sigue los botone
 
 [Aulas de Github: La automatización de las clases](https://ciberninjas.com/github-classroom/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog de Github](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/ "blog de Github"){:target="_blank" rel="nofollow,noreferrer"}
 

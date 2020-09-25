@@ -29,7 +29,7 @@ Después de unos años de desarrollo secreto dirigido por James Gosling, Sun lan
 
 Hoy, millones de desarrolladores programan en Java. Aunque Java continúa evolucionando a un ritmo cada vez más rápido , con motivo del 25 aniversario de la plataforma, Java Magazine decidió echar un vistazo a cómo Java moldeó nuestro planeta.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Lo que sigue es una lista de las 25 aplicaciones Java más ingeniosas e influyentes jamás escritas, desde Wikipedia Search hasta Ghidra de la Agencia de Seguridad Nacional de EE. UU. El alcance de estas aplicaciones abarca toda la gama: exploración espacial, videojuegos, aprendizaje automático, genómica, automoción, ciberseguridad y más.
 
@@ -114,7 +114,7 @@ SBMT está escrito en Java y utiliza el kit de herramientas de visualización de
 
 Los equipos de misiones de vuelo para Dawn, Rosetta, OSIRIS-REx y Hayabusa2 han usado SBMT mientras exploraban cometas, asteroides y otros planetas.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Datos Intensivos**
 
@@ -188,7 +188,7 @@ Algunos atribuyen el éxito inicial de Minecraft al hecho de que los jugadores p
 
 Aunque los applets de Java han quedado en desuso desde la versión de Java 9 y se eliminaron en 2018 de Java SE 11, durante un tiempo fueron la mejor opción para implementar juegos a través del navegador. De hecho: los applets de Java también podían acceder a la aceleración de hardware.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Aplicaciones de programación**
 
@@ -232,7 +232,7 @@ Escrito en Java, Jenkins ayuda a construir, probar e implementar aplicaciones de
 
 [Jenkins](https://ciberninjas.com/jenkins/) junto a sus más de 1500 complementos aportados por la comunidad abordan innumerables tareas de implementación y testing, desde la implementación del trabajo a través de GitHub, pasando por el apoya a los desarrolladores daltónicos, hasta la generación de archivos JAR de MySQL.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 17. **GraalVM**
 
@@ -302,7 +302,7 @@ El navegador de código abierto Integrated Genome ha permitido y permite en la a
 
 De acuerdo con este esfuerzo mundial, nace una herramienta similar proviene de la Universidad de California Santa Cruz en forma del navegador Genome, administrado por Jim Kent.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 23. **BioJava**
 
@@ -353,6 +353,6 @@ Hasta aquí la impresionante recopilación de programas creados por el lenguaje 
 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría](/assets/img/2020-news/java-aplicaciones.webp "Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría")

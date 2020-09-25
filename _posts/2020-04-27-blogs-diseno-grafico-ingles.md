@@ -99,7 +99,7 @@ Aquí está la lista de los mejores blogs de diseño, a seguir y visitar asiduam
 - [66. **Webcredible**](#66-webcredible)
   - [**Relacionados**](#relacionados)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 1. **Smashing Magazine**
 
@@ -131,7 +131,7 @@ Lo que me atrae de este sitio web es su excelente diseño visual. Los suscriptor
 
 [Web Designer Depot](https://www.webdesignerdepot.com/ "Web Designer Depot"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 6. **Abduzeedo**
 
@@ -151,7 +151,7 @@ La mayoría de nosotros hemos usado el servicio de intercambio de archivos Dropb
 
 [Dropbox Design](https://dropbox.design/ "Dropbox Design"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Design Week**
 
@@ -165,7 +165,7 @@ Create es la revista de Adobe para creativos, para creativos, disponible en lín
 
 [Create Adobe](https://create.adobe.com/graphic-design.html "Create Adobe"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 11. **99U**
 
@@ -197,7 +197,7 @@ InspoFinds es un sitio web y un libro de edición limitada que tiene como objeti
 
 [MasterPicks](https://www.themasterpicks.com/ "MasterPicks"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 16. **Frank Chimero**
 
@@ -217,7 +217,7 @@ Artículos útiles sobre cómo crear experiencias de usuario efectivas.
 
 [UX Pin Blog](https://www.uxpin.com/studio/ "UX Pin Blog"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 19. **Design Modo UX**
 
@@ -231,7 +231,7 @@ Eye Magazine, la revista internacional de diseño gráfico, es una revista impre
 
 [Eye Magazine](https://www.eyemagazine.com/blog "Eye Magazine"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 21. **Digital Arts**
 
@@ -263,7 +263,7 @@ Otro gran blog de Under Consideration, Art of the Menu cataloga la creatividad s
 
 [Art of the Menu](https://www.underconsideration.com/artofthemenu/ "Art of the Menu"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 26. **Print.pm**
 
@@ -283,7 +283,7 @@ El Blog de diseño tiene que ver con la inspiración visual. Fundada, diseñada 
 
 [The Dsgn blog](https://thedsgnblog.com/tagged/graphic-design "The Dsgn blog"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 29. **BP&O**
 
@@ -297,7 +297,7 @@ Design Clever es una colaboración iniciada por Jonathan Ring y Bethany Baker, d
 
 [Design Claver](https://www.designclever.co.uk/ "Design Claver"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 31. **Grain Edit**
 
@@ -329,7 +329,7 @@ Permitiendo que los creativos compartan su trabajo mucho antes de que se soñara
 
 [Dribbble](https://dribbble.com/stories "Dribbble"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 36. **Mindsparkle**
 
@@ -349,7 +349,7 @@ Bellamente diseñado, liderado por la industria y uno de los mejores recursos pa
 
 [Its Nice That](https://www.itsnicethat.com/ "Its Nice That"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 39. **Designer News**
 
@@ -363,7 +363,7 @@ Describiéndose a sí mismo como "donde se reúne la comunidad de diseño", Desi
 
 [Httpster](https://httpster.net/2020/apr/ "Httpster"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 41. **Site Inspire**
 
@@ -395,7 +395,7 @@ Creative Boom celebra, inspira y apoya a la comunidad creativa y tiene una gran 
 
 [Creative Boom](https://www.creativeboom.com/ "Creative Boom"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 46. **AIGA**
 
@@ -415,7 +415,7 @@ Webflow es un producto utilizado para crear sitios web visualmente, sin codifica
 
 [WebFlow](https://webflow.com/blog "WebFlow"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 49. **Ambalaj**
 
@@ -429,7 +429,7 @@ El blog oficial de la revista 8 Faces, este blog presenta una tipografía inspir
 
 [8 Faces](https://blog.8faces.com/ "8 Faces"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 51. **Swiss Miss**
 
@@ -461,7 +461,7 @@ Readdd es una lista de lectura para diseñadores, actualizada diariamente con pi
 
 [Readdd](https://readdd.com/ "Readdd"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 56. **Blog de Van Schneider**
 
@@ -475,7 +475,7 @@ Underpinned es una plataforma en línea de herramientas y servicios para freelan
 
 [Underpinned](https://underpinned.co/magazine/featured "Underpinned"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 58. **Identity Designed**
 
@@ -495,7 +495,7 @@ This is Paper es un hermoso blog y revista impresa centrada en la creatividad, c
 
 [This is Paper](https://www.thisispaper.com/print "This is Paper"){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-dark .btn-lg .btn-block}
+[⏫ Regresar al Menú](/blogs-diseno-grafico-ingles/#menu){: .btn .btn-danger .btn-lg .btn-block}
 
 ## 61. **Good Design Makes Me Happy**
 
@@ -550,4 +550,4 @@ Artículos y recursos sobre la experiencia de usuario.
 
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

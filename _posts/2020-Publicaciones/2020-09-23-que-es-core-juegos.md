@@ -90,7 +90,7 @@ Incluso si este no es el servicio en particular que se abre paso através de Int
 
 [El fabricante de Fortnite, Epic, invierte en la herramienta de creación de juegos accesible Core](https://ciberninjas.com/epic-invierte-core/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: Publireportaje [The Verge](https://www.theverge.com/2020/9/22/21449772/epic-games-fortnite-core-game-development-tool "Publireportaje The Verge"){:target="_blank" rel="nofollow,noreferrer"}
 

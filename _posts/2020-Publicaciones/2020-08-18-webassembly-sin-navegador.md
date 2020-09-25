@@ -33,6 +33,6 @@ date: 2020-08-18 09:12:12
 
 [La historia y el legado de jQuery](https://ciberninjas.com/la-historia-y-el-legado-de-jquery/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página de ZzFXM](https://keithclark.github.io/ZzFXM/){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

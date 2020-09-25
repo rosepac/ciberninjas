@@ -59,7 +59,7 @@ No está claro cómo el mundo del código abierto verá este acuerdo, pero lo qu
 
 [▷ Un blog creado a través de inteligencia artificial logra engañar](https://ciberninjas.com/blog-creado-por-inteligencia-artificial/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: The Verge.
 

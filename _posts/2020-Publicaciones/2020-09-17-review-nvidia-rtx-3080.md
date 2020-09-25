@@ -120,7 +120,7 @@ Para el núcleo de la GPU, mientras que Nvidia especifica el reloj de impulso no
 
 La respuesta: no muy lejos. Comencé con un modesto aumento de 50 MHz en la velocidad del reloj, que parecía ir bien. Luego lo empujé a 100 MHz y colapsé. A través de un poco de prueba y error, terminé en +75 MHz como la mejor velocidad estable que pude alcanzar. Eso es después de aumentar el voltaje en 100 mV usando EVGA Precision X1 y aumentar la velocidad del ventilador para mantener la GPU fría. El resultado fueron relojes de impulso en el rango de 1950-2070 MHz, que generalmente se establecieron alrededor de la marca de 2 GHz.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Compra la tarjeta gráfica RTX 3080**: [NVIDIA RTX 3080](https://amzn.to/33Hs9TA){:target="_blank" rel="nofollow,noreferrer"}
 

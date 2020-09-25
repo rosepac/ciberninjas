@@ -18,21 +18,41 @@ img: "/assets/img/paginas-cursos/cursos-ofimatica.webp"
 
 ---
 
+Los mejores cursos gratuitos de ofimática, tanto del paquete completo de Office: "Word, Excel, Acces, Powerpoint, Outlook, etc" junto a otros paquetes enfocados en el uso diario del ordenador.
+
+Además, vas a poder encontrar otros cursos relacionados con aplicaciones y software que permiten realizar trabajos de creación de contenidos y edición de imágenes sencillas.
+
+Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
+
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Office
+- [**Cursos Gratis de Office**](#cursos-gratis-de-office)
+- [**Cursos Gratis de Acces**](#cursos-gratis-de-acces)
+- [**Cursos Gratis de Excel**](#cursos-gratis-de-excel)
+- [**Cursos Gratis de Powerpoint**](#cursos-gratis-de-powerpoint)
+- [**Cursos Gratis de Word**](#cursos-gratis-de-word)
+  - [Google Drive](#google-drive)
+  - [Presentaciones](#presentaciones)
+  - [Historia Informática](#historia-informática)
+  - [Contabilidad](#contabilidad)
+  - [Software Libre](#software-libre)
+- [Gestión e Informática](#gestión-e-informática)
+  - [Otros](#otros)
+- [ArcGIS](#arcgis)
+
+## **Cursos Gratis de Office**
 
 - [Microsoft Office 2013](https://www.youtube.com/playlist?list=PL2994D8A0985CFC9A) (Pablo Martinez, YouTube)
 
-### Acces
+## **Cursos Gratis de Acces**
 
 - [Curso de Acces 2010 Avanzado](https://www.youtube.com/playlist?list=PL87EB5DB749276DAF){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Curso de Acces 2010 Básico](https://www.youtube.com/playlist?list=PLDA8B66B264169835){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Diseño de sistemas de información gerencial para intranet con Microsoft Access](https://www.edx.org/course/diseno-de-sistemas-de-informacion-gerencial-para-2){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad del Rosario)
 
-### Excel
+## **Cursos Gratis de Excel**
 
 - [Aprende fácilmente funciones en Excel](https://www.udemy.com/aprende-facilmente-funciones-en-excel){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Curso de Excel 2010 Avanzado](https://www.youtube.com/playlist?list=PLFED09792AB0E606F){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
@@ -50,7 +70,7 @@ img: "/assets/img/paginas-cursos/cursos-ofimatica.webp"
 - [Macros y VBA para Excel desde cero](https://www.udemy.com/macros-y-vba-para-excel-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Operaciones financieras en Excel](https://www.youtube.com/playlist?list=PLFNWPvtjBMjtG2o48zgCj2fItp53dPBc4) (Excel y Más, YouTube)
 
-### Powerpoint
+## **Cursos Gratis de Powerpoint**
 
 - [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
 - [Diseña presentaciones eficaces con PowerPoint](https://www.edx.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
@@ -58,7 +78,7 @@ img: "/assets/img/paginas-cursos/cursos-ofimatica.webp"
 - [Introducción al PowerPoint 2013](https://www.udemy.com/introduccion-al-powerpoint-2013){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Microsoft Powerpoint 2013](https://www.youtube.com/playlist?list=PL5vjFJ0wFekJnqeP2qZNHGft7SoIGJu8B) (Yoney Gallardo, YouTube)
 
-### Word
+## **Cursos Gratis de Word**
 
 - [Curso de Word 2010 Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnPxtSjts4Tieg4AbIRYz1K){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Introducción a Word 2010](https://www.udemy.com/introduccion-a-word-2010){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -114,6 +134,6 @@ img: "/assets/img/paginas-cursos/cursos-ofimatica.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-ofimatica.webp)

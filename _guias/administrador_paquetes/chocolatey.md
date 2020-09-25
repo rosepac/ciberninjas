@@ -38,7 +38,7 @@ El motor de ejecución utiliza la infraestructura de empaquetado de NuGet y Wind
 
 El nombre es una extensión en un juego de palabras de NuGet (de &#171;nougat&#187; en español, turrón) porque todo el mundo ama Chocolatey (de &#171;nougat chocolat&#187; en español, turrón de chocolate).
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 📋 Requisitos
 
@@ -74,7 +74,7 @@ Si no tiene Package Reducer y está incrustando binarios en nupkgs, necesitará 
 - Chocolatey GUI solo se ejecuta cuando la aplicación está abierta y también está en la memoria administrada. Puede funcionar en sistemas con poca memoria.
 - Al menos 2 GB de RAM como mínimo, pero se recomienda al menos 8 GB para administrar las instalaciones.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 💭 Hablemos de Chocolatey
 
@@ -122,7 +122,7 @@ Si quieres conocer todos los comandos existentes dentro de Chocolatey, solo debe
 
 Por favor, se debe ejecutar chocolate con `choco command -help` para mostrar la ayuda específica de cada comando.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🛠 Instalación de Chocolatey
 
@@ -168,7 +168,7 @@ Ejecutando la siguiente línea:
     
 Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la consola, tendremos el Software instalado y preparado para funcionar!
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🎁 Off-topic: Zeal
     
@@ -233,4 +233,4 @@ Esta guía fue creada originalmente el *01 de Marzo de 2018* y actualizado por �
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

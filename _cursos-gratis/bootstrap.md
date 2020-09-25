@@ -36,6 +36,6 @@ Los mejores cursos en español para estudiar el framework de Bootstrap.
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![Mejores cursos hispanos gratis de Bootstrap](/assets/img/paginas-cursos/cursos-bootstrap.webp "Mejores cursos hispanos gratis de Bootstrap")

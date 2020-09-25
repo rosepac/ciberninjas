@@ -44,6 +44,6 @@ Microsoft dijo el domingo que había iniciado conversaciones para comprar parte 
 
 [Twitter quiere agregar pagos a través de un modelo de suscripciones](https://ciberninjas.com/twitter-quiere-agregar-suscripciones/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [TikTok lanza una nueva aplicación en Amazon Fire TV](https://www.theverge.com/2020/8/6/21357300/tiktok-amazon-fire-tv-app-launch-free-tv-mobile){:target="_blank" rel="nofollow,noreferrer"}

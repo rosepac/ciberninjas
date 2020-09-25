@@ -56,6 +56,6 @@ Una forma de protegerte de ese tipo de aplicaciones, que suelen instalar pequeñ
 
 [El mejor software de seguridad para tu PC en 2020](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los investigadores de ThreatFabric han advertido sobre una falsa actualización de Google llamada BlackRock, que puede robar sus datos personales de 337 aplicaciones, incluidas Netflix y Tinder](/assets/img/blog/22-seguridad-android.webp "Los investigadores de ThreatFabric han advertido sobre una falsa actualización de Google llamada BlackRock, que puede robar sus datos personales de 337 aplicaciones, incluidas Netflix y Tinder")

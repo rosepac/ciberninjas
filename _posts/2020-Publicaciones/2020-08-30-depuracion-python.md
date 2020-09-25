@@ -130,4 +130,4 @@ Ideal para: Convertir bases de código en una conformidad estilística básica e
 
 [▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial](https://ciberninjas.com/11-aprendizajes-principiantes-inteligencia-artificial/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

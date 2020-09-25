@@ -142,7 +142,7 @@ Para obtener más información sobre Vue 3.0, consulte nuestro [nuevo sitio web 
 
 [Los 100 Cursos de Programación GRATIS más nuevos](https://ciberninjas.com/cursos-udemy-programaci%C3%B3n-m%C3%A1s-actuales/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial del framework de Vue 3.0](https://github.com/vuejs/vue-next/releases/tag/v3.0.0 "Blog oficial del framework de Vue 3.0"){:target="_blank" rel="nofollow,noreferrer"}
 

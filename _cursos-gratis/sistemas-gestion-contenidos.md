@@ -18,33 +18,31 @@ img: "/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp"
 
 ---
 
+Los **mejores cursos gratis de los mejores sistemas de gestión de contenidos**, que existen dentro del universo de Internet: Wordpress, Blogger, Joomla, Moodle, Drupal, etc.
+
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Sistemas de Gestión de Contenidos ✍
-
-[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
-
-### Blogger
+## **Cursos Gratis de Blogger**
 
 - [Curso como crear y editar un blog de blogguer, Joalgoba](https://www.youtube.com/playlist?list=PLe_p_U5W9sa7KnbvLiJFqKXeqcFKSe7bb){:target="_blank" rel="nofollow,noreferrer"} (Youtube \ Joalgoba)
 
-### Drupal
+## **Cursos Gratis de Drupal**
 
 - [Aprende a usar Rest en Drupal 7](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Crear un sitio web con Drupal](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-basico-de-drupal%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Drupal 8.0](https://www.youtube.com/playlist?list=PLY3lWsAagE8N7ubeqj6LY5r-ak7_BbQ0A){:target="_blank" rel="nofollow,noreferrer"} (PandB Software en Español, YouTube)
 
-### Joomla
+## **Cursos Gratis de Joomla**
 
 - [Joomla 3: Mi primer proyecto con Joomla](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-joomla-3-5-mi-primero-proyecto-con-joomla%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Joomla 3.0](https://www.youtube.com/playlist?list=PLWN_byxCBu5K6k5_-UEEpPd4eQFjo9C-w){:target="_blank" rel="nofollow,noreferrer"} (Grupo Inti, YouTube)
 
-### Moodle
+## **Cursos Gratis de Moodle**
 
 - [Curso Completo de Moodle 3.1](https://www.youtube.com/playlist?list=PLa3fNlcB1bYcSBp3kbN1BSc0dZfQ0QZpG){:target="_blank" rel="nofollow,noreferrer"} (Óscar Arturo Cruz, YouTube)
 
-### Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
+## **Cursos Gratis de Wordpress** <i class="fa fa-wordpress" aria-hidden="true"></i>
 
 - [Ajax en Wordpress para desarrolladores web, nivel avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fajax-para-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * Paso a Pago 😿 [Aprende a crear una página web profesional con Wordpress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-tu-pagina-web-profesional-con-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -70,6 +68,6 @@ img: "/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp)

@@ -18,10 +18,12 @@ img: "/assets/img/paginas-cursos/cursos-seguridad-red.webp"
 
 ---
 
+Los **mejores cursos gratuitos de seguridad en la red**.
+
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 👮‍♀️ Seguridad
+## **Cursos Gratis de Seguridad en Internet**
 
 - [Aprende seguridad Cisco desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
 - [Aspectos Sociales, Legales, Éticos y Profesionales de la Informática (2010)](http://ocw.uniovi.es/course/view.php?id=151) (OCW)
@@ -45,6 +47,6 @@ img: "/assets/img/paginas-cursos/cursos-seguridad-red.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-seguridad.webp)

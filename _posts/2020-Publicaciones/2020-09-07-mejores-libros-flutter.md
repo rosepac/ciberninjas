@@ -138,6 +138,6 @@ Crearás y publicarás tus propios complementos después de leer este libro. La 
 
 [¿Qué es DevTools para Flutter y Dart?](https://ciberninjas.com/flutter-dart-devtools/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores libros para aprender Flutter 2020](/assets/img/flutter/flutter-trabajadores.webp "Los mejores libros para aprender Flutter 2020")

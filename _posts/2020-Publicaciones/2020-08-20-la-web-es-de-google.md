@@ -70,7 +70,7 @@ Incluso controla el sistema operativo y el navegador a través del cual la mayor
 
 [▷ ¿Qué es el programa de expertos de Google?](https://ciberninjas.com/expertos-google/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![](/assets/img/blog/google-monopolio.webp)
 

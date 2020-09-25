@@ -38,16 +38,16 @@ Una técnica similar a la realizada por Google con Stadia y YouTube Gaming, pero
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Aquí están todo los Nuevo Dispositivos de Amazon 2020](/amazon-nuevo-hardware/)
+[▷ Los Nuevo Dispositivos Inteligentes de Amazon 2020: Echo Dot, Echo Show, Fire TV Stick, y más](https://ciberninjas.com/amazon-nuevo-hardware/)
 
-[]()
+[▷ Amazon rediseña la línea Echo con altavoces esféricos y pantallas giratorias](https://ciberninjas.com/amazon-echo-dot-2020/)
 
-[]()
+[▷ Amazon rediseña Fire TV, y presenta el nuevo Fire TV Stick y el Fire TV Stick Lite de precio barato](/amazon-fire-stick-2020/)
 
-[]()
+[▷ El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves](https://ciberninjas.com/amazon-echo-show-2020/)
 
-[]()
+[▷ Amazon lanza un nuevo dispositivo denominado Fire TV Cube](https://ciberninjas.com/amazon-fire-tv-cube/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Amazon anuncia la plataforma de transmisión de juegos Luna](/assets/img/amazon/25-amazon-luna.webp "Amazon anuncia la plataforma de transmisión de juegos Luna")

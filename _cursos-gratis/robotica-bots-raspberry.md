@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 🤖 Robótica
+## **Cursos Gratisd de Robótica**
 
 - [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Diseña, fabrica y programa tu propio robot](https://www.edx.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
@@ -41,7 +41,7 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Arduino 🔦
+## **Cursos Gratis de Arduino**
 
 - [Arduino desde Cero - Primer Módulo](https://www.udemy.com/innova-arduino-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Arduino desde Cero](https://www.youtube.com/channel/UC4unPLtykzwO7MB3IvaQZaA/playlists){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2017)
@@ -51,10 +51,11 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 - [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 
-## Casas Inteligentes 🏡
+## **Cursos Gratis de IOT**
 
+> 👷‍♂️ Bajo Construcción 👷‍♂️
 
-## Inteligencia Artificial
+## **Cursos Gratis de Inteligencia Artificial**
 
 - [Curso de Open AI](/open-ai-gym-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 - [Curso de C# aplicado a la Inteligencia Artificial](/inteligencia-artificial-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
@@ -67,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Raspberry Pi
+## **Cursos Gratis de Raspberry Pi**
 
 - [Aprende a manejar Raspberry Pi con Python](https://unipython.com/curso-raspberry-pi){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 - [Raspberry Pi 3](https://www.youtube.com/playlist?list=PLNipMBg3MF-aD-LQuyfj7z5Oqb3TqHjFa){:target="_blank" rel="nofollow,noreferrer"} (Editronikx, YouTube)
@@ -76,6 +77,6 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp)

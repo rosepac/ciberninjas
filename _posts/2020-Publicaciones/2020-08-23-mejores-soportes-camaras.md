@@ -80,4 +80,4 @@ El soporte para cámara web InnoGear cuenta con una base compacta ponderada para
 
 [▷ Los Mejores Auriculares Gamers y de Trabajo 2020](https://ciberninjas.com/auriculares-dise%C3%B1o/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

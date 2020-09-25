@@ -40,7 +40,7 @@ Los mejores cursos gratuitos con los que aprender los conceptos de SQL y bases d
 - [Bases de Datos (2015)](http://repositori.uji.es/xmlui/handle/10234/168735){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Bases de Datos I (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/bases-de-datos-i-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Bases de Datos desde cero](https://www.youtube.com/playlist?list=PLzSFZWTjelbJ01UciHPAWTqUFWesoGr9A){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2016)
+- [Bases de Datos desde cero](https://www.youtube.com/playlist?list=PLzSFZWTjelbJ01UciHPAWTqUFWesoGr9A){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2016)
 - [CRUD Firestore "Firebase". Base de datos en tiempo real](https://www.youtube.com/playlist?list=PLPl81lqbj-4IdJzDKoih6vXDP2Y8w5RGq){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
 - [Curso de Bases de Datos](/bases-datos-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 - [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
@@ -70,7 +70,7 @@ Los mejores cursos gratuitos con los que aprender los conceptos de SQL y bases d
 
 {% include cursos-bases-datos.html %}
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-bases-datos.webp)
 

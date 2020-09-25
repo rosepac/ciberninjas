@@ -49,7 +49,7 @@ Sino que también para otras experiencias de entretenimiento como la serie The M
 
 [▷ Conociendo Ct.js: Un nuevo editor de juegos 2D](https://ciberninjas.com/editor-juegos-2d/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: The Verge.
 

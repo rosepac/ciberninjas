@@ -144,7 +144,7 @@ published: true
 
 - Inserción sencilla de botones, gracias a las clases de bootstrap. Si lo deseas, puedes incluir botones de forma sencilla, simplemente debes incluir al final de un enlace y entre corchetes, las clases de bootstrap que correspondan al botón que quieres agregar.
 
-Por ejemplo, para un botón negro que ocupe todo el ancho del contenido, agregaremos `{: .btn .btn-dark .btn-lg .btn-block}` y si ese botón, es hacía un enlace externo `{: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}` simplemente con modificar la clase `btn-dark` por los atributos típicos de Bootstrap `primary, secondary, danger, etc` se modificará el color del botón o `lg,etc` para modificar su tamaño.
+Por ejemplo, para un botón negro que ocupe todo el ancho del contenido, agregaremos `{: .btn .btn-danger .btn-lg .btn-block}` y si ese botón, es hacía un enlace externo `{: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}` simplemente con modificar la clase `btn-dark` por los atributos típicos de Bootstrap `primary, secondary, danger, etc` se modificará el color del botón o `lg,etc` para modificar su tamaño.
 
 - Fuente. La fuente debe ser añadida al final de la página, tal que así `> **Fuente**: [Página de XXXX](https://URL-De-La-Fuente.com/){:target="_blank" rel="nofollow,noreferrer"}`.
 - Licencia. La licencia del contenido, en principio es de Creative Commons 2.0. A excepción de que en la publicación concreta se indique lo contrario.
@@ -164,6 +164,6 @@ En un corto período de tiempo, revisaré y casi con toda seguridad aceptaré tu
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página de ZzFXM](https://keithclark.github.io/ZzFXM/){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

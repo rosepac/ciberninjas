@@ -128,6 +128,6 @@ Tener tipos estáticos en tuplas y matrices debería reducir los errores, pero e
 
 [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](https://ciberninjas.com/aprendizaje-automatico-cursos-ingles/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![TypeScript 4.0: Comienza a escribir código más limpio y transparente](/assets/img/blog/typescript-4.webp "TypeScript 4.0: Comienza a escribir código más limpio y transparente")

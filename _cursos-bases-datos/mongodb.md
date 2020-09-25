@@ -26,7 +26,7 @@ img: "/assets/img/paginas-cursos/cursos-mongodb.webp"
 > 👷‍♂️ CURSOS EN PROCESO DE RECOPILAMIENTO 👷‍♂️
 <!-- ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 <!-- ![](/assets/img/paginas-cursos/cursos-bases-datos.webp) -->
 ## **¿Qué es MongoDB?**

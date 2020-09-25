@@ -61,7 +61,7 @@ Los auriculares de Relativty funcionan con una pantalla doble 2K a 120 FPS. Sin 
 
 Relativty es completamente de código abierto; lo convertimos en un campo de pruebas para hackers y desarrolladores en lugar de un producto. Puede encontrar el código fuente, así como la fuente de la electrónica, el hardware y las piezas mecánicas en nuestro Github. La guía sobre cómo construir Relativty está disponible en el [repositorio de Github](https://github.com/relativty/Relativty){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web oficial de Relativty](https://www.relativty.com/ "Página web oficial de Relativty"){:target="_blank" rel="nofollow,noreferrer"}
 

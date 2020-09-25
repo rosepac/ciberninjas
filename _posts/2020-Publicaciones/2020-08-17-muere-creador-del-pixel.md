@@ -50,6 +50,6 @@ Puede que el Sr. Kirsch se haya ido, pero su legado perdurará en cada una de la
 
 [🗄 La Historia de los Ordenadores](https://ciberninjas.com/historia-computadora/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Codemotion Conference 2020](https://events.codemotion.com/conferences/online/2020/codemotion-online-tech-conference){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

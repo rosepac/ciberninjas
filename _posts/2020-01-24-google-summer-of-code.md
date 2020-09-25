@@ -134,6 +134,6 @@ _____
 
 * [GSOC Guía de Mentores](https://google.github.io/gsocguides/mentor/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code](/assets/img/blog/google-summer-code.webp "Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code")

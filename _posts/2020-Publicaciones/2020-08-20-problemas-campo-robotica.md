@@ -82,7 +82,7 @@ Pero en realidad, todo lo que sé sobre la robótica es que es bastante compleja
 
 [📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos](https://ciberninjas.com/somos-cyborgs/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![](/assets/img/blog/robotica-ai.webp)
 

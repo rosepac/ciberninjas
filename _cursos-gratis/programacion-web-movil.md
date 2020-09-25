@@ -138,7 +138,7 @@ Ciberninjas es un gran lugar para descubrir los mejores tutoriales de Cordova. S
 - [React Hooks: Guia inicial utilizando Redux y Material.UI](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-hooks-guia-inicial-utilizando-redux-y-materialui%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [React JS - Curso de introducción desde cero y primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-curso-de-introduccion-desde-cero-y-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-js-inicia-en-el-mundo-de-los-frameworks-de-javascript%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [React, redux, firebase y typescript: fullstack serverless, de HolaMundo](https://www.youtube.com/playlist?list=PLSnadb41DsdIxIKFfl6U7GyM6U73fbGoH) {:target="_blank" rel="nofollow,noreferrer"} (HolaMundo, Youtube)
+- [React, redux, firebase y typescript: fullstack serverless, de HolaMundo](https://www.youtube.com/playlist?list=PLSnadb41DsdIxIKFfl6U7GyM6U73fbGoH){:target="_blank" rel="nofollow,noreferrer"} (HolaMundo, Youtube)
 
 ### ¿Cómo aprender a React?
 Para comenzar con React, primero debe aprender JavaScript. También debe tener un conocimiento básico de los marcos JS. Puede usar libros, tutoriales, lecciones en video, seminarios web, etc. para aprender React y tecnologías relacionadas.
@@ -315,6 +315,6 @@ Tanto Angular como Vue.js tienen sus pros y sus contras entre sí. VueJS es mejo
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-programacion-web-movil.webp)

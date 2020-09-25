@@ -626,6 +626,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 - [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
 - [Programando Apps de iOS](https://www.udemy.com/programando-apps-para-ios){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [XCode para iOS, iOS 6.1, Xcode 4.6](https://www.youtube.com/playlist?list=PLrfF-ThuRn5AqHTeS4W-5VPvCPLI8ioqs){:target="_blank" rel="nofollow,noreferrer"} (Eugenio Mendoza Robaina, YouTube)
+- [XCode y Swift](https://ciberninjas.com/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-curso-xcode-swift-mouredev/){:target="_blank" rel="nofollow,noreferrer"} (Mouredev, YouTube)
 
 ## **Cursos de Typescript**
 
@@ -659,6 +660,6 @@ Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últ
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-programacion.webp)

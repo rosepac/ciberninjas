@@ -45,7 +45,7 @@ El curso se reinicia el primer lunes del próximo mes y, a medida que se publiqu
 
 [▷ 22 Mejores cursos gratis de redes](https://ciberninjas.com/cursos-redes/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web, Linux skills challenge](https://www.linuxupskillchallenge.org/ "Página web, Linux skills challenge"){:target="_blank" rel="nofollow,noreferrer"}
 

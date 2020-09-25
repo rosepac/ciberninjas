@@ -156,6 +156,6 @@ Compra el nuevo Fire Stick desde USA 💪
 
 [▷ Amazon lanza un nuevo dispositivo denominado Fire TV Cube](https://ciberninjas.com/amazon-fire-tv-cube/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Aquí están todo los Nuevo Dispositivos de Amazon 2020](/assets/img/amazon/echo-esfera-4-generacion.webp "Aquí están todo los Nuevo Dispositivos de Amazon 2020")

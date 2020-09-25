@@ -83,7 +83,7 @@ Pero la situación de nadie es buena. Los niños como Raffi, que parecen predisp
 
 [▷ ¿Qué es Google Summer of Code?](https://ciberninjas.com/que-es-google-summer-of-code/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![](/assets/img/blog/no-educacion-distancia.webp)
 

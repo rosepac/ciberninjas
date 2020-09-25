@@ -116,6 +116,6 @@ Si deseas leer más en profundidad sobre todos los cambios en la nueva versión 
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones 2020](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial de React](https://reactjs.org/blog/2020/08/10/react-v17-rc.html){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

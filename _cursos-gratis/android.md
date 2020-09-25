@@ -48,7 +48,7 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
 - [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
 - [Android Studio](/android-studio-con-jesus-conde/){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [App Android: Registro de inventarios](/android-studio-registro-inventarios/){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2016)
+- [App Android: Registro de inventarios](/android-studio-registro-inventarios/){:target="_blank" rel="nofollow,noreferrer"} (Programación y Más, Youtube) (2016)
 - [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Crear una aplicación sin conocimiento en programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-aplicacion-sin-conocimiento-en-programacion%2F){:target="_blank" rel="nofollow,noreferrer"} por Michael Díaz (Udemy)
 - [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
@@ -192,6 +192,7 @@ Estos son algunos de los mejores libros para aprender Flutter:
 
 ## Cursos Gratis de Kotlin
 
+- [Android Studio y Kotlin en español](https://ciberninjas.com/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-curso-android-studio-kotlin-mouredev/){:target="_blank" rel="nofollow,noreferrer"} (Mouredev, Youtube)
 - [ButterKnife para desarrollo Android](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftodo-sobre-butter-knife-para-android-con-kotlin-y-java%2F){:target="_blank" rel="nofollow,noreferrer"} por David Cruz Anaya (Udemy)
 - [De Android a iOS - de Swift a Kotlin - Curso básico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fde-android-a-ios-de-swift-a-kotlin%2F){:target="_blank" rel="nofollow,noreferrer"} de Andrés Cruz Yoris (Udemy)
 - [Fundamentos de Kotlin](https://devcode.la/cursos/kotlin){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
@@ -216,6 +217,6 @@ Estos son algunos de los mejores libros para aprender Kotlin:
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ![](/assets/img/paginas-cursos/cursos-android.webp)

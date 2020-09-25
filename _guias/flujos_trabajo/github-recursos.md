@@ -23,14 +23,25 @@ Esta página está destinada a recopilar los mejores artículos sobre aprender a
 
 Igualmente, vas a poder encontrar enlaces sobre los mejores sistemas de integración continua y sistemas de despliegue continuo.
 
-[Artículos](/github-git-recursos/#artículos){: .btn .btn--inverse .btn--large} [Chuletas](/github-git-recursos/#chuletas){: .btn .btn--inverse .btn--large} [Github](/github-git-recursos/#github){: .btn .btn--inverse .btn--large} [Git](/github-git-recursos/#git){: .btn .btn--inverse .btn--large} [Sistemas de Integración Continua](/github-git-recursos/#sistemas-de-integración-continua){: .btn .btn--inverse .btn--large}
+- [**¿Cómo crear un Readme en Github?**](#cómo-crear-un-readme-en-github)
+- [**Artículos sobre Git y Github**](#artículos-sobre-git-y-github)
+- [Chuletas](#chuletas)
+- [Github](#github)
+- [Git](#git)
+- [Sistemas de Integración Continua](#sistemas-de-integración-continua)
 
 [🛠 Visita Nuestros Recursos](https://kutt.it/recursos-flujos-trabajo){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Artículos
+## **¿Cómo crear un Readme en Github?**
 
-* [10 comandos más importantes de Git que todo desarrollador debe saber](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
-* [Automatice las actualizaciones de dependencia de GitHub con Dependabot](https://bolajiayodeji.com/automate-github-dependency-updates-with-dependabot-ck4u3kd2d00hktjs1llbiuf8d)
+Artículos y enlaces que te van a ayudar a crear una página de personalización inicial para tu perfil de Github.
+
+* [](){:target="_blank" rel="nofollow,noreferrer"}
+
+## **Artículos sobre Git y Github**
+
+* [10 comandos más importantes de Git que todo desarrollador debe saber](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/){:target="_blank" rel="nofollow,noreferrer"}
+* [Automatice las actualizaciones de dependencia de GitHub con Dependabot](https://bolajiayodeji.com/automate-github-dependency-updates-with-dependabot-ck4u3kd2d00hktjs1llbiuf8d){:target="_blank" rel="nofollow,noreferrer"}
 * [Guía de principiantes para el control de versiones con Git y GitHub](https://medium.com/faun/beginners-guide-to-version-control-using-git-and-github-8bf44b421140){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Chuletas
@@ -69,6 +80,6 @@ Igualmente, vas a poder encontrar enlaces sobre los mejores sistemas de integrac
 **Fuente**: Mis marcadores del navegador 😸 y tu aporte. Si te animas,  para eso tenemos los comentarios por allí abajo, todos los aportes son bien reecibidos.. 😉
 {: .notice--info}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas](/assets/img/blog/2020-git-github.webp "Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas")

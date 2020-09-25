@@ -48,7 +48,7 @@ Si quieres visualizar un posible ejemplo, el propio equipo de Swift ha creado [u
 
 [‍▷ Aprende a Programar Swift - Programación iOS](https://ciberninjas.com/catalogo/aprende-a-programar-swift-programacion-ios/‍)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial de los mantenedores del lenguaje Swift de Apple](https://swift.org/blog/swift-on-windows/ "Blog oficial de los mantenedores del lenguaje Swift de Apple"){:target="_blank" rel="nofollow,noreferrer"}
 

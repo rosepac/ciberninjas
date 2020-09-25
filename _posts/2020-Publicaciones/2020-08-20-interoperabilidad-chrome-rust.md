@@ -64,7 +64,7 @@ Por ahora, la inversión de Chrome en Rust seguirá siendo una investigación de
 
 [▷ Nueva sintaxis de ensamblaje para Rust dentro de Nightly](https://ciberninjas.com/sintaxis-rust-nightly/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![](/assets/img/blog/chrome-rust-vs-c.webp)
 

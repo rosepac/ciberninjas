@@ -59,5 +59,5 @@ Usando esta analogía, los lenguajes de tipo estático son aquellos en los que l
 
 [El Glosario de Ciberninjas que incluye artículos de conceptos de programación](https://ciberninjas.com/glosario/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.sitepoint.com/typing-versus-dynamic-typing/ -->

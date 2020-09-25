@@ -48,22 +48,24 @@ Sí. El navegador Tor puede ser descargado en desde [la página de descarga ofic
 
 ## **¿Existe una versión del navegador Tor portable?**
 
-No y si. El navegador de Tor en sí, se difunde siendo una compilación del código que se instala sobre la carpeta que desees. Por tanto, puedes perfectamente descargarlo de la web oficial e instalar en una ruta diferente a la del sistema operativo o en un pendrive. Y el navegador debería de funcionar a la perfección, igualmente.
+No y si. El navegador de Tor en sí, se difunde siendo una compilación del código que se instala sobre la carpeta que desees.
+
+Por tanto, puedes perfectamente descargarlo de la web oficial e instalar en una ruta diferente a la del sistema operativo o en un pendrive. Y el navegador debería de funcionar a la perfección, igualmente.
 
 ### **Relacionados** <!-- omit in toc -->
 
-[]()
+[▷ El mejor software de seguridad para tu PC en 2020](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
 
-[]()
+[▷ Cómo mantener tu privacidad en un teléfono Android](https://ciberninjas.com/como-mantener-tu-privacidad-usando-android/)
 
-[]()
+[▷ Itinerarios formativos sobre ciberseguridad para diferentes sectores empresariales](https://ciberninjas.com/itinerarios-ciberseguridad-sectorial/)
 
-[]()
+[▷ Kosmonaut: Un navegador web creado con Rust](https://ciberninjas.com/kosmonaut-navegador-web-rust/)
 
-[]()
+[ 📸 Cómo publicar en Instagram desde el Ordenador](https://ciberninjas.com/como-publicar-en-instagram-%F0%9F%93%B8-desde-el-ordenador-%F0%9F%96%A5-extension-de-chrome-mobile-browser-emulator/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial del proyecto Tor](https://blog.torproject.org/new-release-tor-browser-100 "Blog oficial del proyecto Tor"){:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/ "")
+![Tor 10: Nueva versión del navegador TOR seguro](/assets/img/blog/23-navegador-tor.webp "Tor 10: Nueva versión del navegador TOR seguro")

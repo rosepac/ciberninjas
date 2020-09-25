@@ -47,7 +47,7 @@ Desde Ciberninjas estaremos atentos, tanto al Prime Day como al Black Friday, pe
 
 [Las mejores ofertas de los más esperados videojuegos](https://ciberninjas.com/videojuegos/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: The Verge.
 

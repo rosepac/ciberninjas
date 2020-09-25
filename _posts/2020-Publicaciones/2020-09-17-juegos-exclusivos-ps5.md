@@ -271,6 +271,6 @@ Lo mejor de todo, es que el nuevo juego posiblmente incluiá una versión para c
 
 [▷ La PS5 se lanzará el 19 de Noviembre por 499,99 €](/compra-ps5/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los 18 Mejores Juegos Exclusivos de la PlayStation 5](/assets/img/videojuegos/juegos-exclusivos-ps5.webp "Los 18 Mejores Juegos Exclusivos de la PlayStation 5")

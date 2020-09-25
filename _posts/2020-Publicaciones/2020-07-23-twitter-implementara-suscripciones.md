@@ -56,6 +56,6 @@ Dorsey se disculpó mediante conferencia telefónica, por la violación de segur
 
 [El mejor software de seguridad para tu PC en 2020](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Twitter dice que está buscando opciones para implementar suscripciones de pago, tras comprobar que los ingresos publicitarios van cayendo bruscamente](/assets/img/blog/twitter-interrogantes.webp "Twitter dice que está buscando opciones para implementar suscripciones de pago, tras comprobar que los ingresos publicitarios van cayendo bruscamente")

@@ -74,7 +74,7 @@ A diferencia de Deepin Linux, UbuntuDDE no utiliza la tienda de aplicaciones de 
 
 [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin](/assets/img/blog/captura-pantalla-ubuntudde.webp "Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin")
 

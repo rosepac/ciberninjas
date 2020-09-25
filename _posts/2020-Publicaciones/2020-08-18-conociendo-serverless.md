@@ -89,6 +89,6 @@ Desafortunadamente, la transición a sin servidor no viene sin una serie de desa
 
 [▷ Webiny Framework: Crea aplicaciones web sin servidor](https://ciberninjas.com/webiny-aplicaciones-sin-servidor/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial de React](https://reactjs.org/blog/2020/08/10/react-v17-rc.html){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.
