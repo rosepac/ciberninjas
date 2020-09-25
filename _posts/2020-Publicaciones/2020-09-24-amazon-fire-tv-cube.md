@@ -27,9 +27,6 @@ Este nuevo producto, viene a ser una mezcla conjunta de un dispositivo Echo Dot 
 El Fire Tv Cube está creado principalmente para sacar todo el partido de las retransmisiones en 4K HDR.
 
 - [**Conociendo más al nuevo Fire TV Cube**](#conociendo-más-al-nuevo-fire-tv-cube)
-  - [Alexa enciende el televisor](#alexa-enciende-el-televisor)
-  - [Alexa muéstrame películas de ciencia ficción](#alexa-muéstrame-películas-de-ciencia-ficción)
-  - [Mucho más que ver contenido en streaming](#mucho-más-que-ver-contenido-en-streaming)
 - [**¿Qué características ofrece Fire TV Cube?**](#qué-características-ofrece-fire-tv-cube)
 - [**¿Qué otra información debo conocer a la hora de comprar Fire TV Cube?**](#qué-otra-información-debo-conocer-a-la-hora-de-comprar-fire-tv-cube)
 - [**¿Cuáles son las características técnicas de Fire TV Cube?**](#cuáles-son-las-características-técnicas-de-fire-tv-cube)
@@ -40,19 +37,19 @@ Con el Fire TV Cube puedes olvidarte del mando y sumergirte en tus películas y 
 
 También puedes pedirle a Alexa que te dé la previsión del tiempo, que configure temporizadores y recordatorios, y más, incluso cuando el televisor está apagado.
 
-### Alexa enciende el televisor
+### **Alexa enciende el televisor** <!-- omit in toc -->
 
 El Fire TV Cube dispone de ocho micrófonos para poder oírte desde cualquier dirección, lo que hace que sea más fácil pedirle a Alexa que regule el volumen o silencie el televisor o barra de sonido compatibles. También se incluye el mando por voz Alexa para cuando quieras controlar el televisor sin hacer ningún ruido.
 
 Con Alexa en el Fire TV Cube puedes controlar una amplia gama de dispositivos a través del Cloud, infrarrojos y HDMI-CEC, y cada vez se añaden más dispositivos. Más información sobre la compatibilidad del control por voz.
 
-### Alexa muéstrame películas de ciencia ficción
+### **Alexa muéstrame películas de ciencia ficción** <!-- omit in toc -->
 
 Deléitate con una imagen espectacular con compatibilidad con Ultra HD 4K, Dolby Vision, HDR y HDR10+, y con un sonido envolvente compatible con Dolby Atmos en títulos seleccionados de Prime Video.
 
 Los miembros Amazon Prime tienen acceso ilimitado a miles de películas y episodios de series de televisión, así como a más de 2 millones de canciones sin anuncios con Prime Music.
 
-### Mucho más que ver contenido en streaming
+### **Mucho más que ver contenido en streaming** <!-- omit in toc -->
 
 Haz todavía más con Alexa. El Fire TV Cube integra un altavoz que te permite controlar dispositivos de Hogar digital compatibles, consultar la previsión del tiempo y más, incluso cuando el televisor está apagado.
 

@@ -35,14 +35,6 @@ Todos esos son grandes logros en la era del trabajo desde casa, pero Netflix esp
 El Echo Show 10 cuesta 249,99 €, bastante caro, en lo que respecta a estas pantallas inteligentes. Sin lugar a dudas mucho de lo que estás pagando es por el costoso mecanismo de reconocimiento que es capaz de perseguirte mientras te mueve; puede ser, que para muchas personas ese añadido no merezca del todo la pena.
 
 - [**Conociendo más el nuevo Echo Show 10**](#conociendo-más-el-nuevo-echo-show-10)
-  - [Diseñado para moverse contigo](#diseñado-para-moverse-contigo)
-  - [Mantén el contacto y no te salgas del encuadre](#mantén-el-contacto-y-no-te-salgas-del-encuadre)
-  - [Controla tus dispositivos de Hogar digital con la voz](#controla-tus-dispositivos-de-hogar-digital-con-la-voz)
-  - [Echa un vistazo a la habitación cuando no estás en casa](#echa-un-vistazo-a-la-habitación-cuando-no-estás-en-casa)
-  - [Repleto de entretenimiento](#repleto-de-entretenimiento)
-  - [Deja que Alexa te ayude en la cocina](#deja-que-alexa-te-ayude-en-la-cocina)
-  - [Pon tus fotos en la pantalla inteligente](#pon-tus-fotos-en-la-pantalla-inteligente)
-  - [Diseñado para proteger tu privacidad](#diseñado-para-proteger-tu-privacidad)
 - [**¿Qué características ofrece Echo Show 10?**](#qué-características-ofrece-echo-show-10)
 - [**¿Podré ver Netflix en mi dispositivo de Amazon Echo Show 10?**](#podré-ver-netflix-en-mi-dispositivo-de-amazon-echo-show-10)
 - [**¿Cuáles son las características técnicas de Echo Show 10?**](#cuáles-son-las-características-técnicas-de-echo-show-10)
@@ -51,35 +43,35 @@ El Echo Show 10 cuesta 249,99 €, bastante caro, en lo que respecta a estas pan
 
 A continuación, vamos a encontrar una revisión en profundidad de todas las nuevas posibilidades que nos ofrece el dispositivo Echo Show 10 giratorio con pantalla inteligente.
 
-### Diseñado para moverse contigo
+### **Diseñado para moverse contigo** <!-- omit in toc -->
 
 Desplázate por la habitación durante las videollamadas o mientras estás cocinando siguiendo una receta, y la sensacional pantalla HD de 10” rotará automáticamente para que puedas verla en todo momento. De esta forma, no perderás el hilo de la conversación que estés teniendo o del contenido que estés viendo.
 
-### Mantén el contacto y no te salgas del encuadre
+### **Mantén el contacto y no te salgas del encuadre** <!-- omit in toc -->
 
 Habla con tus seres queridos sin preocuparte de que la otra persona te vea bien. Con el encuadre automático, la cámara de 13 MP se mueve y cambia el enfoque para que siempre aparezcas en el centro de la imagen y en primer plano. Puedes hacer videollamadas con quienes tengan la app Alexa, un Echo Show o Skype.
 
-### Controla tus dispositivos de Hogar digital con la voz
+### **Controla tus dispositivos de Hogar digital con la voz** <!-- omit in toc -->
 
 Alexa puede controlar dispositivos de Hogar digital compatibles como cámaras de seguridad, luces, termostatos y más. Pídele a Alexa que te muestre la cámara de la puerta principal o que aumente el brillo de las luces de la cocina. Configura y controla dispositivos Zigbee compatibles sin esfuerzo ni la necesidad de ningún controlador de Hogar digital externo. Di “Alexa, busca mis dispositivos” y el Echo Show detectará y configurará dispositivos compatibles para que puedas controlarlos con la voz o desde la pantalla.
 
-### Echa un vistazo a la habitación cuando no estás en casa
+### **Echa un vistazo a la habitación cuando no estás en casa** <!-- omit in toc -->
 
 Accede de forma segura a la cámara integrada para echar un vistazo a la estancia: tranquilidad en cualquier momento.
 
-### Repleto de entretenimiento
+### **Repleto de entretenimiento** <!-- omit in toc -->
 
 Los altavoces ofrecen un sonido direccional de alta calidad que se adapta al espacio en el que te encuentras. Lee la letra de las canciones, recibe recomendaciones y mira la portada de los álbumes con Amazon Music, o escucha música en streaming con Apple Music, Spotify, Deezer y más. Disfruta con la pantalla HD de tus series de Prime Video y Netflix (próximamente). El Echo Show es también ideal para mantenerte al tanto de las últimas noticias o de los resultados deportivos.
 
-### Deja que Alexa te ayude en la cocina
+### **Deja que Alexa te ayude en la cocina** <!-- omit in toc -->
 
 Como ayudante de cocina, Alexa está lista para añadir productos a la lista de la compra, recordarte citas del calendario o decirte cuántos gramos hay en una cuchara.
 
-### Pon tus fotos en la pantalla inteligente
+### **Pon tus fotos en la pantalla inteligente** <!-- omit in toc -->
 
 Puedes usar Amazon Photos o fotos de tu cuenta de Facebook para convertir el dispositivo en un marco digital que muestra tus fotos siempre perfectas con cualquier iluminación gracias al ajuste adaptativo del color. La cámara integrada te permite añadir una foto a tu álbum con solo decir “Alexa, haz un selfi”. Además, los miembros Prime tienen almacenamiento ilimitado y gratuito para fotos.
 
-### Diseñado para proteger tu privacidad
+### **Diseñado para proteger tu privacidad** <!-- omit in toc -->
 
 Fabricado con varias capas de controles de la privacidad, incluido un botón para desactivar los micrófonos y la cámara, y una cubierta integrada para tapar la cámara. Desactiva el movimiento en cualquier momento con la voz, desde el dispositivo o desde la app Alexa. El dispositivo procesa localmente la información necesaria para mover la pantalla: las imágenes y los vídeos asociados con el movimiento de la pantalla no se envían al Cloud. Más información sobre privacidad.
 
