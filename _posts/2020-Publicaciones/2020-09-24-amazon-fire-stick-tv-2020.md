@@ -118,7 +118,6 @@ El Fire TV aprende continuamente con nuevas Skills de Alexa y funcionalidades de
 | **Puertos**                                                  | Salida HDMI, micro USB para carga solamente                  |
 | **Compatibilidad de audio**                                  | Dolby Atmos, Dolby Digital, sonido envolvente Dolby Digital+ y pass-through de audio a través de HDMI para Dolby Digital, Dolby Digital+ y Dolby Atmos |
 | **Formatos de contenido vídeo compatibles**                  | HDR 10, HDR10+, HLG, H.265, H.264 y Vp9                      |
-
 | **Resolución de salida compatible**  | 1080p y 720p hasta un máximo de 60 FPS                       |
 | ------------------------------------ | ------------------------------------------------------------ |
 | **Requisitos del sistema**           | Televisor de alta definición (HD) con entrada HDMI, conexión a Internet a través de wifi y toma de corriente |
