@@ -45,7 +45,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 {: .notice--danger}
 
 [📚 Ver Todas las Bibliotecas Gratuitas 📚](/biblioteca-de-programacion-y-tecnologia/#índice-de-libros){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 - [**Mejores Libros Gratuitos PDF para Programar**](#mejores-libros-gratuitos-pdf-para-programar)
 - [**Índice de Libros**](#índice-de-libros)
@@ -1045,7 +1045,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Licencia
 

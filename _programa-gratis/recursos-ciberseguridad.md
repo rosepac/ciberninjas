@@ -206,5 +206,5 @@ A continuación vas a encontrar los centros en los que se impartirá durante el 
 
 [🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux](https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-principiantes/)
 
-[💻 Portátiles Chulos para trabajar en seguridad informática 🔥](https://www.amazon.es/shop/cibercursos?listId=3BF50A7M6Q79J){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Portátiles Chulos para trabajar en seguridad informática 🔥](https://www.amazon.es/shop/cibercursos?listId=3BF50A7M6Q79J){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

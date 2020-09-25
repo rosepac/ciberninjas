@@ -20,7 +20,7 @@ img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.
 
 Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > ➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
 > 🔔 Se complementa a la perfección con [nuestro blog](https://ciberninjas.com/blog/), vas a encontrar múltiples artículos / guías / tutoriales, etc.<br />
@@ -74,7 +74,7 @@ Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, e
 
 Según uno de los últimos [informes publicados por Github](https://github.blog/2020-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Además, siempre que hablemos de machine learning no podemos dejar olvidado al eficaz lenguaje de R. Sin lugar a dudas el más importante en el cometido de generar estadísticas; este lenguaje capaz de analizar y manipular datos de forma masiva sin ningún tipo de problemas, ofrece varios paquetes que simplifican la implementación de algoritmos alrededor del flujo de trabajo del aprendizaje automático.
 
@@ -82,7 +82,7 @@ Además, siempre que hablemos de machine learning no podemos dejar olvidado al e
 
 Si bien, lo que deseamos es trabajar en el campo de la inteligencia artificial, primero que nada debemos de saber que es un ámbito muy extenso; por todos los diferentes paradigmas que abarca. Casi podríamos agrupar todas las tecnologías del mundo de la programación y la robótica en el interior de cualquier proyecto que trabaje en la creación de una máquina inteligente; te serán requeridos los más avanzados conocimientos si deseas profundizar en este campo.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Partiendo de la base más sólida posible de lógica computación, conjunto a una amplia base matemática (no totalmente indispensable pero si que es recomendable) junto a un buen entendimiento de muchas técnicas de "devops" y el más alto y avanzado nivel exigible del manejo, gestión y manipulación de los datos y las librerías tecnológicas dedicadas a indexar y manejar grandes masas críticas de información.
 
@@ -268,4 +268,4 @@ Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer má
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
 [🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
