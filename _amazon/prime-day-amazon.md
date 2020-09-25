@@ -3,7 +3,7 @@
 author: rosepac
 bootstrap: true
 layout: page
-title: "🔥 ▷ Los Mejores del Prime Day 2020, en Informática y Electrónica"
+title: "🥇 ▷ Las Mejores Ofertas y Chollazos del Prime Day 2020, en Informática y Electrónica"
 description: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
 excerpt: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
 permalink: /prime-day-amazon/
@@ -17,16 +17,16 @@ img: /assets/img/amazon/amazon-prime-day.gif
 
 ---
 
+El [Prime Day 2020 pronto estará aquí](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y desde este enlace vas a poder encontrar absolutamente todas las mejores ofertas y chollos 🔥🔥🔥
+
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
 [Conoce todo lo que desees sobre Amazon Prime ¡GO!](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){: .btn .btn--inverse .btn--large}
 
-🛑 PÁGINA ACTUALIZADA CON OFERTAS FLASH Y PRECIOS MÍNIMOS HASTA QUE REGRESE EL PRIME DAY DE AMAZON DEL AÑO 2020 🛑 
-{: .notice--warning}
-
-Última Actualización: 2020/03/02
-{: .notice--info}
+> 🛑 PÁGINA ACTUALIZADA CON OFERTAS FLASH HASTA EL REGRESO DEL PRIME DAY DE AMAZON DEL AÑO 2020 🛑
+>
+> Última Actualización: 2020/09/22
 
 <!-- PRIME DAY DE AMAZON DEL 2020 -->
 <!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. -->
