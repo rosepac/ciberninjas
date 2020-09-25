@@ -22,9 +22,11 @@ published: true
 
 En su evento de Dispositivos y Servicios, Amazon lanzó su propio competidor de juegos en la nube para Google Stadia y Microsoft xCloud. Denominado [Luna](https://www.amazon.com/luna/landing-page){:target="_blank" rel="nofollow,noreferrer"}. Y por ahora, estará exclusivamente funcional para USA.
 
-La compañía de Amazon, está lanzando el producto en acceso temprano a un precio de lanzamiento de $ 5.99 por mes. Los usuarios podrán transmitir títulos de forma inalámbrica sin descargar los juegos y pueden jugar en PC, Mac e iOS (a través de la web). Los usuarios de Estados Unidos pueden solicitar acceso temprano a partir de hoy.
+La compañía de Amazon, está lanzando el producto en acceso temprano a un precio de lanzamiento de $ 5.99 por mes. Los usuarios podrán transmitir títulos de forma inalámbrica sin descargar los juegos y pueden jugar en PC, Mac e iOS (a través de la web).
 
-Amazon dice que se lanzarán más de 50 juegos en la aplicación Luna, incluido al menos un título de Sonic. La compañía también se asoció con Ubisoft, pero parece que los usuarios tendrán que suscribirse por separado para tener acceso a los títulos de la compañía.
+Los usuarios de Estados Unidos, ya pueden solicitar el acceso anticipado a partir de hoy.
+
+Amazon dice que se lanzarán más de 50 juegos en la aplicación Luna, entre los que se incluirá, al menos un título de Sonic. La compañía también se asoció con Ubisoft, pero parece que los usuarios tendrán que suscribirse por separado para tener acceso a los títulos de la compañía.
 
 El servicio funcionará bajo AWS, y Amazon dice que los usuarios podrán reproducir títulos con un rendimiento de hasta 4K en 60 fps.
 
@@ -36,7 +38,7 @@ Una técnica similar a la realizada por Google con Stadia y YouTube Gaming, pero
 
 ### **Relacionados** <!-- omit in toc -->
 
-[]()
+[▷ Aquí están todo los Nuevo Dispositivos de Amazon 2020](/amazon-nuevo-hardware/)
 
 []()
 
