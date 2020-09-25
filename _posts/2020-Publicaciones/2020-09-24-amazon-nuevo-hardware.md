@@ -22,7 +22,7 @@ published: true
 
 Amazon acaba de anunciar un montón de nuevos productos en su evento anual de hardware. A continuación, a modo de resumen rápido, un listado completo de todos los nuevos productos de Amazon:
 
-- Nuevas versiones de Amazon Echo, Echo Dot, Echo Dot con reloj y Echo Dot Kids.
+- Nuevas versiones de [Amazon Echo](https://ciberninjas.com/amazon-echo-dot-2020/), [Echo Dot Hogar], Echo Dot con reloj y Echo Dot Kids.
 - Nuevos enrutadores de red en malla Wi-Fi Eero 6.
 - Nuevo servicio de transmisión de videojuegos, denominado Luna. Que competirá con Google Stadia y los servicios de transmisión de juegos de Microsoft.
 - Una nueva pantalla inteligente Echo Show con Alexa incorporada.
