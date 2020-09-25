@@ -37,6 +37,8 @@ Con el Fire TV Cube puedes olvidarte del mando y sumergirte en tus películas y 
 
 También puedes pedirle a Alexa que te dé la previsión del tiempo, que configure temporizadores y recordatorios, y más, incluso cuando el televisor está apagado.
 
+[👉 ¡¡¡COMPRA YA!!!, tu CUBE TV](https://amzn.to/3cyMwpG "Comprar el nuevo Cube TV de Amazon 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### **Alexa enciende el televisor** <!-- omit in toc -->
 
 El Fire TV Cube dispone de ocho micrófonos para poder oírte desde cualquier dirección, lo que hace que sea más fácil pedirle a Alexa que regule el volumen o silencie el televisor o barra de sonido compatibles. También se incluye el mando por voz Alexa para cuando quieras controlar el televisor sin hacer ningún ruido.
@@ -55,6 +57,8 @@ Haz todavía más con Alexa. El Fire TV Cube integra un altavoz que te permite c
 
 Pídele a Alexa que te muestre el vídeo en directo de tus cámaras o que reproduzca una canción en un grupo de música multiestancia. El Fire TV Cube aprende continuamente con nuevas Skills de Alexa y funcionalidades de voz. Más información acerca de las marcas de Hogar digital compatibles con el Fire TV Cube.
 
+[👉 ¡¡¡COMPRA YA!!!, tu CUBE TV](https://amzn.to/3cyMwpG "Comprar el nuevo Cube TV de Amazon 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¿Qué características ofrece Fire TV Cube?**
 
 - El Fire TV Cube es el Fire TV más rápido y potente hasta la fecha, con un rendimiento veloz y fluido para que disfrutes de tus películas y series favoritas.
@@ -69,6 +73,8 @@ Pídele a Alexa que te muestre el vídeo en directo de tus cámaras o que reprod
 - El Fire TV Cube te permite cambiar la señal de entrada en televisores compatibles. También puedes controlar televisores, barras de sonido y receptores compatibles de marcas líderes del mercado como Samsung, Sony, LG y Sonos, entre otras. Más información sobre dispositivos compatibles.
 - Dolby Atmos está disponible en determinados títulos de Prime Video y Netflix cuando se conecta equipamiento compatible con Dolby Atmos.
 - No todas las apps ofrecen las mismas funcionalidades de control por voz. Algunas apps, incluidas las de Netflix, Prime Video y YouTube, tienen una mayor integración con Alexa y permiten navegar y realizar búsquedas dentro de la app, acceder a títulos específicos y más.
+
+[👉 ¡¡¡COMPRA YA!!!, tu CUBE TV](https://amzn.to/3cyMwpG "Comprar el nuevo Cube TV de Amazon 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cuáles son las características técnicas de Fire TV Cube?**
 
@@ -96,6 +102,8 @@ Pídele a Alexa que te muestre el vídeo en directo de tus cámaras o que reprod
 | **Compatibilidad según región** | Es posible que algunos servicios no estén disponibles fuera de España |
 | **Funciones de accesibilidad**  | Lector de pantalla VoiceView que permite el acceso a la mayoría de las funciones del Fire TV a usuarios invidentes o con problemas de visión. Reproducción de vídeos y episodios de series con subtítulos. Los subtítulos no están disponibles para todo el contenido. Escucha contenido del Fire TV Cube con auriculares Bluetooth compatibles. [Más información](https://www.amazon.es/gp/help/customer/display.html?nodeId=202105050&ref=ds_xs_smp_mt_tech). |
 | **Contenido de la caja**        | Incluye el Fire TV Cube, mando por voz Alexa (2.ª generación), adaptador de corriente, [Guía de inicio rápido](https://customerdocumentation.s3-us-west-2.amazonaws.com/Amazon+Fire+TV+User+Guides/Fire+TV+Cube+Documentation/FireTVCube_Gen2_QSG_ES.pdf), guía comercial, 2 pilas AAA, cable de extensión de IR y adaptador Ethernet Amazon (10/100). El cable HDMI se vende por separado. |
+
+[👉 ¡¡¡COMPRA YA!!!, tu CUBE TV](https://amzn.to/3cyMwpG "Comprar el nuevo Cube TV de Amazon 2020"){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 
