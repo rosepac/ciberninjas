@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Ofertas Amazon
 thumbnail: /assets/img/amazon/amazon-echo-show-10.webp
 feature-img: /assets/img/amazon/amazon-echo-show-10.webp
 title: '▷ El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves'
@@ -22,13 +22,30 @@ published: true
 
 La nueva locura absoluta de Amazon. El nuevo **Echo Show 10 gira sobre su base para seguirte por la habitación**. La cámara incorporada es capaz de reconocer a una persona y gira para seguirla, esencialmente llevando la función de seguimiento de personas que se encuentra en el Portal de Facebook y el Nest Hub Max de Google a la siguiente palanca más espeluznante.
 
-Amazon es rápido en notar, desde una perspectiva de privacidad, que el dispositivo no identifica a las personas individualmente, sino que simplemente reconoce la forma general de una persona y gira de tal manera que siempre mantenga la pantalla frente a ellos. No estoy seguro de cómo funciona con varias personas, etcétera, pero será interesante verlo en persona. También, francamente, me pregunto qué tan útil es esta característica en última instancia, y si vale la pena ese nivel adicional de seguimiento.
+Amazon es rápido en notar, desde una perspectiva de privacidad, que el dispositivo no identifica a las personas individualmente, sino que simplemente reconoce la forma general de una persona y gira de tal manera que siempre mantenga la pantalla frente a ellos.
+
+No estoy seguro de cómo funcionará esto con varias personas, etcétera, pero será interesante verlo en persona. También, francamente, me pregunto qué tan útil es esta característica en última instancia, y si vale la pena ese nivel adicional de seguimiento.
 
 Como su nombre lo indica, hay una pantalla táctil HD de 10 pulgadas a bordo. Eso está emparejado con un. Cámara de 13 megapíxeles y sistema de audio 2.1. Al igual que el nuevo Echo, tiene la funcionalidad Zigbee incorporada, por lo que el dispositivo también sirve como un centro de hogar inteligente.
 
-Amazon ha estado agregando un montón de funciones de software de terceros al Show en los últimos meses, y la lista ahora incluye Zoom, Skype y, obtén esto, Netflix. Todos esos son grandes logros en la era del trabajo desde casa, pero Netflix especialmente, ya que el Show recibió un gran golpe cuando Google eliminó el soporte de YouTube de los dispositivos Echo.
+Amazon ha estado agregando un montón de funciones de software de terceros al Show en los últimos meses, y la lista ahora incluye Zoom, Skype y, obtén esto, Netflix.
+
+Todos esos son grandes logros en la era del trabajo desde casa, pero Netflix especialmente, ya que el Show recibió un gran golpe cuando Google eliminó el soporte de YouTube de los dispositivos Echo.
 
 El Echo Show 10 cuesta 249,99 €, bastante caro, en lo que respecta a estas pantallas inteligentes. Sin lugar a dudas mucho de lo que estás pagando es por el costoso mecanismo de reconocimiento que es capaz de perseguirte mientras te mueve; puede ser, que para muchas personas ese añadido no merezca del todo la pena.
+
+- [**Conociendo más el nuevo Echo Show 10**](#conociendo-más-el-nuevo-echo-show-10)
+  - [Diseñado para moverse contigo](#diseñado-para-moverse-contigo)
+  - [Mantén el contacto y no te salgas del encuadre](#mantén-el-contacto-y-no-te-salgas-del-encuadre)
+  - [Controla tus dispositivos de Hogar digital con la voz](#controla-tus-dispositivos-de-hogar-digital-con-la-voz)
+  - [Echa un vistazo a la habitación cuando no estás en casa](#echa-un-vistazo-a-la-habitación-cuando-no-estás-en-casa)
+  - [Repleto de entretenimiento](#repleto-de-entretenimiento)
+  - [Deja que Alexa te ayude en la cocina](#deja-que-alexa-te-ayude-en-la-cocina)
+  - [Pon tus fotos en la pantalla inteligente](#pon-tus-fotos-en-la-pantalla-inteligente)
+  - [Diseñado para proteger tu privacidad](#diseñado-para-proteger-tu-privacidad)
+- [**¿Qué características ofrece Echo Show 10?**](#qué-características-ofrece-echo-show-10)
+- [**¿Podré ver Netflix en mi dispositivo de Amazon Echo Show 10?**](#podré-ver-netflix-en-mi-dispositivo-de-amazon-echo-show-10)
+- [**¿Cuáles son las características técnicas de Echo Show 10?**](#cuáles-son-las-características-técnicas-de-echo-show-10)
 
 ## **Conociendo más el nuevo Echo Show 10**
 

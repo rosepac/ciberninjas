@@ -4,17 +4,17 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
-thumbnail: /assets/img/blog/.webp
-feature-img: /assets/img/blog/.webp
+- Ofertas Amazon
+thumbnail: /assets/img/amazon/amazon-fire-tv-cube.webp
+feature-img: /assets/img/amazon/amazon-fire-tv-cube.webp
 title: '▷ Amazon lanza un nuevo dispositivo denominado Fire TV Cube'
 description: >-
-  ''
+  Con el Fire TV Cube puedes olvidarte del mando y sumergirte en tus películas y series favoritas solamente usando la voz. Desde cualquier parte de la habitación, no tienes más que decir “Alexa, pon Sneaky Pete” y Alexa responderá a tu solicitud.
 excerpt: >-
-  ''
+  Con el Fire TV Cube puedes olvidarte del mando y sumergirte en tus películas y series favoritas solamente usando la voz. Desde cualquier parte de la habitación, no tienes más que decir “Alexa, pon Sneaky Pete” y Alexa responderá a tu solicitud.
 canonical_URL: https://ciberninjas.com/amazon-fire-tv-cube/
 permalink: /amazon-fire-tv-cube/
-date: 2020-09-24 11:18:32
+date: 2020-09-24 15:33:32
 last_modified_at: 
 published: true
 
@@ -25,6 +25,14 @@ Por si no fuese suficiente con las nuevas versiones de los dispositivos intelige
 Este nuevo producto, viene a ser una mezcla conjunta de un dispositivo Echo Dot y Alex, más un soporte capaz de reproducir tus series y películas favoritas a la máxima resolución conocida.
 
 El Fire Tv Cube está creado principalmente para sacar todo el partido de las retransmisiones en 4K HDR.
+
+- [**Conociendo más al nuevo Fire TV Cube**](#conociendo-más-al-nuevo-fire-tv-cube)
+  - [Alexa enciende el televisor](#alexa-enciende-el-televisor)
+  - [Alexa muéstrame películas de ciencia ficción](#alexa-muéstrame-películas-de-ciencia-ficción)
+  - [Mucho más que ver contenido en streaming](#mucho-más-que-ver-contenido-en-streaming)
+- [**¿Qué características ofrece Fire TV Cube?**](#qué-características-ofrece-fire-tv-cube)
+- [**¿Qué otra información debo conocer a la hora de comprar Fire TV Cube?**](#qué-otra-información-debo-conocer-a-la-hora-de-comprar-fire-tv-cube)
+- [**¿Cuáles son las características técnicas de Fire TV Cube?**](#cuáles-son-las-características-técnicas-de-fire-tv-cube)
 
 ## **Conociendo más al nuevo Fire TV Cube**
 
@@ -94,18 +102,16 @@ Pídele a Alexa que te muestre el vídeo en directo de tus cámaras o que reprod
 
 ### **Relacionados** <!-- omit in toc -->
 
-[]()
+[▷ Los Nuevo Dispositivos Inteligentes de Amazon 2020: Echo Dot, Echo Show, Fire TV Stick, y más](https://ciberninjas.com/amazon-nuevo-hardware/)
 
-[]()
+[▷ Amazon rediseña la línea Echo con altavoces esféricos y pantallas giratorias](https://ciberninjas.com/amazon-echo-dot-2020/)
 
-[]()
+[▷ Amazon rediseña Fire TV, y presenta el nuevo Fire TV Stick y el Fire TV Stick Lite de precio barato](/amazon-fire-stick-2020/)
 
-[]()
+[▷ El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves](https://ciberninjas.com/amazon-echo-show-2020/)
 
-[]()
+[▷ Amazon anuncia la plataforma de transmisión de juegos Luna](/amazon-anuncia-luna/)
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-> **Fuente**: []( ""){:target="_blank" rel="nofollow,noreferrer"}
-
-![](/assets/img/blog/.webp "")
+![](/assets/img/amazon/amazon-fire-tv-cube.webp "")
