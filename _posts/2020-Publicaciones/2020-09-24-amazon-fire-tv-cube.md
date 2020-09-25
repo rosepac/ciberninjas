@@ -20,11 +20,13 @@ published: true
 
 ---
 
-Por si no fuese suficiente con las nuevas versiones de los dispositivos inteligentes presentados por Amazon, también ha lanzado un nuevo dispositivo denominado Fire TV Cube.
+Por si no fuese suficiente con [las nuevas versiones de los dispositivos inteligentes](https://ciberninjas.com/amazon-nuevo-hardware/) presentados por Amazon, también ha lanzado **un nuevo dispositivo denominado Fire TV Cube**.
 
 Este nuevo producto, viene a ser una mezcla conjunta de un dispositivo Echo Dot y Alex, más un soporte capaz de reproducir tus series y películas favoritas a la máxima resolución conocida.
 
-El Fire Tv Cube está creado principalmente para sacar todo el partido de las retransmisiones en 4K HDR.
+Recuerda, que siempre puedes esperar a comprar, uno de estos nuevos dispositivos. En **[el próximo Amazon Prime Day 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/)**.
+
+El Fire Tv Cube está creado principalmente para sacar todo el partido de [**las grandes televisiones que permiten resoluciones en 4K HDR**](https://amzn.to/3i40wt1){:target="_blank" rel="nofollow,noreferrer"}.
 
 - [**Conociendo más al nuevo Fire TV Cube**](#conociendo-más-al-nuevo-fire-tv-cube)
 - [**¿Qué características ofrece Fire TV Cube?**](#qué-características-ofrece-fire-tv-cube)
