@@ -57,4 +57,4 @@ Por si eso fuese poco, esperan seguir lanzando más parches sobre la versión es
 
 [▷ ¿Qué diferencias existen entre el framework de Boostrap y Tailwind?](https://ciberninjas.com/que-diferencias-existen-entre-bootstrap-tailwind/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

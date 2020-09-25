@@ -94,7 +94,7 @@ Los puntos de referencia y objetivos de productividad dependen de la industria. 
 
 > 🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank" rel="nofollow,noreferrer"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?](/assets/img/blog/calcular-productividad.webp "Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?")
 <!-- https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp -->

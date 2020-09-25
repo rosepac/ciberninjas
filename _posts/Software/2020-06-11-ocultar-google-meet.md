@@ -50,6 +50,6 @@ Aquí te explicamos paso a paso cómo ocultar Google Meet en Gmail:
 
 [▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Cuando se presentó Google Meet, la última aplicación de videoconferencia de Google, apareció un acceso directo en Gmail. Si no quieres o necesitas eso allí, ahora puedes ocultarlo. Aquí está nuestra guía paso a paso sobre cómo hacerlo.](/assets/img/blog/google-meet.webp "Cuando se presentó Google Meet, la última aplicación de videoconferencia de Google, apareció un acceso directo en Gmail. Si no quieres o necesitas eso allí, ahora puedes ocultarlo. Aquí está nuestra guía paso a paso sobre cómo hacerlo.")

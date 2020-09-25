@@ -78,6 +78,6 @@ Incluso antes de que Windows 10 y Windows 8 vinieran con la interfaz Metro, los 
 
 Este shell, que se ha convertido en estándar para muchas distribuciones, también está diseñado para pantallas táctiles: tiene iconos enormes y admite gestos. Al igual que la interfaz de Windows 8, los fanáticos de Linux GNOME 3 inicialmente criticaron, pero luego se acostumbraron. Entonces, si desea instalar Linux en su tableta, elija un sistema con GNOME 3.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Windows 10 está constantemente agrega nuevas características, pero no todas son creadas por Microsoft. He encontrado 7 cambios que Windows implementó robados de Linux.](/assets/img/2020-news/caract-windows-10.webp "Windows 10 está constantemente agrega nuevas características, pero no todas son creadas por Microsoft. He encontrado 7 cambios que Windows implementó robados de Linux.")

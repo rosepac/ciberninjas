@@ -124,7 +124,7 @@ Hay millones de desarrolladores de Ionic en más de 200 países en todo el mundo
 
 [👉 Introducción a Ionic](/ionic-4-0-introduccion-ionic-para-todos)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Documentación Oficial de Ionic](https://ionicframework.com/docs)
 {: .notice--info}

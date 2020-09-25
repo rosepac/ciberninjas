@@ -119,7 +119,7 @@ Usted mismo no notará cuán pronto los aprenderá de memoria y no podrá presci
 
 ¿Utilizas métodos abreviados de teclado en el trabajo? Yo sí, ¡Ánimo a todos que comiencen a utilizarlos para facilitar sus tareas!
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.](/assets/img/blog/windows-atajos-teclado.webp "En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.")
 

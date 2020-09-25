@@ -125,7 +125,7 @@ En 1982, Walter J. Doherty y Ahrvind J. Thadani publicaron, en el IBM Systems Jo
 - [Esta joya UX de los 70 que todavía se aplican hoy en día](https://medium.com/@Gugel/the-doherty-threshold-5471ca990de6){:target="_blank" rel="nofollow,noreferrer"}
 
 [👉 Fuente](https://www.linkedin.com/pulse/gamification-training-how-doherty-threshold-ruining-hendershot/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Ley de Fitts**
 
@@ -166,7 +166,7 @@ La Ley de Hick (o la Ley de Hick-Hyman) lleva el nombre de un equipo de psicólo
 - [Los principios de psicología que todo diseñador de UI / UX](https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/){:target="_blank" rel="nofollow,noreferrer"} por Thanasis Rigopoulus
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Hick%27s_law){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Ley de Jakob**
 
@@ -187,7 +187,7 @@ La Ley de Jakob fue acuñada por Jakob Nielsen, defensor de los usuarios y direc
 
 [👉 Fuente](https://www.nngroup.com/people/jakob-nielsen/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Ley de la Región Común**
 
@@ -208,7 +208,7 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 - [Principios de la Gestalt](http://www.scholarpedia.org/article/Gestalt_principles){:target="_blank" rel="nofollow,noreferrer"}
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Ley de Prägnanz**
 
@@ -249,7 +249,7 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 - [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por Steven Bradley
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Ley de Similitud**
 
@@ -290,7 +290,7 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 - [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Ley de Miller**
 
@@ -331,7 +331,7 @@ La navaja de afeitar de Occam (también navaja de afeitar de Ockham; latín: lex
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Occam%27s_razor){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 13. **El Principio de Pareto**
 
@@ -365,7 +365,7 @@ Articulado por Cyril Northcote Parkinson como parte de la primera oración de un
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Parkinson%27s_law){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 15. **Regla de Fin de Pico**
 
@@ -411,7 +411,7 @@ La Ley de Postel (también conocida como Principio de Robustez) fue formulada po
 - [](){:target="_blank" rel="nofollow,noreferrer"}
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Robustness_principle){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 17. **Efecto del posicionamiento en serie**
 
@@ -453,7 +453,7 @@ Sin embargo, Bruce Tognazzini propone que las personas resistan las reducciones 
 - [Nadie quiere usar su producto](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/){:target="_blank" rel="nofollow,noreferrer"} por Goran Peuc
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 19. **Efecto Von Restorff**
 
@@ -492,7 +492,7 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 - [Efecto Zeigarnik](http://coglode.com/gem/zeigarnik-effect){:target="_blank" rel="nofollow,noreferrer"} por 
 
 [👉 Fuente](https://en.wikipedia.org/wiki/Bluma_Zeigarnik){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Licencia
 
@@ -517,4 +517,4 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 
 ![Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.](/assets/img/blog/ux-disenador.webp "Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.")
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

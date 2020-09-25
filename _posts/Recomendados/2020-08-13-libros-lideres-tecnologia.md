@@ -60,7 +60,7 @@ Si lo que que estabas buscando son libros en español, se me ocurre que puedes e
 
 Además, de apoyarte en la meta de lograr a tus aliados necesarios, con los que mejorar tus habilidades con las que aumentar tu capacidad de liderazgo social y tus posibilidades de alcanzar un ascenso laboral.
 
-[📓 Mejores libros de Productividad, Motivación, Reflexión y Relajación](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📓 Mejores libros de Productividad, Motivación, Reflexión y Relajación](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Las lista de títulos en español, es la siguiente:
 
@@ -85,4 +85,4 @@ Las lista de títulos en español, es la siguiente:
 
 [🥇 ▷ Los libros favoritos y recomendados por Satya Nadella](https://ciberninjas.com/libros-recomendados-satya-nadella-2020/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

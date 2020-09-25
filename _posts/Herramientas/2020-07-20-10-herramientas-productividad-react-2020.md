@@ -146,6 +146,6 @@ Nos leemos 💪
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank"="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank"="_blank" rel="nofollow,noreferrer"}
 
 ![Aumenta tu productividad y la calidad de tus aplicaciones con estas 10 geniales herramientas React](/assets/img/blog/productividad-react.webp "Aumenta tu productividad y la calidad de tus aplicaciones con estas 10 geniales herramientas React")

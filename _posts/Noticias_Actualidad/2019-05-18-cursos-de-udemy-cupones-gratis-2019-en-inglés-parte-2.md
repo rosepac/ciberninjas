@@ -22,7 +22,7 @@ All courses are in English! Estos son los cursos con cupones gratuitos que me ha
 
 > 📰 🥇 Los mejores cursos 🔥🔥🔥 con los que aprender 👌 a ganar dinero 🤑 aprender programación 🤖 & diseño 🚀 montar tu negocio 💼 y conocer las criptos ❤️
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Los contenidos en los que están organizados se reparten en: las criptomonedas, el diseño gráfico, la programación y el diseño web, ofimática, productividad, marketing y SEO, las redes y la robótica.
 
@@ -38,7 +38,7 @@ El listado final se forma de 175 cursos en inglés. Seleccionados principalmente
 * [Lanzar tokens y crowdsales de Ethereum sin codificación](https://www.udemy.com/launch-ethereum-tokens-crowdsales-smart-contracts-without-coding/?couponCode=SPECIALFREE){:target="_blank" rel="nofollow,noreferrer"}
 * [Programación en Solidity: Construir una aplicación Blockchain descentralizada](https://www.udemy.com/solidity-programming-build-a-decentralised-blockchain-app/?couponCode=Codemad){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Diseño Gráfico
 
@@ -93,7 +93,7 @@ El listado final se forma de 175 cursos en inglés. Seleccionados principalmente
 * [Tipografías en After Effects: Curso de Motion Graphics](https://www.udemy.com/kinetic-typography-crash-course/?couponCode=FREEFORFRIENDS2018){:target="_blank" rel="nofollow,noreferrer"}
 * [Word Swag: Crear impresionantes imágenes con la aplicación Word Swag](https://www.udemy.com/word-swag/?couponCode=FREECOUPONS){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Programación & Diseño Web
 
@@ -177,7 +177,7 @@ El listado final se forma de 175 cursos en inglés. Seleccionados principalmente
 * [WordPressPlugins: Construir tu propio plugin](https://www.udemy.com/wp-plugin-development-build-your-own-plugin/?couponCode=ONCEALIFETIME){:target="_blank" rel="nofollow,noreferrer"}
 * [Zend Framework Versión 4.0: Pruebas prácticas](https://www.udemy.com/zend-framework-certification-version-40-practice-test/?couponCode=ZFVCPT){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ofimática
 
@@ -203,7 +203,7 @@ El listado final se forma de 175 cursos en inglés. Seleccionados principalmente
 * [Cómo los Hackers crean Malware y Virus Indetectables](https://www.udemy.com/undetectable-malware/?couponCode=FREEBIES){:target="_blank" rel="nofollow,noreferrer"}
 * [Cómo los Hackers se Infiltran en las Computadoras usando Troyanos](https://www.udemy.com/hacking-tools/?couponCode=FREEBIES){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Robótica
 
@@ -230,7 +230,7 @@ El listado final se forma de 175 cursos en inglés. Seleccionados principalmente
 * [Grabación de Voz: Aprende a grabar tu voz como un profesional](https://www.udemy.com/voicerecord/?couponCode=VOFREE){:target="_blank" rel="nofollow,noreferrer"}
 * [Liderazgo Transformacional: Curso de liderazgo definitivo](https://www.udemy.com/transformational-leadership-training-course/?couponCode=ONCEALIFETIME){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Webmaster & SEO & Redes Sociales
 
@@ -244,7 +244,7 @@ El listado final se forma de 175 cursos en inglés. Seleccionados principalmente
 
 ---
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Muchos de los cursos son nuevos. Si quieres encontrar otros cursos relacionados con temáticas similares y en inglés, no dejes de pasarte por mi publicación anterior: [Cursos de Udemy con Cupón temporal – 2019 (Parte 1)](https://ciberninjas.com/cursos-de-udemy-con-cupon-gratuito-2019-en-ingles)
 
@@ -259,4 +259,4 @@ Si necesitas más información siempre puedes unirte a la conversación en [nues
 
 La entrada [Cursos de Udemy con Cupón Gratuito 2019 (en Inglés)(parte 2)](https://ciberninjas.com/cursos-de-udemy-con-cupon-gratuito-2019-en-ingles-2/) se publicó primero en [Ciberninjas](https://ciberninjas.com).
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -63,6 +63,6 @@ Propiedades: obtenga y establezca campos de componentes de forma dinámica utili
 
 [▷ Segunda actualización de Java para Visual Studio Code](https://ciberninjas.com/actualidad-java-visual-studio/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Documentación de Bevy](https://bevyengine.org/learn/book/introduction/){:target="_blank" rel="nofollow,noreferrer"}

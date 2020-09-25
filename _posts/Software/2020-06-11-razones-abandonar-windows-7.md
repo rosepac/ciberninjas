@@ -96,6 +96,6 @@ Ahora que comprendes porque necesitas actualizar a Windows 10, debes elegir una 
 
 [Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.](/assets/img/blog/windows-10.webp "Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.")

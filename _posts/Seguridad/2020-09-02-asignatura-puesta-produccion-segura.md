@@ -160,6 +160,6 @@ A continuación, un breve repaso de todas las temáticas que vas a enseñarte en
 
 [🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux](https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-principiantes/)
 
-[Libros Hacking](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[💻 Portátiles para trabajar en seguridad informática 🔥](https://www.amazon.es/shop/cibercursos?listId=3BF50A7M6Q79J){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Libros Hacking](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Portátiles para trabajar en seguridad informática 🔥](https://www.amazon.es/shop/cibercursos?listId=3BF50A7M6Q79J){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

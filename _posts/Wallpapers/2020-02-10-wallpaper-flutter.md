@@ -62,7 +62,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/D8xHfV4){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.redbubble.com/people/ciberninjas/shop){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.redbubble.com/people/ciberninjas/shop){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![El mejor fondo de pantalla morado de Flutter, visto en Ciberninjas](/assets/img/flutter/flutter-wallpaper-morado.webp "El mejor fondo de pantalla morado de Flutter, visto en Ciberninjas")
 
@@ -100,4 +100,4 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🛒 Catálogo de Libros 👨‍💻](/catalogo/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn-dark .btn-lg .btn-block} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn-dark .btn-lg .btn-block} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn-dark .btn-lg .btn-block} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn-dark .btn-lg .btn-block} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn-dark .btn-lg .btn-block} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn-dark .btn-lg .btn-block}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn-danger .btn-lg .btn-block} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn-danger .btn-lg .btn-block} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn-danger .btn-lg .btn-block} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn-danger .btn-lg .btn-block} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn-danger .btn-lg .btn-block} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn-danger .btn-lg .btn-block}

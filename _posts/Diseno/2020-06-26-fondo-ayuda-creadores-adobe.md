@@ -136,4 +136,4 @@ Si eres seleccionado para recibir la "subvención" o ayuda económica para tu pr
 
 [ ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Etc.](https://ciberninjas.com/cursos-animacion-diseno/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

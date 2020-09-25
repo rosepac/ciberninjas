@@ -67,6 +67,6 @@ El directorio /test en este proyecto contiene un proyecto de prueba de Android q
 
 [▷ Apache Cordova para crear aplicaciones de escritorio macOS](https://ciberninjas.com/cordova-apache-para-osx/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Cordova Android es una biblioteca de aplicaciones de Android que permite construir proyectos basados ​​en Cordova para la plataforma Android. Las aplicaciones basadas en Cordova son, en esencia, aplicaciones escritas con tecnología web: HTML, CSS y JavaScript.](/assets/img/2020-news/cordova-apache-android-studio.webp "Cordova Android es una biblioteca de aplicaciones de Android que permite construir proyectos basados ​​en Cordova para la plataforma Android. Las aplicaciones basadas en Cordova son, en esencia, aplicaciones escritas con tecnología web: HTML, CSS y JavaScript.")

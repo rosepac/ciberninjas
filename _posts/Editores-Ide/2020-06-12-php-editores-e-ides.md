@@ -85,7 +85,7 @@ Eclipse PHP es una herramienta de desarrollo de sitios web para PHP. Destaca la 
 - Se puede usar en Windows, Linux y OS X.
 
 [🔥 Descargar Eclipse PHP](https://www.eclipse.org/pdt/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **3. Netbeans**
 
@@ -134,7 +134,7 @@ Cloud9 es un editor basado en la nube que te permite escribir, ejecutar y depura
 - Ofrece un editor de imágenes incorporado para cambiar el tamaño, recortar o rotar imágenes.
 
 [🔥 Comenzar con Cloud 9](https://aws.amazon.com/es/cloud9/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **6. CodeLite**
 
@@ -162,7 +162,7 @@ Geany es un editor PHP que utiliza el kit de herramientas de código abierto GTK
 - Geany proporciona una lista de símbolos que te ayuda a saber dónde se define el símbolo.
 
 [🔥 Descargar Geany](https://www.geany.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **8. Storm PHP**
 
@@ -191,7 +191,7 @@ TextMate es un editor desarrollado para macOS. Le ayuda a intercambiar fácilmen
 - Puede controlar la versión del archivo PHP con facilidad.
 
 [🔥 Descargar TextMate](https://macromates.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **10. Zend Studio**
 
@@ -240,6 +240,6 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 
 [Python vs PHP](https://ciberninjas.com/python-vs-php/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/img/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")

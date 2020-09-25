@@ -44,6 +44,6 @@ Adobe tiene la intención de agregar más filtros con el tiempo, algunos de los 
 
 Para Adobe, el objetivo también es introducir a las personas a tu ecosistema a través de aplicaciones más pequeñas y menos intimidantes, con la esperanza de convertir algunas de ellas en tus herramientas profesionales pagas. La estrategia está "funcionando bien", dijo Parasnis, "y Photoshop Camera es la próxima en ese viaje para nosotros".
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.](/assets/img/blog/app-camara-photoshop.webp "Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.")

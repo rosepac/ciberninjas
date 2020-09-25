@@ -22,6 +22,6 @@ Si aún no estas informado o has escuchado sobre que es CRISPR [la Wikipedia pue
 Sin lugar a dudas una tecnología revolucionaria que puede cambiar la historia de la humanidad tal y como la conocemos hoy en día; y que pone las espadas en todo lo alto, respecto a las cuestiones de la ética y la ciencia y la necesidad de la creación de que existan fronteras que mantengan el respeto hacía la biología del ser humano dentro de su evolución habitual/"normal".
 
 [📰 Ver la Noticia Completa](https://www.vox.com/future-perfect/2019/8/13/20802059/california-crispr-biohacking-illegal-josiah-zayner){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [¿Es hora de regular el biohacking? California cree que sí](https://www.vox.com/future-perfect/2019/8/13/20802059/california-crispr-biohacking-illegal-josiah-zayner "¿Es hora de regular el biohacking? California cree que sí")

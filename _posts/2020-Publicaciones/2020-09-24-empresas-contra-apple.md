@@ -61,7 +61,7 @@ Mientras ese sea el caso, salvo una intervención legal, es difícil que veamos 
 
 [▷ 24 Ganadores del premio Turing respaldan a Biden](https://ciberninjas.com/premios-turing-apoyan-biden/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: The Verge.
 

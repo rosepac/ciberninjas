@@ -15,7 +15,7 @@ feature-img: /assets/img/catalogo/libro-blanco-hacker.jpg
 
 Guía práctica de las técnicas de un hacker profesional que te hará descubrir como ser capaz de profesionalizarte dentro del mundo de la ciberseguridad.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🙋‍♀️ Descripción Completa
 
@@ -23,7 +23,7 @@ De forma totalmente práctica, este libro te guiará, desde los cimientos hasta 
 
 De esta forma descubrirás cómo puedes tú también convertirte en Hacker profesional. Una de las profesiones más demandadas del mundo.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Este libro contiene las técnicas de seguridad ofensivas necesarias para que puedas llegar a auditar (por medio de pruebas de penetración) y defender una organización en temas de ciberseguridad, basándote en metodologías y estándares internacionales, tales como: PTES, OWASP, NIST, etc.
 
@@ -37,7 +37,7 @@ Adicionalmente, este libro está diseñado para que superes con éxito las certi
 
 Pablo Gutiérrez Salazar, Hacker Ético Certificado por la International Council of Electronic Commerce Consultants y fundador de la empresa de consultoría en ciberseguridad White Suit Hacking SA.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🕵️‍♂️ Índice del Libro
 
@@ -107,7 +107,7 @@ Pablo Gutiérrez Salazar, Hacker Ético Certificado por la International Council
         - 3.3.4 Análisis a páginas WordPress
         - 3.3.5 Análisis OWASP a páginas web
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 - CAPÍTULO 4. EXPLOTACIÓN.
     - 4.1 ATAQUES FUERA DE LA RED LOCAL DESDE LA NUBE
@@ -161,7 +161,7 @@ Pablo Gutiérrez Salazar, Hacker Ético Certificado por la International Council
         - 5.6.3 Atacando a otro sistema
     - 5.7 HACKEANDO WHATSAPP
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 - CAPÍTULO 6. FORENSE
     - 6.1 METODOLOGÍA
@@ -188,7 +188,7 @@ Pablo Gutiérrez Salazar, Hacker Ético Certificado por la International Council
 
 - CAPÍTULO 10. CONCLUSIÓN
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 📝 Otros Detalles
 
@@ -207,4 +207,4 @@ Pablo Gutiérrez Salazar, Hacker Ético Certificado por la International Council
 <p><center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=0K8KMRM0NM2Y5A191Z02&f=ifr&linkID=211f5ada1acf9b558138a9115015fccc&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=1MY6V4BGBKF24MPVQ382&f=ifr&linkID=bc72cdf8c85667d9cf8d99ac40b234cf&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=fire_tablets&banner=09F0X29YE5A28P2Z02G2&f=ifr&linkID=99987810c2d699e6b1a4becf63ee659b&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle_oasis&banner=0NJNYNMJ9TB937AZFHG2&f=ifr&linkID=a42c1c2fd452f496c7105f18b28d8c61&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindlestore&banner=0P95N768FCV2P0732CG2&f=ifr&linkID=75656190f347ab8c55ea09e0b6f57418&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -39,7 +39,7 @@ Sus datos y credenciales se almacenan solo en su dispositivo y la aplicación so
 - Prevención de seguimiento: Lea su correo electrónico de forma privada: Mimestream bloquea los píxeles de seguimiento de más de 50 de los servicios de seguimiento más comunes.
 - Atajos de teclado: Clasifique su correo electrónico rápidamente utilizando los atajos de teclado, incluida la opción de usar conjuntos de atajos de Gmail o Apple Mail familiares.
 
-[💌 ÚNETE A LA VERSIÓN BETA DE MIME STREAM](https://mimestream.com/ "Únete a la versión Beta de Mime Stream"){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[💌 ÚNETE A LA VERSIÓN BETA DE MIME STREAM](https://mimestream.com/ "Únete a la versión Beta de Mime Stream"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Acerca de Mime Stream**
 
@@ -57,7 +57,7 @@ Somos una empresa pequeña y con experiencia, y nos encanta lo que hacemos. Nues
 
 [▷ Google Meet: Prepara nuevas y divertidas actualizaciones](https://ciberninjas.com/cambios-google-meet/ "▷ Google Meet: Prepara nuevas y divertidas actualizaciones")
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web oficial de Mime Stream](https://mimestream.com/ "Página web oficial de Mime Stream"){:target="_blank" rel="nofollow,noreferrer"}
 

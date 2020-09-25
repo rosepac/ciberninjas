@@ -44,7 +44,7 @@ Lea la historia completa en ["The Powersharing Series" en Fast Company](https://
 
 [🥇 ▷ La Historia de los Ordenadores](https://ciberninjas.com/cronograma/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Fast Company](https://www.fastcompany.com/90541084/this-unheard-steve-jobs-tape-is-part-of-an-amazing-trove-of-tech-history "Fast Company"){:target="_blank" rel="nofollow,noreferrer"}
 

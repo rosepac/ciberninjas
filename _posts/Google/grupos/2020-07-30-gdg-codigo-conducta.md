@@ -69,4 +69,4 @@ En [la publicación anterior](https://ciberninjas.com/gdg-grupos-desarrollo-goog
 
 [Wikininjas: ¿Qué son los expertos de Google?](https://ciberninjas.com/wiki/gde/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -67,6 +67,6 @@ Codelobster IDE funciona rápido, no se bloquea y permite trabajar incluso con g
 
 [🔥 Descargar Codelobster](https://kutt.it/codelobster){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.](/assets/img/2020-news/codelobster-ide-1.webp "Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.")

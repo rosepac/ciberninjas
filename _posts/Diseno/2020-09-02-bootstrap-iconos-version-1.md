@@ -67,4 +67,4 @@ No se olviden de seguir a Ciberninjas (tu blog preferido de programación en esp
 
 [▷ Bootstrap 5: Nuevos cambios para el framework CSS](https://ciberninjas.com/bootstrap-5-alpha/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -19,7 +19,7 @@ feature-img: /assets/img/catalogo/que-hace-internet.jpg
 Ahora, Carr amplía su argumento en la exploración más convincente de las consecuencias intelectuales y culturales de Internet hasta ahora publicadas. Mientras describe cómo el pensamiento humano ha sido moldeado a través de los siglos por "herramientas de la mente", desde el alfabeto hasta los mapas, la imprenta, el reloj y la computadora, Carr entrelaza un relato fascinante de los descubrimientos recientes en neurociencia por tales pioneros como Michael Merzenich y Eric Kandel. Nuestros cerebros, revela la evidencia histórica y científica, cambian en respuesta a nuestras experiencias. Las tecnologías que utilizamos para buscar, almacenar y compartir información pueden literalmente redirigir nuestras vías neuronales.
 
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🙋‍♀️ Descripción Completa
 
@@ -28,14 +28,14 @@ Sobre la base de las ideas de los pensadores desde Platón hasta McLuhan, Carr p
 Parte de la historia intelectual, parte de la ciencia popular y parte de la crítica cultural,El Shallows brilla con viñetas memorables: Friedrich Nietzsche luchando con una máquina de escribir, Sigmund Freud diseccionando los cerebros de las criaturas marinas, Nathaniel Hawthorne contemplando el enfoque atronador de una locomotora de vapor, incluso mientras plantea profundas preguntas sobre el estado de nuestra psique moderna. Este es un libro que alterará para siempre la forma en que pensamos sobre los medios y nuestras mentes.
 
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ✍ Biografía del Autor
 
 Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el éxito de ventas The Big Switch, e ¿Importa IT? Su aclamado nuevo libro, The Glass Cage: Automation and Us, examina las consecuencias personales y sociales de nuestra creciente dependencia de las computadoras y el software. Ex editor ejecutivo de Harvard Business Review, ha escrito para The Atlantic, New York Times, Wall Street Journal y Wired . El vive en Colorado.
 
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🕵️‍♂️ Índice del Libro
 
@@ -60,7 +60,7 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
 {: .notice--info}
 
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 📝 Otros Detalles
 
@@ -70,7 +70,7 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=premium&banner=1E7ZEBFW3E0G3W1WXZ82&f=ifr&linkID=36c6741f8667c2eb2286cb8ca0062ecb&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🎁 Muestra Gratis
 
@@ -93,4 +93,4 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
 <p><center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=0K8KMRM0NM2Y5A191Z02&f=ifr&linkID=211f5ada1acf9b558138a9115015fccc&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=1MY6V4BGBKF24MPVQ382&f=ifr&linkID=bc72cdf8c85667d9cf8d99ac40b234cf&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=fire_tablets&banner=09F0X29YE5A28P2Z02G2&f=ifr&linkID=99987810c2d699e6b1a4becf63ee659b&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle_oasis&banner=0NJNYNMJ9TB937AZFHG2&f=ifr&linkID=a42c1c2fd452f496c7105f18b28d8c61&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
 
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

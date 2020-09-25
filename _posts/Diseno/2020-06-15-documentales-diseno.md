@@ -57,4 +57,4 @@ Introducida en medio de la ola de popularidad del diseño suizo y alimentado por
 
 ![Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.](/assets/img/blog/fuente-helvetica-res.webp "Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.")
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

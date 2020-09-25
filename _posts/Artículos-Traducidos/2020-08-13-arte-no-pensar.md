@@ -109,6 +109,6 @@ Con el pequeño riesgo de ser demandado por Nike, simplemente hágalo.
 
 [Twitter quiere agregar pagos a través de un modelo de suscripciones](https://ciberninjas.com/twitter-quiere-agregar-suscripciones/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Not Thinking](http://tiffanymatthe.com/not-thinking){:target="_blank" rel="nofollow,noreferrer"}

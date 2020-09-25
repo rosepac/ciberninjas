@@ -86,7 +86,7 @@ Sumo Paint funciona fluido en su versión web y es lo suficientemente ágil como
 Entre las configuraciones y funciones de Sumo Paint se incluyen lápices, pinceles, textos, degradados, clonación, la inclusión de formas y más; todo ello implementado sobre un panel flotante similar al utilizado en Photoshop.
 
 [🎨 Probar Sumo Paint](https://kutt.it/sumopaint){: .btn .btn--info .btn--info .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[� Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[� Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Editores de vectores**
 
@@ -129,7 +129,7 @@ El soporte completo para varios modelos de color hace que Inkscape sea una alter
 Las características como la conversión de mapas de bits a vectores, la creación de trazos de ancho variable y la compatibilidad con archivos de Illustrator merecen especial atención.
 
 [🎨 Probar Inkscape](https://kutt.it/inkscape){: .btn .btn--info .btn--info .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[� Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[� Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Editores de gráficos 3D**
 
@@ -186,6 +186,6 @@ El costo del editor comienza va a partir de los 2.000 dólares, pero los desarro
 Gracias a Houdini, vas a poder acceder a todas las funciones de la versión completa y perfeccionar tus habilidades en tus proyectos personales. Houdini Apprentice o Aprendiz, está destinado exclusivamente, para usos educativos o no comerciales.
 
 [🎨 Probar Houdini](https://kutt.it/houdini-graphics){: .btn .btn--info .btn--info .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[� Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[� Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Creative Bloq la edición para fotógrafos y diseñadores, ha elegido los editores gráficos más avanzados. Estos programas y servicios son adecuados para trabajar con gráficos vectoriales, de trama y 3D en diferentes plataformas.](/assets/img/2020-news/15-gimp.webp "Creative Bloq la edición para fotógrafos y diseñadores, ha elegido los editores gráficos más avanzados. Estos programas y servicios son adecuados para trabajar con gráficos vectoriales, de trama y 3D en diferentes plataformas.")

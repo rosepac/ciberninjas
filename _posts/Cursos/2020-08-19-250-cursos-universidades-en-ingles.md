@@ -966,7 +966,7 @@ La lista a continuación, lista los los cursos por temáticas:
 
 [200 Cursos Gratis de Udemy: Vamos a Programar en Español](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![](/assets/img/blog/19-class-central.webp)
 
