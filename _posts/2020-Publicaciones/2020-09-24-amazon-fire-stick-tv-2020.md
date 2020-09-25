@@ -7,7 +7,7 @@ tags:
 - Ofertas Amazon
 thumbnail: /assets/img/amazon/amazon-nuevo-fire-stick-tv.webp
 feature-img: /assets/img/amazon/amazon-nuevo-fire-stick-tv.webp
-title: '▷ Amazon rediseña Fire TV, y presenta el nuevo Fire TV Stick y el Fire TV Stick Lite'
+title: '🥇 ▷ Amazon rediseña Fire TV, y presenta el nuevo Fire TV Stick y el Fire TV Stick Lite'
 description: >-
   Amazon anunció hoy un rediseño de la experiencia de Fire TV junto con un Fire TV Stick actualizado y un nuevo Fire TV Stick Lite de menor costo. La interfaz actualizada para la plataforma de televisión inteligente habilitada para Alexa introducirá un puñado de nuevas funciones.
 excerpt: >-

@@ -7,7 +7,7 @@ tags:
 - Ofertas Amazon
 thumbnail: /assets/img/amazon/amazon-fire-tv-cube.webp
 feature-img: /assets/img/amazon/amazon-fire-tv-cube.webp
-title: '▷ Amazon lanza un nuevo dispositivo denominado Fire TV Cube'
+title: '🥇 ▷ Amazon lanza un nuevo dispositivo denominado Fire TV Cube'
 description: >-
   Con el Fire TV Cube puedes olvidarte del mando y sumergirte en tus películas y series favoritas solamente usando la voz. Desde cualquier parte de la habitación, no tienes más que decir “Alexa, pon Sneaky Pete” y Alexa responderá a tu solicitud.
 excerpt: >-

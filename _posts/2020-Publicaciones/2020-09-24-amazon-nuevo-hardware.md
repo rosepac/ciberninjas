@@ -7,7 +7,7 @@ tags:
 - Ofertas Amazon
 thumbnail: /assets/img/amazon/echo-esfera-4-generacion.webp
 feature-img: /assets/img/amazon/echo-esfera-4-generacion.webp
-title: '▷ Los Nuevo Dispositivos Inteligentes de Amazon 2020: Echo Dot, Echo Show, Fire TV Stick, y más'
+title: '🥇 ▷ Los Nuevo Dispositivos Inteligentes de Amazon 2020: Echo Dot, Echo Show, Fire TV Stick, y más'
 description: >-
   Amazon ha utilizado eventos anteriores para anunciar todo tipo de dispositivos, desde nuevos altavoces Amazon Echo hasta gafas experimentales con Alexa incorporada e incluso un microondas inteligente.
 excerpt: >-

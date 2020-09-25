@@ -7,7 +7,7 @@ tags:
 - Ofertas Amazon
 thumbnail: /assets/img/amazon/amazon-echo-show-10.webp
 feature-img: /assets/img/amazon/amazon-echo-show-10.webp
-title: '▷ El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves'
+title: '🥇 ▷ El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves'
 description: >-
   Entonces esto es una locura. El nuevo Echo Show 10 de Amazon gira sobre su base para seguirte por la habitación. La cámara a bordo es capaz de reconocer a una persona y gira para seguirla.
 excerpt: >-
