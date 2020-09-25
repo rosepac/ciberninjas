@@ -185,7 +185,7 @@
 }
 
 .bootstrap-iso a:hover {
-    color: #0056b3;
+    color: #c82333;
     text-decoration: underline;
 }
 
@@ -3168,7 +3168,7 @@
 }
 
 .bootstrap-iso .btn-link:hover {
-    color: #0056b3;
+    color: #c82333;
     text-decoration: underline;
 }
 
@@ -5095,7 +5095,7 @@
 
 .bootstrap-iso .page-link:hover {
     z-index: 2;
-    color: #0056b3;
+    color: #c82333;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6;
@@ -10162,7 +10162,7 @@
 
 .bootstrap-iso a.text-primary:hover,
 .bootstrap-iso a.text-primary:focus {
-    color: #0056b3 !important;
+    color: #c82333 !important;
 }
 
 .bootstrap-iso .text-secondary {

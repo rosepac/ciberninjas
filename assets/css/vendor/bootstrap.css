@@ -174,7 +174,7 @@ a {
 }
 
 a:hover {
-    color: #0056b3;
+    color: #c82333;
     text-decoration: underline;
 }
 
@@ -3157,7 +3157,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-    color: #0056b3;
+    color: #c82333;
     text-decoration: underline;
 }
 
@@ -5084,7 +5084,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
     z-index: 2;
-    color: #0056b3;
+    color: #c82333;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6;
@@ -10151,7 +10151,7 @@ button.bg-dark:focus {
 
 a.text-primary:hover,
 a.text-primary:focus {
-    color: #0056b3 !important;
+    color: #c82333 !important;
 }
 
 .text-secondary {
