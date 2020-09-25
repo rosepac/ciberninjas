@@ -12,7 +12,7 @@ favicon: 'assets/favicon.ico'
 header_text: 'Jardín Digital del Saber Binario'
 header_feature_image: '/assets/img/portada.webp'
 footer_text: >
-  © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología<br/> Desarrollado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
+  © 2020 Ciberninjas. Recursos de Programación, Desarrollo y Tecnología<br/> Desarrollado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
 # Seo Redes
 twitter:
   username: ciberninjas
