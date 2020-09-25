@@ -20,17 +20,35 @@ published: true
 
 ---
 
-Nuestra misión es proporcionar a los desarrolladores un marco de código abierto y de alta productividad para crear aplicaciones nativas hermosas en cualquier plataforma. Hasta ahora, hemos enviado soporte de calidad de producción para Android e iOS, con ocho versiones estables y más de 100,000 aplicaciones enviadas solo a Google Play Store. Continuamos ampliando nuestro enfoque para incluir otras plataformas, incluidas web, macOS y Linux. Hoy, nos complace anunciar un objetivo adicional para Flutter con la versión alfa del soporte de Flutter para Windows.
+Nuestra misión es proporcionar a los desarrolladores un framework de código abierto y de alta productividad para crear aplicaciones nativas hermosas en cualquier plataforma.
 
-Windows sigue siendo una opción popular para dispositivos de escritorio y portátiles, y Microsoft informa más de mil millones de dispositivos activos que ejecutan Windows 10 . Nuestras propias estadísticas muestran que más de la mitad de todos los desarrolladores de Flutter usan Windows, por lo que es un objetivo natural para Flutter. El soporte de escritorio nativo abre una variedad de posibilidades interesantes para Flutter, que incluyen herramientas mejoradas para desarrolladores, menor fricción para los nuevos usuarios y, por supuesto, aplicaciones que pueden llegar a cualquier dispositivo que un usuario pueda tener desde una única base de código.
+Hasta ahora, hemos enviado soporte de calidad de producción para Android e iOS, con ocho versiones estables y más de 100,000 aplicaciones enviadas solo a Google Play Store.
+
+Continuamos ampliando nuestro enfoque para incluir otras plataformas, incluidas web, macOS y Linux. Hoy, nos complace anunciar un objetivo adicional para Flutter con la versión alfa del soporte de Flutter para Windows.
+
+Windows sigue siendo una opción popular para dispositivos de escritorio y portátiles, y Microsoft informa más de mil millones de dispositivos activos que ejecutan Windows 10.
+
+Nuestras propias estadísticas muestran que más de la mitad de todos los desarrolladores de Flutter usan Windows, por lo que es un objetivo natural para Flutter.
+
+El soporte de escritorio nativo abre una variedad de posibilidades interesantes para Flutter, que incluyen herramientas mejoradas para desarrolladores, menor fricción para los nuevos usuarios y, por supuesto, aplicaciones que pueden llegar a cualquier dispositivo que un usuario pueda tener desde una única base de código.
 
 ## **Agregar Flutter a Windows**
 
-Como se describe en nuestra descripción arquitectónica, Flutter es un conjunto de herramientas de interfaz de usuario multiplataforma que está diseñado para permitir la reutilización de código en sistemas operativos como iOS y Android, al tiempo que permite que las aplicaciones interactúen directamente con los servicios de la plataforma subyacente. El objetivo es permitir que los desarrolladores entreguen aplicaciones de alto rendimiento que se sientan naturales en diferentes plataformas, adoptando las diferencias donde existen mientras comparten la mayor cantidad de código posible. En el núcleo de Flutter está el motor, que admite las primitivas necesarias para admitir todas las aplicaciones de Flutter. El motor es responsable de rasterizar escenas compuestas cada vez que se necesita pintar un nuevo marco. Proporciona la implementación de bajo nivel de la API central de Flutter, que incluye gráficos, diseño de texto, E / S de archivos y redes, soporte de accesibilidad, arquitectura de complementos y una cadena de herramientas de compilación y tiempo de ejecución de Dart.
+Como se describe en nuestra descripción arquitectónica, Flutter es un conjunto de herramientas de interfaz de usuario multiplataforma que está diseñado para permitir la reutilización de código en sistemas operativos como iOS y Android, al tiempo que permite que las aplicaciones interactúen directamente con los servicios de la plataforma subyacente.
 
-Cada nueva plataforma que agregamos a Flutter expande el marco principal con nuevos servicios para permitirle brillar en esa plataforma. Comenzamos con Android e iOS con Material Design, así como una interfaz de usuario centrada en dispositivos móviles y basada en el tacto que está diseñada para tener píxeles perfectos en ambas plataformas móviles. Agregar soporte para factores de forma de escritorio con web, Windows, macOS y Linux brinda un conjunto completamente nuevo de servicios, que incluye un soporte sólido para teclados, mouse, ruedas de mouse y controladores en el lado de entrada, así como widgets que se adaptan o incluso funcionan mejor en los tamaños de pantalla más grandes que vienen con las aplicaciones web y de escritorio.
+El objetivo es permitir que los desarrolladores entreguen aplicaciones de alto rendimiento que se sientan naturales en diferentes plataformas, adoptando las diferencias donde existen mientras comparten la mayor cantidad de código posible.
 
-Además, cada nueva plataforma no solo influye en el marco y el motor de Flutter, sino también en muchas otras cosas:
+En el núcleo de Flutter está el motor, que admite las primitivas necesarias para admitir todas las aplicaciones de Flutter.
+
+El motor es responsable de rasterizar escenas compuestas cada vez que se necesita pintar un nuevo framework. Proporciona la implementación de bajo nivel de la API central de Flutter, que incluye gráficos, diseño de texto, E / S de archivos y redes, soporte de accesibilidad, arquitectura de complementos y una cadena de herramientas de compilación y tiempo de ejecución de Dart.
+
+Cada nueva plataforma que agregamos a Flutter expande el framework principal con nuevos servicios para permitirle brillar en esa plataforma.
+
+Comenzamos con Android e iOS con Material Design, así como una interfaz de usuario centrada en dispositivos móviles y basada en el tacto que está diseñada para tener píxeles perfectos en ambas plataformas móviles.
+
+Agregar soporte para factores de forma de escritorio con web, Windows, macOS y Linux brinda un conjunto completamente nuevo de servicios, que incluye un soporte sólido para teclados, mouse, ruedas de mouse y controladores en el lado de entrada, así como widgets que se adaptan o incluso funcionan mejor en los tamaños de pantalla más grandes que vienen con las aplicaciones web y de escritorio.
+
+Además, cada nueva plataforma no solo influye en el framework y el motor de Flutter, sino también en muchas otras cosas:
 
 - **Actualizaciones de la cadena de herramientas**: Agregar un nuevo objetivo a las herramientas CLI e IDE (en este caso, Windows)
 - **Shell**: Soporte para manejar la entrada de Windows a través de WM_*mensajes y salida a través de ANGLE , que usa Skia para renderizar a velocidad nativa en una superficie DirectX subyacente
