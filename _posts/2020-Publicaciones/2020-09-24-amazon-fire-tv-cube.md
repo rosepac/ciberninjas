@@ -111,4 +111,4 @@ Pídele a Alexa que te muestre el vídeo en directo de tus cámaras o que reprod
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/amazon/amazon-fire-tv-cube.webp "")
+![Amazon lanza un nuevo dispositivo denominado Fire TV Cube](/assets/img/amazon/amazon-fire-tv-cube.webp "Amazon lanza un nuevo dispositivo denominado Fire TV Cube")
