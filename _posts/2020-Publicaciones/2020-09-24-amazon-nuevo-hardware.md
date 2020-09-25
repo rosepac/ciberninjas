@@ -14,7 +14,7 @@ excerpt: >-
   Amazon ha utilizado eventos anteriores para anunciar todo tipo de dispositivos, desde nuevos altavoces Amazon Echo hasta gafas experimentales con Alexa incorporada e incluso un microondas inteligente.
 canonical_URL: https://ciberninjas.com/amazon-nuevo-hardware/
 permalink: /amazon-nuevo-hardware/
-date: 2020-09-24 15:18:32
+date: 2020-09-25 09:18:32
 last_modified_at: 
 published: true
 

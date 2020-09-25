@@ -14,7 +14,7 @@ excerpt: >-
   Amazon anunció hoy un rediseño de la experiencia de Fire TV junto con un Fire TV Stick actualizado y un nuevo Fire TV Stick Lite de menor costo. La interfaz actualizada para la plataforma de televisión inteligente habilitada para Alexa introducirá un puñado de nuevas funciones.
 canonical_URL: https://ciberninjas.com/amazon-fire-stick-2020/
 permalink: /amazon-fire-stick-2020/
-date: 2020-09-24 15:30:32
+date: 2020-09-25 09:30:32
 last_modified_at: 
 published: true
 

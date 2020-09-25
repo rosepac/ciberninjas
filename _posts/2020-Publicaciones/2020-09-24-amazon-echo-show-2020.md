@@ -14,7 +14,7 @@ excerpt: >-
   Entonces esto es una locura. El nuevo Echo Show 10 de Amazon gira sobre su base para seguirte por la habitación. La cámara a bordo es capaz de reconocer a una persona y gira para seguirla.
 canonical_URL: https://ciberninjas.com/amazon-echo-show-2020/
 permalink: /amazon-echo-show-2020/
-date: 2020-09-24 15:35:32
+date: 2020-09-25 09:35:32
 last_modified_at: 
 published: true
 

@@ -14,7 +14,7 @@ excerpt: >-
   Con el Fire TV Cube puedes olvidarte del mando y sumergirte en tus películas y series favoritas solamente usando la voz. Desde cualquier parte de la habitación, no tienes más que decir “Alexa, pon Sneaky Pete” y Alexa responderá a tu solicitud.
 canonical_URL: https://ciberninjas.com/amazon-fire-tv-cube/
 permalink: /amazon-fire-tv-cube/
-date: 2020-09-24 15:33:32
+date: 2020-09-25 09:33:32
 last_modified_at: 
 published: true
 

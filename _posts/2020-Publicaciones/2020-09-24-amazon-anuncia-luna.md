@@ -14,7 +14,7 @@ excerpt: >-
   En su evento de Dispositivos y Servicios, Amazon lanzó su propio competidor de juegos en la nube para Google Stadia y Microsoft xCloud. Se llama Luna. La compañía está lanzando el producto en acceso temprano a un precio de lanzamiento de 6 € por mes.
 canonical_URL: https://ciberninjas.com/amazon-anuncia-luna/
 permalink: /amazon-anuncia-luna/
-date: 2020-09-24 15:28:32
+date: 2020-09-25 08:28:32
 last_modified_at: 
 published: true
 

@@ -17,7 +17,9 @@ img: /assets/img/amazon/amazon-prime-day.gif
 
 ---
 
-El [Prime Day 2020 pronto estará aquí](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y desde este enlace vas a poder encontrar absolutamente todas las mejores ofertas y chollos 🔥🔥🔥
+El [Prime Day 2020 pronto estará aquí](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y desde este enlace vas a poder encontrar absolutamente todas las mejores ofertas y chollos.. 🔥🔥🔥
+
+Mientras tanto, puedes consultar [las mejores ofertas flash y rebajas diarias de Amazon 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/) desde [mi página de colecciones de Chollos de Amazon](https://ciberninjas.com/amazon/), en la que voy agregando nuevos productos rebajados casi a diario.
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
