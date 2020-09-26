@@ -62,15 +62,15 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [⛓ Blockchain](#-blockchain)
 - [Cadena de Bloques 🔗](#cadena-de-bloques-)
 - [Criptomonedas 💰](#criptomonedas-)
-  - [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](#bitcoin-i-classfa-fa-btc-aria-hiddentruei)
-  - [Ethereum <i class="fab fa-ethereum"></i>](#ethereum-i-classfab-fa-ethereumi)
+  - [Bitcoin](#bitcoin)
+  - [Ethereum](#ethereum)
 - [🔬 Ciencias de la Computación](#-ciencias-de-la-computación)
 - [🛒 Comercio Electrónico](#-comercio-electrónico)
   - [Startups](#startups)
 - [📐 Diseño Cad](#-diseño-cad)
 - [🐧 Ecosistema de Software Libre](#-ecosistema-de-software-libre)
   - [Hacktivismo](#hacktivismo)
-  - [Linux <i class="fa fa-linux" aria-hidden="true"></i>](#linux-i-classfa-fa-linux-aria-hiddentruei)
+  - [Linux](#linux)
   - [Ubuntu](#ubuntu)
 - [💼 Metodologías de Desarrollo](#-metodologías-de-desarrollo)
 - [Misceláneos](#misceláneos)
@@ -82,7 +82,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [👨‍💻 Paradigmas de Programación](#-paradigmas-de-programación)
 - [👦 Programación Infantil](#-programación-infantil)
   - [App Inventor](#app-inventor)
-  - [Scratch <i class="fas fa-paw"></i>](#scratch-i-classfas-fa-pawi)
+  - [Scratch](#scratch)
 - [🕸 Redes](#-redes)
   - [Servicios en red](#servicios-en-red)
   - [Virtualización](#virtualización)
@@ -100,8 +100,8 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [Inteligencia Artificial](#inteligencia-artificial)
 - [Raspberry Pi](#raspberry-pi)
 - [👩‍💻 Desarrollo Web](#-desarrollo-web)
-- [Android <i class="fa fa-android" aria-hidden="true"></i>](#android-i-classfa-fa-android-aria-hiddentruei)
-- [Docker <i class="fab fa-docker"></i>](#docker-i-classfab-fa-dockeri)
+- [Android](#android)
+- [Docker](#docker)
 - [Bootstrap](#bootstrap)
 - [Ionic](#ionic)
 - [PhoneGap (Apache Cordoba)](#phonegap-apache-cordoba)
@@ -112,10 +112,10 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
   - [Coffescript](#coffescript)
   - [Emacs y Lisp](#emacs-y-lisp)
   - [Ensamblador](#ensamblador)
-  - [Erlang <i class="fab fa-erlang"></i>](#erlang-i-classfab-fa-erlangi)
+  - [Erlang](#erlang)
   - [Elixir](#elixir)
-- [Git <i class="fab fa-git"></i>](#git-i-classfab-fa-giti)
-- [Github <i class="fab fa-github"></i>](#github-i-classfab-fa-githubi)
+- [Git](#git)
+- [Github](#github)
   - [Go](#go)
   - [Haskell](#haskell)
 - [👨‍🎨 Diseño Web](#-diseño-web)
@@ -123,13 +123,13 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [Lenguajes de Estilos y Preprocesadores 🎨](#lenguajes-de-estilos-y-preprocesadores-)
 - [Lenguajes de Marcado ✍](#lenguajes-de-marcado-)
 - [Sistemas de Plantillas 🌱](#sistemas-de-plantillas-)
-- [HTML / CSS <i class="fa fa-html5" aria-hidden="true"></i> <i class="fa fa-css3" aria-hidden="true"></i> <i class="fab fa-sass"></i>](#html--css-i-classfa-fa-html5-aria-hiddentruei-i-classfa-fa-css3-aria-hiddentruei-i-classfab-fa-sassi)
+- [HTML / CSS](#html--css)
 - [Java](#java)
 - [JavaScript](#javascript)
-  - [Angular <i class="fab fa-angular"></i>](#angular-i-classfab-fa-angulari)
+  - [Angular](#angular)
   - [D3.js](#d3js)
   - [jQuery](#jquery)
-  - [Node <i class="fab fa-node-js"></i>](#node-i-classfab-fa-node-jsi)
+  - [Node](#node)
   - [React](#react)
 - [Rust](#rust)
 - [Vue](#vue)
@@ -147,16 +147,16 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [R](#r)
 - [Scala](#scala)
 - [SVG](#svg)
-- [Swift <i class="fab fa-swift"></i>](#swift-i-classfab-fa-swifti)
+- [Swift](#swift)
 - [Tex & LaTeX](#tex--latex)
 - [🎮 Programación Videojuegos](#-programación-videojuegos)
 - [✍ Sistemas de Gestión de Contenidos](#-sistemas-de-gestión-de-contenidos)
-  - [Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](#wordpress-i-classfa-fa-wordpress-aria-hiddentruei)
+  - [Wordpress](#wordpress)
 - [👷‍♂️ Webmaster](#️-webmaster)
 - [Accesibilidad Web ♿](#accesibilidad-web-)
 - [Análitica Web 📈](#análitica-web-)
 - [Marketing Digital 🏪](#marketing-digital-)
-  - [Instagram <i class="fa fa-instagram" aria-hidden="true"></i>](#instagram-i-classfa-fa-instagram-aria-hiddentruei)
+  - [Instagram](#instagram)
 - [Seo y Posicionamiento 🔍](#seo-y-posicionamiento-)
 - [Licencia](#licencia)
   - [**Nos Referencian**](#nos-referencian)
@@ -289,7 +289,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>
+### Bitcoin
 
 * [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -304,7 +304,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf){:target="_blank" rel="nofollow,noreferrer"}
 * [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-### Ethereum <i class="fab fa-ethereum"></i>
+### Ethereum
 
 * [Guía Básica de ETHEREUM](https://lookaside.fbsbx.com/file/gu%C3%ADa-ethereum-es.pdf?token=AWwRSd69kRSRBGrrjSl_ITZa_kLRQvAMFMpcuiihuL4L93bASE99P0bZyp3jZA1gclULalRTvF9FdiWXCxDnG4GQl7F7aeBXiWt9oCr84BAdVMcaCRUpnzCFCfvZrhGk_fqF-h_3WqWJiuLCssvR7QJ0Ew4zAHbavWie9Vm7Eswviw){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
@@ -384,7 +384,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 * [El Kit de la Lucha en Internet](https://www.traficantes.net/sites/default/files/pdfs/El%20kit%20de%20la%20lucha%20en%20Internet-TdS.pdf){:target="_blank" rel="nofollow,noreferrer"} (2012)
 
-### Linux <i class="fa fa-linux" aria-hidden="true"></i>
+### Linux
 
 * [Administración avanzada de GNU/Linux](https://softlibre.unizar.es/manuales/linux/871.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Bases de la programación en Bash](https://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
@@ -471,7 +471,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 * [Desarrollo de aplicaciones para Android usando MIT App Inventor 2 -2016](https://openlibra.com/en/book/download/desarrollo-de-aplicaciones-para-android-usando-mit-app-inventor-2){:target="_blank" rel="nofollow,noreferrer"} [2013](https://tecnoarboleda.files.wordpress.com/2014/02/desarrollo-para-android-usando-mit-appinventor.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
-### Scratch <i class="fas fa-paw"></i>
+### Scratch
 
 * [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf){:target="_blank" rel="nofollow,noreferrer"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf){:target="_blank" rel="nofollow,noreferrer"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name){:target="_blank" rel="nofollow,noreferrer"}
 * [Animar un Personaje](https://resources.scratch.mit.edu/www/cards/es/animation-cards.pdf){:target="_blank" rel="nofollow,noreferrer"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf){:target="_blank" rel="nofollow,noreferrer"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character){:target="_blank" rel="nofollow,noreferrer"}
@@ -634,7 +634,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## 👩‍💻 Desarrollo Web
 
-## Android <i class="fa fa-android" aria-hidden="true"></i>
+## Android
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprendizaje Android](https://riptutorial.com/Download/android-es.pdf){:target="_blank" rel="nofollow,noreferrer"} RipTutorial (PDF)
@@ -653,7 +653,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Docker <i class="fab fa-docker"></i>
+## Docker
 
 * [Chuleta sobre Docker](https://leanmind.es/es/blog/infografia-de-docker/) (HTML) ([PDF](https://leanmind.es/docker-cheatsheet.pdf){:target="_blank" rel="nofollow,noreferrer"}) por [@YodraLopez](https://twitter.com/yodralopez){:target="_blank" rel="nofollow,noreferrer"}
 * [Comandos de Docker](https://criskrus.github.io/docker-formation/){:target="_blank" rel="nofollow,noreferrer"} (Github) \ ([Fuente](https://github.com/CrisKrus/docker-formation#docker-formation){:target="_blank" rel="nofollow,noreferrer"})
@@ -715,7 +715,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf){:target="_blank" rel="nofollow,noreferrer"} - Paul A.Carter (PDF)
 
-### Erlang <i class="fab fa-erlang"></i>
+### Erlang
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang){:target="_blank" rel="nofollow,noreferrer"} (WikiLibros)
 
@@ -725,7 +725,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Git <i class="fab fa-git"></i>
+## Git
 
 * [Git Immersion en Español](https://esparta.github.io/gitimmersion-spanish){:target="_blank" rel="nofollow,noreferrer"}
 * [Git Magic (2007)](https://openlibra.com/es/book/download/git-magic){:target="_blank" rel="nofollow,noreferrer"}
@@ -734,7 +734,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Gitmagic](https://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es){:target="_blank" rel="nofollow,noreferrer"}
 * [Pro Git](https://git-scm.com/book/es/){:target="_blank" rel="nofollow,noreferrer"}
 
-## Github <i class="fab fa-github"></i>
+## Github
 
 * [Conociendo Github Documentación](https://media.readthedocs.org/pdf/conociendogithub/latest/conociendogithub.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple){:target="_blank" rel="nofollow,noreferrer"} (Github)
@@ -769,7 +769,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Sistemas de Plantillas 🌱
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 
-## HTML / CSS <i class="fa fa-html5" aria-hidden="true"></i> <i class="fa fa-css3" aria-hidden="true"></i> <i class="fab fa-sass"></i>
+## HTML / CSS
 
 * [Chuleta CSS3](https://lenguajecss.com/){:target="_blank" rel="nofollow,noreferrer"} (HTML) ([PDF](https://www.emezeta.com/doc/css3-cheatsheet/css3-cheatsheet.php){:target="_blank" rel="nofollow,noreferrer"})
 * [CSS avanzado](https://librosweb.es/libro/css_avanzado){:target="_blank" rel="nofollow,noreferrer"} Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado){:target="_blank" rel="nofollow,noreferrer"}
@@ -815,7 +815,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [JavaScript Para Gatos](https://jsparagatos.com){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### Angular <i class="fab fa-angular"></i>
+### Angular
 
 * [Cómo aprender AngularJS](https://drive.google.com/file/d/1Fa4cnjBLDvzLGIVIFtE5B22_Hubl2FmN/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
@@ -828,7 +828,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery){:target="_blank" rel="nofollow,noreferrer"} (HTML) [(PDF)](https://openlibra.com/es/book/download/fundamentos-de-jquery){:target="_blank" rel="nofollow,noreferrer"}
 * [Manual de jQuery](https://mundosica.github.io/tutorial_hispano_jQuery/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### Node <i class="fab fa-node-js"></i>
+### Node
 
 * [Introducción a Node.js a través de Koans](https://nodejskoans.com){:target="_blank" rel="nofollow,noreferrer"}
 * [Tutorial para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html){:target="_blank" rel="nofollow,noreferrer"}
@@ -963,7 +963,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Scalable: Un libro sobre SVG](https://lookaside.fbsbx.com/file/scalable.pdf?token=AWxNiz6LRucqQSrNUMf8ntZOEIDPzn1YO3DyPQbwJbE6KZJvBqzlRHHn5pgC4bwM4VbgaVG8KxCvSDrlSSsSZ3_svwdff0cGNrS9p98bylJI-X5itT4zgescpGGbQ-AdmWVIDQSH6_ZMTlzzb5eRxNkeREL81VUXSXajXV3gqfyc_w){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF) (2017)
 
-## Swift <i class="fab fa-swift"></i>
+## Swift
 
 * [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2015)
 
@@ -991,7 +991,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## ✍ Sistemas de Gestión de Contenidos
 
-### Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
+### Wordpress
 
 * [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Tutorial, paso a paso, de Wordpress](https://drive.google.com/file/d/1K0cNYes6nHFuGwueA5hFxHXHmOS7FSkZ/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -1032,7 +1032,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Marca 4.0: El impacto de la digitalización en la internalización y la gestión de la marca](https://www.marcasrenombradas.com/wp-content/uploads/2019/03/Informe-Marca-4.0.pdf){:target="_blank" rel="nofollow,noreferrer"} ()
 * [Vender 2.0](https://lookaside.fbsbx.com/file/Vender_2.0_Redes_Sociales.pdf?token=AWxVeWmznQH8xIIQJsIWgGRCa7Cru6AD2KkxxkbFn0gudms_yNgBD5JZpc83NZPllsT61W1QaAf1fSAQ5vVzq-8j0RKPuWgx60s5OqftF7cojeYeEfpjnavo3VW-8M29uQFDYX0RRjGzCUtvwRJxCFwsom8kpOBE2iP-CtRt29HnRA){:target="_blank" rel="nofollow,noreferrer"} (Presentación) (2013)
 
-### Instagram <i class="fa fa-instagram" aria-hidden="true"></i>
+### Instagram
 
 * [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
