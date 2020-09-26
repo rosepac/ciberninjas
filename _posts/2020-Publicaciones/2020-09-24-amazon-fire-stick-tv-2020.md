@@ -64,11 +64,11 @@ El Fire TV Stick actualizado se ha actualizado con un procesador un 50% más pot
 
 [RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-Pero usará un 50% menos de energía que su predecesor, dice Amazon. Continuará enviándose con el control remoto Alexa, que incluye botones dedicados de volumen, encendido y silencio que pueden controlar su televisor, barra de sonido y equipo AV. El dispositivo se lanzará más adelante en el año por $ 39.99.
+Pero usará un 50% menos de energía que su predecesor, dice Amazon. Continuará enviándose con el control remoto Alexa, que incluye botones dedicados de volumen, encendido y silencio que pueden controlar su televisor, barra de sonido y equipo AV. El dispositivo se lanzará más adelante, a finales de este año, y su precio será de 39.99 €.
 
 Amazon también anunció un Fire TV Stick nuevo y más asequible, llamado Fire TV Stick Lite. Esta versión, que no es tan potente como el nuevo Fire TV Stick, admite la transmisión en Full-HD con HDR y viene con Alexa Voice Remote Lite.
 
-El Fire TV Stick Lite comenzará a enviarse a finales de este mes por $ 29.99.
+El Fire TV Stick Lite comenzará a enviarse a finales de este mes por 29.99 €.
 
 - [**Conociendo más el nuevo Fire Stick TV**](#conociendo-más-el-nuevo-fire-stick-tv)
 - [**¿Cuáles son las características técnicas de Fire Stick TV?**](#cuáles-son-las-características-técnicas-de-fire-stick-tv)
