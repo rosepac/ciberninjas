@@ -15,7 +15,7 @@ excerpt: >-
   El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. A través de proyectos de software de código abierto liderados por la comunidad.
 canonical_URL: https://ciberninjas.com/owasp-fundacion-por-seguridad-software/
 permalink: /owasp-fundacion-por-seguridad-software/
-date: 2020-09-25 16:02:32
+date: 2020-09-26 16:02:32
 last_modified_at: 
 published: true
 
