@@ -18,10 +18,24 @@ img: "/assets/img/paginas-cursos/cursos-ciencias-computacion.webp"
 
 ---
 
+Uno de los avances tecnológicos más importantes del siglo XXI es la integración de las computadoras en casi todos los aspectos de nuestras vidas.
+
+Los informáticos desarrollan software y algoritmos poderosos que tienen el increíble poder de predicción para hacer coincidir los productos con los consumidores, predecir elecciones políticas e incluso ayudar a las personas a encontrar parejas románticas para toda la vida.
+
+También crean software que impulsa la inteligencia artificial, lo que ha llevado a un reconocimiento facial y de voz extremadamente bueno e incluso a vehículos autónomos.
+
+A medida que crece nuestra capacidad para recopilar y procesar cantidades cada vez mayores de datos, también aumentará la importancia de los científicos informáticos.
+
+Los informáticos son responsables de diseñar y utilizar lenguajes de programación para realizar muchas tareas diferentes y estudiar temas como: Redes de computadoras, sistemas de información, seguridad informática, ingeniería de datos y conocimiento, computación de mainframe y desarrollo de software.
+
+Las escuelas de esta lista son las mejores del mundo en la formación de la próxima generación de informáticos. Si te encantan las computadoras y la resolución de problemas, sigue leyendo para ver si alguno de estos cursos es adecuado para ti.
+
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 🔬 Ciencias de la Computación
+**Los Mejores Cursos Gratis de Ciencias de la Computación**
+
+## **Los mejores cursos gratis sobre algoritmos**
 
 - [Algoritmo Avanzado (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/algoritmia-avanzada-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Algoritmos y estructuras de datos](https://www.youtube.com/playlist?list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr){:target="_blank" rel="nofollow,noreferrer"} (CodeJobs, YouTube)
@@ -30,6 +44,9 @@ img: "/assets/img/paginas-cursos/cursos-ciencias-computacion.webp"
 - [Aplicaciones de la Teoría de Grafos a la vida real II](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Aprende a programar desde las bases](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-programar-desde-las-bases%2F) (Udemy) (2019)
 - [Aprendizaje del Software Estadístico R: un entorno para simulación y computación estadística (2007)](http://ocw.uc3m.es/estadistica/aprendizaje-del-software-estadistico-r-un-entorno-para-simulacion-y-computacion-estadistica){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+
+## **Los mejores cursos gratis sobre arquitectura de computadoras**
+
 - [Arquitectura de Computadoras (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/arquitectura-de-computadores-2009.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Arquitectura de Computadoras (2012)](http://ocw.uc3m.es/ingenieria-informatica/arquitectura-de-computadores-ii){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Arquitectura de Computadoras (2015)](http://ocw.uc3m.es/ingenieria-informatica/arquitectura-de-computadores){:target="_blank" rel="nofollow,noreferrer"} (OCW)
