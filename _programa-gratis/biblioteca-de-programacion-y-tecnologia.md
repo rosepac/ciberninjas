@@ -637,6 +637,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Android <i class="fa fa-android" aria-hidden="true"></i>
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [Aprendizaje Android](https://riptutorial.com/Download/android-es.pdf){:target="_blank" rel="nofollow,noreferrer"} RipTutorial (PDF)
 * [Curso Android](https://www.hermosaprogramacion.com/android){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Desarrollo de una aplicación móvil Android para control remoto de un servicio web (2012)](https://e-archivo.uc3m.es/bitstream/handle/10016/16913/TFG_Maria_Lozano_Perez.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [EasyManet for Android (2013)](https://riunet.upv.es/bitstream/handle/10251/32786/Memoria.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
