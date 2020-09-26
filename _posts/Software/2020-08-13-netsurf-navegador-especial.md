@@ -61,6 +61,6 @@ A pesar de la gran cantidad de estándares que debe admitir, NetSurf hace que na
 
 [▷ Segunda actualización de Java para Visual Studio Code](https://ciberninjas.com/actualidad-java-visual-studio/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web oficial de Netsurf](https://www.netsurf-browser.org/){:target="_blank" rel="nofollow,noreferrer"}

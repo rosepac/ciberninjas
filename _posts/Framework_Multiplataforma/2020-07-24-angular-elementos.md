@@ -54,6 +54,6 @@ A continuación, unos vídeotutoriales en los que se trabaja con los elementos d
 
 [🥇 Los 14 mejores framework de desarrollo](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Elementos de Angular](https://angular.io/guide/elements){:target="_blank" rel="nofollow,noreferrer"}

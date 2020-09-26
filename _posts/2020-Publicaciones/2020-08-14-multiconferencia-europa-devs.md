@@ -45,6 +45,6 @@ Los oradores confirmados hasta el momento son:
 
 [▷ El ataque de los clones de las aplicaciones similares a TikTok](https://ciberninjas.com/codemotion-esp-2020/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Codemotion Conference 2020](https://events.codemotion.com/conferences/online/2020/codemotion-online-tech-conference){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

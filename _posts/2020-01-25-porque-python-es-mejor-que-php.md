@@ -102,7 +102,7 @@ Aunque PHP todavía se encuentra entre los lenguajes más populares, Python est�
 
 [▷ Java vs Python: ¿Cuál es su diferencia?](https://ciberninjas.com/java-vs-python-diferencias/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Porque Python es mejor que PHP para este año 2020. Razones por las que Python es mejor que PHP en este 2020.](/assets/img/lenguajes-vs/Why-Python-Is-Better-Than-PHP-1024x576.webp "Porque Python es mejor que PHP para este año 2020. Razones por las que Python es mejor que PHP en este 2020.")
 

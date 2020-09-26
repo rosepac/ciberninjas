@@ -84,7 +84,7 @@ A medida que nos convertimos legalmente en una entidad totalmente independiente,
 
 [▷ Kosmonaut: Un navegador web creado con Rust](https://ciberninjas.com/kosmonaut-navegador-web-rust/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las bases del futuro de Rust](/assets/img/blog/rust-logo-verde.webp)
 

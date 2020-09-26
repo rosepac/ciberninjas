@@ -81,7 +81,7 @@ Debido a su capacidad para construir aplicaciones tanto nativas como multiplataf
 
 [👉 Repositorio del Código Ionic](https://kutt.it/repositorioionic "Código fuente del framework Ionic en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [📖 Conocer Más de Ionic](/ionic-framework/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **React Native**
 
@@ -112,7 +112,7 @@ Xamarin favorece especialmente a los expertos en C# y .NET, siendo estos los len
 A través de su API te permite generar apps esteticamente similares a las nativas y permite incluir las bibliotecas de Objective-C, Java y C++ sin ningun problema y presenta una adaptación total al editor Visual Studio de la propia Microsoft.
 
 [👉 Repositorio del Código Xamarin](https://kutt.it/repositorioxamarin "Código fuente del framework Xamarin en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **PhoneGap**
 
@@ -139,7 +139,7 @@ Nombrado como el mejor framework de aplicaciones híbridas 2019-2020, Native Scr
 El sitio web oficial de Native Scripts proporciona continuamente recursos y tutoriales para desarrolladores en ciernes para que puedan aprender a trabajar en este marco como un profesional.
 
 [👉 Repositorio del Código Native Script](https://kutt.it/repositorionativescript "Código fuente del framework Native Script en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Appcelerator Titanium**
 
@@ -172,7 +172,7 @@ JQuery Móvil, nos ofrece múltiples componentes pre-construidos como por ejempl
 El código escrito con JQuery, en comparación con otros códigos que ofrezcan las mismas características; casi siempre es más reducido y el resultado son interfaces más simples, interactivas y fáciles de usar. Otro punto importante, es que está totalmente optimizado hacía el [Posicionamiento Web Seo](/posicionamiento-web-seo/ "La guía definitiva de posicionamiento, web y seo; robots.txt y enlaces obligatorios").
 
 [👉 Repositorio del Código jQuery Móvil](https://kutt.it/repositoriojquerymovil "Código fuente del framework jQuery Móvil en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Móvil Angular UI**
 
@@ -205,7 +205,7 @@ Weex se centra en la productividad y el rendimiento. Escribir una página con We
 Weex nos ofrece toda una aplicación de prácticas y código, denominada [Playground Weex](https://weex.apache.org/tools/playground.html?spm=a2c7j.-guide-introduction.0.0.3c4f1dbasnEA6M), ¡Una auténtica maravilla, desde luego!
 
 [👉 Repositorio del Código Weex](https://kutt.it/repositorioweex "Código fuente del framework Weex en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Corona SDK**
 
@@ -236,7 +236,7 @@ Ahora está preparado para ofrecerte la posibilidad de desarrollar apps de reali
 He considerado incluirlo aquí, como esponsor de los SDK enfocados a la creación de aplicaciones en realidad virtual; junto a otras posibilidades; entre las que podemos encontrar a: Unreal Engine, iOS ARKit, ArCore, Vuforia, Wikitude, EasyAR, Kudan o Artoolkit+ pero todos estos, mejor los dejamos para realizar una revisión algún otro día.
 
 [👉 Repositorio del Código Unity](https://kutt.it/unitydescarga "Código fuente del SDK Unity en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 13. **Qt**
 
@@ -291,4 +291,4 @@ Si se me ha olvidado algo, puedes dejarme un comentario a través de cualquiera 
 
 Espero que os halla gustado esta publicación y espero seguir publicando en la misma línea, ¡Qué lo aprovechéis y disfrutéis mucho mis Ciberninjas! 😹 👨‍💻
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

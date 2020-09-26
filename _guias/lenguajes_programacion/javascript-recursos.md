@@ -22,7 +22,7 @@ Los mejores enlaces sobre Javascript que puedes ir encontrando a lo largo de Int
 [📕 Libros Javascript](https://kutt.it/javascript-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
  [🎓 Cursos Javascript](https://kutt.it/javascript-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés](/biblioteca-de-programacion-y-tecnologia-ingles/#-javascript){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés](/cursos-tecnologia-ingles/#javascript){: .btn .btn--info .btn--large}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [Artículos Python](/python-recursos/#los-mejores-artículos-de-javascript){: .btn .btn--inverse .btn--large} [Chuletas de Javascript](/#chuletas--de-consulta){: .btn .btn--inverse .btn--large}
 
@@ -83,7 +83,7 @@ Los mejores artículos de Javascript que puedes encontrar en todo Internet, con 
 | Propiedades internas en JavaScript                           | [Leer](https://yeisondaza.com/propiedades-internas-en-javascript) |      Yeison Daza       | Español | 2016 |
 | Búsqueda Fuzzy sobre un Array Object en Javascript con Underscore | [Leer](https://medium.com/@peraferrer/search-fuzzy-into-array-object-for-javascript-5e08c2c18eb4) |   Germán Peraferrer    | Español | 2015 |
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Chuletas de Consulta
 
@@ -97,7 +97,7 @@ Los mejores artículos de Javascript que puedes encontrar en todo Internet, con 
 * [API Abierto de Javascript](http://overapi.com/javascript){:target="_blank" rel="nofollow,noreferrer"} (Web Interactiva)
 * [Website Setup](https://websitesetup.org/wp-content/uploads/2018/04/wsu-js-cheat-sheet.pdf) (PDF)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Otros Por Organizar
 
@@ -119,4 +119,4 @@ Cree gráficos con una apariencia dibujada a mano, incompleta.
 
 * [Saber si algún método sobre arrays en JavaScript muta el array original]: https://doesitmutate.xyz 
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

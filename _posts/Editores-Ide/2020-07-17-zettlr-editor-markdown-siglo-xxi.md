@@ -84,6 +84,6 @@ Es tan fácil como crear un nuevo proyecto y comenzar a crear. Zettlr nunca se i
 
 [11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.](/assets/img/2020-news/zettlr-editor-texto.webp "Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.")

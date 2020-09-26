@@ -41,6 +41,6 @@ Los aspectos más destables de la nueva actualización, son los que listamos a c
 
 [▷ Segunda actualización de Java para Visual Studio Code](https://ciberninjas.com/actualidad-java-visual-studio/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [TikTok lanza una nueva aplicación en Amazon Fire TV](https://www.theverge.com/2020/8/6/21357300/tiktok-amazon-fire-tv-app-launch-free-tv-mobile){:target="_blank" rel="nofollow,noreferrer"}

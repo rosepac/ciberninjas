@@ -70,6 +70,6 @@ Abre "Inicio" → "Configuración" → "Privacidad" → "Aplicaciones en segundo
 
 Si deseas seguir optimizando tu Windows 10. Puedes [eliminar algunas aplicaciones](https://ciberninjas.com/eliminar-aplicaciones-integradas-win10/) poco necesarias de tu sistema operativo o también, [deshabilitar aplicaciones](https://ciberninjas.com/8-componentes-eliminar-de-windows/) de Windows 10, que suelen ser inservibles, para la gran mayoría de usuarios.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![He recopilado algunos tips ocultos de Windows 10 que te van a facilitar trabajar con una gran cantidad de ventanas, descargar el menú de Inicio y aprenderte a ser capaz de grabar videos desde la pantalla del escritorio.](/assets/img/2020-news/caract-windows-10.webp "He recopilado algunos tips ocultos de Windows 10 que te van a facilitar trabajar con una gran cantidad de ventanas, descargar el menú de Inicio y aprenderte a ser capaz de grabar videos desde la pantalla del escritorio.")

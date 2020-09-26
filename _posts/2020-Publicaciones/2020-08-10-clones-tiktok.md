@@ -60,6 +60,6 @@ TikTok ha demostrado que los videos cortos repletos de música son una fórmula 
 
 [🥇 ▷ Herramienta de Facebook para transferir todas tus fotografías a Google Photos](https://ciberninjas.com/facebook-to-google-fotos/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [El ataque de los clones de TikTok](https://www.theverge.com/21356971/tiktok-alternatives-instagram-reels-byte-triller-zynn-ban){:target="_blank" rel="nofollow,noreferrer"}

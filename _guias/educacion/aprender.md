@@ -31,7 +31,7 @@ En esta publicación he reunido todos lo necesario para que encuentres la inspir
 6. Podcasts
 7. Comunidades
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 - [**¿Cómo aprender a aprender online?**](#cómo-aprender-a-aprender-online)
 - [**¿Dónde podemos aprender?**](#dónde-podemos-aprender)
@@ -103,7 +103,7 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**iTunes U**](https://apps.apple.com/us/app/itunes-u/id490217893){:target="_blank" rel="nofollow,noreferrer"}: esta aplicación tiene podcasts y cursos de muchas universidades que puedes descargar en tu teléfono inteligente o iPad.
 - [**CreativeLive**](https://www.creativelive.com/){:target="_blank" rel="nofollow,noreferrer"}: Vea las clases en vivo de forma gratuita, o compre clases pasadas con materiales adicionales. Los temas incluyen diseño, música, fotografía, manualidades y más.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Las mejores páginas web de vídeos para aprender**
 
@@ -114,7 +114,7 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**Aeon**](https://aeon.co/videos){:target="_blank" rel="nofollow,noreferrer"}: Si bien Aeon publica artículos interesantes, también tienen una gran variedad de videos cortos sobre ciencia, filosofía, historia y más.
 - [***Wired\***](https://www.wired.com/video){:target="_blank" rel="nofollow,noreferrer"}: Otra publicación más conocida por sus artículos,*Wired*produce algunos videos divertidos e interesantes también.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Youtube: El mayor canal de vídeos del mundo**
 
@@ -136,7 +136,7 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 <!-- MEDIUM ENTRADA: https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4 -->
 <!-- PDF: https://drive.google.com/file/d/1Upj9ROp__vbXXtLwFF1X4hQ-oOtP7moK/view -->
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Documentales**
 
@@ -156,7 +156,7 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**Hablando racionalmente**](http://rationallyspeakingpodcast.org/archive/){:target="_blank" rel="nofollow,noreferrer"}: Julia Galef explora las fronteras entre la razón y el sinsentido, probable e improbable, y la ciencia y la pseudociencia.
 - **Y mucho más:** el mundo de los podcasts ha explotado en los últimos años. Los pocos que he enumerado aquí son los que elegí porque los conozco y representan una variedad de temas. Seguramente encontrará algo que le interese con una búsqueda rápida, o puede consultar otras listas, por ejemplo, [aquí](https://www.wired.co.uk/article/best-podcasts){:target="_blank" rel="nofollow,noreferrer"} , [aquí](https://www.theatlantic.com/entertainment/archive/2019/12/50-best-podcasts-2019/604165/){:target="_blank" rel="nofollow,noreferrer"} y [aquí](https://medium.com/the-mission/the-25-best-history-podcasts-you-need-to-listen-to-ccf98527bdda){:target="_blank" rel="nofollow,noreferrer"}.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Libros**
 
@@ -168,7 +168,7 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [***La vida que puedes salvar\***](https://www.thelifeyoucansave.org/the-book/?fbclid=IwAR3--62DB6Qt8OyDxtydgx4fyj1mQqVzqtLz3bP3HO8E_t9QwwO8y8-IYWc){:target="_blank" rel="nofollow,noreferrer"}:para el décimo aniversario de este libro sobre la pobreza mundial, el filósofo moral Peter Singer lo lanzó de forma gratuita, junto con una versión en audio que incluye lecturas de Stephen Fry, Kristen Bell y Paul Simon.
 - [**Guías**](https://guides.co/){:target="_blank" rel="nofollow,noreferrer"}: Lea guías detalladas sobre temas como hábitos, jardinería orgánica y los fundamentos del ajedrez, o puede crear su propia guía sobre cualquier tema que conozca mejor.
 - 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Comunidades de Reddit**
 
@@ -181,7 +181,7 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**ELi5 (Explique como si tuviera cinco años)**](https://www.reddit.com/r/explainlikeimfive/){:target="_blank" rel="nofollow,noreferrer"}: esta comunidad de Reddit intenta explicar diferentes temas en inglés simple.
 - [**Hoy aprendí**](https://www.reddit.com/r/todayilearned/){:target="_blank" rel="nofollow,noreferrer"}: deje que otros Redditors compartan sus ideas y sorpresas diarias con usted.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Sobre que aprender**
 
@@ -194,7 +194,7 @@ Considerando que nuestra web, Ciberninjas, se enfoca principalmente en fomentar 
 - **Codificación:** [Codeacademy](https://www.codecademy.com/){:target="_blank" rel="nofollow,noreferrer"} tiene una plataforma increíble con una opción gratuita o un plan profesional por $ 16 al mes; en Coursera, está la [Especialización de aprendizaje profundo](https://www.coursera.org/specializations/deep-learning){:target="_blank" rel="nofollow,noreferrer"} , que consta de cuatro cursos y es impartida por el cofundador de Coursera, Andrew Ng.
 - **Matemáticas:** Puedes encontrar prácticamente todo lo que quieras en [Khan Academy](https://www.khanacademy.org/math){:target="_blank" rel="nofollow,noreferrer"}. También puedes probar [Fat Chance: Probability from the Ground Up](https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2){:target="_blank" rel="nofollow,noreferrer"} desde edX; o [Una introducción a las matemáticas recreativas: diversión, juegos y rompecabezas](https://www.futurelearn.com/courses/recreational-math){:target="_blank" rel="nofollow,noreferrer"}.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Habilidades Creativas
 
@@ -204,7 +204,7 @@ Considerando que nuestra web, Ciberninjas, se enfoca principalmente en fomentar 
 - **Cocina:** [Pasta Grannies](https://www.youtube.com/user/pastagrannies/featured): aprende a hacer pasta con abuelas italianas. [Binging with Babish](https://www.youtube.com/user/bgfilms/featured){:target="_blank" rel="nofollow,noreferrer"}: recrea los alimentos que siempre quisiste probar en películas y televisión.
 - **Negocios:** cualquier cosa de [Hubspot](https://academy.hubspot.com/courses?page=1){:target="_blank" rel="nofollow,noreferrer"}.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Aumenta tus habilidades sociales**
 
