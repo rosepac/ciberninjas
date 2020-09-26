@@ -48,7 +48,7 @@ La duración de la batería del mouse puede durar hasta 70 días desde una carga
 
 Hay botones ubicados en el costado del mouse que le permiten cambiar entre ventanas sin usar su teclado y también es fácilmente programable. Una rueda de desplazamiento en el costado del mouse le permite desplazarse a través de páginas web o documentos de manera rápida y fácil, dependiendo de qué tan rápido mueva la rueda.
 
-[⌨ ¡CÓMPRALO YA! 🖱](https://amzn.to/2Y3Iv5I){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⌨ ¡CÓMPRALO YA! 🖱](https://amzn.to/2Y3Iv5I){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Apple Magic Mouse 2**
 
@@ -62,7 +62,7 @@ Un gran cambio que viene con Magic Mouse 2 es cómo se carga el mouse. Atrás qu
 
 A tener en cuenta, su diseño físico, que puede llevar algo de tiempo acostumbrarse. El diseño delgado no es ergonómicamente amigable y pone su mano en una posición extraña que no ocurre con otros ratones.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R4z4S2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R4z4S2){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Anker 98ANWVM-UBA**
 
@@ -76,7 +76,7 @@ Si pasas mucho tiempo haciendo diseños gráficos y utilizando principalmente un
 
 Además de su extraño diseño, el mouse óptico ergonómico Anker proporciona tres niveles diferentes de sensibilidad: 800, 1200 y 1600 ppp. para mejorar el rendimiento del mouse., y agrega un total de cinco botones que ofrecen amplia accesibilidad a la hora de desplazarse, hacer clic con el botón izquierdo y derecho, o realizar ls acciones siguiente o anterior.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34wiGNS){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34wiGNS){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Logitech MX Ergo**
 
@@ -88,7 +88,7 @@ Logitech continúa apoyando el trackball y muchos diseñadores gráficos están 
 
 Logitech MX Ergo Wireless tiene botones totalmente personalizables y con el sistema Logitech Flow, puedes controlar dos pantallas diferentes con el mismo mouse. Una carga completa de la batería dura cuatro meses, mientras que la carga de solo un minuto puede durar un día completo. Si erse una de esas personas acostumbradas al trackball, el MX Ergo será tu ratón.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2smNJxp){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2smNJxp){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Microsoft – Bluetooth Mobile Mouse 3600**
 
@@ -100,7 +100,7 @@ Un gran detalle en tener en cuenta, es que su diseño sirve perfectamente en cas
 
 Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva; para todos aquellos casos en los que se nos acaban las pilas, baterías o tengamos algún descuido.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34un93E){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34un93E){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0761YL588&linkId=13ccc1a94e27b802f148d10d9185fa75"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B016UPAVDE&linkId=6377a50f1b28b75e66b859008e5d338b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BIFNTMC&linkId=b0b8f4e95ef30ad2ac0d1efa5b77340c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B074W227RK&linkId=91de731293e50f072feab21543d40a62"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00FRDA27Q&linkId=d4ea76a76618e9c8ca3e451af1af94ca"></iframe>
 
@@ -110,31 +110,31 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 [![MSI Clutch GM30](https://i.ibb.co/zNFRC0s/image.png)](https://amzn.to/2R2uGTo){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R2uGTo){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R2uGTo){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XZC667B&linkId=fc11e285cbaaf42f6a1c24e5b4389562"></iframe>
 
@@ -146,31 +146,31 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 [![MSI Agility GD30](https://i.ibb.co/mSX5dWp/image.png)](https://amzn.to/2OusaUp){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2OusaUp){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2OusaUp){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
 [![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07S49XHNF&linkId=43ab25ea4e12e0b96e2ce279468e74ce"></iframe>
 

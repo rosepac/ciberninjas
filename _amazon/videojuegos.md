@@ -64,31 +64,31 @@ Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espect
 
 [![PlayStation 4 (PS4) +FIFA20/FUTVCH/PS y 14 días VCH/PS4 1TBF/SPA, Slim 1TB](https://i.ibb.co/fGjztg7/image.png)](https://amzn.to/2XVYthV "PlayStation 4 + Videojuegos"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2XVYthV){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2XVYthV){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Playstation 4 (PS4) - Consola 500 Gb + 2 Mandos Dual Shock 4 + Contenido Fortnite (Edición Exclusiva Amazon)
 
 [![Playstation 4 (PS4) - Consola 500 Gb + 2 Mandos Dual Shock 4 + Contenido Fortnite](https://i.ibb.co/1RL19LK/image.png)](https://amzn.to/2Y0gFHw "PlayStation 4 + Videojuegos"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎯 ¡CÓMPRALO YA! 🎯](https://amzn.to/2Y0gFHw){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎯 ¡CÓMPRALO YA! 🎯](https://amzn.to/2Y0gFHw){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Sony Playstation 4 Pro (PS4) Consola de 1TB + 20 euros Tarjeta Prepago (Edición Exclusiva Amazon) - nuevo chasis G
 
 [![Sony Playstation 4 Pro (PS4) Consola de 1TB + 20 euros Tarjeta Prepago (Edición Exclusiva Amazon) - nuevo chasis G](https://i.ibb.co/CM2Js74/image.png)](https://amzn.to/35JDL7E "PlayStation 4 + Videojuegos"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/35JDL7E){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/35JDL7E){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Playstation 4 (PS4) - Consola 500 Gb + 2 Mandos Dual Shock 4 (Edición Exclusiva Amazon) - nuevo chasis F
 
 [![Playstation 4 (PS4) - Consola 500 Gb + 2 Mandos Dual Shock 4 (Edición Exclusiva Amazon) - nuevo chasis F](https://i.ibb.co/dM2WGRB/image.png)](https://amzn.to/2DshSxA "PlayStation 4 + Videojuegos"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎯 ¡CÓMPRALO YA! 🎯](https://amzn.to/2DshSxA){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎯 ¡CÓMPRALO YA! 🎯](https://amzn.to/2DshSxA){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Sony PSN Plus - Tarjeta para 365 días, Reedición, Código Digital
 
 [![Sony PSN Plus - Tarjeta para 365 días, Reedición, Código Digital](https://i.ibb.co/1MXQNFm/image.png)](https://amzn.to/2L3mxdQ "Tarjeta de PlayStation 4"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2L3mxdQ){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2L3mxdQ){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XCXT6QY&linkId=2de579ae544850a04262bb7ce663f6bf"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VB8Y1JP&linkId=e60d2344b4e0e01dca2952a6374f7f65"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07KBJNG14&linkId=81b0a6d00687fb6ea56e01c25157dc8d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07KBLNZB1&linkId=bcf8e4b7b77a8d7fd8c81b767c799c99"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MOLYU9K&linkId=b8a2cc2314c3cff8a4dfd19c5aa09e63"></iframe>
 
