@@ -26,7 +26,7 @@ Sabemos que Kotlin es el futuro de Android y que los desarrolladores de Kotlin q
 
 ![Lanzamiento de las extensiones de Firebase para Kotlin](/assets/img/blog/firebase-kotlin-1.webp "Lanzamiento de las extensiones de Firebase para Kotlin")
 
-> 🔥 Seguro también te interesa: [Comparación Flutter, React, Xamarin](/comparacion-flutter-react-native-xamarin/) >> [Palabras de Kotlin](/palabras-lenguajes-programacion/#nube-de-palabras-de-kotlin) [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
+> 🔥 Quizás te interese: [Comparación Flutter, React, Xamarin](/comparacion-flutter-react-native-xamarin/) >> [Palabras de Kotlin](/palabras-lenguajes-programacion/#nube-de-palabras-de-kotlin) [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
 {: .notice--danger}
 
 **Hoy, nos complace anunciar que estas bibliotecas de KTX están fuera de Beta y se recomiendan para todos los desarrolladores de Firebase que usen Kotlin en sus aplicaciones de Android.**

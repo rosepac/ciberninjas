@@ -26,7 +26,7 @@ En el interior de esta guía vas a encontrar la introducción más extensa al nu
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
+> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 {: .notice--danger}
 
 ## **Qué es Fuchsia**
@@ -279,7 +279,7 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 **Fuente**\: [Conceptos del Sistema Operativo Fuchsia](https://fuchsia.dev/fuchsia-src/concepts "Conceptos del Sistema Operativo Fuchsia"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ### Índice <!-- omit in toc -->

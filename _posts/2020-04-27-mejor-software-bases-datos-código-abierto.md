@@ -35,7 +35,7 @@ Las bases de datos son la columna vertebral de todas las aplicaciones empresaria
 - [El software de base de datos de código abierto más popular](#el-software-de-base-de-datos-de-código-abierto-más-popular)
 - [
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/software-bases-datos-código-abierto-2020/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
+> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/software-bases-datos-código-abierto-2020/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
 
 Las bases de datos de código abierto inicialmente parecen ser una alternativa atractiva a las costosas soluciones de Oracle, Microsoft o IBM.

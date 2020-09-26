@@ -24,7 +24,7 @@ A lo largo de esta publicación vamos intentar comprender las diferencias entre 
 
 ![Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)](/assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)")
 
-> 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 - [**¿Qué es la inteligencia artificial?**](#qué-es-la-inteligencia-artificial)
 - [**¿Qué es el aprendizaje automático?**](#qué-es-el-aprendizaje-automático)
@@ -58,7 +58,7 @@ El aprendizaje automático puede tomar decisiones con una mínima intervención 
 
 El aprendizaje automático utiliza los datos para alimentar un algoritmo capaz de comprender la relación entre la entrada y la salida; y una vez que la máquina termina de aprender; es capaz de predecir el valor final o nuevas clases de datos resultantes.
 
-> 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 
 ## **¿Qué es el aprendizaje profundo?**
 
@@ -95,7 +95,7 @@ De las gráficas anteriores podemos comprobar cómo la profesión de científico
 
 A continuación, vamos a intentar hacernos una idea para conocer un poco más del cómo funcionan estos nuevos campos tecnológicos.
 
-> 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## **El proceso del aprendizaje automático**
@@ -171,7 +171,7 @@ En la red neuronal convolucional, la extracción de características se realiza 
 
 Si hay una coincidencia, la red usará este filtro. Por lo tanto, el proceso de extracción de características se realiza automáticamente.
 
-> 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## **Diferencias entre aprendizaje automático y aprendizaje profundo**
@@ -206,7 +206,7 @@ La arquitectura del aprendizaje profundo más avanzada puede llevar de días a u
 
 No necesita comprender qué características son la mejor representación de los datos; la red neuronal aprendió a seleccionar características críticas. En el aprendizaje automático, se deben elegir qué características incluir en el modelo.
 
-> 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ### Resumen <!-- omit in toc -->

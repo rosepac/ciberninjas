@@ -28,7 +28,7 @@ Pero con todos sus méritos, que son innegables, **Trello no es perfecto**. Algu
 
 Ahora se lanza **una nueva alternativa para Trello, un maravilloso gestor de proyectos, llamado [Stacks](https://stacks.rocks/){:target="_blank" rel="nofollow,noreferrer"}**.
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 **Stacks es un programa de escritorio completo, no una aplicación web**. Stacks almacena **tus tableros en modo local** y **no los transfiere a servidores de terceros**. Lo que pasa a ser una muy buena noticia, para quiénes trabajen en proyectos confindenciales.
@@ -54,4 +54,4 @@ Las listas de verificación, un contador de progreso y el tiempo transcurrido, l
 
 ![💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux](/assets/img/blog/software-stacks.webp "Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux")
 
-> 🔥 Seguro también te interesa: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
+> 🔥 Quizás te interese: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)

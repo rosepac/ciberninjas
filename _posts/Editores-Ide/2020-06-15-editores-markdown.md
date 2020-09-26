@@ -190,7 +190,7 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 - [Generador de tablas MarkDown](https://www.tablesgenerator.com/markdown_tables#){:target="_blank" rel="nofollow,noreferrer"}
 - [Crear correos electrónicos con MarkDown](https://markdown-here.com/){:target="_blank" rel="nofollow,noreferrer"}
 
-> 🔥 Seguro también te interesa: [mejores editores de código](/mejores-editores-texto/) >> [mejores editores de python](/mejores-ide-python/) >> [mejores editores de PHP](/mejores-editores-php/)
+> 🔥 Quizás te interese: [mejores editores de código](/mejores-editores-texto/) >> [mejores editores de python](/mejores-ide-python/) >> [mejores editores de PHP](/mejores-editores-php/)
 {: .notice--danger}
 
 ## **¿Qué es Markdown?**

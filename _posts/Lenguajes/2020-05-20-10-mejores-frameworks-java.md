@@ -100,7 +100,7 @@ Tenga en cuenta que cada uno de estos tiene sus propios beneficios y puede funci
 
 [Spring](/10-mejores-frameworks-java/#1-spring){: .btn .btn--inverse .btn--large} [Struts](/10-mejores-frameworks-java/#2-struts){: .btn .btn--inverse .btn--large} [Hibernate](/10-mejores-frameworks-java/#3-hibernate){: .btn .btn--inverse .btn--large} [Apache Wicket](/10-mejores-frameworks-java/#4-apache-wicket){: .btn .btn--inverse .btn--large} [Java Server Faces](/10-mejores-frameworks-java/#5-java-server-faces){: .btn .btn--inverse .btn--large} [Dropwizard](/10-mejores-frameworks-java/#6-dropwizard){: .btn .btn--inverse .btn--large} [Grails](/10-mejores-frameworks-java/#7-grails){: .btn .btn--inverse .btn--large} [ATG](/10-mejores-frameworks-java/#8-atg){: .btn .btn--inverse .btn--large} [Play](/10-mejores-frameworks-java/#9-play){: .btn .btn--inverse .btn--large} [Apache Hadoop](/10-mejores-frameworks-java/#10-apache-hadoop){: .btn .btn--inverse .btn--large}
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) 
+> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) 
 {: .notice--danger}
 
 ## 1. **Spring**

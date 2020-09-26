@@ -147,6 +147,6 @@ No hay una única forma de trabajo remoto; Es un viaje individual. Todos los que
 ### Relacionados <!-- omit in toc-->
 
 
-> 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
+> 🔥 Quizás te interese: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}
 

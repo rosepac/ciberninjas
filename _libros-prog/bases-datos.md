@@ -21,7 +21,7 @@ img: "/assets/img/paginas-libros/libros-bases-datos.webp"
 Los mejores libros gratuitos en PDF que incluyen apuntes, y amplias explicaciones paso a paso, con los que vas a poder estudiar las nociones de bases de datos y SQL para estudiantes de BBDD, SQL, Microsoft SQL Server, Oracle o MySQL bajo licencias Creatives Commons.
 <!-- https://medium.com/javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2 -->
 
-> 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/ciberlibros) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/ciberlibros) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 - [**Libros Gratis de Bases de Datos**](#libros-gratis-de-bases-de-datos)

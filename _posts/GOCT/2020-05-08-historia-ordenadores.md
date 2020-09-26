@@ -25,7 +25,7 @@ published: false
 
 Las computadoras realmente se convirtieron en grandes inventos en las últimas dos décadas del siglo XX. Pero su historia se remonta más de 2500 años atrás al ábaco: una calculadora simple hecha de cuentas y alambres, que todavía se usa en algunas partes del mundo en la actualidad. La diferencia entre un ábaco antiguo y una computadora moderna parece enorme, pero el principio, hacer cálculos repetidos más rápidamente que el cerebro humano, es exactamente el mismo.
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
+> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
 
 - [1. **Ábacos y calculadoras**](#1-%c3%81bacos-y-calculadoras)
@@ -269,7 +269,7 @@ También hay esperanza de que podamos usar spintronics (aprovechando el "giro" d
 
 Las virutas hechas de nuevos materiales como el grafeno también pueden ofrecer formas de extender la ley de Moore. Independientemente de la tecnología que gane, ¡puede estar seguro de que el futuro de la informática será tan emocionante como el pasado!
 
-> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ### **Relacionados** <!-- omit in toc -->

@@ -83,7 +83,7 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
   - [Artículos sobre el Efecto Zeigarnik](#artículos-sobre-el-efecto-zeigarnik)
   - [Licencia](#licencia)
 
-> 🔥 Seguro también te interesa: [Mejores Blogs de Diseño](/blogs-diseno-grafico-espanol/) >> [Mejores Blogs en Inglés](/blogs-diseno-grafico-ingles/) >> [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) >> [Cursos Animación y Diseño](/cursos-animacion-diseno/)
+> 🔥 Quizás te interese: [Mejores Blogs de Diseño](/blogs-diseno-grafico-espanol/) >> [Mejores Blogs en Inglés](/blogs-diseno-grafico-ingles/) >> [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) >> [Cursos Animación y Diseño](/cursos-animacion-diseno/)
 
 ## 1. **Efecto de usabilidad estética**
 

@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-bases-datos.webp"
 Los mejores cursos gratuitos con los que aprender los conceptos de SQL y bases de datos para principiantes en Microsoft SQL Server, Oracle, MySQL y SQL de plataformas online como Udemy, EDX, Coursera o Youtube.
 <!-- https://medium.com/javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2 -->
 
-> 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 - [**Cursos Gratis de Bases de Datos**](#cursos-gratis-de-bases-de-datos)

@@ -20,7 +20,7 @@ En esta publicación vamos a realizar un repaso, entre algunos de los más espec
 
 Si lo que te interesa, es conocer [**los mejores auriculares para jugar**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para jugar"), no dudes de visitar mi página de [**cascos para juegos**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para gamers del mundo").
 
-> 🔥 Seguro también te interesa: [Los Mejores Auriculares en Oferta 2020](https://www.amazon.es/shop/cibercursos?listId=1RT24JM35NPPJ&ref=cm_sw_tw_r_inf_list_own_cibercursos_dp_Z1tRolhJAm9X6 "Los mejores auriculares en oferta 2020")
+> 🔥 Quizás te interese: [Los Mejores Auriculares en Oferta 2020](https://www.amazon.es/shop/cibercursos?listId=1RT24JM35NPPJ&ref=cm_sw_tw_r_inf_list_own_cibercursos_dp_Z1tRolhJAm9X6 "Los mejores auriculares en oferta 2020")
 
 - [**Auriculares para Diseñadores**](#auriculares-para-diseñadores)
   - [1. Sony WH-XB900N](#1-sony-wh-xb900n)

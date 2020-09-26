@@ -26,7 +26,7 @@ published: true
 - [**Biografía Completa**](#biografía-completa)
 - [**EL Héroe Anónimo: Una historia en profundidad**](#el-héroe-anónimo-una-historia-en-profundidad)
 
-> 🔥 Seguro también te interesa: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
+> 🔥 Quizás te interese: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
 {: .notice--danger}
 
 ## **Biografía Completa**
@@ -143,7 +143,7 @@ Aunque es un pobre promotor de sí mismo, Masuoka esta vez espera encontrar soci
 
 La ironía de todo es que es probable, una vez más, ser una compañía estadounidense que se beneficie más de su invención. A pesar de años de lamentarse por su propio dicho ("Un clavo que sobresale se clava"), muchos japoneses continúan siendo empujados a la carpintería.
 
-> 🔥 Seguro también te interesa: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
+> 🔥 Quizás te interese: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
 {: .notice--danger}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Fujio Masuoka](https://en.wikipedia.org/wiki/Fujio_Masuoka){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 5 de enero de 2020, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Fujio_Masuoka&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.

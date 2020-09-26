@@ -27,7 +27,7 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 - [**Cursos de Negocios**](#cursos-de-negocios)
 - [**Cursos de Relajación**](#cursos-de-relajación)
 
-> 🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank" rel="nofollow,noreferrer"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
+> 🔥 Quizás te interese 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank" rel="nofollow,noreferrer"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
 {: .notice--danger}
 
 ## **Cursos de Productividad y Mapas Mentales**

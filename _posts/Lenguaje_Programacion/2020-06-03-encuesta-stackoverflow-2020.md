@@ -51,7 +51,7 @@ Las dos plataformas más utilizadas para el trabajo de desarrollo siguen siendo 
 
 En cuanto a otras detalles sobre las tecnologías más utilizadas por los desarrolladores; destacar que la herramienta más usada por segundo año consecutivo es el entorno de ejecución de Javascript: Node.js, que es utilizada por un 51 % de los desarrolladores. Microsoft .NET ocupa el segundo lugar con un 35 %, seguidos de cerca por Microsoft .NET Core con un 27%. Además, entre otros detalles destacables; citar que la biblioteca de Python, Pandas, es utilizada por el 15 % de los encuestados, mientras que TensorFlow es utilizado por hasta un 11.5 % y que la base de datos MySQL sigue siendo la más utilizada, seguida de PostgreSQL y Microsoft SQL Server.
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ### **Relacionados** <!-- omit in toc -->
