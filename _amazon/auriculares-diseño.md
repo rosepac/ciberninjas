@@ -11,9 +11,9 @@ published: true
 comments: false
 date: 2020-09-25 15:32:01 +0200
 last_modified_at: 2020-09-26
-thumbnail: /assets/img/paginas/amazon/auriculares-diseno.gif
+thumbnail: /assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-beats-6.webp
 feature-img: /assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-beats-6.webp
-img: /assets/img/paginas/amazon/auriculares-diseno.gif
+img: /assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-beats-6.webp
 ---
 
 En esta publicación vamos a realizar un repaso, entre algunos de los más espectaculares y mejores auriculares para diseñadores, gamers y todo aquel que ame la tecnología al máximo.. 😻
