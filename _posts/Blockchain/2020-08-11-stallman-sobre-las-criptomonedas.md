@@ -91,6 +91,6 @@ Mi crítica a las criptomonedas no es nada nuevo. Me he sentido así por ellos d
 
 [ ▷ El mejor software de seguridad para tu PC en 2020](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Pen Test Partners: los Boeing 747 reciben actualizaciones de software críticas en disquetes de 3,5 "](https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/){:target="_blank" rel="nofollow,noreferrer"}

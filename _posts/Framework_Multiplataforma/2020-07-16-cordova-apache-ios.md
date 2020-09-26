@@ -48,7 +48,7 @@ Cuando instalas una nueva versión de `cordova-cli`, ya incluye una nueva versi�
 `npm install` + `npm test`
 
 [🔨 Más Información](https://www.npmjs.com/package/cordova-ios){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Cordova iOS es una biblioteca de aplicaciones iOS que permite construir proyectos basados ​​en Cordova para la plataforma iOS. Las aplicaciones basadas en Cordova son, en esencia, aplicaciones escritas con tecnología web: HTML, CSS y JavaScript.](/assets/img/2020-news/cordova-apache-ios.webp "Cordova iOS es una biblioteca de aplicaciones iOS que permite construir proyectos basados ​​en Cordova para la plataforma iOS. Las aplicaciones basadas en Cordova son, en esencia, aplicaciones escritas con tecnología web: HTML, CSS y JavaScript.")
 

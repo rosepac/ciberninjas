@@ -86,4 +86,4 @@ Puede encontrar más información sobre [la hoja de ruta aquí](/hoja-ruta-mlops
 
 ![MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.](/assets/img/blog/mlops-logo.webp "MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.")
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

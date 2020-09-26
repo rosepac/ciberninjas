@@ -80,6 +80,6 @@ Artículos y enlaces que te van a ayudar a crear una página de personalización
 **Fuente**: Mis marcadores del navegador 😸 y tu aporte. Si te animas,  para eso tenemos los comentarios por allí abajo, todos los aportes son bien reecibidos.. 😉
 {: .notice--info}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas](/assets/img/blog/2020-git-github.webp "Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas")

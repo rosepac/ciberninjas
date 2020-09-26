@@ -53,7 +53,7 @@ Las conferencias y los horarios son los siguientes, puede ver la agenda completa
 - Microsoft Exchange Control Panel: The RCE Vulnerability (13:30 H. Panamá) (19:30 H. Española). [Registro 🤞](https://event.webinarjam.com/register/51/10mpzfy3){:target="_blank" rel="nofollow,noreferrer"}
 - Evalúa la seguridad de tu entorno con Infection Monkey (14:30 H. Panamá) (20:30 H. Española). [Registro 🤞](https://event.webinarjam.com/register/52/kr1w3czv){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- Enlaces de acceso - https://event.webinarjam.com/go/live/30/xq78xbmxfzxhv0hg6w -->
 ![Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.](/assets/img/2020-news/09-dojoconf.webp "Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.")

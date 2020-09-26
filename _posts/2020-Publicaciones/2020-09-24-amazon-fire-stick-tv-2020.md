@@ -183,6 +183,6 @@ Mando por Voz Alexa de 2ª Generación
 
 [▷ Amazon anuncia la plataforma de transmisión de juegos Luna](/amazon-anuncia-luna/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Amazon rediseña Fire TV, y presenta el nuevo Fire TV Stick y el Fire TV Stick Lite de precio barato](/assets/img/amazon/amazon-nuevo-fire-stick-tv.webp "Amazon rediseña Fire TV, y presenta el nuevo Fire TV Stick y el Fire TV Stick Lite de precio barato")

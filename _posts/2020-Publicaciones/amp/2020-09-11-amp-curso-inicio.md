@@ -115,7 +115,7 @@ AMP aborda el rendimiento, la accesibilidad y el diseño receptivo para que pued
 
 []()
 
-[EMPIEZA AQUÍ](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[EMPIEZA AQUÍ](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [AMP web oficial](https://amp.dev/documentation/courses/beginning-course/our-first-amp-page/?format=websites&level=beginner ""){:target="_blank" rel="nofollow,noreferrer"}
 

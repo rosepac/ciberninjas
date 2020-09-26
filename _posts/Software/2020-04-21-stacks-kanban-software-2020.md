@@ -44,7 +44,7 @@ Las listas de verificación, un contador de progreso y el tiempo transcurrido, l
 **Stacks es de código abierto** (o eso dicen a pesar de que su código aún no está en ninguna parte?) y además; **la aplicación es totalmente gratuita y sin limitaciones funcionales**. Stacks existe para todas las versiones de Sistemas Operativos: Windows, macOS y Linux.
 
 [⏩ Probar STACKS](https://stacks.rocks/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 

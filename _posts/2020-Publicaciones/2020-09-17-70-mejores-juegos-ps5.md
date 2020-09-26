@@ -542,6 +542,6 @@ Según el sitio web del juego, WRC 9 contará con rallies en Kenia, Nueva Zeland
 
 [▷ Los 8 juegos para PlayStation 5, que podrían tener una nueva versión en 2020](/rumores-juegos-ps5/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![70 juegos de PlayStation 4 que podrás jugar con tu PlayStation 5](/assets/img/videojuegos/ps5-juegos.webp "70 juegos de PlayStation 4 que podrás jugar con tu PlayStation 5")

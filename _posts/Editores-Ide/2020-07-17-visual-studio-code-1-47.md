@@ -148,7 +148,7 @@ La configuración `search.searchEditor.defaultNumberOfContextLines` se ha actual
 
 La configuración `workbench.list.horizontalScrolling` previamente existente, ahora se puede alternar en tiempo de ejecución sin obligarte a volver a cargar a la mesa de trabajo.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cambios en el Editor**
 
@@ -184,7 +184,7 @@ Hemos comenzado a hacer que CALL STACK sea menos concurrido para casos comunes: 
 
 La primera extensión de depuración que ha optado por esta función es el nuevo depurador de JavaScript, que podría eliminar una sesión de depuración principal siempre que haya una sola sesión secundaria.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Tareas**
 
@@ -208,7 +208,7 @@ Hemos agregado soporte para ordenar sus cambios en la vista de control de las ra
 
 Similar al comando `git merge` habitual, la vista SCM ahora restaurará la entrada SCM con el mensaje predeterminado si el usuario está en medio de un comando `git merge --squash`.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Lenguajes**
 
@@ -235,7 +235,7 @@ Este trabajo continuará en julio y seguramente estará disponible en breve.
 
 Las funciones de vista previa no están listas para su lanzamiento, pero son lo suficientemente funcionales como para usar. Agradecemos sus comentarios iniciales mientras que se encuentra en desarrollo.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Sincronización de la configuración
 
@@ -307,7 +307,7 @@ También hemos agregado los siguientes tokens de color para portátiles:
 
 Si está interesado en crear extensiones de Notebook para VS Code, hay una nueva guía que detalla la [API de Notebook](https://code.visualstudio.com/api/extension-guides/notebook){:target="_blank" rel="nofollow,noreferrer"}. Aprenderá sobre la API, así como los detalles de la infraestructura de VS Code Notebook y las mejores prácticas de desarrollo de extensiones de Notebook.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Desarrollo Remoto**
 
@@ -339,7 +339,7 @@ La extensión HexEditor continúa mejorando para proporcionar una experiencia de
 
 Ahora puede agregar [insignias de flujo de trabajo de GitHub](https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository){:target="_blank" rel="nofollow,noreferrer"} a la lista de insignias de una extensión publicada, ya que github.comse agregó a la lista de fuentes de Insignias aprobadas .
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Habilitación de la API propuesta a través de argv.json**
 
@@ -366,7 +366,7 @@ Cada hito viene con nuevas API propuestas y los autores de extensiones pueden pr
 
 Ten en cuenta que no puede publicar una extensión que use una API propuesta. Puede haber cambios importantes en la próxima versión y nunca queremos romper las extensiones existentes.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Proveedor de enlace del terminal**
 
@@ -416,7 +416,7 @@ El instalador de Visual Studio Code para Java Pack descarga las dependencias y e
 
 [▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog Oficial de Visual Studio Code](https://code.visualstudio.com/updates/v1_47){:target="_blank" rel="nofollow,noreferrer"}
 

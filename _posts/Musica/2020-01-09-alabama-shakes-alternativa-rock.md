@@ -16,4 +16,4 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/playlist?list=PL1iKKG2InMPhpGrPAgpa9sevZRm7Cow8b?rel=0" allowfullscreen></iframe>
 </div><br/>
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

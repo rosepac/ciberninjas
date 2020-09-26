@@ -119,6 +119,6 @@ Pídele a Alexa que te muestre el vídeo en directo de tus cámaras o que reprod
 
 [▷ Amazon anuncia la plataforma de transmisión de juegos Luna](/amazon-anuncia-luna/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Amazon lanza un nuevo dispositivo denominado Fire TV Cube](/assets/img/amazon/amazon-fire-tv-cube.webp "Amazon lanza un nuevo dispositivo denominado Fire TV Cube")

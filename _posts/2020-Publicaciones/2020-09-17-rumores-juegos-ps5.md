@@ -142,6 +142,6 @@ Parecería un poco extraño que Sony lance una de sus secuelas más esperadas so
 [▷ 70 juegos de PlayStation 4 que podrás jugar con tu PlayStation 5](/mejores-juegos-ps5/)
 
 [Juegos PlayStation 4: Novedades 2020 🎮](https://www.amazon.es/ideas/amzn1.account.AFL4OCRCXKV23OFAFNOUNBFNRVCQ/3UW0R0XIP0RL4){:target}
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Final Fantasy es uno de los 8 juegos para PlayStation 5, que podrían tener una nueva versión en 2020](/assets/img/videojuegos/rumores/final-fantasy-7-remake-rumores-2.webp "Final Fantasy es uno de los 8 juegos para PlayStation 5, que podrían tener una nueva versión en 2020")

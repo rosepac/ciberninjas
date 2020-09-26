@@ -35,7 +35,7 @@ La forma más rápida de comenzar es implementar con un clic desde Heroku. Para 
 - Reconocimiento de usuario retrospectivo : próximamente para el destino seleccionado (BigQuery, pSQL y ClickHouse).
 - SDK de aplicaciones móviles: próximamente para iOS y Android .
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Documentación**: [Documentación de EventNative](https://eventnative-docs.ksense.io/){:target="_blank" rel="nofollow,noreferrer"}
 > **Fuente**: [EventNative es un servicio de recopilación de eventos de código abierto y alto rendimiento](https://github.com/ksensehq/eventnative){:target="_blank" rel="nofollow,noreferrer"}

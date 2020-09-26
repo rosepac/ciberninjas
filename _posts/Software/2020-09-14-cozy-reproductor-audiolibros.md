@@ -54,7 +54,7 @@ ElementaryOS, openSUSE, Arch Linux y para el gestor de paquetes Flatpack.
 
 [▷ 11 Mejores cursos gratis de linux y software libre](https://ciberninjas.com/cursos-linux-software-libre/ "11 Mejores cursos gratis de linux y software libre")
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web oficial de Cozy](https://cozy.geigi.de/ "Página web oficial de Cozy"){:target="_blank" rel="nofollow,noreferrer"}
 

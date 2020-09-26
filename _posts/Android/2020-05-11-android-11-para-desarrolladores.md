@@ -46,6 +46,6 @@ Si ya estabas ejecutando una compilación del sistema de desarrollador, recibir�
 
 [▷ Open GApps lanza paquetes de aplicaciones de Google flasheables](/open-gapps-aplicaciones-google-flasheables/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios](/assets/img/blog/11-android-11-desarrolladores.webp "Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios")

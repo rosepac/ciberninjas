@@ -68,7 +68,7 @@ El entusiasmo por organizar el DevFest continúa a medida que más personas busc
 
 [La web está atrapada en los brazos del monopolio de Google](https://ciberninjas.com/la-web-es-de-google/)
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial de los desarrolladores de Google](https://developers.googleblog.com/2020/09/announcing-devfest-2020.html "Blog oficial de los desarrolladores de Google"){:target="_blank" rel="nofollow,noreferrer"}
 

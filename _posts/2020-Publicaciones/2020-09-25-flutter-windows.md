@@ -123,7 +123,7 @@ Si quieres más recursos y conocer más paso a paso, como implementar Flutter so
 
 [¿Qué puedo crear con Flutter? La mejor lista de colecciones](https://ciberninjas.com/flutter-aplicaciones-ejemplos/ "¿Qué puedo crear con Flutter? La mejor lista de colecciones")
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial del kit de desarrollo Flutter](https://medium.com/flutter/announcing-flutter-windows-alpha-33982cd0f433 "Blog oficial del kit de desarrollo Flutter"){:target="_blank" rel="nofollow,noreferrer"}
 

@@ -57,7 +57,7 @@ Somos una empresa pequeña y con experiencia, y nos encanta lo que hacemos. Nues
 
 [▷ Google Meet: Prepara nuevas y divertidas actualizaciones](https://ciberninjas.com/cambios-google-meet/ "▷ Google Meet: Prepara nuevas y divertidas actualizaciones")
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web oficial de Mime Stream](https://mimestream.com/ "Página web oficial de Mime Stream"){:target="_blank" rel="nofollow,noreferrer"}
 

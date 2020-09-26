@@ -41,4 +41,4 @@ Aquí está la declaración completa:
 > 
 > El respaldo de los ganadores de Turing es el último para Biden que proviene de una fuente inesperada en el campo de la ciencia. El 15 de septiembre, Scientific American , que nunca había respaldado a un candidato presidencial en sus 175 años de historia, también brindó su apoyo a Biden. El presidente Trump, dijo la revista de investigación científica , "rechaza la evidencia y la ciencia", mientras que Biden ofrece "planes basados ​​en hechos para proteger nuestra salud, nuestra economía y el medio ambiente".
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

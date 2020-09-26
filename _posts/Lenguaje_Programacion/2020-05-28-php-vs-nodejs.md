@@ -35,7 +35,7 @@ Node.js es un entorno de tiempo de ejecución Javascript de código abierto del 
 
 Su autor original es Ryan Dahl y fue lanzado inicialmente el 27 de mayo de 2009. Con el nacimiento de Node.js, brinda a los usuarios la posibilidad de crear aplicaciones completamente basadas en Javascript .
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Sintaxis y acceso a la línea de comandos**
 
@@ -72,7 +72,7 @@ En Javascript, a veces, si es necesario encadenar muchas funciones; los programa
 
 En Node.js, sin embargo, puedes resolverlo gracias a su funcionamiento asíncrono y sus funciones "Async / Await" que te permiten que un bloque de código se ejecute sincrónicamente a pesar de que en bloques anteriores existan posibles errores.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Interruptores de Contexto de PHP y NodeJS**
 
@@ -89,7 +89,7 @@ PHP utiliza tecnologías de instalación de módulos como PEAR (un sistema de pa
 
 Node.js viene incluido con un sistema de administración de paquetes llamado NPM (Node Package Manager) y es fácil de usar y publicar a través de comandos.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Frameworks de PHP y NodeJS**
 
@@ -107,7 +107,7 @@ Puntos negativos de PHP respecto a los sistemas de bases de datos. Las bases de 
 
 Puntos negativos de Node.js respecto a los sistemas de bases de datos. Aunque no son tan comunes, los ataques de inyección NoSQL son una vulnerabilidad documentada; pero en comparación con las inyecciones SQL, son insignificantes. La razón principal de esto es que son software más nuevos y sus diseños de código es tal, que son inherentemente resistentes a tales ataques.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Servidores Web para PHP y Node.js**
 

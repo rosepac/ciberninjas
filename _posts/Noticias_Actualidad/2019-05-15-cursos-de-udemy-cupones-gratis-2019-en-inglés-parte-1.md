@@ -22,7 +22,7 @@ tags:
 
 Selección de los mejores cursos del listado publicado en [Cibercursos](https://kutt.it/cibercursos) extraído de la web: [Chollometro](https://kutt.it/chollometro). Las tem&aacute;ticas m&aacute;s tratadas son los negocios en línea general (afiliados, redes sociales, motivación, ideas, trading); las criptomonedas; programación y diseño.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en inglés. Han sido seleccionados por ser los m&aacute;s curiosos, m&aacute;s innovadores, tener la puntuación m&aacute;s alta o los formadores que he pensado son m&aacute;s profesionales dentro de su &aacute;mbito profesional.
 
@@ -44,7 +44,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Inversión con Criptomonedas para Principiantes](https://www.udemy.com/cryptocurrencyforbeginners/?couponCode=CRYPTOFREE){:target="_blank" rel="nofollow,noreferrer"}
 * [Litecoin & Bitcoin](https://www.udemy.com/bitcoin-litecoin-bundle/?couponCode=S1T1H1){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Emprendimiento e Innovación
 
@@ -62,7 +62,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 
 * [Fundamentos de An&aacute;lisis de Datos utilizando Excel](https://www.udemy.com/business-data-analysis-excel/?couponCode=FIVERRLIMITED){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Negocios Online
 
@@ -89,7 +89,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Pinterest para Empresas](https://www.udemy.com/pinterest-marketing-for-business/?couponCode=--PINTERESTMARKETING){:target="_blank" rel="nofollow,noreferrer"}
 * [Planes de Membresías Personales para tu Sitio](https://www.udemy.com/monthly-membership/?couponCode=FREE_LIMITED){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Productividad & Proyectos
 
@@ -126,7 +126,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Machine Learning: El arte de excavar datos](https://www.udemy.com/machine-learning-the-art-of-digging-data/?couponCode=FREEML10){:target="_blank" rel="nofollow,noreferrer"}
 * [Microsoft Windows Server 2016: Capacitación pr&aacute;ctica Parte I](https://www.udemy.com/server-2016-hands-on-training/?couponCode=SERVER2016PROMO){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Trading
 
@@ -146,4 +146,4 @@ Entre mañana y pasado estaré publicando otro listado, **¡Saludos ciberninjas!
 
 Si lo que buscas son cursos gratis y en español, puedes visitar mi sección de [cursos de tecnología](https://ciberninjas.com/cursos-tecnologia) o unirte y visitarme al [Chat de Ciberninjas](https://kutt.it/ciberninjas_discord) en Discord.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

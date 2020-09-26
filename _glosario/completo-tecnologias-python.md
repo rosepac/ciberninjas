@@ -81,7 +81,7 @@ Un proyecto oficial de Django. Extiende sus capacidades más allá del HTTP: Par
 Sistema de procesamiento de texto para procesar documentación de texto sin formato en formatos útiles, como HTML , LaTeX, páginas de manual, documento abierto o XML . Diseñado para trabajar de manera flexible con texto en varios idiomas (un idioma a la vez). Las características específicas del idioma están completamente parametrizadas.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## F
 
@@ -110,7 +110,7 @@ Un motor de plantillas para Python . Ofrece un poderoso conjunto de herramientas
 Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan interfaces de usuario innovadoras, como aplicaciones multitáctiles. Se usa para hacer aplicaciones móviles con python. Puede ejecutarse en Android , iOS , Linux , OS X y Windows.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## M
 
@@ -171,7 +171,7 @@ Lenguaje de programación de uso general popular cuya filosofía se centra princ
 Una biblioteca de aprendizaje automático de código abierto para Python . Proporciona una ruta perfecta desde la creación de prototipos de investigación hasta la implementación de producción. De acuerdo con la antorcha.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## S
 
@@ -248,7 +248,7 @@ Vidgear, es una poderosa librería dedicada al procesamiento de vídeo construid
 Software, programa o sistema que implementa, gestiona y controla múltiples instancias de entorno virtual. Una herramienta para crear entornos aislados de Python . Virtualenv le permitirá definir entornos de tiempo de ejecución Python aislados sin dañar la instalación de Python raíz o del sistema.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## W
 
@@ -270,4 +270,4 @@ Framework web para Python que es tan simple como poderoso. Web.py está en el do
 El **glosario de Python** fue creada el *13 de Mayo de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

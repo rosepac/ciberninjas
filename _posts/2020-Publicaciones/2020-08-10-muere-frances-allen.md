@@ -55,6 +55,6 @@ Allen pasó 45 años en IBM y se jubiló en 2002. Recibió el Premio Turing en 2
 
 [▷ ¿Cuándo y dónde aparece por primera vez la palabra robots?](https://ciberninjas.com/aparicion-palabra-robot/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [La científica informática Frances Allen, conocida por su trabajo en la compilación, muere a los 88 años](https://www.theverge.com/2020/8/9/21360722/frances-allen-computer-scientist-compiling-ibm){:target="_blank" rel="nofollow,noreferrer"}

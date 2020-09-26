@@ -38,6 +38,6 @@ Microsoft ha estado en conversaciones con ByteDance para comprar las operaciones
 
 [🥇 ▷ Herramienta de Facebook para transferir todas tus fotografías a Google Photos](https://ciberninjas.com/facebook-to-google-fotos/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [TikTok Starts Website to Take on Rumors, Misinformation](https://www.bloomberg.com/news/articles/2020-08-17/tiktok-starts-website-to-take-on-rumors-misinformation){:target="_blank" rel="nofollow,noreferrer"}

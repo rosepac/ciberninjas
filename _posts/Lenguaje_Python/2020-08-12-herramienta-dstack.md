@@ -57,7 +57,7 @@ Solamente en un par de minutos, puedes obtener acceso gratuito en la versión on
 
 [Seguridad Android: Una falsa actualización de Google](https://ciberninjas.com/actualizacion-fake-android-peligrosa/)
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Repositorio de Github**: [Repositorio oficial del proyecto dstack](https://github.com/dstackai){:target="_blank" rel="nofollow,noreferrer"}
 
