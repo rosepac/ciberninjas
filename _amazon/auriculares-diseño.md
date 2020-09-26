@@ -116,7 +116,7 @@ Auriculares inalámbricos, Bluetooth de diseño clásico, de la marca Bose. Un p
 
 ### 10. Sennheiser Game One
 
-[![Sennheiser Game One]()](https://amzn.to/2q5WJ9A){:target="_blank" rel="nofollow,noreferrer"}
+[![Sennheiser Game One](https://amzn.to/2q5WJ9A){:target="_blank" rel="nofollow,noreferrer"}
 
 Auriculares de diadema abiertas para gaming, negro. Rebajados más de 100 €.
 
@@ -146,9 +146,9 @@ Sennheiser Momentum Free SE Edición Especial - Auriculares (Bluetooth 4.2, Qual
 
 ## **Más Ofertas con Rebajas y Flash 🎁**
 
-[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
+[🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
+[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
 [💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
