@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Flutter
-thumbnail: /assets/img/blog/25-google-pay.webp
-feature-img: /assets/img/blog/25-google-pay.webp
+thumbnail: https://ciberninjas.com/assets/img/blog/25-google-pay.webp
+feature-img: https://ciberninjas.com/assets/img/blog/25-google-pay.webp
 title: '▷ Google Pay elige a Flutter para impulsar su desarrollo global'
 description: >-
   Google Pay elige al framework Flutter como herramienta de desarrollo principal.
