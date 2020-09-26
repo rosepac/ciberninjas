@@ -22,10 +22,10 @@ published: true
 
 Amazon acaba de anunciar un montón de nuevos productos en su evento anual de hardware. A continuación, a modo de resumen rápido, un listado completo de todos los nuevos productos de Amazon:
 
-- Nuevas versiones de [Amazon Echo](https://ciberninjas.com/amazon-echo-dot-2020/), [Echo Dot Hogar], Echo Dot con reloj y Echo Dot Kids.
+- Nuevas versiones de [Amazon Echo, Echo Dot Hogar, Echo Dot con reloj y Echo Dot Kids](https://ciberninjas.com/amazon-echo-dot-2020/ "Los nuevos dispositivos inteligentes Amazon Echo 2020").
 - Nuevos enrutadores de red en malla Wi-Fi Eero 6.
-- Nuevo servicio de transmisión de videojuegos, denominado Luna. Que competirá con Google Stadia y los servicios de transmisión de juegos de Microsoft.
-- Una nueva pantalla inteligente Echo Show con Alexa incorporada.
+- Nuevo [servicio de transmisión de videojuegos Luna](https://ciberninjas.com/amazon-anuncia-luna/ "Amazon anuncia la plataforma de transmisión de juegos Luna"). Que competirá con Google Stadia y los servicios de transmisión de juegos de Microsoft.
+- Una nueva pantalla inteligente [Echo Show con Alexa incorporada](https://ciberninjas.com/amazon-echo-show-2020/ "El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves").
 - Un loco dron con cámara de seguridad, que es capaz de volar por el interior de casa.
 - Un nuevo sistema de seguridad para el automóvil, que se lanzará para automóviles Tesla.
 
@@ -102,7 +102,7 @@ Ring Car Cam, tiene cámaras para que pueda monitorear lo que sucede alrededor d
 
 La división de seguridad inteligente de Amazon, Ring, acaba de lanzar lo que es básicamente un dron diminuto con una cámara que vuela por tu casa, llamado “Always Home Cam” que ya está provocando preocupaciones por la privacidad entre los más eclécticos.
 
-Amazon describió el dispositivo como una cámara interior autónoma que brinda a los usuarios puntos de vista de múltiples áreas del hogar. Desde Amazon dicen que el dispositivo solo grabará cuando esté en vuelo, porque su cámara está bloqueada físicamente cuando está acoplada, en un esfuerzo por adelantarse a los problemas de privacidad.
+Amazon describió el dispositivo como una cámara interior autónoma que brinda a los usuarios diferentes puntos de vista de múltiples áreas del hogar. Desde Amazon dicen que el dispositivo solo grabará cuando esté en vuelo, porque su cámara está bloqueada físicamente cuando está acoplada, en un esfuerzo por adelantarse a los problemas de privacidad.
 
 Es lo suficientemente fuerte como para que los usuarios puedan escucharlo moverse por toda la casa, dijo Amazon, y las personas podrán establecer rutas para que el dispositivo vuele.
 
