@@ -79,7 +79,7 @@ Puedes usar Amazon Photos o fotos de tu cuenta de Facebook para convertir el dis
 
 Fabricado con varias capas de controles de la privacidad, incluido un botón para desactivar los micrófonos y la cámara, y una cubierta integrada para tapar la cámara. Desactiva el movimiento en cualquier momento con la voz, desde el dispositivo o desde la app Alexa. El dispositivo procesa localmente la información necesaria para mover la pantalla: las imágenes y los vídeos asociados con el movimiento de la pantalla no se envían al Cloud. Más información sobre privacidad.
 
-[👉 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué características ofrece Echo Show 10?**
 
@@ -92,7 +92,7 @@ Adéntrate en el mundo del Hogar digital: configura dispositivos Zigbee compatib
 - Muestra tus recuerdos en la pantalla: usa Amazon Photos para convertir el dispositivo en un marco digital en el que tus fotos preferidas aparecerán geniales con cualquier luz gracias al ajuste adaptativo del color.
 - Diseñado para proteger tu privacidad: desactiva electrónicamente los micrófonos y la cámara. Tapa la cámara con la cubierta integrada. Desactiva el movimiento cuando quieras.
 
-[👉 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Podré ver Netflix en mi dispositivo de Amazon Echo Show 10?**
 
@@ -102,7 +102,7 @@ Los ejecutivos de Amazon, comentaron cómo tienen datos que demuestran que a los
 
 Cuando un usuario se encuentre viendo Netflix, Hulu o Prime Video, en el recién anunciado Echo Show 10, el dispositivo girará sobre su soporte motorizado, siguiendo al espectador si se mueve por la habitación.
 
-[👉 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cuáles son las características técnicas de Echo Show 10?**
 
@@ -129,7 +129,7 @@ Cuando un usuario se encuentre viendo Netflix, Hulu o Prime Video, en el recién
 | **Controlador de Hogar digital**  | Zigbee                                                       |
 | **Sensor**                        | Sensor de luz ambiental roja/verde/azul (RGB)                |
 
-[👉 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 RESERVA en PREVENTA YA, tu Echo Show 10](https://amzn.to/330Lvnl "Reserva YA el Nuevo Echo Show 10"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 

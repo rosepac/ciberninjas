@@ -146,7 +146,7 @@ Mando por Voz Alexa de 2ª Generación
 | ------------------ | ------------------------------------------------------------ |
 | **Compatibilidad** | Fire TV Stick (2.ª generación), Fire TV Cube (2.ª generación), Fire TV Cube (1.ª generación), Fire TV (3.ª generación, diseño colgante), Fire TV Stick 4K |
 
-[🔥 Reserva YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Reserva YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué características ofrece Fire Stick TV?**
 
