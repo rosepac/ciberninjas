@@ -124,7 +124,7 @@ Auriculares de diadema abiertas para gaming, negro. Rebajados más de 100 €.
 
 ### 11. MSI DS502
 
-[![MSI DS502](https://i.ibb.co/nBDvPFV/image.png)](https://amzn.to/34voGX3){:target="_blank" rel="nofollow,noreferrer"}
+[![La mejor oferta en auriculares d MSI](https://i.ibb.co/nBDvPFV/image.png)](https://amzn.to/34voGX3 "La mejor oferta en auriculares d MSI"){:target="_blank" rel="nofollow,noreferrer"}
 
 Auriculares para Gaming (con micrófono, Sonido 7.1, Banda de sujeción, USB) Color Negro y Rojo. Con la Clase de eficiencia energética A+++.
 
@@ -136,7 +136,7 @@ Auriculares para Gaming (con micrófono, Sonido 7.1, Banda de sujeción, USB) Co
 
 ### 12. Sennheiser Momentum Free
 
-[![Sennheiser Momentum Free](https://i.ibb.co/vXcmxPy/image.png)](https://amzn.to/37NcaV8){:target="_blank" rel="nofollow,noreferrer"}
+[![La mejor oferta en auriculares Sennheiser Momentum Free](https://i.ibb.co/vXcmxPy/image.png "La mejor oferta en auriculares Sennheiser Momentum Free")](https://amzn.to/37NcaV8 "La mejor oferta en auriculares Sennheiser Momentum Free"){:target="_blank" rel="nofollow,noreferrer"}
 
 Sennheiser Momentum Free SE Edición Especial - Auriculares (Bluetooth 4.2, Qualcomm apt-X Low Latency) color rojo y negro. ¡¡¡Rebajados 180 €!!!
 
@@ -150,5 +150,5 @@ Sennheiser Momentum Free SE Edición Especial - Auriculares (Bluetooth 4.2, Qual
 [🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
 [🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
 [⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
-[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/{: .btn .btn-outline-danger .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
 [💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
