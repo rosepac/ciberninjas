@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Compras 🎁"
-description: "Las Mejores Ofertas de Amazon durante Todo el Año"
-excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
+description: "Catálogo Amazon de las Mejores Ofertas y Chollos de Productos Informáticos"
+excerpt: "Catálogo Amazon de las Mejores Ofertas y Chollos de Productos Informáticos"
 permalink: /amazon/
 canonical_URL: https://ciberninjas.com/amazon/
 published: true
