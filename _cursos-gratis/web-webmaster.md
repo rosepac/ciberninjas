@@ -5,11 +5,11 @@ author: rosepac
 bootstrap: true
 published: true
 comments: false
-tags: [Cursos Gratis, Bases de Datos]
-title: "▷ 22 Mejores cursos gratis de bases de datos"
+tags: [Cursos Gratis, Webmaster]
+title: "▷ 22 Mejores cursos gratis para adquirir habilidades de Webmaster"
 description: "Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto"
-date: 2020-08-21T10:22:00.000+02:00
+date: 2020-09-25T10:22:00.000+02:00
 permalink: /cursos-web-webmaster/
 canonical_URL: https://ciberninjas.com/cursos-web-webmaster/
 thumbnail: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
@@ -18,11 +18,19 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 
 ---
 
+Si deseas realizar de manera competente las tareas exigidas a un gestor de páginas web, los webmasters deben tener un conocimiento profundo de los lenguajes de programación, el diseño de sitios web, los gráficos y la gestión de proyectos.
+
+Para convertirte en un auténtico webmaster, puede resultarle útil inscribirse en algunos de los cursos gratuitos que te mostraré a continuación. Estas formaciones son ofrecidos, en su gran mayoría, por academias online.
+
+En líneas generales no son cursos demasiados largos, y para realizar la gran mayoría ellos, tardarás como mucho dos semanas. Aparte de lo que puedas encontrar aquí, un webmaster siempre debe beber tener conocimientos casi en todo, por lo que no estará de más que puedas formarte respecto al mundo del diseño, el seo, y más.
+
+Los estudiantes de un programa de diseño web o webmaster generalmente completan un curso introductorio que les enseña los conceptos básicos para planificar el diseño de un sitio web y utilizar la optimización.
+
+Luego avanzan para crear sus propios diseños mientras utilizan software y aplicaciones estándar de la industria.
+
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 
 - [3 Claves para convertir tu idea en dinero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F3-claves-para-convertir-tu-idea-en-dinero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* Paso a Pago 😿 [Trading Forex: Comienza a invertir en el Mercado de Forex](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F5-estrategias-para-invertir-en-acciones-forex-y-criptomedas%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* **Inscripción Cerrada 🔒*- [Buenas prácticas en el uso académico de la propiedad intelectual](https://miriadax.net/web/buenas-practicas-en-el-uso-academico-de-la-propiedad-intelectual-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 - [Búsqueda y Gestión de la Información para la Elaboración de un Trabajos Académicos](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX \ Universidad Católica de Valencia)
 - [Creación de Marca Personal](https://www.youtube.com/playlist?list=PLpgvqH3SVWYpcLrhA2tQy4IHbKw_958OP){:target="_blank" rel="nofollow,noreferrer"} (Janette Curi Franco, YouTube)
@@ -34,16 +42,12 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 - [Creación y Gestión de Contenidos Digitales](https://www.youtube.com/playlist?list=PLUS74eZ5KD5QVKWxOcJ_1Jdaj9Mrmdqev){:target="_blank" rel="nofollow,noreferrer"} (YouTube)
 - [Desarrollo de negocios exitosos en Internet](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesarrollo-correcto-de-un-negocio-online%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [El cibermercado en el espacio Internet (2010)](https://ocw.ehu.eus/file.php/123/cibermercado/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* **Inscripción Cerrada 🔒*- [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Escribir para Convencer](https://www.edx.org/es/course/escribir-para-convencer){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Pontificia Universidad Javeriana)
 - [Escribir un ensayo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fescribir-un-ensayo%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Experto en Email Marketing con GetResponse](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-email-marketing-con-getresponse%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a Google Adwords](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-google-adwords%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a la redacción ciberperiodística (2014)](https://ocw.ehu.eus/course/view.php?id=330){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* **Inscripción Cerrada 🔒*- [Introducción al Crowdfunding](https://miriadax.net/web/introduccion-al-crowdfunding){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* **Inscripción Cerrada 🔒*- [Oportunidades de negocio en el Internet de las Cosas](https://miriadax.net/web/oportunidades-de-negocio-para-internet-de-las-cosas/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * Paso a Pago 😿 [Publicidad en Google - Ads, Youtube, Waze, Adwords Express](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fandresbrachetta-ecosistema-publicitario-google%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* **Inscripción Cerrada 🔒*- [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Radio para internet con Podcast: creación y conceptos básicos](https://www.edx.org/course/radio-para-internet-con-podcast-creacion-y-concept){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Super Networking: Networking personal para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnetworking-personal-y-habilidades-sociales-para-tener-exito%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Podcast: Hacer vídeos para Youtube](https://www.youtube.com/playlist?list=PL694C136868F3BABD){:target="_blank" rel="nofollow,noreferrer"} (Carla Delgado, YouTube)
@@ -56,4 +60,4 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-web-webmaster.webp)
+![Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-web-webmaster.webp "Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto")

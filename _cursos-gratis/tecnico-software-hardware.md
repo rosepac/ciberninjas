@@ -27,7 +27,7 @@ img: "/assets/img/paginas-cursos/cursos-software-tecnico.webp"
 - [Cobre, el fiel amigo de la comunicación](https://miriadax.net/web/cobre-el-fiel-amigo-de-la-comunicacion-2-edicion-/inicio) (MiriadaX)
 - [Codificación de audio: más allá del MP3](https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0) (EDX)
 - [Compresión de vídeo (2017)](https://ocw.unican.es/course/view.php?id=13) (OCW)
-- [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-11-edicion-/inicio) (MiriadaX)
+- [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-13-edicion-/inicio "Conectando el futuro con fibra óptica") (MiriadaX)
 - [Desarrollo de sistemas de información (2013)](https://ocw.unican.es/course/view.php?id=99) (OCW)
 - [Desarrollo de sistemas de información corporativos (2008)](http://ocw.uc3m.es/ingenieria-informatica/desarrollo-de-sistemas-de-informacion-corporativos) (OCW)
 - [Desarrollo de sistemas de información corporativos (2012)](http://ocw.uc3m.es/ingenieria-informatica/desarrollo-de-sistemas-de-informacion-corporativos-1) (OCW)

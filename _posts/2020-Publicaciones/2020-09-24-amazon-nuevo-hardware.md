@@ -120,7 +120,9 @@ El Echo Show se girará silenciosamente hacia los usuarios para mantener la pant
 
 ## **Nuevo servicio de transmisión de videojuegos Luna**
 
-Amazon lanzó [Luna](https://ciberninjas.com/amazon-anuncia-luna/), su servicio de transmisión de videojuegos que funciona en Fire TV, Mac, PC, teléfonos inteligentes y tabletas de la compañía. Contará con un conjunto de 100 juegos seleccionados y los usuarios pueden jugar con un controlador de juegos Luna especial. Sin embargo, no tiene que emparejar el controlador con ellos, Amazon dice que simplemente funcionará con ellos.
+Amazon lanzó [la plataforma de videojuegos Luna](https://ciberninjas.com/amazon-anuncia-luna/ "Nueva plataforma de videojuegos de Amazon"), su servicio de transmisión de videojuegos que funciona en Fire TV, Mac, PC, teléfonos inteligentes y tabletas de la compañía.
+
+Contará con un conjunto de 100 juegos seleccionados y los usuarios pueden jugar con un controlador de juegos Luna especial. Sin embargo, no tiene que emparejar el controlador con ellos, Amazon dice que simplemente funcionará con ellos.
 
 No está claro cuándo se lanzará Luna, pero por ahora el servicio está disponible mediante invitación solo para usuarios en los EE. UU.
 
