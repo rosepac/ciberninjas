@@ -787,6 +787,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Aprenda Java como si estuviera en primero](https://fiwiki.org/images/9/9c/Aprenda_Java_como_si_estuviera_en_primero.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprendiendo Java y POO (2008)](https://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [Aprendizaje Java](https://riptutorial.com/Download/java-language-es.pdf){:target="_blank" rel="nofollow,noreferrer"} RipTutorial (PDF)
 * [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) (PDF)
 * [Desarrollo de proyectos informáticos con Java](https://www3.uji.es/~belfern/libroJava.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java){:target="_blank" rel="nofollow,noreferrer"} - F.M. Pérez Montes (PDF)
