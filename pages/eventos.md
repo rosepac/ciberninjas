@@ -30,20 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Septiembre**
 
-### 🔔 25 de Septiembre  <!-- omit in toc -->
-
-- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
-
-- (10:00) TOKEN: Impacto de Blockchain en los Servicios Públicos 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-token-impacto-de-blockchain-en-los-servicios-publicos-119411327495?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
-- (17:00) Workshop: Windows + VMware en la nube de AWS 👉 [REGISTRO](https://www.eventbrite.com.mx/e/workshop-windows-vmware-en-la-nube-de-aws-tickets-120095774695?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
-- (22:00) Conferencias Virtuales Paxful 👉 [REGISTRO](https://www.eventbrite.co/e/conferencias-virtuales-paxful-tickets-121127602921?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
-- (23:00) Digital Hub Monterrey: Revolución del Big Data, ¿cómo la inició? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/revolucion-del-big-data-como-la-inicio-tickets-120107505783?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
-- (23:00) Cienca de Datos y Lenguaje R 👉 [REGISTRO](https://www.eventbrite.com.ar/e/cienca-de-datos-y-lenguaje-r-tickets-120324075549?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
-- (01:00) Digital Hub MTY 👉 [REGISTRO](https://www.eventbrite.com.mx/e/panel-adaptabilidad-al-cambio-tickets-120095391549?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
-- (02:00) Kotlin: El futuro del desarrollo móvil/Sesiones en vivo 👉 [REGISTRO](https://www.eventbrite.com.mx/e/kotlin-el-futuro-del-desarrollo-movilsesiones-en-vivo-tickets-117468666945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
-
-- [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
-
 ### 🔔 26 de Septiembre  <!-- omit in toc -->
 
 - DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
@@ -890,3 +876,17 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (04:00) Desarrollo de Software a la Medida vs Software como Servicio 🎥 [DIRECTO](https://www.youtube.com/watch?v=kYVpEH1EugY)
 
 - Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
+
+### 🔔 25 de Septiembre  <!-- omit in toc -->
+
+- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+
+- (10:00) TOKEN: Impacto de Blockchain en los Servicios Públicos 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-token-impacto-de-blockchain-en-los-servicios-publicos-119411327495?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (17:00) Workshop: Windows + VMware en la nube de AWS 👉 [REGISTRO](https://www.eventbrite.com.mx/e/workshop-windows-vmware-en-la-nube-de-aws-tickets-120095774695?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (22:00) Conferencias Virtuales Paxful 👉 [REGISTRO](https://www.eventbrite.co/e/conferencias-virtuales-paxful-tickets-121127602921?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (23:00) Digital Hub Monterrey: Revolución del Big Data, ¿cómo la inició? 👉 [REGISTRO](https://www.eventbrite.com.mx/e/revolucion-del-big-data-como-la-inicio-tickets-120107505783?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (23:00) Cienca de Datos y Lenguaje R 👉 [REGISTRO](https://www.eventbrite.com.ar/e/cienca-de-datos-y-lenguaje-r-tickets-120324075549?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"}
+- (01:00) Digital Hub MTY 👉 [REGISTRO](https://www.eventbrite.com.mx/e/panel-adaptabilidad-al-cambio-tickets-120095391549?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
+- (02:00) Kotlin: El futuro del desarrollo móvil/Sesiones en vivo 👉 [REGISTRO](https://www.eventbrite.com.mx/e/kotlin-el-futuro-del-desarrollo-movilsesiones-en-vivo-tickets-117468666945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
+
+- [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
