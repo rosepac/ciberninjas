@@ -9,7 +9,7 @@ permalink: /black-friday-amazon/
 canonical_URL: https://ciberninjas.com/black-friday-amazon/
 published: true
 comments: false
-date: 2019-11-29 05:26:00 +0200
+date: 2020-09-24 05:26:00 +0200
 thumbnail: /assets/img/amazon/black-friday.webp
 feature-img: /assets/img/amazon/black-friday.webp
 img: /assets/img/amazon/black-friday.webp

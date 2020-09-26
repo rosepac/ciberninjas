@@ -18,8 +18,6 @@ img: /assets/img/paginas/amazon/auriculares-diseno.gif
 
 En esta publicación vamos a realizar un repaso, entre algunos de los más espectaculares y mejores auriculares para diseñadores, gamers y todo aquel que ame la tecnología al máximo.. 😻
 
-Si lo que te interesa, es conocer [**los mejores auriculares para jugar**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para jugar"), no dudes de visitar mi página de [**cascos para juegos**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para gamers del mundo").
-
 > 🔥 Seguro también te interesa: [Los Mejores Auriculares en Oferta 2020](https://www.amazon.es/shop/cibercursos?listId=1RT24JM35NPPJ&ref=cm_sw_tw_r_inf_list_own_cibercursos_dp_Z1tRolhJAm9X6 "Los mejores auriculares en oferta 2020")
 
 - [**Auriculares para Diseñadores**](#auriculares-para-diseñadores)
@@ -48,7 +46,6 @@ Si lo que te interesa, es conocer [**los mejores auriculares para jugar**](https
 
 El Sony WH-XB900N, es uno de **los auriculares con mejor cancelación de ruido del mundo**. Por eso, está entre los favoritos de los mejores diseñadores de Silicon Valley.
 
-<!-- https://www.soundguys.com/sony-wh-xb900n-review-24630/-->
 Ofrece casi la excelencia a la hora de cancelar el ruido externo y una calidad de sonido que roza la perfección. El hermano mayor de su misma gama [el auricular Sony WH1000XM3](https://amzn.to/35EvxOa "El mejor auricular de Sony del mundo"){:target="_blank" rel="nofollow,noreferrer"} (con un, nada discreto, precio de 780 €) fue elegido el año pasado, como el mejor auricular del mundo en la mayoría de los medios de comunicación más importantes del mundo.
 
 [🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/34wo4jX){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

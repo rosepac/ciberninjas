@@ -3,7 +3,7 @@ layout: page
 title: 👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero
 description: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 excerpt: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
-date: 2019-05-16 09:25:00 +0200
+date: 2020-09-26 09:25:00 +0200
 last_modified_at: 
 author: rosepac
 bootstrap: true
@@ -13,27 +13,23 @@ comments: false
 thumbnail: /assets/img/paginas/Hirens-Boot-CD.webp
 feature-img: /assets/img/paginas/Hirens-Boot-CD.webp
 img: /assets/img/paginas/Hirens-Boot-CD.webp
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada del **reconocido Hiren's BootCD**basada en Windows 10 PE x64. Como no hay actualizaciones oficiales después de noviembre de 2012, **los fanáticos de Hiren's BootCD están desarrollando la versión PE que incluye herramientas gratuitas**, mejoras y actualizadas utilizadas en Hiren's BootCD. Se está desarrollando para las computadoras de la nueva era, admite el arranque UEFI y requiere un mínimo de 2 GB de RAM.
 
 - [**Introducción a Hiren´s Boot CD**](#introducción-a-hirens-boot-cd)
-- [**Sobre Hiren´s Boot CD 🏛**](#sobre-hirens-boot-cd-)
+- [**Sobre Hiren´s Boot CD**](#sobre-hirens-boot-cd)
 - [**¿Cómo reparar un disco duro con Hiren´s Boot?**](#cómo-reparar-un-disco-duro-con-hirens-boot)
-- [**Software Incluidos 🔧**](#software-incluidos-)
-  - [Herramientas BCD-MBR](#herramientas-bcd-mbr)
-  - [Recuperación de Datos](#recuperación-de-datos)
-  - [Herramientas de Disco Duro](#herramientas-de-disco-duro)
-  - [Recuperación de Windows](#recuperación-de-windows)
-  - [Otras herramientas](#otras-herramientas)
-  - [Herramientas de Extraíbles](#herramientas-de-extraíbles)
-  - [Seguridad](#seguridad)
-  - [Herramientas de Sistema](#herramientas-de-sistema)
-  - [Red](#red)
+- [**Software Incluido en Hiren´s Boot CD 🔧**](#software-incluido-en-hirens-boot-cd-)
+  - [👉 Herramientas BCD-MBR](#-herramientas-bcd-mbr)
+  - [👉 Recuperación de Datos](#-recuperación-de-datos)
+  - [👉 Herramientas de Disco Duro](#-herramientas-de-disco-duro)
+  - [👉 Recuperación de Windows](#-recuperación-de-windows)
+  - [👉 Otras herramientas](#-otras-herramientas)
+  - [👉 Herramientas de Extraíbles](#-herramientas-de-extraíbles)
+  - [👉 Seguridad](#-seguridad)
+  - [👉 Herramientas de Sistema](#-herramientas-de-sistema)
+  - [👉 Red](#-red)
 - [**Descargar Hiren´s BootCD PE 💿**](#descargar-hirens-bootcd-pe-)
 - [**Preguntas Frecuentes sobre Hiren´s Boot ❔**](#preguntas-frecuentes-sobre-hirens-boot-)
   - [👉 ¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?](#-hay-algún-minero-de-bitcoin-o-software-malicioso-infectado-en-su-iso)
@@ -49,11 +45,11 @@ Con estas herramientas útiles dentro de la ISO puedes resolver muchos problemas
 
 Después del arranque, la versión PE intenta instalar controladores como gráficos, sonido, tarjeta inalámbrica y ethernet para su hardware. Para que pueda conectarse a una red WIFI o Ethernet. Póngase en contacto con nosotros con su modelo de hardware si la versión PE no reconoce su tarjeta WIFI o Ethernet; y se agregarán otros controladores necesarios en las nuevas versiones.
 
-Los lanzamientos oficiales de [las versiones antiguas](https://www.hirensbootcd.org/old-versions/){:target="_blank" rel="nofollow,noreferrer"} aún están disponibles. en nuestra  página de Versiones Antiguas.
+Los lanzamientos oficiales de [las versiones antiguas](https://www.hirensbootcd.org/old-versions/){:target="_blank" rel="nofollow,noreferrer"} aún están disponibles.
 
-## **Sobre Hiren´s Boot CD 🏛**
+## **Sobre Hiren´s Boot CD**
 
-Hiren's BootCD es una gran herramienta que ha ayudado a muchas personas a reparar sus problemas relacionados con el ordenador durante años. Dado que encontrar y descargar la versión oficiales de Hiren's BootCD fue un gran problema, el sitio web Hirensbootcd.org se desarrolló en 2010 para ayudar a las personas a encontrar y descargar las ISO del proyecto de manera segura y rápida.
+Hiren's BootCD es una gran herramienta que ha ayudado a muchas personas a **reparar sus problemas relacionados con el ordenador** durante años. Dado que encontrar y descargar la versión oficiales de Hiren's BootCD fue un gran problema, el sitio web Hirensbootcd.org se desarrolló en 2010 para **ayudar a las personas a encontrar y descargar las ISO de Hiren´s Boot CD** de manera segura y rápida.
 
 Habiendo alojado las versiones oficiales originales y sin editar de Hiren's BootCD. Agradecemos a Hiren por desarrollar este gran BootCD y a todos los que ayudan a resolver sus problemas dentro de la comunidad.
 
@@ -83,14 +79,14 @@ En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que
 4. Revisa el reporte final y vigila si te indica la existencia de sectores dañados.
 5. Utiliza el formateado de HDD Low Level Format si fuese necesario.
 
-## **Software Incluidos 🔧**
+## **Software Incluido en Hiren´s Boot CD 🔧**
 
-### Herramientas BCD-MBR
+### 👉 Herramientas BCD-MBR
 
 * BootIce v1.3.3
 * EasyBCD v2.3
 
-### Recuperación de Datos
+### 👉 Recuperación de Datos
 
 * CheckDisk GUI v1.2.0
 * Lazesoft Data Recovery v4.0.0.1
@@ -104,7 +100,7 @@ En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que
 * Runtime RAID Reconstructor v4.4.0
 * Runtime RAID Recovery para Windows v4.0.0
 
-### Herramientas de Disco Duro
+### 👉 Herramientas de Disco Duro
 
 * Desfragmentar
   * Desfragmentador v2.22.33.995
@@ -135,11 +131,11 @@ En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que
 * Seguridad
   * HDD Low Level Format Tool v4.40
 
-### Recuperación de Windows
+### 👉 Recuperación de Windows
 
 * Lazesoft Windows Recovery v4.0.0.1
 
-### Otras herramientas
+### 👉 Otras herramientas
 
 * FSViewer v6.5.0
 * Oficina libre rev 703
@@ -150,12 +146,12 @@ En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que
 * Notepad ++ v7.5.6
 * WinMerge v2.14
 
-### Herramientas de Extraíbles
+### 👉 Herramientas de Extraíbles
 
 * CDBurnerXP v4.5.8.6795
 * Rufus v3.0.1304
 
-### Seguridad
+### 👉 Seguridad
 
 * Antivirus
   * ESET Online Scanner v2.0.22
@@ -169,7 +165,7 @@ En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que
   * Lazesoft Password Recovery v4.0.0.1
   * NT Password Edit v0.7
 
-### Herramientas de Sistema
+### 👉 Herramientas de Sistema
 
 * CPU-Z v1.85.0
 * GPU-Z v2.9.0
@@ -186,7 +182,7 @@ En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que
 * SysInternals Suite
 * Windows PowerShell v1.0
 
-### Red
+### 👉 Red
 
 * Aero Admin v4.5
 * Teamviewer v6.0.10511
@@ -199,7 +195,7 @@ En realidad, Hiren´s Boot no va a ser capaz de reparar al 100% tu disco, lo que
 
 ## **Descargar Hiren´s BootCD PE 💿**
 
-[⬇ DESCARGAR ⬇](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso "Descarga Directa de la ISO de Hiren Boot CD PE x64 desde la Web Oficial"){: .btn .btn--inverse .btn--x-large .align-center}
+[💿 DESCARGAR 💿](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso "Descarga Directa de la ISO de Hiren Boot CD PE x64 desde la Web Oficial"){: .btn .btn-dark .btn-lg .btn-block}
 
 ## **Preguntas Frecuentes sobre Hiren´s Boot ❔**
 

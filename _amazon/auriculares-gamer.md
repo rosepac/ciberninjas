@@ -9,8 +9,8 @@ permalink: /auriculares-gamer/
 canonical_URL: https://ciberninjas.com/auriculares-gamer/
 published: true
 comments: false
-date: 2019-11-29 15:32:01 +0200
-last_modified_at: 2020-09-12
+date: 2020-06-24 15:32:01 +0200
+last_modified_at: 2020-09-25
 thumbnail: /assets/img/paginas/amazon/auriculares-diseno.gif
 feature-img: /assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-beats-6.webp
 img: /assets/img/paginas/amazon/auriculares-diseno.gif
