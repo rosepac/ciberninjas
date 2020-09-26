@@ -70,7 +70,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 - [**Cursos gratis de Sistemas de Gestión de Contenidos ✍**](#cursos-gratis-de-sistemas-de-gestión-de-contenidos-)
 - [**Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>**](#cursos-gratis-de-wordpress-i-classfa-fa-wordpress-aria-hiddentruei)
 
-> 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ## Educación Global

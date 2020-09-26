@@ -21,7 +21,7 @@ Como probablemente sepas, el Prime Day se ha retrasado en los EE. UU. y en todas
 
 [🤗 ¡Ayúdanos! 🎁 Visita Nuestro Canal de Afiliados de Amazon 🤘](https://www.amazon.es/shop/cibercursos){:target="_blank" rel="nofollow,noreferrer"}
 
-<h2><strong>Las Más Espectaculares Ofertas y Chollos de Productos Seleccionados 👇</strong></h2>
+<h2><strong>Las Mejores Ofertas Flash y Ofertas de Amazon Seleccionados 👇</strong></h2>
   <ol>
     <li> PROGRAMACIÓN Y APRENDIZAJE DE TECNOLOGÍAS
       <ol>

@@ -16,7 +16,39 @@ Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas co
 👉 Puedes encontrar algunos de mis viejos trabajos [aquí](/proyectos/) e información sobre mis gustos e intereses personajes, por [aquí](/rosepac/)
 {: .notice--warning}
 
-## **¿Quién es Pablo Álvarez Corredera?** <!-- omit in toc -->
+- [**¿Quién es Pablo Álvarez Corredera?**](#quién-es-pablo-álvarez-corredera)
+- [**¿Qué estudios he realizado?**](#qué-estudios-he-realizado)
+- [**¿Cómo comencé en Internet?**](#cómo-comencé-en-internet)
+  - [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
+  - [Dinamización en Redes Sociales](#dinamización-en-redes-sociales)
+  - [Diseño de proyectos educativos sobre seguridad en la red](#diseño-de-proyectos-educativos-sobre-seguridad-en-la-red)
+  - [Adicción a la tecnología](#adicción-a-la-tecnología)
+  - [Introducción al desarrollo web (iDESWEB)](#introducción-al-desarrollo-web-idesweb)
+  - [Técnicas de Creatividad](#técnicas-de-creatividad)
+  - [Empieza con el inglés: aprende las mil palabras más usadas](#empieza-con-el-inglés-aprende-las-mil-palabras-más-usadas)
+  - [Curso de Desarrollo de Apps Móviles](#curso-de-desarrollo-de-apps-móviles)
+  - [Espionaje y Cibervigilancia](#espionaje-y-cibervigilancia)
+  - [Taller de Emprendimiento](#taller-de-emprendimiento)
+  - [Innovación en la Relación con los Clientes: E-Commerce y Community Management](#innovación-en-la-relación-con-los-clientes-e-commerce-y-community-management)
+    - [Comercio Electrónico](#comercio-electrónico)
+    - [Administración de clientes](#administración-de-clientes)
+    - [Community Manager](#community-manager)
+    - [Google Adwords](#google-adwords)
+    - [Innovando el uso de internet en la relación con los clientes](#innovando-el-uso-de-internet-en-la-relación-con-los-clientes)
+    - [Prácticas](#prácticas)
+  - [Internalización del SEO](#internalización-del-seo)
+  - [Unimooc: Emprende](#unimooc-emprende)
+  - [Innotools: Transforma tu idea de negocio](#innotools-transforma-tu-idea-de-negocio)
+  - [Competencias Digitales Básicas](#competencias-digitales-básicas)
+  - [Mediador en Prevención de Conductas Violentas en Jóvenes](#mediador-en-prevención-de-conductas-violentas-en-jóvenes)
+  - [Sensibilización en Igualdad de Oportunidades entre Mujeres y Hombres](#sensibilización-en-igualdad-de-oportunidades-entre-mujeres-y-hombres)
+  - [ONG Cruz Roja: Formación Básica Institucional](#ong-cruz-roja-formación-básica-institucional)
+  - [Programación en .NET](#programación-en-net)
+  - [Construcción de Páginas Web](#construcción-de-páginas-web)
+    - [Certificado de profesionalidad parcial: Construcción de páginas web (MF0950_2)](#certificado-de-profesionalidad-parcial-construcción-de-páginas-web-mf0950_2)
+  - [Introducción a la Red de Internet](#introducción-a-la-red-de-internet)
+
+## **¿Quién es Pablo Álvarez Corredera?**
 
 Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank" rel="nofollow,noreferrer"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
 
@@ -24,36 +56,29 @@ Nunca he encontrado la fortuna alrededor de la web. Años intentando darle senti
 
 No descarto que la culpa sea mía por no saber centrarme en una temática concreta, lo que dificulta la gestión cada vez más; pero bueno, yo lo intento..
 
-## **¿Qué estudios he realizado?** <!-- omit in toc -->
+## **¿Qué estudios he realizado?**
 
-- [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
-- [Dinamización en Redes Sociales](#dinamización-en-redes-sociales)
-- [Diseño de proyectos educativos sobre seguridad en la red](#diseño-de-proyectos-educativos-sobre-seguridad-en-la-red)
-- [Adicción a la tecnología](#adicción-a-la-tecnología)
-- [Introducción al desarrollo web (iDESWEB)](#introducción-al-desarrollo-web-idesweb)
-- [Técnicas de Creatividad](#técnicas-de-creatividad)
-- [Empieza con el inglés: aprende las mil palabras más usadas](#empieza-con-el-inglés-aprende-las-mil-palabras-más-usadas)
-- [Curso de Desarrollo de Apps Móviles](#curso-de-desarrollo-de-apps-móviles)
-- [Espionaje y Cibervigilancia](#espionaje-y-cibervigilancia)
-- [Taller de Emprendimiento](#taller-de-emprendimiento)
-- [Innovación en la Relación con los Clientes: E-Commerce y Community Management](#innovación-en-la-relación-con-los-clientes-e-commerce-y-community-management)
-  - [Comercio Electrónico](#comercio-electrónico)
-  - [Administración de clientes](#administración-de-clientes)
-  - [Community Manager](#community-manager)
-  - [Google Adwords](#google-adwords)
-  - [Innovando el uso de internet en la relación con los clientes](#innovando-el-uso-de-internet-en-la-relación-con-los-clientes)
-  - [Prácticas](#prácticas)
-- [Internalización del SEO](#internalización-del-seo)
-- [Unimooc: Emprende](#unimooc-emprende)
-- [Innotools: Transforma tu idea de negocio](#innotools-transforma-tu-idea-de-negocio)
-- [Competencias Digitales Básicas](#competencias-digitales-básicas)
-- [Mediador en Prevención de Conductas Violentas en Jóvenes](#mediador-en-prevención-de-conductas-violentas-en-jóvenes)
-- [Sensibilización en Igualdad de Oportunidades entre Mujeres y Hombres](#sensibilización-en-igualdad-de-oportunidades-entre-mujeres-y-hombres)
-- [ONG Cruz Roja: Formación Básica Institucional](#ong-cruz-roja-formación-básica-institucional)
-- [Programación en .NET](#programación-en-net)
-- [Construcción de Páginas Web](#construcción-de-páginas-web)
-  - [Certificado de profesionalidad parcial: Construcción de páginas web (MF0950_2)](#certificado-de-profesionalidad-parcial-construcción-de-páginas-web-mf0950_2)
-- [Introducción a la Red de Internet](#introducción-a-la-red-de-internet)
+A continuación, vas a encontrar una correlación de los estudios que he realizado a lo largo de mi vida; junto a su correspondiente titulación.
+
+La mayoría, son estudios de poca relevancia, pero a pesar de ello considero que deben estar aquí, puesto que también me han costado tiempo, su realización.
+
+Oficialmente, soy técnico de sistemas microinformáticos y redes, y también he aprobado algunos módulos del Ciclo Formativo de Desarrollo de Aplicaciones Web.
+
+Desde, hace ya más de 4 años, me he convertido en un auténtico adicto a la tecnología.
+
+Me encanta conocer cómo, por qué, para qué y todo lo que sea posible saber sobre los lenguajes de programación, frameworks, software, hardware, nuevas metodologías de programación, desarrollo, diseño y todo lo que tenga que ver con la evolución tecnológica actual.
+
+## **¿Cómo comencé en Internet?**
+
+Siempre me gusto escribir. He tenido varios blogs a lo largo de mi vida, el que más tiempo aguanto con vida: Fue una página dentro de una antigua plataforma que se denominaba Windows Live Spaces (un proyecto con el que Microsoft aspiraba a competir contra Blogger, en su momento).
+
+Fuí moderador de las salas de Chat de IRC, gestione varios Xat.COM, jugue a Second Life e incluso hasta a Imvu.
+
+Llegue a tener MySpace, Tumbler, Tuenti.. Incluso hasta Orkut; aunque jamás he estado tan involucrado en la red, como ahora.
+
+Además, sufrí varios intentos de crear un Wordpress y otros tantos intentos de crear mi propio blog de Blogger sobre música.
+
+Colabore en páginas como intercambioswarez o intercambiosvirtuales, en su día.
 
 ### Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"
 
