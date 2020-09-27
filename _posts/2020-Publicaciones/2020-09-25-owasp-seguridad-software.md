@@ -14,8 +14,8 @@ author: rosepac
 tags:
 - Seguridad
 - Software
-thumbnail: https://ciberninjas.com/assets/img/blog/OWASP-logo.webp
-feature-img: https://ciberninjas.com/assets/img/blog/OWASP-logo.webp
+thumbnail: /assets/img/blog/OWASP-logo.webp
+feature-img: /assets/img/blog/OWASP-logo.webp
 bootstrap: true
 comments: false
 
