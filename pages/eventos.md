@@ -65,7 +65,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 3 de Octubre  <!-- omit in toc -->
 
-- PyConES 2020 (https://2020.es.pycon.org/){:target="_blank" rel="nofollow, noreferrer"}
+- PyConES 2020 (https://2020.es.pycon.org/){:target="_blank" rel="nofollow, noreferrer"} 🎥 [Directo](https://www.youtube.com/channel/UCyth_6hqft9a7B_thdwYyww){:target="_blank" rel="nofollow, noreferrer"} De 9:30 a 21:00 H. Esp.
 - Conferencia de Tecnología [vOpen 2020](https://bit.ly/vopentech){:target="_blank" rel="nofollow, noreferrer"}
 - (14:00) TotoConf 🎥 [DIRECTO](https://www.twitch.tv/totoconf_toitospower){:target="_blank" rel="nofollow, noreferrer"}
 
@@ -80,6 +80,10 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 13 de Octubre  <!-- omit in toc -->
 
 - (19:00 PM) Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 14 de Octubre  <!-- omit in toc -->
+
+- (18:00 PM) Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 17 de Octubre  <!-- omit in toc -->
 
