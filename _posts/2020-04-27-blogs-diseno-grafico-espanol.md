@@ -43,7 +43,7 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 ![graffica, uno de los mejores blogs de diseño](/assets/img/blog/blog-diseno-espanol/1-blog-diseno.webp "Mejores Blogs de diseño 2020: Graffica")
 
-[Graffica](https://graffica.info/ "Graffica"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Graffica](https://graffica.info/ "Graffica"){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[2. Domestika](){:target="_blank" rel="nofollow,noreferrer"}**
 
