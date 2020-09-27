@@ -35,99 +35,116 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 **¡¡¡Detrás de cada enlace te espera una grata sorpresa!!!**
 
-- []
+- [1. **Graffica**](#1-graffica)
+- [2. **Domestika**](#2-domestika)
+- [3. **Enfoque Gaussiano**](#3-enfoque-gaussiano)
+- [4. **Cosas Visuales**](#4-cosas-visuales)
+- [5. **Macho Dominante**](#5-macho-dominante)
+- [6. **Rayitas Azules**](#6-rayitas-azules)
+- [7. **Old Skull**](#7-old-skull)
+- [8. **25 Horas**](#8-25-horas)
+- [9. **No Me Toques las Helvéticas**](#9-no-me-toques-las-helvéticas)
+- [10. **The City Lovers You**](#10-the-city-lovers-you)
+- [11. **Roc21**](#11-roc21)
+- [12. **Red Box**](#12-red-box)
+- [13. **Brandemia**](#13-brandemia)
+- [14. **Summa**](#14-summa)
+- [15. **Nice Fucking Graphics**](#15-nice-fucking-graphics)
+- [16. **Área Visual**](#16-área-visual)
+- [17. **Enkil**](#17-enkil)
+- [18. **Makamo**](#18-makamo)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## [**1. Graffica**](){:target="_blank" rel="nofollow,noreferrer"}
+## 1. **Graffica**
 
 ![graffica, uno de los mejores blogs de diseño](/assets/img/blog/blog-diseno-espanol/1-blog-diseno.webp "Mejores Blogs de diseño 2020: Graffica")
 
 [Graffica](https://graffica.info/ "Graffica"){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[2. Domestika](){:target="_blank" rel="nofollow,noreferrer"}**
+## 2. **Domestika**
 
 ![Domestika](/assets/img/blog/blog-diseno-espanol/2-blog-diseno.webp "Domestika")
 
 [Domestika](https://www.domestika.org/es/blog "Domestika"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[3. Enfoque Gaussiano](){:target="_blank" rel="nofollow,noreferrer"}**
+## 3. **Enfoque Gaussiano**
 
 ![Enfoque Gaussiano](/assets/img/blog/blog-diseno-espanol/3-blog-diseno.webp "Enfoque Gaussiano")
 
 [Enfoque Gaussiano](https://www.enfoquegaussiano.com/ "Enfoque Gaussiano"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[4. Cosas Visuales](){:target="_blank" rel="nofollow,noreferrer"}**
+## 4. **Cosas Visuales**
 
 ![Cosas Visuales](/assets/img/blog/blog-diseno-espanol/4-blog-diseno.webp "Cosas Visuales")
 
 [Cosas Visuales](https://kutt.it/cosas-visuales "Cosas Visuales"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[5. Macho Dominante](https://www.machodominante.es/){:target="_blank" rel="nofollow,noreferrer"}**
+## 5. **Macho Dominante**
 
 ![Macho Dominante](/assets/img/blog/blog-diseno-espanol/5-blog-diseno.webp "Macho Dominante")
 
-[Macho Dominante]( "Macho Dominante"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Macho Dominante](https://www.machodominante.es/ "Macho Dominante"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[6. Rayitas Azules](https://www.rayitasazules.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 6. **Rayitas Azules**
 
 ![Rayitas Azules](/assets/img/blog/blog-diseno-espanol/6-blog-diseno.webp "Rayitas Azules")
 
-[Rayitos Azules]( "Rayitos Azules"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Rayitos Azules](https://www.rayitasazules.com/ "Rayitos Azules"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[7. Old Skull](https://www.oldskull.net/){:target="_blank" rel="nofollow,noreferrer"}**
+## 7. **Old Skull**
 
 ![Old Skull](/assets/img/blog/blog-diseno-espanol/7-blog-diseno.webp "Old Skull")
 
-[Old Skull]( "Old Skull"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Old Skull](ttps://www.oldskull.net/ "Old Skull"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[8. 25 Horas](https://25-horas.com/){:target="_blank" rel="nofollow,noreferrer"}**
+## 8. **25 Horas**
 
 ![25 Horas](/assets/img/blog/blog-diseno-espanol/8-blog-diseno.webp "25 Horas")
 
-[25 Horas]( "25 Horas"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[25 Horas](https://25-horas.com/ "25 Horas"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[9. No Me Toques las Helvéticas](){:target="_blank" rel="nofollow,noreferrer"}**
+## 9. **No Me Toques las Helvéticas**
 
 ![No me toques las helvéticas](/assets/img/blog/blog-diseno-espanol/9-blog-diseno.webp "No me toques las helvéticas")
 
 [No me toques las Helvéticas](https://kutt.it/nometoqueslashelveticas "No me toques las Helvéticas"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[10. The City Lovers You](https://thecitylovesyou.com/category/arte/){:target="_blank" rel="nofollow,noreferrer"}**
+## 10. **The City Lovers You**
 
 ![The City Lovers You](/assets/img/blog/blog-diseno-espanol/10-blog-diseno.webp "The City Lovers You")
 
-[The City Lovers You]( "The City Lovers You"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[The City Lovers You](https://thecitylovesyou.com/category/arte/ "The City Lovers You"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[11. Roc21](){:target="_blank" rel="nofollow,noreferrer"}**
+## 11. **Roc21**
 
 ![Roc 21](/assets/img/blog/blog-diseno-espanol/11-blog-diseno.webp "Roc 21")
 
 [Roc 21](https://www.roc21.com/tag/diseno-grafico/ "Roc 21"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[12. Red Box](){:target="_blank" rel="nofollow,noreferrer"}**
+## 12. **Red Box**
 
 ![Red Box](/assets/img/blog/blog-diseno-espanol/12-blog-diseno.webp "Red Box")
 
 [Red Box](https://redboxinnovation.com/inspirate/ "Red Box"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[13. Brandemia](){:target="_blank" rel="nofollow,noreferrer"}**
+## 13. **Brandemia**
 
 ![Brandemia](/assets/img/blog/blog-diseno-espanol/13-blog-diseno.webp "Brandemia")
 
 [Brandemia](http://www.brandemia.org/ "Brandemia"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[14. Summa](){:target="_blank" rel="nofollow,noreferrer"}**
+## 14. **Summa**
 
 ![Summa](/assets/img/blog/blog-diseno-espanol/14-blog-diseno.webp "Summa")
 
 [Summa](https://summa.es/blog/ "Summa"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **[15. Nice Fucking Graphics](){:target="_blank" rel="nofollow,noreferrer"}**
+## 15. **Nice Fucking Graphics**
 
 ![Nice Fucking Graphics](/assets/img/blog/blog-diseno-espanol/15-blog-diseno.webp "Nice Fucking Graphics")
 
