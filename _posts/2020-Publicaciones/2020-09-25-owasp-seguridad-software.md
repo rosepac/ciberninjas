@@ -1,23 +1,23 @@
 ---
 
-author: rosepac
-bootstrap: true
-comments: false
-tags:
-- Seguridad
-- Software
-thumbnail: https://ciberninjas.com/assets/img/blog/OWASP-logo.webp
-feature-img: https://ciberninjas.com/assets/img/blog/OWASP-logo.webp
+published: true
+permalink: /owasp-fundacion-por-seguridad-software/
+canonical_URL: https://ciberninjas.com/owasp-fundacion-por-seguridad-software/
 title: '▷ OWASP: Una Fundación de Código Abierto por la Seguridad de las Aplicaciones'
 description: >-
   El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. A través de proyectos de software de código abierto liderados por la comunidad.
 excerpt: >-
   El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. A través de proyectos de software de código abierto liderados por la comunidad.
-canonical_URL: https://ciberninjas.com/owasp-fundacion-por-seguridad-software/
-permalink: /owasp-fundacion-por-seguridad-software/
 date: 2020-09-26 16:02:32
 last_modified_at: 
-published: true
+author: rosepac
+tags:
+- Seguridad
+- Software
+thumbnail: https://ciberninjas.com/assets/img/blog/OWASP-logo.webp
+feature-img: https://ciberninjas.com/assets/img/blog/OWASP-logo.webp
+bootstrap: true
+comments: false
 
 ---
 
