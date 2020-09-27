@@ -1,6 +1,4 @@
----
-layout: page
----
+--- layout: page ---
 
 <!-- Html Elements for Search -->
 <input type="text" id="search-input" placeholder="Escribe lo que desees.." class="search-bar" autofocus>
@@ -19,7 +17,7 @@ layout: page
             json: '{{ "/assets/data/search.json" | relative_url }}',
             searchResultTemplate: '<div class="search-title"><a href="{url}"><h3> {title}</h3></a><div class="meta">{date} <div class="right"><i class="fa fa-tag"></i> {tags}</div></div><p>{excerpt}</p></div><hr> ',
             noResultsText: '{{ site.data.language.str_no_result_found | default: "Sin resultado" }}',
-            limit: 10,
+            limit: 25,
             fuzzy: false,
             exclude: []
         })
