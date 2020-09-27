@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://ciberninjas.com"
-title: Ciberninjas
-description: "El Jardín Digital del Saber Binario 🌱 Los mejores recursos para aprender programación, desarrollo y diseño web"
+title: "Ciberninjas: El Jardín Digital del Saber Binario"
+description: Actualidad, noticias y eventos de desarrollo web, programación y diseño; para desarrolladores, programadores y diseñadores de habla hispana. 
 # Configuración
 author: Pablo Álvarez Corredera
 # : Libros PDF, cursos, tutoriales y eventos
@@ -12,7 +12,7 @@ favicon: 'assets/favicon.ico'
 header_text: 'Jardín Digital del Saber Binario'
 header_feature_image: '/assets/img/portada.webp'
 footer_text: >
-  © 2020 Ciberninjas. Recursos de Programación, Desarrollo y Tecnología<br/> Desarrollado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
+  © 2020 Ciberninjas. Actualidad, noticias y eventos de desarrollo web, programación y diseño.<br/> Creado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
 
 # Blog
 excerpt: false                                       # Or "truncate" (first 250 characters), "false" to disable
@@ -29,6 +29,8 @@ footer_icons:                                           # In _data/social.yml
 share_buttons:                                          # In _data/social.yml
 authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
+# SEO
+lang: es_ES
 # PAGINATION
 paginate: 10
 paginate_path: "/blog/page:num"
