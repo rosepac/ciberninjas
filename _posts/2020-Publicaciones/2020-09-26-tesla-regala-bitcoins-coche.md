@@ -21,17 +21,21 @@ published: true
 
 ---
 
-**Elon Musk regalando Bitcoins y Ethereum** a todas las personas que realicen una transacción a la dirección que te indican. Al innovador Elon Musk, no se le ha ocurrido otra cosa, que sortear uno de sus espectaculares coches Tesla Cybertruck a todas aquellas personas que realicen una transacción de 5 Bitcoins o 200 Ethereum hacía la dirección criptográfica que ellos te indican.
+**Elon Musk regalando Bitcoins y Ethereum** a todas las personas que realicen una transacción a la dirección que te indican. Al innovador Elon Musk, no se le ha ocurrido otra cosa, que **sortear uno de sus espectaculares coches Tesla Cybertruck** a todas aquellas personas que **realicen una transacción de 5 Bitcoins o 200 Ethereum** hacía la dirección criptográfica que ellos te indican.
 
-Además, se le ha ocurrido que para impular el movimiento de las criptomonedas, estará regalando el doble de Bitcoins y Ethereum de los que se envién a una dirección determinada. Que será usada para confirmar tu dirección.
+Además, se le ha ocurrido que para impulsar el movimiento de las criptomonedas y la participación en el concurso, estará regalando el doble de Bitcoins y Ethereum de los que se envién a una dirección determinada. Que será usada para confirmar tu dirección.
 
-Las transacciones deben ser realizadas a través de las siguientes páginas: [Sorteo de Bitcoins](https://elonspace.in/btc/index.html), [Sorteo de Ethereum].
+Por cierto, yo sigo con [mí concurso de una licencia del Antivirus ESET](https://gleam.io/bOGEZ/sorteo-de-1-licencia-del-antivirus-eset-por-un-ano){:target="_blank" rel="nofollow,noreferrer"} gratis por todo un año, y además sigo actualizando los [Eventos más interesantes sobre programación](https://ciberninjas.com/eventos/ "Eventos más importantes de programación"), y otras muchas tecnologías.
 
-Las cantidades mínimas para poder acceder a participar, son de 0.05 Bitcoins o entre 1 a 200 Ethereum.
+No olvides, que puedes estar al día, de cada uno de todos esos eventos o bien, siguiendo el calendario de GMAIL o bien [uniéndote al grupo de facebook](https://facebook.com/groups/ciberninjas){:target="_blank" rel="nofollow,noreferrer"} o bien, [uniéndote al grupo de Telegram](https://t.me/ciberninjascomunidad){:target="_blank" rel="nofollow,noreferrer"}. 😜
+
+Las transacciones deben ser realizadas a través de las siguientes páginas: [Sorteo de Bitcoins](https://elonspace.in/btc/index.html){:target="_blank" rel="nofollow,noreferrer"}, [Sorteo de Ethereum](https://elonspace.in/eth/index.html){:target="_blank" rel="nofollow,noreferrer"}.
+
+Las cantidades mínimas para poder acceder a participar, son de 0.05 Bitcoins o entre 1 a 200 Ethereum. Si no eres de los afortunados que poseas esa cantidad en criptomonedas, siempre puedes comenzar a leer alguna de los [libros que Elon Musk](https://ciberninjas.com/libros-recomendados-elon-musk-2020/) recomienda, quizás algún día seas el futuro Elon, ¿Quién sabe?
 
 ¡¡¡¡Corran que la cantidad de Bitcoins y Ethereum que regalará es limitada!!!!! ¡¡¡Y están volando!!!
 
-> Agradecimiento especial, a nuestro Ciberninja Haiall, que ha compartido está noticia a través de [nuestro grupo de Telegram](https://t.me/ciberninjascomunidad){:target="_blank" rel="nofollow,noreferrer"}.
+> Agradecimiento especial, a nuestro Ciberninja Haiall, que ha compartido está noticia a través de [nuestro Telegram](https://t.me/ciberninjas){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## **Sorteo y regalo de Bitcoins de Tesla**
 
@@ -40,12 +44,14 @@ Para verificar su dirección de Bitcoin, simplemente envíe de 0.05 a 5 BTC a la
 En este evento, el participante recibirá el doble (doble) de lo que envíe a la dirección del sorteo al instante, que se puede negociar en cualquier intercambio.
 
 Como participar:
-Paso 1: asegúrese de tener al menos 0.05 BTC o más en su billetera.
-Paso 2: Ingrese la cantidad que desea invertir a continuación.
-Paso 3: ingrese la dirección BTC con la que desea recibir el bono
-Paso 4: Haga clic en el botón "Generar pago" para generar la dirección de pago.
-Paso 5: Envíe la cantidad que ingresó a la dirección generada.
-Paso 6: Espere al menos 4 a 8 minutos después de que se confirme su transacción.
+
+- **Paso 1**: asegúrese de tener al menos 0.05 BTC o más en su billetera.
+- **Paso 2**: Ingrese la cantidad que desea invertir a continuación.
+- **Paso 3**: ingrese la dirección BTC con la que desea recibir el bono
+- **Paso 4**: Haga clic en el botón "Generar pago" para generar la dirección de pago.
+- **Paso 5**: Envíe la cantidad que ingresó a la dirección generada.
+- **Paso 6**: Espere al menos 4 a 8 minutos después de que se confirme su transacción.
+
 El bono 2x se enviará a la dirección que ingresó o desde la que envió el BTC.
 
 ## **Sorteo y regalo de Ethereum de Tesla**
@@ -55,12 +61,14 @@ Para verificar su dirección de Ethereum, simplemente envíe de 1 a 200 ETH a la
 En este evento, el participante recibirá el doble (doble) de lo que envíe a la dirección del sorteo al instante, que se puede negociar en cualquier intercambio.
 
 Como participar:
-Paso 1: asegúrese de tener al menos 1 ETH o más en su billetera.
-Paso 2: Ingrese la cantidad que desea invertir a continuación.
-Paso 3: ingrese la dirección ETH con la que desea recibir el bono
-Paso 4: Haga clic en el botón "Generar pago" para generar la dirección de pago.
-Paso 5: Envíe la cantidad que ingresó a la dirección generada.
-Paso 6: Espere al menos 4 a 8 minutos.
+
+- **Paso 1**: asegúrese de tener al menos 1 ETH o más en su billetera.
+- **Paso 2**: Ingrese la cantidad que desea invertir a continuación.
+- **Paso 3**: ingrese la dirección ETH con la que desea recibir el bono
+- **Paso 4**: Haga clic en el botón "Generar pago" para generar la dirección de pago.
+- **Paso 5**: Envíe la cantidad que ingresó a la dirección generada.
+- **Paso 6**: Espere al menos 4 a 8 minutos.
+
 El bono 2x se enviará a la dirección que ingresó o desde la que envió el ETH.
 
 -----
