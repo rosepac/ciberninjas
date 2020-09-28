@@ -19,10 +19,19 @@ img: /assets/img/amazon/ciberninjas-prime-day.webp
 
 El [Prime Day 2020 pronto estará aquí](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y desde este enlace vas a poder encontrar absolutamente todas las mejores ofertas y chollos.. 🔥🔥🔥
 
+Obtén todos **los detalles y algunos consejos para aprovechar al máximo el Prime Day 2020**, a continuación.
+
+Algunas veces vale la pena esperar. Nos complace anunciar que Prime Day regresó justo a tiempo para la temporada navideña. El evento de este año se llevará a cabo del 13 al 14 de octubre y contará con ahorros increíbles y grandes descuentos en más de un millón de ofertas en todas las categorías.
+
+Este año, apoyar a las pequeñas empresas es más importante que nunca, y estamos diseñando Prime Day para apoyarlas con nuestra mayor promoción de pequeñas empresas. Desde ahora hasta el 12 de octubre, ofreceremos a los miembros Prime un crédito de $ 10 para usar en Prime Day cuando los miembros gasten $ 10 en artículos vendidos por pequeñas empresas seleccionadas en nuestra tienda. Para promover nuestro compromiso de ayudar a las pequeñas empresas durante COVID-19 y más allá, este Prime Day y durante la temporada navideña, gastaremos más de $ 100 millones en nuevas actividades promocionales para ayudar a las pequeñas empresas de todo el mundo a aumentar sus ventas y llegar a nuevos clientes. .
+
+Prime Day comienza en amazon.com/primeday a la medianoche PT del martes 13 de octubre y finaliza el miércoles 14 de octubre. Estas fechas son para miembros Prime de EE. UU., Reino Unido, EAU, España, Singapur, Países Bajos, México y Luxemburgo. , Japón, Italia, Alemania, Francia, China, Canadá, Bélgica, Austria, Australia y, participando por primera vez este año, Turquía y Brasil.
+
 Mientras tanto, puedes consultar [las mejores ofertas flash y rebajas diarias de Amazon 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/) desde [mi página de colecciones de Chollos de Amazon](https://ciberninjas.com/amazon/), en la que voy agregando nuevos productos rebajados casi a diario.
 
 - [**Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?**](#si-no-soy-miembro-prime-puedo-comprar-ofertas-en-prime-day)
 - [**¿Qué servicios interesantes ofrece Amazon?**](#qué-servicios-interesantes-ofrece-amazon)
+- [**Regala cheques Regalo para el Prime day 2020**](#regala-cheques-regalo-para-el-prime-day-2020)
 - [**¿Amazon ofrece ajustes de precios de Prime Day?**](#amazon-ofrece-ajustes-de-precios-de-prime-day)
 - [**¿Qué países participarán en Amazon Prime Day 2020?**](#qué-países-participarán-en-amazon-prime-day-2020)
 - [**¿Cómo puedo evitar ofertas falsas en Prime Day?**](#cómo-puedo-evitar-ofertas-falsas-en-prime-day)
@@ -33,13 +42,6 @@ Mientras tanto, puedes consultar [las mejores ofertas flash y rebajas diarias de
   - [Las Mejores Ofertas de Apple del Amazon Prime Day](#las-mejores-ofertas-de-apple-del-amazon-prime-day)
   - [Las Mejores Ofertas de Dispositivos de Amazon del Amazon Prime Day](#las-mejores-ofertas-de-dispositivos-de-amazon-del-amazon-prime-day)
 - [Las Mejores Ofertas de Robótica del Amazon Prime Day](#las-mejores-ofertas-de-robótica-del-amazon-prime-day)
-  - [Ofertas de Dispositivos Inteligentes o Smart Home](#ofertas-de-dispositivos-inteligentes-o-smart-home)
-  - [Ofertas de Portátiles / Laptops](#ofertas-de-portátiles--laptops)
-  - [Ofertas en Tablets](#ofertas-en-tablets)
-  - [Ofertas de Videojuegos](#ofertas-de-videojuegos)
-  - [Otras Ofertas](#otras-ofertas)
-  - [Ofertas de Smartwarches](#ofertas-de-smartwarches)
-  - [Cheques de Regalo](#cheques-de-regalo)
 - [Mejores Ofertas para Lectores](#mejores-ofertas-para-lectores)
   - [Kindle](#kindle)
   - [Kindle Unlimited](#kindle-unlimited)
@@ -60,11 +62,22 @@ Después de que termine el mes, puedes cancelar sin ningún tipo de compromiso. 
 
 ## **¿Qué servicios interesantes ofrece Amazon?**
 
-* [Amazon Prime](https://www.amazon.es/prime?tag=rosepac21)  
-* [Amazon Music Unlimited](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=rosepac21)  
-* [Amazon Prime Video](https://www.primevideo.com/?tag=rosepac21)  
-* [Amazon Business](https://www.amazon.es/descubreab?tag=rosepac21)  
-* [Amazon Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21)
+* [Amazon Prime](https://www.amazon.es/prime?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"}
+* [Amazon Music Unlimited](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"}
+* [Amazon Prime Video](https://www.primevideo.com/?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"}
+* [Amazon Business](https://www.amazon.es/descubreab?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"}
+* [Amazon Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"}
+
+## **Regala cheques Regalo para el Prime day 2020**
+
+[Cheques Regalo de Amazon](https://amzn.to/2lBCqOH){:target="_blank" rel="nofollow,noreferrer"}
+Desde 20 hasta 5.000 €.  
+[Cheques Regalo de Amazon Cumpleaños](https://amzn.to/2lAQgkk){:target="_blank" rel="nofollow,noreferrer"}
+Desde 20 hasta 5.000 €.  
+[Cheque Regalo PlayStation 4 Store](https://amzn.to/2lzZ222){:target="_blank" rel="nofollow,noreferrer" "Cheques regalo de Playstation 4 para Amazon Prime day 2020"}
+Desde 10 a 50 €.  
+[Cheque Regalo PlayStation 4 Store 100](https://amzn.to/2lCvkJT){:target="_blank" rel="nofollow,noreferrer"}
+Regalo de 100 € para la Playstation Store.
 
 ## **¿Amazon ofrece ajustes de precios de Prime Day?**
 
@@ -80,9 +93,7 @@ No hay duda de que encontrarás grandes ofertas en Amazon Prime Day. Sin embargo
 
 ## **¿De qué otra manera puedo ahorrar dinero en Prime Day?**
 
-Se pueden lograr descuentos al respecto desde diferentes de los apartados de Amazon, por ejemplo:
-
-El 20% extra en productos reacondicionados, al realizar compras de [productos reacondicionados](https://amzn.to/2jXNOnE) se aplica un 20% extra.
+Se pueden lograr descuentos al respecto desde diferentes de los apartados de Amazon, por ejemplo: El 20% extra en productos reacondicionados, al realizar compras de [productos reacondicionados](https://amzn.to/2jXNOnE) se aplica un 20% extra.
 
 Más de 200.000 productos sobre los que se aplica un 20% EXTRA al tramitar la compra.
 
@@ -170,43 +181,32 @@ La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, queda
 ![](https://i.ibb.co/r3GtVTs/eleego.jpg)  
 [ELEGOO Conjunto Mas Completo y Avanzado de Iniciación](https://amzn.to/2ld0pUc) Compatible con MEGA2560 con Guías Tutorial en Español y Conjunto con Placa Controladora Compatible con MEGA2560, Servomotor, Motor Paso a Paso
 
-### Ofertas de Dispositivos Inteligentes o Smart Home
+### Ofertas de Dispositivos Inteligentes o Smart Home <!-- omit in toc -->
 
 [VER TODOS](https://amzn.to/2ldfHZ8)
 
-### Ofertas de Portátiles / Laptops
+### Ofertas de Portátiles / Laptops <!-- omit in toc -->
 
 [25% en portátiles HP, Lenovo y Acer](https://amzn.to/2LUZu6c)  
 [25 % en productos Gaming: portátiles, sobremesas y monitores](https://amzn.to/2k6kR8R)  
 [30% en una selección de Accesorios Gaming](https://amzn.to/2lcAXyb)  
 [Portátiles ultrafinos y convertibles. Más baratos](https://amzn.to/2Jzuk2p)
 
-### Ofertas en Tablets
+### Ofertas en Tablets <!-- omit in toc -->
 
 [25% en Tablets de Huawei, Samsung, Lenovo y más](https://amzn.to/2jZ1mPN)
 
-### Ofertas de Videojuegos
+### Ofertas de Videojuegos <!-- omit in toc -->
 
 [VER TODAS LAS OFERTAS](https://amzn.to/2k3VaFW)
 
-### Otras Ofertas
+### Otras Ofertas <!-- omit in toc -->
 
 Amazon inunda a sus miembros Prime con más de un millón de ofertas. Encontrarás descuentos en todo, desde [televisores 4K y de gama alta](https://amzn.to/2lcqH99) o televisores [más económicos](https://amzn.to/32sh07o) con descuentos de hasta un 40%; entre [miles de productos más](https://amzn.to/2lCB9XF).
 
-### Ofertas de Smartwarches
+### Ofertas de Smartwarches <!-- omit in toc -->
 
 Los [smartwatches de Samsung](https://amzn.to/2jXzuvq) podrás encontrarlos con hasta un 55% de descuento, ofertas de hasta un 30% al 40% de descuento en [las pulseras Fitbit](https://amzn.to/2ShXW7m) y descuentazos de hasta un 45% en [los relojes de entrenamiento de Garmin](https://amzn.to/2lza5sf) 30& en los relojes Polar(https://amzn.to/2lAOv6J)
-
-### Cheques de Regalo
-
-[Cheques Regalo de Amazon](https://amzn.to/2lBCqOH)  
-Desde 20 hasta 5.000 €.  
-[Cheques Regalo de Amazon Cumpleaños](https://amzn.to/2lAQgkk)  
-Desde 20 hasta 5.000 €.  
-[Cheque Regalo PlayStation 4 Store](https://amzn.to/2lzZ222)  
-Desde 10 a 50 €.  
-[Cheque Regalo PlayStation 4 Store 100](https://amzn.to/2lCvkJT)  
-Regalo de 100 € para la Playstation Store.
 
 ## Mejores Ofertas para Lectores
 
