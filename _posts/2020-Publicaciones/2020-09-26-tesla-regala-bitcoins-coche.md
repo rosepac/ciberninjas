@@ -8,7 +8,7 @@ tags:
 - Elon Musk
 thumbnail: /assets/img/blog/elon-space.webp
 feature-img: /assets/img/blog/elon-spacewebp
-title: '▷ Elon Musk: Regala criptomonedas Bitcoins y Ethereum además de sortear un automóvil Tesla Cybertruck'
+title: '▷ Elon Musk: Regala criptomonedas Bitcoins y Ethereum. Además de sortear un automóvil Tesla Cybertruck'
 description: >-
   Tesla y Elon Musk están sorteando un espectacular coche Tesla Cybertruck, además de regalar Bitcoins y Ethereums exclusivamente por participar en el sorteo.
 excerpt: >-
