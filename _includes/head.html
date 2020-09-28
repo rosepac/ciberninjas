@@ -62,7 +62,7 @@
     <meta name="twitter:description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 }}">
     <meta name="twitter:creator" content="@ciberninjas" />
     <meta name="twitter:card" content="{% unless page.thumbnail %}summary{% else %}summary_large_image{% endunless %}" />
-    <meta name="twitter:image" content="{{ '/' }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}" />
+    <meta name="twitter:image" content="{{ 'https://ciberninjas.com' }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}" />
     <!-- <meta name="twitter:image:alt" content=""> -->
 
     <!-- seo tags -->
