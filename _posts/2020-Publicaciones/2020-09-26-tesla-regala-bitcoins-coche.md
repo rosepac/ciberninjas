@@ -15,7 +15,7 @@ excerpt: >-
   Tesla y Elon Musk están sorteando un espectacular coche Tesla Cybertruck, además de regalar Bitcoins y Ethereums exclusivamente por participar en el sorteo.
 canonical_URL: https://ciberninjas.com/elon-musk-sorteo/
 permalink: /elon-musk-sorteo/
-date: 2020-09-26 13:02:32
+date: 2020-09-28 13:02:32
 last_modified_at: 
 published: true
 
