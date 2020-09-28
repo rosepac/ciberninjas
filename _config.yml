@@ -31,8 +31,22 @@ authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
 # SEO
 lang: es_ES
+logo: https://ciberninjas.com/assets/img/ciberninjas-emoji-160px.webp
 seo:
   name: "Ciberninjas: El Jardín Digital del Saber Binario"
+twitter:
+  username: ciberninjas
+  card: summary_large_image
+social:
+  name: Ciberninjas
+  links:
+    - https://twitter.com/ciberninjas
+    - https://www.facebook.com/ciberninjas
+    - https://www.linkedin.com/in/ciberninjas
+    - https://dev.to/rosepac
+    - https://t.me/ciberninjas
+    - https://github.com/rosepac
+    - https://instagram.com/ciberninjas
 # PAGINATION
 paginate: 10
 paginate_path: "/blog/page:num"
