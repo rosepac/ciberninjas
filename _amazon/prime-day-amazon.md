@@ -130,10 +130,6 @@ Más de 200.000 productos sobre los que se aplica un 20% EXTRA al tramitar la co
 > 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-[Conoce todo lo que desees sobre Amazon Prime ¡GO!](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){: .btn .btn--inverse .btn--large}
-
-> 🛑 PÁGINA ACTUALIZADA CON OFERTAS FLASH HASTA EL REGRESO DEL PRIME DAY DE AMAZON DEL AÑO 2020 🛑
-
 <!-- PRIME DAY DE AMAZON DEL 2020 -->
 <!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. -->
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
@@ -142,7 +138,9 @@ Más de 200.000 productos sobre los que se aplica un 20% EXTRA al tramitar la co
 
 Actualmente, las ofertas que vas a encontrar a continuación, se encuentran desactualizadas. Pero.. No te olvides de guardar está página, porque estaré añadiendo en ella todo lo mejor del Amazon Prime Day 2020.
 
-¡¡¡Nos vemos, haciendo más compras!!!
+¡¡¡Nos vemos, haciendo más compras online!!!
+
+![Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos](/assets/img/blog/28-amazonday-2020-1.webp "Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos")
 
 ### **Las Mejores Ofertas de Componentes de Ordenador del Amazon Prime Day** <!-- omit in toc -->
 
@@ -261,5 +259,3 @@ Los nuevos miembros pueden aprovechar una oferta de 30 días por 0 € que les d
 ## Sobre los enlaces <!-- omit in toc -->
 
 Sobre los enlaces de nuestras ofertas, se ha creado el artículo con la idea de ayudar. A cambio de ello, he tomado la licencia de agregar enlaces de afiliado; con los que podrás ayudarme haciendo clic en ellos de forma independiente, ya que así puedo ganar una comisión por cualquier compra que realices, sin que esto conlleve ningún costo adicional para ti.
-
-![Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos](/assets/img/blog/28-amazonday-2020-1.webp "Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos")
