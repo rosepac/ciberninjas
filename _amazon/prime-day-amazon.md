@@ -35,11 +35,15 @@ Prime Day comienza en amazon.com/primeday a la medianoche PT del martes 13 de oc
 
 ## **Apoyar a las pequeñas empresas en Prime Day**
 
-Comprando en las tiendas de Amazon ha permitido a cientos de miles de empresas más pequeñas mantener e incluso aumentar sus ventas a pesar de la crisis del COVID-19. Vender en nuestra tienda ayuda a las pequeñas empresas a llegar a cientos de millones de clientes y hacer crecer sus negocios, al mismo tiempo que nos ayuda a brindarles a los clientes una selección y conveniencia aún mayores. Es por eso que los vendedores externos, en su mayoría pequeñas y medianas empresas, ahora representan aproximadamente el 60% de las ventas de productos físicos en nuestra tienda, han creado aproximadamente 2.2 millones de empleos y están aumentando las ventas más rápido que nuestras propias ventas minoristas.
+Comprar en las tiendas de Amazon ha permitido a cientos de miles de pequeñas empresas mantener e incluso aumentar sus ventas a pesar de la crisis del COVID-19. Vender en nuestra tienda ayuda a las pequeñas empresas a llegar a cientos de millones de clientes y hace posible aumentar sus negocios.
 
-Nuestra asociación con las pequeñas empresas es beneficiosa para todos, y este año convertiremos Prime Day en un evento para celebrar las pequeñas empresas y ayudarlas a seguir creciendo. Estamos presentando algunas funciones nuevas para facilitar a los clientes la compra de artículos de pequeñas empresas en Prime Day, y una gran promoción para ayudarlos a ahorrar dinero cuando apoyan a pequeñas empresas seleccionadas.
+Al mismo tiempo que nos ayuda a brindarles a los clientes una selección y conveniencia aún mayores. Es por eso que los vendedores externos, en su mayoría pequeñas y medianas empresas, ahora representan aproximadamente el 60% de las ventas de productos físicosde Amazon, y eso quiere decir que han creado aproximadamente 2.2 millones de empleos y que se están aumentando las ventas a distancia incluso a través de la venta minorista.
 
-**Estas son algunas de las formas en que estamos ayudando a los clientes a apoyar a los propietarios de pequeñas empresas en Amazon este Prime Day**
+Nuestra asociación con las pequeñas empresas es beneficiosa para todos, y este año convertiremos **el Amazon Prime Day en un evento enfocado en ayudar a las pequeñas empresas y ayudarlas a seguir creciendo**.
+
+Estamos presentando algunas funciones nuevas para facilitar a los clientes la compra de artículos de pequeñas empresas durante el Prime Day, y una gran promoción para ayudar a los compradores ahorrando, cuando se esté apoyando a una pequeñas empresa.
+
+**Estas son algunas de las fórmulas con las que apoyaremos a los usuarios, siempre que compren a clientes a las pequeñas empresas en Amazon Prime Day**
 
 - **Colecciones seleccionadas:** puedes visitar [amazon.com/supportsmall](https://www.amazon.com/b?node=17879387011){:target="_blank" rerl="nofollow,noreferrer"} para encontrar listas seleccionadas de pequeñas empresas para apoyar antes y durante Prime Day.
 - **Obtenga $ 10 cuando gaste $ 10: desde** hoy hasta el 12 de octubre, los miembros Prime en los EE. UU. Obtendrán un crédito de $ 10 para gastar en Amazon en Prime Day cuando gasten $ 10 en artículos vendidos por pequeñas empresas seleccionadas. Financiamos esta promoción para conectar a los clientes con pequeñas empresas que venden en nuestras tiendas.
