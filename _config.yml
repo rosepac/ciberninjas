@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://ciberninjas.com"
-title: "Ciberninjas: El Jardín Digital del Saber Binario"
+title: "Ciberninjas"
 description: Actualidad, noticias y eventos de desarrollo web, programación y diseño; para desarrolladores, programadores y diseñadores de habla hispana. 
 # Configuración
 author: Pablo Álvarez Corredera
@@ -31,6 +31,8 @@ authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
 # SEO
 lang: es_ES
+seo:
+  name: "Ciberninjas: El Jardín Digital del Saber Binario"
 # PAGINATION
 paginate: 10
 paginate_path: "/blog/page:num"
