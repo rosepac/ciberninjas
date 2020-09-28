@@ -11,40 +11,66 @@ canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
 comments: false
 date: 2020-09-27 10:30:00 +0200
-thumbnail: /assets/img/amazon/ciberninjas-prime-day.webp
-feature-img: /assets/img/amazon/ciberninjas-prime-day.webp
-img: /assets/img/amazon/ciberninjas-prime-day.webp
+thumbnail: /assets/img/blog/28-amazonday-2020-1.webp
+feature-img: /assets/img/blog/28-amazonday-2020-1.webp
+img: /assets/img/blog/28-amazonday-2020-1.webp
 
 ---
 
 El [Prime Day 2020 pronto estará aquí](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y desde este enlace vas a poder encontrar absolutamente todas las mejores ofertas y chollos.. 🔥🔥🔥
 
-Obtén todos **los detalles y algunos consejos para aprovechar al máximo el Prime Day 2020**, a continuación.
+Vas a poder obtener todos **los detalles y algunos consejos para aprovechar al máximo el Prime Day 2020**, a continuación.
 
-Algunas veces vale la pena esperar. Nos complace anunciar que Prime Day regresó justo a tiempo para la temporada navideña. El evento de este año se llevará a cabo del 13 al 14 de octubre y contará con ahorros increíbles y grandes descuentos en más de un millón de ofertas en todas las categorías.
+Este año, el Amazon Prime Day se ha hecho esperar, pero a veces eso merece realmente la pena. Por ahora, en la espera, Amazon ya nos ha asombrado con sus [nuevos dispositivos inteligentes](https://ciberninjas.com/amazon-nuevo-hardware/); como [los nuevos Echo Dot y Echo Dot con Reloj](https://ciberninjas.com/amazon-echo-dot-2020/), [el nuevo Echo Show giratorio](https://ciberninjas.com/amazon-echo-show-2020/).
 
-Este año, apoyar a las pequeñas empresas es más importante que nunca, y estamos diseñando Prime Day para apoyarlas con nuestra mayor promoción de pequeñas empresas. Desde ahora hasta el 12 de octubre, ofreceremos a los miembros Prime un crédito de $ 10 para usar en Prime Day cuando los miembros gasten $ 10 en artículos vendidos por pequeñas empresas seleccionadas en nuestra tienda. Para promover nuestro compromiso de ayudar a las pequeñas empresas durante COVID-19 y más allá, este Prime Day y durante la temporada navideña, gastaremos más de $ 100 millones en nuevas actividades promocionales para ayudar a las pequeñas empresas de todo el mundo a aumentar sus ventas y llegar a nuevos clientes. .
+Además, de presentar los dispositivos dirigidos a contenidos multimedia, como [el nuevo Stick TV y el Stick TV Lite](https://ciberninjas.com/amazon-fire-stick-2020/) o [la interesante Fire TV Cube](https://ciberninjas.com/amazon-fire-tv-cube/). Que ya se encuentran a la venta, y es de esperar que a lo largo del Prime Day puedan comprarse a un precio impresionante.
+
+Luego de este repaso. Ahora volvamos al Amazon Prime Day, que regresa justo a tiempo para la vacaciones navideñas. El evento de este año se llevará a cabo del 13 al 14 de octubre y contará con ahorros increíbles y grandes descuentos en más de un millón de ofertas en todas las categorías.
+
+Este año, Amazon se va a centrar en apoyar a las pequeñas empresas es más importante que nunca, y estamos diseñando Prime Day para apoyarlas con nuestra mayor promoción de pequeñas empresas. Desde ahora hasta el 12 de octubre, ofreceremos a los miembros Prime un crédito de $ 10 para usar en Prime Day cuando los miembros gasten 10 euros en artículos vendidos por pequeñas empresas seleccionadas en nuestra tienda.
+
+Para promover nuestro compromiso de ayudar a las pequeñas empresas durante COVID-19 y más allá, este Prime Day y durante la temporada navideña, gastaremos más de $ 100 millones en nuevas actividades promocionales para ayudar a las pequeñas empresas de todo el mundo a aumentar sus ventas y llegar a nuevos clientes. .
 
 Prime Day comienza en amazon.com/primeday a la medianoche PT del martes 13 de octubre y finaliza el miércoles 14 de octubre. Estas fechas son para miembros Prime de EE. UU., Reino Unido, EAU, España, Singapur, Países Bajos, México y Luxemburgo. , Japón, Italia, Alemania, Francia, China, Canadá, Bélgica, Austria, Australia y, participando por primera vez este año, Turquía y Brasil.
 
+## **Apoyar a las pequeñas empresas en Prime Day**
+
+Comprando en las tiendas de Amazon ha permitido a cientos de miles de empresas más pequeñas mantener e incluso aumentar sus ventas a pesar de la crisis del COVID-19. Vender en nuestra tienda ayuda a las pequeñas empresas a llegar a cientos de millones de clientes y hacer crecer sus negocios, al mismo tiempo que nos ayuda a brindarles a los clientes una selección y conveniencia aún mayores. Es por eso que los vendedores externos, en su mayoría pequeñas y medianas empresas, ahora representan aproximadamente el 60% de las ventas de productos físicos en nuestra tienda, han creado aproximadamente 2.2 millones de empleos y están aumentando las ventas más rápido que nuestras propias ventas minoristas.
+
+Nuestra asociación con las pequeñas empresas es beneficiosa para todos, y este año convertiremos Prime Day en un evento para celebrar las pequeñas empresas y ayudarlas a seguir creciendo. Estamos presentando algunas funciones nuevas para facilitar a los clientes la compra de artículos de pequeñas empresas en Prime Day, y una gran promoción para ayudarlos a ahorrar dinero cuando apoyan a pequeñas empresas seleccionadas.
+
+**Estas son algunas de las formas en que estamos ayudando a los clientes a apoyar a los propietarios de pequeñas empresas en Amazon este Prime Day**
+
+- **Colecciones seleccionadas:** puedes visitar [amazon.com/supportsmall](https://www.amazon.com/b?node=17879387011){:target="_blank" rerl="nofollow,noreferrer"} para encontrar listas seleccionadas de pequeñas empresas para apoyar antes y durante Prime Day.
+- **Obtenga $ 10 cuando gaste $ 10: desde** hoy hasta el 12 de octubre, los miembros Prime en los EE. UU. Obtendrán un crédito de $ 10 para gastar en Amazon en Prime Day cuando gasten $ 10 en artículos vendidos por pequeñas empresas seleccionadas. Financiamos esta promoción para conectar a los clientes con pequeñas empresas que venden en nuestras tiendas.
+- **Compre en Amazon Live:** Destacaremos ofertas interesantes de pequeñas empresas en Amazon Live durante Prime Day. Sintonice ofertas y escuche directamente de los propietarios de negocios sobre sus productos e historias.
+- **Ofertas Prime Day:** este año, los miembros Prime de todo el mundo pueden comprar cientos de miles de ofertas Prime Day de pequeñas y medianas empresas.
+
+## **Solamente debes preguntarle a Alexa**
+
+Hemos agregado aún más formas para que Alexa te ayude a comprar este Prime Day. Sólo decir:
+
+- **"Alexa, ¿cuándo es Prime Day?"** Puedes pedirle a Alexa que te ayude a estar al tanto del Prime Day este año. Simplemente pregunte: "Alexa, ¿cuándo es Prime Day?" para guardar la fecha y mantenerse informado para el gran día.
+- **"Alexa, inscríbeme en Prime"** Si aún no eres miembro de Prime, puedes ganar $ 5 para gastar en Prime Day registrándote para obtener una membresía a través de Alexa. Para empezar, solo di "Alexa, regístrate en Prime".
+
+**No olvides ...**
+
+- **Consulta las ofertas en la tienda:** Prime Day no se limita a nuestras tiendas en línea. Como miembro Prime, puede visitar las ubicaciones físicas de Amazon para encontrar ofertas en la tienda en Prime Day. Esté atento a los detalles sobre las promociones en la tienda en Whole Foods Market, Amazon 4-star, Amazon Books, Amazon Pop Up y Amazon Fresh.
+- **AmazonSmile: los** clientes pueden visitar [smile.amazon.com](https://smile.amazon.com/) y encontrar exactamente la misma experiencia de Amazon: ofertas increíbles, amplia selección, opciones de entrega rápida y gratuita, con la ventaja adicional de que AmazonSmile donará una parte del precio de compra de las compras elegibles a la organización benéfica. de su elección. Los clientes ahora pueden comprar AmazonSmile en la última versión de la aplicación de Amazon abriendo la aplicación y buscando 'Configuración' en el menú principal (☰), toque 'AmazonSmile' y siga las instrucciones en pantalla para activar AmazonSmile en su teléfono.
+- **Participa para ganar** : Participa para tener la oportunidad de ganar el Sorteo de Prime Day Photos descargando la aplicación Amazon Photos, compartiendo una foto que muestre cómo Prime ofrece alegría, etiquetando Amazon Photos (@ amazon.photos en Instagram y @amazonphotos en Facebook y Twitter) y usando el hashtag #PrimeDayPhotos. Un total de 30 ganadores recibirán tarjetas de regalo de Amazon.com de $ 1,000 válidas para compras en Amazon.com. Obtenga detalles en [amazon.com/primedayphotos](http://www.amazon.com/primedayphotos) .
+
+<!-- https://blog.aboutamazon.com/shopping/announcing-prime-day-2020 -->
 Mientras tanto, puedes consultar [las mejores ofertas flash y rebajas diarias de Amazon 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/) desde [mi página de colecciones de Chollos de Amazon](https://ciberninjas.com/amazon/), en la que voy agregando nuevos productos rebajados casi a diario.
 
+- [**Apoyar a las pequeñas empresas en Prime Day**](#apoyar-a-las-pequeñas-empresas-en-prime-day)
+- [**Solamente debes preguntarle a Alexa**](#solamente-debes-preguntarle-a-alexa)
 - [**Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?**](#si-no-soy-miembro-prime-puedo-comprar-ofertas-en-prime-day)
-- [**¿Qué servicios interesantes ofrece Amazon?**](#qué-servicios-interesantes-ofrece-amazon)
+- [**¿Qué servicios interesantes te ofrece Amazon?**](#qué-servicios-interesantes-te-ofrece-amazon)
 - [**Regala cheques Regalo para el Prime day 2020**](#regala-cheques-regalo-para-el-prime-day-2020)
 - [**¿Amazon ofrece ajustes de precios de Prime Day?**](#amazon-ofrece-ajustes-de-precios-de-prime-day)
 - [**¿Qué países participarán en Amazon Prime Day 2020?**](#qué-países-participarán-en-amazon-prime-day-2020)
 - [**¿Cómo puedo evitar ofertas falsas en Prime Day?**](#cómo-puedo-evitar-ofertas-falsas-en-prime-day)
 - [**¿De qué otra manera puedo ahorrar dinero en Prime Day?**](#de-qué-otra-manera-puedo-ahorrar-dinero-en-prime-day)
-  - [Las Mejores Ofertas de Componentes de Ordenador del Amazon Prime Day](#las-mejores-ofertas-de-componentes-de-ordenador-del-amazon-prime-day)
-  - [Las Mejores Ofertas de Dispositivo de Diseño Gráfico del Amazon Prime Day](#las-mejores-ofertas-de-dispositivo-de-diseño-gráfico-del-amazon-prime-day)
-  - [Las Mejores Ofertas de Auriculares y Otros Dispositivos de Sonido del Amazon Prime Day](#las-mejores-ofertas-de-auriculares-y-otros-dispositivos-de-sonido-del-amazon-prime-day)
-  - [Las Mejores Ofertas de Apple del Amazon Prime Day](#las-mejores-ofertas-de-apple-del-amazon-prime-day)
-  - [Las Mejores Ofertas de Dispositivos de Amazon del Amazon Prime Day](#las-mejores-ofertas-de-dispositivos-de-amazon-del-amazon-prime-day)
-- [Las Mejores Ofertas de Robótica del Amazon Prime Day](#las-mejores-ofertas-de-robótica-del-amazon-prime-day)
-- [Mejores Ofertas para Lectores](#mejores-ofertas-para-lectores)
-  - [Kindle](#kindle)
-  - [Kindle Unlimited](#kindle-unlimited)
 
 ## **Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?**
 
@@ -60,7 +86,7 @@ Si has cancelado una membresía Prime en los últimos 12 meses, no podrás volve
 
 Después de que termine el mes, puedes cancelar sin ningún tipo de compromiso. Solo recuerda cancelar la suscripción, para que no te sigan cobrando posteriormente.
 
-## **¿Qué servicios interesantes ofrece Amazon?**
+## **¿Qué servicios interesantes te ofrece Amazon?**
 
 * [Amazon Prime](https://www.amazon.es/prime?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"}
 * [Amazon Music Unlimited](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"}
@@ -103,22 +129,24 @@ Más de 200.000 productos sobre los que se aplica un 20% EXTRA al tramitar la co
 [Conoce todo lo que desees sobre Amazon Prime ¡GO!](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){: .btn .btn--inverse .btn--large}
 
 > 🛑 PÁGINA ACTUALIZADA CON OFERTAS FLASH HASTA EL REGRESO DEL PRIME DAY DE AMAZON DEL AÑO 2020 🛑
->
-> Última Actualización: 2020/09/22
 
 <!-- PRIME DAY DE AMAZON DEL 2020 -->
 <!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. -->
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
 
-> [¡Sigue las Mejores Ofertas Flash!](https://kutt.it/ciberninjast)  
+> 🛑 PRODUCTOS Y ENLACES, SERÁN ACTUALIZADOS A LO LARGO DEL PRIME DAY 2020 🛑
 
-### Las Mejores Ofertas de Componentes de Ordenador del Amazon Prime Day
+Actualmente, las ofertas que vas a encontrar a continuación, se encuentran desactualizadas. Pero.. No te olvides de guardar está página, porque estaré añadiendo en ella todo lo mejor del Amazon Prime Day 2020.
+
+¡¡¡Nos vemos, haciendo más compras!!!
+
+### **Las Mejores Ofertas de Componentes de Ordenador del Amazon Prime Day** <!-- omit in toc -->
 
 ![Entrada de los Componentes de Ordenador](https://i.ibb.co/XssqD3C/amazon-prime-componentes-1.webp)
 
 En esta publicación podrás ver una selección de [las mejores ofertas de componentes](https://ciberninjas.com/ordenadores-componentes/) de ordenadores: tarjetas gráficas, placas base, fuentes de alimentación o “SAIS”.
 
-### Las Mejores Ofertas de Dispositivo de Diseño Gráfico del Amazon Prime Day
+### **Las Mejores Ofertas de Dispositivo de Diseño Gráfico del Amazon Prime Day** <!-- omit in toc -->
 
 [VER TODAS LAS OFERTAS](https://amzn.to/2jVmaYp)
 
@@ -128,7 +156,7 @@ En esta publicación podrás ver una selección de [las mejores ofertas de compo
 ![wacom2](https://i.ibb.co/nrwpzyz/wacom2.jpg)  
 [Wacom Intuos S Tableta Gráfica](https://amzn.to/2lB1wNC) Bluetooth Negra – Tableta Gráfica Inalámbrica para pintar, dibujar y editar fotos con 2 softwares creativos incluidos para descargar, compatible con Windows & Mac
 
-### Las Mejores Ofertas de Auriculares y Otros Dispositivos de Sonido del Amazon Prime Day
+### **Las Mejores Ofertas de Auriculares y Otros Dispositivos de Sonido del Amazon Prime Day** <!-- omit in toc -->
 
 [VER TODAS LAS OFERTAS](https://amzn.to/2ld3fIS)
 
@@ -138,7 +166,7 @@ En esta publicación podrás ver una selección de [las mejores ofertas de compo
 ![logitech](https://i.ibb.co/QfJrsjS/logitech.jpg)  
 [Logitech G430](https://amzn.to/2OcC27h) – Auriculares Gaming para PC, Xbox One, PS4 y Switch, Color Negro y Azul
 
-### Las Mejores Ofertas de Apple del Amazon Prime Day
+### Las Mejores Ofertas de Apple del Amazon Prime Day <!-- omit in toc -->
 
 Apple está ofreciendo en Amazon un descuento de hasta un [35% en dispositivos Apple](https://amzn.to/2lhZ66w). Solo hoy: en iPad, iPhone, iMac, teclados, fundas.
 
@@ -147,7 +175,7 @@ La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, queda
 * [Apple iPhone 6s Plus (de 32GB)](https://amzn.to/2xPA2Xo) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
 * [Apple iPhone 6s Plus (de 128GB)](https://amzn.to/2lAN3RQ) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
 
-### Las Mejores Ofertas de Dispositivos de Amazon del Amazon Prime Day
+### Las Mejores Ofertas de Dispositivos de Amazon del Amazon Prime Day <!-- omit in toc -->
 
 [VER TODAS LAS OFERTAS](https://amzn.to/2lCy221)
 
@@ -173,7 +201,7 @@ La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, queda
 ![Woox Bombilla](https://i.ibb.co/9Gb98fp/wooxbombilla.jpg)  
 [Woox Bombilla de luz inteligente](https://amzn.to/2lgVXDT) funciona con Alexa
 
-## Las Mejores Ofertas de Robótica del Amazon Prime Day
+## Las Mejores Ofertas de Robótica del Amazon Prime Day <!-- omit in toc -->
 
 ![](https://i.ibb.co/PwZKRFb/abox.jpg)  
 [ABOX Raspberry Pi 3 B+ Starter Kit](https://amzn.to/2lhaiQL) con Micro SD de 32GB Clase 10, 5V 3A Adaptador de Corriente con Interruptor, 2 Radiadores, Cable HDMI, Caja de Calidad, Lector de Tarjetas, Caja Negro: https://amzn.to/2lhaiQL
@@ -208,11 +236,11 @@ Amazon inunda a sus miembros Prime con más de un millón de ofertas. Encontrar�
 
 Los [smartwatches de Samsung](https://amzn.to/2jXzuvq) podrás encontrarlos con hasta un 55% de descuento, ofertas de hasta un 30% al 40% de descuento en [las pulseras Fitbit](https://amzn.to/2ShXW7m) y descuentazos de hasta un 45% en [los relojes de entrenamiento de Garmin](https://amzn.to/2lza5sf) 30& en los relojes Polar(https://amzn.to/2lAOv6J)
 
-## Mejores Ofertas para Lectores
+## Mejores Ofertas para Lectores <!-- omit in toc -->
 
 Si desea ponerse al día con las lecturas de verano , a través de Amazon’s Prime Day hay muchas ofertas para ayudarlo a mantenerse ocupado con los libros durante el resto de la temporada. Prime Day 2020 comenzó esta mañana y tiene una duración de 48 horas, por lo que los Prime Members tienen hasta el final del día del martes para abastecerse de todo, desde una suscripción de Audible con descuento hasta una serie de libros populares disponibles en Kindle. Aquí, las mejores ofertas para los lectores en Amazon Prime Day 2020.
 
-### Kindle
+### Kindle <!-- omit in toc -->
 
 Varios modelos diferentes de Amazon Kindle están a la venta a través de Amazon Prime Day. Para los lectores que buscan llevar sus libros a la playa o la piscina, Paperwhite es un lector electrónico a prueba de agua que almacena entre 8GB y 32GB. Del mismo modo, el modelo más nuevo del Kindle básico. Las compras de cualquiera de los Kindle vienen con un crédito de eBooks.
 
@@ -220,7 +248,7 @@ Varios modelos diferentes de Amazon Kindle están a la venta a través de Amazon
 * [Nuevo Kindle Oasis](https://amzn.to/3aiUQZ7) ahora con luz frontal integrada, negro.
 * [Nuevo Kindle Oasis](https://amzn.to/3bbS33D) ahora con luz frontal integrada, de color dorado.
 
-### Kindle Unlimited
+### Kindle Unlimited <!-- omit in toc -->
 
 Se está ofreciendo otro servicio de suscripción digital con un descuento masivo en Amazon Prime Day. [Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21) permite a los lectores acceder a más de un millón de títulos en cualquier dispositivo a través de la aplicación Kindle.
 
@@ -229,3 +257,5 @@ Los nuevos miembros pueden aprovechar una oferta de 30 días por 0 € que les d
 ## Sobre los enlaces <!-- omit in toc -->
 
 Sobre los enlaces de nuestras ofertas, se ha creado el artículo con la idea de ayudar. A cambio de ello, he tomado la licencia de agregar enlaces de afiliado; con los que podrás ayudarme haciendo clic en ellos de forma independiente, ya que así puedo ganar una comisión por cualquier compra que realices, sin que esto conlleve ningún costo adicional para ti.
+
+![Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos](/assets/img/blog/28-amazonday-2020-1.webp "Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos")
