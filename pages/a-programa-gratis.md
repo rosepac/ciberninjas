@@ -4,13 +4,13 @@ layout: page
 author: rosepac
 bootstrap: true
 title: "Programar Gratis 👨‍💻"
+permalink: /programa-gratis/
+feature-img: /assets/img/paginas/amor-programacion.webp
+thumbnail: /assets/img/paginas/amor-programacion.webp
+img: /assets/img/paginas/amor-programacion.webp
 description: Recursos y repositorios impresionantes de miles de cursos, libros, infografías y mucho más. Con lo que convertirte un auténtico Ciberninja de la programación y el desarrollo.
 excerpt: Recursos y repositorios impresionantes de miles de cursos, libros, infografías y mucho más. Con lo que convertirte un auténtico Ciberninja de la programación y el desarrollo.
-permalink: /programa-gratis/
 canonical_URL: https://ciberninjas.com/programa-gratis/
-thumbnail: /assets/img/paginas/amor-programacion.webp
-feature-img: /assets/img/paginas/amor-programacion.webp
-img: /assets/img/paginas/amor-programacion.webp
 
 ---
 
