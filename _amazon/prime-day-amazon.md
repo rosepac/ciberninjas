@@ -11,9 +11,9 @@ canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
 comments: false
 date: 2020-09-27 10:30:00 +0200
-thumbnail: /assets/img/blog/28-amazonday-2020-1.webp
-feature-img: /assets/img/blog/28-amazonday-2020-1.webp
-img: /assets/img/blog/28-amazonday-2020-1.webp
+thumbnail: /assets/img/blog/amazonday-2020.webp
+feature-img: /assets/img/blog/amazonday-2020.webp
+img: /assets/img/blog/amazonday-2020.webp
 
 ---
 
@@ -140,7 +140,7 @@ Actualmente, las ofertas que vas a encontrar a continuación, se encuentran desa
 
 ¡¡¡Nos vemos, haciendo más compras online!!!
 
-![Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos](/assets/img/blog/28-amazonday-2020-1.webp "Amazon Prime Day 2020, mejores ofertas y chollos: Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos")
+![Amazon Prime Day 2020, mejores ofertas y chollos. Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos](/assets/img/blog/amazonday-2020.webp "Amazon Prime Day 2020, mejores ofertas y chollos. Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos")
 
 ### **Las Mejores Ofertas de Componentes de Ordenador del Amazon Prime Day** <!-- omit in toc -->
 
