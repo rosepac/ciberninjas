@@ -30,25 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Septiembre**
 
-### 🔔 26 de Septiembre  <!-- omit in toc -->
-
-- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
-- Women in Data Science Conference in Medellín 2020 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-women-in-data-science-conference-in-medellin-2020-wids-medellin-117105659179?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- Azure Live Latam 2020 👉 [REGISTRO](https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-- (20:00) Construyendo clusters de microservicios 👉 [REGISTRO](https://www.eventbrite.com/e/lets-kubernetes-registration-119712624683?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (00:00) Contenedores en Azure 👉 [REGISTRO](https://www.eventbrite.com/e/contenedores-en-azure-tickets-121574465499?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (02:00) Introducción a Programación Reactiva con Java y Groovy 👉 [REGISTRO](https://www.eventbrite.com.mx/e/introduccion-a-programacion-reactiva-tickets-121118700293?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 27 de Septiembre  <!-- omit in toc -->
-
-- (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
-
-### 🔔 28 de Septiembre  <!-- omit in toc -->
-
-- (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
-- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 29 de Septiembre  <!-- omit in toc -->
 
 - (12:00 hasta 20:30 PM) Congreso de Marketing Digital - [Registro](https://www.marketingandweb.es/congreso-marketing-digital/evento/){:target="_blank" rel="nofollow, noreferrer"}
@@ -894,3 +875,22 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - (02:00) Kotlin: El futuro del desarrollo móvil/Sesiones en vivo 👉 [REGISTRO](https://www.eventbrite.com.mx/e/kotlin-el-futuro-del-desarrollo-movilsesiones-en-vivo-tickets-117468666945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow,noreferrer"} (Noche del 25 al 26)
 
 - [EN] Octogatos Conf 2020 👉 [REGISTRO](https://www.eventbrite.com/e/octogatos-conf-2020-tickets-119199150869){:target="_blank" rel="nofollow,noreferrer"}
+
+### 🔔 26 de Septiembre  <!-- omit in toc -->
+
+- DevOpsDays Bogota 2020 Online 👉 [REGISTRO](https://www.eventbrite.es/e/registro-devopsdays-bogota-2020-online-114713017724?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} 🎥 [DIRECTO](https://www.airmeet.com/e/93768c80-f2af-11ea-ac9a-69890f953211)
+- Women in Data Science Conference in Medellín 2020 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-women-in-data-science-conference-in-medellin-2020-wids-medellin-117105659179?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Azure Live Latam 2020 👉 [REGISTRO](https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+- (20:00) Construyendo clusters de microservicios 👉 [REGISTRO](https://www.eventbrite.com/e/lets-kubernetes-registration-119712624683?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (00:00) Contenedores en Azure 👉 [REGISTRO](https://www.eventbrite.com/e/contenedores-en-azure-tickets-121574465499?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- (02:00) Introducción a Programación Reactiva con Java y Groovy 👉 [REGISTRO](https://www.eventbrite.com.mx/e/introduccion-a-programacion-reactiva-tickets-121118700293?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 27 de Septiembre  <!-- omit in toc -->
+
+- (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
+
+### 🔔 28 de Septiembre  <!-- omit in toc -->
+
+- (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
+- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
