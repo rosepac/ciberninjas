@@ -300,3 +300,29 @@ En la siguiente web, vas a poder encontrar 28 temas, en los que aprender una gra
 [▷ ¿Qué es un curso de especialización en la formación profesional?](/fp-cursos-especializacion/)
 
 ![Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-daw.webp "Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
+
+<!-- https://schema.org/EducationalAudience -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "name": "Hoja de ruta del FP de Desarrollo de Aplicaciones Web / DAW",
+  "learningResourceType": [
+    "hoja de ruta",
+    "recursos de aprendizaje",
+    "libros de desarrollo de aplicaciones web"
+    "cursos de desarrollo de aplicaciones web"
+    ],
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "Students"
+  },
+  "educationalLevel": {
+    "@type": "DefinedTerm",
+    "inDefinedTermSet": "US Grade Levels",
+    "name": "2",
+    "url": "http://purl.org/ASN/scheme/ASNEducationLevel/2"
+  },
+  "url": "http://example.org/lessonplan"
+}
+</script>

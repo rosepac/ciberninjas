@@ -10,9 +10,9 @@ canonical_URL: https://ciberninjas.com/ordenadores-componentes/
 published: true
 comments: false
 date: 2020-09-25 23:16:00 +0200
+feature-img: '/assets/img/amazon/ordenador-componentes.webp'
 thumbnail: '/assets/img/amazon/ordenador-componentes.webp'
 img: '/assets/img/amazon/ordenador-componentes.webp'
-feature-img: '/assets/img/amazon/ordenador-componentes.webp'
 ---
 
 Las mejore ofertas de Amazon en componentes para ordenadores. Si deseas crear tu propio ordenador por piezas, desde aquí, vas a encontrar los mejores chollos en placas base, tarjetas gráficas, fuentes de alimentación, cajas, discos duros, memorias ram, ventiladores, etc.
