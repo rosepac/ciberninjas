@@ -71,10 +71,15 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 - [Google Search Console](https://search.google.com/search-console/about){:target="_blank" rel="nofollow,noreferrer"} (Rendimientos / Consultas)
 - [Generador de Backlinks Automático](https://netgrows.com/es/backlinks-automaticos){:target="_blank" rel="nofollow,noreferrer"}
 - Siteliner [explora tu sitio web](http://www.siteliner.com){:target="_blank" rel="nofollow,noreferrer"}
-
+- [Generador de Datos Estructurados](https://technicalseo.com/tools/schema-markup-generator/){:target="_blank" rel="nofollow,noreferrer"}
 - [Exportar Palabras Clave](https://www.mecagoenlos.com/tools/){:target="_blank" rel="nofollow,noreferrer"} 1- Exporta hasta 50.000 KWs de Google Search Console. 2- Exporta también las URLs (query + page).3- Totalmente gratis. (2020)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+## Comprabadores de resultados enriquezidos
+
+- [Comprobar resultados de datos enriquecidos](https://search.google.com/test/rich-results "Comprobar resultados de datos enriquecidos"){:target="_blank" rel="nofollow,noreferrer"} De Google.
+- [Comprobar resultados de datos enriquecidos de Twitter](https://search.google.com/test/rich-results "Comprobar resultados de datos enriquecidos de Twitter"){:target="_blank" rel="nofollow,noreferrer"} De Twitter.
 
 ## Las Mejores Herramientas de Redes Sociales
 
