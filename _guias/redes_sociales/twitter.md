@@ -26,6 +26,10 @@ feature-img: /assets/img/paginas/portada-twitter-1.webp
 * [Cómo incrustar una línea de tiempo](https://help.twitter.com/en/using-twitter/embed-twitter-feed){:target="_blank" rel="nofollow,noreferrer"}
 * [Guías de Incrustación](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview){:target="_blank" rel="nofollow,noreferrer"}
 
+## **SEO en Twitter**
+
+* [Comprobar y Validar la Visualización de Enlaces en Twitter](https://cards-dev.twitter.com/validator "Comprobar y Validar la Visualización de Enlaces en Twitter"){:target="_blank" rel="nofollow,noreferrer"}
+
 ### Clientes de Twitter
 
 ## [Cawbird](https://github.com/IBBoard/cawbird#cawbird-104){:target="_blank" rel="nofollow,noreferrer"}

@@ -68,12 +68,18 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Montaje y Pruebas
+## **¿Cómo realizar pruebas y montar un blog con Jekyll?**
 
 * [Supercarga las páginas de GitHub con Jekyll y Travis CI](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075){:target="_blank" rel="nofollow,noreferrer"}
 
-## SEO
+## **¿Cómo implementar mejoras de SEO en Jekyll?**
 
+* [Plugin Jekyll SEO Tag](https://jekyll.github.io/jekyll-seo-tag/ "Plugin Jekyll SEO Tag, mejorando el SEO de t blog en Jekyll"){:target="_blank" rel="nofollow,noreferrer"} - Relacionado: [Esturctura de Datos](https://developers.google.com/search/docs/guides/intro-structured-data#structured-data "Introducción a la estructura de datos por los desarrolladores de Google"){:target="_blank" rel="nofollow,noreferrer"}
+* [Plugin Jekyll SEO Tag: Cómo usarlo](https://jekyll.github.io/jekyll-seo-tag/usage/ "¿Cómo usar el Plugin seo tag para Jekyll"){:target="_blank" rel="nofollow,noreferrer"}
+* [Plugin Jekyll SEO Tag: Cómo usarlo a nivel avanzado](http://jekyll.github.io/jekyll-seo-tag/advanced-usage/ "¿Cómo usar el Plugin seo tag Avanzado para Jekyll"){:target="_blank" rel="nofollow,noreferrer"}
+* [Plugin Jekyll SEO Tag: Repositorio de Github](https://github.com/jekyll/jekyll-seo-tag "Código fuente del Plugin SEO Tag para Jekyll"){:target="_blank" rel="nofollow,noreferrer"}
+* [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7){:target="_blank" rel="nofollow,noreferrer"}
+* [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7){:target="_blank" rel="nofollow,noreferrer"}
 * [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
@@ -245,8 +251,8 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
   - [Prose.io](#proseio)
   - [Forestry, Enlaces Directos](#forestry-enlaces-directos)
   - [CloudCannon](#cloudcannon)
-- [Montaje y Pruebas](#montaje-y-pruebas)
-- [SEO](#seo)
+- [**¿Cómo realizar pruebas y montar un blog con Jekyll?**](#cómo-realizar-pruebas-y-montar-un-blog-con-jekyll)
+- [**¿Cómo implementar mejoras de SEO en Jekyll?**](#cómo-implementar-mejoras-de-seo-en-jekyll)
 - [Plugins de Importación](#plugins-de-importación)
 - [Enlaces Externos](#enlaces-externos)
   - [Enlaces de Chuletas](#enlaces-de-chuletas)
