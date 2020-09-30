@@ -44,52 +44,26 @@ Las comunidades de programadores y desarrolladores están surgiendo y creciendo 
 Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de "¿Qué lenguaje de programación debo aprender?" Echemos un vistazo a los mejores lenguajes de programación para aprender en 2020 si quieren aumentar sus perspectivas futuras o simplemente aumentar sus conocimientos.
 
 - [1. **Python**](#1-python)
-  - [Beneficios de Python](#beneficios-de-python)
-  - [Contras de Python](#contras-de-python)
+  - [**Beneficios de Python**](#beneficios-de-python)
+  - [**Contras de Python**](#contras-de-python)
 - [2. **Java**](#2-java)
   - [**Beneficios de Java**](#beneficios-de-java)
   - [**Contras de Java**](#contras-de-java)
 - [3. **C++**](#3-c)
-  - [Beneficios de C++](#beneficios-de-c)
-  - [Contras de C++](#contras-de-c)
+  - [**Beneficios de C++**](#beneficios-de-c)
+  - [**Contras de C++**](#contras-de-c)
 - [4. **Javascript**](#4-javascript)
-  - [Beneficios de Javascript](#beneficios-de-javascript)
-  - [Contras de Javascript](#contras-de-javascript)
-  - [***Libros para Aprender Javascript**](#libros-para-aprender-javascript)
-  - [Motores de Javascript](#motores-de-javascript)
 - [5. **Go**](#5-go)
-  - [Beneficios de Go](#beneficios-de-go)
-  - [Contras de Go](#contras-de-go)
 - [6. **R**](#6-r)
-  - [Beneficios de R](#beneficios-de-r)
-  - [Contras de R](#contras-de-r)
 - [7. **Swift**](#7-swift)
-  - [Beneficios de Swift](#beneficios-de-swift)
-  - [Contras de Swift](#contras-de-swift)
 - [8. **PHP**](#8-php)
-  - [Beneficios de PHP](#beneficios-de-php)
-  - [Contras de PHP](#contras-de-php)
 - [9. C Sharp**](#9-c-sharp)
-  - [**Beneficios de C#**](#beneficios-de-c-1)
-  - [**Contras de C#**](#contras-de-c-1)
 - [10. **Matlab**](#10-matlab)
-  - [Beneficios de Matlab](#beneficios-de-matlab)
-  - [Contras de Matlab](#contras-de-matlab)
 - [11. **Dart**](#11-dart)
-  - [Beneficios de Dart](#beneficios-de-dart)
-  - [Contras de Dart](#contras-de-dart)
 - [12. **Ruby**](#12-ruby)
-  - [Beneficios de Ruby](#beneficios-de-ruby)
-  - [Contras de Ruby](#contras-de-ruby)
 - [13. **Haskell**](#13-haskell)
-  - [Beneficios de Haskell](#beneficios-de-haskell)
-  - [Contras de Haskell](#contras-de-haskell)
 - [14. **Rust**](#14-rust)
-  - [Beneficios de Rust](#beneficios-de-rust)
-  - [Contras de Rust](#contras-de-rust)
 - [15. **OCaml**](#15-ocaml)
-  - [Beneficios de OCaml](#beneficios-de-ocaml)
-  - [Contras de OCaml](#contras-de-ocaml)
 
 > 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 {: .notice--danger}
@@ -107,7 +81,7 @@ Muchas nuevas empresas están utilizando Python como su tecnología principal de
 **Nivel de dificultad**: Fácil de aprender. El mejor idioma para principiantes. 5 de 5.
 {: .notice--info}
 
-### Beneficios de Python
+### **Beneficios de Python**
 
 - Crear y usar clases y objetos es fácil gracias a las características de OOP.
 - Amplio soporte de biblioteca.
@@ -118,7 +92,7 @@ Muchas nuevas empresas están utilizando Python como su tecnología principal de
 - Proporciona soporte para una multitud de plataformas y sistemas.
 - Muy fácil de aprender y usar.
 
-### Contras de Python
+### **Contras de Python**
 
 - No apto para informática móvil.
 - Más lento en virtud de ser un lenguaje de programación interpretado.
@@ -179,7 +153,7 @@ El soporte de estas bibliotecas y la velocidad del lenguaje lo convierten en una
 **Nivel de dificultad**: Entre fácil y moderado. 3 de 5.
 {: .notice--info}
 
-### Beneficios de C++
+### **Beneficios de C++**
 
 - Una gran cantidad de compiladores y bibliotecas para trabajar con C++.
 - Facilita el acceso a objetos bloqueados u ocultos por otros lenguajes de programación C.
@@ -194,7 +168,7 @@ El soporte de estas bibliotecas y la velocidad del lenguaje lo convierten en una
 - Soporta manejo de excepciones y sobrecarga de funciones C++.
 - Amplia variedad de dominios de aplicación, como juegos, aplicaciones GUI y simulaciones matemáticas en tiempo real C++.
 
-### Contras de C++
+### **Contras de C++**
 
 - Sintaxis compleja C / C ++.
 - No es compatible con el espacio de nombres del programa C.
@@ -224,7 +198,7 @@ Por lo tanto, ahora con JS, puede usar un solo lenguaje de programación para lo
 **Nivel de dificultad**: Fácil de aprender. 4.5 de 5.
 {: .notice--info}
 
-### Beneficios de Javascript
+### **Beneficios de Javascript** <!-- omit in toc -->
 
 - JavaScript del lado del cliente es muy rápido. Se ejecuta inmediatamente dentro del navegador web ya que no hay requisitos de compilación.
 - Da una interfaz más rica a un sitio web.
@@ -238,7 +212,7 @@ Por lo tanto, ahora con JS, puede usar un solo lenguaje de programación para lo
 - Se utiliza para crear una amplia gama de aplicaciones..
 - Funciona excepcionalmente bien con otros lenguajes de programación..
 
-### Contras de Javascript
+### **Contras de Javascript** <!-- omit in toc -->
 
 - Ausencia de copia o método equivalente.
 - Permite solo una sola herencia.
@@ -250,11 +224,11 @@ No existe una web oficial de Javascript, por ende adjuntaremos la web de ECMAScr
 
 [⏩ Estándar de Javascript: ECMAScript](https://www.ecma-international.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### ***Libros para Aprender Javascript**
+### ***Libros para Aprender Javascript** <!-- omit in toc -->
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-### Motores de Javascript
+### Motores de Javascript <!-- omit in toc -->
 
 Los diferentes motores de Javascript que se están utilizando en la actualidad son los siguientes: el motor más importante es sin lugar a dudas V8. Desarrollado por Google y siendo el motor usado sobre Chromiun y todos los navegadores web deribados del mismo, además; de ir insertado en todos los dispositivos Android. Hacen que V8 sea con total seguridad el motor de renderizado de Javascript más usado del mundo.
 
@@ -276,7 +250,7 @@ Go, también conocido como Golang, es un lenguaje de programación creado por Go
 **Nivel de dificultad**: Entre fácil y moderado. 3 de 5.
 {: .notice--info}
 
-### Beneficios de Go
+### **Beneficios de Go** <!-- omit in toc -->
 
 - Respaldado por Google.
 - Ser un lenguaje de tipo estático lo hace más seguro.
@@ -286,7 +260,7 @@ Go, también conocido como Golang, es un lenguaje de programación creado por Go
 - Documentación inteligente.
 - Muy rápido ya que está compilado en código máquina.
 
-### Contras de Go
+### **Contras de Go** <!-- omit in toc -->
 
 - La ausencia de una máquina virtual hace que los programas complejos sean menos eficientes.
 - Interfaces implícitas.
@@ -305,7 +279,7 @@ El lenguaje de programación R es uno de los lenguajes de programación más uti
 **Nivel de dificultad**: Entre fácil y moderado para aprender. 3 de 5.
 {: .notice--info}
 
-### Beneficios de R
+### **Beneficios de R** <!-- omit in toc -->
 
 - Capacidad para ejecutarse sin problemas en varios sistemas operativos.
 - Comunidad activa y creciente.
@@ -314,7 +288,7 @@ El lenguaje de programación R es uno de los lenguajes de programación más uti
 - Altamente extensible.
 - Potente ecosistema de paquetes.
 
-### Contras de R
+### **Contras de R** <!-- omit in toc -->
 
 - Carece de características de seguridad.
 - No hay pautas estrictas de programación.
@@ -332,7 +306,7 @@ Swift es el lenguaje de programación que se utiliza para desarrollar aplicacion
 **Nivel de dificultad**: Entre fácil y moderado para aprender. 3.5 de 5.
 {: .notice--info}
 
-### Beneficios de Swift
+### **Beneficios de Swift** <!-- omit in toc -->
 
 - La gestión automática de la memoria evita pérdidas de memoria..
 - Respaldado por Apple.
@@ -345,7 +319,7 @@ Swift es el lenguaje de programación que se utiliza para desarrollar aplicacion
 - Mejora el intercambio de código y el proceso de desarrollo más rápido cuando se usa tanto para el desarrollo frontend como para el backend.
 - Muy rápido en comparación con otros lenguajes de programación populares, como Objective-C y Python.
 
-### Contras de Swift
+### **Contras de Swift** <!-- omit in toc -->
 
 - Apoyo y recursos comunitarios limitados.
 - Algo inestable debido a una llegada relativamente nueva a la escena de la programación..
@@ -362,7 +336,7 @@ PHP es uno de los lenguajes de programación de backend más populares. Aunque P
 **Nivel de dificultad**: Fácil de aprender. 4.5 de 5.
 {: .notice--info}
 
-### Beneficios de PHP
+### **Beneficios de PHP** <!-- omit in toc -->
 
 - Abundancia de marcos potentes.
 - Fácil de comenzar para hacer páginas web.
@@ -372,7 +346,7 @@ PHP es uno de los lenguajes de programación de backend más populares. Aunque P
 - Sin escasez de buenas herramientas de automatización para implementación y pruebas.
 - Admite paradigmas de programación funcional y orientada a objetos.
 
-### Contras de PHP
+### **Contras de PHP** <!-- omit in toc -->
 
 - El desarrollo de sitios web completamente en PHP es más lento en comparación con el uso de otras opciones.
 - Falta de seguridad..
@@ -390,7 +364,7 @@ C# también conocido por C Sharp, es un lenguaje de programación de propósito 
 **Nivel de dificultad**: Entre fácil y moderado de aprender.3.5 de 5.
 {: .notice--info}
 
-### **Beneficios de C#**
+### **Beneficios de C#** <!-- omit in toc -->
 
 - Los tipos de puntero no están permitidos, son mucho más seguros que C y C ++.
 - Capacidad para trabajar con bases de código compartidas.
@@ -403,7 +377,7 @@ C# también conocido por C Sharp, es un lenguaje de programación de propósito 
 - Apoya la seguridad tipo.
 - Compilación rápida y tiempos de ejecución.
 
-### **Contras de C#**
+### **Contras de C#** <!-- omit in toc -->
 
 - Permite punteros en bloques "inseguros".
 - Casi todas las variables son referencias y la desasignación de memoria está implícita usando un recolector de basura.
@@ -422,7 +396,7 @@ MATLAB es una herramienta de análisis estadístico que se utiliza en varias ind
 **Nivel de dificultad**: De fácil a moderado. 3 de 5.
 {: .notice--info}
 
-### Beneficios de Matlab
+### **Beneficios de Matlab** <!-- omit in toc -->
 
 - Facilita el desarrollo de la simulación científica gracias a una rica biblioteca incorporada.
 - La funcionalidad se puede ampliar enormemente agregando cajas de herramientas.
@@ -431,7 +405,7 @@ MATLAB es una herramienta de análisis estadístico que se utiliza en varias ind
 - Matlab Coder permite convertir código para usar en otros lenguajes de programación, como C ++, Java y Python.
 - Plataforma independiente.
 
-### Contras de Matlab
+### **Contras de Matlab** <!-- omit in toc -->
 
 [⏩ Página Web de Matlab](https://es.mathworks.com/help/matlab/language-fundamentals.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -451,7 +425,7 @@ Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, 
 **Nivel de dificultad**: Bastante complejo. 3 de 5.
 {: .notice--info}
 
-### Beneficios de Dart
+### **Beneficios de Dart** <!-- omit in toc -->
 
 - Gran biblioteca estándar.
 - Número de herramientas disponibles durante el desarrollo con Dart.
@@ -461,7 +435,7 @@ Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, 
 - Plataforma cruzada.
 - Puede compilar a código de máquina eficiente.
 
-### Contras de Dart
+### **Contras de Dart** <!-- omit in toc -->
 
 - Difícil de usar algunas bibliotecas de JavaScript.
 - Si bien la conversión del código a JavaScript todavía tiene muchos agujeros para llenar.
@@ -481,14 +455,14 @@ Ruby ofrece características como bloques, iteradores, metaclases y otros. Se pu
 **Nivel de dificultad**: Fácil de aprender. Entre los mejores. 4.5 de 5.
 {: .notice--info}
 
-### Beneficios de Ruby
+### **Beneficios de Ruby** <!-- omit in toc -->
 
 - El código escrito en Ruby tiene una menor cantidad de líneas de código.
 - Este lenguaje permite la creación simple y rápida de aplicaciones web, lo que resulta en muchos menos esfuerzos.
 - Es un lenguaje de programación de código abierto que permite a los programadores modificar el código según sea necesario.
 - Ruby es un lenguaje de programación dinámico. También está muy cerca de los idiomas hablados.
 
-### Contras de Ruby
+### **Contras de Ruby** <!-- omit in toc -->
 
 - Es bastante nuevo y tiene su propio lenguaje de codificación único que dificulta que los programadores lo aprendan. Después de mucha práctica, se vuelve fácil.
 - El código escrito en Ruby es más difícil de depurar ya que la mayoría de las veces genera los errores en tiempo de ejecución.
@@ -508,7 +482,7 @@ La diferencia entre ellos es que los lenguajes imperativos describen a la máqui
 **Nivel de dificultad**: Altamente complicado. 2 de 5.
 {: .notice--info}
 
-### Beneficios de Haskell
+### **Beneficios de Haskell** <!-- omit in toc -->
 
 - Seguridad de tipo avanzado en comparación con la mayoría de los idiomas principales.
 - Ofrece ejecutable de alto rendimiento.
@@ -516,7 +490,7 @@ La diferencia entre ellos es que los lenguajes imperativos describen a la máqui
 - Sintaxis altamente expresiva y concisa.
 - Desarrollo y mejoras constamente.
 
-### Contras de Haskell
+### **Contras de Haskell** <!-- omit in toc -->
 
 - Interfaz complicada.
 - Programas crípticos, a veces complejos de entender.
@@ -537,7 +511,7 @@ Rust proporciona una seguridad de memoria garantizada y tiene un control complet
 **Nivel de dificultad**: Altamente complejo. 2 de 5.
 {: .notice--info}
 
-### Beneficios de Rust
+### **Beneficios de Rust** <!-- omit in toc -->
 
 - Seguridad garantizada.
 - Complejidad de código.
@@ -548,7 +522,7 @@ Rust proporciona una seguridad de memoria garantizada y tiene un control complet
 - Ahorra tiempo en depuración y prueba.
 - Fuerte apoyo comunitario.
 
-### Contras de Rust
+### **Contras de Rust** <!-- omit in toc -->
 
 - Lenguaje de programación complejo.
 - Una curva de aprendizaje elevada.
@@ -567,13 +541,13 @@ Pero aquí también, OCaml desaparece y Haskell domina. Pero debido al apoyo de 
 **Nivel de dificultad**: Altamente complejo. 2 de 5.
 {: .notice--info}
 
-### Beneficios de OCaml
+### **Beneficios de OCaml** <!-- omit in toc -->
 
 - Sistema de tipos muy expresivo y potente que puede probar mucho sobre el código y proporcionar muchas abstracciones útiles.
 - El mejor sistema de módulos de cualquier lenguaje comercial.
 - El compilador Menhir
 
-### Contras de OCaml
+### **Contras de OCaml** <!-- omit in toc -->
 
 - Aún no hay soporte para multinúcleo.
 - Menos bibliotecas en comparación con otros idiomas.
