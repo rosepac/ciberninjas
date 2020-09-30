@@ -58,8 +58,8 @@ img: "/assets/img/paginas-cursos/cursos-software-tecnico.webp"
 - [Técnico en Redes de Datos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA1KlRpFyYhr_NeBUcFaUi_) (Tecnología Capacitate, YouTube)
 - [Tecnologías Multimedia](https://campusvirtual.ull.es/ocw/course/view.php?id=5) (OCW)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-software-tecnico.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre software y montaje técnico, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-software-tecnico.webp "Los mejores cursos gratuitos con los que aprender todo sobre software y montaje técnico, desde cero hasta nivel experto")

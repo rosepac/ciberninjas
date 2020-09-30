@@ -131,8 +131,8 @@ No dudes en seguir a Ciberninjas en redes sociales para mantenerse actualizado s
 
 ## Godot <!-- omit in toc -->
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-videojuegos.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre la programación de videojuegos, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-videojuegos.webp "Los mejores cursos gratuitos con los que aprender todo sobre la programación de videojuegos, desde cero hasta nivel experto")
