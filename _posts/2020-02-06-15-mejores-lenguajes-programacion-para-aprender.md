@@ -65,8 +65,7 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 - [14. **Rust**](#14-rust)
 - [15. **OCaml**](#15-ocaml)
 
-> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
-{: .notice--danger}
+> 🔥 Quizás te interese: [programar gratis](/programa-gratis/) >> [aprender a programar](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [mejores teclados](/teclados-ratones-dise%C3%B1o/)
 
 ## 1. **Python**
 
