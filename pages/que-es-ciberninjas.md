@@ -88,7 +88,8 @@ A saber, entre otros:
 
 ## ¿Qué es Ciberninjas?
 
-Una escuela laboratorio o Lab School que tan de moda están; centrada en el Desarrollo Web <!-- el diseño gráfico--> y las Nuevas Tecnologías creada para todos los usuarios de la 4ª Generación de Internet.
+Un jardín digital o campo de crecimiento temático, aquí no crecen las flores. Aquí crecen los cerebros tecnológicos.
+Las temáticas favortias, se centran sobre todo en el Desarrollo Web <!-- el diseño gráfico--> y las Nuevas Tecnologías creada para todos los usuarios de la 4ª Generación de Internet.
 
 🚧 👇 CONTENIDO POR REVISAR 👇 🚧
 {: .notice--warning}
@@ -138,3 +139,39 @@ Protegiendo *el diseño, la imagen y el sonido*
 [☕ Invítame a Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--x-large .align-center}
 [🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Discord 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Paris, France",
+    "postalCode": "F-75002",
+    "streetAddress": "38 avenue de l'Opera"
+  },
+  "email": "secretariat(at)google.org",
+  "faxNumber": "( 33 1) 42 68 53 01",
+  "member": [
+    {
+      "@type": "Organization"
+    },
+    {
+      "@type": "Organization"
+    }
+  ],
+  "alumni": [
+    {
+      "@type": "Person",
+      "name": "Jack Dan"
+    },
+    {
+      "@type": "Person",
+      "name": "John Smith"
+    }
+  ],
+  "name": "Google.org (GOOG)",
+  "telephone": "( 33 1) 42 68 53 00"
+}
+</script>

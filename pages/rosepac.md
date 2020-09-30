@@ -10,6 +10,8 @@ excerpt: "Yo soy ROSEPAC."
 thumbnail: "/assets/img/blog/08-rosepac-banner.webp"
 feature-img: "/assets/img/blog/08-rosepac-banner.webp"
 img: "/assets/img/blog/08-rosepac-banner.webp"
+links:
+  - https://facebook.com/pabloalvarezcorredera 
 ---
 
 ![Rosepac, creador, desarrollador y programador de páginas web y aplicaciones móviles asturiano. Creando desde asturias.](/assets/img/blog/08-rosepac-banner.webp "Rosepac, creador, desarrollador y programador de páginas web y aplicaciones móviles asturiano. Creando desde asturias.")
