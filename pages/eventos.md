@@ -32,12 +32,17 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 30 de Septiembre  <!-- omit in toc -->
 
+- Dev Day 4 Women Virtual 👉 [REGISTRO](https://www.crowdcast.io/e/dd4w_20/register){:target="_blank" rel="nofollow, noreferrer"} 🗓 [PROGRAMA](https://devday4w.com/agenda-2020/){:target="_blank" rel="nofollow, noreferrer"}
 - Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (15:00)
 - Primavera UX UI: Diseño UI. Diseñando la interfaz 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"} (23:00)
 
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 ## **Agenda y Eventos tecnológicos de Octubre**
+
+### 🔔 1 de Octubre  <!-- omit in toc -->
+
+- Dev Day 4 Women Virtual 👉 [REGISTRO](https://www.crowdcast.io/e/dd4w_20/register){:target="_blank" rel="nofollow, noreferrer"} 🗓 [PROGRAMA](https://devday4w.com/agenda-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 3 de Octubre  <!-- omit in toc -->
 
