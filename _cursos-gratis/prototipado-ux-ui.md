@@ -47,8 +47,8 @@ img: "/assets/img/paginas-cursos/cursos-prototipado.webp"
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 - [Pug desde Cero](https://ed.team/cursos/pug)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-prototipado.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre UX, UI y prototipado web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-prototipado.webp "Los mejores cursos gratuitos con los que aprender todo sobre UX, UI y prototipado web, desde cero hasta nivel experto")

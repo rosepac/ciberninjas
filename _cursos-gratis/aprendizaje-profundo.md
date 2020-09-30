@@ -35,8 +35,8 @@ img: "/assets/img/paginas-cursos/cursos-machine-deep-learning.webp"
 - [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+
+### **Relacionados** <!-- omit in toc -->
 
 ![](/assets/img/paginas-cursos/cursos-machine-deep-learning.webp)

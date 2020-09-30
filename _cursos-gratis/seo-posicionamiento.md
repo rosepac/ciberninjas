@@ -33,8 +33,8 @@ Los **mejores cursos gratuitos de SEO y posicionamiento** en español.
 - [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 - [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-seo-posicionamiento.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre SEO y posicionamiento web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-seo-posicionamiento.webp "Los mejores cursos gratuitos con los que aprender todo sobre SEO y posicionamiento web, desde cero hasta nivel experto")

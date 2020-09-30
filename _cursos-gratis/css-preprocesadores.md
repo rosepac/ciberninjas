@@ -50,8 +50,8 @@ A continuación vas a encontrar los mejores cursos
 - [Curso de SASS Básico. Principantes paso a paso](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
 - [SASS para principantes: paso a paso, desde cero](https://www.udemy.com/curso-de-sass-para-principiantes-paso-a-paso-y-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+
+### **Relacionados** <!-- omit in toc -->
 
 ![](/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp)

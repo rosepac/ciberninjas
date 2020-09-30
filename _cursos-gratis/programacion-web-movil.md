@@ -7,8 +7,8 @@ published: true
 comments: false
 tags: [Cursos Gratis, Programación Web]
 title: "▷ 22 Mejores cursos gratis de programación web y móvil"
-description: "Los mejores cursos gratuitos con los que aprender todo sobre programación web y móvil, desde cero hasta nivel experto"
-excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programación web y móvil, desde cero hasta nivel experto"
+description: "Los mejores cursos gratuitos con los que aprender todo sobre programación móvil y web, desde cero hasta nivel experto"
+excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programación móvil y web, desde cero hasta nivel experto"
 date: 2020-09-24T10:22:00.000+02:00
 permalink: /cursos-programacion-web-movil/
 canonical_URL: https://ciberninjas.com/cursos-programacion-web-movil/
@@ -62,7 +62,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 
 - [Aplicaciones móviles (2011)](http://ocw.uc3m.es/ingenieria-telematica/aplicaciones-moviles){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Fundamentos de Programación Web para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-web-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Fundamentos de Programación Web para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-web-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Juan de la Torre, Udemy)
 - [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Introducción a Tecnologías del Desarrollo con los Mejores](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmasters-desarrollo%2F){:target="_blank" rel="nofollow,noreferrer"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
 - [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpor-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -313,8 +313,8 @@ Tanto Angular como Vue.js tienen sus pros y sus contras entre sí. VueJS es mejo
 - Ofrece una mayor personalización.
 - Admite enfoques de enlace de datos unidireccionales y bidireccionales.
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-programacion-web-movil.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre programación móvil y web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-programacion-web-movil.webp "Los mejores cursos gratuitos con los que aprender todo sobre programación móvil y web, desde cero hasta nivel experto")

@@ -9,7 +9,7 @@ tags: [Cursos Gratis, Programación]
 title: "▷ 125 Mejores cursos gratis de programación"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto"
-date: 2020-09-02T08:22:00.000+02:00
+date: 2020-09-30T08:22:00.000+02:00
 permalink: /cursos-programacion/
 canonical_URL: https://ciberninjas.com/cursos-programacion/
 thumbnail: "/assets/img/paginas-cursos/cursos-programacion.webp"
@@ -17,11 +17,6 @@ feature-img: "/assets/img/paginas-cursos/cursos-programacion.webp"
 img: "/assets/img/paginas-cursos/cursos-programacion.webp"
 
 ---
-
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
-{: .notice--danger}
-
-## 👨‍💻 Lenguajes de Programación
 
 Existen muchos diferentes lenguajes de programación, aquí vas a poder encontrar cursos gratis para comenzar desde a aprender los idiomas de programación más importantes.
 
@@ -33,133 +28,95 @@ A continuación puedes encontrar atajos hacía los frameworks de los lenguajes m
 
 Por si lo que buscas, es comenzar con un lenguaje concreto desde cero, a continuación vas a encontrar una brevísima introducción además de los mejores cursos gratuitos en español del mundo con los que lanzarte hacía el inicio de convertirte en un programador profesional.
 
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+
 Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te interese.
 
-- [👨‍💻 Lenguajes de Programación](#-lenguajes-de-programación)
-- [C](#c)
-  - [¿Qué es C?](#qué-es-c)
-  - [¿Por qué debería aprender C?](#por-qué-debería-aprender-c)
-  - [¿Cuáles son los requisitos previos para aprender C?](#cuáles-son-los-requisitos-previos-para-aprender-c)
-  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de C?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-c)
-  - [¿Cómo aprender a programar en C?](#cómo-aprender-a-programar-en-c)
-  - [¿Qué libro aprender C?](#qué-libro-aprender-c)
-  - [¿Puedo aprender el lenguaje C en línea?](#puedo-aprender-el-lenguaje-c-en-línea)
-  - [¿Dónde puedo aprender C?](#dónde-puedo-aprender-c)
-- [C](#c-1)
-- [C++](#c-2)
-  - [¿Dónde aprender C ++?](#dónde-aprender-c-)
-  - [¿Por qué debería aprender C ++?](#por-qué-debería-aprender-c-)
-  - [¿Puedo aprender C ++ en línea?](#puedo-aprender-c--en-línea)
-  - [¿Cuáles son los mejores libros de C ++?](#cuáles-son-los-mejores-libros-de-c-)
+- [**Curso Gratis C**](#curso-gratis-c)
+- [**Curso Gratis C#**](#curso-gratis-c-1)
+- [**Cursos Gratis C++**](#cursos-gratis-c)
   - [¿Cuánto tiempo se tarda en aprender C ++?](#cuánto-tiempo-se-tarda-en-aprender-c-)
   - [¿Es necesario aprender C antes de aprender C ++?](#es-necesario-aprender-c-antes-de-aprender-c-)
-- [Cobol](#cobol)
-- [Ensamblador](#ensamblador)
-- [Go](#go)
-  - [¿Cómo aprender Golang?](#cómo-aprender-golang)
-  - [¿Por qué debería aprender Golang?](#por-qué-debería-aprender-golang)
-  - [¿Es Go más rápido que Java?](#es-go-más-rápido-que-java)
+- [**Curso Gratis Cobol**](#curso-gratis-cobol)
+- [**Curso Gratis Ensamblador**](#curso-gratis-ensamblador)
+- [**Cursos Gratis Go**](#cursos-gratis-go)
   - [¿Qué es Golang?](#qué-es-golang)
   - [¿Por qué Golang es tan popular?](#por-qué-golang-es-tan-popular)
-- [Java](#java)
-- [Java Frameworks](#java-frameworks)
+- [**Cursos Gratis Java**](#cursos-gratis-java)
+- [**Cursos Gratis de Frameworks Java**](#cursos-gratis-de-frameworks-java)
   - [Play](#play)
   - [PrimeFaces](#primefaces)
   - [.NET Core](#net-core)
   - [Spring](#spring)
   - [Struts](#struts)
-  - [¿Que es Java?](#que-es-java)
-  - [¿Por qué debería aprender Java?](#por-qué-debería-aprender-java)
-  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Java?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-java)
-  - [¿Cuáles son los mejores libros para aprender Java?](#cuáles-son-los-mejores-libros-para-aprender-java)
-  - [¿Cómo empiezo a aprender Java?](#cómo-empiezo-a-aprender-java)
-  - [¿Puedes aprender Java en un día?](#puedes-aprender-java-en-un-día)
-  - [¿Cuál es la mejor forma de aprender Java?](#cuál-es-la-mejor-forma-de-aprender-java)
 - [Javascript](#javascript)
 - [Javascript Frameworks](#javascript-frameworks)
-  - [¿Qué es JavaScript?](#qué-es-javascript)
-  - [¿Cuáles son los requisitos previos para aprender JavaScript?](#cuáles-son-los-requisitos-previos-para-aprender-javascript)
-  - [¿Por qué debería aprender JavaScript?](#por-qué-debería-aprender-javascript)
-  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de JavaScript?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-javascript)
-  - [¿Cómo aprender JavaScript rápidamente?](#cómo-aprender-javascript-rápidamente)
-  - [¿Cuáles son los mejores libros para aprender JavaScript?](#cuáles-son-los-mejores-libros-para-aprender-javascript)
-  - [¿Cómo ejecutar JavaScript?](#cómo-ejecutar-javascript)
   - [¿Dónde puedo aprender JavaScript para principiantes?](#dónde-puedo-aprender-javascript-para-principiantes)
 - [Kotlin](#kotlin)
 - [Perl](#perl)
 - [PHP](#php)
 - [PHP Frameworks](#php-frameworks)
   - [CakePHP](#cakephp)
-  - [CodeIgniter](#codeigniter)
-  - [Laravel](#laravel)
+  - [**Cursos de CodeIgniter**](#cursos-de-codeigniter)
+  - [**Cursos de Laravel**](#cursos-de-laravel)
   - [Symfony](#symfony)
   - [Zend](#zend)
-  - [¿Qué es PHP?](#qué-es-php)
-  - [¿Cuáles son los requisitos previos para aprender PHP?](#cuáles-son-los-requisitos-previos-para-aprender-php)
-  - [¿Por qué debería aprender el lenguaje PHP?](#por-qué-debería-aprender-el-lenguaje-php)
-  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de PHP?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-php)
-  - [¿Cuáles son los mejores libros para aprender PHP?](#cuáles-son-los-mejores-libros-para-aprender-php)
-  - [¿Para qué se usa PHP?](#para-qué-se-usa-php)
-  - [¿Cómo aprender PHP?](#cómo-aprender-php)
-  - [¿Cómo aprender PHP rápidamente?](#cómo-aprender-php-rápidamente)
 - [Python](#python)
 - [Python Frameworks](#python-frameworks)
-- [Ruby](#ruby)
+- [**Cursos Gratis Ruby**](#cursos-gratis-ruby)
 - [Ruby Frameworks](#ruby-frameworks)
   - [Ruby and Rails](#ruby-and-rails)
 - [Sistemas de ERP](#sistemas-de-erp)
-- [Swift <i class="fab fa-apple"></i>](#swift-i-classfab-fa-applei)
+- [Swift](#swift)
 - [**Cursos de Typescript**](#cursos-de-typescript)
 - [**Typescript**](#typescript)
-  - [¿Qué es TypeScript?](#qué-es-typescript)
-  - [¿Cuáles son los requisitos previos para aprender TypeScript?](#cuáles-son-los-requisitos-previos-para-aprender-typescript)
-  - [¿Por qué debería aprender TypeScript?](#por-qué-debería-aprender-typescript)
-  - [¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de TypeScript?](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-typescript)
 - [Web Scraping 🕸](#web-scraping-)
 
-## C
+## **Curso Gratis C**
 
-- [Aprende programación en C desde cero](https://www.udemy.com/fundamentos-de-programacion-en-c-basico-avanzado){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Curso de C y C++ ¡Desde 0!](https://www.udemy.com/course/aprende-c-y-c-en-1-curso-master-en-programacion/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+- [C y C++ ¡Desde 0!](https://www.udemy.com/course/aprende-c-y-c-en-1-curso-master-en-programacion/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
 - [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6){:target="_blank" rel="nofollow,noreferrer"} (ProgramacionATS, YouTube)
 
-### ¿Qué es C?
+### ¿Qué es C? <!-- omit in toc -->
 
 C es un lenguaje de programación de propósito general, desarrollado por Dennis Ritchie entre 1969 y 1973. Diseñado como un lenguaje procedimental imperativo, C fue creado con la idea de que se compilará utilizando un compilador simple y fácil de usar, proporcionar bajo nivel acceso a la memoria y requieren un soporte de tiempo de ejecución insignificante. Las características destacadas de la programación en C son su conjunto simple de palabras clave, estilo elegante y acceso de bajo nivel a la memoria, que colectivamente hacen que C sea apropiado para la programación del sistema.
 
-### ¿Por qué debería aprender C?
+### ¿Por qué debería aprender C? <!-- omit in toc -->
 
-La principal razón para utilizar la programación en C se debe a su versatilidad. C se ha utilizado con éxito para casi todos los tipos de proyectos de programación, desde simples hojas de cálculo hasta sistemas operativos complejos. C tiene características tales como un compilador portátil, un poderoso repositorio de operadores, una sintaxis fácil de entender y elegante de usar, facilidad de optimización de aplicaciones y un rico conjunto de tipos de datos. Un simple tutorial de programación en C es suficiente para que cualquiera se inicie en la programación en C, ya que prácticamente no tiene requisitos previos para aprenderlo.
+La principal razón para utilizar la programación en C se debe a su versatilidad. C se ha utilizado con éxito para casi todos los tipos de proyectos de programación, desde simples hojas de cálculo hasta sistemas operativos complejos.
 
-### ¿Cuáles son los requisitos previos para aprender C?
+C tiene características tales como un compilador portátil, un poderoso repositorio de operadores, una sintaxis fácil de entender y elegante de usar, facilidad de optimización de aplicaciones y un rico conjunto de tipos de datos. Un simple tutorial de programación en C es suficiente para que cualquiera se inicie en la programación en C, ya que prácticamente no tiene requisitos previos para aprenderlo.
+
+### ¿Cuáles son los requisitos previos para aprender C? <!-- omit in toc -->
+
 Dado que C es un lenguaje de programación básico que constituye la piedra angular de muchos otros, casi no hay requisitos previos para la programación en C. Dicho esto, siempre puede practicar algunos problemas matemáticos y de razonamiento para poder catalizar su proceso para aprender programación en C. La mayoría de los tutoriales básicos de programación en C también cubren los fundamentos básicos de la computadora, explicando los conceptos básicos de RAM, ROM, discos duros, CPU y más. Una comprensión básica de estos conceptos mencionados puede ayudarlo a aprender más rápido.
 
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de C?
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de C? <!-- omit in toc -->
 
 Si desea aprender a programar en C y está buscando un excelente tutorial de programación en C, Ciberninjas puede ayudarte. Los tutoriales de C para principiantes disponibles en la plataforma le ayudarán a ponerse en marcha y convertirse en un experto en programación C.
 
 Sigue los tutoriales y cursos de C en Ciberninjas para mantenerse al día con las últimas noticias, conocimientos, códigos, consejos y trucos.
 
-### ¿Cómo aprender a programar en C?
+### ¿Cómo aprender a programar en C? <!-- omit in toc -->
 
 La respuesta más simple es la práctica. Hay muchos lugares para comenzar a aprender C. La programación, independientemente del idioma, exige práctica. Simplemente debe instalar el compilador de C en su sistema y comprender los conceptos básicos. Entonces, comience hoy.
 
-### ¿Qué libro aprender C?
+### ¿Qué libro aprender C? <!-- omit in toc -->
 
 Hay varios libros excelentes y buenos para aprender C. Let Us C de Ashutosh Pandey y Yashavant Kanetkar y Exploring C de Yashavant Kanetkar son dos de esos ejemplos. También puede consultar estos 10 mejores libros de C y C ++ para aprender C y C ++.
 
-### ¿Puedo aprender el lenguaje C en línea?
+### ¿Puedo aprender el lenguaje C en línea? <!-- omit in toc -->
 
 Si. Existen varias plataformas para aprender el lenguaje de programación C en línea, como YouTube, Udemy, Codeacademy, Coursera. Si desea utilizar el compilador de C en línea, puede dirigirse a repl.it y onlinegdb.com.
 
-### ¿Dónde puedo aprender C?
+### ¿Dónde puedo aprender C? <!-- omit in toc -->
 
 Puede aprender C en una clase física, así como en un aula virtual o la combinación de los dos. Los libros son su mejor amigo para aprender C sin importar si está conectado o sin conexión. Puede visitar sitios como geeksforgeeks.org para comprender discusiones de temas rudimentarios y avanzados.
 
-## C#
+## **Curso Gratis C#**
 
 - [Algoritmos de Ordenación de C#](/algoritmos-ordenacion-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 - [C# básico de programación](https://www.udemy.com/-programacion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -168,32 +125,33 @@ Puede aprender C en una clase física, así como en un aula virtual o la combina
 - [Desarrollo de aplicaciones para Windows con C# y Sql en 4 capas](https://www.youtube.com/playlist?list=PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
 - [Programación en C#](/c-sharp-con-nicosiored/){:target="_blank" rel="nofollow,noreferrer"} (Nicosio, YouTube)
 
-## C++
+## **Cursos Gratis C++**
 
-- [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Estructura de datos en C++](/c-mas-con-programacion-explicada/){:target="_blank" rel="nofollow,noreferrer"} (Programación Explicada, YouTube)
 
-¿Cómo aprender C ++?
+### ¿Cómo aprender C ++? <!-- omit in toc -->
+
 Instale el compilador de C ++ en su sistema y comience. Puede consultar libros, videos en línea, cursos pagos y gratuitos, foros de discusión, etc. para ayudarlo con su esfuerzo de aprendizaje de C ++. Sin embargo, lo más importante para aprender C ++ es la práctica.
 
-### ¿Dónde aprender C ++?
+### ¿Dónde aprender C ++? <!-- omit in toc -->
 
 YouTube, Coursera y Codeacademy son solo algunos de los mejores lugares para aprender C ++ sin dejar la comodidad de su hogar o alojamiento. También puede inscribirse en clases de ladrillo y mortero si lo desea. Lea y practique tanto como sea posible.
 
-### ¿Por qué debería aprender C ++?
+### ¿Por qué debería aprender C ++? <!-- omit in toc -->
 
 C ++ es uno de los lenguajes de programación más populares y versátiles. Hay tantos lenguajes de programación en los que ha influido. C ++ es una buena opción de aprendizaje, ya sea para aprovechar oportunidades profesionales lucrativas o para ingresar al ámbito de la programación.
 
-Cuál es mejor aprender; ¿C ++ o Python?
+### Cuál es mejor aprender; ¿C ++ o Python? <!-- omit in toc -->
+
 C ++ es como un veterano, mientras que Python es el nuevo, pero popular, chico de la cuadra. Si le gusta pasar mucho tiempo aprendiendo y entendiendo los conceptos básicos de la programación, C ++ es la opción.
 
 Sin embargo, si simplemente no puede esperar para comenzar con la programación, Python es la opción ideal. Además, Python es más poderoso que C ++ y tiene aplicaciones más amplias.
 
-### ¿Puedo aprender C ++ en línea?
+### ¿Puedo aprender C ++ en línea? <!-- omit in toc -->
 
 Sí, es posible aprender C ++ en línea. Puede obtener videos tutoriales de C ++ gratuitos en YouTube y otras plataformas populares. Además, puede optar por cursos profesionales de C ++ a través de portales de aprendizaje en línea como Udemy, Coursera, Codeacademy, etc.
 
-### ¿Cuáles son los mejores libros de C ++?
+### ¿Cuáles son los mejores libros de C ++? <!-- omit in toc -->
 
 No hay escasez de buenos libros que detallan el lenguaje de programación C ++. Algunos de los mejores libros de C ++ son:
 
@@ -211,49 +169,52 @@ Aprender la sintaxis de C ++ puede llevar entre un par de días y algunas semana
 
 No. No es absolutamente necesario aprender C de antemano aprendiendo C ++. Sin embargo, si ya tiene algunos conocimientos de C, seguramente mejorará su experiencia de aprendizaje de C ++.
 
-## Cobol
+## **Curso Gratis Cobol**
 
 - [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## Ensamblador
+## **Curso Gratis Ensamblador**
 
 - [Programación en ensamblador 8086 con proteus](https://www.udemy.com/course/programacion-en-ensamblador-8086-con-proteus/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## Go
+## **Cursos Gratis Go**
 
 - [Curso de GO - De 0 a 100](/go-con-g-coding-academy/) (G Coding Academy, Youtube)
 - [Curso Interactivo de Go](https://gotour-es.appspot.com/#1) (HTML)
 - [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, YouTube)
 - [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-go-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 
-### ¿Cómo aprender Golang?
+### ¿Cómo aprender Golang? <!-- omit in toc -->
 
 Golang puede verse como el Python de los lenguajes de tipado estático. El enfoque para aprender Golang es como el enfoque seguido para cualquier otro lenguaje de programación, es decir, aprender los temas y luego practicar los mismos. Para comenzar con el lenguaje de programación, también puede seguir el recorrido oficial de Go .
 
-### ¿Por qué debería aprender Golang?
+### ¿Por qué debería aprender Golang? <!-- omit in toc -->
 
 A diferencia de la mayoría de los lenguajes de programación, Golang favorece la ingeniería de software sobre la investigación de lenguajes de programación. Se centra en la concisión, la simultaneidad, el rendimiento, la legibilidad y la simplicidad. Las siguientes son algunas de las razones que abogan por aprender Golang:
 
-1. Capaz de aprovechar el multinúcleo sin tener en cuenta la enorme cantidad de núcleos
-2. No tiene intérprete ni máquina virtual
-4. Sigue un estilo sincrónico pero es verdaderamente asincrónico
-5. Mantenido y seleccionado por Google
-6. Muy parecido a C pero con simultaneidad, recolección de basura, seguridad de la memoria y tipificación estructural al estilo CSP
+1. Capaz de aprovechar el multinúcleo sin tener en cuenta la enorme cantidad de núcleos.
+2. No tiene intérprete ni máquina virtual.
+4. Sigue un estilo sincrónico pero es verdaderamente asincrónico.
+5. Mantenido y seleccionado por Google.
+6. Muy parecido a C pero con simultaneidad, recolección de basura, seguridad de la memoria y tipificación estructural al estilo CSP.
 
-¿Dónde puedo aprender Golang?
+### ¿Dónde puedo aprender Golang? <!-- omit in toc -->
+
 Puede aprender Golang de Udemy, Coursera y varios otros recursos probados y confiables. YouTube es un buen lugar para aprender los conceptos básicos del lenguaje de programación y algunos de sus temas avanzados.
 
-¿Golang es fácil de aprender?
+### ¿Golang es fácil de aprender? <!-- omit in toc -->
+
 Golang es un lenguaje de programación que prioriza la simplicidad. De hecho, es incluso más simple que Python, que muchos consideran el lenguaje de programación más simple. Los aspectos más difíciles de aprender de Go son las funciones de concurrencia, los canales y las rutinas gor y las interfaces.
 
-¿Golang reemplazará a Python?
+### ¿Golang reemplazará a Python? <!-- omit in toc -->
+
 La respuesta simple es no. Sin embargo, tanto Golang como Python están diseñados para lograr una alta concurrencia. Golang puede ser más rápido que Python cuando se trata de crear servicios concurrentes. Por lo tanto, Golang pronto podría reemplazar a Python como el lenguaje del lado del servidor para lograr servicios altamente concurrentes.
 
-### ¿Es Go más rápido que Java?
+### ¿Es Go más rápido que Java? <!-- omit in toc -->
 
 Go está diseñado para ser lo más fácil posible. No está diseñado para funcionar. Entonces, Java es más rápido que Go debido a las siguientes dos razones principales:
 
@@ -268,7 +229,7 @@ Golang or Go es un lenguaje de programación de código abierto que facilita el 
 
 Golang admite la recolección automática de basura y la concurrencia. Además, tiene un excelente soporte para la verificación de errores y es altamente escalable. Además de todos ellos, es muy simple y un lenguaje de programación ligero de código abierto desarrollado y mantenido por Google.
 
-## Java
+## **Cursos Gratis Java**
 
 - [Acceso a bases de datos en Java](http://ocw.upm.es/course/acceso-bases-datos-java){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -288,7 +249,7 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 
-## Java Frameworks
+## **Cursos Gratis de Frameworks Java**
 
 ### Play
 
@@ -320,14 +281,17 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-### ¿Que es Java?
+### ¿Que es Java? <!-- omit in toc -->
 
 Java es considerado uno de los lenguajes de programación más importantes del mundo. Java se basa en el concepto de objetos y también se conoce como lenguaje de programación orientada a objetos (OOP). Como es un lenguaje compatible con redes, los programas creados a través de Java se pueden ejecutar en una variedad de plataformas. Además, proporciona un sistema seguro a través de un entorno de tiempo de ejecución. La programación Java funciona a través de un sistema robusto que elimina ciertos tipos de errores de programación y es fácil de aprender y usar.
 
-¿Cuáles son los requisitos previos para aprender Java?
-Antes de sumergirse en la programación de Java y buscar los mejores tutoriales de Java, es importante conocer los requisitos previos para aprender Java. Dado que Java es de naturaleza rudimentaria, no existen requisitos previos oficiales para aprenderlo. Sin embargo, el conocimiento de programación en un lenguaje básico como C será útil y lo ayudará a comprender los conceptos de Java. Sin embargo, si desea aprender programación Java de inmediato sin aprender nada más, es importante elegir un tutorial de Java de alta calidad y avanzar en un patrón de aprendizaje ordenado. 
+### ¿Cuáles son los requisitos previos para aprender Java? <!-- omit in toc -->
 
-### ¿Por qué debería aprender Java?
+Antes de sumergirse en la programación de Java y buscar los mejores tutoriales de Java, es importante conocer los requisitos previos para aprender Java. Dado que Java es de naturaleza rudimentaria, no existen requisitos previos oficiales para aprenderlo.
+
+Sin embargo, el conocimiento de programación en un lenguaje básico como C será útil y lo ayudará a comprender los conceptos de Java. Sin embargo, si desea aprender programación Java de inmediato sin aprender nada más, es importante elegir un tutorial de Java de alta calidad y avanzar en un patrón de aprendizaje ordenado. 
+
+### ¿Por qué debería aprender Java? <!-- omit in toc -->
 
 Java ha demostrado su valía a través de su diversidad de usos. Un informe sugirió que más de 450 empresas de las 500 empresas de Fortune utilizan Java. Esto se puede atribuir a la constante evolución de Java, que ha abierto nuevas vías para todo tipo de empresas.
 
@@ -335,12 +299,13 @@ La plataforma continúa agregando características que la convierten en el lengu
 
 Uno debe aprender Java, ya que es una de las plataformas más modernas para aplicaciones móviles y web y es un lenguaje excelente para desarrollar aplicaciones de escritorio multiplataforma.
 
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Java?
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Java? <!-- omit in toc -->
+
 Ciberninjas es su plataforma de aprendizaje integral que ofrece varios tutoriales de Java para ayudarlo a poner en marcha sus proyectos de programación Java.
 
 Siga a Ciberninjas en redes sociales para mantenerse conectado y conocer las últimas noticias, artículos, consejos y trucos de Java.
 
-### ¿Cuáles son los mejores libros para aprender Java?
+### ¿Cuáles son los mejores libros para aprender Java? <!-- omit in toc -->
 
 Estos son algunos de los mejores libros de Java:
 
@@ -352,15 +317,15 @@ Estos son algunos de los mejores libros de Java:
 Para obtener una lista más completa y detallada de los mejores libros de Java, consulte los 10 mejores libros de Java para principiantes y programadores avanzados .
 <!-- https://hackr.io/blog/best-java-books-for-beginners-and-advanced-programmers -->
 
-### ¿Cómo empiezo a aprender Java?
+### ¿Cómo empiezo a aprender Java? <!-- omit in toc -->
 
 Puede comenzar a aprender Java con estos tutoriales gratuitos de Java recomendados en Ciberninjas. También puede usar libros, lecciones en video de YouTube y cursos y certificaciones para aprender y avanzar en Java.
 
-### ¿Puedes aprender Java en un día?
+### ¿Puedes aprender Java en un día? <!-- omit in toc -->
 
 Es como preguntar: "¿Podemos construir Roma en un día?" No, pero al menos podemos empezar. Aprender la semántica de Java (o cualquier otro lenguaje de programación) es algo que puede hacer en un día, pero aprender el funcionamiento de Java (o cualquier otro lenguaje de programación) requiere práctica y tiempo, ¡mucho, mucho tiempo!
 
-### ¿Cuál es la mejor forma de aprender Java?
+### ¿Cuál es la mejor forma de aprender Java? <!-- omit in toc -->
 
 La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los conceptos y el funcionamiento del lenguaje de programación Java, los libros son su mejor opción. También puede aprender Java con:
 
@@ -388,29 +353,29 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 > Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual.
 {: .notice--info}
 
-### ¿Qué es JavaScript?
+### ¿Qué es JavaScript? <!-- omit in toc -->
 
 JavaScript (JS) es un lenguaje de programación dinámico de alto nivel. Junto con HTML y CSS, JavaScript constituye las tres tecnologías centrales de la creación y el diseño de contenido de la World Wide Web. JS se utiliza principalmente para diseñar páginas web interactivas.
 
 Con la programación de JavaScript, los usuarios pueden crear videojuegos en línea y otros programas en línea. La mayoría de los sitios web en Internet hoy en día utilizan JavaScript, mientras que la mayoría de los navegadores web modernos admiten JavaScript debido a un motor integrado. Hay numerosos tutoriales de JS disponibles en línea donde los usuarios pueden aprender a programar en JavaScript.
 
-### ¿Cuáles son los requisitos previos para aprender JavaScript?
+### ¿Cuáles son los requisitos previos para aprender JavaScript? <!-- omit in toc -->
 
 Los usuarios pueden aprender JS en línea, ya que hay miles de tutoriales de JS disponibles en línea que brindan aprendizaje en todos los niveles (principiantes, intermedios y avanzados) de programación de JavaScript. Sin embargo, antes de comenzar, existen algunos requisitos previos para aprender JavaScript. Si bien es posible comenzar con JavaScript, los usuarios deben aprender HTML y CSS y obtener una comprensión firme de los dos. Una vez que adquiera las habilidades necesarias, puede pensar en la programación de JavaScript y comenzar a buscar tutoriales de JS para aprender JavaScript.
 
-### ¿Por qué debería aprender JavaScript?
+### ¿Por qué debería aprender JavaScript? <!-- omit in toc -->
 
 JavaScript es un lenguaje de programación fácil de aprender y fácil de usar que tiene en verdad infinitas aplicaciones. Una vez que aprenda a programar en JavaScript, habrá aprendido algo que se usa en casi todas partes, incluidos los navegadores web, dispositivos móviles, juegos, escritorio, realidad virtual y mucho más. JavaScript es un lenguaje de programación extremadamente expresivo y poderoso.
 
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de JavaScript?
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de JavaScript? <!-- omit in toc -->
 
 Ciberninjas es un gran lugar para aprender JavaScript con una gran cantidad de tutoriales de JS, tanto gratuitos como de pago. Puede aprender a programar en JavaScript a través de videos o libros, tutoriales y cursos.
 
-### ¿Cómo aprender JavaScript rápidamente?
+### ¿Cómo aprender JavaScript rápidamente? <!-- omit in toc -->
 
 JavaScript es un lenguaje de programación popular de la web. Aunque no es uno de los lenguajes de programación más fáciles de aprender, puede leer este artículo de blog para saber cómo puede aprender JS rápidamente.
 
-### ¿Cuáles son los mejores libros para aprender JavaScript?
+### ¿Cuáles son los mejores libros para aprender JavaScript? <!-- omit in toc -->
 
 A continuación se muestran algunos de los mejores libros para aprender JavaScript:
 
@@ -421,7 +386,7 @@ A continuación se muestran algunos de los mejores libros para aprender JavaScri
 - 
 <!-- Consulte esta lista detallada de los mejores libros de JavaScript. https://hackr.io/blog/javascript-books -->
 
-### ¿Cómo ejecutar JavaScript?
+### ¿Cómo ejecutar JavaScript? <!-- omit in toc -->
 
 Puede ejecutar el código JavaScript mediante:
 
@@ -474,12 +439,12 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [CakePHP 2](https://www.youtube.com/playlist?list=PL-9WnOL7eRJYmdqHWCKigyl_tRHjNkrlF){:target="_blank" rel="nofollow,noreferrer"} (Edson Mollericona Marin, YouTube)
 - [CakePHP 3 Básico](https://www.youtube.com/playlist?list=PL-9WnOL7eRJZFoTXKm7EvR_p38rtF87YH){:target="_blank" rel="nofollow,noreferrer"} (Edson Mollericona Marin, YouTube)
 
-### CodeIgniter
+### **Cursos de CodeIgniter**
 
 - [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a CodeIgniter](https://www.udemy.com/course/introduccion-codeigniter){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### Laravel
+### **Cursos de Laravel**
 
 - [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://www.udemy.com/aprende-laravel-modelos-migraciones-rutas-vistas-etc){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Configurar Laravel en Windows y MySql Server](https://www.udemy.com/laravel-y-sql-server){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -488,40 +453,43 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 - [Curso Laravel](https://www.youtube.com/playlist?list=PLEtcGQaT56cigZVUvRpPBnoLGO0KcX5MO){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Empezando con Laravel 5 y Vuejs 2](https://www.udemy.com/empezando-con-laravel-5-y-vuejs-2){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Introducción a Laravel 5: primeros pasos con este framework](https://www.udemy.com/introduccion-a-laravel-5-primeros-pasos-framework-php){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Introducción a Laravel 5: primeros pasos con este framework](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-laravel-5-primeros-pasos-framework-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Laravel 5](https://www.youtube.com/playlist?list=PLIddmSRJEJ0u-5Nv2k6W8Vhe0wUP_7H5W){:target="_blank" rel="nofollow,noreferrer"} (Raul Palacios, YouTube)
 - [Laravel 5.4](https://www.youtube.com/playlist?list=PLS3ZgoVufwTkqmF0oAnfeus9ZklMqjFhS){:target="_blank" rel="nofollow,noreferrer"} (iTech School, YouTube)
-- [Laravel 5.4: crear tu primer sitio web](https://www.udemy.com/primeros-pasos-con-laravel){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Laravel 5.4: crear tu primer sitio web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-laravel%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt){:target="_blank" rel="nofollow,noreferrer"} (Raul Palacios, YouTube)
 - [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### Symfony
 
-- [Instalando Symfony 2](https://www.udemy.com/instalando-symfony2){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-- [Symfony 3: en producción. Subir y publicar proyectos web](https://www.udemy.com/symfony-3-en-produccion-subir-y-publicar-proyectos-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Symfony 3: en producción. Subir y publicar proyectos web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsymfony-3-en-produccion-subir-y-publicar-proyectos-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### Zend
 
 - [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, YouTube)
 
-### ¿Qué es PHP?
+### ¿Qué es PHP? <!-- omit in toc -->
 
-El preprocesador de hipertexto o PHP es un lenguaje de secuencias de comandos, utilizado principalmente para el desarrollo web. PHP se puede utilizar en combinación con múltiples sistemas de plantillas web, marcos web y sistemas de gestión de contenido. Además, se puede incrustar en código HTML, aumentando sus capacidades. Los desarrolladores pueden escribir extensiones en C, agregando capacidades funcionales al lenguaje PHP. Además, incluye varias bibliotecas de código abierto y de uso gratuito en la distribución de código fuente, que también se pueden usar en compilaciones binarias de PHP. PHP es relativamente simple y más rápido en comparación con otros lenguajes de scripting, con múltiples constantes de informes de errores, que generan un aviso de error.
+El preprocesador de hipertexto o PHP es un lenguaje de secuencias de comandos, utilizado principalmente para el desarrollo web. PHP se puede utilizar en combinación con múltiples sistemas de plantillas web, marcos web y sistemas de gestión de contenido. Además, se puede incrustar en código HTML, aumentando sus capacidades. Los desarrolladores pueden escribir extensiones en C, agregando capacidades funcionales al lenguaje PHP.
 
-### ¿Cuáles son los requisitos previos para aprender PHP?
+Además, incluye varias bibliotecas de código abierto y de uso gratuito en la distribución de código fuente, que también se pueden usar en compilaciones binarias de PHP. PHP es relativamente simple y más rápido en comparación con otros lenguajes de scripting, con múltiples constantes de informes de errores, que generan un aviso de error.
+
+### ¿Cuáles son los requisitos previos para aprender PHP? <!-- omit in toc -->
 
 Antes de intentar aprender PHP, es esencial tomar nota de algunas sugerencias. Lograr una comprensión básica de HTML antes de aprender PHP aumentará sus habilidades. Como puede incrustar PHP en HTML, conocer ambos lenguajes puede ayudarlo a cambiar entre ellos en el mismo documento. El conocimiento de CSS, JavaScript y MySQL también puede aumentar sus habilidades de programación PHP. Una vez que se sienta competente en estos lenguajes, puede buscar un tutorial de PHP para principiantes o videoconferencias sobre cómo aprender PHP.
 
-### ¿Por qué debería aprender el lenguaje PHP?
+### ¿Por qué debería aprender el lenguaje PHP? <!-- omit in toc -->
 
-PHP es un lenguaje fácil de aprender y usar. Los programadores pueden seguir varios tutoriales de PHP disponibles en línea. Mucha gente aprende PHP debido a la inmensa cantidad de sitios web que usan el lenguaje. Más del 75 por ciento de los 10 millones de sitios web principales utilizan PHP, lo que lo convierte en un lenguaje imprescindible para los desarrolladores web. Además, PHP tiene una gran comunidad en línea que puede ayudarlo a llevar sus habilidades al siguiente nivel. PHP tiene la tercera comunidad StackOverflow más grande, la quinta comunidad Meetup más grande y es el quinto idioma más popular en GitHub. El interés en PHP sigue vivo y su conjunto de características inspira a más y más personas a aprender PHP.
+PHP es un lenguaje fácil de aprender y usar. Los programadores pueden seguir varios tutoriales de PHP disponibles en línea. Mucha gente aprende PHP debido a la inmensa cantidad de sitios web que usan el lenguaje. Más del 75 por ciento de los 10 millones de sitios web principales utilizan PHP, lo que lo convierte en un lenguaje imprescindible para los desarrolladores web.
 
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de PHP?
+Además, PHP tiene una gran comunidad en línea que puede ayudarlo a llevar sus habilidades al siguiente nivel. PHP tiene la tercera comunidad StackOverflow más grande, la quinta comunidad Meetup más grande y es el quinto idioma más popular en GitHub. El interés en PHP sigue vivo y su conjunto de características inspira a más y más personas a aprender PHP.
+
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de PHP? <!-- omit in toc -->
 
 Ciberninjas puede ayudarte a encontrar el mejor tutorial de PHP para ayudarte a aprender PHP y convertirte en un experto en el idioma. El sitio web ofrece un tutorial de PHP para principiantes, programadores intermedios y expertos para mejorar sus habilidades. Sigue a Ciberninjas y mantente informado sobre las últimas noticias, conocimientos, consejos y trucos.
 
-### ¿Cuáles son los mejores libros para aprender PHP?
+### ¿Cuáles son los mejores libros para aprender PHP? <!-- omit in toc -->
 
 PHP ha existido durante las últimas dos décadas y media. Como tal, hay varios libros bien explicados sobre el lenguaje de programación débil y dinámico. Algunos notables son:
 
@@ -530,7 +498,7 @@ PHP ha existido durante las últimas dos décadas y media. Como tal, hay varios 
 - Programación PHP por Rasmus Lerdorf
 - La alegría de la programación PHP por Alan Forbes
 
-### ¿Para qué se usa PHP?
+### ¿Para qué se usa PHP? <!-- omit in toc -->
 
 El lenguaje de secuencias de comandos del lado del servidor se utiliza para desarrollar:
 
@@ -538,7 +506,7 @@ El lenguaje de secuencias de comandos del lado del servidor se utiliza para desa
 - Aplicaciones web
 - Marcos de desarrollo web para el desarrollo de PHP (y otros lenguajes de programación)
 
-### ¿Cómo aprender PHP?
+### ¿Cómo aprender PHP? <!-- omit in toc -->
 
 Puedes aprender PHP con:
 
@@ -548,30 +516,27 @@ Puedes aprender PHP con:
 - Artículos web
 - Lecciones en video de YouTube
 
-### ¿Cómo aprender PHP rápidamente?
+### ¿Cómo aprender PHP rápidamente? <!-- omit in toc -->
 
 Comience con tutoriales de introducción, fundamentos, conceptos básicos y para principiantes, libros, lecciones en video en línea, etc. y practique rigurosamente. Hacer un experimento continuo con su enfoque le permitirá aprender mejor de sus errores. Conócelo y sigue practicando.
 
 ## Python
 
 - [Analista de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (Unipython)
-- [Aprende programación en Python desde cero](https://www.udemy.com/course/aprende-programacion-en-python-desde-cero){:target="_blank" rel="nofollow,noreferrer"}
 - [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante){:target="_blank" rel="nofollow,noreferrer"} (Unipython)
-- [Aprende Python desde cero](https://www.udemy.com/aprende-python-desde-cero-b){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Aprende Python desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-python-desde-cero-b%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Creación de APIs RESTful con Flask – Python](https://unipython.com/curso-de-creacion-de-api-restful-en-flask-python){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso de Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
 - [Cursos Python](https://cursospython.com/){:target="_blank" rel="nofollow,noreferrer"} (HTML) - Página web en español
 - [Interfaz Gráfica con Tkinter](https://unipython.com/curso-de-tkinter){:target="_blank" rel="nofollow,noreferrer"}
-- [Master en Python3. Aprende de 0 a EXPERTO Practicando](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando){:target="_blank" rel="nofollow,noreferrer"}
+- [Master en Python3. Aprende de 0 a EXPERTO Practicando](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-el-lenguaje-de-programacion-python3-practicando%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python){:target="_blank" rel="nofollow,noreferrer"}
 - [Programación para todos (empezando con Python)](https://www.edx.org/es/course/programacion-para-todos-empezando-con-python){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Michigan)
 - [Python Avanzado con Dlib & OpenCV](https://unipython.com/curso-de-python-avanzado-con-dlib-opencv){:target="_blank" rel="nofollow,noreferrer"}
-- [Python 3. Curso completo de Python 3. Aprende desde cero](https://www.udemy.com/course/curso-python){:target="_blank" rel="nofollow,noreferrer"}
 - [Selenium con Python](https://unipython.com/curso-selenium){:target="_blank" rel="nofollow,noreferrer"}
-- [Taller de creación de Backdoors con Python - Parte 1](https://www.udemy.com/course/backdoors-with-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
-- [TensorFlow para Deep Learning y Python](https://www.udemy.com/course/curso-de-tensorflow-para-deep-learning-y-python){:target="_blank" rel="nofollow,noreferrer"}
+- [Taller de creación de Backdoors con Python - Parte 1](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbackdoors-with-python%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
-- [Introducción a la Programación con Python](https://www.udemy.com/course/introduccion-a-la-programacion-con-python-juan-de-la-torre){:target="_blank" rel="nofollow,noreferrer"}
+- [Introducción a la Programación con Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-la-programacion-con-python-juan-de-la-torre%2F){:target="_blank" rel="nofollow,noreferrer"} (Juan de la Torre, Udemy)
 - [Qt usando Python y PyQT](https://www.youtube.com/playlist?list=PLEtcGQaT56cj81xiNCrJnoAjc66uZVXDa){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
 - [Web Scraping](https://www.youtube.com/playlist?list=PLuaGRMrO-j-8B_RT_2kGE6NW-ZxzHaU17){:target="_blank" rel="nofollow,noreferrer"} (Leonardo Kuffo, Youtube) (2017)
 
@@ -584,9 +549,9 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 - [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## Ruby
+## **Cursos Gratis Ruby**
 
-- [Crear aplicaciones con Ruby](https://www.udemy.com/crear-aplicaciones-con-ruby){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Aprende a programar con Ruby](https://www.youtube.com/playlist?list=PLmpZi4g2hDnl0UnkUd0ZG_a_tt4EQEdpB){:target="_blank" rel="nofollow,noreferrer"} (Adaptar.ME, Youtube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -594,6 +559,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 ### Ruby and Rails
 
+- [Ruby and Rails Básico](https://www.youtube.com/watch?v=GDgzK0xTAYM){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 - [Introducción a Ruby on Rails y servicios REST](https://plataforma.keepcoding.io/courses/enrolled/123885){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 
 ## Sistemas de ERP
@@ -609,24 +575,25 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Swift <i class="fab fa-apple"></i>
+## Swift
 
-- [Aprende Swift y SpriteKit con el juego piedra papel o tijera](https://www.udemy.com/course/aprende-swift-y-spritekit-con-el-juego-piedra-papel-o-tijera)
-- [Como integrar las In App Purchases en iOS con Swift; programación en dispositivos de Apple](https://www.udemy.com/course/monetiza-tu-app-o-videojuego-con-storekit)
+- [¿Cómo crear formularios de forma sencilla usando Swift?](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-formularios-de-forma-sencilla-usando-swift%2F "¿Cómo crear formularios de forma sencilla usando Swift?") por Gabriel Mejia & Ricardo Echeverry & Santiago Castaño (Udemy)
+- [iOS 10 y Swift 3, Desarrollo de Aplicaciones Desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-app-ios-swift%2F "iOS 10 y Swift 3, Desarrollo de Aplicaciones Desde Cero") por Juan Villalvazo & Gabo Cuadros (Udemy)
+- [iOS 12 y Swift 4 - Crea 3 Aplicaciones Geniales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-ios-11-y-swift-4-crea-3-aplicaciones-geniales%2F "iOS 12 y Swift 4 - Crea 3 Aplicaciones Geniales") por Camilo Noguera (Udemy)
+- [Aprende Swift y SpriteKit con el juego piedra papel o tijera](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-swift-y-spritekit-con-el-juego-piedra-papel-o-tijera%2F "Aprende Swift y SpriteKit con el juego piedra papel o tijera") (Juan Carlos Salazar Mesa, Udemy)
+- [Como integrar las In App Purchases en iOS con Swift; programación en dispositivos de Apple](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmonetiza-tu-app-o-videojuego-con-storekit%2F) por Juan Gabriel Gomila Salas (Udemy)
+- [Curso iOS 11 y Swift 4. Crea 3 aplicaciones geniales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-ios-11-y-swift-4-crea-3-aplicaciones-geniales%2F) (Camilo Noguera, Udemy)
+- [Crea tu app con swift y firebase](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-app-con-swift-y-firebase%2F "Crea tu app con swift y firebase") por Víctor Alfonso Manzanero (Udemy)
 - [Entendiendo Swift](https://campusiosonline.com/courses/entendiendo-swift)
-- [Curso iOS 11 y Swift 4. Crea 3 aplicaciones geniales](https://www.udemy.com/curso-ios-11-y-swift-4-crea-3-aplicaciones-geniales) (Udemy)
-- [De Objetive-C a Swift](https://www.udemy.com/objective-c-a-swift) (Udemy)
-- [El lenguaje de programación Swift](https://www.udemy.com/el-lenguaje-de-programacion-swift) (Udemy)
-- [Iniciación a Swift: mi primera app para iOs](https://www.udemy.com/curso-swift-3) (Udemy)
+- [Iniciación a Swift: mi primera app para iOs](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-swift-3%2F) por Juan Gabriel Gomila Salas (Udemy)
+- [Iniciación a Swift y Xcode](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-iniciacion-a-swift-y-xcode%2F) (Furacu Developers, Udemy)
 - [Introducción a Fundamentos de Swift 3.0](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-swift) (Keep Coding)
 - [Introducción a Objective C & iOS](https://plataforma.keepcoding.io/p/introduccin-a-objective-c-ios){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Introducción a iOS Avanzado](https://plataforma.keepcoding.io/p/introduccion-programacion-ios-avanzada){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-- [Swift, las bases del lenguaje de Apple para hacer apps](https://www.udemy.com/swift-2-de-padawan-a-maestro-jedi) (Udemy)
 - [Soy iOS Dev. El mundo del desarrollo iOS](https://campusiosonline.com/courses/soy-ios-dev-el-mundo-del-desarrollo-ios)
-- [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
-- [Programando Apps de iOS](https://www.udemy.com/programando-apps-para-ios){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [XCode para iOS, iOS 6.1, Xcode 4.6](https://www.youtube.com/playlist?list=PLrfF-ThuRn5AqHTeS4W-5VPvCPLI8ioqs){:target="_blank" rel="nofollow,noreferrer"} (Eugenio Mendoza Robaina, YouTube)
-- [XCode y Swift](https://ciberninjas.com/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-curso-xcode-swift-mouredev/){:target="_blank" rel="nofollow,noreferrer"} (Mouredev, YouTube)
+- [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios%2F "Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS") por Brais Moure & Juan Villalvazo (Udemy)
+- [XCode para iOS, iOS 6.1, Xcode 4.6](https://www.youtube.com/playlist?list=PLrfF-ThuRn5AqHTeS4W-5VPvCPLI8ioqs){:target="_blank" rel="nofollow,noreferrer"} por Eugenio Mendoza Robaina (YouTube)
+- [XCode y Swift](https://ciberninjas.com/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-curso-xcode-swift-mouredev/ "XCode y Swift por Mouredev"){:target="_blank" rel="nofollow,noreferrer"} por Mouredev (YouTube)
 
 ## **Cursos de Typescript**
 
@@ -634,23 +601,25 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 ## **Typescript**
 
-### ¿Qué es TypeScript?
+### ¿Qué es TypeScript? <!-- omit in toc -->
 
 Desarrollado por Microsoft, TypeScript es un lenguaje de programación de código abierto diseñado para agregar escritura estática opcional a JavaScript. Se formó con la idea de desarrollar aplicaciones masivas y luego transpilarlas a JavaScript. Dado que TypeScript es un superconjunto del lenguaje JavaScript, los programas JavaScript existentes también se pueden denominar programas TypeScript. TypeScript se incorpora como un lenguaje de programación de primera clase en las actualizaciones de 2013 y posteriores de Microsoft Visual.
 
-### ¿Cuáles son los requisitos previos para aprender TypeScript?
+### ¿Cuáles son los requisitos previos para aprender TypeScript? <!-- omit in toc -->
 
-Antes de comenzar a buscar tutoriales de TypeScript, se deben tener en cuenta algunas cosas. Como la programación de TypeScript se basa en JavaScript, una comprensión básica de la programación de JavaScript resultará muy beneficiosa. No es necesario ser un experto en JavaScript para poder aprender TypeScript; bastaría con un simple entendimiento. El conocimiento básico de la programación orientada a objetos es útil, aunque no es una necesidad, y puede resultar útil cuando comience a desarrollar programas. Una vez que domine los conceptos básicos, estará listo para navegar por los tutoriales de TypeScript y comenzar a aprender TypeScript.
+Antes de comenzar a buscar tutoriales de TypeScript, se deben tener en cuenta algunas cosas. Como la programación de TypeScript se basa en JavaScript, una comprensión básica de la programación de JavaScript resultará muy beneficiosa. No es necesario ser un experto en JavaScript para poder aprender TypeScript; bastaría con un simple entendimiento.
 
-### ¿Por qué debería aprender TypeScript?
+El conocimiento básico de la programación orientada a objetos es útil, aunque no es una necesidad, y puede resultar útil cuando comience a desarrollar programas. Una vez que domine los conceptos básicos, estará listo para navegar por los tutoriales de TypeScript y comenzar a aprender TypeScript.
 
-En un gran proyecto de JavaScript, la adopción de Typescript puede proporcionar una aplicación más robusta al final, mientras que aún se puede implementar en cualquier lugar donde se ejecute una aplicación de JavaScript normal. Inicialmente, solo era compatible con Microsoft Visual Studio, pero ahora muchos otros entornos de desarrollo integrados (IDE) lo admiten. TypeScript también tiene algunas otras características, como la capacidad de inicializar variables miembro en un constructor, con varias palabras clave en clases. Además, en algunos casos, TypeScript puede superar a JavaScript y funcionar más rápido, ya que se pueden eliminar varias comprobaciones de tipo utilizando TypeScript. 
+### ¿Por qué debería aprender TypeScript? <!-- omit in toc -->
 
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de TypeScript?
+En un gran proyecto de JavaScript, la adopción de Typescript puede proporcionar una aplicación más robusta al final, mientras que aún se puede implementar en cualquier lugar donde se ejecute una aplicación de JavaScript normal. Inicialmente, solo era compatible con Microsoft Visual Studio, pero ahora muchos otros entornos de desarrollo integrados (IDE) lo admiten.
 
-Ciberninjas es la mejor plataforma para aprender TypeScript con una gran cantidad de tutoriales de TypeScript disponibles, tanto gratuitos como de pago.
+TypeScript también tiene algunas otras características, como la capacidad de inicializar variables miembro en un constructor, con varias palabras clave en clases. Además, en algunos casos, TypeScript puede superar a JavaScript y funcionar más rápido, ya que se pueden eliminar varias comprobaciones de tipo utilizando TypeScript. 
 
-Ciberninjas puede guiarte a través de los conceptos básicos de TypeScript utilizando cursos enviados y recomendados por los miembros de la comunidad.
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de TypeScript? <!-- omit in toc -->
+
+Ciberninjas es la mejor plataforma para aprender TypeScript con una gran cantidad de tutoriales de TypeScript disponibles totalmente gratuitos. Ciberninjas puede guiarte a través de los conceptos básicos de TypeScript utilizando cursos enviados y recomendados por los miembros de la comunidad.
 
 Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últimas noticias, conocimientos, consejos y trucos y mantenerse actualizado.
 
@@ -658,8 +627,8 @@ Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últ
 
 - [Web Scraping](/web-scraping-c-sharp-con-jap-software/) (Jap Software, Youtube)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-programacion.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-programacion.webp "Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto")

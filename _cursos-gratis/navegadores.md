@@ -20,8 +20,8 @@ img: "/assets/img/paginas-cursos/cursos-navegadores.webp"
 
 - [Los Mejores Trucos con las Herramientas de Desarrollo de Chrome](/trucos-herramientas-desarrollo-de-chrome/){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+
+### **Relacionados** <!-- omit in toc -->
 
 ![](/assets/img/paginas-cursos/cursos-navegadores.webp)

@@ -69,8 +69,8 @@ Los **mejores cursos gratuitos de creación y gestión de redes en la red**.
 - [Windows Server 2012](http://nksistemas.com/category/infraestructura/windows-2012){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 - [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-redes.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre redes y conexiones de ordenadores y otros dispositivos, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-redes.webp "Los mejores cursos gratuitos con los que aprender todo sobre redes y conexiones de ordenadores y otros dispositivos, desde cero hasta nivel experto")

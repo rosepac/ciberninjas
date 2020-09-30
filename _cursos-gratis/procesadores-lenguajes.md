@@ -9,9 +9,9 @@ tags: [Cursos Gratis, Procesadores de Lenguajes]
 title: "▷ 7 Mejores cursos gratis de procesadores de lenguajes"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre los procesadores de lenguajes, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre los procesadores de lenguajes, desde cero hasta nivel experto"
-date: 2020-08-21T10:22:00.000+02:00
+date: 2020-09-28T10:22:00.000+02:00
 permalink: /cursos-de-procesadores-de-lenguajes/
-canonical_URL: https://ciberninjas.com/cursos-procesadores-de-lenguajes/
+canonical_URL: https://ciberninjas.com/cursos-de-procesadores-de-lenguajes/
 thumbnail: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 feature-img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 🔨 Procesadores de Lenguajes
+## **Cursos Gratis de Procesadores de Lenguajes**
 
 - [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Microprocesadores (2006)](http://ocw.upm.es/tecnologia-electronica/microprocesadores){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -31,8 +31,8 @@ img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 - [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre los procesadores de lenguajes, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp "Los mejores cursos gratuitos con los que aprender todo sobre los procesadores de lenguajes, desde cero hasta nivel experto")

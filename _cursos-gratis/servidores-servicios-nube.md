@@ -26,6 +26,7 @@ Los mejores cursos gratuitos para aprender a utilizar los servicios en la nube m
 - [**Cursos Gratis de Servidores y Servicios en la Nube**](#cursos-gratis-de-servidores-y-servicios-en-la-nube)
 - [**Cursos Gratis de Docker**](#cursos-gratis-de-docker)
 - [**Cursos Gratis de Node**](#cursos-gratis-de-node)
+- [**Cursos Gratis de Vagrant**](#cursos-gratis-de-vagrant)
 - [**¿Qué es Docker?**](#qué-es-docker)
   - [**¿Cuáles son los requisitos previos para aprender Docker?**](#cuáles-son-los-requisitos-previos-para-aprender-docker)
   - [**¿Por qué debería aprender Docker?**](#por-qué-debería-aprender-docker)
@@ -84,6 +85,9 @@ Los mejores cursos gratuitos para aprender a utilizar los servicios en la nube m
 - [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 - [Taller de NodeJS](https://plataforma.keepcoding.io/p/nodejs-bundle-web-bootcamp){:target="_blank" rel="nofollow,noreferrer"}
 
+## **Cursos Gratis de Vagrant**
+
+- [Primeros pasos con Vagrant](https://www.youtube.com/playlist?list=PLmpZi4g2hDnn3poIpgMzxiVETGEzg7Lt2){:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- seccionar a una página de docker -->
 ## **¿Qué es Docker?**
@@ -119,8 +123,8 @@ Todos los cursos disponibles en la plataforma son enviados y votados por los mie
 
 Aprenda cualquier servicio bajo el paraguas de Google Cloud Platform de estos mejores tutoriales y cursos en línea de Google Cloud recomendados por la comunidad de programación. Utilice filtros (en el lado derecho de esta página) para encontrar los mejores tutoriales sobre Google Compute Engine, Google App Engine, Bigtable, BigQuery, Google Storage, Google Cloud Functions, Google Cloud Datastore o tutoriales para la certificación de Google Cloud Platform. Este es su centro de formación en línea de Google Cloud Platform.
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
-![](/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp)
+### **Relacionados** <!-- omit in toc -->
+
+![Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp "Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto")

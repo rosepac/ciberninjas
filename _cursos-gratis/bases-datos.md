@@ -66,14 +66,6 @@ Los mejores cursos gratuitos con los que aprender los conceptos de SQL y bases d
 - [Introducción a SQL con Oracle 11g](https://kutt.it/intro-sql-oracle-11){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Sistema de Login en Visual Basic y SQL Server en Capas](https://kutt.it/loguin-visualbasic-sql-capas){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 
-### **Relacionados** <!-- omit in toc -->
-
-{% include cursos-bases-datos.html %}
-
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
-
-![](/assets/img/paginas-cursos/cursos-bases-datos.webp)
-
 ## **¿Qué es el lenguaje de programación SQL?**
 
 El lenguaje de consulta estructurado (SQL) es un lenguaje específico de dominio diseñado para la gestión de datos para RDBMS.
@@ -111,3 +103,11 @@ Ciberninjas ofrece numerosos tutoriales de SQL para principiantes y ofrece AZ de
 La mejor característica de la plataforma es que todos los tutoriales y cursos son enviados y votados solo por los miembros de la comunidad, lo que significa que los mejores cursos que llegan a usted son probados por otros programadores en ciernes y expertos.
 
 Sigue a Ciberninjas a través de las redes sociales para estar alerta de las últimas noticias, artículos, consejos y trucos de SQL.
+
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+
+### **Relacionados** <!-- omit in toc -->
+
+{% include cursos-bases-datos.html %}
+
+![](/assets/img/paginas-cursos/cursos-bases-datos.webp)

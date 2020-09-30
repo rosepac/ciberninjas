@@ -64,8 +64,8 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 - [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Trading Forex para principiantes - Estrategias Clave](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Festrategias-trading-forex-y-operaciones-bursatiles%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+
+### **Relacionados** <!-- omit in toc -->
 
 ![](/assets/img/paginas-cursos/cursos-blockchain-criptos.webp)

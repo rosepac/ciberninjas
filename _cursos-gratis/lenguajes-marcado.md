@@ -57,8 +57,8 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 
 - [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-### **Relacionados** <!-- omit in toc -->
-
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+
+### **Relacionados** <!-- omit in toc -->
 
 ![Mejores cursos gratis de diseño web y lenguajes de marcado: HTML, XHTML, Markdown, Yaml, etc](/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp "Mejores cursos gratis de diseño web y lenguajes de marcado: HTML, XHTML, Markdown, Yaml, etc")
