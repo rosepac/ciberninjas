@@ -30,15 +30,10 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Septiembre**
 
-### 🔔 29 de Septiembre  <!-- omit in toc -->
-
-- (12:00 hasta 20:30 PM) Congreso de Marketing Digital - [Registro](https://www.marketingandweb.es/congreso-marketing-digital/evento/){:target="_blank" rel="nofollow, noreferrer"}
-- (19:00 PM) Construyendo AI sin sesgos de género - [Registro](https://events.codemotion.com/webinars/memoirs-of-a-geisha-construyendo-ai-sin-sesgos-de-gnero/){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 30 de Septiembre  <!-- omit in toc -->
 
-- (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- (23:00) Primavera UX UI: Diseño UI. Diseñando la interfaz 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"}
+- Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (15:00)
+- Primavera UX UI: Diseño UI. Diseñando la interfaz 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"} (23:00)
 
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
@@ -46,29 +41,29 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 3 de Octubre  <!-- omit in toc -->
 
-- PyConES 2020 (https://2020.es.pycon.org/){:target="_blank" rel="nofollow, noreferrer"} 🎥 [Directo](https://www.youtube.com/channel/UCyth_6hqft9a7B_thdwYyww){:target="_blank" rel="nofollow, noreferrer"} De 9:30 a 21:00 H. Esp.
+- [Conferencia](https://2020.es.pycon.org/){:target="_blank" rel="nofollow, noreferrer"} PyConES 2020 🎥 [Directo](https://www.youtube.com/channel/UCyth_6hqft9a7B_thdwYyww){:target="_blank" rel="nofollow, noreferrer"} De 9:30 a 21:00 H. Esp.
 - Conferencia de Tecnología [vOpen 2020](https://bit.ly/vopentech){:target="_blank" rel="nofollow, noreferrer"}
-- (14:00) TotoConf 🎥 [DIRECTO](https://www.twitch.tv/totoconf_toitospower){:target="_blank" rel="nofollow, noreferrer"}
+- TotoConf 🎥 [DIRECTO](https://www.twitch.tv/totoconf_toitospower){:target="_blank" rel="nofollow, noreferrer"} (14:00)
 
 ### 🔔 6 de Octubre  <!-- omit in toc -->
 
-- (19:00 PM) Los Piratas del cloud: Nuevos retos de ciberseguridad - [Registro](https://events.codemotion.com/webinars/los-piratas-del-cloud-nuevos-retos-de-ciberseguridad/){:target="_blank" rel="nofollow, noreferrer"}
+- Los Piratas del cloud: Nuevos retos de ciberseguridad - [Registro](https://events.codemotion.com/webinars/los-piratas-del-cloud-nuevos-retos-de-ciberseguridad/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM H. ESP.) 
 
 ### 🔔 7 de Octubre  <!-- omit in toc -->
 
-- (13:00 H. Esp.) Neo4j y Gestión 360 de Clientes 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Neo4j y Gestión 360 de Clientes 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00 H. Esp.)
 
 ### 🔔 13 de Octubre  <!-- omit in toc -->
 
-- (19:00 PM) Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"}
+- Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 
 ### 🔔 14 de Octubre  <!-- omit in toc -->
 
-- (18:00 PM) Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"}
+- Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"} (18:00 PM)
 
 ### 🔔 17 de Octubre  <!-- omit in toc -->
 
-- PEUMConf 2020
+- PEUMConf 2020 ([Programar Es Una Mierda](https://www.programaresunamierda.com/p/peumconf-2019.html){:target="_blank" rel="nofollow, noreferrer"})
 
 ### 🔔 20 de Octubre  <!-- omit in toc -->
 
@@ -78,7 +73,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 21 de Octubre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
-- (13:00 H. Esp.) Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00 H. Esp.)
 
 ### 🔔 22 de Octubre  <!-- omit in toc -->
 
@@ -93,11 +88,11 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 27 de Octubre  <!-- omit in toc -->
 
-- (19:00 PM) Operadores de Kubernetes: Operando servicios nativos de la nube a escala - [REGISTRO](https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/){:target="_blank" rel="nofollow, noreferrer"}
+- Operadores de Kubernetes: Operando servicios nativos de la nube a escala - [REGISTRO](https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 
 ### 🔔 29 de Octubre  <!-- omit in toc -->
 
-- (11:00 AM) Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"}
+- Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"} (11:00 AM)
 
 ## **Agenda y Eventos tecnológicos de Noviembre**
 
@@ -894,3 +889,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - (02:00 AM H. ESP.) CiberForensic 📢 [Conferenciantes](http://www.ciberforensic.org/speakers){:target="_blank" rel="nofollow,noreferrer"} 👉 [Registro](http://www.ciberforensic.org/free-edition){:target="_blank" rel="nofollow,noreferrer"}
 - (15:00) Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+
+### 🔔 29 de Septiembre  <!-- omit in toc -->
+
+- (12:00 hasta 20:30 PM) Congreso de Marketing Digital - [Registro](https://www.marketingandweb.es/congreso-marketing-digital/evento/){:target="_blank" rel="nofollow, noreferrer"}
+- (19:00 PM) Construyendo AI sin sesgos de género - [Registro](https://events.codemotion.com/webinars/memoirs-of-a-geisha-construyendo-ai-sin-sesgos-de-gnero/){:target="_blank" rel="nofollow, noreferrer"}
