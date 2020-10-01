@@ -35,16 +35,48 @@ Al responder a estas preguntas, los colaboradores de estos libros brindan inform
 
 **Si eres un desarrollador intermedio o senior y desea ver cómo sus compañeros han resuelto problemas complejos de diseño**, estos libros también pueden ayudarte.
 
+-----
+
 El contenido se encuentra en inglés, en principio, es bastante entendible mediante la traducción automática; aunque pueda haber alguna parte un poco extraterrestre. Lo que yo he revisado, me ha parecido bastante entendible.
+
+El contenido de estos libros se encuentra bajo licencia  [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/legalcode){:target="_blank" rel="nofollow,noreferrer"}, y se encuentran [disponible para su compra en inglés](http://aosabook.org/en/buy.html#fh){:target="_blank" rel="nofollow,noreferrer"} tanto en papel como en PDF.
+
+Lo más importante, es, que cualquier beneficio derivado de su venta será donado a [Amnistía Internacional](http://amnesty.org/){:target="_blank" rel="nofollow,noreferrer"}. Por ello, está página no contendra anuncios, ¡Qué lo disfruten! 🤗
+
+-----
 
 A continuación, un índice completo del contenido de los cuatros libros:
 
-- [**La arquitectura de las Aplicaciones de Código Abierto I**](#la-arquitectura-de-las-aplicaciones-de-código-abierto-i)
-- [**La arquitectura de las Aplicaciones de Código Abierto II**](#la-arquitectura-de-las-aplicaciones-de-código-abierto-ii)
-- [**El rendimiento de las aplicaciones de código abierto**](#el-rendimiento-de-las-aplicaciones-de-código-abierto)
-- [**500 Líneas o menos**](#500-líneas-o-menos)
+- [**Introducción: La arquitectura de las Aplicaciones de Código Abierto I**](#introducción-la-arquitectura-de-las-aplicaciones-de-código-abierto-i)
+- [**Libro: La arquitectura de las Aplicaciones de Código Abierto I**](#libro-la-arquitectura-de-las-aplicaciones-de-código-abierto-i)
+- [**Introducción: La arquitectura de las Aplicaciones de Código Abierto II**](#introducción-la-arquitectura-de-las-aplicaciones-de-código-abierto-ii)
+- [**Libro: La arquitectura de las Aplicaciones de Código Abierto II**](#libro-la-arquitectura-de-las-aplicaciones-de-código-abierto-ii)
+- [**Introducción: El rendimiento de las Aplicaciones de Código Abierto**](#introducción-el-rendimiento-de-las-aplicaciones-de-código-abierto)
+- [**Libro: El rendimiento de las aplicaciones de código abierto**](#libro-el-rendimiento-de-las-aplicaciones-de-código-abierto)
+- [**Introducción 500 Líneas o Menos**](#introducción-500-líneas-o-menos)
+- [**Libro: 500 Líneas o Menos**](#libro-500-líneas-o-menos)
 
-## **La arquitectura de las Aplicaciones de Código Abierto I**
+## **Introducción: La arquitectura de las Aplicaciones de Código Abierto I**
+
+La carpintería es un oficio exigente y las personas pueden pasar toda su vida aprendiendo cómo hacerlo bien. Pero la carpintería no es arquitectura: si nos alejamos de los tableros de madera y las juntas de inglete, los edificios en su conjunto deben diseñarse, y hacer eso es tanto un arte como un oficio o una ciencia.
+
+La programación también es un oficio exigente, y las personas pueden pasar toda su vida aprendiendo cómo hacerlo bien. Pero la programación no es una arquitectura de software. Muchos programadores pasan años pensando (o luchando con) problemas de diseño más importantes:
+
+¿Debería ser extensible esta aplicación? Si es así, ¿debería hacerse proporcionando una interfaz de scripting, a través de algún tipo de mecanismo de complemento, o de alguna otra manera? ¿Qué debería hacer el cliente, qué debería dejarse en manos del servidor? ¿Es "cliente-servidor" una forma útil de pensar en esta aplicación?
+
+No se trata de cuestiones de programación, como tampoco de dónde poner las escaleras es una cuestión de carpintería.
+
+La arquitectura de construcción y la arquitectura de software tienen mucho en común, pero hay una diferencia crucial. Mientras que los arquitectos estudian miles de edificios en su formación y durante sus carreras, la mayoría de los desarrolladores de software solo llegan a conocer bien un puñado de programas grandes.
+
+Y la mayoría de las veces, esos son programas que ellos mismos escribieron. Nunca llegan a ver los grandes programas de la historia ni a leer críticas de los diseños de esos programas escritas por practicantes experimentados. Como resultado, repiten los errores de los demás en lugar de basarse en los éxitos de los demás.
+
+Este libro es nuestro intento de cambiar eso. Cada capítulo describe la arquitectura de una aplicación de código abierto: cómo está estructurada, cómo interactúan sus partes, por qué está construida de esa manera y qué lecciones se han aprendido que se pueden aplicar a otros grandes problemas de diseño.
+
+Las descripciones están escritas por las personas que mejor conocen el software, personas con años o décadas de experiencia en el diseño y rediseño de aplicaciones complejas. Las aplicaciones en sí varían en escala, desde simples programas de dibujo y hojas de cálculo basadas en web hasta conjuntos de herramientas de compilación y paquetes de visualización de varios millones de líneas.
+
+Algunos tienen solo unos pocos años, mientras que otros se acercan a su trigésimo aniversario. Lo que tienen en común es que sus creadores han pensado mucho en su diseño y están dispuestos a compartir esos pensamientos contigo.
+
+## **Libro: La arquitectura de las Aplicaciones de Código Abierto I**
 
 |                                                     |                                                              |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -76,7 +108,20 @@ A continuación, un índice completo del contenido de los cuatros libros:
 | 25.                                                 | [Batalla por Wesnoth](http://aosabook.org/en/wesnoth.html){:target="_blank" rel="nofollow,noreferrer"}   | [Richard Shimooka](/arquitectura-apps-colaboradores/#shimooka-richard){:target="_blank" rel="nofollow,noreferrer"} y [David White](/arquitectura-apps-colaboradores/#white-david){:target="_blank" rel="nofollow,noreferrer"} |
 |                                                     | [Bibliografía](http://aosabook.org/en/bib1.html){:target="_blank" rel="nofollow,noreferrer"}             |                                                              |
 
-## **La arquitectura de las Aplicaciones de Código Abierto II**
+
+## **Introducción: La arquitectura de las Aplicaciones de Código Abierto II**
+
+En la introducción al Volumen II de esta serie, escribimos:
+
+La arquitectura de construcción y la arquitectura de software tienen mucho en común, pero hay una diferencia crucial. Mientras que los arquitectos estudian miles de edificios en su formación y durante sus carreras, la mayoría de los desarrolladores de software solo llegan a conocer bien un puñado de programas grandes ... Como resultado, repiten los errores de los demás en lugar de aprovechar los éxitos de los demás ... intente cambiar eso.
+
+En el año transcurrido desde que apareció ese libro, más de dos docenas de personas han trabajado duro para crear la secuela que tienes en tus manos. Lo han hecho porque creen, como nosotros, que el diseño de software puede y debe enseñarse con el ejemplo, que la mejor manera de aprender a pensar como un experto es estudiar cómo piensan los expertos.
+
+Desde servidores web y compiladores a través de sistemas de administración de registros médicos hasta la infraestructura que usa Mozilla para sacar a Firefox por la puerta, hay lecciones a nuestro alrededor. Esperamos que al recopilar algunos de ellos en este libro, podamos ayudarlo a convertirse en un mejor desarrollador.
+
+> - ***Amy Brown y Greg Wilson***
+
+## **Libro: La arquitectura de las Aplicaciones de Código Abierto II**
 
 | [ Introducción](/arquitectura-apps-colaboradores/){:target="_blank" rel="nofollow,noreferrer"} | [Amy Brown](/arquitectura-apps-colaboradores/#brown-amy){:target="_blank" rel="nofollow,noreferrer"} y [Greg Wilson](/arquitectura-apps-colaboradores/#wilson-greg){:target="_blank" rel="nofollow,noreferrer"} |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -106,7 +151,30 @@ A continuación, un índice completo del contenido de los cuatros libros:
 | 24.                                                 | [ZeroMQ](http://aosabook.org/en/zeromq.html){:target="_blank" rel="nofollow,noreferrer"}                 | [Martín Sústrik](/arquitectura-apps-colaboradores/#martin-sustrik){:target="_blank" rel="nofollow,noreferrer"} |
 |                                                     | [Bibliografía](http://aosabook.org/en/bib2.html){:target="_blank" rel="nofollow,noreferrer"}             |                                                              |
 
-## **El rendimiento de las aplicaciones de código abierto**
+
+## **Introducción: El rendimiento de las Aplicaciones de Código Abierto**
+
+Es un lugar común decir que el hardware de las computadoras es ahora tan rápido que la mayoría de los desarrolladores no tienen que preocuparse por el rendimiento. De hecho, Douglas Crockford se negó a escribir un capítulo para este libro por esa razón:
+
+> Si tuviera que escribir un capítulo, sería sobre anti-desempeño: la mayor parte del esfuerzo invertido en la búsqueda del desempeño es en vano. No creo que eso sea lo que estás buscando.
+
+Donald Knuth hizo lo mismo hace treinta años:
+
+> Deberíamos olvidarnos de las pequeñas eficiencias, digamos alrededor del 97% del tiempo: la optimización prematura es la raíz de todos los males.
+
+Pero entre los dispositivos móviles con potencia y memoria limitada, y los proyectos de análisis de datos que necesitan terabytes de proceso, un número creciente de desarrolladores *no* necesitan para hacer su código más rápido, sus estructuras de datos más pequeños, y sus tiempos de respuesta más cortos.
+
+Sin embargo, aunque cientos de libros de texto explican los conceptos básicos de los sistemas operativos, las redes, los gráficos por computadora y las bases de datos, pocos (si los hay) explican cómo encontrar y arreglar cosas en aplicaciones reales que son simplemente demasiado lentas.
+
+Esta colección de casos de estudio es nuestro intento de llenar ese vacío. Cada capítulo está escrito por desarrolladores reales que han tenido que hacer que un sistema existente sea más rápido o que han tenido que diseñar algo para que sea rápido en primer lugar.
+
+Cubren muchos tipos diferentes de software y objetivos de rendimiento; lo que tienen en común es una comprensión detallada de lo que sucede realmente, cuándo y cómo encajan las diferentes partes de las aplicaciones grandes.
+
+Nuestra esperanza es que este libro, al igual que su predecesor, *La arquitectura de aplicaciones de código abierto, lo* ayudará a convertirse en un mejor desarrollador al permitirle mirar por encima de los hombros de estos expertos.
+
+> - ***Tavish Armstrong***
+
+## **Libro: El rendimiento de las aplicaciones de código abierto**
 
 | [ Introducción](/arquitectura-apps-colaboradores/){:target="_blank" rel="nofollow,noreferrer"} | [Tavish Armstrong](/arquitectura-apps-colaboradores/#tavish-armstrong){:target="_blank" rel="nofollow,noreferrer"} |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -123,32 +191,48 @@ A continuación, un índice completo del contenido de los cuatros libros:
 | 11                                                           | [Deformación](http://aosabook.org/en/posa/warp.html){:target="_blank" rel="nofollow,noreferrer"}         | [Kazu Yamamoto](/arquitectura-apps-colaboradores/#kazu-yamamoto){:target="_blank" rel="nofollow,noreferrer"} , [Michael Snoyman](/arquitectura-apps-colaboradores/#michael-snoyman){:target="_blank" rel="nofollow,noreferrer"} y [Andreas Voellmy](/arquitectura-apps-colaboradores/#andreas-voellmy){:target="_blank" rel="nofollow,noreferrer"} |
 | 12                                                           | [Trabajando con Big Data en Bioinformática](http://aosabook.org/en/posa/working-with-big-data-in-bioinformatics.html){:target="_blank" rel="nofollow,noreferrer"} | [Eric McDonald](/arquitectura-apps-colaboradores/#eric-mcdonald){:target="_blank" rel="nofollow,noreferrer"} y [C. Titus Brown](/arquitectura-apps-colaboradores/#titus-brown){:target="_blank" rel="nofollow,noreferrer"} |
 
-## **500 Líneas o menos**
+## **Introducción 500 Líneas o Menos**
 
-| [ Introducción](http://aosabook.org/en/500L/introduction.html){:target="_blank" rel="nofollow,noreferrer"} | Michael DiBernardo                                           |                                                       |
+Este es el cuarto volumen de la serie Arquitectura de aplicaciones de código abierto , y el primero en no incluir las palabras "aplicaciones de código abierto" en ninguna parte del título.
+
+Los primeros tres volúmenes de la serie trataban de grandes problemas que los grandes programas tenían que resolver. Para un ingeniero que está al principio de su carrera, puede ser un desafío comprender y desarrollar programas que sean mucho más grandes que unos pocos miles de líneas de código, por lo que, si bien puede ser interesante leer sobre problemas importantes, también pueden ser un desafío. para aprender.
+
+500 líneas o menos se centra en las decisiones de diseño que los programadores toman en lo pequeño cuando están construyendo algo nuevo. Los programas sobre los que leerá en este libro se escribieron desde cero para este propósito (aunque varios de ellos se inspiraron en proyectos más grandes en los que los autores habían trabajado anteriormente).
+
+Antes de leer cada capítulo, le recomendamos que primero piense en cómo podría resolver el problema. ¿Qué consideraciones de diseño o limitaciones crees que el autor va a considerar importantes? ¿Qué abstracciones esperas ver? ¿Cómo cree que se va a descomponer el problema? Luego, al leer el capítulo, intente identificar qué le sorprendió. Esperamos que aprenda más haciendo esto que simplemente leyendo cada capítulo de principio a fin.
+
+Escribir un programa útil en menos de 500 líneas de código fuente --- sin recurrir a trucos baratos --- es un ejercicio desafiante en sí mismo; escribir uno para que se lea con fines pedagógicos cuando se traduce nítidamente en un libro impreso es aún más difícil. Como tal, los editores ocasionalmente se han tomado libertades con algunos de los formatos de fuente al portarlos al libro. La fuente original de cada capítulo se puede encontrar en el codesubdirectorio de su carpeta de proyecto.
+
+Esperamos que las experiencias de los autores de este libro le ayuden a salir de su zona de confort en su propia práctica de programación.
+
+> - ***Michael DiBernardo***
+
+## **Libro: 500 Líneas o Menos**
+
+| [Introducción](http://aosabook.org/en/500L/introduction.html){:target="_blank" rel="nofollow,noreferrer"} | [Michael DiBernardo](/arquitectura-apps-colaboradores/#michael-dibernardo)                                           |                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------- |
-| 1                                                            | [Blockcode: un conjunto de herramientas de programación visual](http://aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html){:target="_blank" rel="nofollow,noreferrer"} | Dethe Elza                                            |
-| 2                                                            | [Un sistema de integración continua](http://aosabook.org/en/500L/a-continuous-integration-system.html){:target="_blank" rel="nofollow,noreferrer"} | Malini Das                                            |
-| 3                                                            | [Agrupación por consenso](http://aosabook.org/en/500L/clustering-by-consensus.html){:target="_blank" rel="nofollow,noreferrer"} | Dustin J. Mitchell                                    |
-| 4                                                            | [Contingente: un sistema de construcción completamente dinámico](http://aosabook.org/en/500L/contingent-a-fully-dynamic-build-system.html){:target="_blank" rel="nofollow,noreferrer"} | Brandon Rhodes y Daniel Rocco                         |
-| 5                                                            | [Un rastreador web con asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html){:target="_blank" rel="nofollow,noreferrer"} | A. Jesse Jiryu Davis y Guido van Rossum               |
-| 6                                                            | [Dagoba: una base de datos de gráficos en memoria](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html){:target="_blank" rel="nofollow,noreferrer"} | Dann Toliver                                          |
-| 7                                                            | [DBDB: Base de datos de camas para perros](http://aosabook.org/en/500L/dbdb-dog-bed-database.html){:target="_blank" rel="nofollow,noreferrer"} | Taavi Burns                                           |
-| 8                                                            | [Un marco web basado en eventos](http://aosabook.org/en/500L/an-event-driven-web-framework.html){:target="_blank" rel="nofollow,noreferrer"} | Leo Zovic                                             |
-| 9                                                            | [Un programador de Flow Shop](http://aosabook.org/en/500L/a-flow-shop-scheduler.html){:target="_blank" rel="nofollow,noreferrer"} | Dr. Christian Muise                                   |
-| 10                                                           | [Una base de datos inspirada en la arqueología](http://aosabook.org/en/500L/an-archaeology-inspired-database.html){:target="_blank" rel="nofollow,noreferrer"} | Yoav Rubin                                            |
-| 11                                                           | [Hacer sus propios filtros de imagen](http://aosabook.org/en/500L/making-your-own-image-filters.html){:target="_blank" rel="nofollow,noreferrer"} | Cate Huston                                           |
-| 12                                                           | [Un intérprete de Python escrito en Python](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html){:target="_blank" rel="nofollow,noreferrer"} | Allison Kaptur                                        |
-| 13                                                           | [Un modelador 3D](http://aosabook.org/en/500L/a-3d-modeller.html){:target="_blank" rel="nofollow,noreferrer"} | Erick Dransch                                         |
-| 14                                                           | [Un modelo de objeto simple](http://aosabook.org/en/500L/a-simple-object-model.html){:target="_blank" rel="nofollow,noreferrer"} | Carl Friedrich Bolz                                   |
-| 15                                                           | [Reconocimiento óptico de caracteres (OCR){:target="_blank" rel="nofollow,noreferrer"}](http://aosabook.org/en/500L/optical-character-recognition-ocr.html){:target="_blank" rel="nofollow,noreferrer"} | Marina Samuel                                         |
-| dieciséis                                                    | [Un podómetro en el mundo real](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html){:target="_blank" rel="nofollow,noreferrer"} | Dessy Daskalov                                        |
+| 1                                                            | [Blockcode: un conjunto de herramientas de programación visual](http://aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html){:target="_blank" rel="nofollow,noreferrer"} | [Dethe Elza](/arquitectura-apps-colaboradores/#dethe-elza)                                            |
+| 2                                                            | [Un sistema de integración continua](http://aosabook.org/en/500L/a-continuous-integration-system.html){:target="_blank" rel="nofollow,noreferrer"} | [Malini Das](/arquitectura-apps-colaboradores/#malini-das)                                            |
+| 3                                                            | [Agrupación por consenso](http://aosabook.org/en/500L/clustering-by-consensus.html){:target="_blank" rel="nofollow,noreferrer"} | [Dustin J. Mitchell](/arquitectura-apps-colaboradores/#dustin-mitchell)                                    |
+| 4                                                            | [Contingente: un sistema de construcción completamente dinámico](http://aosabook.org/en/500L/contingent-a-fully-dynamic-build-system.html){:target="_blank" rel="nofollow,noreferrer"} | [Brandon Rhodes y Daniel Rocco](/arquitectura-apps-colaboradores/#brandon-rhodes-daniel-rocco)                         |
+| 5                                                            | [Un rastreador web con asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html){:target="_blank" rel="nofollow,noreferrer"} | [A. Jesse Jiryu Davis y Guido van Rossum](/arquitectura-apps-colaboradores/#jesse-jiryu)               |
+| 6                                                            | [Dagoba: una base de datos de gráficos en memoria](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html){:target="_blank" rel="nofollow,noreferrer"} | [Dann Toliver](/arquitectura-apps-colaboradores/#dann-toliver)                                          |
+| 7                                                            | [DBDB: Base de datos de camas para perros](http://aosabook.org/en/500L/dbdb-dog-bed-database.html){:target="_blank" rel="nofollow,noreferrer"} | [Taavi Burns](/arquitectura-apps-colaboradores/#taavi-burns)                                           |
+| 8                                                            | [Un marco web basado en eventos](http://aosabook.org/en/500L/an-event-driven-web-framework.html){:target="_blank" rel="nofollow,noreferrer"} | [Leo Zovic](/arquitectura-apps-colaboradores/#leo-zovic)                                             |
+| 9                                                            | [Un programador de Flow Shop](http://aosabook.org/en/500L/a-flow-shop-scheduler.html){:target="_blank" rel="nofollow,noreferrer"} | [Dr. Christian Muise](/arquitectura-apps-colaboradores/#christian-muise)                                   |
+| 10                                                           | [Una base de datos inspirada en la arqueología](http://aosabook.org/en/500L/an-archaeology-inspired-database.html){:target="_blank" rel="nofollow,noreferrer"} | [Yoav Rubin](/arquitectura-apps-colaboradores/#yoav-rubin)                                            |
+| 11                                                           | [Hacer sus propios filtros de imagen](http://aosabook.org/en/500L/making-your-own-image-filters.html){:target="_blank" rel="nofollow,noreferrer"} | [Cate Huston](/arquitectura-apps-colaboradores/#cate-huston)                                           |
+| 12                                                           | [Un intérprete de Python escrito en Python](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html){:target="_blank" rel="nofollow,noreferrer"} | [Allison Kaptur](/arquitectura-apps-colaboradores/#allison-kaptur)                                        |
+| 13                                                           | [Un modelador 3D](http://aosabook.org/en/500L/a-3d-modeller.html){:target="_blank" rel="nofollow,noreferrer"} | [Erick Dransch](/arquitectura-apps-colaboradores/#erick-dransch)                                         |
+| 14                                                           | [Un modelo de objeto simple](http://aosabook.org/en/500L/a-simple-object-model.html){:target="_blank" rel="nofollow,noreferrer"} | [Carl Friedrich Bolz](/arquitectura-apps-colaboradores/#carl-friedrich)                                   |
+| 15                                                           | [Reconocimiento óptico de caracteres (OCR){:target="_blank" rel="nofollow,noreferrer"}](http://aosabook.org/en/500L/optical-character-recognition-ocr.html){:target="_blank" rel="nofollow,noreferrer"} | [Marina Samuel](/arquitectura-apps-colaboradores/#marina-samuel)                                         |
+| 16                                                    | [Un podómetro en el mundo real](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html){:target="_blank" rel="nofollow,noreferrer"} | [Dessy Daskalov](/arquitectura-apps-colaboradores/#dessy-daskalov)                                        |
 | 17                                                           | [La política del mismo origen](http://aosabook.org/en/500L/the-same-origin-policy.html){:target="_blank" rel="nofollow,noreferrer"} | Eunsuk Kang, Santiago Perez De Rosso y Daniel Jackson |
-| 18                                                           | [Un muestreador de rechazo](http://aosabook.org/en/500L/a-rejection-sampler.html){:target="_blank" rel="nofollow,noreferrer"} | Jessica B. Hamrick                                    |
-| 19                                                           | [Hoja de cálculo web](http://aosabook.org/en/500L/web-spreadsheet.html){:target="_blank" rel="nofollow,noreferrer"} | Audrey Tang                                           |
-| 20                                                           | [Análisis estático](http://aosabook.org/en/500L/static-analysis.html){:target="_blank" rel="nofollow,noreferrer"} | Leah Hanson                                           |
-| 21                                                           | [Un motor de plantillas](http://aosabook.org/en/500L/a-template-engine.html){:target="_blank" rel="nofollow,noreferrer"} | Ned Batchelder                                        |
-| 22                                                           | [Un servidor web simple](http://aosabook.org/en/500L/a-simple-web-server.html){:target="_blank" rel="nofollow,noreferrer"} | Greg Wilson                                           |
+| 18                                                           | [Un muestreador de rechazo](http://aosabook.org/en/500L/a-rejection-sampler.html){:target="_blank" rel="nofollow,noreferrer"} | [Jessica B. Hamrick](/arquitectura-apps-colaboradores/jessica-hamrick)                                    |
+| 19                                                           | [Hoja de cálculo web](http://aosabook.org/en/500L/web-spreadsheet.html){:target="_blank" rel="nofollow,noreferrer"} | [Audrey Tang](/arquitectura-apps-colaboradores/audrey-tang)                                           |
+| 20                                                           | [Análisis estático](http://aosabook.org/en/500L/static-analysis.html){:target="_blank" rel="nofollow,noreferrer"} | [Leah Hanson](/arquitectura-apps-colaboradores/#leah-hanson)                                           |
+| 21                                                           | [Un motor de plantillas](http://aosabook.org/en/500L/a-template-engine.html){:target="_blank" rel="nofollow,noreferrer"} | [Ned Batchelder](/arquitectura-apps-colaboradores/#ned-batchelder)                                        |
+| 22                                                           | [Un servidor web simple](http://aosabook.org/en/500L/a-simple-web-server.html){:target="_blank" rel="nofollow,noreferrer"} | [Greg Wilson](/arquitectura-apps-colaboradores/#greg-wilson)                                          |
 
 ### **Relacionados** <!-- omit in toc -->
 
