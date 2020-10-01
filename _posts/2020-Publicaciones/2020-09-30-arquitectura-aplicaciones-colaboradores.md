@@ -8,7 +8,7 @@ tags:
 - Código Abierto
 thumbnail: /assets/img/blog/30-arquitectura-software-libre.webp
 feature-img: /assets/img/blog/30-arquitectura-software-libre.webp
-title: '▷ Colaboradres de Los Libros sobre la arquitectura de las Aplicaciones de Código Abierto'
+title: '▷ Colaboradores de Los Libros sobre la arquitectura de las Aplicaciones de Código Abierto'
 description: >-
   Pocos libros explican cómo encontrar y arreglar cosas en aplicaciones reales que son simplemente demasiado lentas.
 excerpt: >-
