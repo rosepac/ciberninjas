@@ -19,7 +19,7 @@ excerpt: false                                       # Or "truncate" (first 250 
 post_navigation: true
 color_image: /assets/img/lineart.webp                    # A bit transparent for color posts.
 # Features
-katex: true                                          # Enable if using math markup
+katex: false                                          # Enable if using math markup
 google_analytics: "UA-142542230-1  "                      # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: true                                     # To respect the usage of cookies
 cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <a href="https://ciberninjas.com/aviso-legal/">Saber Más</a>
