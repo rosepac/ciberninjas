@@ -39,10 +39,11 @@ $brand-color: #fff;
 $background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 // Typography colours
-$text-color: #262626;
+$text-color: #000000;
 $meta: #595959; //lowest gray for accessible color
 $link-color: $theme-color;
-$selection-color: #D4D4D4; // visible when highlighting text
+$selection-color: #c83233; // visible when highlighting text
+$selection-typo-color: #FFFFFF; // change select typography color
 $blockquote-color: #EEF7FA; // $background-color;
 // Header
 $header-background-color: $theme-color; // Only used when no header image
