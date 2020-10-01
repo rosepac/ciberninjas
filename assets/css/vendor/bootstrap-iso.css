@@ -2598,13 +2598,13 @@
 .bootstrap-iso .show>.btn-primary.dropdown-toggle {
     color: #fff;
     background-color:#c83233;
-    border-color: #005cbf;
+    border-color: rgba(66, 17, 2, 0.623);
 }
 
 .bootstrap-iso .btn-primary:not(:disabled):not(.disabled):active:focus,
 .bootstrap-iso .btn-primary:not(:disabled):not(.disabled).active:focus,
 .bootstrap-iso .show>.btn-primary.dropdown-toggle:focus {
-    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+    box-shadow: 0 0 0 0.2rem rgba(66, 17, 2, 0.623);
 }
 
 .bootstrap-iso .btn-secondary {
