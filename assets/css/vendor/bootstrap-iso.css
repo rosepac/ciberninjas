@@ -2577,8 +2577,8 @@
 
 .bootstrap-iso .btn-primary:hover {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    background-color: #dc3545;
+    border-color:#c83233;
 }
 
 .bootstrap-iso .btn-primary:focus,
@@ -2597,7 +2597,7 @@
 .bootstrap-iso .btn-primary:not(:disabled):not(.disabled).active,
 .bootstrap-iso .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #0062cc;
+    background-color:#c83233;
     border-color: #005cbf;
 }
 
@@ -5212,7 +5212,7 @@
 .bootstrap-iso a.badge-primary:hover,
 .bootstrap-iso a.badge-primary:focus {
     color: #fff;
-    background-color: #0062cc;
+    background-color:#c83233;
 }
 
 .bootstrap-iso a.badge-primary:focus,
@@ -6814,7 +6814,7 @@
 .bootstrap-iso a.bg-primary:focus,
 .bootstrap-iso button.bg-primary:hover,
 .bootstrap-iso button.bg-primary:focus {
-    background-color: #0062cc !important;
+    background-color:#c83233 !important;
 }
 
 .bootstrap-iso .bg-secondary {
