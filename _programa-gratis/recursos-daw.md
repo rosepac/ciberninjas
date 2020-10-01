@@ -306,23 +306,21 @@ En la siguiente web, vas a poder encontrar 28 temas, en los que aprender una gra
 {
   "@context": "https://schema.org/",
   "@type": "CreativeWork",
-  "name": "Hoja de ruta del FP de Desarrollo de Aplicaciones Web / DAW",
+  "name": "Formación Profesional Desarrollo de Aplicaciones Web",
   "learningResourceType": [
-    "hoja de ruta",
-    "recursos de aprendizaje",
-    "libros de desarrollo de aplicaciones web"
-    "cursos de desarrollo de aplicaciones web"
+    "lesson plan",
+    "learning activity"
     ],
   "audience": {
     "@type": "EducationalAudience",
-    "educationalRole": "Students"
+    "educationalRole": "student"
   },
   "educationalLevel": {
     "@type": "DefinedTerm",
-    "inDefinedTermSet": "US Grade Levels",
-    "name": "2",
-    "url": "http://purl.org/ASN/scheme/ASNEducationLevel/2"
+    "inDefinedTermSet": "Ciclo Formativo de Grado Superior",
+    "name": "Desarrollo de Aplicaciones Web",
+    "url": "https://www.boe.es/boe/dias/2010/11/11/pdfs/BOE-A-2010-17329.pdf"
   },
-  "url": "http://example.org/lessonplan"
+  "url": "https://ciberninjas.com/recursos-daw/"
 }
 </script>

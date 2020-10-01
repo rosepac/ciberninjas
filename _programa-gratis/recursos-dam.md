@@ -127,3 +127,26 @@ Enlaces a recursos en DAW. (https://ciberninjas.com/recursos-daw/#8-empresa-e-in
 [▷ ¿Qué es un curso de especialización en la formación profesional?](/fp-cursos-especializacion/)
 
 ![Hoja de ruta de desarrollo de aplicaciones multiplataforma (DAM) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-dam.webp "Hoja de ruta de desarrollo de aplicaciones multiplataforma (DAM) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "name": "Formación Profesional Desarrollo de Aplicaciones Multiplataforma",
+  "learningResourceType": [
+    "lesson plan",
+    "learning activity"
+    ],
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "educationalLevel": {
+    "@type": "DefinedTerm",
+    "inDefinedTermSet": "Ciclo Formativo de Grado Superior",
+    "name": "Desarrollo de Aplicaciones Multiplataforma",
+    "url": "https://www.boe.es/boe/dias/2010/07/26/pdfs/BOE-A-2010-11888.pdf"
+  },
+  "url": "https://ciberninjas.com/recursos-dam/"
+}
+</script>

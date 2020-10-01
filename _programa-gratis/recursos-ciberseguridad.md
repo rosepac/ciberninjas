@@ -2,7 +2,7 @@
 
 layout: page
 title: "🥇 ▷ Hoja de ruta del curso de especialización en ciberseguridad"
-description: "Conociendo el ciclo complementario de seguridad informática, sus asignaturas, quién lo puede cursas, etc."
+description: "Conociendo el ciclo complementario de seguridad informática, sus asignaturas, quién lo puede cursar, etc."
 excerpt: "Los mejores apuntes y recursos para superar el FP de desarrollo de aplicaciones web."
 published: true
 comments: false
@@ -208,3 +208,26 @@ A continuación vas a encontrar los centros en los que se impartirá durante el 
 
 [💻 Portátiles Chulos para trabajar en seguridad informática 🔥](https://www.amazon.es/shop/cibercursos?listId=3BF50A7M6Q79J){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "name": "Curso de Especialización en Ciberseguridad",
+  "learningResourceType": [
+    "lesson plan",
+    "learning activity"
+    ],
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "educationalLevel": {
+    "@type": "DefinedTerm",
+    "inDefinedTermSet": "Curso de Especialización",
+    "name": "Curso Especialización en Ciberseguridad",
+    "url": "https://www.boe.es/eli/es/rd/2020/04/07/478/dof/spa/pdf"
+  },
+  "url": "https://ciberninjas.com/recursos-ciberseguridad/"
+}
+</script>

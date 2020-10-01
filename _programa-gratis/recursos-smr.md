@@ -188,3 +188,26 @@ Los contenidos relacionados al módulo de la seguridad informática Protección 
 [▷ ¿Qué es un curso de especialización en la formación profesional?](/fp-cursos-especializacion/)
 
 ![Hoja de ruta de sistemas microinformáticos y redes (SMR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-smr.webp "Hoja de ruta de sistemas microinformáticos y redes (SMR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "name": "Formación Profesional Sistemas Microinformáticos y Redes",
+  "learningResourceType": [
+    "lesson plan",
+    "learning activity"
+    ],
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "educationalLevel": {
+    "@type": "DefinedTerm",
+    "inDefinedTermSet": "Ciclo Formativo de Grado Medio",
+    "name": "Sistema Microinformático y Redes",
+    "url": "https://www.boe.es/boe/dias/2009/08/10/pdfs/BOE-A-2009-13252.pdf"
+  },
+  "url": "https://ciberninjas.com/recursos-smr/"
+}
+</script>

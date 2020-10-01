@@ -127,3 +127,26 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 ## **Formación en centros de trabajo** <!-- omit in toc -->
 
 ![Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones](/assets/img/paginas/fp/portada-asir.webp "Hoja de ruta de administración de sistemas informáticos en red (ASIR) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones")
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "name": "Formación Profesional Administración de Sistemas Informáticos en Red",
+  "learningResourceType": [
+    "lesson plan",
+    "learning activity"
+    ],
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "educationalLevel": {
+    "@type": "DefinedTerm",
+    "inDefinedTermSet": "Ciclo Formativo de Grado Superior",
+    "name": "Administración de Sistemas Informáticos en Red",
+    "url": "https://www.boe.es/boe/dias/2009/11/18/pdfs/BOE-A-2009-18355.pdf"
+  },
+  "url": "https://ciberninjas.com/recursos-asir/"
+}
+</script>
