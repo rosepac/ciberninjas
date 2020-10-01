@@ -38,9 +38,9 @@ excerpt: >-
   Xxisten infinitos frameworks CSS alternativas a Bootstrap / Don B. Igualmente buenos y que pueden ajustarse mejor a tus necesidades.
 canonical_URL: https://ciberninjas.com/bootstrap-alternativas/
 permalink: /bootstrap-alternativas/
-date: 2020-09-30 17:02:32
+date: 2020-10-01 14:02:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -366,6 +366,10 @@ Las alternativas a Bootstrap mencionadas en el artículo tienen sus pros y sus c
 +++++ TACIT CSS. 
 
 ### **Relacionados** <!-- omit in toc -->
+
+[▷ Mejores cursos gratis del framework Bootstrap](https://ciberninjas.com/cursos-bootstrap/)
+
+[▷ 17 Mejores cursos gratis sobre CSS y preprocesadores](https://ciberninjas.com/cursos-css-preprocesadores/)
 
 [▷ Bootstrap 5: Nuevos cambios para el framework CSS más usado](https://ciberninjas.com/bootstrap-5-alpha/)
 
