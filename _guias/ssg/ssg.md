@@ -26,7 +26,7 @@ Un generador de sitio estático adopta un enfoque diferente y genera todas las p
 
 [👉 Saber Más en Nuestra Wiki 🔨](/wiki/generador-de-sitios-estaticos){: .btn .btn--inverse .btn--large .align-center}
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Qué es StaticGen**
 
@@ -44,7 +44,7 @@ El Jamstack no se trata de tecnologías específicas. Es una nueva forma de crea
 
 Los sitios preprocesados ​​se pueden mejorar con JavaScript y las capacidades crecientes de los navegadores y servicios disponibles a través de API.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Por qué el Jamstack**
 
@@ -60,7 +60,7 @@ Con los procesos del lado del servidor abstraídos en las API de microservicio, 
 
 Cuando su implementación equivale a una pila de archivos que se pueden servir en cualquier lugar, el escalado es una cuestión de servir esos archivos en más lugares. Las CDN son perfectas para esto y, a menudo, incluyen la escala en todos sus planes.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Mejor experiencia de desarrollador**
 
@@ -80,7 +80,7 @@ Cualquier proyecto que se base en un acoplamiento estrecho entre el cliente y el
 
 Este es un listado de las mejores prácticas a seguir si deseas montar tu sitio JamStack. A la hora de crear proyectos Jamstack, realmente puedes aprovechar al máximo si prosigues algunas prácticas recomendadas; como por ejemplo, pueden ser las siguientes..
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Monta tu proyecto por completo sobre un CDN 🖐**
 
@@ -96,7 +96,7 @@ Aproveche el mundo de las herramientas de construcción modernas. Puede ser una 
 
 Debido a que el marcado Jamstack está preconstruido, los cambios de contenido no se activarán hasta que ejecute otra compilación. Automatizar este proceso te ahorrará mucha frustración. Puede hacerlo usted mismo con webhooks, o usar una plataforma de publicación que incluya el servicio automáticamente.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Despliegues atómicos 🖐**
 
@@ -109,6 +109,6 @@ Cuando el ciclo de la compilación o implementación se lanza, debes saber que y
 
 ¡Es posible que ya hayas trabajado con anterioridad en un sitio de Jamstack! Se pueden construir a mano, o con Jekyll, Hugo, Nuxt, Next, Gatsby u otros muchos; puedes conocerlos a todos desde el listad de [JamStack CMS](https://headlesscms.org/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Guía Completa de Generadores de sitios estáticos en Ciberninjas](/assets/img/paginas/sitios-estaticos.webp)

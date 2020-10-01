@@ -31,7 +31,7 @@ excerpt: >-
   ✅ Comparativa y revisión de las 16 Mejores aplicaciones GRATIS. Programas u aplicaciones para programar en CSS, HTML, Java, Python, etc GRATIS
 canonical_URL: https://ciberninjas.com/mejores-editores-texto/
 permalink: /mejores-editores-texto/
-date: 2020-03-11 09:50:32
+date: 2020-09-30 00:05:32
 last_modified_at: 
 published: true
 
@@ -39,11 +39,14 @@ published: true
 
 Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas un editor de código lo suficientemente robusto como para manejar todo lo que pueda ofrecerte. De hecho, esa va ser tu herramienta principal y más importante con diferencia, de todo tu conjunto de herramientas.
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/nmR5gEj1l9o" allowfullscreen></iframe>
+</div><br/>
+
 Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
 
 ### ¿Cuál es el mejor editor de texto para programar?
 
-<iframe width ="640" height="360" src="https://www.youtube-nocookie.com/embed/nmR5gEj1l9o?controls=0&showinfo=0" frameborder="0" allowfullscreen> </iframe>
 <br/>
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
