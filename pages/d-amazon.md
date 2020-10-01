@@ -12,7 +12,7 @@ Aún es demasiado pronto para conocer **las mejores ofertas y chollos del Black 
 
 Únicamente, deberás tener en cuenta que la pandemia actual de coronavirus COVID-19 puede hacer que Amazon realice ciertos ajustes en su venta, ya que pueden existir más problemas de los habituales a la hora de gestionar un gran aumento de la demanda en sus productos.
 
-{% include amazon.html %}s
+{% include amazon.html %}
 
 Publicaré una copia de los anuncios de Amazon y los detalles más importantes de los descuentos y la gran mayoría de las ofertas, sobre el Black Friday de 2020. Además, de tratar de traer algunas de **las mejores ofertas del Prime Day 2020** o día especial para los usuarios que son [Prime en Amazon](http://www.amazon.es/prime?tag=ciberninjas07-21){:target="_blank" rel="nofollow,noreferrer"}.
 <!-- https://www.blackerfriday.com/amazon/ -->
