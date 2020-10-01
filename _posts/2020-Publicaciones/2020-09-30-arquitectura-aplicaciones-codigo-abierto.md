@@ -41,7 +41,7 @@ El contenido se encuentra en inglés, en principio, es bastante entendible media
 
 El contenido de estos libros se encuentra bajo licencia  [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/legalcode){:target="_blank" rel="nofollow,noreferrer"}, y se encuentran [disponible para su compra en inglés](http://aosabook.org/en/buy.html#fh){:target="_blank" rel="nofollow,noreferrer"} tanto en papel como en PDF.
 
-Lo más importante, es, que cualquier beneficio derivado de su venta será donado a [Amnistía Internacional](http://amnesty.org/){:target="_blank" rel="nofollow,noreferrer"}. Por ello, está página no contendra anuncios, ¡Qué lo disfruten! 🤗
+Lo más importante, es, que cualquier beneficio derivado de su venta será donado a [Amnistía Internacional](http://amnesty.org/){:target="_blank" rel="nofollow,noreferrer"}. Por ello, está página no contendrá anuncios, ¡Qué lo disfruten! 🤗
 
 -----
 
