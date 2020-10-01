@@ -143,6 +143,6 @@ Cuando un usuario se encuentre viendo Netflix, Hulu o Prime Video, en el recién
 
 [▷ Amazon anuncia la plataforma de transmisión de juegos Luna](/amazon-anuncia-luna/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves](/assets/img/amazon/amazon-echo-show-10.webp "El nuevo Echo Show 10 de Amazon, te sigue mientras te mueves")

@@ -25,6 +25,6 @@ Muere, Fernando Corbató, el inventor de las contraseñas de computadora a los 9
 </figure>
 
 [📰 Ver la Noticia Completa](https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > Fuente: [Computer History](https://www.nytimes.com/2019/07/12/science/fernando-corbato-dead.html "Fotografía del Archivo de MIT CSAIL")

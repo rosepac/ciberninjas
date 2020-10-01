@@ -41,4 +41,4 @@ Esta iniciativa se estableció en 2018 entre Google, Facebook, Microsoft y Twitt
 
 ![La herramienta de Facebook para transferir medios a Google Photos ahora está disponible paramedall](/assets/img/blog/facebook-to-google.webp "Como parte de una iniciativa de intercambio de datos unida por compañías como Apple y Google, Facebook dice que su herramienta que permite a las personas transferir fotos y videos a una cuenta vinculada de Google Photos ahora está disponible a nivel mundial.")
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

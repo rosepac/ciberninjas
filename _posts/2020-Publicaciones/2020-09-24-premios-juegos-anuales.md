@@ -43,7 +43,7 @@ Keighley ha hablado, sobre sus ambiciones de convertir TGA en un evento de impor
 
 [▷ Los 8 juegos para PlayStation 5](https://ciberninjas.com/rumores-juegos-ps5/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página oficial de los premios The Game Awards](https://thegameawards.com/es-es "Página oficial de los premios The Game Awards"){:target="_blank" rel="nofollow,noreferrer"}
 

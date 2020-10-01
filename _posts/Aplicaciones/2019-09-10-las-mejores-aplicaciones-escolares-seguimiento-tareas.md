@@ -110,4 +110,4 @@ Cada una de ellas gestionada por una distinta metodología y no dejes de recorda
 
 ![Con estas aplicaciones estarás totalmente preparado para organizar todas tus tareas, exámenes y calendarios de estudio, escuela o universidad.](/assets/img/blog/escuela-aplicaciones-calendario-peque.webp "Con estas aplicaciones estarás totalmente preparado para organizar todas tus tareas, exámenes y calendarios de estudio, escuela o universidad.")
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

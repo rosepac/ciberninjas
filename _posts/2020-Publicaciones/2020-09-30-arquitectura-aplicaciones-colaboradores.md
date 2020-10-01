@@ -261,7 +261,7 @@ Andrew Alexeev (nginx)* : Andrew es cofundador de Nginx, Inc., la empresa detrá
 
 [La arquitectura de las Aplicaciones de Código Abierto: 4 Libros Completos Gratis](https://ciberninjas.com/arquitectura-apps-codigo-abierto/ "La arquitectura de las Aplicaciones de Código Abierto: 4 Libros Completos Gratis")
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Introducción AOSA Book](https://aosabook.org/en/posa/introduction.html "Introducción AOSA Book"){:target="_blank" rel="nofollow,noreferrer"}
 

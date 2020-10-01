@@ -541,6 +541,6 @@ Configura tu flujo de trabajo de acciones de GitHub con una versión específica
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.](/assets/img/blog/acciones-github.webp "Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.")

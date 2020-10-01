@@ -114,6 +114,6 @@ Además, si algún día decides restaurar alguna de las aplicaciones vas a poder
 
 Recuerda, solamente debes utilizar este comando si deseas reinstalar TODAS las aplicaciones de Microsoft.. 🤞
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![He compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.](/assets/img/2020-news/limpiar-aplicaciones-windows10.webp "He compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.")

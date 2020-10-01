@@ -53,7 +53,7 @@ Grandes empresas como por ejemplo; Black Hat, Atlassian, PWC, Tala, CA Technolog
 
 [Guías de Autodefensa Digital en la Red](https://ciberninjas.com/eff/autodefensa/ "Guías de Autodefensa Digital en la Red")
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web de la Fundación OWASP](https://owasp.org/ "Página web de la Fundación OWASP"){:target="_blank" rel="nofollow,noreferrer"}
 

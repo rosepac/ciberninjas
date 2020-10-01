@@ -62,6 +62,6 @@ Reels no será su propio mundo como lo es TikTok o Vine. Es otra sección más d
 
 [▷ Lemmy: Un agregador de enlaces similar a Reddit](https://ciberninjas.com/lemmynet-red-enlaces/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Reels: La nueva aplicación con la que Facebook quiere que te olvides de TikTok](https://www.theverge.com/2020/8/5/21354117/instagram-reels-tiktok-vine-short-videos-stories-explore-music-effects-filters){:target="_blank" rel="nofollow,noreferrer"}

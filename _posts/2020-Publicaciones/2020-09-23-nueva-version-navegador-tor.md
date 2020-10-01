@@ -64,7 +64,7 @@ Por tanto, puedes perfectamente descargarlo de la web oficial e instalar en una 
 
 [ 📸 Cómo publicar en Instagram desde el Ordenador](https://ciberninjas.com/como-publicar-en-instagram-%F0%9F%93%B8-desde-el-ordenador-%F0%9F%96%A5-extension-de-chrome-mobile-browser-emulator/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial del proyecto Tor](https://blog.torproject.org/new-release-tor-browser-100 "Blog oficial del proyecto Tor"){:target="_blank" rel="nofollow,noreferrer"}
 

@@ -97,7 +97,7 @@ A pesar de que he utilizado máquinas virtuales para algunas de mis clases en el
 
 Estas opciones ayudan a las personas a comenzar, pero tienen limitaciones, tarde o temprano; los estudiantes querrán o necesitarán instalar un entorno de desarrollo en sus propias computadoras; pero si separamos el aprendizaje del uso de los programas del aprendizaje de instalación del software; sus posibilidades de éxito serán mayores.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 

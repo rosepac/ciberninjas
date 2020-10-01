@@ -78,6 +78,6 @@ El equipo de PhoneGap y Apache Cordova de Adobe continuará [desarrollando herra
 
 [🚀 Ionic: Anuncia cambios importantes y presenta Capacitor 2.0](https://ciberninjas.com/ionic-anuncia-capacitor-2/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![El objetivo de PhoneGap ha sido llevar todo el poder de la web a las aplicaciones móviles y permitir que los desarrolladores móviles creen aplicaciones de alto rendimiento con una única base de código.](/assets/img/blog/phonegap-logo-cn.webp "El objetivo de PhoneGap ha sido llevar todo el poder de la web a las aplicaciones móviles y permitir que los desarrolladores móviles creen aplicaciones de alto rendimiento con una única base de código.")

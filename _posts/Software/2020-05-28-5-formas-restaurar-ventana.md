@@ -37,7 +37,7 @@ Verás el borde inferior de la ventana pero no podrás acceder al marco en el qu
 - [4. **Cambia la resolución de pantalla**](#4-cambia-la-resolución-de-pantalla)
 - [5. **Aplica la opción de detección de pantalla**](#5-aplica-la-opción-de-detección-de-pantalla)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 1. **Restaura la ventana desde la Barra de tareas**
 
@@ -60,7 +60,7 @@ Entonces, Windows moverá todas las ventanas fuera de la ventana a la pantalla r
 
 La opción siguiente, es óptima, si el problema es derivado de haber tenido varios monitores conectados. Haz clic derecho en el escritorio y selecciona "Configuración de pantalla". Luego haz clic en "Detectar" y Windows devolverá todas las ventanas que faltan a tu monitor actual.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![En Windows, a veces, la ventana de un programa aparece fuera de la pantalla y el mouse no es capaz de alcanzarla; aquí tienes las 5 mejores formas de restaurar una ventana al área visible.](/assets/img/blog/8-capturas-pantalla.webp "En Windows, a veces, la ventana de un programa aparece fuera de la pantalla y el mouse no es capaz de alcanzarla; aquí tienes las 5 mejores formas de restaurar una ventana al área visible.")
 

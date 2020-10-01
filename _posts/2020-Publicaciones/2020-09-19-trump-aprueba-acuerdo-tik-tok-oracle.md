@@ -59,7 +59,7 @@ TikTok confirmó que la compañía creará "25,000 empleos en todo el país" com
 
 [▷ El ataque de los clones de las aplicaciones similares a TikTok](https://ciberninjas.com/clones-tiktok/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Verge](https://www.theverge.com/2020/9/19/21437850/president-trump-approves-oracle-tiktok-partnership-bytedance-china-ban "Verge"){:target="_blank" rel="nofollow,noreferrer"}
 

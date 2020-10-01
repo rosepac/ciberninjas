@@ -48,6 +48,6 @@ Una técnica similar a la realizada por Google con Stadia y YouTube Gaming, pero
 
 [▷ Amazon lanza un nuevo dispositivo denominado Fire TV Cube](https://ciberninjas.com/amazon-fire-tv-cube/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Amazon anuncia la plataforma de transmisión de juegos Luna](/assets/img/amazon/25-amazon-luna.webp "Amazon anuncia la plataforma de transmisión de juegos Luna")

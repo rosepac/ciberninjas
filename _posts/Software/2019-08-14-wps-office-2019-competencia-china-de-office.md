@@ -17,7 +17,7 @@ WPS Office Software es un paquete de productividad de oficina líder para PC y d
 Establecida en 1989, WPS Office es un desarrollador líder mundial de soluciones de software de oficina, que desarrolla aplicaciones de productividad para los mercados de consumidores y empresas. Con más de mil millones de usuarios en todo el mundo, su producto estrella WPS Office ("la mejor alternativa de Microsoft Office ..." - CNET) es una de las suites de oficina multiplataforma más populares del mundo que admite iOS y Android, así como PC con Windows, Mac y Linux.
 
 [📰 Ver la Noticia Completa](https://blog.desdelinux.net/wps-office-2019-excelente-moderna-alternativa-libreoffice/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [Descarga WPS Office 2019](https://www.wps.com/es-MX/download/ "Descarga de la nueva versión de la Suite Ofimática WPS Office 2019, la única alternativa real de Office")
 

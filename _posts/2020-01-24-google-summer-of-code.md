@@ -134,6 +134,6 @@ _____
 
 * [GSOC Guía de Mentores](https://google.github.io/gsocguides/mentor/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code](/assets/img/blog/google-summer-code.webp "Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code")

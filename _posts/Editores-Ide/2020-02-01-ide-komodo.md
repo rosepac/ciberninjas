@@ -47,7 +47,7 @@ Otro apartado flexible es que no tienes porque usar las diferentes distribucione
 [✍ Web Oficial de Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.activestate.com/products/komodo-ide/ -->
 <!-- https://www.i-programmer.info/news/90-tools/13411-activestate-komodo-ide-now-free.html -->
 <!-- https://www.i-programmer.info/news/90-tools/13117-cyberchef-the-developers-ultimate-toolbox.html -->

@@ -83,7 +83,7 @@ El [foro de FreeCAD](http://forum.freecadweb.org/){:target="_blank" rel="nofollo
 
 [▷ Los Mejores Recursos para Impresoras 3D](https://ciberninjas.com/impresoras-3d-recursos/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Free Cad un software libre para la creación de diseños y modelos 3D](https://freecadweb.org/ "Free Cad un software libre para la creación de diseños y modelos 3D"){:target="_blank" rel="nofollow,noreferrer"}
 

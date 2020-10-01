@@ -91,6 +91,6 @@ Reducir los tiempos de carga de la página incluso en un segundo mejorará la ex
 
 [Twitter quiere agregar pagos a través de un modelo de suscripciones](https://ciberninjas.com/twitter-quiere-agregar-suscripciones/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [The Need for Speed, 23 años después](https://www.nngroup.com/articles/the-need-for-speed){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

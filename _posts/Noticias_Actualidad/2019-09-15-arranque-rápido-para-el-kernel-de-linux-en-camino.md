@@ -26,6 +26,6 @@ En el futuro, todavía est&aacute;n buscando optimizaciones para el proceso de a
 Aquellos que quieran aprender m&aacute;s sobre el arte de Intel para arrancar el kernel de Linux lo m&aacute;s r&aacute;pido posible, pero no en LPC2019, pueden ver [la plataforma de diapositivas de Feng](https://www.linuxplumbersconf.org/event/4/contributions/281/attachments/216/435/LPC_2019_kernel_fastboot_on_the_way.pdf) (PDF) con una descripci&oacute;n general de estas optimizaciones Clear Linux actuales y posibles.
 
 [📰 Ver la Noticia Completa](https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-Kernel-3s-to-300ms){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**\: [C&oacute;mo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms](https://www.phoronix.com/scan.php?page=news_item&amp;px=Clear-Linux-Kernel-3s-to-300ms "Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms")

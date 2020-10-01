@@ -104,7 +104,7 @@ Otra plataforma de blogs única que convierte una carpeta en un blog es [Blot](h
 
 [Generador de Sitios Estáticos](https://ciberninjas.com/wiki/generador-de-sitios-estaticos/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog del sitio web de Sprune](https://sprune.com/blog/state-of-self-serve-website-building-in-2020/ "Blog del sitio web de Sprune"){:target="_blank" rel="nofollow,noreferrer"}
 

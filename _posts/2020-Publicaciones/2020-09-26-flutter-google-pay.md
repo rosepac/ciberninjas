@@ -72,7 +72,7 @@ Cuando esté completamente migrado, Google Pay será una de las implementaciones
 
 [¿Qué puedo crear con Flutter? La mejor lista de colecciones](https://ciberninjas.com/flutter-aplicaciones-ejemplos/ "¿Qué puedo crear con Flutter? La mejor lista de colecciones")
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog Google](https://developers.googleblog.com/2020/09/google-pay-picks-flutter-to-drive-its.html "Blog Google"){:target="_blank" rel="nofollow,noreferrer"}
 

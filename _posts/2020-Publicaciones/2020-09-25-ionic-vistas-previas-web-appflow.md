@@ -117,7 +117,7 @@ Las vistas previas web están disponibles en todos los planes de Appflow. Cree u
 
 [▷ Ionic y Angular alimentan las tiendas de aplicaciones](https://ciberninjas.com/ionic-angular-alta-implementacion/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog oficial del Framework de Aplicaciones Multiplataforma Ionic](https://ionicframework.com/blog/announcing-web-previews-in-appflow/ "Blog oficial del Framework de Aplicaciones Multiplataforma Ionic"){:target="_blank" rel="nofollow,noreferrer"}
 

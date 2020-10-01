@@ -148,6 +148,6 @@ Estas plantillas, generan una publicación simple sobre un blog, que aún no pos
 
 [Generador de Sitios Estáticos](https://ciberninjas.com/wiki/generador-de-sitios-estaticos/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página de ZzFXM](https://www.11ty.dev/){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.

@@ -243,6 +243,6 @@ En inglés:
 * Fotografía de Susan Kare "iconos": [Repositorio de Twitter](https://pbs.twimg.com/media/D2OBt5xUwAA_VCD.jpg){:target="_blank" rel="nofollow,noreferrer"}
 * Fotografía Dynobook: [Wikimedia](https://en.wikiquote.org/wiki/File:Alan_Kay_and_the_prototype_of_Dynabook,_pt._5_(3010032738).jpg){:target="_blank" rel="nofollow,noreferrer"}<br /> <hr /> <a href="http://sigwait.tk/~alex/doc/bunz%2Cmercedes__school-will-never-end/"><b>Read more:</b></a><br /><a href="http://sigwait.tk/~alex/doc/bunz%2Cmercedes__school-will-never-end/" target="_blank" rel="nofollow,noreferrer">School Will Never End: On Infantilization in Digital Environments - Amplifying Empowerment or Propagating Stupidity?</a><br /><br><br> Source: <a href="http://sigwait.tk" target="_blank" rel="nofollow,noreferrer">http://sigwait.tk</a>
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Blog de Matt Lacey](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html){:target="_blank" rel="nofollow,noreferrer"}

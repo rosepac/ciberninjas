@@ -55,7 +55,7 @@ La nueva fecha límite agrega más tensión a las negociaciones que se están pr
 
 [▷ El ataque de los clones de las aplicaciones similares a TikTok](https://ciberninjas.com/clones-tiktok/)
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Yahoo News](https://news.yahoo.com/u-start-blocking-tiktok-wechat-122617979.html "Yahoo news"){:target="_blank" rel="nofollow,noreferrer"}
 

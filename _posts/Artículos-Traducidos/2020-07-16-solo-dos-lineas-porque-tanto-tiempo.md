@@ -52,7 +52,7 @@ Si puede existir algo peor que tener que arreglar un error, eso es; tener que ar
 
 Me tomo el tiempo suficiente como para asegurarme de que cualquier error esté totalmente solucionado, de modo que no sea necesario enfrentarlo, investigarlo, solucionarlo y probarlo; en resumen, trabajar sobre él, más de una sola vez.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Puede parecer una pregunta razonable, pero deja entrever terribles suposiciones: el número de líneas de código creado, no puede ser equivalente al esfuerzo realizado o a que el código sea o no de calidad.](/assets/img/2020-news/caracol-programando.webp "Puede parecer una pregunta razonable, pero deja entrever terribles suposiciones: el número de líneas de código creado, no puede ser equivalente al esfuerzo realizado o a que el código sea o no de calidad.")
 

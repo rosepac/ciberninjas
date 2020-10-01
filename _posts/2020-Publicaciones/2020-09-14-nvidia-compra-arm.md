@@ -75,6 +75,6 @@ Además, SoftBank puede recibir hasta 5 mil millones de dólares en efectivo o a
 
 La transacción propuesta está sujeta a las condiciones de cierre habituales, incluida la recepción de aprobaciones regulatorias para el Reino Unido, China, la Unión Europea y los Estados Unidos. Se espera que la transacción se complete en aproximadamente 18 meses.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Página web de las noticias de NVidia](https://nvidianews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai "Página web de las noticias de NVidia"){:target="_blank" rel="nofollow,noreferrer"}
