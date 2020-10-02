@@ -210,7 +210,9 @@ Xamarin es una tecnología de desarrollo multiplataforma que le permite entregar
 
 Xamarin Test Studio, ahora llamado Visual Studio App Center, proporciona una integración continua con su proyecto móvil, se integra con VSTS, lo que permite la planificación de requisitos, compilaciones automatizadas, implementaciones, entrega continua a tiendas, etc.
 
-Las pruebas de Xamarin son pruebas de automatización de la interfaz de usuario que le permiten realizar pruebas funcionales y la regresión de su aplicación móvil (iOS, Android o Windows), las crea en Visual Studio en un proyecto de prueba de Xamarin. Obtiene algunas funciones que le ayudan a grabar y editar scripts, como un emulador e inspector, y puede ejecutar las pruebas localmente en su estación de trabajo o puede usar Xamarin Test Cloud, que ahora también forma parte del Visual Studio App Center.
+Las pruebas de Xamarin son pruebas de automatización de la interfaz de usuario que le permiten realizar pruebas funcionales y la regresión de su aplicación móvil (iOS, Android o Windows), las crea en Visual Studio en un proyecto de prueba de Xamarin.
+
+Obtiene algunas funciones que le ayudan a grabar y editar scripts, como un emulador e inspector, y puede ejecutar las pruebas localmente en su estación de trabajo o puede usar Xamarin Test Cloud, que ahora también forma parte del Visual Studio App Center.
 
 Visual Studio App Center le permite ejecutar múltiples pruebas de interfaz de usuario de Xamarin en paralelo en cientos de dispositivos y configuraciones en Test Cloud. Estos no son emuladores, son dispositivos reales.
 
