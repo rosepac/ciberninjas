@@ -25,10 +25,11 @@ Este año, las aplicaciones móviles continuaron siendo cada vez más populares.
 
 ![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/frameworks-multiplataforma/flutter-logo-animation-v1-2.webp "Logotipo oficial del SDK multiplataforma de Flutter")
 - [**¿Qué es el kit de desarrollo Flutter?**](#qué-es-el-kit-de-desarrollo-flutter)
+- [**¿Cómo comenzar en Flutter desde cero?**](#cómo-comenzar-en-flutter-desde-cero)
 - [**¿Por qué deberías aprender Flutter?**](#por-qué-deberías-aprender-flutter)
 - [**Flutter Es simple de aprender y usar**](#flutter-es-simple-de-aprender-y-usar)
 - [**Compilación rápida y máxima productividad**](#compilación-rápida-y-máxima-productividad)
-- [** Ideal para MVP de inicio**](#-ideal-para-mvp-de-inicio)
+- [**Ideal para MVP de inicio**](#ideal-para-mvp-de-inicio)
 - [**Existe buena documentación de Flutter**](#existe-buena-documentación-de-flutter)
   - [**La comunidad en crecimiento de Flutter**](#la-comunidad-en-crecimiento-de-flutter)
 - [**Flutter es compatible con Android Studio y VS Code**](#flutter-es-compatible-con-android-studio-y-vs-code)
@@ -52,7 +53,15 @@ Para desarrollar con Flutter, utilizará un lenguaje de programación llamado Da
 
 Si conoce un poco de programación, Dart es un lenguaje de herencia única orientado a objetos. De alguna forma, se podría comparar la sintaxis de Dart con JavaScript.
 
-> "Flutter es el kit de herramientas de interfaz de usuario de Google para crear hermosas aplicaciones compiladas de forma nativa para dispositivos móviles, web y de escritorio desde una única base de código". - Google, [flutter.dev](https://flutter.dev/)
+> "Flutter es el kit de herramientas de interfaz de usuario de Google para crear hermosas aplicaciones compiladas de forma nativa para dispositivos móviles, web y de escritorio desde una única base de código". - Google, [flutter.dev](https://flutter.dev/){:target="_blank" rel="nofollow,noreferrer"}
+
+## **¿Cómo comenzar en Flutter desde cero?**
+
+Os dejo un entretenido vídeo en el que se comienza a introducir en el uso de Flutter, gracias a Google Developeres LATAM.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Dnm7zlfxyYA" allowfullscreen></iframe>
+</div><br/>
 
 ## **¿Por qué deberías aprender Flutter?**
 
@@ -72,7 +81,7 @@ Gracias a Flutter, puedes cambiar tu código y ver los resultados en tiempo real
 
 Las modificaciones significativas te obligan a volver a cargar la aplicación desde cero; pero si trabajas en apartados como el diseño o cambios de tamaño de los elementos, ¡Podrás realizarlo en tiempo real!
 
-## ** Ideal para MVP de inicio**
+## **Ideal para MVP de inicio**
 
 Si desea mostrar su producto a los inversores lo antes posible, Flutter es una buena opción. Aquí están mis 4 razones principales para usarlo para su MVP:
 
