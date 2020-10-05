@@ -13,15 +13,19 @@ bootstrap: true
 layout: post
 permalink: /wiki/gpt3/
 canonical_URL: https://ciberninjas.com/wiki/gpt3/
-feature-img: /assets/img/wiki/articulos/wiki-gpt3.webp
-img: /assets/img/wiki/articulos/wiki-gpt3.webp
+feature-img: /assets/img/wiki/articulos/wiki-gpt-3.webp
+img: /assets/img/wiki/articulos/wiki-gpt-3.webp
 ---
 
-GPT-3, es un modelo de lenguaje autorregresivo que utiliza el aprendizaje profundo para producir texto similar al de un humano. Es el modelo de predicción de lenguaje de tercera generación de la serie GPT-n creada por OpenAI, un laboratorio de investigación de inteligencia artificial con sede en San Francisco. La versión completa de GPT-3 tiene una capacidad de 175 mil millones de parámetros de aprendizaje automático, que es más de dos órdenes de magnitud mayor que la de su predecesor, GPT-2.
+GPT-3, es un modelo de lenguaje autorregresivo que utiliza el aprendizaje profundo para producir texto similar al de un humano. Es el modelo de predicción de lenguaje de tercera generación de la serie GPT-n creada por OpenAI, un laboratorio de investigación de inteligencia artificial con sede en San Francisco.
+
+La versión completa de GPT-3 tiene una capacidad de 175 mil millones de parámetros de aprendizaje automático, que es más de dos órdenes de magnitud mayor que la de su predecesor, GPT-2.
 
 GPT-3, que se introdujo en Mayo de 2020 y se encuentra en prueba beta a partir de julio de 2020, es parte de una tendencia en los sistemas de procesamiento del lenguaje natural (NLP) de representaciones de lenguaje previamente entrenadas. Antes del lanzamiento de GPT-3, el modelo de lenguaje más grande era Turing NLG de Microsoft, presentado en febrero de 2020, con una capacidad diez veces menor que la de GPT-3.
 
-La calidad del texto generado por GPT-3 es tan alta que es difícil distinguirlo del escrito por un humano, que tiene tanto beneficios como riesgos. Treinta y un investigadores e ingenieros de OpenAI presentaron el documento original del 28 de mayo de 2020 que presenta el GPT-3. En su artículo, advirtieron sobre los peligros potenciales de GPT-3 y pidieron investigación para mitigar el riesgo: David Chalmers , un filósofo australiano, describió al GPT-3 como "uno de los sistemas de inteligencia artificial más interesantes e importantes jamás producidos".
+La calidad del texto generado por GPT-3 es tan alta que es difícil distinguirlo del escrito por un humano, que tiene tanto beneficios como riesgos. Treinta y un investigadores e ingenieros de OpenAI presentaron el documento original del 28 de mayo de 2020 que presenta el GPT-3.
+
+En su artículo, advirtieron sobre los peligros potenciales de GPT-3 y pidieron investigación para mitigar el riesgo: David Chalmers , un filósofo australiano, describió al GPT-3 como "uno de los sistemas de inteligencia artificial más interesantes e importantes jamás producidos".
 
 ## **Antecedentes**
 
