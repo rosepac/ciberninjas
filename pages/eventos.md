@@ -30,6 +30,10 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
+### 🔔 5 de Octubre  <!-- omit in toc -->
+
+- ¿Cómo preparar el SEO de tu tienda para un evento de eCommerce? 🎥 [DIRECTO](https://www.eventbrite.com.ar/e/webinario-como-preparar-el-seo-de-tu-tienda-para-un-evento-de-ecommerce-tickets-122575385277?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00)
+
 ### 🔔 6 de Octubre  <!-- omit in toc -->
 
 - El videojuego: una poderosa herramienta para cambiar la realidad - Eurídice Cabañes 🎥 [DIRECTO](https://www.youtube.com/watch?v=-0hOonVKTLM&ab_channel=Mulleresdetr%C3%A1sdosVideoxogos){:target="_blank" rel="nofollow, noreferrer"} (13:00)
@@ -51,6 +55,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - Un recorrido por los márgenes: la crítica desde la periferia del sector - Eva Cid 🎥 [DIRECTO](https://www.youtube.com/watch?v=-0hOonVKTLM&ab_channel=Mulleresdetr%C3%A1sdosVideoxogos){:target="_blank" rel="nofollow, noreferrer"} (13:00)
 - ReproHack en español - LatinR 2020 🎥 [DIRECTO](https://www.youtube.com/channel/UCt950nC6jlh2ELDRPigWOkg){:target="_blank" rel="nofollow, noreferrer"} 👉 [Info.](https://www.eventbrite.com.ar/e/reprohack-en-espanol-latinr-2020-tickets-121741832097?aff=ebdssbonlinesearch){:target="_blank" rel="nofollow, noreferrer"} (15:00 PM)
 - Iníciate en UX Research en remoto 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-iniciate-en-ux-research-en-remoto-123456972127?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
+- 15 consejos para administrar BitLocker 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-15-consejos-para-administrar-bitlocker-122888760591?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
 
 ### 🔔 9 de Octubre  <!-- omit in toc -->
 
@@ -59,11 +64,16 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 13 de Octubre  <!-- omit in toc -->
 
+- Webinar: Systemic, nueva librería de inyección de dependencias para node.js - [Registro](https://www.eventbrite.es/e/entradas-webinar-systemic-nueva-libreria-de-inyeccion-de-dependencias-para-nodejs-119109867821?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 - Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 
 ### 🔔 14 de Octubre  <!-- omit in toc -->
 
 - Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"} (18:00 PM)
+
+### 🔔 16 de Octubre  <!-- omit in toc -->
+
+- DevFest Spain 2020 👉 [INFO.](https://gdg.community.dev/events/details/google-gdg-asturias-presents-devfest-spain-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 17 de Octubre  <!-- omit in toc -->
 
@@ -100,6 +110,10 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Noviembre**
 
+### 🔔 2 de Noviembre  <!-- omit in toc -->
+
+- JSConf MX online [MÁS INFORMACIÓN Y REGISTRO](https://hopin.to/events/jsconf-mx-online){:target="_blank" rel="nofollow, noreferrer"}
+
 ### 🔔 3 de Noviembre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
@@ -111,6 +125,10 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 5 de Noviembre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 11 de Noviembre  <!-- omit in toc -->
+
+- Webinar Desarrollo en la nube: De contenedores a OpenShift [MÁS INFORMACIÓN Y REGISTRO](https://www.eventbrite.es/e/entradas-webinar-desarrollo-en-la-nube-de-contenedores-a-openshift-122566962083?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 16 de Noviembre  <!-- omit in toc -->
 
