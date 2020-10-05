@@ -25,14 +25,7 @@ El ciclo de desarrollo de aplicaciones multiplataforma comparte todo un año esc
 
 Durante ese año, se estudian los módulos de bases de datos, entornos de desarrollo, formación y orientación laboral, lenguajes de marcas y sistemas de gestión de información, programación y sistemas informáticos.
 
-A continuación vas a poder encontrar todos los recursos relacionados a esos módulos:
-
-- [Bases de Datos](/recursos-daw/#1-bases-de-datos)
-- [Entornos de Desarrollo](/recursos-daw/#2-entornos-de-desarrollo)
-- [Formación y Orientación Laboral](/recursos-daw/#3-formación-y-orientación-laboral)
-- [Lenguajes de Marcas y sistemas de Gestión de Información](/recursos-daw/#4-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
-- [Programación](/recursos-daw/#5-programación)
-- [sistemas Informáticos](/recursos-daw/#6-sistemas-informáticos)
+Al final de la publicación, podrás encontrar el contenido relacionado a esos módulos, ya publicado en nuestra página sobre DAW.
 
 > **Asignaturas del segundo curso de DAW**: Subiré los apuntes de cada asignatura, poco a poco 👷‍♂️
 
@@ -47,16 +40,14 @@ Por tanto, las asignaturas específicas del FP de Desarrollo de Aplicaciones Mul
 - [5. **Sistemas de gestión empresarial**](#5-sistemas-de-gestión-empresarial)
   - [**Libros de texto de gestión empresarial**](#libros-de-texto-de-gestión-empresarial)
 - [6. **Proyecto de desarrollo de aplicaciones multiplataforma**](#6-proyecto-de-desarrollo-de-aplicaciones-multiplataforma)
-  - [**Libros de texto de desarrollo de aplicaciones multiplataforma**](#libros-de-texto-de-desarrollo-de-aplicaciones-multiplataforma)
-- [7. **Formación en centros de trabajo**](#7-formación-en-centros-de-trabajo)
-  - [**Libros de texto **](#libros-de-texto-)
 - [Recursos Extras de desarrollo de aplicaciones multiplataforma](#recursos-extras-de-desarrollo-de-aplicaciones-multiplataforma)
-  - [**Empresa e iniciativa emprendedora**](#empresa-e-iniciativa-emprendedora)
-  - [**Libros de texto de empresa e iniciativa emprendedora**](#libros-de-texto-de-empresa-e-iniciativa-emprendedora)
 
 ## 1. **Acceso a datos**
 
-
+- [Ejercicios de la Asignatura de Acceso a Datos](https://github.com/SergioGarcia1989/sv2017-accesoADatos#sv2017-accesoadatos) (2017)
+- [Materiales para el Módulo de Acceso a Datos](https://github.com/franlu/DAM-AD#acceso-a-datos) (2017)
+- [Programas en Java del Módulo de Acceso a Datos](https://github.com/Jorgechue10/AccesoDatos#acceso-a-datos) (2018)
+- [Programas en Java del Módulo de Acceso a Datos](https://github.com/afllm/AccesoDatos) (2014)
 
 ### **Libros de texto de acceso a datos**
 
@@ -66,6 +57,7 @@ Por tanto, las asignaturas específicas del FP de Desarrollo de Aplicaciones Mul
 
 ## 2. **Desarrollo de interfaces**
 
+Por lo que he estado investigando, en el módulo suelen impartir lo mismo que en el módulo de diseño de interfaces web.. 🤷‍♂️ Por lo que, en principio, vas a encontrar documentación suficiente en [los apuntes de diseño de interfaces web](/recursos-daw/#7-diseño-de-interfaces-web "Recursos para el módulo de diseño de interfaces web").
 
 ### **Libros de texto de desarrollo de interfaces**
 
@@ -75,42 +67,43 @@ Por tanto, las asignaturas específicas del FP de Desarrollo de Aplicaciones Mul
 
 ## 3. **Programación de servicios y procesos**
 
-
+- [Apuntes de Servicios y Procesos](http://oscarmaestre.github.io/) (2017)
 
 ### **Libros de texto programación de servicios y procesos**
 
-[Sintesis]() (2019) \ [Garceta]() (2017) \ [Garceta]() (2014) \ [Rama]() (2012)
+[Garceta](https://amzn.to/2SgSnXx) (2018) \ [Editorial MAD](https://amzn.to/3l67TBX) (2015) \ [Garceta](https://amzn.to/36nT1e1) (2013) \ [Rama](https://amzn.to/2GoKTPJ) (2013)
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417289313&linkId=7a3c05f622f73fd4d6c9f734cece0eea"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452616&linkId=a64641115d04c37ee3d2e8bc1a9e5e26"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8490934142&linkId=08d0b5a916a009e1ccdb113513a570c4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499642403&linkId=69e0753131ac08dfb23347939333a307"></iframe>
 
 ## 5. **Sistemas de gestión empresarial**
 
-
+- [Apuntes de Sistemas de Gestión Empresarila, enfocado en Python](https://github.com/DanielTamargo/Apuntes-SGE-Python#apuntes-sge-python) (2019)
+- [Proyecto para la asignatura Sistemas de Gestión Empresarial](https://github.com/metraroms/iesnervion-Kibra) (2015)
 
 ### **Libros de texto de gestión empresarial**
 
-[Sintesis]() (2019) \ [Garceta]() (2017) \ [Garceta]() (2014) \ [Rama]() (2012)
+[Garceta](https://amzn.to/2GrFMhG) (2013)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452624&linkId=ff01eedf3e5270cc88d24e911790208c"></iframe>
 
 ## 6. **Proyecto de desarrollo de aplicaciones multiplataforma**
 
+Los proyectos finales, se centran en las especificaciones y exigencias de cada centro, pero en resumen general. Debe ser un proyecto que incluya un poco de todo lo que se ha impartido a lo largo de los dos años de estudio.
 
-### **Libros de texto de desarrollo de aplicaciones multiplataforma**
+Desde la planificación, pasando por la elección de la metodología correcta, el planteamiento, dibujo y representación, creación y puesta en marcha de una aplicación o servicio web real.
 
-[Sintesis]() (2019) \ [Garceta]() (2017) \ [Garceta]() (2014) \ [Rama]() (2012)
-
-## 7. **Formación en centros de trabajo**
-
-
-
-### **Libros de texto **
-
+> 👷‍♂️👷‍♂️👷‍♂️👷‍♂️
 
 ## Recursos Extras de desarrollo de aplicaciones multiplataforma
 
-### **Empresa e iniciativa emprendedora**
-
-Enlaces a recursos en DAW. (https://ciberninjas.com/recursos-daw/#8-empresa-e-iniciativa-emprendedora)
-
-### **Libros de texto de empresa e iniciativa emprendedora**
+- [Bases de Datos](/recursos-daw/#1-bases-de-datos)
+- [Entornos de Desarrollo](/recursos-daw/#2-entornos-de-desarrollo)
+- [Formación y Orientación Laboral](/recursos-daw/#3-formación-y-orientación-laboral)
+- [Lenguajes de Marcas y sistemas de Gestión de Información](/recursos-daw/#4-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
+- [Programación](/recursos-daw/#5-programación)
+- [Sistemas Informáticos](/recursos-daw/#6-sistemas-informáticos)
+- [Empresa e iniciativa emprendedora](/recursos-daw/#8-empresa-e-iniciativa-emprendedora)
+- [Formación en centros de trabajo](/recursos-daw/#13-formación-en-centros-de-trabajo)
 
 ### **Relacionados** <!-- omit in toc -->
 
