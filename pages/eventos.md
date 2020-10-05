@@ -32,7 +32,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 5 de Octubre  <!-- omit in toc -->
 
-- ¿Cómo preparar el SEO de tu tienda para un evento de eCommerce? 🎥 [DIRECTO](https://www.eventbrite.com.ar/e/webinario-como-preparar-el-seo-de-tu-tienda-para-un-evento-de-ecommerce-tickets-122575385277?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00)
+- ¿Cómo preparar el SEO de tu tienda para un evento de eCommerce? 🎥 [DIRECTO](https://www.eventbrite.com.ar/e/webinario-como-preparar-el-seo-de-tu-tienda-para-un-evento-de-ecommerce-tickets-122575385277?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (23:00)
 
 ### 🔔 6 de Octubre  <!-- omit in toc -->
 
