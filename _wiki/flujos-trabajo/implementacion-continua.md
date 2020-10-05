@@ -1,8 +1,8 @@
 ---
 
-title: "Implementación continua"
-description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Implementación continua"
-excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Implementación continua"
+title: "Entrega continua"
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Entrega continua"
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Entrega continua"
 date: 2020-07-28 01:55:07
 published: true
 author: rosepac
