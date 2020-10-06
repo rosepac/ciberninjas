@@ -143,7 +143,6 @@ Con un nivel medio de competencia técnica y una conexión a Internet razonable,
 No hay una única forma de trabajo remoto; Es un viaje individual. Todos los que trabajan a distancia tienen una historia diferente, un trabajo diferente y una motivación diferente. En realidad, todo lo que necesita para trabajar a distancia es un espacio dedicado, una computadora portátil y conectividad a Internet que permita la comunicación por video.
 
 ![¿Cómo aprender a trabajar productivamente en equipo desde la distancia?](/assets/img/blog/teletrabajo-equipo.webp "¿Cómo aprender a trabajar productivamente en equipo desde la distancia?")
-/assets/img/blog/teletrabajo-equipo.webp
 
 ### **Relacionados** <!-- omit in toc -->
 

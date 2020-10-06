@@ -7,7 +7,7 @@ tags:
 - Hardware
 thumbnail: /assets/img/blog/23-soporte-camaras-web.webp
 feature-img: /assets/img/blog/23-soporte-camaras-web.webp
-title: '▷ Los mejores soportes para cámaras web 2020. Gana en comodidad a la hora de trabajar desde casa, mejora tus reuniones online y más'
+title: '▷ Los Mejores Soportes para Cámaras Web 2020. Gana en comodidad a la hora de trabajar desde casa, mejora tus reuniones online y más'
 description: >-
   Los soportes para cámaras web son una excelente manera de agregar algo de maniobrabilidad a las videoconferencias estándar. Dicho esto, aquí están 5 de los mejores soportes de cámara web para el trabajo virtual.
 excerpt: >-
