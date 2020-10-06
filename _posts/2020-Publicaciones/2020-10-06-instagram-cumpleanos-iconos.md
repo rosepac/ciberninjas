@@ -8,7 +8,7 @@ tags:
 - Instagram
 thumbnail: /assets/img/blog/cumpleanos-instagram.webp
 feature-img: /assets/img/blog/cumpleanos-instagram.webp
-title: '▷ ¡Feliz décimo cumpleaños de Instagram! El regreso de los íconos clásicos y como ha cambiado nuestras vidas'
+title: '▷ ¡Feliz décimo cumpleaños de Instagram! El regreso de los íconos clásicos y como ha cambiado con el paso de los años'
 description: >-
   Hoy, Instagram celebra su cumpleaños. Desafortunadamente, puede cambiar el ícono actual de Instagram al ícono clásico de Polaroid solo durante Octubre.
 excerpt: >-
