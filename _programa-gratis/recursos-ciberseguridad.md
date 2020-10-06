@@ -6,12 +6,13 @@ description: "Conociendo el ciclo complementario de seguridad informática, sus 
 excerpt: "Los mejores apuntes y recursos para superar el FP de desarrollo de aplicaciones web."
 published: true
 comments: false
+bootstrap: true
 date: 2020-09-02
 permalink: /recursos-fp-ciberseguridad/
 canonical_URL: https://ciberninjas.com/recursos-fp-ciberseguridad/
 thumbnail: /assets/img/paginas/fp/fp-ciberseguridad.webp
 feature-img: /assets/img/paginas/fp/fp-ciberseguridad.webp
-img: /assets/img/blog/ciberseguridad.webp
+img: /assets/img/paginas/fp/fp-ciberseguridad.webp
 
 ---
 

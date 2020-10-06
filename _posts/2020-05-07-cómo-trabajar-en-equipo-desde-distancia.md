@@ -6,9 +6,9 @@ comments: false
 tags:
 - Teletrabajo
 - Consejos
-thumbnail: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
-feature-img: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
-title: '¿Cómo aprender a trabajar productivamente en equipo desde la distancia?'
+thumbnail: /assets/img/blog/teletrabajo-equipo.webp
+feature-img: /assets/img/blog/teletrabajo-equipo.webp
+title: '▷ ¿Cómo aprender a trabajar productivamente en equipo desde la distancia?'
 description: >-
   ✅ Curso completo para trabajar adecuadamente de forma remota, uniendo y fortaleciendo al grupo de personas implicadas.
 excerpt: >-
@@ -30,8 +30,7 @@ Verás algunos de los desafíos y las oportunidades de bienestar que ofece el tr
 Vamos a explorar la importancia de administrar el tiempo, los proyectos y las cargas de trabajo como parte del perfecto trabajo en equipo, antes de aprender más sobre las herramientas y habilidades personales necesarias para comenzar a trabajar.
 
 <!-- contenido por revisar -->
-
-Cada semana de este curso se centra en los resultados del aprendizaje: las declaraciones que expresan lo que usted será capaz de hacer al final del curso. Son una forma útil de verificar cómo está progresando. Puede revisar los pasos a medida que avanza en el curso para sentirse seguro de que está alcanzando los resultados del aprendizaje. A medida que trabaja en los pasos y actividades, es posible que desee volver a consultar este paso para verificar su progreso con los resultados del aprendizaje.
+Cada semana de este curso se centra en los resultados del aprendizaje: Las declaraciones que expresan lo que usted será capaz de hacer al final del curso. Son una forma útil de verificar cómo está progresando. Puede revisar los pasos a medida que avanza en el curso para sentirse seguro de que está alcanzando los resultados del aprendizaje. A medida que trabaja en los pasos y actividades, es posible que desee volver a consultar este paso para verificar su progreso con los resultados del aprendizaje.
 
 La semana 1 cubre los siguientes resultados de aprendizaje:
 
@@ -48,11 +47,10 @@ La semana 2 cubre los siguientes resultados de aprendizaje:
 
 - [**¿Cómo han cambiado las prácticas laborales?**](#cómo-han-cambiado-las-prácticas-laborales)
 - [**¿Qué es el trabajo remoto?**](#qué-es-el-trabajo-remoto)
-- [Capacidad para trabajar en casi cualquier lugar.](#capacidad-para-trabajar-en-casi-cualquier-lugar)
-- [Los beneficios del trabajo remoto](#los-beneficios-del-trabajo-remoto)
-- [Los desafíos del trabajo remoto](#los-desafíos-del-trabajo-remoto)
-- [¿Quién trabaja de forma remota?](#quién-trabaja-de-forma-remota)
-  - [Relacionados](#relacionados)
+- [**Capacidad para trabajar en casi cualquier lugar**](#capacidad-para-trabajar-en-casi-cualquier-lugar)
+- [**Los beneficios del trabajo remoto**](#los-beneficios-del-trabajo-remoto)
+- [**Los desafíos del trabajo remoto**](#los-desafíos-del-trabajo-remoto)
+- [**¿Quién trabaja de forma remota?**](#quién-trabaja-de-forma-remota)
 
 <!-- cierro contenido por revisar -->
 ## **¿Cómo han cambiado las prácticas laborales?**
@@ -68,7 +66,7 @@ A los trabajadores que trabajan para una empresa desde su hogar u otra ubicació
 - Trabajadores remotos.
 - Trabajadores distribuidos.
 - Nómadas digitales.
-- 
+
 Por lo general, están conectados con el resto del equipo a través de las actualizaciones y comunicaciones en línea.
 
 En el lugar de trabajo tradicional, la oficina, ya se están utilizando herramientas de colaboración y comunicación gracias a los trabajadores remotos. Los trabajadores de oficina utilizan habitualmente sistemas de gestión de proyectos, por ejemplo, Trello, para gestionar los proyectos y los procesos dentro de los equipos internos.
@@ -97,7 +95,7 @@ Una encuesta de YouGov (una firma internacional de datos y análisis de investig
 
 Si desea leer el artículo de Forbes y la encuesta de YouGov, la sección Vea también contiene más información.
 
-## Capacidad para trabajar en casi cualquier lugar.
+## **Capacidad para trabajar en casi cualquier lugar**
 
 El trabajo a domicilio es solo una parte de la imagen. El número de personas que usan el hogar como base pero trabajan en otros lugares también ha aumentado en alrededor de 200,000 en los 10 años entre 2008 y 2018 a 2.66 millones. Cada vez más personas trabajan en espacios donde pueden acceder a Internet, como:
 
@@ -106,7 +104,7 @@ El trabajo a domicilio es solo una parte de la imagen. El número de personas qu
 - cafés
 - parques
 
-## Los beneficios del trabajo remoto
+## **Los beneficios del trabajo remoto**
 
 El trabajo remoto se documenta como un aumento en la productividad según una encuesta de 2016 de trabajadores remotos estadounidenses. Esta encuesta mostró que alrededor del 91% de las personas que trabajan desde casa sienten que son más productivas que cuando están en una oficina. Muchos trabajadores remotos también informaron mayores niveles de felicidad, flexibilidad y automotivación. Ver también contiene más información sobre esta encuesta.
 
@@ -117,7 +115,7 @@ Los empleadores también comparten los beneficios, tales como:
 - costos de oficina reducidos
 - Menos personal enfermo.
 
-## Los desafíos del trabajo remoto
+## **Los desafíos del trabajo remoto**
 
 Puede haber problemas para trabajar fuera de una oficina, como:
 
@@ -128,7 +126,7 @@ Puede haber problemas para trabajar fuera de una oficina, como:
 
 Contrariamente al mito de que los trabajadores remotos pasan el día bebiendo té con los pies en alto, se sugiere que en realidad corren más riesgo de estrés y exceso de trabajo. Los trabajadores independientes y los trabajadores remotos a menudo evitan otros compromisos, por lo que la frontera entre el trabajo y la vida personal puede ser aún más difícil de definir. Esto significa que es aún más importante para los trabajadores remotos asegurarse de protegerse de largas sesiones de trabajo y descansos inadecuados.
 
-## ¿Quién trabaja de forma remota?
+## **¿Quién trabaja de forma remota?**
 
 Con un nivel medio de competencia técnica y una conexión a Internet razonable, ahora hay muchas funciones que se pueden hacer de forma remota. Estos no son solo para expertos digitales. Aquí hay algunos a tener en cuenta:
 
@@ -144,9 +142,15 @@ Con un nivel medio de competencia técnica y una conexión a Internet razonable,
 
 No hay una única forma de trabajo remoto; Es un viaje individual. Todos los que trabajan a distancia tienen una historia diferente, un trabajo diferente y una motivación diferente. En realidad, todo lo que necesita para trabajar a distancia es un espacio dedicado, una computadora portátil y conectividad a Internet que permita la comunicación por video.
 
-### Relacionados <!-- omit in toc-->
+![¿Cómo aprender a trabajar productivamente en equipo desde la distancia?](/assets/img/blog/teletrabajo-equipo.webp "¿Cómo aprender a trabajar productivamente en equipo desde la distancia?")
+/assets/img/blog/teletrabajo-equipo.webp
 
+### **Relacionados** <!-- omit in toc -->
 
-> 🔥 Quizás te interese: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
-{: .notice--danger}
+[▷ Las 18 mejores prácticas para teletrabajar en 2020](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/)
 
+[▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/)
+
+[▷ Las Mejores Cámaras Web 2020](https://ciberninjas.com/mejores-soportes-camaras-web/)
+
+[▷ Los Mejores Soportes para Cámaras Web 2020](https://ciberninjas.com/mejores-soportes-camaras-web/)

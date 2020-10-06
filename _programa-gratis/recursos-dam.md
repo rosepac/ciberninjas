@@ -6,6 +6,7 @@ description: "Los mejores apuntes y recursos para superar el FP de desarrollo de
 excerpt: "Los mejores apuntes y recursos para superar el FP de desarrollo de aplicaciones multiplataforma."
 published: true
 comments: false
+bootstrap: true
 date: 2020-09-02
 permalink: /recursos-dam/
 canonical_URL: https://ciberninjas.com/recursos-dam/

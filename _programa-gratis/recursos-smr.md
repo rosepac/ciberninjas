@@ -6,6 +6,7 @@ description: "Los mejores apuntes y recursos para superar el FP de sistemas micr
 excerpt: "Los mejores apuntes y recursos para superar el FP de sistemas microinformáticos y redes."
 published: true
 comments: false
+bootstrap: true
 date: 2020-09-02
 permalink: /recursos-smr/
 canonical_URL: https://ciberninjas.com/recursos-smr/
