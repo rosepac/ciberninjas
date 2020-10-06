@@ -26,6 +26,34 @@ img: /assets/img/paginas/fp/portada-daw.webp
 </nav>
 </div>
 
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-daw/",
+     "name": "Programar Gratis con Recursos del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web"
+   }
+  }
+ ]
+}
+</script>
+
 El **ciclo de formación profesional de desarrollo de aplicaciones web** o también conocido como DAW, te ofrece la posibilidad de lograr **el título de técnico superior en desarrollo de aplicaciones web**.
 
 Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones multiplataforma (DAM) y al curso de administración de sistemas informáticos en red.

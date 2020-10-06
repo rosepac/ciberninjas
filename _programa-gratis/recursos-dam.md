@@ -16,6 +16,44 @@ img: /assets/img/paginas/fp/portada-dam.webp
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Recursos DAM</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-smr/",
+     "name": "Programar Gratis con Recursos del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma"
+   }
+  }
+ ]
+}
+</script>
+
 El ciclo de formación profesional de desarrollo de aplicaciones multiplataforma te ofrece la posibilidad de lograr el título de técnico superior en desarrollo de aplicaciones multiplataforma.
 
 Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaciones de grado superior existentes dentro del campo de la Informática y las comunicaciones. Junto al curso de desarrollo de aplicaciones web (DAW) y el curso de administración de sistemas informáticos en red.

@@ -6,6 +6,7 @@ description: "Los mejores apuntes y recursos para superar el FP de administraci�
 excerpt: "Los mejores apuntes y recursos para superar el FP de administración de sistemas informáticos en red."
 published: true
 comments: false
+bootstrap: true
 date: 2020-09-22
 permalink: /recursos-asir/
 canonical_URL: https://ciberninjas.com/recursos-asir/
@@ -14,6 +15,44 @@ feature-img: /assets/img/paginas/fp/portada-asir.webp
 img: /assets/img/paginas/fp/portada-asir.webp
 
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Recursos ASIR</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-smr/",
+     "name": "Programar Gratis con Recursos del Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red"
+   }
+  }
+ ]
+}
+</script>
 
 > 👷‍♂️ En construcción 👷‍♂️ 🛑🛑🛑 👷‍♂️ En construcción 👷‍♂️ ¡REGRESA MAÑANA! 🔥🔥🔥🔥🔥
 

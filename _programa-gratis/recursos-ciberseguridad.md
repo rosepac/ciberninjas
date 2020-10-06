@@ -16,6 +16,44 @@ img: /assets/img/paginas/fp/fp-ciberseguridad.webp
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Especialización Ciberseguridad</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-fp-ciberseguridad/",
+     "name": "Programar Gratis con Recursos del Curso de Especialización en Ciberseguridad"
+   }
+  }
+ ]
+}
+</script>
+
 En los ciclos formativos de administración de sistemas informáticos en red, desarrollo de aplicaciones multiplataforma (DAM), desarrollo de aplicaciones web (DAW) y el ciclo de grado medio de sistemas microinformáticos y redes; incluyen algunos contenidos sobre seguridad; pero ninguno de ellos, profundiza en gran medida en ella.
 
 Por eso, el Estado español ha decidido ampliar la formación sobre un campo en auge como es el de la ciberseguridad, deciendo para ello el crear un formato educativo nuevo. Denominado "curso en especialización".

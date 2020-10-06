@@ -23,7 +23,7 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 </nav>
 </div>
 
-Si eres nuevo/a en el mundo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/) por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/).
+Si eres nuevo/a en el campo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/ "Cómo aprender en academias online") por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad "Comunidad de Facebook en la que listo todos los recursos online"){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/ "Aprender a Programar con Ciberninjas").
 
 {% include programa-gratis.html %}
 
@@ -33,11 +33,46 @@ Una vez que hayas pasado por suficientes lecciones de programación gratuitas pa
 
 Sin embargo, hay cientos de recursos, [guías de programación](https://ciberninjas.com/guias/), [cursos gratuitos online](https://ciberninjas.com/cursos-tecnologia/) y [libros de programación gratuitos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/) entre los que elegir.
 
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/guias/">
+<div class="caption" title="🥇 ▷ Las Mejores GUÍAS de Tecnología creadas por Ciberninjas 2020">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
+</a>
+</div>
+
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
+<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2020">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
+</a>
+</div>
+
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
+<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2020">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
+</a>
+</div>
+
 <!-- 📢 Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0. -->
 
 > **¿CÓMO CONOCER SON LOS MEJORES SITIOS PARA APRENDER A PROGRAMAR EN LÍNEA?**
 
-Personalmente, llevo ya más de dos años investigando un poco para ahorrarte tiempo en encontrarlos, y aquí están los mejores sitios web para aprender a programar y desarrollar de forma gratuita. Entre estos centenares de recursos, vas a encontrar desde simples tutoriales de programación hasta cursos avanzados de programación en línea. Para facilitarte las cosas, desglose y organice todos los recursos para aprender a programar según la diferente temática a estudiar.
+Personalmente, llevo ya más de dos años investigando un poco para ahorrarte tiempo en encontrarlos, y aquí están los mejores sitios web para aprender a programar y desarrollar de forma gratuita.
+
+Entre estos centenares de recursos, vas a encontrar desde simples tutoriales de programación hasta cursos avanzados de programación en línea. Para facilitarte las cosas, desglose y organice todos los recursos para aprender a programar según la diferente temática a estudiar.
 
 Solamente debes utilizar los índices internos de cada publicación para saltar a donde desees. De lo contrario, puedes seguir guíandote a través de la tabla de contenido que iré creando (con el paso del tiempo) a continuación.
 <!-- https://learntocodewith.me/posts/code-for-free/ -->

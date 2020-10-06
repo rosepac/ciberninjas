@@ -26,6 +26,34 @@ img: /assets/img/paginas/fp/portada-smr.webp
 </nav>
 </div>
 
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-smr/",
+     "name": "Programar Gratis con Recursos del Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes"
+   }
+  }
+ ]
+}
+</script>
+
 El **ciclo de formación profesional de sistemas microinformáticos y redes** te ofrece la posibilidad de lograr el título de técnico en sistemas microinformáticos y redes.
 
 Este ciclo, de SMR, es la única opción existente de grado medio y que junto a los ciclos de grado superior de [desarrollo de aplicaciones web](/recursos-daw/) (DAW), [desarrollo de aplicaciones multiplataforma](/recursos-dam/) (DAM) y [administración de sistemas informáticos en red](/recursos-asir/) (ASIR).
