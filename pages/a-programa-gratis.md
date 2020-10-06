@@ -33,6 +33,7 @@ Una vez que hayas pasado por suficientes lecciones de programación gratuitas pa
 
 Sin embargo, hay cientos de recursos, [guías de programación](https://ciberninjas.com/guias/), [cursos gratuitos online](https://ciberninjas.com/cursos-tecnologia/) y [libros de programación gratuitos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/) entre los que elegir.
 
+<div class ="portfolio-grid">
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/guias/">
 <div class="caption" title="🥇 ▷ Las Mejores GUÍAS de Tecnología creadas por Ciberninjas 2020">
@@ -65,7 +66,7 @@ Sin embargo, hay cientos de recursos, [guías de programación](https://cibernin
 <img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
 </a>
 </div>
-
+</div>
 <!-- 📢 Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0. -->
 
 > **¿CÓMO CONOCER SON LOS MEJORES SITIOS PARA APRENDER A PROGRAMAR EN LÍNEA?**
