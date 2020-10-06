@@ -3,6 +3,9 @@ layout: page
 author: rosepac
 bootstrap: true
 title: "Guías 📓"
+feature-img: /assets/img/paginas/guias-tecnologia.webp
+thumbnail: /assets/img/paginas/guias-tecnologia.webp
+img: /assets/img/paginas/guias-tecnologia.webp
 description: "Guías gratis de tecnología sobre tecnologías de programación de campos temáticos relacionados a las profesiones digitales."
 excerpt: "Guías gratis de tecnología sobre tecnologías de programación de campos temáticos relacionados a las profesiones digitales."
 permalink: /guias/
@@ -10,6 +13,8 @@ canonical_URL: https://ciberninjas.com/guias/
 ---
 
 Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales.
+
+{% include guias.html %}
 
 Estas ciberguías han sido elaboradas tras haber realizado un profundo rastreo y poda de contenidos encontrados a lo largo y ancho de la profunda selva de Internet y constan de una extensa introducción a la temática elegida, junto a una amplia lista de artículos útiles y en algunos casos, complementado junto a un extenso y rebuscado set de recursos y herramientas seleccionadas.
 
@@ -26,5 +31,3 @@ Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cui
 
 > Mi jardín se construye poco a poco, desde hace ya más de dos años. A pesar de ello, los contenidos aquí recopilados van cambiando; si deseas participar en esos cambios, siempre puedes contactarme a través de mis redes sociales (nickanme: ciberninjas), ¡Saludos y espero que lo disfrutéis!
 {: .notice--warning}
-
-{% include guias.html %}

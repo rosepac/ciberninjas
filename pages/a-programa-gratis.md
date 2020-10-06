@@ -35,35 +35,35 @@ Sin embargo, hay cientos de recursos, [guías de programación](https://cibernin
 
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/cursos-tecnologia/">
+<div class="caption" title="🥇 ▷ Los Mejores Cursos GRATIS de Programación Online en español 2020">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="" class="" src="/assets/img/blog/tecnologia-programando.webp">
+</a>
+</div>
+
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
+<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2020">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
+</a>
+</div>
+
+<div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/guias/">
 <div class="caption" title="🥇 ▷ Las Mejores GUÍAS de Tecnología creadas por Ciberninjas 2020">
 <div class="caption-content">
 <i class="fa fa-search-plus fa-3x"></i>
 </div>
 </div>
-<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
-</a>
-</div>
-
-<div class="portfolio-cell">
-<a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
-<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2020">
-<div class="caption-content">
-<i class="fa fa-search-plus fa-3x"></i>
-</div>
-</div>
-<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
-</a>
-</div>
-
-<div class="portfolio-cell">
-<a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
-<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2020">
-<div class="caption-content">
-<i class="fa fa-search-plus fa-3x"></i>
-</div>
-</div>
-<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
+<img alt="" class="" src="/assets/img/paginas/guias-tecnologia.webp">
 </a>
 </div>
 </div>
