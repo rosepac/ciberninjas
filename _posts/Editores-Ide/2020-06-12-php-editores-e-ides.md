@@ -10,12 +10,12 @@ thumbnail: /assets/img/blog/php-ide/php-editores.webp
 feature-img: /assets/img/blog/php-ide/php-editores.webp
 title: '▷ 11 Mejores editores de código PHP y entornos de desarrollo 2020'
 description: >-
-  Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.
+  Las MEJORES APLICACIONES para CREAR en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.
 excerpt: >-
-  Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.
+  Las MEJORES APLICACIONES para CREAR en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.
 canonical_URL: https://ciberninjas.com/mejores-editores-php/
 permalink: /mejores-editores-php/
-date: 2020-06-12
+date: 2020-09-30
 last_modified_at: 
 published: true
 

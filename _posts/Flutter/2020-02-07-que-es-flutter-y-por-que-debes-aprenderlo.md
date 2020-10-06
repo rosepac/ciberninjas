@@ -23,7 +23,6 @@ tags:
 
 Este año, las aplicaciones móviles continuaron siendo cada vez más populares. Afortunadamente, hay muchas herramientas de programación disponibles para los desarrolladores que desean crearlas. Entre estas herramientas está Flutter, que se ha destacado por su mayor aceptación y uso últimamente.
 
-![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/frameworks-multiplataforma/flutter-logo-animation-v1-2.webp "Logotipo oficial del SDK multiplataforma de Flutter")
 - [**¿Qué es el kit de desarrollo Flutter?**](#qué-es-el-kit-de-desarrollo-flutter)
 - [**¿Cómo comenzar en Flutter desde cero?**](#cómo-comenzar-en-flutter-desde-cero)
 - [**¿Por qué deberías aprender Flutter?**](#por-qué-deberías-aprender-flutter)
@@ -92,7 +91,7 @@ Si desea mostrar su producto a los inversores lo antes posible, Flutter es una b
 
 ![img](https://herewecode.io/blog/content/images/2019/12/flutter-app-example.gif)
 
-* [Ejemplo de aplicación Flutter - Lista de tareas](https://github.com/LiveLikeCounter/Flutter-Todolist)
+* [Ejemplo de aplicación Flutter - Lista de tareas](https://github.com/LiveLikeCounter/Flutter-Todolist){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Existe buena documentación de Flutter**
 
@@ -112,16 +111,18 @@ Cuando comencé a usar Flutter, lo primero que hice fue buscar comunidades y par
 
 Algunos ejemplos de lugares que me encanta visitar diariamente son los siguientes:
 
-- [Flutter Awesome:](https://flutterawesome.com/) Una lista impresionante que selecciona las mejores bibliotecas y herramientas de Flutter. Este sitio web publica contenido diario con muchos ejemplos, plantillas de aplicaciones, consejos, etc.
-- [Awesome Flutter:](https://github.com/Solido/awesome-flutter) Un repositorio de GitHub (vinculado a Flutter Awesome) con una lista de artículos, videos, componentes, utilidades, etc.
-- [¡Son todos widgets!:](https://itsallwidgets.com/) Una lista abierta de aplicaciones creadas con Flutter.
-- [Flutter Community:](https://medium.com/flutter-community) Una publicación de Medium donde puedes encontrar artículos, tutoriales y mucho más.
+- [Flutter Awesome](https://flutterawesome.com/){:target="_blank" rel="nofollow,noreferrer"}: Una lista impresionante que selecciona las mejores bibliotecas y herramientas de Flutter. Este sitio web publica contenido diario con muchos ejemplos, plantillas de aplicaciones, consejos, etc.
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter){:target="_blank" rel="nofollow,noreferrer"}: Un repositorio de GitHub (vinculado a Flutter Awesome) con una lista de artículos, videos, componentes, utilidades, etc.
+- [¡Son todos widgets!](https://itsallwidgets.com/){:target="_blank" rel="nofollow,noreferrer"}: Una lista abierta de aplicaciones creadas con Flutter.
+- [Flutter Community](https://medium.com/flutter-community){:target="_blank" rel="nofollow,noreferrer"}: Una publicación de Medium donde puedes encontrar artículos, tutoriales y mucho más.
 
 ## **Flutter es compatible con Android Studio y VS Code**
 
-Flutter está disponible en diferentes IDEs. Los dos principales editores de código para desarrollar con esta tecnología son Android Studio (IntelliJ) y VS Code. Android Studio es un software completo con todo ya integrado; solamente debes descargar los complementos Flutter y Dart para comenzar. VS Code es una herramienta ligera y en la que todo es configurable a través de complementos de su "market". Además, existe la opción de utilizar el software de Android Studio con el que no vas a necesitar configurar muchas cosas para que todo funcione a la perfección.
+Flutter está disponible en diferentes IDEs. Los dos principales editores de código para desarrollar con esta tecnología son Android Studio (IntelliJ) y VS Code. Android Studio es un software completo con todo ya integrado; solamente debes descargar los complementos Flutter y Dart para comenzar. VS Code es una herramienta ligera y en la que todo es configurable a través de complementos de su "market".
 
-Tú, ¡Eres libre de elegir tu IDE preferido!
+Además, existe la opción de utilizar el software de Android Studio con el que no vas a necesitar configurar muchas cosas para que todo funcione a la perfección.
+
+Tú, **¡Eres libre de elegir tu IDE preferido!**
 
 ## **Comenzando con Flutter**
 
@@ -137,12 +138,11 @@ La plataforma más grande para freelancers en Francia, llamada Malt, publicó re
 
 Bueno, ¿qué opinas de Flutter? ¿Comenzarás a aprenderlo el año que viene? Espero que esta introducción te haya interesado y motivado. Siéntete libre de compartir este artículo si te gustó.
 
-**Fuente**\: [Comunidad Microsoft](https://techcommunity.microsoft.com/t5/testingspot-blog/what-are-the-best-ui-test-automation-tools/ba-p/367781){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
-
 ## **Guía Flutter**
 
 [👉 ¿Qué es Flutter?](/que-es-flutter-y-por-que-debes-aprenderlo/){: .btn .btn--outline .btn--large} [👉 Aprender Flutter?](/como-aprender-flutter/){: .btn .btn--inverse .btn--large} [👉 Comparación con Flutter](/comparacion-flutter-react-native-xamarin/){: .btn .btn--inverse .btn--large} [👉 Wallpapers Flutter](/wallpaper-flutter/){: .btn .btn--inverse .btn--large} [👉 Guía DevTools](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large}
+
+![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/frameworks-multiplataforma/flutter-logo-animation-v1-2.webp "Logotipo oficial del SDK multiplataforma de Flutter")
 
 ### Mucho Más <!-- omit in toc -->
 

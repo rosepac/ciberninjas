@@ -37,44 +37,44 @@ Sony mostró su línea de juegos de PS5 por primera vez el 11 de junio, durante 
 
 Puede ver todos los títulos anunciados a continuación, junto con todos los demás juegos confirmados de PS5, como FIFA 21, Cyberpunk 2077 y Assassin's Creed Valhalla. Nos aseguraremos de actualizar estas entradas a medida que haya más información disponible sobre cada uno de estos juegos.
 
-- [1. **Final Fantasy 16**](#1-final-fantasy-16)
+- [**1. Final Fantasy 16**](#1-final-fantasy-16)
   - [¿Dónde comprar ?](#dónde-comprar-)
-- [2. **Hogwarts Legacy**](#2-hogwarts-legacy)
+- [**2. Hogwarts Legacy**](#2-hogwarts-legacy)
   - [¿Dónde comprar ?](#dónde-comprar--1)
-- [3. **God of War: Ragnarok**](#3-god-of-war-ragnarok)
+- [**3. God of War: Ragnarok**](#3-god-of-war-ragnarok)
   - [¿Dónde comprar ?](#dónde-comprar--2)
-- [4. **Devil May Cry 5: Special Edition**](#4-devil-may-cry-5-special-edition)
+- [**4. Devil May Cry 5: Special Edition**](#4-devil-may-cry-5-special-edition)
   - [¿Dónde comprar ?](#dónde-comprar--3)
-- [5. **Cyberpunk 2077**](#5-cyberpunk-2077)
+- [**5. Cyberpunk 2077**](#5-cyberpunk-2077)
   - [¿Dónde comprar ?](#dónde-comprar--4)
-- [6. **Destruction AllStars**](#6-destruction-allstars)
+- [**6. Destruction AllStars**](#6-destruction-allstars)
   - [¿Dónde comprar ?](#dónde-comprar--5)
-- [7. **Bugsnax**](#7-bugsnax)
+- [**7. Bugsnax**](#7-bugsnax)
   - [¿Dónde comprar ?](#dónde-comprar--6)
-- [8. **Astro's Playroom**](#8-astros-playroom)
+- [**8. Astro's Playroom**](#8-astros-playroom)
   - [¿Dónde comprar ?](#dónde-comprar--7)
-- [9. **Cris Tales**](#9-cris-tales)
+- [**9. Cris Tales**](#9-cris-tales)
   - [¿Dónde comprar ?](#dónde-comprar--8)
-- [10. **Deathloop**](#10-deathloop)
+- [**10. Deathloop**](#10-deathloop)
   - [¿Dónde comprar ?](#dónde-comprar--9)
-- [11. **Demon´s Souls**](#11-demons-souls)
+- [**11. Demon´s Souls**](#11-demons-souls)
   - [¿Dónde comprar Demon´s Souls para PlayStation 5?](#dónde-comprar-demons-souls-para-playstation-5)
-- [12. **Gran Turismo 7**](#12-gran-turismo-7)
+- [**12. Gran Turismo 7**](#12-gran-turismo-7)
   - [¿Dónde comprar ?](#dónde-comprar--10)
-- [13. **Horizon Forbidden West**](#13-horizon-forbidden-west)
+- [**13. Horizon Forbidden West**](#13-horizon-forbidden-west)
   - [¿Dónde comprar ?](#dónde-comprar--11)
-- [14. **Marvel's Spider-Man: Miles Morales**](#14-marvels-spider-man-miles-morales)
+- [**14. Marvel's Spider-Man: Miles Morales**](#14-marvels-spider-man-miles-morales)
   - [¿Dónde comprar Spider-Man: Miles Morales para PlayStation 5?](#dónde-comprar-spider-man-miles-morales-para-playstation-5)
-- [15. **Project Athia**](#15-project-athia)
+- [**15. Project Athia**](#15-project-athia)
   - [¿Dónde comprar ?](#dónde-comprar--12)
-- [16. **Ratchet and Clank: Rift**](#16-ratchet-and-clank-rift)
+- [**16. Ratchet and Clank: Rift**](#16-ratchet-and-clank-rift)
   - [¿Dónde comprar ?](#dónde-comprar--13)
-- [17. **Returnal**](#17-returnal)
+- [**17. Returnal**](#17-returnal)
   - [¿Dónde comprar ?](#dónde-comprar--14)
-- [18. **Sackboy: A Big Adventure**](#18-sackboy-a-big-adventure)
+- [**18. Sackboy: A Big Adventure**](#18-sackboy-a-big-adventure)
   - [¿Dónde comprar ?](#dónde-comprar--15)
 
-## 1. **Final Fantasy 16**
+## **1. Final Fantasy 16**
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/2tBnBAkHv9M" allowfullscreen></iframe>
@@ -91,7 +91,7 @@ No esperamos verlo pronto, pero estaremos esperando ansiosamente el próximo jue
 ### ¿Dónde comprar ?
 
 
-## 2. **Hogwarts Legacy**
+## **2. Hogwarts Legacy**
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/1O6Qstncpnc" allowfullscreen></iframe>
@@ -107,7 +107,7 @@ El juego saldrá a la venta en 2021, así que espera saber más sobre este viaje
 
 
 
-## 3. **God of War: Ragnarok**
+## **3. God of War: Ragnarok**
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/2tBnBAkHv9M" allowfullscreen></iframe>
@@ -117,13 +117,13 @@ Al final del evento de revelación de precios de PS5, Sony anunció el próximo 
 
 ### ¿Dónde comprar ?
 
-## 4. **Devil May Cry 5: Special Edition**
+## **4. Devil May Cry 5: Special Edition**
 
 Si te perdiste la explosiva entrada de Devil May Cry en PS4, tendrás una segunda oportunidad en PS5 con Devil May Cry 5: Special Edition. Un juego de acción absoluto, DMC sigue a tres protagonistas interconectados (Dante y Nero entre ellos) mientras se enfrentan a una invasión demoníaca en la tierra. Fue uno de los mejores juegos de acción del año en 2019 y podría ayudar a completar el establo de juegos de acción de la PS5 cuando llegue.
 
 ### ¿Dónde comprar ?
 
-## 5. **Cyberpunk 2077**
+## **5. Cyberpunk 2077**
 
 ![Cyberpunk 2077 llegará a PS5](/assets/img/videojuegos/Cyberpunk-2077-Art81.webp "Cyberpunk 2077 llegará a PS5")
 
@@ -133,13 +133,13 @@ Además, el desarrollador confirmó en Twitter que una "actualización posterior
 
 ### ¿Dónde comprar ?
 
-## 6. **Destruction AllStars**
+## **6. Destruction AllStars**
 
 Destruction AllStars, una mezcla ecléctica de Twisted Metal y Fortnite, es el tipo de acción multijugador loca con la que podemos participar. A juzgar por el explosivo tráiler de PS5 del juego, parece que la batalla comienza con todos dentro de vehículos de alta potencia, y luego la acción se convierte en una frenética lucha libre para todos mientras intentas evitar que tu conductor sea atropellado. Estaremos atentos a este.
 
 ### ¿Dónde comprar ?
 
-## 7. **Bugsnax**
+## **7. Bugsnax**
 
 Bugsnax es el juego de PS5 de apariencia inocente que se inspira en los títulos tiernos Animal Crossing: New Horizons y Octodad, con un toque de juego lleno de bocadillos. Hay una buena razón por la que sus gráficos se parecen a Octodad: Dadliest Catch: fue creado por los desarrolladores detrás del exitoso juego desarrollado por estudiantes. 
 
@@ -151,7 +151,7 @@ En Bugsnax, juegas como (en su mayoría) animales bípedos y criaturas que comen
 
 ### ¿Dónde comprar ?
 
-## 8. **Astro's Playroom**
+## **8. Astro's Playroom**
 
 ![Astros Playroom](/assets/img/videojuegos/astros-playroom.webp "Astros Playroom")
 
@@ -161,13 +161,13 @@ En cambio, actúa como una demostración del controlador inalámbrico PS5 DualSe
 
 ### ¿Dónde comprar ?
 
-## 9. **Cris Tales**
+## **9. Cris Tales**
 
 Descrito como una "carta de amor indie al clásico JRPG", Cris Tales es una aventura de acción bellamente dibujada que te permite ver el camino, el presente y el futuro simultáneamente mientras viajas por un mundo oscuro de cuento de hadas.
 
 ### ¿Dónde comprar ?
 
-## 10. **Deathloop**
+## **10. Deathloop**
 
 Cuando se presentó Deathloop de Arkane Lyon en el E3 2019, su estilizado tráiler mostraba a los jugadores sobreviviendo en una isla caótica donde todos intentan matarte, una y otra vez, mientras intentas escapar de un ciclo temporal.
 
@@ -179,7 +179,7 @@ El juego parece estar tomando la forma de una entrada en la alabada serie Dishon
 
 ### ¿Dónde comprar ?
 
-## 11. **Demon´s Souls**
+## **11. Demon´s Souls**
 
 Han pasado más de diez años desde que Demon's Souls nos frustró sin un final en su juego para PS3, y su modo de combate despiadadamente difícil estará de vuelta tras el lanzamiento de la consola PS5.
 
@@ -191,7 +191,7 @@ El videojuego ya está siendo desarrollado desde cero por Japan Studio y Bluepoi
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08B285TM4&linkId=5d271cf3d29fa1431771f23fe606b342"></iframe>
 
-## 12. **Gran Turismo 7**
+## **12. Gran Turismo 7**
 
 No sería un evento de lanzamiento de juegos de PlayStation adecuado sin un adelanto de un nuevo juego de Gran Turismo, y no sería un adelanto adecuado de Gran Turismo si no nos dejara rascándonos la cabeza sobre si esto sería o no. un juego de lanzamiento. No se adjuntó una fecha de lanzamiento para este próximo juego de PS5.
 
@@ -201,7 +201,7 @@ A diferencia de otros avances de PS5 mostrados durante el evento de revelación 
 
 ### ¿Dónde comprar ?
 
-## 13. **Horizon Forbidden West**
+## **13. Horizon Forbidden West**
 
 Aloy regresa en otra aventura gráficamente impresionante, en la que el futuro guerrero se enfrentará a dinosaurios robóticos en todo Estados Unidos en la secuela de PS5 Horizon Forbidden West.
 
@@ -211,7 +211,7 @@ Horizon Forbidden West fue seguramente el juego más visualmente llamativo duran
 
 ### ¿Dónde comprar ?
 
-## 14. **Marvel's Spider-Man: Miles Morales**
+## **14. Marvel's Spider-Man: Miles Morales**
 
 Inicialmente pensamos que Spider-Man Miles Morales era una secuela del Spider-Man aclamado por la crítica de Insomniac, luego parecía que el juego era una remasterización ampliada del juego original.
 
@@ -225,7 +225,7 @@ Independientemente, estamos emocionados. Si bien no sabemos demasiado sobre el j
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08B2625VB&linkId=e5377387b267d626800904bdbc097f14"></iframe>
 
-## 15. **Project Athia**
+## **15. Project Athia**
 
 El tráiler de Project Athia PS5 indica explícitamente que el juego fue "diseñado exclusivamente para PS5" (aunque también llegará a la PC, como lo descubrimos posteriormente).
 
@@ -235,7 +235,7 @@ Ambientado en un exuberante mundo de fantasía lleno de criaturas y dragones gig
 
 ### ¿Dónde comprar ?
 
-## 16. **Ratchet and Clank: Rift**
+## **16. Ratchet and Clank: Rift**
 
 Un juego completamente nuevo de Ratchet and Clank, Rift Apart parece una película de Pixar hecha realidad. Un híbrido de disparos de plataforma colorido y amigable para los niños, fue quizás el mejor ejemplo del nuevo sistema de almacenamiento SSD de la PS5.
 
@@ -243,7 +243,7 @@ Se mostraron secuencias en las que la desventurada pareja aparentemente irradiab
 
 ### ¿Dónde comprar ?
 
-## 17. **Returnal**
+## **17. Returnal**
 
 Returnal proviene de la fábrica de especialistas en la creación de juegos de disparos: Housemarque. Pero en Returnal vas a encontrarte con un tipo de experiencia muy diferente a la vivida en Dead Nation o Resogun.
 
@@ -253,7 +253,7 @@ Podrás cambiar los modos de disparo utilizando los activadores adaptativos del 
 
 ### ¿Dónde comprar ?
 
-## 18. **Sackboy: A Big Adventure**
+## **18. Sackboy: A Big Adventure**
 
 No, no han presentando un lanzamiento de una nueva versión de [Little Big Planet 3](https://amzn.to/3mys8tK){:target="_blank" rel="nofollow,noreferrer"} en el gran evento de revelación de videojuegos de PS5, pero Sony y el desarrollador Sumo Digital ofrecieron un juego derivado con el protagonista de Little Big Planet, Sackboy.
 
