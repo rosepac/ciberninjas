@@ -22,8 +22,6 @@ published: true
 
 Los soportes para cámaras web son una excelente manera de agregar algo de maniobrabilidad a las videoconferencias estándar. Dicho esto, aquí están 5 de los mejores soportes de cámaras web para colaboración virtual.
 
-![La mejor cámara web es sinónimo de un buen trabajo remoto, un mejor aprendizaje en línea, y más](/assets/img/blog/23-soporte-camaras-web.webp "La mejor cámara web es sinónimo de un buen trabajo remoto, un mejor aprendizaje en línea, y más")
-
 Si aún no tienes una de [las mejores cámaras web de 2020](https://ciberninjas.com/mejores-camaras-web/) piensa en comprar una lo antes posible, porque en estos tiempos de crisis sanitaria, son totalmente útiles y no tardarás demasiado en amortizar cada uno de los céntimos que te gastes.
 
 Debido a la pandemia de coronavirus, las escuelas, universidades y empresas de todo el mundo han realizado la transición en línea. Para ayudar con la adaptación al espacio de trabajo virtual, a las personas se les ha encomendado la tarea de crear un espacio de trabajo dedicado en el hogar con poca antelación.
@@ -31,6 +29,8 @@ Debido a la pandemia de coronavirus, las escuelas, universidades y empresas de t
 Esto ha implicado la incorporación de una serie de soluciones tecnológicas para mejorar la colaboración remota y las cámaras web dedicadas son un accesorio popular. Si bien un accesorio de cámara web básico puede ser suficiente para algunos, otras personas pueden preferir un soporte o soporte de cámara web ajustable dedicado para mayor maniobrabilidad.
 
 Sin más preámbulos, aquí se encuentran seleccionados  algunos de los mejores soportes para cámaras web disponibles en este momento.
+
+![La mejor cámara web es sinónimo de un buen trabajo remoto, un mejor aprendizaje en línea, y más](/assets/img/blog/23-soporte-camaras-web.webp "La mejor cámara web es sinónimo de un buen trabajo remoto, un mejor aprendizaje en línea, y más")
 
 - [**Soporte flexible para cámara web**](#soporte-flexible-para-cámara-web)
 - [**Soporte de luz para cámara web**](#soporte-de-luz-para-cámara-web)
