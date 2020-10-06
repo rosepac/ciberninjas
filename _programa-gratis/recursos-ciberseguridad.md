@@ -9,8 +9,8 @@ comments: false
 date: 2020-09-02
 permalink: /recursos-fp-ciberseguridad/
 canonical_URL: https://ciberninjas.com/recursos-fp-ciberseguridad/
-thumbnail: /assets/img/blog/ciberseguridad.webp
-feature-img: /assets/img/blog/ciberseguridad.webp
+thumbnail: /assets/img/paginas/fp/fp-ciberseguridad.webp
+feature-img: /assets/img/paginas/fp/fp-ciberseguridad.webp
 img: /assets/img/blog/ciberseguridad.webp
 
 ---
