@@ -45,7 +45,7 @@ Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas 
 
 Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
 
-### ¿Cuál es el mejor editor de texto para programar?
+### **¿Cuál es el mejor editor de texto para programar?**
 
 <br/>
 <details>

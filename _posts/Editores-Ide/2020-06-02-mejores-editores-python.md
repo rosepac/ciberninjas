@@ -40,17 +40,17 @@ Editores, con características populares y últimos enlaces de descarga. La list
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li>1. <a href="/mejores-ide-python/#1-pycharm">Pycharm</a></li>
-    <li>2. <a href="/mejores-ide-python/#2-spyder">Spyder</a></li>
-    <li>3. <a href="/mejores-ide-python/#3-idle">Python Idle</a></li>
-    <li>4. <a href="/mejores-ide-python/#4-sublime-text-3">Sublime Text Studio</a></li>
-    <li>5. <a href="/mejores-ide-python/#5-visual-studio-code">Visual Studio Code</a></li>
-    <li>6. <a href="/mejores-ide-python/#6-atom">Atom</a></li>
-    <li>7. <a href="/mejores-ide-python/#7-jupyter">Jupyter</a></li>
-    <li>8. <a href="/mejores-ide-python/#8-pydev">Pydev</a></li>
-    <li>9. <a href="/mejores-ide-python/#9-thonny">Thonny</a></li>
-    <li>10. <a href="/mejores-ide-python/#10-wing">Wing</a></li>
-    <li>11. <a href="/mejores-ide-python/#11-komodo-active-python">Komodo Active State para Python</a></li>
+    <li><a href="/mejores-ide-python/#1-pycharm">Pycharm</a></li>
+    <li><a href="/mejores-ide-python/#2-spyder">Spyder</a></li>
+    <li><a href="/mejores-ide-python/#3-idle">Python Idle</a></li>
+    <li><a href="/mejores-ide-python/#4-sublime-text-3">Sublime Text Studio</a></li>
+    <li><a href="/mejores-ide-python/#5-visual-studio-code">Visual Studio Code</a></li>
+    <li><a href="/mejores-ide-python/#6-atom">Atom</a></li>
+    <li><a href="/mejores-ide-python/#7-jupyter">Jupyter</a></li>
+    <li><a href="/mejores-ide-python/#8-pydev">Pydev</a></li>
+    <li><a href="/mejores-ide-python/#9-thonny">Thonny</a></li>
+    <li><a href="/mejores-ide-python/#10-wing">Wing</a></li>
+    <li><a href="/mejores-ide-python/#11-komodo-active-python">Komodo Active State para Python</a></li>
   </ol>
 </nav>
 </details>
@@ -58,7 +58,7 @@ Editores, con características populares y últimos enlaces de descarga. La list
 > 🔥 Quizás te interese: [¿Qué es Python?](/python/#qué-es-python) >> [¿Quién usa Python?](/python/#quién-está-usando-python) >> [¿Por qué aprender Python?](/python/#por-qué-aprender-python) >> [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python) >> [Bibliotecas de Python](/python/#bibliotecas-de-python)
 {: .notice--danger}
 
-## 1. **PyCharm**
+## **1. PyCharm**
 
 ![Logotipo del entorno de desarrollo o IDE denominado PyCharm](/assets/img/blog/python-ide/pycharm.webp "Logotipo del entorno de desarrollo o IDE denominado PyCharm")
 
@@ -76,7 +76,7 @@ Además, gratuito.
 
 [🔥 Descargar PyCharm](https://www.jetbrains.com/pycharm/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 2. **Spyder**
+## **2. Spyder**
 
 ![Logotipo del entorno de desarrollo o IDE denominado Spyder](/assets/img/blog/python-ide/spyder-logo.webp "Logotipo del entorno de desarrollo o IDE denominado Spyder")
 
