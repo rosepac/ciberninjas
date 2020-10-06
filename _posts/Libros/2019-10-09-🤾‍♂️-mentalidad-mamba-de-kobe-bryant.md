@@ -2,7 +2,7 @@
 
 author: rosepac
 bootstrap: true
-title: 🤾‍♂️ La Mentalidad Mamba de Kobe Bryant
+title: La Mentalidad Mamba de Kobe Bryant 🤾‍♂️
 tags:
   - Desarrollo Personal
   - Libros

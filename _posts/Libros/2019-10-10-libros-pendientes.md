@@ -12,6 +12,7 @@ permalink:
 
 ---
 
+El cisne negro. DE Nassim Taleb (buscar para citar en otros apartados de la página web.)
 marketing:
 https://www.casadellibro.com/libro-marcas-con-fianza-como-ganarte-la-lealtad-de-tus-clientes-a-a-traves-de-la-confianza/9788498754919/9788572
 

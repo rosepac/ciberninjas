@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "👩‍💻 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"
+title: "Introducción a Swift: Aprende Swift desde Cero de forma Práctica 👩‍💻"
 comments: false
 date: 2019-08-30 11:18:55
 tags:

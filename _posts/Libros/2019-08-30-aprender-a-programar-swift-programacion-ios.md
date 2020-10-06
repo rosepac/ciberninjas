@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "👨‍💻 Aprende a Programar Swift - Programación iOS"
+title: "Aprende a Programar Swift: Programación iOS 👨‍💻"
 comments: false
 date: 2019-08-30 09:40:55
 tags:
@@ -13,12 +13,9 @@ excerpt: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lengua
 feature-img: /assets/img/catalogo/aprende-a-programar-swift-grande.jpg
 ---
 
-## 🙋‍♀️ Descripción Completa
-
 Hasta su lanzamiento, el lenguaje más utilizado en el desarrollo de aplicaciones para los entornos iOS e iOS X era el Objetive-C, creado al inicio de los años 80.
 
 Apple se preocupó en disminuir la resistencia a la adopción de Swift por los programadores expertos. Para eso, permitió que el nuevo lenguaje utilizara el mismo compilador y pudiera convivir con Objetive-C en la misma aplicación. De esa forma, nadie será forzado a aprenderla inmediatamente, ya que es posible continuar programando de la manera tradicional y adoptar la nueva tecnología a los pocos.
-
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -28,11 +25,15 @@ El hecho de haber sido construida en base a los lenguajes tradicionales como C c
 
 Con este libro podrá a aprender los principios básicos de la programación Swift para poder realizar sus primeras aplicaciones iOS y con ello ahorrar mucho tiempo en el desarrollo de software.
 
-## ✍ Biografía del Autor
+- [**Biografía de Enrique Flores Gonzalo** ✍](#biografía-de-enrique-flores-gonzalo-)
+- [**Otros Detalles del libro Aprende a Programar con Swift** 📝](#otros-detalles-del-libro-aprende-a-programar-con-swift-)
+- [**Comprar el Libro Aprende a Programar con Swift** 💖](#comprar-el-libro-aprende-a-programar-con-swift-)
+
+## **Biografía de Enrique Flores Gonzalo** ✍ 
 
 Enrique Flores Gonzalo, formador online dentro de la [Academia de Tecnologías de la Información](https://twitter.com/itcampusacademy)
 
-## 📝 Otros Detalles
+## **Otros Detalles del libro: Aprende a Programar con Swift** 📝 
 
 - Formato disponible: Tapa Blanda.
 - Los precios NO INCLUYEN gastos de envío.
@@ -42,7 +43,7 @@ Enrique Flores Gonzalo, formador online dentro de la [Academia de Tecnologías d
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 💖 Comprar Libro
+## **Comprar el libro: Aprende a Programar con Swift** 💖 
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 

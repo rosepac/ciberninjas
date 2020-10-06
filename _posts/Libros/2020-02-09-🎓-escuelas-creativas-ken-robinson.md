@@ -1,5 +1,5 @@
 ---
-title: "🎓 Escuelas Creativas: La revolución que está transformando la educación de Ken Robinson"
+title: "Escuelas Creativas: La revolución que está transformando la educación de Ken Robinson 🎓"
 tags:
   - Catálogo
   - Libros
@@ -8,6 +8,7 @@ tags:
 comments: false
 date: 2020-02-09 21:45:00 +0100
 permalink: /catalogo/escuelas-creativas/
+canonical_URL: https://ciberninjas.com/catalogo/escuelas-creativas/
 description: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Escuelas creativas: Se intenta transmitir un punto revolucionario con el que cambiar la educación.
 excerpt: >-
@@ -34,18 +35,18 @@ Ahora, el líder internacionalmente reconocido en creatividad y potencial humano
 
 Lleno de anécdotas, observaciones y recomendaciones de profesionales en primera línea de educación transformadora, historias de casos e investigación innovadora, y escrito con el ingenio y el estilo atractivo de Robinson.Las Escuelas Creativas inspirarán a los maestros, padres y formuladores de políticas por igual a repensar la naturaleza real y el propósito de la educación.
 
-## ✍ Biografía del Autor
+## **Biografía de Ken Robinson** ✍
 
 Sir Ken Robinson (nacido en Liverpool el 4 de marzo de 1950) es un líder reconocido internacionalmente en el desarrollo de la innovación y los recursos humanos. Ha trabajado con gobiernos nacionales en Europa y Asia, con agencias internacionales, compañías Fortune 500, sistemas educativos nacionales y estatales, corporaciones sin fines de lucro y algunas de las principales organizaciones culturales del mundo. Incluyen la Royal Shakespeare Company, el Instituto de Artes Escénicas de Liverpool Sir Paul McCartney, el Royal Ballet, la Academia de Hong Kong para las Artes Escénicas, la Comisión Europea, la UNESCO, el Consejo de Europa, el J Paul Getty Trust y la Comisión de Educación del Estados De 1989 a 2001, fue profesor de educación artística en la Universidad de Warwick.
 
-## 📝 Otros Detalles
+## **Otros Detalles del libro: Escuelas Creativas** 📝
 
 * Formatos disponibles: Kindle y Tapa Blanda
 * Los precios NO INCLUYEN gastos de envío, salvo que te registres en Amazon Prime..
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=48&amp;l=ur1&amp;category=premium&amp;banner=1E7ZEBFW3E0G3W1WXZ82&amp;f=ifr&amp;linkID=36c6741f8667c2eb2286cb8ca0062ecb&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-## 💖 Comprar Libro
+## **Comprar el libro: Escuelas Creativas** 💖
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=gift_certificates&amp;banner=0YM2726C1ESR66Q7QG02&amp;f=ifr&amp;linkID=b74ea8b6b0434619f53785a367d3de3d&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 

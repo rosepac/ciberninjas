@@ -1,6 +1,6 @@
 ---
 published: true
-title: "🌄 Nuestra Casa Está Ardiendo: Historia de una familia y de un planeta en crisis"
+title: "Nuestra Casa Está Ardiendo: Historia de una familia y de un planeta en crisis 🌄"
 tags:
 - Libros
 - Sociología
@@ -8,6 +8,7 @@ tags:
 comments: false
 date: 2019-10-13 22:25:54
 permalink: /catalogo/nuestra-casa-esta-ardiendo
+canonical_URL: https://ciberninjas.com/catalogo/nuestra-casa-esta-ardiendo
 description: '🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado.'
 excerpt: '🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado.'
 feature-img: /assets/img/catalogo/greta-nuestra-casa-esta-ardiendo.jpg

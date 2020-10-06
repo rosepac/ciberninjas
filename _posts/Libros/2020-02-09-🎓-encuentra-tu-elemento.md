@@ -1,5 +1,5 @@
 ---
-title: "🎓 Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida de Ken Robinson"
+title: "Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida de Ken Robinson 🎓"
 tags:
   - Catálogo
   - Libros
@@ -8,6 +8,7 @@ tags:
 comments: false
 date: 2020-02-09 21:45:00 +0100
 permalink: /catalogo/encuentra-tu-elemento/
+canonical_URL: https://ciberninjas.com/catalogo/encuentra-tu-elemento/
 description: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
 excerpt: >-
@@ -32,18 +33,18 @@ Con su característico ingenio irónico, Robinson ofrece una serie de ejercicios
 
 A medida que las preocupaciones sobre la economía, la educación y el medio ambiente continúan creciendo, la necesidad de que las personas encuentren su propio Elemento nunca ha sido mayor. No importa qué edad tengas, dónde estés o qué hagas ahora, si estás buscando tu Elemento, este libro es para ti. Te lanzará a la búsqueda más importante que hayas emprendido: la búsqueda de descubrir tu verdadero yo y la vida que realmente quieres llevar.
 
-## ✍ Biografía del Autor
+## **Biografía de Ken Robinson** ✍
 
 Sir Ken Robinson (nacido en Liverpool el 4 de marzo de 1950) es un líder reconocido internacionalmente en el desarrollo de la innovación y los recursos humanos. Ha trabajado con gobiernos nacionales en Europa y Asia, con agencias internacionales, compañías Fortune 500, sistemas educativos nacionales y estatales, corporaciones sin fines de lucro y algunas de las principales organizaciones culturales del mundo. Incluyen la Royal Shakespeare Company, el Instituto de Artes Escénicas de Liverpool Sir Paul McCartney, el Royal Ballet, la Academia de Hong Kong para las Artes Escénicas, la Comisión Europea, la UNESCO, el Consejo de Europa, el J Paul Getty Trust y la Comisión de Educación del Estados De 1989 a 2001, fue profesor de educación artística en la Universidad de Warwick.
 
-## 📝 Otros Detalles
+## **Otros Detalles del libro: Encuentra tu elemento** 📝
 
 * Formatos disponibles: Kindle y Tapa Blanda
 * Los precios NO INCLUYEN gastos de envío, salvo que te registres en Amazon Prime..
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=48&amp;l=ur1&amp;category=premium&amp;banner=1E7ZEBFW3E0G3W1WXZ82&amp;f=ifr&amp;linkID=36c6741f8667c2eb2286cb8ca0062ecb&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-## 💖 Comprar Libro
+## **Comprar el libro: Encuentra tu elemento** 💖
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=gift_certificates&amp;banner=0YM2726C1ESR66Q7QG02&amp;f=ifr&amp;linkID=b74ea8b6b0434619f53785a367d3de3d&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
