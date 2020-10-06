@@ -89,7 +89,7 @@ La cámara trae un conector universal con USB 2.0 o superior, e incluso puede co
 
 [Logitech C920x Pro](https://amzn.to/3aPW7aR){:target="_blank" rel="nofollow,noreferrer"} Stream es sin lugar a dudas la mejor opción para salas o habitaciones muy grandes.
 
-Especialmente creada y diseñada para aplicaciones como Twitch y Youtube, esta cámara web Lenovo Pro Stream se asimila con alta capacidad. Pero no solo se limita a esos, puede usar esta cámara web de alta calidad para realizar videoconferencias y hablar sobre el estado del proyecto con sus clientes.
+Especialmente creada y diseñada para aplicaciones como Twitch y Youtube, esta cámara web Logitech Pro Stream se asimila con alta capacidad. Pero no solo se limita a esos, puede usar esta cámara web de alta calidad para realizar videoconferencias y hablar sobre el estado del proyecto con sus clientes.
 
 Desde la transmisión de videos de alta calidad hasta un audio nítido, este producto de primera de Logitech es todo lo que necesita. Los videos HD de 1080p se graban y transmiten a 30 fps, mientras que para 720p se califica a 60 fps, lo que, en su verdadero sentido, lo convierte en un producto de alta calidad.
 
