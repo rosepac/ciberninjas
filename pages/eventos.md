@@ -40,6 +40,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 8 de Octubre  <!-- omit in toc -->
 
+- Women in tech con @KDeve4, @silvercorp,@bettyrjce, @musartedev y @alexcamachogz 🎥 [DIRECTO](https://www.youtube.com/watch?v=poKGeLBt1wU&ab_channel=K-Dev){:target="_blank" rel="nofollow, noreferrer"} (05:00 AM)
 - LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
 - Un recorrido por los márgenes: la crítica desde la periferia del sector - Eva Cid 🎥 [DIRECTO](https://www.youtube.com/watch?v=-0hOonVKTLM&ab_channel=Mulleresdetr%C3%A1sdosVideoxogos){:target="_blank" rel="nofollow, noreferrer"} (13:00)
 - ReproHack en español - LatinR 2020 🎥 [DIRECTO](https://www.youtube.com/channel/UCt950nC6jlh2ELDRPigWOkg){:target="_blank" rel="nofollow, noreferrer"} 👉 [Info.](https://www.eventbrite.com.ar/e/reprohack-en-espanol-latinr-2020-tickets-121741832097?aff=ebdssbonlinesearch){:target="_blank" rel="nofollow, noreferrer"} (15:00 PM)
