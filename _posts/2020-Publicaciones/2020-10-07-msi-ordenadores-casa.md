@@ -4,7 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Ofertas Amazon
+- MSI
 thumbnail: /assets/img/blog/msi-w1280.webp
 feature-img: /assets/img/blog/msi-w1280.webp
 title: '▷ MSI presenta una nueva línea de ordenadores, para estudiantes y trabajadores de oficina'
