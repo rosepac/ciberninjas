@@ -5,6 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Reflexión Tecnológica
+- Monopolio
 thumbnail: /assets/img/blog/google-monopolio.webp
 feature-img: /assets/img/blog/google-monopolio.webp
 title: '▷ La web está atrapada en los brazos del monopolio de Google'
