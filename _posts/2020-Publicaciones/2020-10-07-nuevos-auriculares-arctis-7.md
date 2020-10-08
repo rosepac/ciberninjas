@@ -8,7 +8,7 @@ tags:
 - Ofertas Amazon
 thumbnail: /assets/img/blog/arctis-7-portada.webp
 feature-img: /assets/img/blog/arctis-7-portada.webp
-title: '▷ Los Nuevos Auriculares de la serie Arctis 7 y Arctis 9 de SteelSeries utilizan un dongle inalámbrico USB-C'
+title: '▷ Los Nuevos Auriculares de la serie Arctis 7 de SteelSeries utilizan un dongle inalámbrico USB-C'
 description: >-
   Hecho para combinar con el aspecto de PS5 y Xbox Series X/S, además ofrecen soporte para otras plataformas.
 excerpt: >-
