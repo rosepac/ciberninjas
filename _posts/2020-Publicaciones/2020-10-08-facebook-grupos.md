@@ -8,7 +8,7 @@ tags:
 - Facebook
 thumbnail: /assets/img/blog/facebook-grupos.webp
 feature-img: /assets/img/blog/facebook-grupos.webp
-title: '▷ Esto es lo que está haciendo Facebook para aumentar los grupos (y luchar contra su mal uso)'
+title: '▷ Esto es lo que está haciendo Facebook para potenciar los grupos (y luchar contra su mal uso)'
 description: >-
   En el mejor de los casos, los grupos son uno de los mayores activos de Facebook. En el peor de los casos, son un problema para la sociedad.
 excerpt: >-
@@ -21,7 +21,9 @@ published: true
 
 ---
 
-No estoy seguro de cuándo sucedió. Pero en algún momento de los últimos años, mi uso de Facebook en su forma más familiar, publicar en mi muro y en el de otros miembros, ha disminuido. En cambio, paso la mayor parte de mi tiempo en grupos de Facebook dedicados a una variedad de mis intereses, desde dibujos animados antiguos hasta bicicletas eléctricas.
+No estoy seguro de cuándo sucedió. Pero en algún momento de los últimos años, mi uso de Facebook en su forma más familiar, publicar en mi muro y en el de otros miembros, ha disminuido.
+
+En cambio, paso la mayor parte de mi tiempo en grupos de Facebook dedicados a una variedad de mis intereses, desde dibujos animados antiguos hasta bicicletas eléctricas e incluso de programación 😉 como es el caso de [nuestro grupo de Facebook](https://facebook.com/groups/ciberninjas){:target="_blank" rel="nofollow,noreferrer"}, **¡Ven y únete a compartir!** 🤗
 
 No hay duda de qué los mejores grupos de Facebook. Son los que son manejados por administradores y moderadores que se preocupan lo suficiente como para tener en control como se manifiestan el resto de participantes. Eso incluye, cómo lidiar con los problemas, desde pequeñas disputas entre miembros bien intencionados hasta ataques de trolls en toda regla.
 
@@ -29,9 +31,13 @@ Facebook se toma en serio a esas personas y sus necesidades. La semana pasada, e
 
 Algunas tienen como objetivo ayudar a que los administradores y moderadores puedan hacer mejor su trabajo; otras tratan de derribar las barreras que impiden que los usuarios encuentren grupos y participen en ellos.
 
-En el primer frente, aparece, un nuevo conjunto de herramientas llamado Asistencia de Administrador que minimizará el trabajo más pesado y redundante de la moderación. Por ejemplo, el creador de un grupo podrá rechazar automáticamente publicaciones que utilicen palabras clave específicas o que provengan de miembros que se hayan unido recientemente; también se implementarán, nuevas funciones para el chat en tiempo real, mediante la inclusión de preguntas y respuestas rápidas y se intentará impulsar la generación de mayores conversaciones a través de fotos compartidas.
+En el primer frente, aparece, un nuevo conjunto de herramientas llamado Asistencia de Administrador que minimizará el trabajo más pesado y redundante de la moderación.
 
-Facebook también está introduciendo una forma para que los administradores ganen dinero con sus grupos, no a través de publicidad, sino dándoles acceso a un servicio existente llamado Brand Collabs Manager. En el pasado, los miembros individuales influyentes han podido utilizar este servicio para cerrar acuerdos promocionales con marcas que quieren llegar a audiencias específicas; ahora, los grupos también podrán hacerlo.
+Por ejemplo, el creador de un grupo podrá rechazar automáticamente publicaciones que utilicen palabras clave específicas o que provengan de miembros que se hayan unido recientemente; también se implementarán, nuevas funciones para el chat en tiempo real, mediante la inclusión de preguntas y respuestas rápidas y se intentará impulsar la generación de mayores conversaciones a través de fotos compartidas.
+
+Facebook también está introduciendo una forma para que los administradores ganen dinero con sus grupos, no a través de publicidad, sino dándoles acceso a un servicio existente llamado Brand Collabs Manager.
+
+En el pasado, los miembros individuales influyentes han podido utilizar este servicio para cerrar acuerdos promocionales con marcas que quieren llegar a audiencias específicas; ahora, los grupos también podrán hacerlo.
 
 Luego están los ajustes diseñados para conseguir que más usuarios formen parte de más grupos. La sección de "Discusiones relacionadas" enviará material de grupos a las fuentes de noticias de los usuarios, exponiéndolos a nuevos grupos y conversaciones, y los grupos públicos ahora permitirán que se unan nuevos miembros sin la aprobación de un administrador o moderador.
 
