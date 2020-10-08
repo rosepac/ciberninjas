@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - 
-thumbnail: /assets/img/blog/lenguaje-logos/ciberninjas-lenguaje-c.webp
-feature-img: /assets/img/blog/lenguaje-logos/ciberninjas-lenguaje-c.webp
+thumbnail: /assets/img/blog/lenguajes-logos/ciberninjas-lenguaje-c.webp
+feature-img: /assets/img/blog/lenguajes-logos/ciberninjas-lenguaje-c.webp
 title: '▷ 4 Errores Comunes al Programar en C y 5 Consejos para Evitarlos'
 description: >-
   El asombroso poder de C a veces hace cometer pequeños errores. Esto es lo que debe tener en cuenta, para mantener tus programas C en una buena línea recta y siempre ordenados.
@@ -152,4 +152,4 @@ Nuevamente, Python se puede usar para empaquetar bibliotecas C o código C perso
 
 > **Fuente**: 4 common C programming mistakes — and 5 tips to avoid them, por [Serdar Yegulalp](https://www.infoworld.com/author/Serdar-Yegulalp/ "Serdar Yegulalp es un escritor senior en InfoWorld, que cubre el desarrollo de software y herramientas de operaciones, aprendizaje automático, contenedorización y revisiones de productos en esas categorías."){:target="_blank" rel="nofollow,noreferrer"} en Infoworld.
 
-![4 Errores Comunes al Programar en C y 5 Consejos para Evitarlos](/assets/img/blog/lenguaje-logos/ciberninjas-lenguaje-c.webp "4 Errores Comunes al Programar en C y 5 Consejos para Evitarlos")
+![4 Errores Comunes al Programar en C y 5 Consejos para Evitarlos](/assets/img/blog/lenguajes-logos/ciberninjas-lenguaje-c.webp "4 Errores Comunes al Programar en C y 5 Consejos para Evitarlos")
