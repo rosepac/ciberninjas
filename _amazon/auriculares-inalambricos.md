@@ -5,9 +5,9 @@ layout: page
 title: 🥇 ▷ Los 12 Mejores Auriculares Calidad Precio 2020
 description: Los mejores dispositivos de audio con los que realizar mejor las tareas diarias del teletrabajo desde casa, diseñar o jugar al ordenador.
 excerpt: Los mejores dispositivos de audio con los que realizar mejor las tareas diarias del teletrabajo desde casa, diseñar o jugar al ordenador.
-permalink: /auriculares-diseño/
-canonical_URL: https://ciberninjas.com/auriculares-diseño/
-published: true
+permalink: /auriculares-inalambricos/
+canonical_URL: https://ciberninjas.com/auriculares-inalambricos/
+published: false
 comments: false
 date: 2020-09-25 15:32:01 +0200
 last_modified_at: 2020-09-26
