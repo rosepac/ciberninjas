@@ -14,7 +14,7 @@ excerpt: >-
   Con la proclamación de que "comienza un nuevo viaje", AMD anuncia su nueva línea de procesadores Ryzen 5000 para computadoras de escritorio, con su nueva arquitectura Zen 3.
 canonical_URL: https://ciberninjas.com/evento-zen3-amd/
 permalink: /evento-zen3-amd/
-date: 2020-10-08 00:01:02
+date: 2020-10-08 10:01:02
 last_modified_at: 
 published: true
 
