@@ -44,4 +44,4 @@ El software para el paisaje interactivo se ha extraído de [Landscape APP](https
 
 > **Fuente**: [Cloud Native Landscape](https://landscape.cncf.io/){:target="_blank" rel="nofollow,noreferrer"}, [Repositorio de Github](https://github.com/cncf/landscape#cloud-native-landscape){:target="_blank" rel="nofollow,noreferrer"}
 
-![Logotipo de la CNFC o Cloud Native Computing Foundation](/assets/img/2020-news/cncf-landscape-horizontal-color.png "Logotipo de la CNFC o Cloud Native Computing Foundation")
+![Logotipo de la CNFC o Cloud Native Computing Foundation](/assets/img/2020-news/cncf-landscape-horizontal-color.webp "Logotipo de la CNFC o Cloud Native Computing Foundation")
