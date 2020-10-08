@@ -24,8 +24,6 @@ Tres años después de que la industria de las computadoras prometiera duplicar 
 
 SK Hynix ha anunciado oficialmente los primeros módulos de memoria DDR5 del mundo. La compañía a dicho al Blog The Verge que espera comenzar a venderlos en el tercer trimestre de 2021, pero solamente estarán disponibles, siempre que los sistemas operativos sean capaces de soportarlas.
 
-Aquí están:
-
 ![Primeros módulos de memoria RAM DDR5 del mundo](/assets/img/blog/memoria-ddr5.webp "Primeros módulos de memoria RAM DDR5 del mundo")
 
 *Fotografía propiedad de la compañía SK Hynix*
