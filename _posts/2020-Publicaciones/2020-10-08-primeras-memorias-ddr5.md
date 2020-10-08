@@ -30,17 +30,23 @@ Aquí están:
 
 *Fotografía propiedad de la compañía SK Hynix*
 
-SK Hynix afirma que la DRAM de DDR5 es capaz de ofrecer hasta 5,600 Mbps de ancho de banda sin procesar, no el máximo de 6,400 Mbps que permite la especificación DDR5, pero 1.8 veces más rápido que el DDR4 estándar, y todo a un voltaje más bajo de 1.1V en lugar de 1.2V, por lo que SK Hynix afirma será un ahorro de energía del 20 por ciento. (El consumo de energía se mide en vatios, no solo en voltios, en caso de que se esté preguntando sobre esa matemática).
+SK Hynix afirma que la DRAM de DDR5 es capaz de ofrecer hasta 5,600 Mbps de ancho de banda sin procesar, no el máximo de 6,400 Mbps que permite la especificación DDR5, pero aún así.
 
-En términos prácticos, el anuncio de hoy no significará mucho para el constructor o comprador de computadoras promedio, en parte porque los aumentos de velocidad de la RAM no han proporcionado un gran impulso para las aplicaciones y juegos normales en un tiempo, y en parte porque podrían pasar muchos meses antes que usted. Podrá comprarlos, y mucho menos insertarlos en un sistema. Intel ha anunciado que admitirá DDR5 con procesadores futuros , pero AMD no ha adoptado oficialmente DDR5 y es posible que no lo haga hasta 2022 .
+Es 1.8 veces más rápido que los módulos de DDR4 estándar y todo eso, con un voltaje más bajo, de 1.1V en lugar de 1.2V. Por lo que SK Hynix afirma que será un ahorro de energía del 20 por ciento (el consumo de la energía se puede medir en vatios, y no solamente en voltios).
 
-Pero eventualmente, la capacidad de DDR5 podría llamar su atención. Como señala AnandTech , es probable que haya módulos de 128 GB, y los módulos de nivel de servidor de 2 TB no están descartados.
+En términos prácticos, el anuncio de hoy no significará mucho para el constructor o comprador de computadoras promedio, en parte porque los aumentos de la velocidad de RAM no han proporcionado un gran impulso para las aplicaciones y juegos normales a lo largo del tiempo.
 
-El anuncio de hoy se trata más de demostrar que una empresa puede realmente construir un módulo de este tipo y hacer que otros fabricantes participen en la construcción de un ecosistema en torno a la tecnología. En este caso, SK Hynix dice que empresas como Synopsis, Renesys, Montage y Rambus ya han firmado, no exactamente el tipo de empresas que nos ofrecen RAM a los amantes de los dispositivos.
+En gran parte, porque pueden pasar muchos meses antes que el usuario normal pueda comprarlos, y más tiempo aún hasta que pueda utilizarlos realmente sobre un sistema operativo. Intel ha anunciado que admitirá DDR5 en sus procesadores futuros, pero AMD aún no ha adoptado oficialmente las memorias DDR5 y es posible que no lo haga hasta 2022.
 
-Que es básicamente también cómo se lanzó DDR4 por primera vez. Pasó un tiempo después de que se anunció por primera vez la especificación. Además, JEDEC solo logró finalizar la especificación en julio , con un par de años de retraso.
+Eventualmente, la capacidad de las memorias DDR5 podrían llamar la atención. Como señalan desde AnandTech, es probable que existan módulos de hasta 128 GB, e incluso módulos para servidores de hasta 2 TB.
 
-Si necesita velocidad antes, siempre hay una DDR4 fuera de especificaciones ridículamente cara; ya puede comprar un par de sticks de 5,100MHz por ~ $ 900 e intentar overclockearlos a 5,600MHz .
+El anuncio de hoy, por parte de SK Hynix, se trata más de demostrar que una empresa puede realmente construir un módulo de este tipo y hacer que otros fabricantes participen en torno a la construcción de la nueva tecnología aplicada en las tarjetas RAM DDR5.
+
+En este caso, SK Hynix dice que empresas como Synopsis, Renesys, Montage y Rambus ya han mostrado su deseo de comenzar a generar las nuevas tarjetas de memoria.
+
+El proceso de lanzamiento de las tarjetas DDR5, apunta a seguir el camino del lanzamiento de las DDR4. Cuando, tuvo que pasar un amplio tiempo de espera; desde su lanzamiento oficial hasta que se anunció oficialmente su especificazión real (llamémoslo estándar). En su día, la empresa JEDEC, solamente logró finalizar la especificación de la DDR4, 2 años después de las fechas inicialmente pautadas.
+
+Si tus ansias de convertirte en un Ciberninja, te hacen necesitas mucha más velocidad antes, antes de la llegada de las DDR5. Siempre existen [módulos DDR4 de hasta 5,100MHz](https://amzn.to/34BeFZN "Compra los módulos de memoria ram de módulos DDR4 de hasta 5,100MHz de Ballistix"){:target="_blank" rel="nofollow,noreferrer"} que no te van a salir precisamente baratos. En la actualidad, sobrepasan los 850 €.
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
