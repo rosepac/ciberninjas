@@ -164,6 +164,6 @@ En un corto período de tiempo, revisaré y casi con toda seguridad aceptaré tu
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[¿Qué es Ciberninjas?](https://ciberninjas.com/que-es-ciberninjas/)
 
-> **Fuente**: [Página de ZzFXM](https://keithclark.github.io/ZzFXM/){:target="_blank" rel="nofollow,noreferrer"} por Kathryn Whitenton de NNGroup.
+[¿Quién es el creador de Ciberninjas: ROSEPAC?](https://ciberninjas.com/quien-soy/)
