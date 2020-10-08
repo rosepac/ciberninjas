@@ -1,7 +1,7 @@
 ---
 layout: page
 hide: true
-title: 'Quién es ROSEPAC'
+title: '¿Quién es ROSEPAC?'
 permalink: "/quien-soy/"
 date: 2020-07-25T22:00:00.000+00:00
 canonical_URL: https://ciberninjas.com/quien-soy/
