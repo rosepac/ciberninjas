@@ -16,7 +16,7 @@ excerpt: >-
   Luego de la noticia, en la que se habla del lanzamiento de Ionic Vue, ahora viene el primer tutorial.
 canonical_URL: https://ciberninjas.com/primera-app-ionic-vue/
 permalink: /primera-app-ionic-vue/
-date: 2020-10-09 09:25:02
+date: 2020-10-09 06:25:02
 last_modified_at:
 published: true
 
