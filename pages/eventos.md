@@ -30,21 +30,13 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-### 🔔 8 de Octubre  <!-- omit in toc -->
-
-- Women in tech con @KDeve4, @silvercorp,@bettyrjce, @musartedev y @alexcamachogz 🎥 [DIRECTO](https://www.youtube.com/watch?v=poKGeLBt1wU&ab_channel=K-Dev){:target="_blank" rel="nofollow, noreferrer"} (05:00 AM)
-- LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
-- Un recorrido por los márgenes: la crítica desde la periferia del sector - Eva Cid 🎥 [DIRECTO](https://www.youtube.com/watch?v=-0hOonVKTLM&ab_channel=Mulleresdetr%C3%A1sdosVideoxogos){:target="_blank" rel="nofollow, noreferrer"} (13:00)
-- ReproHack en español - LatinR 2020 🎥 [DIRECTO](https://www.youtube.com/channel/UCt950nC6jlh2ELDRPigWOkg){:target="_blank" rel="nofollow, noreferrer"} 👉 [Info.](https://www.eventbrite.com.ar/e/reprohack-en-espanol-latinr-2020-tickets-121741832097?aff=ebdssbonlinesearch){:target="_blank" rel="nofollow, noreferrer"} (15:00 PM)
-- Iníciate en UX Research en remoto 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-iniciate-en-ux-research-en-remoto-123456972127?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
-- 15 consejos para administrar BitLocker 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-15-consejos-para-administrar-bitlocker-122888760591?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
-
-<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 ### 🔔 9 de Octubre  <!-- omit in toc -->
 
 - LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
 - ¿Cómo se trabaja en la industria con Python? 👉 [Info.](https://www.eventbrite.com/e/como-se-trabaja-en-la-industria-con-python-tickets-122417015589?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (00:00 PM noche para el 10)
+
+<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 ### 🔔 13 de Octubre  <!-- omit in toc -->
 
@@ -946,3 +938,12 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
 - El equipo diverso, un valor añadido - Susana Broullón 🎥 [DIRECTO](https://www.youtube.com/watch?v=-0hOonVKTLM&ab_channel=Mulleresdetr%C3%A1sdosVideoxogos){:target="_blank" rel="nofollow, noreferrer"} (13:00)
 - Neo4j y Gestión 360 de Clientes 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00 H. Esp.)
+
+### 🔔 8 de Octubre  <!-- omit in toc -->
+
+- Women in tech con @KDeve4, @silvercorp,@bettyrjce, @musartedev y @alexcamachogz 🎥 [DIRECTO](https://www.youtube.com/watch?v=poKGeLBt1wU&ab_channel=K-Dev){:target="_blank" rel="nofollow, noreferrer"} (05:00 AM)
+- LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
+- Un recorrido por los márgenes: la crítica desde la periferia del sector - Eva Cid 🎥 [DIRECTO](https://www.youtube.com/watch?v=-0hOonVKTLM&ab_channel=Mulleresdetr%C3%A1sdosVideoxogos){:target="_blank" rel="nofollow, noreferrer"} (13:00)
+- ReproHack en español - LatinR 2020 🎥 [DIRECTO](https://www.youtube.com/channel/UCt950nC6jlh2ELDRPigWOkg){:target="_blank" rel="nofollow, noreferrer"} 👉 [Info.](https://www.eventbrite.com.ar/e/reprohack-en-espanol-latinr-2020-tickets-121741832097?aff=ebdssbonlinesearch){:target="_blank" rel="nofollow, noreferrer"} (15:00 PM)
+- Iníciate en UX Research en remoto 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-iniciate-en-ux-research-en-remoto-123456972127?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
+- 15 consejos para administrar BitLocker 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-15-consejos-para-administrar-bitlocker-122888760591?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
