@@ -24,9 +24,13 @@ Intel ha confirmado que sus procesadores de escritorio Rocket Lake de 11a genera
 
 El momento del anuncio de Intel, no parece ser una coincidencia. Puesto que [AMD está a punto de presentar, hoy mismo, sus primeras CPU basadas en su arquitectura Zen 3](https://ciberninjas.com/evento-zen3-amd/ "AMD está a punto de presentar sus primeras CPU basadas en la arquitectura Zen 3") de próxima generación para ordenadores de escritorio.
 
-Los procesadores que se convertirán, casi con toda seguridad, en la mayor competencia del mercado por el dominio de Intel en las PC de alta potencia. La confirmación de Intel de que tiene sus propios chips nuevos en camino para el próximo año, no deja de ser un recordatorio para todos los fabricantes de ordenadores, de que Intel tendrá preparadas suficientes opciones disponibles más lejos del [hardware que AMD sea capaz de anunciar hoy](https://ciberninjas.com/evento-zen3-amd/ "AMD está a punto de presentar sus primeras CPU basadas en la arquitectura Zen 3").
+Los procesadores que se convertirán, casi con toda seguridad, en la mayor competencia del mercado por el dominio de Intel en las PC de alta potencia. La confirmación de Intel de que tiene sus propios chips nuevos en camino para el próximo año.
 
-Si bien, las noticias de Intel, aún se tratan de fechas de lanzamiento sin concretar. La empresa Videocardz, ya ha informado de que los chips llegarían en Marzo de 2021. También se dice que los nuevos chips Rocket Lake-S serán compatibles con las placas base de la serie 400 de Intel, lo que debería ser útil para cualquiera que desee actualizar el microprocesador a lo largo del próximo año.
+Lo que no deja de ser un recordatorio para todos los fabricantes de ordenadores, de que Intel tendrá preparadas suficientes opciones disponibles más lejos del [hardware que AMD sea capaz de anunciar hoy](https://ciberninjas.com/evento-zen3-amd/ "AMD está a punto de presentar sus primeras CPU basadas en la arquitectura Zen 3").
+
+Si bien, las noticias de Intel, aún se tratan de fechas de lanzamiento sin concretar. La empresa Videocardz, ya ha informado de que los chips llegarían en Marzo de 2021.
+
+También se dice que los nuevos chips Rocket Lake-S serán compatibles con las placas base de la serie 400 de Intel, lo que debería ser útil para cualquiera que desee actualizar el microprocesador a lo largo del próximo año.
 
 Desde Wccftech, también parecen tener más información sobre la próxima gran renovación de los procesadores de Intel, he informan de que todavía se espera, que Intel vaya a estar usando el mismo proceso de 14 nm que ya usaba en la actualidad.
 
