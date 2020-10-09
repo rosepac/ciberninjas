@@ -38,15 +38,15 @@ Además, de presentar los dispositivos dirigidos a contenidos multimedia, como [
 Por ahora, es más que posible, que Amazon tire y rebaje los precios de los modelos Echo Dot; a si que procuren estar a alerta.
 
 ***
-Luego de este repaso. **Volvamos al Amazon Prime Day 2020** que **regresa justo a tiempo para realizar las compras de las vacaciones navideñas**. El evento de este año, del 13 al 14 de Octubre, contará con increíbles ahorros y **[grandes descuentos, en más de un millón de ofertas](https://amzn.to/2Iaf2mx)** de todas las categorías.
+Luego de este repaso. **Volvamos al Amazon Prime Day 2020** que **regresa justo a tiempo para realizar las compras de las vacaciones navideñas**. El evento de este año, del 13 al 14 de Octubre, contará con increíbles ahorros y **[grandes descuentos, en más de un millón de ofertas](https://amzn.to/2Iaf2mx){:target="_blank" rel="nofollow,noreferrer"}** de todas las categorías.
 
 Para ir abriendo boca, **Amazon ha anunciado importantes rebajas, en dos de sus productos más innovadores** que ha lanzado este mismo año; **el sistema de red Wifi Eero y las cámaras de seguridad Ring HD**.
 
-El primero, [**el sistema Wifi Home Eero**](https://amzn.to/2GGq0Qn) formado por 3 repetidores capaces de implantar una red wifi de más de 400 metros; pasará de los 279 € que vale ahora, a solamente 167,80 €.
-
-Las segundas, [**las cámaras Ring HD**](https://amzn.to/33I5APx) de grabación HD, visión de infrarrojos, vídeo en directo, alarma, foco led, y más; pasarán de los 229 € que vale actualmente, a solamente 159 €.
-
 ![Colección de todos los descuentos del Amazon Prime Day 2020](/assets/img/blog/collage-amazon.webp "Colección de todos los descuentos del Amazon Prime Day 2020")
+
+El primero, [**el sistema Wifi Home Eero**](https://amzn.to/2GGq0Qn){:target="_blank" rel="nofollow,noreferrer"} formado por 3 repetidores capaces de implantar una red wifi de más de 400 metros; pasará de los 279 € que vale ahora, a solamente 167,80 €.
+
+Las segundas, [**las cámaras Ring HD**](https://amzn.to/33I5APx){:target="_blank" rel="nofollow,noreferrer"} de grabación HD, visión de infrarrojos, vídeo en directo, alarma, foco led, y más; pasarán de los 229 € que vale actualmente, a solamente 159 €.
 
 Además, ya se han anunciado más descuentos. Hasta un 20 % menos en productos de electrónica y del hogar, un 20 % menos en productos esenciales y hasta un 40 % en productos de moda.
 
@@ -65,7 +65,7 @@ A continuación, y a la espera de que lleguen los días con las grandes ofertas.
 
 ## **Prime Day 2020 se centrará en las pequeñas empresas**
 
-Este año, **Amazon se va a centrar en apoyar a las pequeñas empresas**, puesto que consideran que es más importante que nunca (por culpa de la pandemia del Covid) y [han creado toda una sección específica para las pequeñas empresas](https://amzn.to/2IakpCd).
+Este año, **Amazon se va a centrar en apoyar a las pequeñas empresas**, puesto que consideran que es más importante que nunca (por culpa de la pandemia del Covid) y [han creado toda una sección específica para las pequeñas empresas](https://amzn.to/2IakpCd){:target="_blank" rel="nofollow,noreferrer"}.
 
 Para promover el compromiso real de Amazon con estas empresas, durante el Prime Day y para toda la temporada navideña, Amazon calcula que se gastará más de 100 millones de dólares para ayudar a las pequeñas empresas de todo el mundo.
 
@@ -73,7 +73,7 @@ Y te preguntarás..
 
 ## **¿Cómo va ayudar Amazon a las pequeñas empresas?**
 
-Pues, desde ahora hasta el día 12 de Octubre, Amazon va a [**regalar a todos los miembros Prime, un crédito de 10 € para usar durante el Prime Day**](https://amzn.to/2I6QGKl "Compra en pequeñas empresas y gana un cupón descuento de 10 euros") por gastar 10 euros o más, en artículos que sean vendidos por una gran cantidad de pequeñas empresas seleccionadas (aunque yo aún no veo está oferta implementada en la web, a día de hoy 9 de Octubre).. 🙄
+Pues, desde ahora hasta el día 12 de Octubre, Amazon va a [**regalar a todos los miembros Prime, un crédito de 10 € para usar durante el Prime Day**](https://amzn.to/2I6QGKl "Compra en pequeñas empresas y gana un cupón descuento de 10 euros"){:target="_blank" rel="nofollow,noreferrer"} por gastar 10 euros o más, en artículos que sean vendidos por una gran cantidad de pequeñas empresas seleccionadas (aunque yo aún no veo está oferta implementada en la web, a día de hoy 9 de Octubre).. 🙄
 
 Ademas, **Amazon se centrará en potenciar la venta de estás pequeñas pymes**, mediante las siguientes prácticas:
 
@@ -99,15 +99,15 @@ Si preguntas a tu Alexa, alguna de las siguientes preguntas, el mini robot será
 
 Prime Day es el día de “gracias” de Amazon a los miembros Prime. Como resultado de esto, los compradores deben ser suscriptores de Amazon Prime para aprovechar cualquier oferta durante estos días.
 
-Sin embargo, si no eres un miembro de Amazon Prime, todavía, [puedes darte de alta aquí](https://www.amazon.es/prime?tag=rosepac21) sin ningún problema.
+Sin embargo, si no eres un miembro de Amazon Prime, todavía, [puedes darte de alta aquí](https://www.amazon.es/prime?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"} sin ningún problema.
 
 Amazon ofrece una prueba gratuita de miembro Prime cuando te registras por primera vez, y una vez finalizada la prueba de 30 días, puedes elegir.
 
 Entre conservar tu membresía de Amazon Prime o simplemente, dar de baja el pago de la cuota anual y esperar a que se te caduque el mes gratuito, mientras lo disfrutas.
 
-Aunque, [seas un nuevo usuario (incluso, aunque te des de alta durante el mismo Prime Day)](https://www.amazon.es/prime?tag=rosepac21) vas a poder beneficiarte de todas las ofertas y rebajas; igualmente.
+Aunque, [seas un nuevo usuario (incluso, aunque te des de alta durante el mismo Prime Day)](https://www.amazon.es/prime?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"} vas a poder beneficiarte de todas las ofertas y rebajas; igualmente.
 
-> Regístrate ahora para pasar por el [período de prueba gratuita de 30 días](http://www.amazon.es/prime?tag=rosepac21) de Amazon Prime.
+> Regístrate ahora para pasar por el [período de prueba gratuita de 30 días](http://www.amazon.es/prime?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"} de Amazon Prime.
 
 Si has cancelado una membresía Prime en los últimos 12 meses, no podrás volver a utilizar la prueba gratuita de 30 días. Lo mejor es que te inscribas para obtener una membresía Prime de 1 mes, y procures comprar suficientes ofertas durante ese período para hacerlo rentable.
 
@@ -157,7 +157,7 @@ No hay duda, de que **encontrarás grandes ofertas durante el Amazon Prime Day**
 
 Y a modo personal, te aconsejo como muy, muy recomendable: **Hacer una lista de los artículos que desees comprar y asegúrate guiarte por ella**, ante todas las compras que vayas a realizar.
 
-**Usa herramientas como [CamelCamelCamel](https://kutt.it/camel)**, un **sitio que rastrea el historial de precios de todos los productos de Amazon que desees**, y puede ayudarte a encontrar los mejores precios e incluso a detectar posibles ofertas falsas.
+**Usa herramientas como [CamelCamelCamel](https://kutt.it/camel){:target="_blank" rel="nofollow,noreferrer"}**, un **sitio que rastrea el historial de precios de todos los productos de Amazon que desees**, y puede ayudarte a encontrar los mejores precios e incluso a detectar posibles ofertas falsas.
 
 Otra muy buena recomendación, es el uso de [Fakespot.com](https://fakespot.com){:target="_blank" rel="nofollow,noreferrer"}. La aplicación Fakespot, te ayuda a detectar los productos falsos.
 
@@ -173,7 +173,7 @@ Junto a dos nuevos países, que por primera vez van a poder participar: Turquía
 {: .notice--danger}
 
 <!-- PRIME DAY DE AMAZON DEL 2020 -->
-<!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. -->
+<!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF){:target="_blank" rel="nofollow,noreferrer"} para comprar hasta cómo evitar las malas ofertas. -->
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
 ![Amazon Prime Day 2020, mejores ofertas y chollos. Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos](/assets/img/blog/amazonday-2020.webp "Amazon Prime Day 2020, mejores ofertas y chollos. Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos")
 
@@ -191,55 +191,55 @@ En esta publicación podrás ver una selección de [las mejores ofertas de compo
 
 ### **Las Mejores Ofertas de Dispositivo de Diseño Gráfico del Amazon Prime Day** <!-- omit in toc -->
 
-[VER TODAS LAS OFERTAS](https://amzn.to/2jVmaYp)
+[VER TODAS LAS OFERTAS](https://amzn.to/2jVmaYp){:target="_blank" rel="nofollow,noreferrer"}
 
 ![wacom](https://i.ibb.co/n7WWD38/wacom.jpg)  
-[Wacom PTH-660 Intuos Pro M](https://amzn.to/2xQsaoG) Tableta gráfica con lápiz digital Pro Pen 2 / Tableta digitalizadora para pintura y diseño digital / Portalápices con 10 puntas / Compatible con Windows y MacOS / Negro
+[Wacom PTH-660 Intuos Pro M](https://amzn.to/2xQsaoG){:target="_blank" rel="nofollow,noreferrer"} Tableta gráfica con lápiz digital Pro Pen 2 / Tableta digitalizadora para pintura y diseño digital / Portalápices con 10 puntas / Compatible con Windows y MacOS / Negro
 
 ![wacom2](https://i.ibb.co/nrwpzyz/wacom2.jpg)  
-[Wacom Intuos S Tableta Gráfica](https://amzn.to/2lB1wNC) Bluetooth Negra – Tableta Gráfica Inalámbrica para pintar, dibujar y editar fotos con 2 softwares creativos incluidos para descargar, compatible con Windows & Mac
+[Wacom Intuos S Tableta Gráfica](https://amzn.to/2lB1wNC){:target="_blank" rel="nofollow,noreferrer"} Bluetooth Negra – Tableta Gráfica Inalámbrica para pintar, dibujar y editar fotos con 2 softwares creativos incluidos para descargar, compatible con Windows & Mac
 
 ### **Las Mejores Ofertas de Auriculares y Otros Dispositivos de Sonido del Amazon Prime Day** <!-- omit in toc -->
 
-[VER TODAS LAS OFERTAS](https://amzn.to/2ld3fIS)
+[VER TODAS LAS OFERTAS](https://amzn.to/2ld3fIS){:target="_blank" rel="nofollow,noreferrer"}
 
-* [Dispositivos de audio: micrófonos, auriculares y controladores](https://amzn.to/2ld3fIS).
-* [40% en auriculares de alta gama](https://amzn.to/2jXCecc)
+* [Dispositivos de audio: micrófonos, auriculares y controladores](https://amzn.to/2ld3fIS){:target="_blank" rel="nofollow,noreferrer"}.
+* [40% en auriculares de alta gama](https://amzn.to/2jXCecc){:target="_blank" rel="nofollow,noreferrer"}
 
 ![logitech](https://i.ibb.co/QfJrsjS/logitech.jpg)  
-[Logitech G430](https://amzn.to/2OcC27h) – Auriculares Gaming para PC, Xbox One, PS4 y Switch, Color Negro y Azul
+[Logitech G430](https://amzn.to/2OcC27h){:target="_blank" rel="nofollow,noreferrer"} – Auriculares Gaming para PC, Xbox One, PS4 y Switch, Color Negro y Azul
 
 ### **Las Mejores Ofertas de Apple del Amazon Prime Day** <!-- omit in toc -->
 
-Apple está ofreciendo en Amazon un descuento de hasta un [35% en dispositivos Apple](https://amzn.to/2lhZ66w). Solo hoy: en iPad, iPhone, iMac, teclados, fundas.
+Apple está ofreciendo en Amazon un descuento de hasta un [35% en dispositivos Apple](https://amzn.to/2lhZ66w){:target="_blank" rel="nofollow,noreferrer"}. Solo hoy: en iPad, iPhone, iMac, teclados, fundas.
 
 La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, quedando entre los 330 € del modelo rosa hasta los 399 € de los modelos gris espacil, gris plata o plata con mayor capacidad:
 
-* [Apple iPhone 6s Plus (de 32GB)](https://amzn.to/2xPA2Xo) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
-* [Apple iPhone 6s Plus (de 128GB)](https://amzn.to/2lAN3RQ) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
+* [Apple iPhone 6s Plus (de 32GB)](https://amzn.to/2xPA2Xo){:target="_blank" rel="nofollow,noreferrer"} – Gris Espacial, Oro, Plata, Gris o Oro Rosa
+* [Apple iPhone 6s Plus (de 128GB)](https://amzn.to/2lAN3RQ){:target="_blank" rel="nofollow,noreferrer"} – Gris Espacial, Oro, Plata, Gris o Oro Rosa
 
 ### **Las Mejores Ofertas de Dispositivos de Amazon del Amazon Prime Day** <!-- omit in toc -->
 
-[VER TODAS LAS OFERTAS](https://amzn.to/2lCy221)
+[VER TODAS LAS OFERTAS](https://amzn.to/2lCy221){:target="_blank" rel="nofollow,noreferrer"}
 
 ![EchoDot](https://i.ibb.co/xq3hCqb/echodot.jpg)  
-[Echo Dot (3.ª generación)](https://amzn.to/2jZ3pD8), tela de color gris oscuro + Amazon Smart Plug (enchufe inteligente wifi), compatible con Alexa:  
-[Echo Dot (3.ª generación)](https://amzn.to/2jLrmOu)
+[Echo Dot (3.ª generación)](https://amzn.to/2jZ3pD8){:target="_blank" rel="nofollow,noreferrer"}, tela de color gris oscuro + Amazon Smart Plug (enchufe inteligente wifi), compatible con Alexa:  
+[Echo Dot (3.ª generación)](https://amzn.to/2jLrmOu){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Amazon Echo Plus](https://i.ibb.co/JzLbfmK/echoplus.jpg)  
-[Amazon Echo (2.ª generación)](https://amzn.to/2lgVphj){: .btn btn--warning .btn--large .align-center}
+[Amazon Echo (2.ª generación)](https://amzn.to/2lgVphj){:target="_blank" rel="nofollow,noreferrer"}{: .btn btn--warning .btn--large .align-center}
 
 ![Amazon Echo Show 5 + Amazon Smart Plug Enchufe](https://i.ibb.co/zFL0NWg/echoshow.jpg)  
-[Echo Show 5 (negro) + Amazon Smart Plug (enchufe inteligente wifi)](https://amzn.to/2jLrCNs), compatible con Alexa
+[Echo Show 5 (negro) + Amazon Smart Plug (enchufe inteligente wifi)](https://amzn.to/2jLrCNs){:target="_blank" rel="nofollow,noreferrer"}, compatible con Alexa
 
 ![Fire1tv](https://i.ibb.co/GM6mw2D/fire1.jpg)  
-[Fire TV Stick | Basic Edition](https://amzn.to/2k5NV0d)
+[Fire TV Stick | Basic Edition](https://amzn.to/2k5NV0d){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Fire HD](https://i.ibb.co/BtCw8p1/firehd.jpg)  
-[Tablet Fire HD 8 | Pantalla HD de 8 pulgadas, 16 GB, negro, incluye ofertas especiales](https://amzn.to/2k3Mi36)
+[Tablet Fire HD 8 | Pantalla HD de 8 pulgadas, 16 GB, negro, incluye ofertas especiales](https://amzn.to/2k3Mi36){:target="_blank" rel="nofollow,noreferrer"}
 
 [Tablet Fire 7, pantalla de 7”, 16 GB (Negro) – Incluye ofertas especiales  
-](https://amzn.to/2Sg0rXQ)
+](https://amzn.to/2Sg0rXQ){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Woox Bombilla](https://i.ibb.co/9Gb98fp/wooxbombilla.jpg)  
 [Woox Bombilla de luz inteligente](https://amzn.to/2lgVXDT) funciona con Alexa
@@ -247,37 +247,37 @@ La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, queda
 ## **Las Mejores Ofertas de Robótica del Amazon Prime Day** <!-- omit in toc -->
 
 ![](https://i.ibb.co/PwZKRFb/abox.jpg)  
-[ABOX Raspberry Pi 3 B+ Starter Kit](https://amzn.to/2lhaiQL) con Micro SD de 32GB Clase 10, 5V 3A Adaptador de Corriente con Interruptor, 2 Radiadores, Cable HDMI, Caja de Calidad, Lector de Tarjetas, Caja Negro: https://amzn.to/2lhaiQL
+[ABOX Raspberry Pi 3 B+ Starter Kit](https://amzn.to/2lhaiQL){:target="_blank" rel="nofollow,noreferrer"} con Micro SD de 32GB Clase 10, 5V 3A Adaptador de Corriente con Interruptor, 2 Radiadores, Cable HDMI, Caja de Calidad, Lector de Tarjetas, Caja Negro: https://amzn.to/2lhaiQL
 
 ![](https://i.ibb.co/r3GtVTs/eleego.jpg)  
-[ELEGOO Conjunto Mas Completo y Avanzado de Iniciación](https://amzn.to/2ld0pUc) Compatible con MEGA2560 con Guías Tutorial en Español y Conjunto con Placa Controladora Compatible con MEGA2560, Servomotor, Motor Paso a Paso
+[ELEGOO Conjunto Mas Completo y Avanzado de Iniciación](https://amzn.to/2ld0pUc){:target="_blank" rel="nofollow,noreferrer"} Compatible con MEGA2560 con Guías Tutorial en Español y Conjunto con Placa Controladora Compatible con MEGA2560, Servomotor, Motor Paso a Paso
 
 ### **Ofertas de Dispositivos Inteligentes o Smart Home** <!-- omit in toc -->
 
-[VER TODOS](https://amzn.to/2ldfHZ8)
+[VER TODOS](https://amzn.to/2ldfHZ8){:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Ofertas de Portátiles / Laptops** <!-- omit in toc -->
 
-[25% en portátiles HP, Lenovo y Acer](https://amzn.to/2LUZu6c)  
-[25 % en productos Gaming: portátiles, sobremesas y monitores](https://amzn.to/2k6kR8R)  
-[30% en una selección de Accesorios Gaming](https://amzn.to/2lcAXyb)  
-[Portátiles ultrafinos y convertibles. Más baratos](https://amzn.to/2Jzuk2p)
+[25% en portátiles HP, Lenovo y Acer](https://amzn.to/2LUZu6c){:target="_blank" rel="nofollow,noreferrer"}  
+[25 % en productos Gaming: portátiles, sobremesas y monitores](https://amzn.to/2k6kR8R){:target="_blank" rel="nofollow,noreferrer"}  
+[30% en una selección de Accesorios Gaming](https://amzn.to/2lcAXyb){:target="_blank" rel="nofollow,noreferrer"} 
+[Portátiles ultrafinos y convertibles. Más baratos](https://amzn.to/2Jzuk2p){:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Ofertas en Tablets** <!-- omit in toc -->
 
-[25% en Tablets de Huawei, Samsung, Lenovo y más](https://amzn.to/2jZ1mPN)
+[25% en Tablets de Huawei, Samsung, Lenovo y más](https://amzn.to/2jZ1mPN){:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Ofertas de Videojuegos** <!-- omit in toc -->
 
-[VER TODAS LAS OFERTAS](https://amzn.to/2k3VaFW)
+[VER TODAS LAS OFERTAS](https://amzn.to/2k3VaFW){:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Otras Ofertas** <!-- omit in toc -->
 
-Amazon inunda a sus miembros Prime con más de un millón de ofertas. Encontrarás descuentos en todo, desde [televisores 4K y de gama alta](https://amzn.to/2lcqH99) o televisores [más económicos](https://amzn.to/32sh07o) con descuentos de hasta un 40%; entre [miles de productos más](https://amzn.to/2lCB9XF).
+Amazon inunda a sus miembros Prime con más de un millón de ofertas. Encontrarás descuentos en todo, desde [televisores 4K y de gama alta](https://amzn.to/2lcqH99){:target="_blank" rel="nofollow,noreferrer"} o televisores [más económicos](https://amzn.to/32sh07o){:target="_blank" rel="nofollow,noreferrer"} con descuentos de hasta un 40%; entre [miles de productos más](https://amzn.to/2lCB9XF){:target="_blank" rel="nofollow,noreferrer"}.
 
 ### **Ofertas de Smartwarches** <!-- omit in toc -->
 
-Los [smartwatches de Samsung](https://amzn.to/2jXzuvq) podrás encontrarlos con hasta un 55% de descuento, ofertas de hasta un 30% al 40% de descuento en [las pulseras Fitbit](https://amzn.to/2ShXW7m) y descuentazos de hasta un 45% en [los relojes de entrenamiento de Garmin](https://amzn.to/2lza5sf) 30& en los relojes Polar(https://amzn.to/2lAOv6J)
+Los [smartwatches de Samsung](https://amzn.to/2jXzuvq){:target="_blank" rel="nofollow,noreferrer"} podrás encontrarlos con hasta un 55% de descuento, ofertas de hasta un 30% al 40% de descuento en [las pulseras Fitbit](https://amzn.to/2ShXW7m){:target="_blank" rel="nofollow,noreferrer"} y descuentazos de hasta un 45% en [los relojes de entrenamiento de Garmin](https://amzn.to/2lza5sf){:target="_blank" rel="nofollow,noreferrer"} 30& en los relojes Polar(https://amzn.to/2lAOv6J)
 
 ## **Mejores Ofertas para E-Readers** <!-- omit in toc -->
 
@@ -287,13 +287,13 @@ Si desea ponerse al día con las lecturas de verano , a través de Amazon’s Pr
 
 Varios modelos diferentes de Amazon Kindle están a la venta a través de Amazon Prime Day. Para los lectores que buscan llevar sus libros a la playa o la piscina, Paperwhite es un lector electrónico a prueba de agua que almacena entre 8GB y 32GB. Del mismo modo, el modelo más nuevo del Kindle básico. Las compras de cualquiera de los Kindle vienen con un crédito de eBooks.
 
-- [Kindle Paperwhite](https://amzn.to/2J3LsMY): Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales
-- [Nuevo Kindle Oasis](https://amzn.to/3aiUQZ7): Ahora con luz frontal integrada, negro.
-- [Nuevo Kindle Oasis](https://amzn.to/3bbS33D): Ahora con luz frontal integrada, de color dorado.
+- [Kindle Paperwhite](https://amzn.to/2J3LsMY){:target="_blank" rel="nofollow,noreferrer"}: Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales
+- [Nuevo Kindle Oasis](https://amzn.to/3aiUQZ7){:target="_blank" rel="nofollow,noreferrer"}: Ahora con luz frontal integrada, negro.
+- [Nuevo Kindle Oasis](https://amzn.to/3bbS33D){:target="_blank" rel="nofollow,noreferrer"}: Ahora con luz frontal integrada, de color dorado.
 
 ### **Kindle Unlimited** <!-- omit in toc -->
 
-Se está ofreciendo otro servicio de suscripción digital con un descuento masivo en Amazon Prime Day. [Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21) permite a los lectores acceder a más de un millón de títulos en cualquier dispositivo a través de la aplicación Kindle.
+Se está ofreciendo otro servicio de suscripción digital con un descuento masivo en Amazon Prime Day. [Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"} permite a los lectores acceder a más de un millón de títulos en cualquier dispositivo a través de la aplicación Kindle.
 
 Los nuevos miembros pueden aprovechar una oferta de 30 días por 0 € que les da acceso a revistas, así como a varias series de libros. La oferta de Kindle Unlimited se extiende más allá de Prime Day ya que los miembros tienen hasta el 31 de julio para inscribirse.
 
