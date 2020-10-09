@@ -102,9 +102,6 @@ collections:
   cursos-fk-prog:
     output: true
     permalink: /:collection/:name
-  fp-daw:
-    output: true
-    permalink: /:collection/:name
 
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
