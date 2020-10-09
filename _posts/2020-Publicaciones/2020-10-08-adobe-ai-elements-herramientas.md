@@ -10,9 +10,9 @@ thumbnail: /assets/img/blog/adobe-elements-1.webp
 feature-img: /assets/img/blog/adobe-elements-1.webp
 title: '▷ Adobe presenta Photoshop Elements 2021 con nuevas herramientas de edición impulsadas por IA'
 description: >-
-  Adobe acaba de presentar Photoshop Elements y Premiere Elements 2021, agregando varias funciones impulsadas por Sensei AI como animaciones de 'Fotos en movimiento'.
+  Adobe acaba de presentar Photoshop Elements y Premiere Elements 2021, agregando varias funciones impulsadas por Sensei AI como animaciones de fotos en movimiento.
 excerpt: >-
-  Adobe acaba de presentar Photoshop Elements y Premiere Elements 2021, agregando varias funciones impulsadas por Sensei AI como animaciones de 'Fotos en movimiento'.
+  Adobe acaba de presentar Photoshop Elements y Premiere Elements 2021, agregando varias funciones impulsadas por Sensei AI como animaciones de fotos en movimiento.
 canonical_URL: https://ciberninjas.com/adobe-elements-ai/
 permalink: /adobe-elements-ai/
 date: 2020-10-08 19:10:02
