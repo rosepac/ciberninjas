@@ -14,7 +14,7 @@ excerpt: >-
   Tres años después de que la industria de las computadoras prometiera duplicar la velocidad de la memoria de las computadoras del mundo con la especificación DDR5, finalmente casi está aquí. SK Hynix ha anunciado oficialmente los primeros módulos de memoria DDR5 del mundo, que ofrecen hasta 5,600 Mbps de ancho de banda.
 canonical_URL: https://ciberninjas.com/primeras-memorias-ddr5/
 permalink: /primeras-memorias-ddr5/
-date: 2020-10-08 07:11:02
+date: 2020-10-08 07:11:24
 last_modified_at:
 published: true
 

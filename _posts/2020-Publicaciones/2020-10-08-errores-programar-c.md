@@ -84,7 +84,7 @@ Usar `void` para señalar a la memoria es un hábito antiguo y malo. Los puntero
 
 Cuando se etiqueta de una de estas formas, está claro que el puntero se refiere a una ubicación de memoria en abstracto en lugar de a algún tipo de objeto indefinido.
 
-Esto es doblemente importante si estás realizando cálculos matemáticos con punteros. Con ` uintptr_t` y similares, el elemento de tamaño al que se apunta y cómo se utilizará no son ambiguos. Con `void`, no tanto.
+Esto es doblemente importante si estás realizando cálculos matemáticos con punteros. Con `uintptr_t` y similares, el elemento de tamaño al que se apunta y cómo se utilizará no son ambiguos. Con `void`, no tanto.
 
 ## **5 Consejos para Evitar Errores comunes en C**
 

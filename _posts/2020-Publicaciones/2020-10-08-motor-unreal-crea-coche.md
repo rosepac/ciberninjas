@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Motor Videojuegos
 thumbnail: /assets/img/blog/coche-unreal.webp
 feature-img: /assets/img/blog/coche-unreal.webp
 title: '▷ El coche eléctrico Hummer de GMC, será el primer automóvil con software creado con el motor Unreal de Epic Games'
@@ -14,7 +14,7 @@ excerpt: >-
   El creador de Fortnite, Epic Games, se ha asociado con General Motors para una nueva iniciativa para utilizar su plataforma Unreal Engine para ayudar a construir software para automóviles.
 canonical_URL: https://ciberninjas.com/motor-unreal-disena-coche/
 permalink: /motor-unreal-disena-coche/
-date: 2020-10-08 11:16:02
+date: 2020-10-08 11:16:22
 last_modified_at:
 published: true
 

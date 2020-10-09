@@ -15,7 +15,7 @@ excerpt: >-
   Intel confirma que sus procesadores de escritorio Rocket Lake de última generación saldrán a lo largo del primer trimestre de 2021, con compatibilidad para PCIe 4.0 añadida. La noticia, llega justo antes del anuncio de la CPU Zen 3 de AMD.
 canonical_URL: https://ciberninjas.com/intel-rocketlake-11-generacion/
 permalink: /intel-rocketlake-11-generacion/
-date: 2020-10-08 12:15:02
+date: 2020-10-08 12:15:06
 last_modified_at: 
 published: true
 
