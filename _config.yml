@@ -10,9 +10,8 @@ favicon: 'assets/favicon.ico'
 # Header and footer text
 header_text: 'Jardín Digital del Saber Binario'
 header_feature_image: '/assets/img/paginas/ciberninjas-collage.webp'
-footer_text: >
-© 2020 Ciberninjas. Noticias y eventos de desarrollo web, programación y diseño.<br/> Con 😻 desde Asturias. Lanzado por Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
-
+footer_text: >-
+ © 2020 Ciberninjas. Noticias y eventos de desarrollo web, programación y diseño.<br/> Con 😻 desde Asturias. Lanzado por Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
 # Blog
 excerpt: false                                       # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
