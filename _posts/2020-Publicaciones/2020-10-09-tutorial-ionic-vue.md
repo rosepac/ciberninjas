@@ -11,14 +11,14 @@ thumbnail: /assets/img/blog/aplicaciones-vue-ionic-cn.webp
 feature-img: /assets/img/blog/aplicaciones-vue-ionic-cn.webp
 title: '▷ Construyendo tu primera aplicación de Ionic y Vue'
 description: >-
-  Luego de la noticia, en la que se habla del lanzamiento de Ionic Vue, ahora viene el primer tutorial: Creando tu primera aplicación Ionic para Ionic Vue.
+  Luego de la noticia, en la que se habla del lanzamiento de Ionic Vue, ahora viene el primer tutorial.
 excerpt: >-
-  Luego de la noticia, en la que se habla del lanzamiento de Ionic Vue, ahora viene el primer tutorial: Creando tu primera aplicación Ionic para Ionic Vue.
+  Luego de la noticia, en la que se habla del lanzamiento de Ionic Vue, ahora viene el primer tutorial.
 canonical_URL: https://ciberninjas.com/primera-app-ionic-vue/
 permalink: /primera-app-ionic-vue/
-date: 2020-10-09 19:01:02
+date: 2020-10-09 09:25:02
 last_modified_at: 
-published: false
+published: true
 
 ---
 

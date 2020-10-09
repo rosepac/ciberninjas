@@ -30,7 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-
 ### 🔔 8 de Octubre  <!-- omit in toc -->
 
 - Women in tech con @KDeve4, @silvercorp,@bettyrjce, @musartedev y @alexcamachogz 🎥 [DIRECTO](https://www.youtube.com/watch?v=poKGeLBt1wU&ab_channel=K-Dev){:target="_blank" rel="nofollow, noreferrer"} (05:00 AM)

@@ -15,7 +15,7 @@ excerpt: >-
   La hoja de ruta del proyecto Kotlin coloca la reescritura del compilador, el desarrollo móvil multiplataforma y la implementación de WebAssembly como objetivos prioritarios.
 canonical_URL: https://ciberninjas.com/kotlin-hoja-ruta-prioritaria/
 permalink: /kotlin-hoja-ruta-prioritaria/
-date: 2020-10-08 16:48:02
+date: 2020-10-09 08:48:02
 last_modified_at: 
 published: true
 
@@ -66,4 +66,4 @@ La hoja de ruta también tiene una sección centrada en los subsistemas, que cit
 
 > **Fuente**: [Hoja de Ruta de Kotlin](https://kotlinlang.org/roadmap.html){:target="_blank" rel="nofollow,noreferrer"}
 
-![El proyecto Kotlin modifica sus objetivos prioritarios. Anteponiendo ahora, la implementación de un nuevo compilador y la inserción de WebAssembly](/assets/img/blog/hoja-ruta-kotlin.webp "El proyecto Kotlin modifica sus objetivos prioritarios. Anteponiendo ahora, la implementación de un nuevo compilador y la inserción de WebAssembly")
+![El proyecto Kotlin modifica sus objetivos prioritarios](/assets/img/blog/hoja-ruta-kotlin.webp "El proyecto Kotlin modifica sus objetivos prioritarios")

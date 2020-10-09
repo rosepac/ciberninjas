@@ -15,7 +15,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/errores-programar-c/
 permalink: /errores-programar-c/
 date: 2020-10-08 18:41:02
-last_modified_at: 
+last_modified_at:
 published: true
 
 ---

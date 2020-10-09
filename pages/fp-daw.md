@@ -1,10 +1,10 @@
 ---
+
 layout: page
 hide: true
-title: 'FP DAW'
+title: 'FP Daw'
 description: ''
 excerpt: ''
-entries_layout: default
 permalink: /recursos-daw/sistemas-informaticos/
 canonical_URL: https://ciberninjas.com/recursos-daw/sistemas-informaticos/
 published: true
@@ -55,8 +55,10 @@ bootstrap: true
    {
      "@id": "https://ciberninjas.com/recursos-daw/sistemas-informaticos/",
      "name": "Módulo Completo de Sistemas Informáticos del Ciclo Formativo Superior de Desarrollo de Aplicaciones Web"
+    }
    }
-  }
  ]
 }
 </script>
+
+Aquí irá el contenido de la página relacionado con sistemas informáticos.
