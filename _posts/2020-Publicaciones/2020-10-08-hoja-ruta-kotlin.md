@@ -8,7 +8,7 @@ tags:
 - Aplicaciones Multiplataforma
 thumbnail: /assets/img/blog/hoja-ruta-kotlin.webp
 feature-img: /assets/img/blog/hoja-ruta-kotlin.webp
-title: '▷ El proyecto Kotlin modifica sus objetivos prioritarios: Anteponiendo ahora, la implementación de un nuevo compilador y la inserción de WebAssembly'
+title: '▷ El proyecto Kotlin modifica sus objetivos prioritarios'
 description: >-
   La hoja de ruta del proyecto Kotlin coloca la reescritura del compilador, el desarrollo móvil multiplataforma y la implementación de WebAssembly como objetivos prioritarios.
 excerpt: >-
@@ -16,7 +16,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/kotlin-hoja-ruta-prioritaria/
 permalink: /kotlin-hoja-ruta-prioritaria/
 date: 2020-10-09 08:48:02
-last_modified_at: 
+last_modified_at:
 published: true
 
 ---

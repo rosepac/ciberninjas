@@ -16,7 +16,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/adobe-elements-ai/
 permalink: /adobe-elements-ai/
 date: 2020-10-08 19:10:02
-last_modified_at: 
+last_modified_at:
 published: true
 
 ---

@@ -16,7 +16,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/steelseries-arctis-7/
 permalink: /steelseries-arctis-7/
 date: 2020-10-08 07:05:02
-last_modified_at: 
+last_modified_at:
 published: true
 
 ---

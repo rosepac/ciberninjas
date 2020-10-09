@@ -17,7 +17,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/primera-app-ionic-vue/
 permalink: /primera-app-ionic-vue/
 date: 2020-10-09 09:25:02
-last_modified_at: 
+last_modified_at:
 published: true
 
 ---

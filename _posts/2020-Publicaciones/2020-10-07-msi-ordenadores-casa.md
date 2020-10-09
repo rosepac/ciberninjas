@@ -16,7 +16,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/msi-ordenadores-personales-2020/
 permalink: /msi-ordenadores-personales-2020/
 date: 2020-10-07 02:01:02
-last_modified_at: 
+last_modified_at:
 published: true
 
 ---

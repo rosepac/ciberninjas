@@ -15,7 +15,7 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/primeras-memorias-ddr5/
 permalink: /primeras-memorias-ddr5/
 date: 2020-10-08 07:11:02
-last_modified_at: 
+last_modified_at:
 published: true
 
 ---
