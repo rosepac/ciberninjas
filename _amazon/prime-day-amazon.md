@@ -17,9 +17,9 @@ img: /assets/img/blog/amazonday-2020.webp
 
 ---
 
-**El Prime Day 2020 va a comenzar en [la tienda de Amazon](https://amzn.to/2SEXQYq){:target="_blank" rel="nofollow,noreferrer"} a la medianoche del martes 13 de Octubre** y finalizará el miércoles 14 de Octubre.
+El Prime Day 2020 va a comenzar en [la tienda de Amazon](https://amzn.to/2SEXQYq){:target="_blank" rel="nofollow,noreferrer"} a **la medianoche del martes 13 de Octubre** y finalizará el miércoles 14 de Octubre.
 
-Desde este enlace **vas a poder encontrar absolutamente todas las mejores ofertas y chollos**, tanto de **las mejores ofertas del Amazon Prime Day 2020 como del Black Friday 2020** (que ya se habla, de que podría comenzar también el Martes 13 🙀).
+Desde este enlace **vas a poder encontrar absolutamente todas las mejores ofertas y chollos**, tanto de **las mejores ofertas del Amazon Prime Day 2020 como del Black Friday 2020** (que ya se habla, de que podría comenzar también el Martes 13).
 
 Vas a poder obtener todos **los detalles y algunos consejos para aprovechar al máximo el Prime Day 2020**, a continuación.
 
@@ -69,12 +69,11 @@ Hemos agregado aún más formas para que Alexa te ayude a comprar este Prime Day
 - **"Alexa, ¿cuándo es Prime Day?"** Puedes pedirle a Alexa que te ayude a estar al tanto del Prime Day este año. Simplemente pregunte: "Alexa, ¿cuándo es Prime Day?" para guardar la fecha y mantenerse informado para el gran día.
 - **"Alexa, inscríbeme en Prime"** Si aún no eres miembro de Prime, puedes ganar $ 5 para gastar en Prime Day registrándote para obtener una membresía a través de Alexa. Para empezar, solo di "Alexa, regístrate en Prime".
 
-**No olvides ...**
+**No olvides.**
 
 - **Consulta las ofertas en la tienda:** Prime Day no se limita a nuestras tiendas en línea. Como miembro Prime, puede visitar las ubicaciones físicas de Amazon para encontrar ofertas en la tienda en Prime Day. Esté atento a los detalles sobre las promociones en la tienda en Whole Foods Market, Amazon 4-star, Amazon Books, Amazon Pop Up y Amazon Fresh.
-- **Participa para ganar** : Participa para tener la oportunidad de ganar el Sorteo de Prime Day Photos descargando la aplicación Amazon Photos, compartiendo una foto que muestre cómo Prime ofrece alegría, etiquetando Amazon Photos (@ amazon.photos en Instagram y @amazonphotos en Facebook y Twitter) y usando el hashtag #PrimeDayPhotos. Un total de 30 ganadores recibirán tarjetas de regalo de Amazon.com de 1,000 dólares válidos para compras en Amazon.com. Obtenga detalles en [amazon.com/primedayphotos](http://www.amazon.com/primedayphotos){:target="_blank" rel="nofollow,noreferrer"}.
+- **Participa para ganar** : Participa para tener la oportunidad de ganar el Sorteo de Prime Day Photos descargando la aplicación Amazon Photos, compartiendo una foto que muestre cómo Prime ofrece alegría, etiquetando Amazon Photos (amazon.photos en Instagram y @amazonphotos en Facebook y Twitter) y usando el hashtag #PrimeDayPhotos. Un total de 30 ganadores recibirán tarjetas de regalo de Amazon.com de 1,000 dólares válidos para compras en Amazon.com. Obtenga detalles en [amazon.com/primedayphotos](http://www.amazon.com/primedayphotos){:target="_blank" rel="nofollow,noreferrer"}.
 
-<!-- https://blog.aboutamazon.com/shopping/announcing-prime-day-2020 -->
 Mientras tanto, puedes consultar [las mejores ofertas flash y rebajas diarias de Amazon 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/) desde [mi página de colecciones de Chollos de Amazon](https://ciberninjas.com/amazon/), en la que voy agregando nuevos productos rebajados casi a diario.
 
 ## **Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?**
@@ -112,7 +111,11 @@ Regalo de 100 € para la Playstation Store.
 
 ## **¿Amazon ofrece ajustes de precios de Prime Day?**
 
-Lamentablemente no. Eso significa que si compra [esta tableta gráfica](https://amzn.to/2jV47S9) por 132,99 € en este momento y cae por decir a 110 € en Prime Day, no podrá obtener la diferencia de precio. Lo que Amazon sugiere que hagas es devolver el artículo que compraste y comprarlo nuevamente al precio más bajo. Sin embargo, si haces esto tendrás que pagar el envío de devolución. (Y si se trata de un artículo grande y pesado como un televisor, eso podría acabar con sus ahorros de ajuste de precios). Si es un artículo más pequeño, como un Echo Dot, el envío costará menos, pero asegúrese de que los ahorros valgan la molestia adicional. Nuestro consejo: sólo espera al día de Prime. Solo faltan unas horas.
+Lamentablemente no. Eso significa que si compra [esta tableta gráfica](https://amzn.to/2jV47S9) por 132,99 € en este momento y cae por decir a 110 € en Prime Day, no podrá obtener la diferencia de precio. Lo que Amazon sugiere que hagas es devolver el artículo que compraste y comprarlo nuevamente al precio más bajo.
+
+Sin embargo, si haces esto tendrás que pagar el envío de devolución. (Y si se trata de un artículo grande y pesado como un televisor, eso podría acabar con sus ahorros de ajuste de precios).
+
+Si es un artículo más pequeño, como un Echo Dot, el envío costará menos, pero asegúrese de que los ahorros valgan la molestia adicional. Nuestro consejo: sólo espera al día de Prime. Solo faltan unas horas.
 
 ## **¿Qué países participarán en Amazon Prime Day 2020?**
 
@@ -122,7 +125,11 @@ Junto a dos nuevos países, que por primera vez van a poder participar: Turquía
 
 ## **¿Cómo puedo evitar ofertas falsas en Prime Day?**
 
-No hay duda de que encontrarás grandes ofertas en Amazon Prime Day. Sin embargo, le recomendamos que compre con precaución, ya que no todas las ofertas serán buenas . Haz una lista de los artículos que te gustaría comprar y apégate a ella. Herramientas como [CamelCamelCamel](https://kutt.it/camel), un sitio que rastrea el historial de precios de muchos productos de Amazon, pueden ayudarlo a detectar ofertas falsas de verdaderas caídas de precios. También querrás poner Fakespot.com en tus marcadores; este sitio puede ayudar a determinar si las opiniones de los usuarios de Amazon para un producto determinado son legítimas o falsas.
+No hay duda de que encontrarás grandes ofertas en Amazon Prime Day. Sin embargo, le recomendamos que compre con precaución, ya que no todas las ofertas serán buenas . Haz una lista de los artículos que te gustaría comprar y apégate a ella.
+
+Herramientas como [CamelCamelCamel](https://kutt.it/camel), un sitio que rastrea el historial de precios de muchos productos de Amazon, pueden ayudarlo a detectar ofertas falsas de verdaderas caídas de precios.
+
+También querrás poner Fakespot.com en tus marcadores; este sitio puede ayudar a determinar si las opiniones de los usuarios de Amazon para un producto determinado son legítimas o falsas.
 
 ## **¿De qué otra manera puedo ahorrar dinero en Prime Day?**
 
@@ -165,7 +172,7 @@ En esta publicación podrás ver una selección de [las mejores ofertas de compo
 
 [VER TODAS LAS OFERTAS](https://amzn.to/2ld3fIS)
 
-* [Dispositivos de audio: micrófonos, auriculares y controladores](https://amzn.to/2ld3fIS). 
+* [Dispositivos de audio: micrófonos, auriculares y controladores](https://amzn.to/2ld3fIS).
 * [40% en auriculares de alta gama](https://amzn.to/2jXCecc)
 
 ![logitech](https://i.ibb.co/QfJrsjS/logitech.jpg)  
