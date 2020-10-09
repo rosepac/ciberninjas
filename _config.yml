@@ -51,6 +51,7 @@ twitter:
 # PAGINATION
 paginate: 10
 paginate_path: "/blog/page:num"
+
 # PORTFOLIO
 collections:
   portfolio:

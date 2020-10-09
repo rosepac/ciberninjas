@@ -56,7 +56,6 @@ bootstrap: true
      "@id": "https://ciberninjas.com/recursos-daw/sistemas-informaticos/",
      "name": "Módulo Completo de Sistemas Informáticos del Ciclo Formativo Superior de Desarrollo de Aplicaciones Web"
    }
-  },
  ]
 }
 </script>
