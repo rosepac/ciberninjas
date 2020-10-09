@@ -66,4 +66,4 @@ La hoja de ruta también tiene una sección centrada en los subsistemas, que cit
 
 > **Fuente**: [Hoja de Ruta de Kotlin](https://kotlinlang.org/roadmap.html){:target="_blank" rel="nofollow,noreferrer"}
 
-![El proyecto Kotlin modifica sus objetivos prioritarios: Anteponiendo ahora, la implementación de un nuevo compilador y la inserción de WebAssembly](/assets/img/blog/hoja-ruta-kotlin.webp "El proyecto Kotlin modifica sus objetivos prioritarios: Anteponiendo ahora, la implementación de un nuevo compilador y la inserción de WebAssembly")
+![El proyecto Kotlin modifica sus objetivos prioritarios. Anteponiendo ahora, la implementación de un nuevo compilador y la inserción de WebAssembly](/assets/img/blog/hoja-ruta-kotlin.webp "El proyecto Kotlin modifica sus objetivos prioritarios. Anteponiendo ahora, la implementación de un nuevo compilador y la inserción de WebAssembly")
