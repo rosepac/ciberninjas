@@ -47,7 +47,9 @@ Los puntos más destacados del tutorial, incluyen:
 
 Lo que más me gusta de este tutorial es la cobertura de los conceptos de Vue 3, como la API de composición, las referencias reactivas y los ganchos del ciclo de vida, así como las características modernas de JavaScript como la desestructuración, el operador de descanso / propagación y ESModules.
 
-Por ejemplo, para guardar las fotos en un almacenamiento permanente, se usa la [función de reloj](https://v3.vuejs.org/guide/composition-api-introduction.html#reacting-to-changes-with-watch){:target="_blank" rel="nofollow,noreferrer"} Vue 3 para ver la matriz de fotos. Siempre que se modifica la matriz (en este caso, capturando o borrando fotos), `cachePhotos` se activa la función. No solo podemos reutilizar el código, sino que también garantiza que los datos de las fotos siempre se guarden, incluso si el usuario de la aplicación cierra o cambia a una aplicación diferente:
+Por ejemplo, para guardar las fotos en un almacenamiento permanente, se usa la [función de reloj](https://v3.vuejs.org/guide/composition-api-introduction.html#reacting-to-changes-with-watch){:target="_blank" rel="nofollow,noreferrer"} Vue 3 para ver la matriz de fotos.
+
+Siempre que se modifica la matriz (en este caso, capturando o borrando fotos), `cachePhotos` se activa la función. No solo podemos reutilizar el código, sino que también garantiza que los datos de las fotos siempre se guarden, incluso si el usuario de la aplicación cierra o cambia a una aplicación diferente:
 
 {% highlight js %}
 // Use the Capacitor Storage API to cache photos

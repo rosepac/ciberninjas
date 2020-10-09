@@ -14,7 +14,7 @@ excerpt: >-
   El asombroso poder de C a veces hace cometer pequeños errores. Esto es lo que debe tener en cuenta, para mantener tus programas C en una buena línea recta y siempre ordenados.
 canonical_URL: https://ciberninjas.com/errores-programar-c/
 permalink: /errores-programar-c/
-date: 2020-10-09 11:41:02
+date: 2020-10-09 07:41:02
 last_modified_at:
 published: true
 
