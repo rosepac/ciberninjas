@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Programación
 thumbnail: /assets/img/blog/lenguajes-logos/ciberninjas-lenguaje-c.webp
 feature-img: /assets/img/blog/lenguajes-logos/ciberninjas-lenguaje-c.webp
 title: '▷ 4 Errores Comunes al Programar en C y 5 Consejos para Evitarlos'
@@ -27,7 +27,7 @@ Sin embargo, hay una razón por la que los programadores acuñaron el término "
 - [**4 Errores Más Comunes en C**](#4-errores-más-comunes-en-c)
   - [**1. No liberar la memoria `malloc` (o liberarla más de una vez)**](#1-no-liberar-la-memoria-malloc-o-liberarla-más-de-una-vez)
   - [**2. Leer una matriz fuera de los límites**](#2-leer-una-matriz-fuera-de-los-límites)
-  - [**3. No comprobar los resultados de `malloc`](#3-no-comprobar-los-resultados-de-malloc)
+  - [**3. No comprobar los resultados de `malloc`**](#3-no-comprobar-los-resultados-de-malloc)
   - [**4. El uso de `void` como punteros genéricos de la memoria**](#4-el-uso-de-void-como-punteros-genéricos-de-la-memoria)
 - [**5 Consejos para Evitar Errores comunes en C**](#5-consejos-para-evitar-errores-comunes-en-c)
   - [**La Estructura de programas C, para que la propiedad de la memoria se mantenga clara**](#la-estructura-de-programas-c-para-que-la-propiedad-de-la-memoria-se-mantenga-clara)
@@ -66,7 +66,7 @@ C ha favorecido durante mucho tiempo, el poner todo el potencial posible sobre e
 
 Es más, es posible que se exceda el límite de una matriz en tiempo de ejecución, de forma tal, que ni tan siquiera una verificación del compilador sea capaz de evitarlo.
 
-### **3. No comprobar los resultados de `malloc`
+### **3. No comprobar los resultados de `malloc`**
 
 Las funciones `malloc` y `calloc` (para la memoria previamente puesta a cero) son las funciones de la biblioteca de C que obtienen la memoria asignada hacía el sistema.
 
