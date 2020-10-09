@@ -17,23 +17,35 @@ img: /assets/img/blog/amazonday-2020.webp
 
 ---
 
-El [Prime Day 2020 pronto estará aquí](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y desde este enlace vas a poder encontrar absolutamente todas las mejores ofertas y chollos.. 🔥🔥🔥
+**El Prime Day 2020 va a comenzar en [la tienda de Amazon](https://amzn.to/2SEXQYq){:target="_blank" rel="nofollow,noreferrer"} a la medianoche del martes 13 de Octubre** y finalizará el miércoles 14 de Octubre.
+
+Desde este enlace **vas a poder encontrar absolutamente todas las mejores ofertas y chollos**, tanto de **las mejores ofertas del Amazon Prime Day 2020 como del Black Friday 2020** (que ya se habla, de que podría comenzar también el Martes 13 🙀).
 
 Vas a poder obtener todos **los detalles y algunos consejos para aprovechar al máximo el Prime Day 2020**, a continuación.
 
-Este año, el Amazon Prime Day se ha hecho esperar, pero a veces eso merece realmente la pena. Por ahora, en la espera, Amazon ya nos ha asombrado con sus [nuevos dispositivos inteligentes](https://ciberninjas.com/amazon-nuevo-hardware/); como [los nuevos Echo Dot y Echo Dot con Reloj](https://ciberninjas.com/amazon-echo-dot-2020/), [el nuevo Echo Show giratorio](https://ciberninjas.com/amazon-echo-show-2020/).
+Este año, el Amazon Prime Day se ha hecho esperar, pero a veces eso merece la pena. Por ahora, en la espera, Amazon ya nos ha asombrado con sus [**nuevos dispositivos inteligentes**](https://ciberninjas.com/amazon-nuevo-hardware/); como [**los nuevos Echo Dot y Echo Dot con Reloj**](https://ciberninjas.com/amazon-echo-dot-2020/), [**el nuevo Echo Show giratorio**](https://ciberninjas.com/amazon-echo-show-2020/).
 
-Además, de presentar los dispositivos dirigidos a contenidos multimedia, como [el nuevo Stick TV y el Stick TV Lite](https://ciberninjas.com/amazon-fire-stick-2020/) o [la interesante Fire TV Cube](https://ciberninjas.com/amazon-fire-tv-cube/). Que ya se encuentran a la venta, y es de esperar que a lo largo del Prime Day puedan comprarse a un precio impresionante.
+Además, de presentar los dispositivos dirigidos a contenidos multimedia, como [**el nuevo Stick TV y el Stick TV Lite**](https://ciberninjas.com/amazon-fire-stick-2020/) o [**la interesante Fire TV Cube**](https://ciberninjas.com/amazon-fire-tv-cube/). Que ya se encuentran a la venta, y es de esperar que a lo largo del Prime Day puedan comprarse a un precio impresionante.
 
-Luego de este repaso. Ahora volvamos al Amazon Prime Day, que regresa justo a tiempo para la vacaciones navideñas. El evento de este año se llevará a cabo del 13 al 14 de octubre y contará con ahorros increíbles y grandes descuentos en más de un millón de ofertas en todas las categorías.
+Luego de este repaso. Ahora **volvamos al Amazon Prime Day 2020**, que **regresa justo a tiempo para realizar las compras de las vacaciones navideñas**. El evento de este año, se llevará a cabo del 13 al 14 de octubre y contará con ahorros increíbles y **grandes descuentos en más de un millón de ofertas** en todas las categorías.
 
-Este año, Amazon se va a centrar en apoyar a las pequeñas empresas es más importante que nunca, y estamos diseñando Prime Day para apoyarlas con nuestra mayor promoción de pequeñas empresas. Desde ahora hasta el 12 de octubre, ofreceremos a los miembros Prime un crédito de $ 10 para usar en Prime Day cuando los miembros gasten 10 euros en artículos vendidos por pequeñas empresas seleccionadas en nuestra tienda.
+Este año, Amazon se va a centrar en apoyar a las pequeñas empresas es más importante que nunca, y estamos diseñando Prime Day para apoyarlas con nuestra mayor promoción de pequeñas empresas.
 
-Para promover nuestro compromiso de ayudar a las pequeñas empresas durante COVID-19 y más allá, este Prime Day y durante la temporada navideña, gastaremos más de $ 100 millones en nuevas actividades promocionales para ayudar a las pequeñas empresas de todo el mundo a aumentar sus ventas y llegar a nuevos clientes. .
-
-Prime Day comienza en amazon.com/primeday a la medianoche PT del martes 13 de octubre y finaliza el miércoles 14 de octubre. Estas fechas son para miembros Prime de EE. UU., Reino Unido, EAU, España, Singapur, Países Bajos, México y Luxemburgo. , Japón, Italia, Alemania, Francia, China, Canadá, Bélgica, Austria, Australia y, participando por primera vez este año, Turquía y Brasil.
+- [**Apoyar a las pequeñas empresas en Prime Day**](#apoyar-a-las-pequeñas-empresas-en-prime-day)
+- [**Solamente debes preguntarle a Alexa**](#solamente-debes-preguntarle-a-alexa)
+- [**Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?**](#si-no-soy-miembro-prime-puedo-comprar-ofertas-en-prime-day)
+- [**¿Qué servicios interesantes te ofrece Amazon?**](#qué-servicios-interesantes-te-ofrece-amazon)
+- [**Regala cheques Regalo para el Prime day 2020**](#regala-cheques-regalo-para-el-prime-day-2020)
+- [**¿Amazon ofrece ajustes de precios de Prime Day?**](#amazon-ofrece-ajustes-de-precios-de-prime-day)
+- [**¿Qué países participarán en Amazon Prime Day 2020?**](#qué-países-participarán-en-amazon-prime-day-2020)
+- [**¿Cómo puedo evitar ofertas falsas en Prime Day?**](#cómo-puedo-evitar-ofertas-falsas-en-prime-day)
+- [**¿De qué otra manera puedo ahorrar dinero en Prime Day?**](#de-qué-otra-manera-puedo-ahorrar-dinero-en-prime-day)
 
 ## **Apoyar a las pequeñas empresas en Prime Day**
+
+Desde ahora hasta el 12 de Octubre, Amazon va a [ofrecer a los miembros Prime crédito de 10 euros](https://amzn.to/2I6QGKl "Compra en pequeñas empresas y gana un cupón descuento de 10 euros") para usar en Prime Day, cuando los miembros gasten 10 euros en artículos vendidos por pequeñas empresas seleccionadas en nuestra tienda.
+
+Para promover nuestro compromiso, de ayudar a las pequeñas empresas durante COVID-19 y más allá, este Prime Day y durante la temporada navideña, se calcula que se gastarán más de 100 millones de dólares para ayudar a las pequeñas empresas de todo el mundo a aumentar sus ventas y llegar a nuevos clientes.
 
 Comprar en las tiendas de Amazon ha permitido a cientos de miles de pequeñas empresas mantener e incluso aumentar sus ventas a pesar de la crisis del COVID-19. Vender en nuestra tienda ayuda a las pequeñas empresas a llegar a cientos de millones de clientes y hace posible aumentar sus negocios.
 
@@ -60,21 +72,10 @@ Hemos agregado aún más formas para que Alexa te ayude a comprar este Prime Day
 **No olvides ...**
 
 - **Consulta las ofertas en la tienda:** Prime Day no se limita a nuestras tiendas en línea. Como miembro Prime, puede visitar las ubicaciones físicas de Amazon para encontrar ofertas en la tienda en Prime Day. Esté atento a los detalles sobre las promociones en la tienda en Whole Foods Market, Amazon 4-star, Amazon Books, Amazon Pop Up y Amazon Fresh.
-- **AmazonSmile: los** clientes pueden visitar [smile.amazon.com](https://smile.amazon.com/) y encontrar exactamente la misma experiencia de Amazon: ofertas increíbles, amplia selección, opciones de entrega rápida y gratuita, con la ventaja adicional de que AmazonSmile donará una parte del precio de compra de las compras elegibles a la organización benéfica. de su elección. Los clientes ahora pueden comprar AmazonSmile en la última versión de la aplicación de Amazon abriendo la aplicación y buscando 'Configuración' en el menú principal (☰), toque 'AmazonSmile' y siga las instrucciones en pantalla para activar AmazonSmile en su teléfono.
-- **Participa para ganar** : Participa para tener la oportunidad de ganar el Sorteo de Prime Day Photos descargando la aplicación Amazon Photos, compartiendo una foto que muestre cómo Prime ofrece alegría, etiquetando Amazon Photos (@ amazon.photos en Instagram y @amazonphotos en Facebook y Twitter) y usando el hashtag #PrimeDayPhotos. Un total de 30 ganadores recibirán tarjetas de regalo de Amazon.com de $ 1,000 válidas para compras en Amazon.com. Obtenga detalles en [amazon.com/primedayphotos](http://www.amazon.com/primedayphotos) .
+- **Participa para ganar** : Participa para tener la oportunidad de ganar el Sorteo de Prime Day Photos descargando la aplicación Amazon Photos, compartiendo una foto que muestre cómo Prime ofrece alegría, etiquetando Amazon Photos (@ amazon.photos en Instagram y @amazonphotos en Facebook y Twitter) y usando el hashtag #PrimeDayPhotos. Un total de 30 ganadores recibirán tarjetas de regalo de Amazon.com de 1,000 dólares válidos para compras en Amazon.com. Obtenga detalles en [amazon.com/primedayphotos](http://www.amazon.com/primedayphotos){:target="_blank" rel="nofollow,noreferrer"}.
 
 <!-- https://blog.aboutamazon.com/shopping/announcing-prime-day-2020 -->
 Mientras tanto, puedes consultar [las mejores ofertas flash y rebajas diarias de Amazon 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/) desde [mi página de colecciones de Chollos de Amazon](https://ciberninjas.com/amazon/), en la que voy agregando nuevos productos rebajados casi a diario.
-
-- [**Apoyar a las pequeñas empresas en Prime Day**](#apoyar-a-las-pequeñas-empresas-en-prime-day)
-- [**Solamente debes preguntarle a Alexa**](#solamente-debes-preguntarle-a-alexa)
-- [**Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?**](#si-no-soy-miembro-prime-puedo-comprar-ofertas-en-prime-day)
-- [**¿Qué servicios interesantes te ofrece Amazon?**](#qué-servicios-interesantes-te-ofrece-amazon)
-- [**Regala cheques Regalo para el Prime day 2020**](#regala-cheques-regalo-para-el-prime-day-2020)
-- [**¿Amazon ofrece ajustes de precios de Prime Day?**](#amazon-ofrece-ajustes-de-precios-de-prime-day)
-- [**¿Qué países participarán en Amazon Prime Day 2020?**](#qué-países-participarán-en-amazon-prime-day-2020)
-- [**¿Cómo puedo evitar ofertas falsas en Prime Day?**](#cómo-puedo-evitar-ofertas-falsas-en-prime-day)
-- [**¿De qué otra manera puedo ahorrar dinero en Prime Day?**](#de-qué-otra-manera-puedo-ahorrar-dinero-en-prime-day)
 
 ## **Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?**
 
@@ -115,7 +116,9 @@ Lamentablemente no. Eso significa que si compra [esta tableta gráfica](https://
 
 ## **¿Qué países participarán en Amazon Prime Day 2020?**
 
-El año pasado, Prime Day se celebró en 17 países, incluidos Estados Unidos, Reino Unido, España, Singapur, Países Bajos, Luxemburgo, Japón, Italia, India, Alemania, Francia, China, Canadá, Bélgica, Austria y Australia. En 2020, Prime Day se expandirá a los Emiratos Árabes Unidos, para un total de 18 países.
+Los países que van a poder disfrutar del Amazon Prime Day 2020 serán EE. UU., Reino Unido, EAU, España, Singapur, Países Bajos, México y Luxemburgo, Japón, Italia, Alemania, Francia, China, Canadá, Bélgica, Austria, Australia.
+
+Junto a dos nuevos países, que por primera vez van a poder participar: Turquía y Brasil.
 
 ## **¿Cómo puedo evitar ofertas falsas en Prime Day?**
 
@@ -134,7 +137,7 @@ Más de 200.000 productos sobre los que se aplica un 20% EXTRA al tramitar la co
 <!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. -->
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
 
-> 🛑 PRODUCTOS Y ENLACES, SERÁN ACTUALIZADOS A LO LARGO DEL PRIME DAY 2020 🛑
+> **🛑 PRODUCTOS Y ENLACES, SERÁN ACTUALIZADOS A LO LARGO DEL PRIME DAY 2020 🛑**
 
 Actualmente, las ofertas que vas a encontrar a continuación, se encuentran desactualizadas. Pero.. No te olvides de guardar está página, porque estaré añadiendo en ella todo lo mejor del Amazon Prime Day 2020.
 
