@@ -1,0 +1,13 @@
+{
+    "contact_email": "rosepac21@gmail.com",
+    "contact_address": "Menendez Pelayo, Bloque 3ºB, Piso 4º Izquierda, Oviedo, Spain, 33012",
+    "version": "1.0",
+    "sellers": [
+        {
+            "seller_id": "pub-0056160066561398",
+            "seller_type": "PUBLISHER",
+            "name": "Ciberninjas",
+            "domain": "ciberninjas.com",
+            "is_confidential": 0
+        }]
+}
