@@ -6,8 +6,8 @@ comments: false
 tags:
 - Adobe
 - Inteligencia Artificial
-thumbnail: /assets/img/blog/adobe-elements-1.webp
-feature-img: /assets/img/blog/adobe-elements-1.webp
+thumbnail: /assets/img/blog/adobe-elements-2020-1.webp
+feature-img: /assets/img/blog/adobe-elements-2020-1.webp
 title: '▷ Adobe presenta Photoshop Elements 2021 con nuevas herramientas de edición impulsadas por IA'
 description: >-
   Adobe acaba de presentar Photoshop Elements y Premiere Elements 2021, agregando varias funciones impulsadas por Sensei AI como animaciones de fotos en movimiento.
@@ -62,4 +62,4 @@ Finalmente, Premiere Elements 2021 también recibe algunas ediciones guiadas nue
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Adobe presenta Photoshop Elements 2021 con nuevas herramientas de edición impulsadas por IA](/assets/img/blog/adobe-elements-1.webp "Adobe presenta Photoshop Elements 2021 con nuevas herramientas de edición impulsadas por IA")
+![Adobe presenta Photoshop Elements 2021 con nuevas herramientas de edición impulsadas por IA](/assets/img/blog/adobe-elements-2020-1.webp "Adobe presenta Photoshop Elements 2021 con nuevas herramientas de edición impulsadas por IA")
