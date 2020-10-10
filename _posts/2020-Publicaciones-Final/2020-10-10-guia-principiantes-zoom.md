@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/zoom-guia-completa/
 permalink: /zoom-guia-completa/
 date: 2020-10-10 02:28:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
