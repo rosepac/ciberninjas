@@ -160,7 +160,7 @@ Arctext.js es un complemento de jQuery que le permite curvar texto usando CSS3 y
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
 
-[👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/javascript-jugar-tipografías/)
+[👨‍💻 Los 20 Mejores Frameworks Java 2021](https://ciberninjas.com/javascript-jugar-tipografías/)
 
 [🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/)
 

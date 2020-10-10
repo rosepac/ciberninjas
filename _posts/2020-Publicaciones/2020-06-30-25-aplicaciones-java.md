@@ -343,7 +343,7 @@ Hasta aquí la impresionante recopilación de programas creados por el lenguaje 
 
 ### **Relacionados** <!-- omit in toc -->
 
-[👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/10-mejores-frameworks-java/)
+[👨‍💻 Los 20 Mejores Frameworks Java 2021](https://ciberninjas.com/10-mejores-frameworks-java/)
 
 [💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020](https://ciberninjas.com/actualidad-java-visual-studio/)
 

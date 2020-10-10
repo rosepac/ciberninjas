@@ -29,22 +29,22 @@ A continuación, con 4 excelentes editores que te van a permitir realizar muchas
 
 Aparte, vas a encontrarte 3 opciones online con las que poder probar Markdown sin la necesidad de descargar ninguna aplicación añadida; existen cientos de opciones más pero bueno, esto son solamente algunas. Por último, unos enlaces relacionados para que sigas aprendiendo (con seguridad, en el futuro iré agregando más).
 
-- [1. **Editor de Markdown Typora**](#1-editor-de-markdown-typora)
-- [2. **Editor MarkDown Monster**](#2-editor-markdown-monster)
-- [3. **Editor de Markdown Boostnote**](#3-editor-de-markdown-boostnote)
-- [4. **Editor de Markdown Zettlr**](#4-editor-de-markdown-zettlr)
-- [5. **Editor de Markdown Haroopad**](#5-editor-de-markdown-haroopad)
-- [6. **Editor de Markdown FocuxFox**](#6-editor-de-markdown-focuxfox)
-- [7. **Editor de Markdown online StackEdit**](#7-editor-de-markdown-online-stackedit)
-- [8. **Editor de Markdown online Dillinger**](#8-editor-de-markdown-online-dillinger)
-- [9. Editor de Markdown online Hackmd.io**](#9-editor-de-markdown-online-hackmdio)
-- [**Enlaces a recursos de MarkDown**](#enlaces-a-recursos-de-markdown)
+- [**1. Editor de Markdown Typora**](#1-editor-de-markdown-typora)
+- [**2. Editor MarkDown Monster**](#2-editor-markdown-monster)
+- [**3. Editor de Markdown Boostnote**](#3-editor-de-markdown-boostnote)
+- [**4. Editor de Markdown Zettlr**](#4-editor-de-markdown-zettlr)
+- [**5. Editor de Markdown Haroopad**](#5-editor-de-markdown-haroopad)
+- [**6. Editor de Markdown FocuxFox**](#6-editor-de-markdown-focuxfox)
+- [**7. Editor de Markdown online StackEdit**](#7-editor-de-markdown-online-stackedit)
+- [**8. Editor de Markdown online Dillinger**](#8-editor-de-markdown-online-dillinger)
+- [**9. Editor de Markdown online Hackmd.io**](#9-editor-de-markdown-online-hackmdio)
+- [**Enlaces a Geniales Recursos de MarkDown**](#enlaces-a-geniales-recursos-de-markdown)
 - [**¿Qué es Markdown?**](#qué-es-markdown)
 - [**¿Por qué usar Markdown?**](#por-qué-usar-markdown)
 
 > **¡Adelante, vamos al lío y a conocer los editores perfectos para Markdown!**
 
-## 1. **Editor de Markdown Typora**
+## **1. Editor de Markdown Typora**
 
 Sin lugar a dudas, para mi el mejor editor de los que he probado. Sencillo, simple, útil; visualmente muy, muy agradable. Su minimalismo y su modo a pantalla completa, es perfecto para centrarse en escribir.
 
@@ -68,7 +68,7 @@ Podremos hacerle aprender palabras nuevas, haciendo 'click' sobre una palabra y 
 
 [🔥 Probar Typora](https://typora.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 2. **Editor MarkDown Monster**
+## **2. Editor MarkDown Monster**
 
 Este editor, **MarkDown Monster**, probablemente sea el más completo. En principio es un *software* de pago, aunque existe una versión gratuita que creo no existe problema alguna por utilizar de manera constante (salvo algún anuncio de la versión de pago).
 
@@ -95,7 +95,7 @@ No posee un mundo 'full screen 100%' pero si un modo de escritura sin distraccio
 
 [🔥 Probar Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 3. **Editor de Markdown Boostnote**
+## **3. Editor de Markdown Boostnote**
 
 **Boostnote**, es el editor más complicado. Su forma de crear y gestionar documentos es un tanto rígida; por lo qué, una vez te acostumbres puede ser una ventaja.
 
@@ -106,7 +106,7 @@ Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas,
 
 [🔥 Probar Bootsnote](https://boostnote.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 4. **Editor de Markdown Zettlr**
+## **4. Editor de Markdown Zettlr**
 
 Zettlr es un editor de Markdown especial, ¿Por qué? Pues porque no es un editor de texto, simple y sencillo al uso. Zettlr es un completo editor que te va a ayudar a la creación de trabajos universitarios o de un diaro o bloc de notas personal espectacular.
 
@@ -120,7 +120,7 @@ Si quieres conocer Zettlr más en profundidaz, no dejes de [leer nuestro anális
 
 [🔥 Probar Zettlr](https://kutt.it/zettlr){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 5. **Editor de Markdown Haroopad**
+## **5. Editor de Markdown Haroopad**
 
 **Haroopad**, es posiblemente un editor más enfocado  a usuarios que se dedique a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
 
@@ -136,7 +136,7 @@ Una pega, es que no tiene corrector (o eso creo)  no se lo he encontrado.
 
 Con estas excelentes aplicaciones, vamos a poder explotar todo el potencial de Markdown, en las situaciones en las que no nos encontremos en casa o en nuestros dispositivos personales o si deseas, generar documentos conjunto al resto del equipo.
 
-## 6. **Editor de Markdown FocuxFox**
+## **6. Editor de Markdown FocuxFox**
 
 FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de fondo para ayudarte a *enfocarte* exclusivamente en lo que necesitas, que utiliza las funciones de Markdown para agregar rápidamente el formato al texto sin formato; y además, agrega botones y una amplia chuleta de Markdown para los más principiantes.
 
@@ -146,7 +146,7 @@ La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de co
 
 [🔥 Probar FocuxFox](https://www.focusfox.co/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 7. **Editor de Markdown online StackEdit**
+## **7. Editor de Markdown online StackEdit**
 
 StackEdit nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final.
 
@@ -158,7 +158,7 @@ El corrector ortográfico del navegador funciona perfectamente.
 
 [🔥 Probar StackEdit](https://stackedit.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 8. **Editor de Markdown online Dillinger**
+## **8. Editor de Markdown online Dillinger**
 
 Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante.
 
@@ -168,7 +168,7 @@ Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peo
 
 [🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 9. Editor de Markdown online Hackmd.io**
+## **9. Editor de Markdown online Hackmd.io**
 
 Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones de usabilidad, incluso de tablas. Conexión, exportación e importación por varias cuentas.
 
@@ -178,7 +178,7 @@ La parte extra de **Hackmd** es que permite el trabajo compartido online, compar
 
 [🔥 Probar HackMD](https://hackmd.io){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **Enlaces a recursos de MarkDown**
+## **Enlaces a Geniales Recursos de MarkDown**
 
 Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 
@@ -252,6 +252,6 @@ Con la introducción de Markdown, escribir un correo electrónico o blog dentro 
 
 Si aún no has probado nunca a escribir en Markdown, comienza a hacerlo desde hoy; a continuación tienes editores en los que empezar a probar y con los que comenzar a ser un fanático la escritura en Markdown.
 
-![Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
+![Qué es Markdown y los 8 Mejores Editores de Markdown 2021, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

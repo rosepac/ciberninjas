@@ -507,7 +507,7 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 
 [🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020](/mejor-software-dibujo-windows-android/)
 
-[🥇 ▷ Cómo aprender Diseño Gráfico en 2020 👩‍🎨](/dise%C3%B1o-grafico/)
+[🥇 ▷ Cómo aprender Diseño Gráfico en 2021 👩‍🎨](/dise%C3%B1o-grafico/)
 
 [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
 

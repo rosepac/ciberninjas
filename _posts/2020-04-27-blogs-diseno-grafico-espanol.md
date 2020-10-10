@@ -180,7 +180,7 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 [🎓 ▷ Los Mejores Cursos Gratis de Diseño Gráfico, Animación, Diseño 3D](/cursos-animacion-diseno/)
 
-[🥇 ▷ Cómo aprender Diseño Gráfico en 2020 👩‍🎨](/dise%C3%B1o-grafico/)
+[🥇 ▷ Cómo aprender Diseño Gráfico en 2021 👩‍🎨](/dise%C3%B1o-grafico/)
 
 [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
 
