@@ -31,7 +31,7 @@ Se ha convertido en la norma para los fabricantes de teclados implementar sus pr
 
 Si bien este teclado se comercializa principalmente como un teclado para juegos, sus interruptores Titan son lo suficientemente táctiles como para ser satisfactorios, y al mismo tiempo se recuperan lo suficientemente rápido como para ser cómodo de escribir durante períodos prolongados.
 
-Sería negligente no mencionar el aspecto: el Vulcan 120 Aimo parece un teclado de ciencia ficción, y nos encanta. No es de extrañar que este encabece nuestra lista de los mejores teclados de 2020.
+Sería negligente no mencionar el aspecto: el Vulcan 120 Aimo parece un teclado de ciencia ficción, y nos encanta. No es de extrañar que este encabece la lista de los mejores teclados para 2021.
 
 [🖱 ¡CÓMPRALO YA! ⌨](https://amzn.to/2L6RcH8){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

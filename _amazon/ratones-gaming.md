@@ -25,14 +25,31 @@ Además, también estarás recibiendo algunas comodidades extra, como por ejempl
 
 Con el mejor ratón, mejorarás tu flujo de trabajo, mejorarás en tus juegos y así con todo, sin lugar a dudas, vas a desenvolverte mejor en cualquier otra tarea que debas realizar con tu ordenador.
 
-Para ayudarte, he recopilado **las mejores opciones de ratones para 2020**, desde el mejor mouse inalámbrico hasta sus los ratones con cable más tradicionales. Elije algo de nuestra lista; después de todo, tú (y tu muñeca) os merecéis lo mejor.
+Para ayudarte, he recopilado **las mejores opciones de ratones para 2021**, desde el mejor mouse inalámbrico hasta sus los ratones con cable más tradicionales. Elije algo de nuestra lista; después de todo, tú (y tu muñeca) os merecéis lo mejor.
 <!-- https://www.techradar.com/news/computing-components/peripherals/what-mouse-10-best-mice-compared-1027809 -->
 
 > 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 
 [🖱 Ratones Trabajar](/teclados-ratones-diseño/#ratones-de-trabajo){: .btn .btn--inverse .btn--large} [🖱 Ratones Gamers](/teclados-ratones-diseño/#ratones-gamers){: .btn .btn--inverse .btn--large} [⌨ Teclados Gamers](/teclados-ratones-diseño/#teclados-gamers){: .btn .btn--inverse .btn--large} [🧣 Alfombrillas](https://ciberninjas.com/teclados-ratones-dise%C3%B1o/#alfombrillas-de-rat%C3%B3n){: .btn .btn--inverse .btn--large}
 
-- 
+- [1. **Logitech MX Master**](#1-logitech-mx-master)
+- [2. **Apple Magic Mouse 2**](#2-apple-magic-mouse-2)
+- [3. **Anker 98ANWVM-UBA**](#3-anker-98anwvm-uba)
+- [4. **Logitech MX Ergo**](#4-logitech-mx-ergo)
+- [5. **Microsoft – Bluetooth Mobile Mouse 3600**](#5-microsoft--bluetooth-mobile-mouse-3600)
+- [RATONES GAMERS](#ratones-gamers)
+- [MSI Clutch GM30 - Ratón (USB 2.0, 9 Efectos LED, Sensor óptico PAW-3327, Detalles con Dragon Center) Negro](#msi-clutch-gm30---ratón-usb-20-9-efectos-led-sensor-óptico-paw-3327-detalles-con-dragon-center-negro)
+- [](#)
+- [](#-1)
+- [](#-2)
+- [](#-3)
+- [ALFOMBRILLAS DE RATÓN](#alfombrillas-de-ratón)
+- [MSI Agility GD30 - Alfombrilla de ratón para Videojuegos](#msi-agility-gd30---alfombrilla-de-ratón-para-videojuegos)
+- [](#-4)
+- [](#-5)
+- [](#-6)
+- [](#-7)
+- [🎁 Más Black Friday](#-más-black-friday)
 
 ## 1. **Logitech MX Master**
 

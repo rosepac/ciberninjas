@@ -2,9 +2,9 @@
 author: rosepac
 bootstrap: true
 layout: page
-title: "🔥 Las mejores ofertas de los más esperados videojuegos de 2020"
-description: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
-excerpt: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
+title: "🔥 Las mejores ofertas de los más esperados videojuegos de 2021"
+description: "Las ofertas de juegos más espectaculares y novedososos para 2021 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
+excerpt: "Las ofertas de juegos más espectaculares y novedososos para 2021 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
 permalink: /videojuegos/
 canonical_URL: https://ciberninjas.com/videojuegos/
 published: true
@@ -18,39 +18,13 @@ img: /assets/img/paginas/amazon/consola-mando-joystick-1.webp
 
 [🎯 Videoconsolas](/videojuegos/#-videoconsolas){: .btn .btn--inverse .btn--large} [🎮 Videojuegos](/videojuegos/#-videojuegos){: .btn .btn--inverse .btn--large}
 
-Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espectaculares que van a llegar durante todo el año 2020; y las mejores videoconsolas y ordenadores de sobremesa; con los que disfrutar de las mayores capacidades de las nuevas tecnologías para disfrutar al máximo.
+Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espectaculares que van a llegar durante todo el año 2020 y el próximo 2021; y las mejores videoconsolas y ordenadores de sobremesa; con los que disfrutar de las mayores capacidades de las nuevas tecnologías para disfrutar al máximo.
 
 [💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Videojuegos Espectaculares en 2020
+## Videojuegos Más Espectaculares de 2020
 
 <!-- Cyberpunk 2077, Doom Eternal, Marvel´s Avengers, Halo Infinity, The Last of Us Part II, Dying Light 2, Final Fantasy VII Remake, Animal Crossing, Hal-life: Alyx, Resident Evil 3, Ori and the Will of the Wisps, Ghost of Tsuhima, Gods y Monsters, Vampire: The Masquerade - Bloodlines 2, Nioh 2, Wasteland 3, Lego Star Wars The Skywalker Saga, Dragon Ball z: Kakarot, Minecraft Dungeons, Tom Clancy´s Rainbow, Bleeding Edge, No More Heroes III, Psychonauts, Empire of Sin, Dreams, Skull y Bones, 12 Minutes, Outriders, Sony Marvel´s Iron Man, Zombie Army 4, Warcraft III, Journey to the Savage Planet, Predator: Hunting Grounds, New World, Tales Of Arise, Spiritfarer, Godfall, Disintegration, Temtem, Yakuza: Like a Dragon, Mount t Blade II, System Shock, Oddworld: Soulstorm, Crusader: Kings III, Carrion, One Punch Man: A Hero Nobody Knows, Little Nightmares II, Streets of Rage 4, CAPCOM: MegaManZero, CrossFire X, Humankind. -->
-
-## Cyberpunk 2077
-
-[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank" rel="nofollow,noreferrer"}
-
-[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
-
-
-
-## Cyberpunk 2077
-
-[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank" rel="nofollow,noreferrer"}
-
-[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
-
-## Cyberpunk 2077
-
-[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank" rel="nofollow,noreferrer"}
-
-[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
-
-## Cyberpunk 2077
-
-[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank" rel="nofollow,noreferrer"}
-
-[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Cyberpunk 2077
 

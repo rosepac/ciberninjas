@@ -18,7 +18,7 @@ img: /assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-beats-6.web
 
 En esta publicación vamos a realizar un repaso, entre algunos de los más espectaculares y mejores auriculares para diseñadores, gamers y todo aquel que ame la tecnología al máximo.. 😻
 
-> 🔥 Quizás te interese: [Los Mejores Auriculares en Oferta 2020](https://www.amazon.es/shop/cibercursos?listId=1RT24JM35NPPJ&ref=cm_sw_tw_r_inf_list_own_cibercursos_dp_Z1tRolhJAm9X6 "Los mejores auriculares en oferta 2020")
+> 🔥 Quizás te interese: [Los Mejores Auriculares en Oferta 2021](https://www.amazon.es/shop/cibercursos?listId=1RT24JM35NPPJ&ref=cm_sw_tw_r_inf_list_own_cibercursos_dp_Z1tRolhJAm9X6 "Los Mejores Auriculares en Oferta 2021")
 
 - [**Auriculares para Diseñadores**](#auriculares-para-diseñadores)
   - [1. Sony WH-XB900N](#1-sony-wh-xb900n)
@@ -68,7 +68,7 @@ Estos brillantes auriculares Bose ofrecen una cancelación de ruido y un sonido 
 
 ### 4. Apple AirPods
 
-[![Comprar los Apple Airpods al mejor precio del año 2020](/assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-airpods.webp "Comprar los Apple Airpods al mejor precio del año 2020")](https://amzn.to/2L6HgNH "Comprar los Apple Airpods al mejor precio del año 2020"){:target="_blank" rel="nofollow,noreferrer"}
+[![Comprar los Apple Airpods al mejor precio del año 2021](/assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-airpods.webp "Comprar los Apple Airpods al mejor precio del año 2021")](https://amzn.to/2L6HgNH "Comprar los Apple Airpods al mejor precio del año 2021"){:target="_blank" rel="nofollow,noreferrer"}
 
 Los icónicos AirPods de Apple son uno de los auriculares sin cancelación de ruido más populares entre los diseñadores. Destacado por su diseño icónico, emparejamiento rápido para iPhone y nueva carga inalámbrica. Con una rebaja de 40 € por el Black Friday.
 
