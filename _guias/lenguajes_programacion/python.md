@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 🥇 ▷ Cómo Aprender Python en 2020
-description: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para convertirte en un profesional'
-excerpt: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para convertirte en un profesional'
+title: 🥇 ▷ Cómo Aprender Python en 2021
+description: 'Cómo Aprender Python desde cero a experto en 2021, todo lo necesario para convertirte en un profesional'
+excerpt: 'Cómo Aprender Python desde cero a experto en 2021, todo lo necesario para convertirte en un profesional'
 published: true
 author: rosepac
 bootstrap: true
 comments: false
-date: 2020-05-20 12:06:18
+date: 2020-10-10 12:06:18
 last_modified_at:
 permalink: /python/
 canonical_URL: https://ciberninjas.com/python/
@@ -77,7 +77,7 @@ Existen otras muchas empresas reconocidas que confian en Python como uno de sus 
 
 ## ¿Por qué aprender Python?
 
-La sintaxis sencilla y directa de Python lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que resta del 2020. Python cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
+La sintaxis sencilla y directa de Python lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que viene del 2021. Python cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
 
 Las aplicaciones web y de escritorio, los servidores, el aprendizaje automático, las aplicaciones de inteligencia artificial usan Python e incluso es uno de los lenguajes más usados dentro del campo de la criptografía  y las cadenas de bloques o blockchain.
 

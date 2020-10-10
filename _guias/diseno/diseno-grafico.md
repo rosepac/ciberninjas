@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '🥇 ▷ Cómo aprender Diseño Gráfico en 2020 👩‍🎨'
+title: '🥇 ▷ Cómo aprender Diseño Gráfico en 2021 👩‍🎨'
 description: '👩‍🎨 ▷ Conoce paso a paso; todo lo que un diseñador, animador, dibujante o desarrollador gráfico necesita para convertirse en un profesional'
 excerpt: '👩‍🎨 ▷ Conoce paso a paso; todo lo que un diseñador, animador, dibujante o desarrollador gráfico necesita para convertirse en un profesional'
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🥇 ▷ Cómo aprender absolutamente todo sobre lo que tu quieras online 2020"
+title: "🥇 ▷ Cómo aprender absolutamente todo sobre lo que tu quieras online 2021"
 description: "Los mejores cursos, páginas y recursos online con los que convertirte en un auténtico maestro multidisciplinar de la tecnologia y las ciencias naturales"
 excerpt: "Los mejores cursos, páginas y recursos online con los que convertirte en un auténtico maestro multidisciplinar de la tecnologia y las ciencias naturales"
 published: true
@@ -296,7 +296,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <!-- Crear paneles con apertura y efecto libro 3D visto en youtube daod me gusta con la cuenta de rosepac21. -->
 <!-- ENLACES DE INTERES: EN ESTE CASO A STEEMIT -->
 <div>
-    <p><a href="/cursos-espanol-programacion-febrero/" title="Cursos de programación en español" class="btn btn--inverse btn--large">🎓 200 Cursos Udemy</a> <a href="/cursos-ingles-programacion-febrero/" title="570 Cursos en inglés de Udemy con los que aprender a programar" class="btn btn--inverse btn--large">👩‍🏫 570 Cursos Inglés</a> <a href="/sql-mejores-herramientas-2020/" title="Las Mejores Herramientas de SQL Server para 2020" class="btn btn--inverse btn--large">📂 Herramientas SQL</a> <a href="/flutter-dart-devtools/#guía-devtools" title="Tutorial Completo de DevTools para Dart + Flutter" class="btn btn--inverse btn--large">📖 Guía DevTools</a> <a href="/que-es-flutter-y-por-que-debes-aprenderlo/" title="Tutorial sobre Flutter desde cero" class="btn btn--inverse btn--large">📖 Guía Flutter</a></p>
+    <p><a href="/cursos-espanol-programacion-febrero/" title="Cursos de programación en español" class="btn btn--inverse btn--large">🎓 200 Cursos Udemy</a> <a href="/cursos-ingles-programacion-febrero/" title="570 Cursos en inglés de Udemy con los que aprender a programar" class="btn btn--inverse btn--large">👩‍🏫 570 Cursos Inglés</a> <a href="/sql-mejores-herramientas-2020/" title="Las Mejores Herramientas de SQL Server para 2021" class="btn btn--inverse btn--large">📂 Herramientas SQL</a> <a href="/flutter-dart-devtools/#guía-devtools" title="Tutorial Completo de DevTools para Dart + Flutter" class="btn btn--inverse btn--large">📖 Guía DevTools</a> <a href="/que-es-flutter-y-por-que-debes-aprenderlo/" title="Tutorial sobre Flutter desde cero" class="btn btn--inverse btn--large">📖 Guía Flutter</a></p>
     </div>
 <!-- CAJA 3 DESARROLLO WEB -->
 <div class="feature__wrapper">

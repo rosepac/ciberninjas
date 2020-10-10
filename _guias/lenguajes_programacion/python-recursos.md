@@ -1,12 +1,11 @@
 ---
 layout: page
-title: '▷ Los mejores recursos para aprender Python 2020'
+title: '▷ Los mejores recursos para aprender Python 2021'
 description: '🔨 Documentación, notas, chuletas y enlaces con los que aprender el lenguaje de programación Python'
 excerpt: '🔨 Documentación, notas, chuletas y enlaces con los que aprender el lenguaje de programación Python'
 published: true
 author: rosepac
 bootstrap: true
-
 comments: false
 date: 2020-05-20 12:06:18
 last_modified_at:
@@ -22,7 +21,7 @@ Encontrarás una extensa [introducción a Python](/python/) en nuestra guía, al
 
 * [¿Por qué Python es mejor que PHP?](/porque-python-es-mejor-que-php/)
 * [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)
-* [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/)
+* [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2021 🤖](/que-aprender-sobre-machine-learning-2020/)
 * [▷ Guía de TensorFlow](/tensorflow-guia/)
 
 A continuación, tienes los enlaces directos a libros y cursos sobre Python; tanto en español, como en inglés..

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ▷ Cómo Aprender Javascript en 2020 👨‍🚀 
-description: Cómo Aprender Javascript desde cero a profesional en 2020, todo lo necesario para ayudarte a convertirte en un profesional
-excerpt: Cómo Aprender Javascript desde cero a profesional en 2020, todo lo necesario para ayudarte a convertirte en un profesional
+title: ▷ Cómo Aprender Javascript en 2021 👨‍🚀 
+description: Cómo Aprender Javascript desde cero a profesional en 2021, todo lo necesario para ayudarte a convertirte en un profesional
+excerpt: Cómo Aprender Javascript desde cero a profesional en 2021, todo lo necesario para ayudarte a convertirte en un profesional
 published: true
 thumbnail: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
 feature-img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
@@ -10,7 +10,7 @@ img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
 author: rosepac
 bootstrap: true
 comments: false
-date: 2020-02-28 12:00:03
+date: 2020-10-08 12:00:03
 last_modified_at: 
 permalink: /javascript/
 ---
@@ -33,7 +33,6 @@ Esta es la página perfecta donde poder resolver todas las dudas que desees resp
 - [Javascript Puro](#javascript-puro)
 - [**Quién está usando Javascript**](#quién-está-usando-javascript)
 - [Las mejores páginas, noticias, foros y redes sociales de Javascript](#las-mejores-páginas-noticias-foros-y-redes-sociales-de-javascript)
-  - [Relacionados](#relacionados)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -146,7 +145,7 @@ Construir tus juegos simples también es una excelente manera de practicar tus c
 
 ## **Frameworks Multiplataforma de Javascript**
 
-- [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
+- [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2021](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
 
 ### Angular
 
