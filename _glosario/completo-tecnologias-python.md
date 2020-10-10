@@ -21,7 +21,7 @@ img: /assets/img/glosario/diccionario-completo-python.webp
 
 ## **Índice del Diccionario de Python**
 
-<!-- https://glossarytech.com/terms/python/page2 -->
+<!-- https://glossarytech.com/terms/python/page2 --><span id="menu"></span>
 > **Índice**: 🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [K](/glosario/completo-tecnologias-python/#k) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [W](/glosario/completo-tecnologias-python/#w)
 
 ## A
