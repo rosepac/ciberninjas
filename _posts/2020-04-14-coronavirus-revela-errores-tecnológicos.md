@@ -67,7 +67,7 @@ El hilo conductor, aquí, **es que la pandemia de coronavirus y el desempleo res
 
 [🥇 ▷ Quédate en Casa](/alternativas-culturales-combatir-coronavirus/)
 
-[🥇 ▷ Las 18 mejores prácticas para teletrabajar en 2020](/mejores-practicas-trabajar-desde-casa/)
+[🥇 ▷ Las 18 mejores prácticas para teletrabajar 2021](/mejores-practicas-trabajar-desde-casa/)
 
 [🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020 🏡](/mejores-consejos-trabajar-desde-casa/)
 

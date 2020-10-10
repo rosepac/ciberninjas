@@ -153,7 +153,7 @@ Workfront es una solución de gestión de proyectos que le ayuda a usted ya sus 
 
 [💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux](https://ciberninjas.com/stacks-kanban-software-2020/)
 
-[🥇 ▷ Las 18 mejores prácticas para teletrabajar en 2020](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/)
+[🥇 ▷ Las 18 mejores prácticas para teletrabajar 2021](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/)
 
 [🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/)
 

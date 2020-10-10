@@ -18,8 +18,6 @@ img: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
 
 ---
 
-
-
 ### Bases de Datos
 
 ## SQL 

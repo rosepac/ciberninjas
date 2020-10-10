@@ -35,7 +35,7 @@ Keighley ha hablado, sobre sus ambiciones de convertir TGA en un evento de impor
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ Los mejores 45 juegos gratis para PC 2020](https://ciberninjas.com/videojuegos-gratis/)
+[🥇 ▷ Los mejores 45 juegos gratis para PC 2021](https://ciberninjas.com/videojuegos-gratis/)
 
 [Las mejores ofertas de los más esperados videojuegos de 2020](https://ciberninjas.com/videojuegos/)
 

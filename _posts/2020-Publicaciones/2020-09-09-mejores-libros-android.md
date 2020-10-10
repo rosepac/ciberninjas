@@ -9,7 +9,7 @@ tags:
 - Libros Programación
 thumbnail: /assets/img/blog/libros-android-kotlin.webp
 feature-img: /assets/img/blog/libros-android-kotlin.webp
-title: '▷ Los 11 mejores libros de Android y Kotlin 2020'
+title: '▷ Los 11 mejores libros de Android y Kotlin 2021'
 description: >-
   ➜ ¿Qué libros sobre Android y Kotlin necesitas? ➜ ¿Cuáles son las fortalezas y debilidades de los libros de Android y Kotlin? ➜ ¡Aquí vas a encontrar todas las respuestas!
 excerpt: >-
@@ -278,9 +278,9 @@ Se puede iniciar el desarrollo de aplicaciones de Android en Windows, Mac o Linu
 
 [🥇 ▷ Los 14 mejores framework de desarrollo de aplicaciones](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
 
-[🥇 ▷ ¿Cómo aprender Flutter en 2020? ](https://ciberninjas.com/como-aprender-flutter/)
+[🥇 ▷ ¿Cómo aprender Flutter en 2021?](https://ciberninjas.com/como-aprender-flutter/)
 
-[▷ Los Mejores Wallpaper de Flutter 2020](https://ciberninjas.com/wallpaper-flutter/)
+[▷ Los Mejores Wallpaper de Flutter 2021](https://ciberninjas.com/wallpaper-flutter/)
 
 [Flutter, React Native y Xamarin](https://ciberninjas.com/comparacion-flutter-react-native-xamarin/)
 
@@ -290,4 +290,4 @@ Se puede iniciar el desarrollo de aplicaciones de Android en Windows, Mac o Linu
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Los 11 mejores libros de Android y Kotlin 2020](/assets/img/blog/libros-android-kotlin.webp "Los 11 mejores libros de Android y Kotlin 2020")
+![Los 11 mejores libros de Android y Kotlin 2021](/assets/img/blog/libros-android-kotlin.webp "Los 11 mejores libros de Android y Kotlin 2021")

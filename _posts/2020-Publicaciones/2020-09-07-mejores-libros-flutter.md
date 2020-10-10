@@ -8,7 +8,7 @@ tags:
 - Libros Programación
 thumbnail: /assets/img/flutter/flutter-trabajadores.webp
 feature-img: /assets/img/flutter/flutter-trabajadores.webp
-title: '▷ Los 4 mejores libros de Flutter 2020'
+title: '▷ Los 4 mejores libros de Flutter 2021'
 description: >-
   ➜ ¿Qué libros sobre Flutter necesitas? ➜ ¿Cuáles son las fortalezas y debilidades de los libros de Flutter? ➜ ¡Aquí vas a encontrar todas las respuestas!
 excerpt: >-

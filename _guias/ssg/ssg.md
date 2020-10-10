@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 🥇 ▷ Guía Completa de Generadores de Sitios Estáticos o SSG y JamStack en 2020 👨‍💻
-description: 🔨 Cómo aprender desde cero todo sobre los generadores páginas web estáticos
-excerpt: 🔨 Cómo aprender desde cero todo sobre los generadores páginas web estáticos
-date: 2020-03-16
+title: 🥇 ▷ Guía Completa de Generadores de Sitios Estáticos o SSG y JamStack en 2021
+description: Aprender desde cero todo sobre los generadores páginas web estáticos
+excerpt: Aprender desde cero todo sobre los generadores páginas web estáticos
+date: 2020-10-09
 last_modified_at:
 author: rosepac
 bootstrap: true

@@ -8,7 +8,7 @@ tags:
 - Consejos
 thumbnail: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
 feature-img: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
-title: '🥇 ▷ Las 18 mejores prácticas para teletrabajar en 2020'
+title: '🥇 ▷ Las 18 mejores prácticas para teletrabajar 2021'
 description: >-
   ✅ Los trabajadores remotos evalúan lo que les ayuda a aumentar la productividad y mantenerse en contacto con la oficina.
 excerpt: >-

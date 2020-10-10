@@ -53,7 +53,7 @@ Usando esta analogía, los lenguajes de tipo estático son aquellos en los que l
 
 [▷ Cómo APRENDER PROGRAMACIÓN desde Cero 2020](https://ciberninjas.com/programar/)
 
-[▷ Cómo aprender absolutamente todo sobre lo que tu quieras online 2020](https://ciberninjas.com/aprender/)
+[▷ Cómo aprender absolutamente todo sobre lo que tu quieras online 2021](https://ciberninjas.com/aprender/)
 
 [La Wikipedia de Wikininjas que incluye artículos de conceptos de programación](https://ciberninjas.com/wiki/)
 
