@@ -159,7 +159,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [SVG](#svg)
 - [Swift](#swift)
 - [Tex & LaTeX](#tex--latex)
-- [🎮 Programación Videojuegos](#-programación-videojuegos)
+- [**Libros de Programación de Videojuegos**](#libros-de-programación-de-videojuegos)
 - [✍ Sistemas de Gestión de Contenidos](#-sistemas-de-gestión-de-contenidos)
   - [Wordpress](#wordpress)
 - [👷‍♂️ Webmaster](#️-webmaster)
@@ -996,10 +996,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Todo sobre LaTeX (2016)](https://minisconlatex.blogspot.com.es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Una descripción de LaTeX2(1998)](https://www.profesores.frc.utn.edu.ar/electronica/teoriadeloscircuitosi/material/ldesc2e.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-## 🎮 Programación Videojuegos
+## **Libros de Programación de Videojuegos**
 
 * [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna){:target="_blank" rel="nofollow,noreferrer"} (PDF  )
 * [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [Power Ups](https://dolmeneditorial.com/tienda/power-ups-libro-digital-pdf/){:target="_blank" rel="nofollow,noreferrer"} (PDF) por [@JuanPOrdonez](https://twitter.com/JuanPOrdonez){:target="_blank" rel="nofollow,noreferrer"} - Guía imprescindible para conocer los secretos de la industria del videojuego gracias al testimonio de medio centenar de profesionales, auténticas leyendas vivas del sector.
 * [Programación de videojuegos SDL](https://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 ## ✍ Sistemas de Gestión de Contenidos
