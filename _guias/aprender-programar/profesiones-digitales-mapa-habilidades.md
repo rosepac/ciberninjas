@@ -5,7 +5,7 @@ description: 'Conoce todas las habilidades y tecnologías que se requieren para 
 excerpt: 'Conoce todas las habilidades y tecnologías que se requieren para todos los puestos de trabajo dentro del mundo de la tecnología'
 permalink: /profesiones-digitales-mapas-habilidades/
 canonical_URL: https://ciberninjas.com/profesiones-digitales-mapas-habilidades/
-date: 2020-02-12
+date: 2020-10-09
 published: true
 author: rosepac
 bootstrap: true

@@ -5,7 +5,7 @@ description: 'Conoce todas las habilidades y tecnologías que se requieren para 
 excerpt: 'Conoce todas las habilidades y tecnologías que se requieren para cada uno de los puestos de trabajo asociados a la tecnología'
 permalink: /profesiones-digitales-mapa-herramientas-profesiones/
 canonical_URL: https://ciberninjas.com/profesiones-digitales-mapa-herramientas-profesiones/
-date: 2020-02-12
+date: 2020-10-09
 published: true
 author: rosepac
 bootstrap: true

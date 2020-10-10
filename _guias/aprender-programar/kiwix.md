@@ -6,7 +6,7 @@ bootstrap: true
 description: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
 excerpt: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
 published: true
-date: 2019-09-27 01:10:23
+date: 2020-10-09 01:10:23
 permalink: /kiwix/
 canonical_URL: https://ciberninjas.com/kiwix/
 thumbnail: /assets/img/paginas/portada-kiwix.webp

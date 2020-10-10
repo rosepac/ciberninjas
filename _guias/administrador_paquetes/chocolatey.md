@@ -8,7 +8,7 @@ author: rosepac
 bootstrap: true
 published: true
 comments: false
-date: 2020-06-09 13:03:36
+date: 2020-10-09 13:03:36
 last_modified_at:
 permalink: /chocolatey/
 canonical_URL: https://ciberninjas.com/chocolatey/

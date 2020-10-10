@@ -5,7 +5,7 @@ description: 'Conoce todos los lenguajes de programación, herramientas, platafo
 excerpt: 'Conoce todos los lenguajes de programación, herramientas, plataformas y displicinas diferentes que existen dentro del mundo de la tecnología'
 permalink: /profesiones-digitales-mapa-completo/
 canonical_URL: https://ciberninjas.com/profesiones-digitales-mapa-completo/
-date: 2020-02-12
+date: 2020-10-09
 published: true
 author: rosepac
 bootstrap: true

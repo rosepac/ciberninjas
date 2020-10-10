@@ -7,7 +7,7 @@ excerpt: "Esta página muestra el primer Standar creado en 1994 escrito por Mart
 comments: false
 author: rosepac
 bootstrap: true
-date: 2020-03-10
+date: 2020-10-09
 permalink: /standar-original-robots-txt/
 canonical_URL: https://ciberninjas.com/standar-original-robots-txt/
 thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"

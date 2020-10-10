@@ -7,7 +7,7 @@ published: true
 author: rosepac
 bootstrap: true
 comments: false
-date: 2020-02-07T19:16:00
+date: 2020-10-09T19:16:00
 last_modified_at: 
 permalink: /bases-datos-recursos/
 canonical_URL: https://ciberninjas.com/bases-datos-recursos/
@@ -15,6 +15,8 @@ thumbnail: "/assets/img/lenguajes_y_mas_1280x720/sql-logo-fake.png"
 feature-img: "/assets/img/lenguajes_y_mas_1280x720/sql-logo-fake.png"
 img: "/assets/img/lenguajes_y_mas_1280x720/sql-logo-fake.png"
 ---
+
+En esta página vas a poder encontrar los mejores recursos con los que aprender todo lo que necesitas sobre las bases de datos.
 
 [📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
  [🎓 Cursos BBDD 📂](https://kutt.it/bases-datos-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 📂](/biblioteca-de-programacion-y-tecnologia-ingles/#base-de-datos){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 📂](/cursos-tecnologia-ingles/#-bases-de-datos){: .btn .btn--info .btn--large}

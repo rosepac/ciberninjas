@@ -8,7 +8,7 @@ author: rosepac
 bootstrap: true
 published: true
 comments: false
-date: 2020-03-13
+date: 2020-10-09
 last_modified_at:
 permalink: /profesiones-digitales/
 canonical_URL: https://ciberninjas.com/profesiones-digitales/
