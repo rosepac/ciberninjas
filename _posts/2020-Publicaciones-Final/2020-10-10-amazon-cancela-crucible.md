@@ -6,8 +6,8 @@ comments: false
 tags:
 - Juegos
 - Programación Juegos
-thumbnail: /assets/img/blog/10-crucicle.webp
-feature-img: /assets/img/blog/10-crucicle.webp
+thumbnail: /assets/img/blog/10-crucible.webp
+feature-img: /assets/img/blog/10-crucible.webp
 title: '▷ Amazon cancela el juego Crucible, su shooter multijugador gratuito que ya había sido devuelto a la beta cerrada'
 description: >-
   Amazon ha cancelado oficialmente Crucible, su juego de disparos multijugador gratuito. Es el final de un viaje difícil para el juego, que se lanzó por primera vez en mayo después de años de desarrollo antes de volver a ser puesto en beta cerrada en Julio.
@@ -49,4 +49,4 @@ Amazon no solo crea juegos, también tiene [un servicio de juegos en la nube lla
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Amazon cancela Crucible, su shooter multijugador gratuito que ya había sido devuelto a la beta cerrada](/assets/img/blog/10-crucicle.webp "Amazon cancela Crucible, su shooter multijugador gratuito que ya había sido devuelto a la beta cerrada")
+![Amazon cancela Crucible, su shooter multijugador gratuito que ya había sido devuelto a la beta cerrada](/assets/img/blog/10-crucible.webp "Amazon cancela Crucible, su shooter multijugador gratuito que ya había sido devuelto a la beta cerrada")
