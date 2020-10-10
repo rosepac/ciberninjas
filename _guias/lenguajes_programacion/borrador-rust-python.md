@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ▷ Cómo Aprender Rust en 2021
-description: 'Cómo Aprender Rust desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
-excerpt: 'Cómo Aprender Rust desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
+description: 'Cómo Aprender Rust desde cero a experto en 2021, todo lo necesario para ayudarte a convertirte en un profesional'
+excerpt: 'Cómo Aprender Rust desde cero a experto en 2021, todo lo necesario para ayudarte a convertirte en un profesional'
 published: false
 author: rosepac
 bootstrap: true
@@ -83,7 +83,7 @@ Existen otras muchas empresas reconocidas que confian en Rust como uno de sus le
 
 ## ¿Por qué aprender Rust?
 
-La sintaxis sencilla y directa de Rust lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que resta del 2020. Rust cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
+La sintaxis sencilla y directa de Rust lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que resta del 2021. Rust cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
 
 Las aplicaciones web y de escritorio, los servidores, el aprendizaje automático, las aplicaciones de inteligencia artificial usan Rust e incluso es uno de los lenguajes más usados dentro del campo de la criptografía  y las cadenas de bloques o blockchain.
 
