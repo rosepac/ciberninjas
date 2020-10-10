@@ -47,7 +47,7 @@ Sin embargo, hay cientos de recursos, [guías de programación](https://cibernin
 
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
-<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2020">
+<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2021">
 <div class="caption-content">
 <i class="fa fa-search-plus fa-3x"></i>
 </div>
