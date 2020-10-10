@@ -33,13 +33,13 @@ Si deseas tener conversaciones más largas sin interrupciones (además de otras 
 - [**Cómo registrarse en Zoom**](#cómo-registrarse-en-zoom)
 - [**Cómo registrarse en Zoom desde su página web**](#cómo-registrarse-en-zoom-desde-su-página-web)
 - [**Cómo registrarse en Zoom desde el smartphone**](#cómo-registrarse-en-zoom-desde-el-smartphone)
-- [**Cómo iniciar una reunión instantánea**](#cómo-iniciar-una-reunión-instantánea)
-  - [**Iniciar reunión desde la aplicación web de ZOOM**](#iniciar-reunión-desde-la-aplicación-web-de-zoom)
-  - [**Iniciar reunión desde la aplicación móvil de ZOOM**](#iniciar-reunión-desde-la-aplicación-móvil-de-zoom)
+- [**Cómo iniciar una reunión instantánea en ZOOM**](#cómo-iniciar-una-reunión-instantánea-en-zoom)
+  - [**Cómo iniciar una reunión desde la aplicación web de ZOOM**](#cómo-iniciar-una-reunión-desde-la-aplicación-web-de-zoom)
+  - [**Cómo iniciar una reunión desde la aplicación móvil de ZOOM**](#cómo-iniciar-una-reunión-desde-la-aplicación-móvil-de-zoom)
 - [**Cómo programar una reunión en Zoom**](#cómo-programar-una-reunión-en-zoom)
-  - [**Programar una reunión desde la aplicación web**](#programar-una-reunión-desde-la-aplicación-web)
-  - [**Programar una reunión desde la aplicación móvil**](#programar-una-reunión-desde-la-aplicación-móvil)
-- [**Cómo invitar personas a tus reuniones**](#cómo-invitar-personas-a-tus-reuniones)
+  - [**Programar una reunión en ZOOM desde la aplicación web**](#programar-una-reunión-en-zoom-desde-la-aplicación-web)
+  - [**Programar una reunión en ZOOM desde la aplicación móvil**](#programar-una-reunión-en-zoom-desde-la-aplicación-móvil)
+- [**Cómo invitar personas a tus reuniones de ZOOM**](#cómo-invitar-personas-a-tus-reuniones-de-zoom)
 
 ## **Cómo registrarse en Zoom**
 
@@ -73,25 +73,27 @@ Si te registras en Zoom usando la aplicación móvil, el proceso es similar a co
 8. Listo. Tu reunión de prueba se abrirá en la aplicación.
 
 <!-- contenido -->
-## **Cómo iniciar una reunión instantánea**
+## **Cómo iniciar una reunión instantánea en ZOOM**
 
 Una vez que te hayas registrado en Zoom e instalado la aplicación, es sencillo iniciar una reunión.
 
-### **Iniciar reunión desde la aplicación web de ZOOM**
+### **Cómo iniciar una reunión desde la aplicación web de ZOOM**
 
 1. Abre la aplicación.
-2. Haz CLIC en el botón naranja de "Nueva reunión" si deseas iniciar una reunión de inmediato. Se abrirá una ventana de video y una ventana emergente le preguntará si desea unirse a la reunión usando el audio de su computadora y si desea probar el altavoz y el micrófono. (Si ya no quiere molestarse con esa pregunta, marque la casilla en la parte inferior de la ventana emergente).
-3. Para invitar a personas a la reunión, busque la barra de herramientas que aparece cuando mueve el mouse en la ventana de la reunión y Haz CLIC en la pequeña flecha en el botón "Participantes". Cuando lo haga, Zoom abrirá una ventana donde puede invitar a sus contactos de Zoom, enviar un correo electrónico con información sobre cómo acceder a su reunión de Zoom, copiar la URL de su reunión en su portapapeles o copiar un mensaje más largo con la URL de su reunión y marcar- en información a su portapapeles. También puede encontrar la contraseña de su reunión en este menú. Cuando esté listo, Haz CLIC en el botón "Invitar".
+2. Haz CLIC en el botón naranja de "Nueva reunión" si deseas iniciar una reunión de inmediato. Se abrirá una ventana de video y una ventana emergente te preguntará si deseas unirte a la reunión usando el audio de tu computadora y si deseas probar el altavoz y el micrófono (si no deseas ver más esa pregunta, debes marcar la casilla de la parte inferior de la ventana emergente).
+3. Para invitar a más personas a la reunión, busca la barra de herramientas que aparece al mover el ratón por la ventana de la reunión y haz CLIC sobre el botón de "Participantes". Cuando lo hagas, Zoom abrirá una ventana desde la que puedes invitar a tus contactos de Zoom, o enviar un correo electrónico con información sobre cómo acceder a tu reunión de Zoom. También, puedes copiar la URL de tu reunión en tu portapapeles o copiar un mensaje más largo con la URL de su reunión adjunto a otra información. Debes fijarte, de que en ese mismo menú, vas a encontrar la contraseña de acceso a tu reunión. Cuando estés listo, haz CLIC en el botón de "Invitar".
 
-### **Iniciar reunión desde la aplicación móvil de ZOOM**
+### **Cómo iniciar una reunión desde la aplicación móvil de ZOOM**
 
-1. En la aplicación, toca "Nueva reunión".
-2. Elija si desea iniciarlo con el video encendido y si desea utilizar su ID de reunión personal (no recomendado; consulte más arriba). Luego, toque "Iniciar una reunión".
-3. Para invitar personas a la reunión, toque "Participantes" en la fila inferior de iconos y luego toque el botón "Invitar" en la parte inferior de la siguiente pantalla. Cuando lo haga, podrá enviar una invitación a un mensaje a través de una variedad de servicios como Messenger, Mensajes o Gmail; Invite a sus contactos de Zoom o copie el enlace de invitación al portapapeles de su teléfono.
+1. Entra a la aplicación, toca el botón de "Nueva reunión".
+2. Elige si deseas iniciar la reunión con la URL de la reunión que ya has iniciado o sí, deseas utilizar tu ID de reunión personal (no recomendado). Luego, toca en "Iniciar una reunión".
+3. Para invitar a más personas a tu reunión, toca en "Participantes" en la fila inferior de iconos y luego toca el botón de "Invitar" en la parte inferior de la siguiente pantalla. Cuando lo hagas, podrás enviar una invitación / mensaje. A través de una variedad de una amplia variadad de servicios; como por ejemplo: Messenger, Whatshap o Gmail. Invita a tus contactos de Zoom o copia el enlace de invitación al portapapeles de tu teléfono.
 
 ## **Cómo programar una reunión en Zoom**
 
-### **Programar una reunión desde la aplicación web**
+Vamos a ver las dos posibles opciones, para programar reuniones de Zoom, si lo que deseas es organizar tu trabajo para un futuro próximo. O bien, crear la programación desde la aplicación web, o bien, desde el teléfono móvil.
+
+### **Programar una reunión en ZOOM desde la aplicación web**
 
 1. Haz CLIC en "Programar".
 2. Una ventana emergente le dará una variedad de opciones, incluido el tema de la reunión, el tiempo, si usará una "sala de espera" (en otras palabras, si cada participante tendrá que pedir permiso para ingresar a la reunión) y si es una reunión recurrente.
@@ -101,32 +103,32 @@ Nota: puede elegir si desea que se genere automáticamente una ID de reunión ú
 
 La reunión programada será visible en la ventana de Zoom inicial, donde puede iniciarla o eliminarla.
 
-### **Programar una reunión desde la aplicación móvil**
+### **Programar una reunión en ZOOM desde la aplicación móvil**
 
 1. Haz CLIC en "Programar".
-2. Establezca la fecha, la hora y la zona horaria de la reunión y si debe repetirse. Elija si desea utilizar su ID de reunión personal; de lo contrario, se generará una identificación única (le sugerimos que utilice la última; consulte más arriba).
-3. Seleccione varias opciones de seguridad, como contraseñas y salas de espera
-4. En "Opciones avanzadas" puede elegir opciones como permitir que los participantes se unan antes que el anfitrión o grabar automáticamente la reunión. También puede agregarlo a un calendario.
-5. Toque "Listo" (Android) o "Guardar" (iOS) en la esquina superior derecha.
+2. Selecciona la fecha, la hora y la zona horaria de la reunión y si debe repetirse a lo largo del tiempo. Elige si deseas utilizar tu ID de reunión personal; o de lo contrario, si deseas generar un identificador única (está segunda opción, es mucho más recomendable, por seguridad).
+3. Selecciona y configura las opciones de seguridad, como las contraseñas y las salas de espera.
+4. Desde "Opciones avanzadas" puedes elegir, algunas opciones de configuración más; como por ejemplo, permitir que los participantes se unan antes que el anfitrión o grabar automáticamente la reunión, también puede agregar la reunión automáticamente en un calendario.
+5. Pulsa sobre "Listo" (Android) o sobre "Guardar" (iOS) en la esquina superior derecha.
 
-## **Cómo invitar personas a tus reuniones**
+## **Cómo invitar personas a tus reuniones de ZOOM**
 
-Puede invitar a personas a una reunión de Zoom de diferentes formas. Si está utilizando las aplicaciones de escritorio o móviles, Haz CLIC o toque en la pestaña Reuniones. Desde allí:
+Existen diferentes formas de invitar personas a una reunión de Zoom. Bien, si estás utilizando la aplicación de escritorio de ZOOM o la aplicación móvil de ZOOM. Haz CLIC o toca sobre la pestaña reuniones y desde allí:
 
-1. En la página principal de la aplicación de escritorio, debería ver su reunión programada en el lado derecho. Haz CLIC en los tres puntos a la derecha del título de la reunión y luego seleccione "Copiar invitación" para copiar la URL, la ID y la información de acceso telefónico de su reunión de Zoom en su portapapeles. Luego puede colocarlo en un correo electrónico o mensaje de texto. También puede hacer clic en la pestaña Reuniones y hacer clic en el botón "Copiar invitación" en la pantalla.
-2. En la aplicación móvil, toque la aplicación "Reuniones" en la parte inferior de la pantalla. Al tocar el botón "Enviar invitación", podrá enviar una invitación a un mensaje a través de una variedad de servicios como Messenger, Mensajes o Gmail; Invite a sus contactos de Zoom o copie el enlace de invitación al portapapeles de su teléfono.
+1. Desde la página principal de la aplicación de escritorio, deberías ver tu reunión programada al lado derecho. Haz CLIC en los tres puntos a la derecha del título de la reunión y luego selecciona "Copiar invitación" para copiar la URL, la ID y la información de acceso telefónico a tu reunión de Zoom en tu portapapeles. Luego puedes enviarlo por correo electrónico o mensaje de texto, también puede hacer CLIC en la pestaña de Reuniones y luego CLIC en el botón de "Copiar invitación" que se muestra en la pantalla.
+2. Desde la aplicación móvil, toca el botón de "Reuniones" en la parte inferior de la pantalla. Al tocar el botón "Enviar invitación" podrá enviar una invitación a un mensaje o a través de una variedad de servicios como Messenger, Whatshap, Gmail, etc. Invita a sus contactos de Zoom o copia el enlace de invitación al portapapeles de tu teléfono para enviarlo a quién desees.
 
-## **Conclusión** <!-- omit in toc -->
+<!-- ## **Conclusión** --><!-- omit in toc -->
 
-Una vez que esté en funcionamiento con Zoom, asegúrese de consultar también nuestras guías sobre cómo mantener seguras sus reuniones de Zoom , encontrar atajos de teclado , cambiar su fondo de Zoom (aquí hay algunos fondos gratuitos que puede usar ) y grabar su Zoom llama 
+<!-- Una vez que estés en funcionamiento con Zoom, asegúrate de consultar también nuestras guías sobre cómo mantener seguras tus reuniones de Zoom, encontrar atajos de teclado, cambiar su fondo de Zoom (aquí hay algunos fondos gratuitos que puede usar) y cómo grabar tu llamada de Zoom. -->
 
 ### **Relacionados** <!-- omit in toc -->
+
+[🥇 ▷ Zoom adquiere Keybase](https://ciberninjas.com/zoom-adquiere-keybase/)
 
 [▷ Las mejores cámaras web 2020](https://ciberninjas.com/mejores-camaras-web/)
 
 [▷ Los mejores soportes para cámaras web 2020](https://ciberninjas.com/mejores-soportes-camaras-web/)
-
-[🥇 ▷ Zoom adquiere Keybase](https://ciberninjas.com/zoom-adquiere-keybase/)
 
 [Cómo crear videollamadas divertidas a través de Zoom](https://ciberninjas.com/c%C3%B3mo-tener-conversaciones-divertidas-zoom/)
 
