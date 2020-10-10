@@ -235,9 +235,9 @@ Finalmente, System76 ha agregado una forma simple de actualizar el firmware, alg
 [▷ Editores de Texto](/categoria/#editor-de-texto)
   * [Eclipse Theia](/wiki/eclipse-theia)
 
-[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/programar/)
+[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2021](/programar/)
 
-[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2021](/15-mejores-lenguajes-programacion/)
 
 [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 

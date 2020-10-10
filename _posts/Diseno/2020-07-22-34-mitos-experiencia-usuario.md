@@ -311,7 +311,7 @@ Los iconos sin etiquetas de texto son difícil de entender, gestos no estándar 
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+[▷ Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
 [▷ 11 Mejores editores de código PHP](https://ciberninjas.com/mejores-editores-php/)
 

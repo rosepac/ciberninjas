@@ -91,7 +91,7 @@ Dentro de Codespaces, tendrá acceso a Visual Studio Code Marketplace , y puede 
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](/mejores-editores-texto/)
+[🥇 Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](/mejores-editores-texto/)
 
 [Komodo IDE: Versión extensa gratis a partir de 2020](/ide-komodo-gratis/)
 

@@ -50,7 +50,7 @@ Los beneficios de Gitpod son:
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+[▷ Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
 [Conoce más sobre Eclipse Theia](https://ciberninjas.com/wiki/eclipse-theia/)
 

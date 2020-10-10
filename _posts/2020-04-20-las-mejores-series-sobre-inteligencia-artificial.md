@@ -84,7 +84,7 @@ Hasta aquí el contenido que he visto. Así que ya no te sabría indicar bien. S
 
 ### **Relacionados** <!-- omit in toc -->
 
-* [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
+* [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2021](/programar/)
 * [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
 * [Comparativa
 * [▷ ¿Por qué Python es Mejor que PHP?](desarrolladores-lenguaje-rust/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")

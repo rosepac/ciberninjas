@@ -31,14 +31,14 @@ Los propios desarrolladores del software dicen del mismo, que es un editor enfoc
 
 Pero, ¿Qué hace tan especial a Zettlr?
 
-- [**Mejora tu flujo de trabajo**](#mejora-tu-flujo-de-trabajo)
+- [**Mejora tu flujo de trabajo con Zettlr**](#mejora-tu-flujo-de-trabajo-con-zettlr)
 - [**Integra gestores de referencias**](#integra-gestores-de-referencias)
 - [**Modo oscuro**](#modo-oscuro)
 - [**Olvídate del desorden**](#olvídate-del-desorden)
 - [**Más que hastags**](#más-que-hastags)
 - [**Poder ilimitado**](#poder-ilimitado)
 
-## **Mejora tu flujo de trabajo**
+## **Mejora tu flujo de trabajo con Zettlr**
 
 Zettlr implementa 3 características principales que permiten generar un flujo de trabajo mucho mejor, que el que puedes encontrar dentro de cualquier otro editor; te permite generar identificadores para los archivos, vincultar archivos y búsquedas y etiquetar cada nota.
 
@@ -80,7 +80,7 @@ Es tan fácil como crear un nuevo proyecto y comenzar a crear. Zettlr nunca se i
 
 [▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
 
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+[▷ Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
 [11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
 

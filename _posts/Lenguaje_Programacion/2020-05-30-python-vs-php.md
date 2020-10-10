@@ -25,6 +25,14 @@ published: true
 
 Vamos a intentar realizar una pequeña introducción y comparativa como medio introductorio a estos dos lenguajes de programación, tomando en cuenta sus distancias y diferencias, de por sí; ya existentes.
 
+- [**¿Qué es Python?**](#qué-es-python)
+- [**¿Qué es PHP?**](#qué-es-php)
+- [**Facilidad de uso de Python**](#facilidad-de-uso-de-python)
+- [**Facilidad de uso de PHP**](#facilidad-de-uso-de-php)
+- [**Comparación entre Python y PHP**](#comparación-entre-python-y-php)
+- [**Soporte comunitario de Python y PHP**](#soporte-comunitario-de-python-y-php)
+- [**Conclusión de la elección entre Python y PHP**](#conclusión-de-la-elección-entre-python-y-php)
+
 <!-- https://www.geeksforgeeks.org/python-vs-php/ -->
 ## **¿Qué es Python?**
 
@@ -83,11 +91,11 @@ Las razones para seguir con PHP son su mayor sencillez, su facilidad de uso y ro
 > 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
 
-### **Relacionados**
+### **Relacionados** <!-- omit in toc -->
 
-[Java vs Python: ¿Cuál es su diferencia?](https://ciberninjas.com/java-vs-python-diferencias/)
+[Java vs Python: ¿Cuál es su diferencia?](https://ciberninjas.com/java-vs-python-diferencias/ "Java vs Python: ¿Cuál es su diferencia?")
 
-[¿Por qué Python es mejor que PHP?](https://ciberninjas.com/porque-python-es-mejor-que-php/)
+[¿Por qué Python es mejor que PHP?](https://ciberninjas.com/porque-python-es-mejor-que-php/ "¿Por qué Python es mejor que PHP?")
 
 [Python vs PHP: Introducción básica](https://ciberninjas.com/python-vs-php/)
 

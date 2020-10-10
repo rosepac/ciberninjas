@@ -142,6 +142,6 @@ Debemos decir que esto es altamente experimental y está sujeto a cambios pero, 
 
 [▷ Comparación entre 3 de los frameworks web más de moda en 2020: Flutter, React Native y Xamarin](https://ciberninjas.com/comparacion-flutter-react-native-xamarin/)
 
-[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2021](/programar/)
 
 [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")

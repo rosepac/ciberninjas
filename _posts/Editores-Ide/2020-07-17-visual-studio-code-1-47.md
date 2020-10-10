@@ -406,7 +406,7 @@ El instalador de Visual Studio Code para Java Pack descarga las dependencias y e
 
 [🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
 
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+[▷ Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
 [▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/codelobster-editor-php/)
 

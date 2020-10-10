@@ -222,7 +222,7 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+[▷ Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
 [▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/zeetlr-editor-markdown/)
 

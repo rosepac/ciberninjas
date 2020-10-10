@@ -34,7 +34,7 @@ permalink: /desarrollador-web/
 ## Framework React
 
 * [Botones de compartir en redes sociales y compartir recuentos para React](https://github.com/nygardk/react-share){:target="_blank" rel="nofollow,noreferrer"}
-* [React bibliotecas en 2020](https://www.robinwieruch.de/react-libraries){:target="_blank" rel="nofollow,noreferrer"}
+* [React bibliotecas en 2021](https://www.robinwieruch.de/react-libraries){:target="_blank" rel="nofollow,noreferrer"}
 * [](){:target="_blank" rel="nofollow,noreferrer"}
 * [](){:target="_blank" rel="nofollow,noreferrer"}
 * [](){:target="_blank" rel="nofollow,noreferrer"}

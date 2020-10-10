@@ -184,8 +184,8 @@ Las últimas actualizaciones también traen muchas otras mejoras para la experie
 
 [▷ Editores de Texto](/categoria/#editor-de-texto)
   * [Eclipse Theia](/wiki/eclipse-theia)
-[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/programar/)
-[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
+[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2021](/programar/)
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2021](/15-mejores-lenguajes-programacion/)
 [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
 > **Fuente**\: [Desarrolladores de Visual Studio Code - Microsoft](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-february-2020/ "Desarrolladores de Visual Studio Code - Microsoft"){:target="_blank" rel="nofollow,noreferrer"}

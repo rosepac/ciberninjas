@@ -28,7 +28,6 @@ Reason compila a JavaScript gracias a nuestro proyecto asociado, [BuckleScript](
 - [**¿Por qué Reason?**](#por-qué-reason)
 - [**¿Por qué OCaml como lenguaje de respaldo?**](#por-qué-ocaml-como-lenguaje-de-respaldo)
 - [**¿Reason no es para ti?**](#reason-no-es-para-ti)
-  - [Relacionados](#relacionados)
 
 ## **¿Qué es Reason?**
 
@@ -85,10 +84,10 @@ Aquí hay algunas alternativas que comparten algunos conceptos / linajes similar
 
 ### **Relacionados** <!-- omit in toc --> <!-- Omit in toc -->
 
-[🥇 ▷ Los Mejores EDITORES de TEXTO para programar en 2020](https://ciberninjas.com/mejores-editores-texto/)
+[🥇 ▷ Los Mejores EDITORES de TEXTO para programar en 2021](https://ciberninjas.com/mejores-editores-texto/)
 
-[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/programar/)
+[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2021](/programar/)
 
-[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2021](/15-mejores-lenguajes-programacion/)
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>

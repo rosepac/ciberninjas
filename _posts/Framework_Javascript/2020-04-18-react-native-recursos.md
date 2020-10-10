@@ -91,7 +91,7 @@ Discord Reactiflux: https://discordapp.com/invite/0ZcbPKXt5bYZVCkR
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2021](/programar/)
 [👩‍💻 Aprender a Programar](/aprender/ "👩‍💻 Aprender a Programar")
 [▷ ¿Por qué Python es Mejor que PHP?](desarrolladores-lenguaje-rust/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
 [▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué](/porque-python-es-mejor-que-php/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
