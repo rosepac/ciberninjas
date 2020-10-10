@@ -87,7 +87,7 @@ INTRODUCCION
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ ¿Cómo aprender Flutter en 2020? ](https://ciberninjas.com/como-aprender-flutter/)
+[🥇 ▷ ¿Cómo aprender Flutter en 2021? ](https://ciberninjas.com/como-aprender-flutter/)
 
 [▷ Los Mejores Wallpaper de Flutter 2020](https://ciberninjas.com/wallpaper-flutter/)
 

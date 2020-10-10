@@ -2,7 +2,7 @@
 
 author: rosepac
 bootstrap: true
-title: '▷ Las 5 mejores herramientas de SQL Server para 2020'
+title: '▷ Las 5 mejores herramientas de SQL Server 2021'
 description: "Herramientas de terceros para realizar revisiones de bases de datos desde un servidor de SQL"
 excerpt: "Herramientas de terceros para realizar revisiones de bases de datos desde un servidor de SQL"
 published: true

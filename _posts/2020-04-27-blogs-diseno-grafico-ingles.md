@@ -8,7 +8,7 @@ tags:
 - Blogs
 thumbnail: /assets/img/blog/abril-inspiracion-paginas-web.webp
 feature-img: /assets/img/blog/abril-inspiracion-paginas-web.webp
-title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 2020 (en inglés)'
+title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 2021 (en inglés)'
 description: >-
   Siempre es bueno mantener tu enfoque de diseño despierto. Los diseñadores encuentran la inspiración en todas partes. Prueba a visitar a diario estos espectaculares blogs.
 excerpt: >-
@@ -538,7 +538,7 @@ Artículos y recursos sobre la experiencia de usuario.
 
 ### **Relacionados**
 
-[🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2020](/blogs-diseno-grafico-espanol/)
+[🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2021](/blogs-diseno-grafico-espanol/)
 
 [🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D](/cursos-animacion-diseno/)
 
@@ -546,7 +546,7 @@ Artículos y recursos sobre la experiencia de usuario.
 
 [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
 
-[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020](/mejor-software-dibujo-windows-android/)
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2021](/mejor-software-dibujo-windows-android/)
 
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 

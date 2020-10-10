@@ -501,11 +501,11 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2020](/blogs-diseno-grafico-espanol/)
+[🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2021](/blogs-diseno-grafico-espanol/)
 
 [🥇 ▷ Los 66 mejores blogs de diseño gráfico del mundo 2020](/blogs-diseno-grafico-ingles/)
 
-[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020](/mejor-software-dibujo-windows-android/)
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2021](/mejor-software-dibujo-windows-android/)
 
 [🥇 ▷ Cómo aprender Diseño Gráfico en 2021 👩‍🎨](/dise%C3%B1o-grafico/)
 

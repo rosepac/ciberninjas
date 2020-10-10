@@ -130,7 +130,7 @@ Si eres seleccionado para recibir la "subvención" o ayuda económica para tu pr
 
 [▷ Adobe Photoshop cumple 30 años](https://ciberninjas.com/cumpleanos-photoshop-cambios-e-inteligencia-artificial/)
 
-[🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2020](https://ciberninjas.com/blogs-diseno-grafico-espanol/)
+[🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2021](https://ciberninjas.com/blogs-diseno-grafico-espanol/)
 
 [🥇 ▷ Los 66 mejores blogs de diseño gráfico del mundo 2020](https://ciberninjas.com/blogs-diseno-grafico-ingles/)
 

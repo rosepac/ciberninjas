@@ -10,7 +10,7 @@ tags:
 - CMS
 thumbnail: /assets/img/blog/10-analisis-paginas-web-2020.webp
 feature-img: /assets/img/blog/10-analisis-paginas-web-2020.webp
-title: '▷ Sitios de construcción rápida de páginas web 2020'
+title: '▷ Sitios de construcción rápida de páginas web 2021'
 description: >-
   El panorama ha cambiado para el diseño y alojamiento de sitios web comerciales de creación propia. Aquí tienes tres enfoques independientes más prácticos y adecuados para crear sitios web estáticos simples o sistemas de gestión de contenidos (CMS).
 excerpt: >-

@@ -184,7 +184,7 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
 
-[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020](/mejor-software-dibujo-windows-android/)
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2021](/mejor-software-dibujo-windows-android/)
 
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 

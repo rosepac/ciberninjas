@@ -42,7 +42,7 @@ Si quieres probar la versión de escritorio del navegador Opera GX. Puedes [desc
 
 [▷ Kosmonaut: Un navegador web creado con Rust](https://ciberninjas.com/kosmonaut-navegador-web-rust/)
 
-[Las 7 mejores extensiones de Google Chrome 2020](https://ciberninjas.com/chrome-extensiones-1-2020/)
+[Las 7 mejores extensiones de Google Chrome 2021](https://ciberninjas.com/chrome-extensiones-1-2020/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

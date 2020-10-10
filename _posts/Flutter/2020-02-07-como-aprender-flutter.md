@@ -2,7 +2,7 @@
 
 author: rosepac
 bootstrap: true
-title: "🥇 ▷ ¿Cómo aprender Flutter en 2020?"
+title: "🥇 ▷ ¿Cómo aprender Flutter en 2021?"
 description: >-
   ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter.
 excerpt: >-
