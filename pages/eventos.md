@@ -57,16 +57,19 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 20 de Octubre  <!-- omit in toc -->
 
+- Nerdear.LA (Del 20 al 24 de Octubre)
 - ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 21 de Octubre  <!-- omit in toc -->
 
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00 H. Esp.)
 
 ### 🔔 22 de Octubre  <!-- omit in toc -->
 
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### **Tarugconf: 22, 23, 24 de Octubre**  <!-- omit in toc -->
@@ -75,6 +78,14 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
+
+### 🔔 23 de Octubre  <!-- omit in toc -->
+
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
+
+### 🔔 24 de Octubre  <!-- omit in toc -->
+
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
 
 ### 🔔 27 de Octubre  <!-- omit in toc -->
 
