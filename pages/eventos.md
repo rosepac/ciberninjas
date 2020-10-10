@@ -31,35 +31,38 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ## **Agenda y Eventos tecnológicos de Octubre**
 
 
-### 🔔 9 de Octubre  <!-- omit in toc -->
-
-- LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
-- ¿Cómo se trabaja en la industria con Python? 👉 [Info.](https://www.eventbrite.com/e/como-se-trabaja-en-la-industria-con-python-tickets-122417015589?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (00:00 PM noche para el 10)
-
-<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
-
 ### 🔔 13 de Octubre  <!-- omit in toc -->
 
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 - Webinar: Systemic, nueva librería de inyección de dependencias para node.js - [Registro](https://www.eventbrite.es/e/entradas-webinar-systemic-nueva-libreria-de-inyeccion-de-dependencias-para-nodejs-119109867821?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 - Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 
 ### 🔔 14 de Octubre  <!-- omit in toc -->
 
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 - Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"} (18:00 PM)
+
+### 🔔 15 de Octubre  <!-- omit in toc -->
+
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 16 de Octubre  <!-- omit in toc -->
 
 - DevFest Spain 2020 👉 [INFO.](https://gdg.community.dev/events/details/google-gdg-asturias-presents-devfest-spain-2020/){:target="_blank" rel="nofollow, noreferrer"}
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 17 de Octubre  <!-- omit in toc -->
 
 - PEUMConf 2020 ([Programar Es Una Mierda](https://www.programaresunamierda.com/p/peumconf-2019.html){:target="_blank" rel="nofollow, noreferrer"})
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 20 de Octubre  <!-- omit in toc -->
 
 - Nerdear.LA (Del 20 al 24 de Octubre)
 - ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 ### 🔔 21 de Octubre  <!-- omit in toc -->
 
@@ -958,3 +961,8 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - ReproHack en español - LatinR 2020 🎥 [DIRECTO](https://www.youtube.com/channel/UCt950nC6jlh2ELDRPigWOkg){:target="_blank" rel="nofollow, noreferrer"} 👉 [Info.](https://www.eventbrite.com.ar/e/reprohack-en-espanol-latinr-2020-tickets-121741832097?aff=ebdssbonlinesearch){:target="_blank" rel="nofollow, noreferrer"} (15:00 PM)
 - Iníciate en UX Research en remoto 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-iniciate-en-ux-research-en-remoto-123456972127?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
 - 15 consejos para administrar BitLocker 👉 [REGISTRO](https://www.eventbrite.es/e/entradas-15-consejos-para-administrar-bitlocker-122888760591?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00)
+
+### 🔔 9 de Octubre  <!-- omit in toc -->
+
+- LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
+- ¿Cómo se trabaja en la industria con Python? 👉 [Info.](https://www.eventbrite.com/e/como-se-trabaja-en-la-industria-con-python-tickets-122417015589?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (00:00 PM noche para el 10)
