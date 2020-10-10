@@ -23,7 +23,7 @@ Establecida en 1989, WPS Office es un desarrollador líder mundial de soluciones
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Guía de productividad definitiva 2020](https://ciberninjas.com/guia-productividad-definitiva/)
+[▷ Guía de productividad definitiva 2021](https://ciberninjas.com/guia-productividad-definitiva/)
 
 [LibreOffice 6.3: Añade Funciones y Mejoras de Fiabilidad](https://ciberninjas.com/2019/08/09/libreoffice-6-3-disponible-a%C3%B1ade-funciones-y-mejora-la-fiabilidad-y-rendimiento.html)
 

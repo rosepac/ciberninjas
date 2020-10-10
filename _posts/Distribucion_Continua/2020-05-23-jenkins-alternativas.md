@@ -23,7 +23,7 @@ tags:
 - Distribución Continua
 thumbnail: /assets/img/blog/devops-ciclo.webp
 feature-img: /assets/img/blog/devops-ciclo.webp
-title: '▷ 15 Mejores alternativas a Jenkins en 2020'
+title: '▷ 15 Mejores alternativas a Jenkins 2021'
 description: >-
   Alternativas a Jenkins, la plataforma de integración continua de código abierto que se ha convertido en una herramienta crucial dentro del ciclo de vida de los DevOps.
 excerpt: >-

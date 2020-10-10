@@ -8,7 +8,7 @@ tags:
 - Productividad
 thumbnail: /assets/img/blog/guia-productividad-1.webp
 feature-img: /assets/img/blog/guia-productividad-1.webp
-title: '💼 ▷ Guía de productividad definitiva 2020'
+title: '💼 ▷ Guía de productividad definitiva 2021'
 description: >-
   La productividad es un tema candente para casi todas las empresas. Si su organización no es productiva, ¿cómo puede realmente esperar crecer?
 excerpt: >-

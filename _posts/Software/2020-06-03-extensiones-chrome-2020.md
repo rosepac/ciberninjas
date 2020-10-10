@@ -8,7 +8,7 @@ tags:
 - Extensiones Navegadores
 thumbnail: /assets/img/blog/chrome-extensiones.webp
 feature-img: /assets/img/blog/chrome-extensiones.webp
-title: 'Las 7 mejores extensiones de Google Chrome 2020'
+title: 'Las 7 mejores extensiones de Google Chrome 2021'
 description: >-
   Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.
 excerpt: >-

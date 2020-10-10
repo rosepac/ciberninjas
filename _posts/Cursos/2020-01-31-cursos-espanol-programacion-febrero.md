@@ -1,6 +1,6 @@
 ---
 
-title: '🥇 ▷ Los mejores cursos de introducción a la programación 2020'
+title: '🥇 ▷ Los mejores cursos de introducción a la programación 2021'
 excerpt: '✅ Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.'
 description: '✅ Aprende programación desde cero con los mejores cursos gratuitos sobre algoritmos, Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, y mucho más.'
 published: true
@@ -218,7 +218,7 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 
 ### **Relacionados de redes sociales** <!-- omit in toc -->
 
-[🥇 ▷ Los mejores cursos de introducción a la programación 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
+[🥇 ▷ Los mejores cursos de introducción a la programación 2021](https://ciberninjas.com/cursos-espanol-programacion-febrero/)
 
 [🥇 ▷ Los mejores cursos de Udemy en Agosto, tan sólo por 9,99 €](https://ciberninjas.com/cursos-udemy-ofertas-agosto/)
 

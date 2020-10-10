@@ -27,7 +27,7 @@ categories:
 - Software
 thumbnail: /assets/img/herramientas-java/java-herramientas.webp
 feature-img: /assets/img/herramientas-java/java-herramientas.webp
-title: 'Las 20 mejores herramientas Java para desarrolladores 2020'
+title: 'Las 20 mejores herramientas Java para desarrolladores 2021'
 description: >-
   Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí, algunos nombres principales con sus características y enlaces de descarga.
 excerpt: >-
