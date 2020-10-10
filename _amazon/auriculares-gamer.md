@@ -31,7 +31,7 @@ La comodidad es otra cosa en la que debes pensar, ya que incluso la mejor calida
 
 Por último, la mayoría de los auriculares que hemos enumerado aquí cuentan con micrófonos con cancelación de ruido integrados que son cruciales para conversar con tus compañeros de equipo.
 
-Querer tener uno de los mejores dispositivos de audio para juegos de 2020 a tu setup no debería costarte un riñón. Entre las siguientes opciones vas a encontrar, grandes auriculares como el [HyperX Cloud Alpha](https://amzn.to/35CPQyZ), por menos de 100 €, un auricular resistente con excelente calidad de sonido.
+Querer tener uno de los mejores dispositivos de audio para juegos de 2021 en tu setup no debería costarte un riñón. Entre las siguientes opciones vas a encontrar, grandes auriculares como el [HyperX Cloud Alpha](https://amzn.to/35CPQyZ), por menos de 100 €, un auricular resistente con excelente calidad de sonido.
 
 Lueg, puedes encontrar otras alternativas, por ejemplo, si es que tienes mucho dinero y deseas optar por una opción inalámbrica, puedes probar el gran Razer Thresher Ultimate.
 

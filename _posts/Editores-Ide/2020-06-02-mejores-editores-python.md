@@ -17,7 +17,7 @@ tags:
 - Wing
 thumbnail: /assets/img/blog/python-ide/python-editores-scrapy.webp
 feature-img: /assets/img/blog/python-ide/python-editores-scrapy.webp
-title: '11 Mejores editores de código Python y entornos de desarrollo IDE 2020'
+title: '🥇 ▷ 11 Mejores Editores de Código de Python y entornos de desarrollo IDE 2021'
 description: >-
   Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
 excerpt: >-

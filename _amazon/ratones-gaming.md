@@ -2,7 +2,7 @@
 author: rosepac
 bootstrap: true
 layout: page
-title: "▷ Los Mejores Ratones y Teclados para Diseñar y Jugar 🖱"
+title: "▷ Los 5 Mejores Ratones de Ordenador para Diseñar y Jugar (calidad precio) 2021"
 description: "⌨ Las mejores ofertas calidad precio y chollazos de ratones y teclados para diseñar y jugar"
 excerpt: "⌨ Las mejores ofertas calidad precio y chollazos de ratones y teclados para diseñar y jugar"
 permalink: /teclados-ratones-diseño/

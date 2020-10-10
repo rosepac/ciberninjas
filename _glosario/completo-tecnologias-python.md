@@ -30,7 +30,7 @@ img: /assets/img/glosario/diccionario-completo-python.webp
 
 Una biblioteca para escribir código concurrente utilizando la sintaxis async / await. Proporciona infraestructura para escribir código concurrente de un solo subproceso utilizando rutinas, multiplexando el acceso de E / S a través de sockets y otros recursos, ejecutando clientes y servidores de red y otras primitivas relacionadas.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## B
 
@@ -60,7 +60,7 @@ Framework de Python orientado a objetos orientado que permite a los desarrollado
 
 Implementación de referencia del lenguaje de programación Python. Escrito en C, CPython es la implementación predeterminada y más utilizada del lenguaje.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## D
 
@@ -80,7 +80,7 @@ Un proyecto oficial de Django. Extiende sus capacidades más allá del HTTP: Par
 
 Sistema de procesamiento de texto para procesar documentación de texto sin formato en formatos útiles, como HTML , LaTeX, páginas de manual, documento abierto o XML . Diseñado para trabajar de manera flexible con texto en varios idiomas (un idioma a la vez). Las características específicas del idioma están completamente parametrizadas.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## F
@@ -89,7 +89,7 @@ Sistema de procesamiento de texto para procesar documentación de texto sin form
 
 Un framework ligero de Python basado en Werkzeug y Jinja 2. Arquitectura de seguridad del sistema operativo que proporciona soporte flexible para políticas de seguridad. FLASK es un marco central en los sistemas operativos centrados en la seguridad, como el Linux de seguridad mejorada de la NSA (SELinux), OpenSolaris FMAC y TrustedBSD.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## J
 
@@ -101,7 +101,7 @@ Un motor de plantillas para Python . Ofrece un poderoso conjunto de herramientas
 
  Aplicación web que permite crear y compartir documentos que contienen código en vivo, ecuaciones, visualizaciones y texto narrativo. Los usos incluyen: limpieza y transformación de datos, simulación numérica, modelado estadístico, visualización de datos, aprendizaje automático y mucho más.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## K
 
@@ -109,7 +109,7 @@ Un motor de plantillas para Python . Ofrece un poderoso conjunto de herramientas
 
 Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan interfaces de usuario innovadoras, como aplicaciones multitáctiles. Se usa para hacer aplicaciones móviles con python. Puede ejecutarse en Android , iOS , Linux , OS X y Windows.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## M
@@ -118,7 +118,7 @@ Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan int
 
 Biblioteca de trazado 2D de Python que produce cifras de calidad de publicación en una variedad de formatos impresos y entornos interactivos en todas las plataformas. Matplotlib se puede usar en scripts Python, el shell Python e IPython, el cuaderno jupyter, los servidores de aplicaciones web y cuatro kits de herramientas de interfaz gráfica de usuario.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## N
 
@@ -126,7 +126,7 @@ Biblioteca de trazado 2D de Python que produce cifras de calidad de publicación
 
 Paquete fundamental para computación científica con Python . NumPy es la biblioteca principal en Python para la manipulación de matrices y, por lo tanto, una gran parte del cálculo numérico y científico basado en este lenguaje.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## P
 
@@ -170,7 +170,7 @@ Lenguaje de programación de uso general popular cuya filosofía se centra princ
 
 Una biblioteca de aprendizaje automático de código abierto para Python . Proporciona una ruta perfecta desde la creación de prototipos de investigación hasta la implementación de producción. De acuerdo con la antorcha.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## S
@@ -213,7 +213,7 @@ Es una biblioteca ligera de Python para computación simbólica. SymPy puede amp
 
 Herramienta de manipulación de bases de datos para python que se puede utilizar como biblioteca independiente para manipular bases de datos relacionales. La alquimia SQL proporciona expresiones sql básicas basadas en python y ORM basado en python orientado a objetos . También proporciona una sintaxis declarativa de alto nivel para ORM por simplicidad.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## T
 
@@ -233,7 +233,7 @@ Una versión del servidor web escalable y sin bloqueo y las herramientas que imp
 
 Framework de programación de red basado en eventos escrito en Python y licenciado bajo la Licencia MIT. Los proyectos retorcidos son compatibles con TCP , UDP , SSL / TLS, multidifusión IP, sockets de dominio Unix, una gran cantidad de protocolos y mucho más.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## V
 
@@ -247,7 +247,7 @@ Vidgear, es una poderosa librería dedicada al procesamiento de vídeo construid
 
 Software, programa o sistema que implementa, gestiona y controla múltiples instancias de entorno virtual. Una herramienta para crear entornos aislados de Python . Virtualenv le permitirá definir entornos de tiempo de ejecución Python aislados sin dañar la instalación de Python raíz o del sistema.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## W
@@ -264,7 +264,7 @@ Framework web para Python que es tan simple como poderoso. Web.py está en el do
 
  GUI toolkit para Python que es un contenedor alrededor de la biblioteca wxWidgets C ++ GUI. wxPython proporciona una gran variedad de tipos de ventanas y controles, todos implementados con una apariencia nativa (mediante el uso de widgets nativos) en las plataformas en las que es compatible.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#índice-del-diccionario-de-Python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Índice](/glosario/completo-tecnologias-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 El **glosario de Python** fue creada el *13 de Mayo de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
