@@ -16,7 +16,7 @@ excerpt: >-
   Guía completa para las personas que aún no han probado el software de Zoom, consejos sobre cómo empezar a utilizar la versión gratuita. Como registrarse y como invitar a otras personas a las llamadas de Zoom.
 canonical_URL: https://ciberninjas.com/zoom-guia-completa/
 permalink: /zoom-guia-completa/
-date: 2020-10-10 02:28:32
+date: 2020-10-10 02:42:32
 last_modified_at: 
 published: true
 
