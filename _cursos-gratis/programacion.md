@@ -54,12 +54,12 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
   - [¿Dónde puedo aprender JavaScript para principiantes?](#dónde-puedo-aprender-javascript-para-principiantes)
 - [Kotlin](#kotlin)
 - [Perl](#perl)
-- [PHP](#php)
+- [**Cursos Gratis de PHP**](#cursos-gratis-de-php)
 - [PHP Frameworks](#php-frameworks)
   - [CakePHP](#cakephp)
   - [**Cursos de CodeIgniter**](#cursos-de-codeigniter)
   - [**Cursos de Laravel**](#cursos-de-laravel)
-  - [Symfony](#symfony)
+  - [**Cursos de Symfony**](#cursos-de-symfony)
   - [Zend](#zend)
 - [Python](#python)
 - [Python Frameworks](#python-frameworks)
@@ -412,8 +412,10 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## PHP
+## **Cursos Gratis de PHP**
 
+- [Apuntes para Certificar tu sabiduría de PHP](https://diego.com.es/certificacion-php){:target="_blank" rel="nofollow,noreferrer"} - **Muy Completo.** (HTML) (2018)
+- [Apuntes de desarrollo web para PHP](https://diego.com.es/desarrollo-web){:target="_blank" rel="nofollow,noreferrer"} - Se incluye contenido de principios de diseño SOLID, Doctrine ORM, Servidores y PHP, y Git para PHP (HTML) (2018)
 - [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Aprende PHP y MySQl, conceptos básicos](https://www.udemy.com/php-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -460,8 +462,9 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt){:target="_blank" rel="nofollow,noreferrer"} (Raul Palacios, YouTube)
 - [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### Symfony
+### **Cursos de Symfony**
 
+- [Apuntes para Certificar tu sabiduría de Symfony](https://diego.com.es/certificacion-symfony){:target="_blank" rel="nofollow,noreferrer"} - **Muy Completo.** (HTML) (2018)
 - [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 - [Symfony 3: en producción. Subir y publicar proyectos web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsymfony-3-en-produccion-subir-y-publicar-proyectos-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 

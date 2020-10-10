@@ -144,7 +144,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [Rust](#rust)
 - [Vue](#vue)
 - [.NET (C# / Visual Studio)](#net-c--visual-studio)
-- [PHP](#php)
+- [**Libros y Apuntes de PHP**](#libros-y-apuntes-de-php)
   - [Cake PHP](#cake-php)
   - [Laravel](#laravel)
 - [Perl](#perl)
@@ -869,8 +869,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [El lenguaje de programación C#](https://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-## PHP
+## **Libros y Apuntes de PHP**
 
+* [Apuntes para Certificar tu sabiduría de PHP](https://diego.com.es/certificacion-php){:target="_blank" rel="nofollow,noreferrer"} - **Muy Completo.** (HTML) (2018)
+* [Apuntes para Certificar tu sabiduría de Symfony](https://diego.com.es/certificacion-symfony){:target="_blank" rel="nofollow,noreferrer"} - **Muy Completo.** (HTML) (2018)
+* [Apuntes de desarrollo web para PHP](https://diego.com.es/desarrollo-web){:target="_blank" rel="nofollow,noreferrer"} - Se incluye contenido de principios de diseño SOLID, Doctrine ORM, Servidores y PHP, y Git para PHP (HTML) (2018)
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/https://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Patrones de diseño: Zend Framework, Sympfony2, Doctrine2](https://media.readthedocs.org/pdf/designpatternsphp-es-mx/latest/designpatternsphp-es-mx.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [PHP en 2019](https://www.jesusamieiro.com/wp-content/uploads/2019/11/20191122-Commit-Conf-PHP-en-2019-r2.pdf)
