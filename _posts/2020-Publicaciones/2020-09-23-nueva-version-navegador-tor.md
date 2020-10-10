@@ -54,7 +54,7 @@ Por tanto, puedes perfectamente descargarlo de la web oficial e instalar en una 
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ El mejor software de seguridad para tu PC en 2020](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
+[▷ El mejor software de seguridad para tu PC en 2021](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
 
 [▷ Cómo mantener tu privacidad en un teléfono Android](https://ciberninjas.com/como-mantener-tu-privacidad-usando-android/)
 

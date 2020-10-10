@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🥇 ▷ Los Mejores Sistemas Operativos de Código Abierto Gratis en 2020"
+title: "🥇 ▷ Los Mejores Sistemas Operativos de Código Abierto Gratis en 2021"
 description: "🔥 Lista de Sistemas Operativos Gratuitos de Código Abierto sustitutos de Windows"
 excerpt: "🔥  Lista de Sistemas Operativos Gratuitos de Código Abierto sustitutos de Windows"
 date: 2019-08-29 00:00:00 +0200

@@ -60,9 +60,9 @@ A diferencia de Deepin Linux, UbuntuDDE no utiliza la tienda de aplicaciones de 
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020](/7-mejores-distribuciones-escritorio-para-principiantes/)
+[🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2021](/7-mejores-distribuciones-escritorio-para-principiantes/)
 
-[🥇 ▷ Los Mejores Sistemas Operativos de Código Abierto Gratis en 2020](/los-mejores-sistemas-operativos-gratis/)
+[🥇 ▷ Los Mejores Sistemas Operativos de Código Abierto Gratis en 2021](/los-mejores-sistemas-operativos-gratis/)
 
 [🥊 Guía de Autodefensa Digital](/eff/autodefensa/)
 
@@ -72,7 +72,7 @@ A diferencia de Deepin Linux, UbuntuDDE no utiliza la tienda de aplicaciones de 
 
 [📲 DahliaOS, un Fork del Sistema Operativo: FuchsiaOS](/dahliaos-un-fork-del-sistema-operativo-fuchsiaos)
 
-[▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/)
+[▷ El mejor software de seguridad para tu PC en 2021 🔐](/el-mejor-software-de-seguridad-para-tu-pc/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

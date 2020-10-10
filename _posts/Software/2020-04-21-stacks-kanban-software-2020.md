@@ -54,4 +54,4 @@ Las listas de verificación, un contador de progreso y el tiempo transcurrido, l
 
 ![💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux](/assets/img/blog/software-stacks.webp "Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux")
 
-> 🔥 Quizás te interese: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
+> 🔥 Quizás te interese: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2021 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)

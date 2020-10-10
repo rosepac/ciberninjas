@@ -3,7 +3,7 @@
 author: rosepac
 bootstrap: true
 comments: false
-title: '▷ El mejor software de seguridad para tu PC en 2020'
+title: '▷ El mejor software de seguridad para tu PC en 2021'
 published: true
 tags:
 - Seguridad

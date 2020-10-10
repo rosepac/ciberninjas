@@ -9,7 +9,7 @@ tags:
 - Hacking
 thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 feature-img: /assets/img/blog/marzo-hacking-wallpaper-pc-so
-title: '🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020'
+title: '🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2021'
 description: >-
   🔥 Lista de Sistemas Operativos Gratuitos para Hacker en 2020
 excerpt: >-
@@ -22,7 +22,7 @@ published: false
 
 ---
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+![Los 11 Mejores Sistemas Operativos para Hacker en 2021](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2021")
 
 <!-- https://lifehacker.ru/ceos-favorite-books/ -->
 

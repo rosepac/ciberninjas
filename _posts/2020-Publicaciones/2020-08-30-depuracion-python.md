@@ -28,7 +28,7 @@ La buena noticia es que no tienes que hacerlo a mano. El ecosistema de Python co
 
 En este artículo, vamos a conocer cinco herramientas reconocidas. Cuatro sirven más concretamente para verificar los estilos de código de Python, más otra que sirve para reformatear el código y lograr que sea consistente.
 
-Los [mejores editores de código de Python](https://ciberninjas.com/mejores-ide-python/) como por ejemplo, el IDE de Python PyCharm o Visual Studio Code ademiten estas herramientas de forma nativa o a través de una extensión, por lo que puedes integrarlas fácilmente en tu flujo de trabajo de desarrollo.
+Los [mejores editores de código de Python](https://ciberninjas.com/mejores-ide-python/ "Los 11 Mejores Editores de Código para Python") como por ejemplo, el IDE de Python PyCharm o Visual Studio Code ademiten estas herramientas de forma nativa o a través de una extensión, por lo que puedes integrarlas fácilmente en tu flujo de trabajo de desarrollo.
 
 - [**Pycodestyle**](#pycodestyle)
 - [**Autopep8**](#autopep8)

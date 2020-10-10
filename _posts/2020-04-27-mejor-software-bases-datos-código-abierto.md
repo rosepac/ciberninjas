@@ -130,4 +130,4 @@ Entre las ventajas, sus controladores incluyen, entre otros, la simplicidad de s
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 <!-- fuente: https://net2.com/best-open-source-database-software/ -->
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+![Los 11 Mejores Sistemas Operativos para Hacker en 2021](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2021")

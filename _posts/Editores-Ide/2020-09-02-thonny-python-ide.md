@@ -56,7 +56,7 @@ Las últimas versiones estables están vinculadas en el cuadro de descarga en la
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
 
-[👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/mejores-ide-python/)
+[👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/mejores-ide-python/ "Los 11 Mejores Editores de Código para Python")
 
 [🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/)
 

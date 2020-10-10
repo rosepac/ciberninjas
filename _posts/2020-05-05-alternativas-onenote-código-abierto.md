@@ -7,7 +7,7 @@ tags:
 - Sistemas Operativos
 - Hacking
 thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
-title: '🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020'
+title: '🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2021'
 description: >-
   🔥 Lista de Sistemas Operativos Gratuitos para Hacker en 2020
 excerpt: >-
@@ -20,7 +20,7 @@ published: false
 
 ---
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+![Los 11 Mejores Sistemas Operativos para Hacker en 2021](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2021")
 <!-- https://www.fosslinux.com/26068/the-5-best-onenote-alternatives-for-linux.htm -->
 <!-- CONTENIDO INTRODUCCION -->
 

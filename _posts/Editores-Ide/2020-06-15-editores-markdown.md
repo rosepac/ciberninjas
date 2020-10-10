@@ -8,14 +8,14 @@ tags:
 - Markdown
 thumbnail: /assets/img/blog/editores_negro.webp
 feature-img: /assets/img/blog/editores_negro.webp
-title: '▷ Los 8 mejores editores de Markdown y conociendo más el lenguaje de marcado ligero más importante'
+title: '▷ Qué es Markdown y los 8 Mejores Editores de Markdown 2021'
 description: >-
   Los mejores editores de texto, notas y creación de diarios con los que de editar publicaciones y redactar tus pensamientos con el lenguaje de Markdown.
 excerpt: >-
   Los mejores editores de texto, notas y creación de diarios con los que de editar publicaciones y redactar tus pensamientos con el lenguaje de Markdown.
 canonical_URL: https://ciberninjas.com/editores-markdown/
 permalink: /editores-markdown/
-date: 2020-09-02 05:32:32
+date: 2020-10-09 05:32:32
 last_modified_at: 
 published: true
 

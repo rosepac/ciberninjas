@@ -218,9 +218,9 @@ Finalmente, System76 ha agregado una forma simple de actualizar el firmware, alg
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020](/7-mejores-distribuciones-escritorio-para-principiantes/)
+[🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2021](/7-mejores-distribuciones-escritorio-para-principiantes/)
 
-[🥇 ▷ Los Mejores Sistemas Operativos de Código Abierto Gratis en 2020](/los-mejores-sistemas-operativos-gratis/)
+[🥇 ▷ Los Mejores Sistemas Operativos de Código Abierto Gratis en 2021](/los-mejores-sistemas-operativos-gratis/)
 
 [🥊 Guía de Autodefensa Digital](/eff/autodefensa/)
 
@@ -230,7 +230,7 @@ Finalmente, System76 ha agregado una forma simple de actualizar el firmware, alg
 
 [📲 DahliaOS, un Fork del Sistema Operativo: FuchsiaOS](/dahliaos-un-fork-del-sistema-operativo-fuchsiaos)
 
-[▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/)
+[▷ El mejor software de seguridad para tu PC en 2021 🔐](/el-mejor-software-de-seguridad-para-tu-pc/)
 
 [▷ Editores de Texto](/categoria/#editor-de-texto)
   * [Eclipse Theia](/wiki/eclipse-theia)

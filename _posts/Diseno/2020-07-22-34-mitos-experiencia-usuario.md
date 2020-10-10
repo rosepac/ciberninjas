@@ -313,13 +313,13 @@ Los iconos sin etiquetas de texto son difícil de entender, gestos no estándar 
 
 [▷ Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
-[▷ 11 Mejores editores de código PHP](https://ciberninjas.com/mejores-editores-php/)
+[▷ 11 Mejores Editores de Código PHP 2021](https://ciberninjas.com/mejores-editores-php/ "Los 11 Mejores Editores de Código PHP 2021")
 
-[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
+[▷ 11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/ "Los 11 Mejores Editores de Código para Python")
 
-[▷ Codelobster IDE: Editor de PHP, HTML, CSS](https://ciberninjas.com/codelobster-editor-php/)
+[▷ Codelobster IDE: Editor de PHP, HTML, CSS](https://ciberninjas.com/codelobster-editor-php/ "Codelobster, un perfecto IDE PHP")
 
-[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
+[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/ "Qué es Markdown y sus 7 mejores editores de texto")
 
 [▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/)
 

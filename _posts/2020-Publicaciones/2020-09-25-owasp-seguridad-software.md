@@ -45,7 +45,7 @@ Grandes empresas como por ejemplo; Black Hat, Atlassian, PWC, Tala, CA Technolog
 
 [▷ Tor 10: Nueva versión del navegador TOR seguro](https://ciberninjas.com/navegador-tor-10/ "Tor 10: Nueva versión del navegador TOR seguro")
 
-[▷ El mejor software de seguridad para tu PC en 2020](https://ciberninjas.com/el-mejor-software-seguridad-2020/ "El mejor software de seguridad para tu PC en 2020")
+[▷ El mejor software de seguridad para tu PC en 2021](https://ciberninjas.com/el-mejor-software-seguridad-2020/ "El mejor software de seguridad para tu PC en 2021")
 
 [▷ Cómo mantener tu privacidad en un teléfono Android](https://ciberninjas.com/como-mantener-tu-privacidad-usando-android/ "Cómo mantener tu privacidad en un teléfono Android")
 

@@ -54,12 +54,12 @@ Los beneficios de Gitpod son:
 
 [Conoce más sobre Eclipse Theia](https://ciberninjas.com/wiki/eclipse-theia/)
 
-[▷ 11 Mejores editores de código PHP](https://ciberninjas.com/mejores-editores-php/)
+[▷ 11 Mejores Editores de Código PHP 2021](https://ciberninjas.com/mejores-editores-php/ "Los 11 Mejores Editores de Código PHP 2021")
 
-[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
+[▷ 11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/ "Los 11 Mejores Editores de Código para Python")
 
-[▷ Codelobster IDE: Editor de PHP, HTML, CSS](https://ciberninjas.com/codelobster-editor-php/)
+[▷ Codelobster IDE: Editor de PHP, HTML, CSS](https://ciberninjas.com/codelobster-editor-php/ "Codelobster, un perfecto IDE PHP")
 
-[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
+[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/ "Qué es Markdown y sus 7 mejores editores de texto")
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

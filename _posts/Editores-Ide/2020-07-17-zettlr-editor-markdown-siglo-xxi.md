@@ -21,7 +21,7 @@ published: true
 
 ---
 
-En Ciberninjas nos encanta implementar y fomentar el uso de Markdown. Por ello, con anterioridad ya hemos visto [qué es Markdown](https://ciberninjas.com/editores-markdown/) y algunos de [los mejores editores Markdown](https://ciberninjas.com/editores-markdown/) además de haber repasado las características de [los mejores editores de texto](https://ciberninjas.com/mejores-editores-texto/) entre los que también puedes encontrar grandes aplicaciones con las que trabajar usando el lenguaje de marcado ligero: Markdown.
+En Ciberninjas nos encanta implementar y fomentar el uso de Markdown. Por ello, con anterioridad ya hemos visto [qué es Markdown](https://ciberninjas.com/editores-markdown/ "Qué es Markdown y sus 7 mejores editores de texto") y algunos de [los mejores editores Markdown](https://ciberninjas.com/editores-markdown/ "Qué es Markdown y sus 7 mejores editores de texto") además de haber repasado las características de [los mejores editores de texto](https://ciberninjas.com/mejores-editores-texto/) entre los que también puedes encontrar grandes aplicaciones con las que trabajar usando el lenguaje de marcado ligero: Markdown.
 
 Hoy, vamos a hechar un vistado a un nuevo editor, denominado Zettlr.
 
@@ -78,11 +78,11 @@ Es tan fácil como crear un nuevo proyecto y comenzar a crear. Zettlr nunca se i
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
+[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/ "Qué es Markdown y sus 7 mejores editores de texto")
 
 [▷ Los Mejores EDITORES de TEXTO para programar en 2021 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
-[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
+[▷ 11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/ "Los 11 Mejores Editores de Código para Python")
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

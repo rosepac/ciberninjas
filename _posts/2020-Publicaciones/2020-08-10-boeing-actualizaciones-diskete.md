@@ -55,7 +55,7 @@ Visto por última vez en estas páginas sagradas hace un par de años, cuando la
 
 [ ▷ Signal y Citizen, las aplicaciones más populares y seguras](https://ciberninjas.com/aplicaciones-comunicaci%C3%B3n-seguras/)
 
-[ ▷ El mejor software de seguridad para tu PC en 2020](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
+[ ▷ El mejor software de seguridad para tu PC en 2021](https://ciberninjas.com/el-mejor-software-seguridad-2020/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

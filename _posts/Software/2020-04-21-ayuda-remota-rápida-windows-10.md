@@ -56,7 +56,7 @@ Por tanto, ya sabes, a partir de ahora cuando tus padres, familiares o amigos te
 3. Aceptar en Permitir, y listo.
 4. Listo, para que te ofrezcan la ayuda necesaria.
 
-> 🔥 Quizás te interese: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
+> 🔥 Quizás te interese: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2021 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
 {: .notice--danger}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

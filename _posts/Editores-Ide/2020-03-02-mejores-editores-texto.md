@@ -641,7 +641,7 @@ Se han quedado fuera algunos editores, del estilo de por ejemplo: NetBeans, Xcod
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ 11 Mejores editores de código PHP y entornos de desarrollo 2021](https://ciberninjas.com/mejores-editores-php/ "Los 11 mejores editores de texto para PHP")
+[▷ 11 Mejores Editores de Código PHP 2021 y entornos de desarrollo 2021](https://ciberninjas.com/mejores-editores-php/ "Los 11 mejores editores de texto para PHP")
 
 [▷ Los Mejores Editores de Texto para Programar en Python 2021](https://ciberninjas.com/mejores-ide-python/ "Los mejores editores de texto para programar en Python")
 

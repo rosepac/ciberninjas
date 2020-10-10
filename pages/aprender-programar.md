@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🥇 ▷ Cómo APRENDER PROGRAMACIÓN desde Cero 2020"
+title: "🥇 ▷ Cómo APRENDER PROGRAMACIÓN desde Cero 2021"
 description: "🔥 Los mejores consejos, libros y recursos recomendados para programadores, diseñadores y desarrolladores web"
 excerpt: "🔥 Los mejores consejos, libros y recursos recomendados para programadores, diseñadores y desarrolladores web"
 order: 1
@@ -9,7 +9,7 @@ bootstrap: true
 published: true
 comments: false
 hide: true
-date: 2020-02-27
+date: 2020-10-09
 last_modified_at: 
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
@@ -27,25 +27,25 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 > 📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank" rel="nofollow,noreferrer"}<br />
 > 📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
 
-- [Cómo aprender a programar código](#cómo-aprender-a-programar-código)
-- [¿En qué campo de la informática trabajar?](#en-qué-campo-de-la-informática-trabajar)
+- [**Cómo aprender a programar código en 2021**](#cómo-aprender-a-programar-código-en-2021)
+- [**¿En qué campo de la informática trabajar?**](#en-qué-campo-de-la-informática-trabajar)
   - [Aprendizaje Automático / Machine Learning](#aprendizaje-automático--machine-learning)
   - [Inteligencia Artificial / Deap Learning](#inteligencia-artificial--deap-learning)
   - [Desarrollador Móvil Web](#desarrollador-móvil-web)
-- [¿Qué lenguaje aprender?](#qué-lenguaje-aprender)
-- [¿Qué lenguajes evitar?](#qué-lenguajes-evitar)
-- [La Programación en la Actualidad](#la-programación-en-la-actualidad)
+- [**¿Qué lenguaje aprender en 2021?**](#qué-lenguaje-aprender-en-2021)
+- [**¿Qué lenguajes evitar en 2021?**](#qué-lenguajes-evitar-en-2021)
+- [**La Programación en la Actualidad 2021**](#la-programación-en-la-actualidad-2021)
   - [¿Cómo iniciar una Startup?](#cómo-iniciar-una-startup)
-- [¿Qué puestos de trabajo existen?](#qué-puestos-de-trabajo-existen)
-- [¿Qué tecnologías y herramientas debo aprender?](#qué-tecnologías-y-herramientas-debo-aprender)
-- [Los Lenguajes Imprescindibles de 2020](#los-lenguajes-imprescindibles-de-2020)
+- [**¿Qué puestos de trabajo existen?**](#qué-puestos-de-trabajo-existen)
+- [**¿Qué tecnologías y herramientas debo aprender?**](#qué-tecnologías-y-herramientas-debo-aprender)
+- [**Los Lenguajes Imprescindibles de 2021**](#los-lenguajes-imprescindibles-de-2021)
   - [Sobre Javascript](#sobre-javascript)
-- [Debemos hablar de WebAssambly](#debemos-hablar-de-webassambly)
-- [Los Lenguajes de Programación más Clásicos](#los-lenguajes-de-programación-más-clásicos)
-- [Otros Lenguajes Populares en la Actualidad](#otros-lenguajes-populares-en-la-actualidad)
+- [**Debemos hablar de WebAssambly**](#debemos-hablar-de-webassambly)
+- [**Los Lenguajes de Programación más Clásicos**](#los-lenguajes-de-programación-más-clásicos)
+- [**Otros Lenguajes Populares en 2020**](#otros-lenguajes-populares-en-2020)
 - [Lenguajes Estándar de los Navegadores](#lenguajes-estándar-de-los-navegadores)
 
-## Cómo aprender a programar código
+## **Cómo aprender a programar código en 2021**
 
 En esta primera sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
 
@@ -66,7 +66,7 @@ En esta primera sección, vamos a intentar realizar un resumen de los pasos que 
 
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-## ¿En qué campo de la informática trabajar?
+## **¿En qué campo de la informática trabajar?**
 
 Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos dde trabajo existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado _machine learning_ o **aprendizaje automático**, **la inteligencia artificial** y el **desarrollo móvil**.
 
@@ -86,7 +86,7 @@ Si bien, lo que deseamos es trabajar en el campo de la inteligencia artificial, 
 
 Partiendo de la base más sólida posible de lógica computación, conjunto a una amplia base matemática (no totalmente indispensable pero si que es recomendable) junto a un buen entendimiento de muchas técnicas de "devops" y el más alto y avanzado nivel exigible del manejo, gestión y manipulación de los datos y las librerías tecnológicas dedicadas a indexar y manejar grandes masas críticas de información.
 
-> **Saber Más**: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> **Saber Más**: [Cómo aprender Python en 2021](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2021 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--primary}
 
 ### Desarrollador Móvil Web
@@ -101,13 +101,14 @@ La tercera opción y quién sabe si pudiese ser la más práctica, sobre todo; q
 
 Javascript, en combinación con HTML y CSS te permite crear aplicaciones que pueden transformarse en apps nativas a través del entorno de desarrollo: Cordova. Otra opción, sería construir con este mismo pack (Javascript, HTML, CSS) para transformar la app posteriormente a nativa mediante el framework .NET de la compañía Microsoft con la herramienta Xamarin.
 
-## ¿Qué lenguaje aprender?
+## **¿Qué lenguaje aprender en 2021?**
 
 Si algo está claro, es que es el tiempo del código. No existen dudas de que es el mejor campo de formación y trabajo en el involucrarse y dedicar todo tu tiempo.
 
-Al decidir qué lenguaje de programación aprender, es importante no quedar atrapado en tendencias llamativas y concursos de popularidad. Los mejores lenguajes de programación para aprender en 2020 son probablemente los mismos que fueron los mejores para aprender en 2017 y 2018, y eso seguirá siendo cierto durante los próximos años.
+Al decidir qué lenguaje de programación aprender, es importante no quedar atrapado en tendencias llamativas y concursos de popularidad. Los mejores lenguajes de programación para aprender en 2021 son probablemente los mismos que fueron los mejores para aprender en 2017 y 2018, y eso seguirá siendo cierto durante los próximos años.
 
 Aunque el campo de la programación de computadoras cambia rápidamente, todos los lenguajes que en esta página citamos tienen mucho poder de permanencia. Al aprender uno o más de estos idiomas, estarás en una posición excelente no solo para este año, sino en los próximos años.
+
 Al comenzar su viaje hacia la programación, solo tú puedes responder la pregunta de cual es el mejor lenguaje de programación para aprender. Realiza tu selección en función de tus intereses y el tipo de desarrollo de software que deseas. Aquí tienes un breve resumen de diferentes posibilidades:
 
 El contenido de este listado es totalmente orientativo, un poco más abajo puedes encontrar más información concreta sobre las tecnologías más utilizadas en cada puesto tecnológico o empleo a desarrollar dentro de una empresa de tecnología 😾
@@ -125,7 +126,7 @@ La buena noticia es que no hay una forma única de aprender a codificar y se hac
 
 Si descubres que un idioma determinado no es una buena opción, no es una causa perdida, puedes utilizar lo que ya has aprendido para aprender el siguiente. Procura aplicar activamente tu conjunto de habilidades y mejorar tus habilidades de codificación, todo lo que necesitas hacer es comenzar desde ya.
 
-## ¿Qué lenguajes evitar?
+## **¿Qué lenguajes evitar en 2021?**
 
 Existen muchos más lenguajes de programación, entre los más populares ahora se encuentran Rust, Go, Scala, Typescript o C ++. No obstante, si estas comenzando a desenvolverte en la creación de software has de considerar que muchos idiomas son avanzados, complejos, conllevan una curva de aprendizaje muy elevada o están enfocados en un solo dominio de aplicación; por lo que requieren un consumo de horas de capacitación, lectura y práctica altísimo, siendo sus ofertas laborales más reducidas. Claro está, todas sus desventajas, tienen sus ventajas; es posible que sean las plazas laborables más y mejor remuneradas.
 
@@ -133,7 +134,7 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-## La Programación en la Actualidad
+## **La Programación en la Actualidad 2021**
 
 Existen miles de publicaciones dispersas sobre las que poder informarse del estado y evolución del mundo de la tecnología y la programación en la actualidad; pero desde aquí vamos a intentar enlazar a los enlaces más interesantes del mundo; desde los que comprobar en que estado se encuentra y hacía donde evoluciona este mundillo.
 
@@ -148,7 +149,7 @@ Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; p
 
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-## ¿Qué puestos de trabajo existen?
+## **¿Qué puestos de trabajo existen?**
 
 Dentro de las profesiones digitales existen un cuantioso número de empleos bien diferenciados; como pueden ser, a saber:
 
@@ -158,7 +159,7 @@ Incluso si deseas formarte para la profesión que realizan los analistas y consu
 
 [👉 Análisis Más Profundo de Las Profesiones Digitales](/profesiones-digitales/){: .btn .btn--warning .btn--large .align-center}
 
-## ¿Qué tecnologías y herramientas debo aprender?
+## **¿Qué tecnologías y herramientas debo aprender?**
 
 Cada puesto de trabajo te exigira que conozcas ciertas herramientas, además de ser capaz de exprimirlas y usarlas lo máximo y mejor posible. Por lo que es totalmente imprescindible que seas conocer de ellas y de su uso hasta el último rincón.
 
@@ -166,9 +167,9 @@ Posteriormente, vamos a realizar una pequeña revisión de las diferentes herram
 
 [👉 Tecnologías por Puesto de Trabajo Profesional](/profesiones-digitales/#qu%C3%A9-tecnolog%C3%ADas-requiere-cada-una-de-las-profesiones){: .btn .btn--warning .btn--large .align-center}
 
-## Los Lenguajes Imprescindibles de 2020
+## **Los Lenguajes Imprescindibles de 2021**
 
-En esta lista encontramos los lenguajes que están más al alza entre los puestos de trabajo más exigidos por las empresas durante el año 2020.
+En esta lista encontramos los lenguajes que están más al alza entre los puestos de trabajo más exigidos por las empresas durante el año 2021.
 
 [▶ Python](/python/){: .btn .btn--inverse .btn--large .align-center}
 
@@ -183,14 +184,14 @@ Si nos encontramos a JavaScript en la parte alta de todas las listas actuales de
 
 Hay más de un factor determinante detrás de esta última tendencia de usar JavaScript en proyectos de código abierto. Desde la aparición de NodeJS los desarrolladores pueden emplear el lenguaje de JS tanto en el Back-End como en el Front-End indistintamente, además se calcula que en la actualidad casi el 95% de los sitios web creados a día de hoy usan JavaScript.
 
-## Debemos hablar de WebAssambly
+## **Debemos hablar de WebAssambly**
 
-Llegados ya a 2020 debemos de citar en este punto: WebAssambly.
+Llegados ya a 2021 debemos de citar en este punto: WebAssambly.
 
 * ¿Por qué? Pues porque se supone que debería de ser de alguna forma la evolución lógica de la web.
 * ¿Qué es WebAssambly? Es un formato de código binario portable capaz de permitir la ejecución íntegra en el navegador de scripts desde el lado del cliente. Con este lenguaje de bajo nivel, se puede compilar código C, C++, Rust o Go.
 
-## Los Lenguajes de Programación más Clásicos
+## **Los Lenguajes de Programación más Clásicos**
 
 Hay numerosos lenguajes de programación que por una u otra razón, siguen usándose de forma máxima como pueden ser el caso de los lenguajes más "antiguos" que siguen en uso dentro de las empresas más importantes, puesto que o bien se considera que su uso favorece la seguridad o porque bien se considera que es demasiado complicado transformar toda la arquitectura ya existente a nuevos lenguajes.
 
@@ -219,7 +220,7 @@ Una lista de algunos de estos lenguajes podría ser:
 
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-## Otros Lenguajes Populares en la Actualidad
+## **Otros Lenguajes Populares en 2020**
 
 Existen además de los lenguajes que ya hemos visto con anterioridad otros muchos que están al alza o siguen siendo utilizados por diferentes y variopintas razones.
 

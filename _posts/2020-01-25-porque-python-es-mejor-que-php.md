@@ -98,7 +98,7 @@ Aunque PHP todavía se encuentra entre los lenguajes más populares, Python est�
 
 [▷ Python vs PHP: Introducción básica a 2 de lenguajes de programación más importantes](https://ciberninjas.com/python-vs-php/)
 
-[▷ 11 Mejores editores de código Python y entornos de desarrollo IDE 2020](https://ciberninjas.com/mejores-ide-python/)
+[▷ 11 Mejores editores de código Python y entornos de desarrollo IDE 2020](https://ciberninjas.com/mejores-ide-python/ "Los 11 Mejores Editores de Código para Python")
 
 [▷ Java vs Python: ¿Cuál es su diferencia?](https://ciberninjas.com/java-vs-python-diferencias/)
 

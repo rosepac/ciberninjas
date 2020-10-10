@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "🥇 ▷ Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻"
+title: "🥇 ▷ Los 14 Mejores Framework de Desarrollo de aplicaciones multiplataforma (web y móvil) 2021"
 author: rosepac
 bootstrap: true
-description: 'Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
-excerpt: 'Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
+description: 'Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2021.'
+excerpt: 'Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2021.'
 published: true
-date: 2020-06-16
+date: 2020-10-09
 last_modified_at: 
 thumbnail: /assets/img/blog/final_sdk_varios.webp
 feature-img: /assets/img/blog/final_sdk_varios.webp
@@ -16,9 +16,9 @@ canonical_URL: https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/
 
 ---
 
-Frameworks de desarrollo más impresionantes de aplicaciones móviles más populares que serán tu mejor herramienta para el resto del 2019 y todo el año nuevo 2020.
+Vamos a repasar, **los mejores frameworks de desarrollo aplicaciones multiplataforma** (móvil y web) y **los framework más populares entre los desarrolladores web** que sin lugar a dudas, van a ser **tu mejor herramienta de trabajo para este 2021**
 
-### Introducción
+## **Introducción al mundo de los framework**
 
 Ha pasado ya algún tiempo desde que ha explotado el mercado de la telefonía móvil y han ido evolucionando las diferentes tecnologías con las que se crean las Apps. En algunos casos más, en otros menos.
 
@@ -31,22 +31,23 @@ Los nuevos frameworks y kits completos de desarrollo o SDK amplian a un extenso 
 Dentro de este proceso, sin lugar a dudas, el paso más importante es el de la elección correcta del framework más indicado, además de ser de vital importancia: la planificación correcta del grupo de nuevas tecnologías, librerías y bases de datos, que más tarde tendrás que hacer funcionar; y todo ello, sin dejar de lado la escalabilidad, un buen rendimiento y un funcionamiento multiplataforma correcto.
 
 Hoy me gustaría ojear y listar los frameworks más importantes, que sin lugar a dudas, ofreceran a todas las empresas de desarrollo la mayor confianza; en el momento de crear sus aplicaciones multiplataforma.
-- [1. **Flutter**](#1-flutter)
-- [2. **Ionic**](#2-ionic)
-- [3. **React Native**](#3-react-native)
-- [4. **Xamarin**](#4-xamarin)
-- [5. **PhoneGap**](#5-phonegap)
-- [6. **Native Script**](#6-native-script)
-- [7. **Appcelerator Titanium**](#7-appcelerator-titanium)
-- [8. **jQuery Móvil**](#8-jquery-móvil)
-- [9. **Móvil Angular UI**](#9-móvil-angular-ui)
-- [10. **Weex**](#10-weex)
-- [11. **Corona SDK**](#11-corona-sdk)
-- [12. **Unity**](#12-unity)
-- [13. **Qt**](#13-qt)
-- [14. **Intel System Studio**](#14-intel-system-studio)
+- [**Introducción al mundo de los framework**](#introducción-al-mundo-de-los-framework)
+- [**1. Flutter**](#1-flutter)
+- [**2. Ionic**](#2-ionic)
+- [**3. React Native**](#3-react-native)
+- [**4. Xamarin**](#4-xamarin)
+- [**5. PhoneGap**](#5-phonegap)
+- [**6. Native Script**](#6-native-script)
+- [**7. Appcelerator Titanium**](#7-appcelerator-titanium)
+- [**8. jQuery Móvil**](#8-jquery-móvil)
+- [**9. Móvil Angular UI**](#9-móvil-angular-ui)
+- [**10. Weex**](#10-weex)
+- [**11. Corona SDK**](#11-corona-sdk)
+- [**12. Unity**](#12-unity)
+- [**13. Qt**](#13-qt)
+- [**14. Intel System Studio**](#14-intel-system-studio)
 
-## 1. **Flutter**
+## **1. Flutter**
 
 Si he decidido colocar a Flutter como el primero en esta lista, es porque supuestamente debe terminar siendo el SDK sobre el que se construya por completo los nuevos dispositivos Android; que dicho sea de paso, sigue siendo por gran mayoría el Sistema Operativo más utilizado en los smartphones y a día de hoy, casi con toda seguridad; el SO más utilizada en todo el mundo.
 
@@ -57,12 +58,12 @@ Si he decidido colocar a Flutter como el primero en esta lista, es porque supues
 
 En la actualidad, apenas se ve la influencia directa de este SDK. Más todos los desarrolladores que deseen enfocarse en Android o trabajar en las oficionas de Google en un futuro. Deben seguir el día a día de su evolución y si son capaces; ponerse al más alto nivel de aprendizaje al respecto.
 
-A lo largo del año 2020, sin lugar a dudas, será el año de un reformulado Android, gracias en gran medida; tanto a Dart como a Flutter, los dos nuevos "juguetes mimados" de Android/Google.
+A lo largo del año 2021, sin lugar a dudas, será el año de la reformulación de Android, gracias en gran medida; tanto a Dart como a Flutter, los dos nuevos "juguetes mimados" de Android/Google.
 
 [👉 Repositorio del Código Flutter](https://kutt.it/repositorioflutter "Código fuente del framework Flutter en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [📖 Documentación de Flutter en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 2. **Ionic**
+## **2. Ionic**
 
 Ionic es bastante popular entre los framework de desarrollo de aplicaciones, probablemente el que más. Ionic es básicamente una red front-end que ayuda a construir aplicaciones móviles nativas con HTML, CSS3 y Javascript.
 
@@ -83,7 +84,7 @@ Debido a su capacidad para construir aplicaciones tanto nativas como multiplataf
 [📖 Conocer Más de Ionic](/ionic-framework/){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 3. **React Native**
+## **3. React Native**
 
 React Native, es sin duda una de las plataformas favoritas entre muchas de las grandes empresas y StartUps, tanto utilizado para construir aplicaciones Android como iOS, el desarrollo React Native permite a los desarrolladores de aplicaciones móviles crear aplicaciones de alto rendimiento en ciclos de desarrollo más cortos y tiempos de implementación más rápidos.
 
@@ -98,7 +99,7 @@ Además, React Native es altamente compatible con complementos de terceros, como
 
 [👉 Repositorio del Código React Native](https://kutt.it/repositorioreactnative "Código fuente del framework React Native en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 4. **Xamarin**
+## **4. Xamarin**
 
 Xamarin es un Framework propiedad de Microsoft que facilita el desarrollo de las aplicaciones multiplataforma, pudiendo poder aprovechar casi en su totalidad el código de una aplicación a otra.
 
@@ -114,7 +115,7 @@ A través de su API te permite generar apps esteticamente similares a las nativa
 [👉 Repositorio del Código Xamarin](https://kutt.it/repositorioxamarin "Código fuente del framework Xamarin en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 5. **PhoneGap**
+## **5. PhoneGap**
 
 El Framework de PhoneGap, en la actualidad comprado por Adobe; con anterioridad conocido por Apache Cordoba por formar parte del universo de desarrollo de la Fundación Apache. Ofrece como su mayor diferenciación el desarrollo de aplicaciones móviles mediante la visualización de sus cambios de forma instantanea.
 
@@ -127,9 +128,9 @@ Además, es totalmente compatible con las funciones integradas del dispositivo, 
 
 [👉 Repositorio del Código PhoneGap](https://kutt.it/repositoriophonegap "Código fuente del framework Phonegap en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 6. **Native Script**
+## **6. Native Script**
 
-Nombrado como el mejor framework de aplicaciones híbridas 2019-2020, Native Scripts está respaldado por una compañía de software búlgara, Telerik. Fue creado originalmente por Progress. Las aplicaciones creadas con Native Scripts usan las mismas API que si estuvieran construidas con Xcode o Android studio.
+Nombrado como el mejor framework de aplicaciones híbridas de 2019/20, Native Scripts está respaldado por una compañía de software búlgara, Telerik. Fue creado originalmente por Progress. Las aplicaciones creadas con Native Scripts usan las mismas API que si estuvieran construidas con Xcode o Android studio.
 
 <figure>
     <a href="/assets/img/sdk_paginas/nativescript_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/nativescript_1.webp"></a>
@@ -141,7 +142,7 @@ El sitio web oficial de Native Scripts proporciona continuamente recursos y tuto
 [👉 Repositorio del Código Native Script](https://kutt.it/repositorionativescript "Código fuente del framework Native Script en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 7. **Appcelerator Titanium**
+## **7. Appcelerator Titanium**
 
 Appcelerator Titanium utiliza una combinación de PhoneGap y Xamarin. Este marco utiliza JavaScript para escribir el código y es compatible con plataformas Android e iOS. Sin embargo, no viene con framework de CSS y HTML ni nada que lo implemente de forma directa.
 
@@ -158,7 +159,7 @@ Appcelerator ofrece varias herramientas para el desarrollo rápido de aplicacion
 
 [👉 Repositorio del Código Appcelerator](https://kutt.it/repositorioappcelerator "Código fuente del framework Appcelerator Titanium en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 8. **jQuery Móvil**
+## **8. jQuery Móvil**
 
 JQuery es un framework HTML5 enfocado en buscar el funcionamiento perfecto dentro de un sitio web o una aplicación movil. Su mayor ventaja radica en el hecho de que con una sola versión de código no solo puede ejecutarse en todos los dispositivos independientemente de su sistema operativo, si no que también; es capaz de ser ejectuado sin problemas en los sistemas operativos Android, iOS, Blackberry, Windows, Kindle e incluso otros menos conocidos; como Nook o MeeGo.
 
@@ -174,7 +175,7 @@ El código escrito con JQuery, en comparación con otros códigos que ofrezcan l
 [👉 Repositorio del Código jQuery Móvil](https://kutt.it/repositoriojquerymovil "Código fuente del framework jQuery Móvil en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 9. **Móvil Angular UI**
+## **9. Móvil Angular UI**
 
 Móvil Angular es un framework de código abierto que ayuda a desarrollar algunas de las aplicaciones más importantes de Internet; al ser compatible con varios navegadores, Mobile Angular UI maneja automáticamente el código JavaScript adecuado para cada navegador.
 
@@ -189,7 +190,7 @@ Especialmente indicado para los desarrolladores que prefieran Angular y Boostrap
 
 [👉 Repositorio del Código Angular UI](https://kutt.it/repositorioangularui "Código fuente del framework Angular UI en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 10. **Weex**
+## **10. Weex**
 
 Weex es un framework que permite a los desarrolladores utilizar habilidades modernas de desarrollo web para crear aplicaciones de Android, iOS y web con una única base de código. En la práctica, puede usar JavaScript con marcos front-end modernos para desarrollar aplicaciones móviles.
 
@@ -207,7 +208,7 @@ Weex nos ofrece toda una aplicación de prácticas y código, denominada [Playgr
 [👉 Repositorio del Código Weex](https://kutt.it/repositorioweex "Código fuente del framework Weex en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 11. **Corona SDK**
+## **11. Corona SDK**
 
 Corona SDK ayuda a los desarrolladores a crear una sola base de código que funciona increíblemente bien con Android e iOS, se dice que es capaz de proporcionar un desarrollo 10 veces más rápido que cualquier otro framework; esto es debido a que su back-end es compatible con el lenguaje de programación Lua; un lenguaje altamente ligero que se enfoca en ser veloz, flexible y fácil de usar.
 
@@ -222,7 +223,7 @@ Utilizando sus características, Corona SDK es altamente capaz de incluir intera
 
 [👉 Repositorio del Código Corona SDK](https://kutt.it/repositoriocorona "Código fuente del SDK Corona en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 12. **Unity**
+## **12. Unity**
 
 Unity y Unity 3D, es uno de los repositorios más importantes enfocado en la creación de los videojuegos.
 
@@ -238,7 +239,7 @@ He considerado incluirlo aquí, como esponsor de los SDK enfocados a la creació
 [👉 Repositorio del Código Unity](https://kutt.it/unitydescarga "Código fuente del SDK Unity en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 13. **Qt**
+## **13. Qt**
 
 Qt es un framework de desarrollo multiplataforma que nos permite la creación de aplicaciones con múltiples lenguajes de programación; Python, C++, Qt QML, R o GO a través de su herramienta propia: Qt Creator.
 
@@ -255,7 +256,7 @@ Entre otras: Una consolidada API de ubicación, acceso a sensores a través de h
 
 [👉 Repositorio del Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 14. **Intel System Studio**
+## **14. Intel System Studio**
 <figure>
     <a href="/assets/img/sdk_paginas/intel_sdk_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/intel_sdk_1.webp"></a>
     <figcaption>Intel XDK, visto en Ciberninjas</figcaption>
