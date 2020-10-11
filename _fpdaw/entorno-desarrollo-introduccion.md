@@ -167,7 +167,7 @@ En toda la unidad didáctica complementamos el estudio de los diferentes diagram
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ Hoja de ruta de desarrollo de aplicaciones web (DAW)](recursos-daw/)
+[🥇 ▷ Hoja de ruta de desarrollo de aplicaciones web (DAW)](../../recursos-daw/)
 
 > 👷‍♂️ 💪 SEGUIMOS EN CONSTRUCCIÓN 💪 👷‍♂️
 
