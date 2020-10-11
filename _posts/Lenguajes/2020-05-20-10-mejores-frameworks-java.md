@@ -44,17 +44,14 @@ published: true
 Si recién comienzas a programar con Java, puedes oje [la guía para principiantes sobre Java](/java/ "La mejor guía del mundo para principiantes de Java") que te guiará a través de **todos los conceptos más importantes de Java** que necesitas conocer, si pronto quierse comenzar a utilizar cualquier de los frameworks Java.
 
 Java es un lenguaje robusto y **combinado con un framework Java, puede proporcionar las mejores soluciones para cualquier campo tecnológico**, ya bien sea; un comercio electrónico, la computación en la nube, el mundo de las finanzas, el big data, el mercado de valores, las TI o cualquier otro.
-<span><a name="menu"></span>
 
 **Los 10 mejores frameworks de Java**
 
-Aunque hay muchos frameworks construidos en Java, aquí hay algunos frameworks de los más utilizados entre los diferentes tipos:
-
-- Aplicaciones web, aplicaciones de red, registro, pruebas, ORM, etc.
+Aunque hay muchos frameworks construidos en Java, aquí hay algunos frameworks de los más utilizados entre los diferentes tipos: Aplicaciones web, aplicaciones de red, registro, pruebas, ORM, etc.
 
 Ten en cuenta que cada uno de estos tiene sus propios beneficios y puede funcionar mejor para diferentes usos comerciales, casos de uso, y no se puede decir cuál es mejor, porque todos son buenos en diferentes escenarios.
 
-> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) 
+<span><a name="menu"></span>
 
 - [**1. Spring**](#1-spring)
 - [**2. Struts**](#2-struts)
@@ -65,7 +62,7 @@ Ten en cuenta que cada uno de estos tiene sus propios beneficios y puede funcion
 - [**7. Grails**](#7-grails)
 - [**8. ATG**](#8-atg)
 - [**9. Play**](#9-play)
-- [**10.*Apache Hadoop**](#10apache-hadoop)
+- [**10.Apache Hadoop**](#10apache-hadoop)
 - [**11. GWT**](#11-gwt)
 - [**12. Vaadin**](#12-vaadin)
 - [**13. Spark**](#13-spark)
@@ -76,10 +73,11 @@ Ten en cuenta que cada uno de estos tiene sus propios beneficios y puede funcion
 - [**18. OSGI**](#18-osgi)
 - [**19. Drools**](#19-drools)
 - [**20. MyBatis**](#20-mybatis)
-- [**21. **Apache Mina**](#21-apache-mina)
-- [¿Qué son los frameworks de Java?](#qué-son-los-frameworks-de-java)
+- [**21. Apache Mina**](#21-apache-mina)
+- [**¿Qué son los frameworks de Java?**](#qué-son-los-frameworks-de-java)
 - [**¿Por qué usar un framework Java?**](#por-qué-usar-un-framework-java)
-  - [Conclusión](#conclusión)
+
+> 🔥 Quizás también te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 
 ## **1. Spring**
 
@@ -99,8 +97,8 @@ Con todo configurado, su código será limpio y fácil de comprender.
 - Beans y Spring Context: en Spring, los objetos se denominan beans y hay un BeanFactory que gestiona y configura estos beans. Puedes pensar en beanfactory como un contenedor que crea instancias, configura y administra las beans. La mayoría de las aplicaciones usan xml (beans.xml) para la configuración. ApplicationContext, que utiliza un superconjunto de BeanFactory para aplicaciones más complejas que necesitan propagación de eventos, mecanismos declarativos e integración con características orientadas a aspectos de Spring.
 - Puedes leer sobre algunos [conceptos](https://ashismo.github.io/java-java/j2ee popular topics/2015/05/22/Important-Concepts-of-the-Spring-Framework){:target="_blank" rel="nofollow noreferrer"} más importantes de [Spring](https://ashismo.github.io/java-java/j2ee popular topics/2015/05/22/Important-Concepts-of-the-Spring-Framework){:target="_blank" rel="nofollow noreferrer"}.
 
-[💻 Framework Spring](https://spring.io/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Spring Framework](https://docs.spring.io/spring/docs/current/spring-framework-reference/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Spring](https://spring.io/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Spring Framework](https://docs.spring.io/spring/docs/current/spring-framework-reference/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **2. Struts**
@@ -121,8 +119,8 @@ La vista es mantenida por un rico conjunto de bibliotecas de etiquetas.
 
 Los puntales son fáciles de configurar y proporcionan mucha más flexibilidad y extensibilidad sobre el enfoque tradicional de MVC utilizando servlets y JSP solo; puede ser un buen punto de partida para su carrera como desarrollador web.
 
-[💻 Framework Struts](https://struts.apache.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Struts Framework](https://struts.apache.org/getting-started/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Struts](https://struts.apache.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Struts Framework](https://struts.apache.org/getting-started/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -141,8 +139,8 @@ Hibernate resuelve los dos problemas principales con JDBC: JDBC no admite la rel
 
 Hibernate proporciona una capa de abstracción para que el código se acople libremente con la base de datos. Cosas como establecer una conexión de base de datos, Hibernate se encarga de realizar operaciones CRUD, por lo que los desarrolladores no necesitan implementar eso, por lo tanto, hacen que el código sea independiente de la base de datos utilizada.
 
-[💻 Framework Hibernate](https://hibernate.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Hibernate Framework](https://hibernate.org/orm/documentation/5.3/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Hibernate](https://hibernate.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Hibernate Framework](https://hibernate.org/orm/documentation/5.3/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **4. Apache Wicket**
@@ -151,12 +149,14 @@ Hibernate proporciona una capa de abstracción para que el código se acople lib
 
 Si ya ha trabajado con JSP, el wicket de aprendizaje será un juego de niños. Wicket, un framework de aplicaciones web simple, tiene una estructura orientada a componentes y todo lo que necesita saber es Java y HTML. ¡Absolutamente ningún XML o archivos de configuración!
 
-La característica principal de Wicket es su modelo POJO en el que los componentes son objetos Java simples (simples) que tienen características OOP. Estos componentes se agrupan como paquetes reutilizables con imágenes, botones, formularios, enlaces, páginas, contenedores, comportamientos y más para que los desarrolladores puedan personalizarlos.
+La característica principal de Wicket es su modelo POJO en el que los componentes son objetos Java simples (simples) que tienen características OOP.
+
+Estos componentes se agrupan como paquetes reutilizables con imágenes, botones, formularios, enlaces, páginas, contenedores, comportamientos y más para que los desarrolladores puedan personalizarlos.
 
 Wicket es liviano y puedes crear aplicaciones realmente rápido. También es fácil unir el código de prueba escrito en Wicket.
 
-[💻 Framework Apache Wicket](https://wicket.apache.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Apache Wicket Framework](https://wicket.apache.org/learn/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Apache Wicket](https://wicket.apache.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Apache Wicket Framework](https://wicket.apache.org/learn/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -167,14 +167,14 @@ Wicket es liviano y puedes crear aplicaciones realmente rápido. También es fá
 
 No confunda JSF con JSP, que es solo un documento de texto que puede tener contenido estático y dinámico. Oracle desarrolla JSF como parte de Java Enterprise Edition 7.
 
-Es un framework MVC basado en componentes y tiene componentes de IU reutilizables para aplicaciones basadas en servidor. La idea principal es encapsular varias tecnologías del lado del cliente como CSS, JavaScript y HTML que permitirán a los desarrolladores crear interfaces de usuario sin conocer en profundidad ninguna de estas tecnologías. Simplemente pueden arrastrar y soltar componentes de la interfaz de usuario y centrarse más en los detalles de la capa de presentación.
+Es un framework MVC basado en componentes y tiene componentes de IU reutilizables para aplicaciones basadas en servidor. La idea principal es encapsular varias tecnologías del lado del cliente como CSS, JavaScript y HTML que permitirán a los desarrolladores crear interfaces de usuario sin conocer en profundidad ninguna de estas tecnologías.
 
-El sistema de plantillas predeterminado en JSF es FaceLets. JSF suficientemente similar a Struts.
+Simplemente pueden arrastrar y soltar componentes de la interfaz de usuario y centrarse más en los detalles de la capa de presentación. El sistema de plantillas predeterminado en JSF es FaceLets. JSF suficientemente similar a Struts.
 
 JSF se puede integrar sin problemas con componentes habilitados para AJAX para enriquecer la experiencia del usuario al agregar eventos Ajax para validaciones e invocaciones de métodos.
 
-[💻 Framework Java Server Faces](http://www.javaserverfaces.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Java Server Faces Framework](http://www.javaserverfaces.org/documentation){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Java Server Faces](http://www.javaserverfaces.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Java Server Faces Framework](http://www.javaserverfaces.org/documentation){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **6. Dropwizard**
@@ -189,8 +189,8 @@ Dado que hay bibliotecas integradas para todas las configuraciones, tareas de se
 
 Dropwizard es un framework de código abierto que se incluye con las bibliotecas y puede configurarlo fácilmente con Eclipse IDE y crear un proyecto simple para aprender (¡Créame, puede aprender Dropwizard por su cuenta!). El tutorial básico del sitio web de Dropwizard te ayudará en cada paso.
 
-[💻 Framework Dropwizard](https://www.dropwizard.io/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Dropwizard Framework](https://javadoc.io/doc/io.dropwizard/dropwizard-project/latest/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Dropwizard](https://www.dropwizard.io/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Dropwizard Framework](https://javadoc.io/doc/io.dropwizard/dropwizard-project/latest/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -209,15 +209,17 @@ Aquí viene la mejor parte: puede integrar su código java existente con Grails.
 
 La mejor manera de aprender Grails es configurar su propio entorno de desarrollo utilizando cualquier IDE de Java como Eclipse, NetBeans, etc. y seguir cualquiera de estos tutoriales para crear su primera aplicación web.
 
-[💻 Framework Grails](https://grails.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Grails Framework](https://grails.org/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Grails](https://grails.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Grails Framework](https://grails.org/documentation.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **8. ATG**
 
 ![Logotipo oficial del framework Java: ATG](/assets/img/framework-java/atg.webp "Logotipo oficial del framework Java: ATG")
 
-ATG es una plataforma de comercio web escrita en Java. Es un framework personalizable y configurable, particularmente útil para sitios web relacionados con el comercio electrónico. El producto es propiedad de Oracle y admite aplicaciones B2B y B2C que son complejas y enormes. Sin embargo, para aplicaciones a pequeña escala, podría ser costoso. Si está entrando en el desarrollo de sitios web de comercio electrónico, ATG es un buen framework para aprender y enriquecerá su conocimiento técnico y de dominio.
+ATG es una plataforma de comercio web escrita en Java. Es un framework personalizable y configurable, particularmente útil para sitios web relacionados con el comercio electrónico. El producto es propiedad de Oracle y admite aplicaciones B2B y B2C que son complejas y enormes.
+
+Sin embargo, para aplicaciones a pequeña escala, podría ser costoso. Si está entrando en el desarrollo de sitios web de comercio electrónico, ATG es un buen framework para aprender y enriquecerá su conocimiento técnico y de dominio.
 
 La plataforma ATG puede ejecutarse en tres servidores: Oracle Weblogic, IBM Websphere y JBoss.
 
@@ -229,8 +231,8 @@ Hay 3 capas principales en el framework:
 
 ATG es un framework extenso y necesita tiempo y paciencia para aprenderlo. Varias grandes empresas como Walmart, Macy's, BestBuy, ASDA y más tienen su sitio web basado en ATG.
 
-[💻 Framework ATG](https://docs.oracle.com/cd/E24152_01/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación ATG Framework](https://docs.oracle.com/cd/E24152_01/Platform.10-1/ATGMultiApp/html/s0102abouttheoracleatgwebcommerceplat01.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework ATG](https://docs.oracle.com/cd/E24152_01/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación ATG Framework](https://docs.oracle.com/cd/E24152_01/Platform.10-1/ATGMultiApp/html/s0102abouttheoracleatgwebcommerceplat01.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -252,11 +254,11 @@ Algunas características de Play son:
 - Con Play2, se ha lanzado un nuevo y poderoso sistema de compilación sbt que facilita la integración con los proyectos de Maven, así como la creación de archivos JAR simples.
 - Se incorporan amplias bibliotecas de acceso a bases de datos relacionales para funcionalidades comunes.
 
-[💻 Framework Play](https://www.playframework.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Play Framework](https://www.playframework.com/documentation/2.8.x/Home){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Play](https://www.playframework.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Play Framework](https://www.playframework.com/documentation/2.8.x/Home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-## **10.*Apache Hadoop**
+## **10.Apache Hadoop**
 
 ![Logotipo oficial del framework Java: Apache Hadoop](/assets/img/framework-java/apache-hadoop.webp "Logotipo oficial del framework Java: Apache Hadoop")
 
@@ -264,14 +266,14 @@ Aunque Apache Hadoop no es un framework completo, proporciona un framework de so
 
 He incluido a Hadoop en esta lista porque es la 'cosa' de hoy con el Big Data ganando protagonismo.
 
-Hadoop ayuda en el almacenamiento y procesamiento de datos distribuidos utilizando el patrón de diseño maestro esclavo. La capa Hadoop HDFS (Sistema de archivos distribuidos de Hadoop) del nodo maestro (concretamente NameNode) tiene el nodo de datos. La capa MapReduce tiene el JobTracker y el tasktracker. Los nodos esclavos tienen el nodo Datos y el TaskTracker respectivamente.
+Hadoop ayuda en el almacenamiento y procesamiento de datos distribuidos utilizando el patrón de diseño maestro esclavo. La capa Hadoop HDFS (Sistema de archivos distribuidos de Hadoop) del nodo maestro (concretamente NameNode) tiene el nodo de datos.
 
-HDFS divide los archivos en un conjunto de bloques y estos se replican en todo el clúster.
+La capa MapReduce tiene el JobTracker y el tasktracker. Los nodos esclavos tienen el nodo Datos y el TaskTracker respectivamente. HDFS divide los archivos en un conjunto de bloques y estos se replican en todo el clúster.
 
 Si desea familiarizarse con Big Data y Data Science, Hadoop es su lugar para comenzar.
 
-[💻 Framework Apache Hadoop](https://hadoop.apache.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Apache Hadoop Framework](https://hadoop.apache.org/docs/r2.10.0/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Apache Hadoop](https://hadoop.apache.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Apache Hadoop Framework](https://hadoop.apache.org/docs/r2.10.0/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -282,24 +284,36 @@ Si desea familiarizarse con Big Data y Data Science, Hadoop es su lugar para com
 
 ![Logotipo oficial del framework Java: GWT](/assets/img/framework-java/gwt.webp "Logotipo oficial del framework Java: GWT")
 
-Google Web Toolkit (GWT) es un framework obviamente creado por Google para crear aplicaciones ricas de Internet en Java. Una de las mejores características de GWT es que convierte el código Java en código JavaScript, que también es un código personalizado basado en el navegador. Personalmente, me gusta esta característica porque, durante el desarrollo, solíamos dedicar mucho tiempo y esfuerzo a las pruebas del navegador antes. Con este conjunto de herramientas de código abierto, podemos escribir aplicaciones web de alto rendimiento en menos tiempo. Si ya tiene una base de código, puede integrarla fácilmente con GWT porque GWT también es compatible con Eclipse IDE, Maven y Junit. El framework también proporciona amplias bibliotecas de widgets que pueden realizar la mayoría de las tareas, lo que facilita que incluso un principiante en Java desarrolle lógica empresarial sin preocuparse demasiado por las cosas básicas.
+Google Web Toolkit (GWT) es un framework obviamente creado por Google para crear aplicaciones ricas de Internet en Java. Una de las mejores características de GWT es que convierte el código Java en código JavaScript, que también es un código personalizado basado en el navegador.
 
-[💻 Framework GWT](http://www.gwtproject.org/gettingstarted.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación GWT Framework](http://www.gwtproject.org/doc/latest/DevGuide.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+Personalmente, me gusta esta característica porque, durante el desarrollo, solíamos dedicar mucho tiempo y esfuerzo a las pruebas del navegador antes. Con este conjunto de herramientas de código abierto, podemos escribir aplicaciones web de alto rendimiento en menos tiempo.
+
+Si ya tiene una base de código, puede integrarla fácilmente con GWT porque GWT también es compatible con Eclipse IDE, Maven y Junit. El framework también proporciona amplias bibliotecas de widgets que pueden realizar la mayoría de las tareas, lo que facilita que incluso un principiante en Java desarrolle lógica empresarial sin preocuparse demasiado por las cosas básicas.
+
+[💻 Framework GWT](http://www.gwtproject.org/gettingstarted.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación GWT Framework](http://www.gwtproject.org/doc/latest/DevGuide.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **12. Vaadin**
 
 ![Logotipo oficial del framework Java: Vaadin](/assets/img/framework-java/.webp "Logotipo oficial del framework Java: Vaadin")
 
-Vaadin es un producto emblemático y también una plataforma donde los desarrolladores pueden hacer la implementación de la interfaz de usuario web HTML5 utilizando Java. Es una plataforma de código abierto que incluye el framework web Java y un conjunto de componentes web junto con herramientas y arrancadores de aplicaciones. Estos componentes web forman el núcleo de Vaadin y se pueden personalizar para obtener un código versátil y de alto rendimiento para aplicaciones móviles y de escritorio.
+Vaadin es un producto emblemático y también una plataforma donde los desarrolladores pueden hacer la implementación de la interfaz de usuario web HTML5 utilizando Java.
 
-El flujo de Vaadin es la parte real del framework de Java de la plataforma Vaadin que se encarga de la comunicación cliente-servidor, así como del enrutamiento. Con Vaadin flow, puede escribir su aplicación web completamente en Java sin la molestia de JS o CSS. Los componentes de la interfaz de usuario se ocupan de las actividades del navegador del usuario mediante la comunicación automatizada hacia y hacia el navegador y el servidor. Puede integrar fácilmente los componentes de Vaadin en cualquier IDE que esté utilizando, además es un framework multiplataforma, por lo que no debe preocuparse por migrar el código a una plataforma diferente.
+Es una plataforma de código abierto que incluye el framework web Java y un conjunto de componentes web junto con herramientas y arrancadores de aplicaciones. Estos componentes web forman el núcleo de Vaadin y se pueden personalizar para obtener un código versátil y de alto rendimiento para aplicaciones móviles y de escritorio.
 
-Es un enfoque completamente nuevo para crear aplicaciones Java para que pueda concentrarse solo en la capa de presentación sin preocuparse por las comunicaciones cliente-servidor. También tiene una API de enlace de datos que asigna componentes de IU a la base de datos usando código Java de tipo seguro y capas de abstracción para que pueda construir componentes reutilizables en la IU usando plantillas HTML y Java.
+El flujo de Vaadin es la parte real del framework de Java de la plataforma Vaadin que se encarga de la comunicación cliente-servidor, así como del enrutamiento.
 
-[💻 Framework Vaadin](https://vaadin.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Vaadin Framework](https://vaadin.com/docs){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+Con Vaadin flow, puede escribir su aplicación web completamente en Java sin la molestia de JS o CSS. Los componentes de la interfaz de usuario se ocupan de las actividades del navegador del usuario mediante la comunicación automatizada hacia y hacia el navegador y el servidor.
+
+Puede integrar fácilmente los componentes de Vaadin en cualquier IDE que esté utilizando, además es un framework multiplataforma, por lo que no debe preocuparse por migrar el código a una plataforma diferente.
+
+Es un enfoque completamente nuevo para crear aplicaciones Java para que pueda concentrarse solo en la capa de presentación sin preocuparse por las comunicaciones cliente-servidor.
+
+También tiene una API de enlace de datos que asigna componentes de IU a la base de datos usando código Java de tipo seguro y capas de abstracción para que pueda construir componentes reutilizables en la IU usando plantillas HTML y Java.
+
+[💻 Framework Vaadin](https://vaadin.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Vaadin Framework](https://vaadin.com/docs){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -316,8 +330,8 @@ También es fácil de integrar con Scala y R, que son lenguajes de programación
 
 No piense que Spark puede reemplazar a Hadoop, puede ser una extensión de las características que ofrece Hadoop, aprender estos dos frameworks le dará una ventaja sobre los demás si está entrando en el campo de Data Science.
 
-[💻 Framework Spark](https://spark.apache.org/downloads.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Spark Framework](https://spark.apache.org/docs/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Spark](https://spark.apache.org/downloads.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Spark Framework](https://spark.apache.org/docs/latest/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **14. OpenXava**
@@ -328,8 +342,8 @@ Una plataforma de código bajo para desarrollar aplicaciones web de manera rápi
 
 La estructura y la filosofía de OpenXava siguen una arquitectura de componentes comerciales en oposición a la arquitectura tradicional de MVC. Aquí todo es un concepto de negocio y todos los artefactos que contribuyen a un determinado concepto de negocio están en el mismo lugar, ya sea la Vista, Modelo o Controlador asociado.
 
-[💻 Framework OpenXava](https://www.openxava.org/OpenXavaDoc/docs/getting-started_en.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación OpenXava Framework](https://www.openxava.org/OpenXavaDoc/docs/philosophy_en.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework OpenXava](https://www.openxava.org/OpenXavaDoc/docs/getting-started_en.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación OpenXava Framework](https://www.openxava.org/OpenXavaDoc/docs/philosophy_en.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -347,8 +361,8 @@ Se puede decir que Vert.x es más un kit de herramientas que proporciona API en 
 
 Lo mejor de Vert.x es su naturaleza sin bloqueo que hace que las aplicaciones web tengan un alto rendimiento. El framework se puede utilizar para cualquier aplicación, pequeña, mediana o gran escala. Si ya conoce Node.js, apreciará más Vert.x, ya que tiene todas las características de Node.js más el beneficio de la máquina virtual Java que lo convierte en una combinación potente y robusta.
 
-[💻 Framework Vert.X](https://vertx.io/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Vert.X Framework](https://vertx.io/docs/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Vert.X](https://vertx.io/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Vert.X Framework](https://vertx.io/docs/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **16. Tapestry**
@@ -363,8 +377,8 @@ Algunas de las funciones listas para usar de Tapestry son: carga de archivos, pa
 
 Es fácil integrar el código de Tapestry con frameworks de back-end como Spring, Hibernate, etc. y frameworks de prueba como Selenium.
 
-[💻 Framework Tapestry](https://tapestry.apache.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Tapestry Framework](https://tapestry.apache.org/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Tapestry](https://tapestry.apache.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Tapestry Framework](https://tapestry.apache.org/documentation.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -377,8 +391,8 @@ Una característica llamativa de Jersey, a diferencia de cualquier otro framewor
 
 Jersey también viene con una infraestructura de prueba fácil. Puede escribir pruebas de integración livianas basadas principalmente en Junit. También es fácil integrar las pruebas con el entorno Maven. Todo lo que necesita hacer es agregar la dependencia en su pom.xml.
 
-[💻 Framework Jersey](https://eclipse-ee4j.github.io/jersey/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Jersey Framework](https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Jersey](https://eclipse-ee4j.github.io/jersey/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Jersey Framework](https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **18. OSGI**
@@ -393,8 +407,8 @@ OSGi es principalmente popular debido a su fácil integración con eclipse y pro
 
 OSGi tiene algunos buenos conceptos y beneficios, sin embargo, debido a los paquetes individuales independientes, el control de versiones podría ser un problema. Esta podría ser una gran desventaja de usar este framework sobre otros. Sin embargo, vale la pena invertir algo de tiempo en este framework debido a los beneficios de la modularidad y la carga de clases aisladas que son conceptos importantes para un desarrollador.
 
-[💻 Framework OSGI](https://www.osgi.org/developer/downloads/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación OSGI Framework](https://www.osgi.org/osgi-release-7-javadoc/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework OSGI](https://www.osgi.org/developer/downloads/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación OSGI Framework](https://www.osgi.org/osgi-release-7-javadoc/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -409,8 +423,8 @@ Autoría: creación de archivos de reglas. Tiempo de ejecución: donde ejecutas 
 
 Drools es una opción adecuada para aplicaciones que dependen de muchas condiciones para que suceda alguna acción. Por ejemplo, para verificar si una persona es elegible para actualizar su plan o no, hay ciertas reglas establecidas, por ejemplo, si el cliente existe, el monto de la factura del cliente es mayor que el límite determinado, etc. Estas reglas se pueden definir como una tabla de decisiones en lugar de codificarlas en el código. ¡Cualquier cambio no necesitaría otra compilación, prueba completa o redistribución!
 
-[💻 Framework Drools](http://www.drools.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Drools Framework](https://docs.jboss.org/drools/release/7.0.0.Final/drools-docs/html_single/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Drools](http://www.drools.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Drools Framework](https://docs.jboss.org/drools/release/7.0.0.Final/drools-docs/html_single/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **20. MyBatis**
@@ -423,25 +437,31 @@ En muchos sentidos, MyBatis es mejor que JDBC e Hibernate. MyBatis puede generar
 
 MyBatis es una buena alternativa a Hibernate y JDBC cuando su aplicación no es demasiado compleja y desea características simples, como conectividad de base de datos, gestión de transacciones, carga del controlador de base de datos, gestión y liberación de conexiones, etc. MyBatis también se puede integrar fácilmente con Spring Framework.
 
-[💻 Framework MyBatis](http://www.mybatis.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación MyBatis Framework](https://mybatis.org/mybatis-3/es/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework MyBatis](http://www.mybatis.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación MyBatis Framework](https://mybatis.org/mybatis-3/es/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **21. **Apache Mina**
+## **21. Apache Mina**
 
 ![Logotipo oficial del framework Java: Apache Mina](/assets/img/framework-java/apache-mina.webp "Logotipo oficial del framework Java: Apache Mina")
 
-Apache Mina es un framework de aplicación de red con el cual los desarrolladores pueden crear fácilmente aplicaciones de red altamente escalables y de alto rendimiento. Ya sea que use TCP / IP, UDP, LDAP, NTP, DNS, etc. o un protocolo personalizado, Mina tiene API unificadas para todos los transportes. El framework puede proporcionar API de red de alto y bajo nivel. Mina maneja completamente las operaciones de E / S, ayudando a los desarrolladores a concentrarse completamente en la lógica empresarial y otras necesidades de aplicaciones. Es fácil probar el código escrito con la ayuda de objetos simulados. Puedes aprender fácilmente Mina usando el Eclipse IDE. Se puede integrar con frameworks populares como Spring y PicoContainer, lo que lo convierte en una opción popular para aplicaciones de red.
+Apache Mina es un framework de aplicación de red con el cual los desarrolladores pueden crear fácilmente aplicaciones de red altamente escalables y de alto rendimiento.
+
+Ya sea que use TCP / IP, UDP, LDAP, NTP, DNS, etc. o un protocolo personalizado, Mina tiene API unificadas para todos los transportes. El framework puede proporcionar API de red de alto y bajo nivel.
+
+Mina maneja completamente las operaciones de E / S, ayudando a los desarrolladores a concentrarse completamente en la lógica empresarial y otras necesidades de aplicaciones. Es fácil probar el código escrito con la ayuda de objetos simulados. Puedes aprender fácilmente Mina usando el Eclipse IDE.
+
+Se puede integrar con frameworks populares como Spring y PicoContainer, lo que lo convierte en una opción popular para aplicaciones de red.
 
 MINA es mejor que SOAP y es más estable y confiable. Tiene una rica biblioteca de redes para manejar hilos concurrentes.
 
-[💻 Framework Apache Mina](https://mina.apache.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[📑 Documentación Apache Mina Framework](http://mina.apache.org/mina-project/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Apache Mina](https://mina.apache.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📑 Documentación Apache Mina Framework](http://mina.apache.org/mina-project/documentation.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-## ¿Qué son los frameworks de Java?
+## **¿Qué son los frameworks de Java?**
 
 Un cuerpo de código preescrito que actúa como una plantilla o esqueleto, que un desarrollador puede usar y reutilizar para crear una aplicación completando su código según sea necesario para que la aplicación funcione como se pretende que se denomine Framework.
 
@@ -460,7 +480,7 @@ Los frameworks dan una estructura a sus aplicaciones. Por ejemplo, si tenemos un
 De la misma manera, si existen frameworks para ORM, aplicaciones web, registro, gestión de datos, etc., simplificará la vida de un desarrollador y le ayudará a concentrarse más en la lógica de negocios en lugar de preocuparse por las piezas de código comunes utilizadas en un dominio o aplicación.
 <!-- [CONTENIDO INTRODUCCION](https://hackr.io/blog/java-frameworks) -->
 
-### Conclusión <!-- omit in toc -->
+### **Conclusión** <!-- omit in toc -->
 
 Hay muchos otros frameworks java que no son full-stack o frameworks de desarrollo web, pero son útiles en todas las aplicaciones, como log4j para el registro, Junit y Selenium para las pruebas, etc. Es esencial saber acerca de ellos, aunque puedes aprenderlos sobre la marcha junto con los otros frameworks que has visto en la lista anterior.
 
