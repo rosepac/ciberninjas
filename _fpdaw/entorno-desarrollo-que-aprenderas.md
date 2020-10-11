@@ -20,6 +20,18 @@ published: true
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/recursos-daw/">Recursos DAW</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Entorno Desarrollo Qué Aprenderás</li>
+  </ol>
+</nav>
+</div>
+
+
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-que-aprenderas/">
@@ -51,17 +63,6 @@ published: true
 <img alt="Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones" class="" src="/assets/img/paginas/fp/portada-daw.webp">
 </a>
 </div>
-</div>
-
-<div class="hidden-sm-down">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
-    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-daw/">Recursos DAW</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Entorno Desarrollo Qué Aprenderás</li>
-  </ol>
-</nav>
 </div>
 
 <script type="application/ld+json">

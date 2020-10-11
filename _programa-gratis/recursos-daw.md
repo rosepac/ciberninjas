@@ -63,29 +63,29 @@ Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaci
 Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información de reciente creación.
 
 - [1. **Bases de datos**](#1-bases-de-datos)
-  - [**Libros de texto de bases de datos**](#libros-de-texto-de-bases-de-datos)
+  - [🛒 Libros de texto de bases de datos](#-libros-de-texto-de-bases-de-datos)
 - [2. **Entornos de desarrollo**](#2-entornos-de-desarrollo)
-  - [**Libros de texto de entornos de desarrollo**](#libros-de-texto-de-entornos-de-desarrollo)
+  - [🛒 Libros de texto de entornos de desarrollo](#-libros-de-texto-de-entornos-de-desarrollo)
 - [3. **Formación y orientación laboral**](#3-formación-y-orientación-laboral)
-  - [**Libros de texto de formación y orientación laboral**](#libros-de-texto-de-formación-y-orientación-laboral)
+  - [🛒 Libros de texto de formación y orientación laboral](#-libros-de-texto-de-formación-y-orientación-laboral)
 - [4. **Lenguajes de Marcas y Sistemas de Gestión de Información**](#4-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
-  - [**Libros de texto de lenguajes de marcas y sistemas de gestión de información**](#libros-de-texto-de-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
+  - [🛒 Libros de texto de lenguajes de marcas y sistemas de gestión de información](#-libros-de-texto-de-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
 - [5. **Programación**](#5-programación)
-  - [**Libros de texto de programación**](#libros-de-texto-de-programación)
+  - [🛒 Libros de texto de programación](#-libros-de-texto-de-programación)
 - [6. **Sistemas informáticos**](#6-sistemas-informáticos)
-  - [**Libros de texto de sistemas informáticos**](#libros-de-texto-de-sistemas-informáticos)
+  - [🛒 Libros de texto de sistemas informáticos](#-libros-de-texto-de-sistemas-informáticos)
 - [7. **Diseño de interfaces web**](#7-diseño-de-interfaces-web)
-  - [**Libros de texto de diseño de interfaces web**](#libros-de-texto-de-diseño-de-interfaces-web)
+  - [🛒 Libros de texto de diseño de interfaces web](#-libros-de-texto-de-diseño-de-interfaces-web)
 - [8. **Empresa e iniciativa emprendedora**](#8-empresa-e-iniciativa-emprendedora)
-  - [**Libros de texto de empresa e iniciativa emprendedora**](#libros-de-texto-de-empresa-e-iniciativa-emprendedora)
+  - [🛒 Libros de texto de empresa e iniciativa emprendedora](#-libros-de-texto-de-empresa-e-iniciativa-emprendedora)
 - [9. **Desarrollo web en entorno cliente**](#9-desarrollo-web-en-entorno-cliente)
-  - [**Libros de texto de desarrollo web en entorno cliente**](#libros-de-texto-de-desarrollo-web-en-entorno-cliente)
+  - [🛒 Libros de texto de desarrollo web en entorno cliente](#-libros-de-texto-de-desarrollo-web-en-entorno-cliente)
 - [10. **Desarrollo web en entorno servidor**](#10-desarrollo-web-en-entorno-servidor)
-  - [**Libros de texto de desarrollo web en entorno servidor**](#libros-de-texto-de-desarrollo-web-en-entorno-servidor)
+  - [🛒 Libros de texto de desarrollo web en entorno servidor](#-libros-de-texto-de-desarrollo-web-en-entorno-servidor)
 - [11. **Despliegue de aplicaciones web**](#11-despliegue-de-aplicaciones-web)
-  - [**Libros de texto desarrollo web en entorno servidor**](#libros-de-texto-desarrollo-web-en-entorno-servidor)
+  - [🛒 Libros de texto desarrollo web en entorno servidor](#-libros-de-texto-desarrollo-web-en-entorno-servidor)
 - [12. **Proyecto de desarrollo de aplicaciones web**](#12-proyecto-de-desarrollo-de-aplicaciones-web)
-  - [**Libros de proyecto de desarrollo de aplicaciones web**](#libros-de-proyecto-de-desarrollo-de-aplicaciones-web)
+  - [🛒 Libros de proyecto de desarrollo de aplicaciones web](#-libros-de-proyecto-de-desarrollo-de-aplicaciones-web)
 - [13. **Formación en centros de trabajo**](#13-formación-en-centros-de-trabajo)
 - [**Recursos Extra FP Desarrollo de Aplicaciones Web**](#recursos-extra-fp-desarrollo-de-aplicaciones-web)
   - [Extra 1. **Apuntes Completos de la asignatura de Entornos de Desarrollo**](#extra-1-apuntes-completos-de-la-asignatura-de-entornos-de-desarrollo)
@@ -117,7 +117,7 @@ En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de b
 - Bases de Datos (2.011) 📖 [**Bases de Datos**](https://drive.google.com/file/d/1R2MbP0uldOvFRER37NCOAzPNA8fhxudj/view){:target="_blank" rel="nofollow,noreferrer"} (este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas) por Mercedes Marqués.
 - Bases de Datos Avanzadas (2.013) 📖 [**Bases de datos avanzadas**](https://drive.google.com/file/d/1GZlfXH303ZdnB_kxFkx2rnid7uoLooWe/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos) por Aramburu & Sanz Blasco.
 
-### **Libros de texto de bases de datos**
+### 🛒 Libros de texto de bases de datos
 
 [Garceta](https://amzn.to/3icE9SZ) (2014) \ [Rama](https://amzn.to/3bEueD3) (2012) \ [Sintesis](https://amzn.to/2GIPmgc) (2014)
 
@@ -131,7 +131,7 @@ Verás una amplia introducirte en el mundo de los procedimientos de pruebas, la 
 
 Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportamiento, además de aprender a generar documentación.
 
-### **Libros de texto de entornos de desarrollo**
+### 🛒 Libros de texto de entornos de desarrollo
 
 [Garceta](https://amzn.to/2R9LRkV) \ [Rama](https://amzn.to/3bM7gdu) (2012)
 
@@ -143,7 +143,7 @@ Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportami
 En la asignatura de formación y orientación laboral vas a aprender a conocer los contratos de trabajo, la jornada laboral y su retribución, la creación y estudio de nóminas, la prevención en la empresa, los riesgos laborales y los posibles conflictos dentro de la empresa.
 <!-- https://www.mheducation.es/bcv/guide/capitulo/8448191595.pdf -->
 
-### **Libros de texto de formación y orientación laboral**
+### 🛒 Libros de texto de formación y orientación laboral
 
 [Editex](https://amzn.to/35k39Ea) (2020) \ [Paraninfo](https://amzn.to/2R9mzn2) (2019) \ [Paraninfo](https://amzn.to/2DMcPfq) (2018) \ [Editex](https://amzn.to/33cGpmO) (2018) \ [McGraw Hill](https://amzn.to/32c9gsa) (2017)
 
@@ -159,7 +159,7 @@ En la asignatura de lenguajes de marcas y sistemas de gestión vas a aprender qu
 - HTML5. ArkaitzGarro: [**HTML5**](https://www.arkaitzgarro.com/html5/index.html){:target="_blank" rel="nofollow,noreferrer"}
 - CSS3. ArkaitzGarro: [**CSS 3**](https://www.arkaitzgarro.com/css3/){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Libros de texto de lenguajes de marcas y sistemas de gestión de información**
+### 🛒 Libros de texto de lenguajes de marcas y sistemas de gestión de información
 
 [Sintesis](https://amzn.to/2ZlXglY) (2018) \ [Garceta](https://amzn.to/2GIm8hv) (2012) \ [Rama](https://amzn.to/35lJHH4) (2011)
 
@@ -187,7 +187,7 @@ Piensa en JAVA. Edición Española (2.002)
 
 > Los lenguajes de programación tienen muchas similitudes con las lenguas de uso general como el inglés.
 
-### **Libros de texto de programación**
+### 🛒 Libros de texto de programación
 
 [Garceta](https://amzn.to/2R5jVOT) (2013) \ [Rama](https://amzn.to/35jZshB) (2011)
 
@@ -203,7 +203,7 @@ En la asignatura de sistemas informáticos de los ciclos de informática de grad
 
 Los contenidos de los módulos de sistemas operativos monopuesto, redes locales y un poquito de sistemas operativos en red.
 
-### **Libros de texto de sistemas informáticos**
+### 🛒 Libros de texto de sistemas informáticos
 
 [Garceta](https://amzn.to/3m1Bwpp) (2017) \ [Rama](https://amzn.to/3bLtIDp) (2011)
 
@@ -226,7 +226,7 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 1. [Ejemplo. 1](http://www.upv.es/entidades/ASIC/manuales/guia_estilos_upv.pdf){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Valencia)
 2. [Ejemplo. 2](https://editorial.ugr.es/pages/calidad/guiadeestilo/!){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Granada)
 
-### **Libros de texto de diseño de interfaces web**
+### 🛒 Libros de texto de diseño de interfaces web
 
 [Sintesis](https://amzn.to/2R4Ndxl) (2019) \ [Garceta](https://amzn.to/3lWSF3o) (2016) \ [Rama](https://amzn.to/337Ps8J) (2012)
 
@@ -234,7 +234,7 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 
 ## 8. **Empresa e iniciativa emprendedora**
 
-### **Libros de texto de empresa e iniciativa emprendedora**
+### 🛒 Libros de texto de empresa e iniciativa emprendedora
 
 [Editex](https://amzn.to/3m0rGE5) (2020) \ [Paraninfo](https://amzn.to/33bB5jK) (2019) \ [Editex](https://amzn.to/3ibXBPJ) (2019) \ [McGraw Hill](https://amzn.to/3hfZ6uS) (2018) \ [Bruño](https://amzn.to/3m5bTUr) (2018) \ [Algaida](https://amzn.to/3idsJ18) (2017) \ [Paraninfo](https://amzn.to/3idpZRB) (2016)
 
@@ -249,7 +249,7 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 
 - [**JavaScript**](https://www.arkaitzgarro.com/javascript/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
 
-### **Libros de texto de desarrollo web en entorno cliente**
+### 🛒 Libros de texto de desarrollo web en entorno cliente
 
 [Sintesis](https://amzn.to/3m31Mj6) (2020) \ [Garceta](https://amzn.to/3k16gF0) (2019) \ [Garceta](https://amzn.to/2DNAFHG) (2013) \ [Rama](https://amzn.to/33e54aC) (2012)
 
@@ -259,7 +259,7 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 
 - [**AJAX**](https://www.arkaitzgarro.com/ajax/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
 
-### **Libros de texto de desarrollo web en entorno servidor**
+### 🛒 Libros de texto de desarrollo web en entorno servidor
 
 [Sintesis](https://amzn.to/3c2zTmR) (2019) \ [Garceta](https://amzn.to/3muGTxF) (2017) \ [Garceta](https://amzn.to/2FrEhju) (2014) \ [Rama](https://amzn.to/3hIN9hK) (2012)
 
@@ -271,7 +271,7 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 - [Servidores de aplicaciones](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/86-servidores-de-aplicaciones){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
 - [Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
 
-### **Libros de texto desarrollo web en entorno servidor**
+### 🛒 Libros de texto desarrollo web en entorno servidor
 
 [Sintesis](https://amzn.to/35gcUmR) (2019) \ [Garceta](https://amzn.to/2FfFcTV) (2014) \ [Rama](https://amzn.to/3m30vIX) (2012)
 
@@ -281,7 +281,7 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 
 El [proyecto final](/fp-modulos-formacion-profesional/#el-módulo-profesional-del-proyecto-final) de desarrollo de aplicaciones web] no requiere de un libro en sí. Desde el centro te ofrecerán las pautas necesarias y concretas para realizar el proyecto.
 
-### **Libros de proyecto de desarrollo de aplicaciones web**
+### 🛒 Libros de proyecto de desarrollo de aplicaciones web
 
 No existen libros específicos para este módulo, pero si que podemos encontrar en Internet algunas guías con las que podemos hacernos una idea sobre lo que nos exigiran.
 
