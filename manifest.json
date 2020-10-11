@@ -1,0 +1,22 @@
+{
+    "lang": "es-ES",
+    "dir": "ltr\rtl",
+    "name": "Ciberninjas",
+    "short_name": "CN 🖱",
+    "description": "Noticias, actualidad y eventos de desarrollo web, programación y diseño.",
+    "start_url": "https://ciberninjas.com",
+    "orientation" : "undefined",
+    "generated" : "undefined",
+    "categories" : ["technology", "education", "web design", "programming"],
+    "theme_color": "#c82223",
+    "background_color": "#1a1a1a",
+    "icons": [
+        {
+            "src": "/assets/img/ciberninjas-emoji-160px.webp",
+            "sizes": "192x192",
+            "type": "image/webp"
+        }
+    ],
+    "display": "standalone"
+  }
+  
