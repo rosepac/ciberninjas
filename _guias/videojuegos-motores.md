@@ -3,34 +3,52 @@ layout: page
 title: ▷ Los 10 mejores motores de videojuegos 🎮
 description: 'Descubre cuáles son los 3 mejores motores de videojuegos para diseñadores de juegos de todos los niveles y conjuntos de habilidades. ¿Unity sigue siendo uno de los mejores, pero existen más?'
 excerpt: 'Descubre cuáles son los 3 mejores motores de videojuegos para diseñadores de juegos de todos los niveles y conjuntos de habilidades. ¿Unity sigue siendo uno de los mejores, pero existen más?'
-published: false
+published: true
 author: rosepac
 bootstrap: true
 comments: false
 date: 2020-01-14 22:22:22
-permalink: /videojuegos/
-canonical_URL: https://ciberninjas.com/videojuegos/
+permalink: /motores-videojuegos/
+canonical_URL: https://ciberninjas.com/motores-videojuegos/
 ---
+
+Los motores de videojuego son componentes reutilizables que los desarrolladores usan para construir el marco de un juego. Esto les da más tiempo para enfocarse en otros elementos únicos como los modelos de personajes, las texturas, o el cómo interactúan los objetos, etc.
+
+Si todos hicieran sus juegos desde cero, sin la ayuda que les ofrecen estos excelentes motores de renderizado de juegos, los juegos llevarían un tiempo de desarrollo infinito y serían mucho más difíciles aún de construir.
+
+Esto requiere el uso de interfaces de aplicaciones como [DirectX](http://www.microsoft.com/en-us/download/search.aspx?q=directx){:target="_blank" rel="nofollow,noreferrer"}, [OpenGL](https://www.opengl.org/){:target="_blank" rel="nofollow,noreferrer"} y [XNA](https://msdn.microsoft.com/en-us/library/bb200104.aspx){:target="_blank" rel="nofollow,noreferrer"}, así como bibliotecas comerciales y de código abierto que contienen ayuda para la creación de las animaciones físicas, los gráficos de escenas y las bibliotecas GUI.
+
+A veces, incluso, hasta algunas de las más fuertes empresas de desarrollo de videojuegos. Se animan a crear un motor de renderizado exclusivo. La creación de un motor de juegos no es una tarea nada fácil, pero a veces es necesario, si el juego es lo suficientemente diferente como para que no funcionen los motores ya existentes.
+
 <!-- https://www.gamedesigning.org/career/video-game-engines/ -->
-## ¿Qué es un motor de videojuegos?
+## **¿Qué es un motor de videojuegos?** <!-- omit in toc -->
 
 A groso modo, un motor de videojuegos es la arquitectura que usan los desarrolladores para ejecutar el juego y esos motores de videojuegos proporcionan a los desarrolladores una forma de agregar cosas como por ejemplo; animación física, entrada, representación, scripting, detección de colisiones, inteligencia artificial y mucho más; sin requerir la necesidad de programarlo desde cero.
 
-## ¿Por qué son importantes?
+## **¿Qué motores de juegos son los más populares?** <!-- omit in toc -->
 
-Los motores de videojuego son componentes reutilizables que los desarrolladores usan para construir el marco del juego. Esto les da más tiempo para enfocarse en elementos únicos como modelos de personajes, texturas, cómo interactúan los objetos, etc. 
-
-Si todos hicieran sus juegos desde cero sin la ayuda que les ofrecen estos excelentes motores de juego, los juegos tomarían un tiempo infinito y serían más difíciles de hacer.
-
-Esto requiere el uso de interfaces de aplicaciones como [DirectX](http://www.microsoft.com/en-us/download/search.aspx?q=directx), [OpenGL](https://www.opengl.org/) y [XNA](https://msdn.microsoft.com/en-us/library/bb200104.aspx), así como bibliotecas comerciales y de código abierto que contienen ayuda para la creación de las animaciones físicas, los gráficos de escenas y las bibliotecas GUI.
-
-Crear uno de los mejores motores de videojuegos no es tarea fácil, pero a veces es necesario si el juego es lo suficientemente diferente como para que no funcionen los motores ya existentes.
-
-## ¿Qué motores de juegos son los más populares?
+Los motor de renderizado de videojuegos más populares son Unreal Engine, Unity, GameMaker, Godot, etc.
 
 ![](https://ibb.co/nby7hnb)
 
-1. Unreal Engine
+- [**1. Unreal Engine**](#1-unreal-engine)
+- [**2. Unity**](#2-unity)
+- [**3. GameMaker**](#3-gamemaker)
+- [**4. Godot**](#4-godot)
+- [**5. AppGameKit**](#5-appgamekit)
+- [**6. CryEngine**](#6-cryengine)
+- [**7. Amazon Lumberyard**](#7-amazon-lumberyard)
+- [**8. RPG Maker**](#8-rpg-maker)
+- [**9. LibGDX**](#9-libgdx)
+- [**10. Urho3D**](#10-urho3d)
+- [Los mejores motores para hacer juegos móviles](#los-mejores-motores-para-hacer-juegos-móviles)
+- [Motores Javascript](#motores-javascript)
+  - [Duktape](#duktape)
+  - [Moddable](#moddable)
+  - [Otros Motores de Javascript](#otros-motores-de-javascript)
+- [Artículos sobre Motores de Videojuegos](#artículos-sobre-motores-de-videojuegos)
+
+## **1. Unreal Engine**
 
 Uno de los motores de juegos más populares y ampliamente utilizados es el Unreal Engine de Epic Games. La versión original fue lanzada en 1998 y 17 años después sigue siendo utilizada para algunos de los juegos más grandes cada año.
 
@@ -40,37 +58,31 @@ La fuerza de Unreal Engine es su capacidad de modificarse lo suficiente como par
 
 Se dice que la última versión, [Unreal Engine 4](https://www.unrealengine.com/){:target="_blank" rel="nofollow,noreferrer"}, es la más fácil de usar en las herramientas manuales de un profesional. Sin embargo, hay otros motores disponibles que son más fáciles para los nuevos diseñadores.
 
-2. Unity
+## **2. Unity**
 
-Uno de ellos es Unity, un motor de juegos multiplataforma que te permite **crear contenido 3D interactivo con facilidad** .
+Uno de ellos es Unity, un motor de juegos multiplataforma que te permite **crear contenido 3D interactivo con facilidad**. Una gran cantidad de desarrolladores independientes utilizan Unity por su excelente funcionalidad, contenido de alta calidad y su capacidad para prácticamente cualquier tipo de juego.
 
-Una gran cantidad de desarrolladores independientes utilizan Unity por su excelente funcionalidad, contenido de alta calidad y su capacidad para prácticamente cualquier tipo de juego.
+Los títulos notables recientes realizados con Unity incluyen **Lara Croft Go**, **Her Story**, **Pillars of Eternity** y **Kerbal Space Program**.
 
-Los títulos notables recientes realizados con Unity incluyen **Lara Croft Go** , **Her Story** , **Pillars of Eternity** y **Kerbal Space Program** .
+Una de las mejores cosas de [Unity 5](https://unity3d.com/5) es la Edición Personal, que todos pueden descargar gratuitamente. Incluye el motor con todas las características y puede (en su mayor parte) usarse para hacer juegos en todas las plataformas.
 
-Una de las mejores cosas de [Unity 5](https://unity3d.com/5) es la Edición Personal, que todos pueden descargar gratuitamente.
+El problema es que la **Edición Profesional**, que tiene una gran cantidad de excelentes herramientas, **requiere de un pago mensual**. Estas características incluyen acceso beta, informes de rendimiento del juego, pantallas de bienvenida personalizables, una licencia de equipo y más.
 
-Incluye el motor con todas las características y puede (en su mayor parte) usarse para hacer juegos en todas las plataformas.
-
-El problema es que la **Edición Profesional** , que tiene una gran cantidad de excelentes herramientas, **requiere que pagues una tarifa mensual** .
-
-Estas características incluyen acceso beta, informes de rendimiento del juego, pantallas de bienvenida personalizables, una licencia de equipo y más.
-
-3. GameMaker
+## **3. GameMaker**
 
 A diferencia de la mayoría de los otros motores de juegos, GameMaker: Studio se ha utilizado ampliamente porque no requiere conocimientos de programación para su uso.
 
 En cambio, los usuarios pueden "apuntar y hacer clic" para crear juegos mucho más fáciles y rápidos que la codificación con idiomas nativos.
 
-Algunos de los mejores títulos realizados con GameMaker incluyen Spelunky , Hotline Miami , Super Crate Box y el próximo Hyper Light Drifter .
+Algunos de los mejores títulos realizados con GameMaker incluyen Spelunky, Hotline Miami, Super Crate Box y el próximo Hyper Light Drifter .
 
 GameMaker es popular porque puedes hacer un juego sin tener que aprender un lenguaje de programación primero, y aquellos que tienen experiencia en codificación pueden usarlo para mejorar su juego.
 
 El problema con GameMaker y otros motores de apuntar y hacer clic es que los desarrolladores son mucho más limitados que con otros motores .
 
-Y aunque hay una versión gratuita , sacar el máximo provecho de GameMaker requiere que compres las versiones Professional o Master Collection.
+Y aunque hay una versión gratuita, sacar el máximo provecho de GameMaker requiere que compres las versiones Professional o Master Collection.
 
-4. Godot
+## **4. Godot**
 
 El [motor Godot](https://godotengine.org/) es **ideal para crear juegos en 2D y 3D** . El motor "proporciona un gran conjunto de herramientas comunes, por lo que puedes concentrarte en hacer tu juego sin reinventar la rueda".
 
@@ -80,7 +92,7 @@ Godot tiene una comunidad que constantemente corrige errores y desarrolla nuevas
 
 [Godot también se vincula a sus otros HUBS de Internet](https://godotengine.org/community) , incluidos los foros de Reddit, los grupos de Facebook, la comunidad de Steam, los foros de Godot y más. 
 
-5. AppGameKit
+## **5. AppGameKit**
 
  [AppGameKit](https://www.appgamekit.com/) es un motor de desarrollo de juegos fácil de aprender, **ideal para principiantes** , **aficionados** e **desarrolladores independientes** ". ¿Suena como usted?
 
@@ -96,7 +108,7 @@ AppGameKit se enfoca en codificar y crear aplicaciones rápidamente y en poder c
 
 [AppGameKit cuesta $ 79.99](https://www.appgamekit.com/order) , con opciones para agrupar el producto base con complementos, como el Editor Visual, para ahorrar dinero en ambos productos.
 
-6. CryEngine
+## **6. CryEngine**
 
 La [plataforma CryEngine](https://www.cryengine.com/) es **de uso gratuito** .
 
@@ -113,13 +125,15 @@ Puede usar CryEngine para **desarrollar varias plataformas diferentes:**
 
 Así es, si estabas buscando sumergirte en el mundo de la creación de juegos de realidad virtual, CryEngine te tiene cubierto.
 
-Además del motor en sí, CryEngine también **proporciona muchos recursos de aprendizaje gratuitos** . Los tutoriales, foros y documentación le brindan las herramientas que necesita para comenzar. Debido a la potencia detrás del motor, hay una pequeña curva de aprendizaje. YouTube y los recursos oficiales de CryEngine son tus amigos, aquí.
+Además del motor en sí, CryEngine también **proporciona muchos recursos de aprendizaje gratuitos**. Los tutoriales, foros y documentación le brindan las herramientas que necesita para comenzar. Debido a la potencia detrás del motor, hay una pequeña curva de aprendizaje. YouTube y los recursos oficiales de CryEngine son tus amigos, aquí.
 
-Si está buscando un acceso directo para los activos en el juego, es probable que pueda encontrarlo en el mercado. [El mercado Cryengine](https://www.cryengine.com/marketplace) ofrece paquetes como " *cabaña de montaña* " o " *banda sonora espacial* " a cambio de dinero. También hay **activos disponibles de forma gratuita** , como el " *Paquete para principiantes CryEngine V* " y el paquete " *Explosivos* ".
+Si está buscando un acceso directo para los activos en el juego, es probable que pueda encontrarlo en el mercado. [El mercado Cryengine](https://www.cryengine.com/marketplace) ofrece paquetes como "*cabaña de montaña*" o "*banda sonora espacial*" a cambio de dinero. También hay **activos disponibles de forma gratuita**, como el " *Paquete para principiantes CryEngine V* " y el paquete "*Explosivos*".
 
-7. Amazon Lumberyard
+## **7. Amazon Lumberyard**
 
-Amazon Lumberyard es [el motor construido por Amazon](https://www.gamedesigning.org/gaming/amazon-lumberyard/) (como su nombre lo indica). Según el sitio, Lumberyard es " **Gratis. Poderoso. Totalmente personalizable** "El motor del juego" no tiene regalías ni tarifas de asientos, integración sin fricciones con Twitch y AWS, y mucho más en el horizonte ".
+Amazon Lumberyard es [el motor construido por Amazon](https://www.gamedesigning.org/gaming/amazon-lumberyard/) (como su nombre lo indica). Según el sitio, Lumberyard es "**Gratis. Poderoso. Totalmente personalizable**".
+
+El motor del juego, no tiene regalías ni tarifas, y ofrece una integración sin fricciones con Twitch y AWS, y mucho más en el futuro.
 
 Desde libros hasta otros productos físicos, desde comestibles, todo lo que Amazon toca parece ... ¿más fácil? ¿Más conveniente?
 
@@ -129,7 +143,7 @@ Si lo tuyo son los juegos multijugador, Lumberyard tiene las herramientas para q
 
 Hay una [serie de videos de "Guía de inicio" para Lumberyard](https://www.youtube.com/playlist?list=PLuGWzrvNze7KbG2x6ccIw8eMhL5e4Iwpe) que lo pondrá al día y lo guiará en la construcción de su primer prototipo de juego con el motor.
 
-8. RPG Maker
+## **8. RPG Maker**
 
 Lo mejor de RPG maker es la misma razón por la que ocasionalmente tiene mala reputación: casi cualquier persona puede usarlo para crear un juego.
 
@@ -141,7 +155,7 @@ Hay varios productos RPG Maker. [RPG Maker MV cuesta $ 79.99](https://www.rpgmak
 
 Los usuarios experimentados pueden aprovechar su conocimiento de Javascript para "cambiar el juego a su gusto, de batallas a interfaces de usuario de menú". Los usuarios sin conocimiento de Javascript se limitarán solo a lo que ofrece el motor, pero todavía hay mucho para construir un juego.
 
-9. LibGDX
+## **9. LibGDX**
 
 Libgdx es un **marco de desarrollo de juegos Java** que proporciona una API unificada que funciona en todas las plataformas compatibles".
 
@@ -153,7 +167,7 @@ Los [foros de libGDX también](http://www.badlogicgames.com/forum/) están vivos
 
 Puede [descargar LibGDX](https://libgdx.badlogicgames.com/download.html) con la ayuda de su aplicación de configuración.
 
-10. Urho3D
+## **10. Urho3D**
 
 Urho3D](https://urho3d.github.io/) es un **motor de juegos 2D y 3D multiplataforma** ligero **y gratuito implementado en C ++** y lanzado bajo la licencia MIT".
 
