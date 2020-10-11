@@ -139,7 +139,7 @@ Con estas excelentes aplicaciones, vamos a poder explotar todo el potencial de M
 
 ## **6. Editor de Markdown FocuxFox**
 
-![visión del editor online de FocuxFox](/assets/img/blog/focuxfox-1.webp)
+![Software de aplicación, editor online de FocuxFox](/assets/img/blog/focuxfox.webp "Software de aplicación, editor online de FocuxFox")
 
 FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de fondo para ayudarte a *enfocarte* exclusivamente en lo que necesitas, que utiliza las funciones de Markdown para agregar rápidamente el formato al texto sin formato; y además, agrega botones y una amplia chuleta de Markdown para los más principiantes.
 
