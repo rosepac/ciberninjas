@@ -9,7 +9,7 @@ categories:
 - Framework
 thumbnail: /assets/img/blog/javalin-framework-2.webp
 feature-img: /assets/img/blog/javalin-framework-2.webp
-title: 'Javalin: Framework web ligero de Java y Kotlin. Cree API REST en Java o Kotlin fácilmente'
+title: '▷ Javalin: Framework web ligero de Java y Kotlin. Cree API REST en Java o Kotlin fácilmente'
 description: >-
   Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas
 excerpt: >-
@@ -218,21 +218,21 @@ Puede encontrar más detalles sobre Javalin en [la página de documentación](ht
 
 ### **Relacionados** <!-- omit in toc --> <!-- omit in toc -->
 
-[🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
+[🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2021](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20 "Los 14 mejores framework de desarrollo de aplicaciones web y móviles")
 
-[👨‍💻 Los 20 Mejores Frameworks Java 2021](https://ciberninjas.com/10-mejores-frameworks-java/)
+[👨‍💻 Los 20 Mejores Frameworks Java 2021](https://ciberninjas.com/10-mejores-frameworks-java/ "Los 20 Mejores Frameworks Java 2021")
 
-[🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/)
+[🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/ "Lanzamiento de las extensiones de Firebase para Kotlin")
 
-[💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020](https://ciberninjas.com/actualidad-java-visual-studio/)
+[💻 ▷ Segunda actualización de Java para Visual Studio Code en 2021](https://ciberninjas.com/actualidad-java-visual-studio/ "Segunda actualización de Java para Visual Studio Code en 2021")
 
-[📄 ▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java ](https://ciberninjas.com/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
+[📄 ▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java](https://ciberninjas.com/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/ "Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java")
 
-[👨‍🎨 Palabras más usadas en cada lenguaje de programación](https://ciberninjas.com/palabras-lenguajes-programacion/)
+[👨‍🎨 Palabras más usadas en cada lenguaje de programación](https://ciberninjas.com/palabras-lenguajes-programacion/ "Palabras más usadas en cada lenguaje de programación")
 
-[🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores](https://ciberninjas.com/programar/)
+[🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores](https://ciberninjas.com/programar/ "Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores")
 
-[🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
+[🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2021](https://ciberninjas.com/15-mejores-lenguajes-programacion/ "Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2021")
 
-> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python 2021](/python/ "Cómo aprender Python 2021"), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021"), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}

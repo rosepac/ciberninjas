@@ -133,6 +133,6 @@ El resto de cursos, son en inglés y NO tienen subtítulos en español.
 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
 
-[🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/)
+[🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021")
 
 [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)

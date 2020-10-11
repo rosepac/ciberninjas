@@ -27,7 +27,7 @@ categories:
 - Software
 thumbnail: /assets/img/herramientas-java/java-herramientas.webp
 feature-img: /assets/img/herramientas-java/java-herramientas.webp
-title: 'Las 20 mejores herramientas Java para desarrolladores 2021'
+title: '▷ Las 20 mejores herramientas Java para desarrolladores 2021'
 description: >-
   Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí, algunos nombres principales con sus características y enlaces de descarga.
 excerpt: >-
@@ -421,7 +421,7 @@ FindBugs es un proyecto Java de código abierto para análisis estático. Escane
 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
 
-> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python 2021](/python/ "Cómo aprender Python 2021"), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021"), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 [🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}

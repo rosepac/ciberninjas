@@ -36,7 +36,7 @@ Con Sheetfu, puede obtener o establecer fácilmente valores de celda, colores de
 
 [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)
 
-[🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/)
+[🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021")
 
 El **glosario de Python** fue creada el *13 de Mayo de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}

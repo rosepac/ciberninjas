@@ -238,7 +238,7 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 <a href='https://www.udemy.com/course/mommys-baby-guide-newborn-bundle-of-joy/?couponCode=75DDE6648BF4D9AF714D'>https://www.udemy.com/course/mommys-baby-guide-newborn-bundle-of-joy/?couponCode=75DDE6648BF4D9AF714D</a>
 {: .notice--info}
 
-> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python 2021](/python/ "Cómo aprender Python 2021"), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021"), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

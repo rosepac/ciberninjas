@@ -79,7 +79,7 @@ Aquí hay algunas alternativas que comparten algunos conceptos / linajes similar
 [⏩ Web Oficial de Reason](https://reasonml.github.io/ "Página web de la nueva sintaxis de lenguaje Javscript y OCaml: Reason"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Documentación Reason](https://reasonml.github.io/docs/en/what-and-why "Reason documentación"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python 2021](/python/ "Cómo aprender Python 2021"), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021"), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ### **Relacionados** <!-- omit in toc --> <!-- Omit in toc -->

@@ -411,7 +411,7 @@ Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.co
 
 [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)
 
-[🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/)
+[🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021")
 
 La **Guía sobre la librería de Vidgear** fue creada el *15 de Enero de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}

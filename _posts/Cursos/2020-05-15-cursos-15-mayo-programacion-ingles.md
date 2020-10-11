@@ -170,7 +170,7 @@ Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Face
 <a href='https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON'>https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON</a>
 {: .notice--info}
 
-> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python 2021](/python/ "Cómo aprender Python 2021"), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021"), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ### **Relacionados** <!-- omit in toc -->

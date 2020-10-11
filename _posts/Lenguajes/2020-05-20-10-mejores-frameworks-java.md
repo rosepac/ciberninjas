@@ -51,7 +51,7 @@ Aunque hay muchos frameworks construidos en Java, aquí hay algunos frameworks d
 
 Ten en cuenta que cada uno de estos tiene sus propios beneficios y puede funcionar mejor para diferentes usos comerciales, casos de uso, y no se puede decir cuál es mejor, porque todos son buenos en diferentes escenarios.
 
-<span><a name="menu"></span>
+<div><span><a name="menu"></span></div>
 
 - [**1. Spring**](#1-spring)
 - [**2. Struts**](#2-struts)
@@ -296,7 +296,7 @@ Si ya tiene una base de código, puede integrarla fácilmente con GWT porque GWT
 
 ## **12. Vaadin**
 
-![Logotipo oficial del framework Java: Vaadin](/assets/img/framework-java/vaadin.webp "Logotipo oficial del framework Java: Vaadin")
+![Logotipo oficial del framework Java Vaadin](/assets/img/framework-java/vaadin.webp "Logotipo oficial del framework Java Vaadin")
 
 Vaadin es un producto emblemático y también una plataforma donde los desarrolladores pueden hacer la implementación de la interfaz de usuario web HTML5 utilizando Java.
 
@@ -320,7 +320,7 @@ También tiene una API de enlace de datos que asigna componentes de IU a la base
 
 ## **13. Spark**
 
-![Logotipo oficial del framework Java: Spark](/assets/img/framework-java/spark.webp "Logotipo oficial del framework Java: Spark")
+![Logotipo oficial del framework Java Spark](/assets/img/framework-java/spark.webp "Logotipo oficial del framework Java Spark")
 
 Otro golpe maestro de Apache, Spark es un framework de desarrollo web de código abierto que tiene características similares a Spring, Play y JAX-RS, pero es más potente y no sigue el patrón de diseño MVC tradicional.
 
@@ -489,5 +489,17 @@ El mejor framework para su aplicación debe cumplir con los requisitos de su neg
 Por ejemplo, para un framework de desarrollo web de pila completa (full-stack) si se encuentra algo que deba ser cambiado, debería impactar menos sobre la aplicación, es decir, no deberías de tener que construir e implementar la aplicación nuevamente para la realización exclusiva de pequeños cambios. Solamente con un cambio de configuración deberías poder hacer la magia suficiente como para realizarlo. Dichas aplicaciones ahorran tiempo de inactividad y proporcionan flexibilidad.
 
 Elija el framework para la aplicación sabiamente, si quieres disfrutar de todas las características que te proporciona Java.
+
+### **Relacionados** <!-- omit in toc -->
+
+[▷ ¿Qué es Java? Una guía para principiantes sobre Java](https://ciberninjas.com/java/)
+
+[▷ Las 25 mejores aplicaciones Java jamás programadas](https://ciberninjas.com/25-aplicaciones-java/)
+
+[▷ Las 20 mejores herramientas Java para desarrolladores 2021](https://ciberninjas.com/java-herramientas-para-desarrolladores/)
+
+[▷ Javalin: Framework web ligero de Java y Kotlin](https://ciberninjas.com/javalin-framework/)
+
+[🥇 ▷ Los 15 Mejores Lenguajes de Programación](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

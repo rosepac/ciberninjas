@@ -171,7 +171,7 @@ Una cosa está fuera de discusión: ¡la computación cuántica es muy emocionan
 
 La conclusión a la que llegó un influyente informe de las Academias Nacionales de Ciencias, Medicina e Ingeniería en diciembre de 2018 fue que "todavía es demasiado pronto para poder predecir el horizonte temporal de una computadora cuántica práctica" y que "quedan muchos desafíos técnicos por resolver" antes de alcanzar este hito ".
 
-> 🔥 Quizás te interese: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Quizás te interese: [Cómo aprender Python 2021](/python/ "Cómo aprender Python 2021"), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021"), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ### **Relacionados** <!-- omit in toc -->

@@ -52,15 +52,15 @@ La hoja de ruta también tiene una sección centrada en los subsistemas, que cit
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Los 11 mejores libros de Android y Kotlin 2020](https://ciberninjas.com/mejores-libros-android-kotlin/)
+[▷ Los 11 mejores libros de Android y Kotlin 2021](https://ciberninjas.com/mejores-libros-android-kotlin/ "Los 11 mejores libros de Android y Kotlin 2021")
 
-[▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/)
+[▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/ "Lanzamiento de las extensiones de Firebase para Kotlin")
 
-[▷ 15 Mejores cursos gratis de Android, Flutter, Kotlin y Dart](https://ciberninjas.com/cursos-android/)
+[▷ 15 Mejores cursos gratis de Android, Flutter, Kotlin y Dart](https://ciberninjas.com/cursos-android/ "15 Mejores cursos gratis de Android, Flutter, Kotlin y Dart")
 
-[▷ 125 Mejores cursos gratis de programación](https://ciberninjas.com/cursos-programacion/)
+[▷ 125 Mejores cursos gratis de programación](https://ciberninjas.com/cursos-programacion/ "125 Mejores cursos gratis de programación")
 
-[Javalin: Framework web ligero de Java y Kotlin](https://ciberninjas.com/javalin-framework/)
+[▷ Javalin: Framework web ligero de Java y Kotlin](https://ciberninjas.com/javalin-framework/ "Javalin: Framework web ligero de Java y Kotlin")
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
