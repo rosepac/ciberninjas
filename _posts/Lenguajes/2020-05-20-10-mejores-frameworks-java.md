@@ -296,7 +296,7 @@ Si ya tiene una base de código, puede integrarla fácilmente con GWT porque GWT
 
 ## **12. Vaadin**
 
-![Logotipo oficial del framework Java: Vaadin](/assets/img/framework-java/.webp "Logotipo oficial del framework Java: Vaadin")
+![Logotipo oficial del framework Java: Vaadin](/assets/img/framework-java/vaadin.webp "Logotipo oficial del framework Java: Vaadin")
 
 Vaadin es un producto emblemático y también una plataforma donde los desarrolladores pueden hacer la implementación de la interfaz de usuario web HTML5 utilizando Java.
 
@@ -320,7 +320,7 @@ También tiene una API de enlace de datos que asigna componentes de IU a la base
 
 ## **13. Spark**
 
-![Logotipo oficial del framework Java: Spark](/assets/img/framework-java/.webp "Logotipo oficial del framework Java: Spark")
+![Logotipo oficial del framework Java: Spark](/assets/img/framework-java/spark.webp "Logotipo oficial del framework Java: Spark")
 
 Otro golpe maestro de Apache, Spark es un framework de desarrollo web de código abierto que tiene características similares a Spring, Play y JAX-RS, pero es más potente y no sigue el patrón de diseño MVC tradicional.
 
