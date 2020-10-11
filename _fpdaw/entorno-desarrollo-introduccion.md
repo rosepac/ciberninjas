@@ -9,7 +9,7 @@ feature-img: /assets/img/paginas/fp/entorno-desarrollo.webp
 img: /assets/img/paginas/fp/entorno-desarrollo.webp
 title: '▷ Introducción a Entornos de Desarrollo'
 description: >-
-  'Introducción al módulo de Entornos de Desarrollo'
+  'Breve descripción de en qué consiste el módulo de Entornos de Desarrollo'
 excerpt: >-
   'Breve descripción de en qué consiste el módulo de Entornos de Desarrollo'
 canonical_URL: https://ciberninjas.com/recursos-daw/entornos-desarrollo-introduccion/
@@ -20,7 +20,88 @@ published: true
 
 ---
 
-Para un buen profesional del desarrollo del software, tan importante es conocer las técnicas básicas y avanzadas de la programación y los principales lenguajes de programación actuales, como las herramientas y las estrategias que tiene a su disposición para llevar a cabo un trabajo al más óptima posible.
+<div class ="portfolio-grid">
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-que-aprenderas/">
+<div class="caption" title="¿Qué aprenderás en el módulo de entornos de desarrollo?">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="¿Qué aprenderás en el módulo de entornos de desarrollo?" class="" src="/assets/img/paginas/fp/entorno-desarrollo-aprender.webp">
+</a>
+</div>
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-diccionario/">
+<div class="caption" title="Diccionario del módulo entorno de desarrollo">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="Palabras más utilizadas en el módulo de entorno de desarrollo" class="" src="/assets/img/paginas/fp/entorno-desarrollo-diccionario.webp">
+</a>
+</div>
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/">
+<div class="caption" title="Hoja de ruta de desarrollo de aplicaciones web (DAW)">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones" class="" src="/assets/img/paginas/fp/portada-daw.webp">
+</a>
+</div>
+</div>
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/recursos-daw/">Recursos DAW</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Entorno Desarrollo Introducción</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-daw/",
+     "name": "Programar Gratis con Recursos del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web"
+   }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-daw/entorno-desarrollo-introduccion/",
+     "name": "Breve descripción de en qué consiste el módulo de Entornos de Desarrollo"
+   }
+  }
+ ]
+}
+</script>
+
+Para un buen profesional del desarrollo del software, tan importante es conocer las técnicas básicas y avanzadas de la programación y los principales lenguajes de programación actuales, como las herramientas y las estrategias que tiene a su disposición para llevar a cabo un trabajo lo más óptimizado posible.
 
 Por ello, en este módulo se mostrarán a los alumnos los conocimientos y se demostrarán las herramientas y las técnicas actuales que son más útiles para ser utilizadas en el proceso de desarrollo de aplicaciones para alcanzar aplicaciones más eficientes.
 
@@ -40,11 +121,11 @@ Esto permitirá adquirir las habilidades de utilización de entornos concretos y
 
 Todo el módulo permitirá al estudiante obtener una visión general del proceso de desarrollo del software, visión imprescindible para cualquier programador de aplicaciones que quiera dedicarse profesionalmente a la creación o el mantenimiento de aplicaciones informáticas.
 
-- [**1. Desarrollo del Software**](#1-desarrollo-del-software)
-- [**2. Optimización del Software**](#2-optimización-del-software)
+- [**1. Introducción al Desarrollo del Software**](#1-introducción-al-desarrollo-del-software)
+- [**2. Introducción a la Optimización del Software**](#2-introducción-a-la-optimización-del-software)
 - [**3. Introducción al Diseño Orientado a Objetos**](#3-introducción-al-diseño-orientado-a-objetos)
 
-## **1. Desarrollo del Software**
+## **1. Introducción al Desarrollo del Software**
 
 <!-- https://ioc.xtec.cat/materials/FP/Materials/IC_S_INF/INF_IC_S_M05/web/html/WebContent/u1/resum.html -->
 A esta primera unidad formativa, denominada "Desarrollo de software", trabajamos los conceptos más importantes a la hora de entender los entornos de desarrollo y sus características. El objetivo final de los entornos de desarrollo es el dar facilidades a los programadores para crear sus aplicaciones y hay que entender cómo trabajan estos para entender las funcionalidades que los entornos ofrecen.
@@ -90,7 +171,7 @@ En la segunda parte de la unidad formativa vemos la utilización de una herramie
 - Conectores.
 - Documentación y ayuda.
 
-## **2. Optimización del Software**
+## **2. Introducción a la Optimización del Software**
 
 <!-- https://ioc.xtec.cat/materials/FP/Materials/IC_S_INF/INF_IC_S_M05/web/html/WebContent/u2/resum.html -->
 En esta unidad formativa segunda, llamada "Optimización de software" conocemos herramientas y métodos muy importantes para mejorar el código de programación que se desarrolla en un proyecto de creación de aplicaciones informáticas.
@@ -167,12 +248,13 @@ En toda la unidad didáctica complementamos el estudio de los diferentes diagram
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🥇 ▷ Hoja de ruta de desarrollo de aplicaciones web (DAW)](../../recursos-daw/)
+[🥇 ▷ Hoja de ruta de desarrollo de aplicaciones web (DAW)](https://ciberninjas.com/recursos-daw/)
 
 > 👷‍♂️ 💪 SEGUIMOS EN CONSTRUCCIÓN 💪 👷‍♂️
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+> **Contenido creado y traducido** a 11 de Octubre de 2020, por [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy/).
 > **Licencia**: [CCO](https://creativecommons.org/licenses/by-nc-sa/3.0/es/deed.ca "Licencia CCO"){:target="_blank" rel="nofollow,noreferrer"} creado inicialmente por el Instituto Abierto de Cataluña.
 
-![](/assets/img/paginas/fp/entorno-desarrollo.webp "")
+![Breve descripción de en qué consiste el módulo de Entornos de Desarrollo](/assets/img/paginas/fp/entorno-desarrollo.webp "Breve descripción de en qué consiste el módulo de Entornos de Desarrollo")

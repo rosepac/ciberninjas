@@ -12,13 +12,94 @@ description: >-
   'Palabras más utilizadas en el módulo de entorno de desarrollo'
 excerpt: >-
   'Palabras más utilizadas en el módulo de entorno de desarrollo'
-canonical_URL: https://ciberninjas.com/recursos-daw/entorno-desarrollo-glosario/
-permalink: /recursos-daw/entorno-desarrollo-glosario/
+canonical_URL: https://ciberninjas.com/recursos-daw/entorno-desarrollo-diccionario/
+permalink: /recursos-daw/entorno-desarrollo-diccionario/
 date: 2020-10-10 01:33:33
 last_modified_at: 
-published: false
+published: true
 
 ---
+
+<div class ="portfolio-grid">
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-que-aprenderas/">
+<div class="caption" title="Introducción a Entornos de Desarrollo">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="Breve descripción de en qué consiste el módulo de Entornos de Desarrollo" class="" src="/assets/img/paginas/fp/entorno-desarrollo.webp">
+</a>
+</div>
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-que-aprenderas/">
+<div class="caption" title="¿Qué aprenderás en el módulo de entornos de desarrollo?">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="¿Qué aprenderás en el módulo de entornos de desarrollo?" class="" src="/assets/img/paginas/fp/entorno-desarrollo-aprender.webp">
+</a>
+</div>
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/">
+<div class="caption" title="Hoja de ruta de desarrollo de aplicaciones web (DAW)">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="Hoja de ruta de desarrollo de aplicaciones web (DAW) y recursos para el Ciclo Formativo Superior de Informática y Comunicaciones" class="" src="/assets/img/paginas/fp/portada-daw.webp">
+</a>
+</div>
+</div>
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/recursos-daw/">Recursos DAW</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Entorno Desarrollo Glosario</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-daw/",
+     "name": "Programar Gratis con Recursos del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web"
+   }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/recursos-daw/entorno-desarrollo-diccionario/",
+     "name": Palabras más utilizadas en el módulo de entorno de desarrollo"
+   }
+  }
+ ]
+}
+</script>
 
 Aquí vas a poder encontrar algunas de las palabras más utilizadas dentro del módulo de entorno de desarrollo.
 
@@ -281,6 +362,7 @@ Aquí vas a poder encontrar algunas de las palabras más utilizadas dentro del m
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){:.btn.btn-danger.btn-lg.btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+> **Contenido creado y traducido** a 11 de Octubre de 2020, por [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy/).
 > **Licencia**: [CCO](https://creativecommons.org/licenses/by-nc-sa/3.0/es/deed.ca "Licencia CCO"){:target="_blank" rel="nofollow,noreferrer"} creado inicialmente por el Instituto Abierto de Cataluña.
 
-![](/assets/img/paginas/fp/entorno-desarrollo-diccionario.webp "")
+![Palabras más utilizadas en el módulo de entorno de desarrollo](/assets/img/paginas/fp/entorno-desarrollo-diccionario.webp "Palabras más utilizadas en el módulo de entorno de desarrollo")
