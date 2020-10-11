@@ -60,25 +60,6 @@
     <!-- End Google Analytics -->
     {% endif %}
 
-    <!-- PWA Script -->
-    <script>
-        if ("serviceWorker" in navigator) {
-            if (navigator.serviceWorker.controller) {
-                console.log("An active service worker found, no need to register");
-            } else {
-                // Register the service worker
-                navigator.serviceWorker
-                .register("{{ site.baseurl }}/serviceworker.js", {
-                    scope: "./"
-                })
-                .then(function (reg) {
-                    console.log("Service worker has been registered for scope: " + reg.scope);
-                });
-            }
-            }
-    </script>
-    {% endif %}
-
     <!-- Twitter Cards -->
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.theme_settings.title }}{% endif %}" />
     <meta name="twitter:description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 }}">
@@ -96,4 +77,24 @@
     <!-- Google Adsense -->
     {% include adsense.html %}
 
+    <!-- PWA Script -->
+    <script>
+        if ("serviceWorker" in navigator) {
+          if (navigator.serviceWorker.controller) {
+            console.log("An active service worker found, no need to register");
+          } else {
+            // Register the service worker
+            navigator.serviceWorker
+              .register("serviceworker.js", {
+                scope: "./"
+              })
+              .then(function (reg) {
+                console.log("Service worker has been registered for scope: " + reg.scope);
+              });
+          }
+        }
+      </script>
+      <script>
+        document.documentElement.className = 'js';
+      </script>
 </head>
