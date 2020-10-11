@@ -14,6 +14,16 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Programa Gratis</li>
+  </ol>
+</nav>
+</div>
+
+
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/cursos-tecnologia/">
@@ -45,15 +55,6 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 <img alt="" class="" src="/assets/img/paginas/guias-tecnologia.webp">
 </a>
 </div>
-</div>
-
-<div class="hidden-sm-down">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Programa Gratis</li>
-  </ol>
-</nav>
 </div>
 
 Si eres nuevo/a en el campo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/ "Cómo aprender en academias online") por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad "Comunidad de Facebook en la que listo todos los recursos online"){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/ "Aprender a Programar con Ciberninjas").

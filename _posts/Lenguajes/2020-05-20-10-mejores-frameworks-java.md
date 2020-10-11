@@ -460,9 +460,7 @@ Los frameworks dan una estructura a sus aplicaciones. Por ejemplo, si tenemos un
 De la misma manera, si existen frameworks para ORM, aplicaciones web, registro, gestión de datos, etc., simplificará la vida de un desarrollador y le ayudará a concentrarse más en la lógica de negocios en lugar de preocuparse por las piezas de código comunes utilizadas en un dominio o aplicación.
 <!-- [CONTENIDO INTRODUCCION](https://hackr.io/blog/java-frameworks) -->
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-### Conclusión
+### Conclusión <!-- omit in toc -->
 
 Hay muchos otros frameworks java que no son full-stack o frameworks de desarrollo web, pero son útiles en todas las aplicaciones, como log4j para el registro, Junit y Selenium para las pruebas, etc. Es esencial saber acerca de ellos, aunque puedes aprenderlos sobre la marcha junto con los otros frameworks que has visto en la lista anterior.
 

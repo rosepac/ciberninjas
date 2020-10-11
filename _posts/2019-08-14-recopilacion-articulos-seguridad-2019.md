@@ -29,6 +29,6 @@ Las diferentes temáticas de las charlas son:
 - Critical Zero Day compromete el Sistema Operativo en tiempo real más popular
 - Explotación remota de SQLite y Curl
 
-[📰 Ver la Noticia Completa](https://techcrunch.com/2019/08/10/were-all-doomed-2019-edition/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📰 Ver la Noticia Completa](https://techcrunch.com/2019/08/10/were-all-doomed-2019-edition/ "Charla de Ciberseguridad 2019, Todos Estamos Condenados"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > Fuente: [BlackHat](https://www.blackhat.com/us-19/briefings/schedule/ "Enlaces a todas las charlas y sesiones del evento creado por Blackhat con sus respectivos archivos adjuntos: Ciberninjas"){:target="_blank" rel="nofollow,noreferrer"}

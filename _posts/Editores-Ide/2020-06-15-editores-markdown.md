@@ -8,7 +8,7 @@ tags:
 - Markdown
 thumbnail: /assets/img/blog/editores_negro.webp
 feature-img: /assets/img/blog/editores_negro.webp
-title: '▷ Qué es Markdown y los 8 Mejores Editores de Markdown 2021'
+title: '▷ ¿Qué es Markdown y los 8 Mejores Editores de Markdown 2021?'
 description: >-
   Los mejores editores de texto, notas y creación de diarios con los que de editar publicaciones y redactar tus pensamientos con el lenguaje de Markdown.
 excerpt: >-
@@ -46,9 +46,9 @@ Aparte, vas a encontrarte 3 opciones online con las que poder probar Markdown si
 
 ## **1. Editor de Markdown Typora**
 
-Sin lugar a dudas, para mi el mejor editor de los que he probado. Sencillo, simple, útil; visualmente muy, muy agradable. Su minimalismo y su modo a pantalla completa, es perfecto para centrarse en escribir.
-
 ![Vista de la interfaz del editor de Markdown Typora](/assets/img/blog/markdown_typora_captura_1.webp "Vista de la interfaz del editor de Markdown Typora")
+
+Sin lugar a dudas, para mi el mejor editor de los que he probado. Sencillo, simple, útil; visualmente muy, muy agradable. Su minimalismo y su modo a pantalla completa, es perfecto para centrarse en escribir.
 
 La vista previa es instantánea y se va mostrando según redactamos, aunque también soporta un modo de *'código'* donde nos muestra el contenido junto a los símbolos del lenguaje.
 
@@ -70,11 +70,11 @@ Podremos hacerle aprender palabras nuevas, haciendo 'click' sobre una palabra y 
 
 ## **2. Editor MarkDown Monster**
 
+![interfaz de markdown monster](/assets/img/blog/monster_1.webp)
+
 Este editor, **MarkDown Monster**, probablemente sea el más completo. En principio es un *software* de pago, aunque existe una versión gratuita que creo no existe problema alguna por utilizar de manera constante (salvo algún anuncio de la versión de pago).
 
 Visualmente, posee un aspecto muy moderno y muy agradable. Permite cambiar de 'piel' tanto de la ventana del programa en sí (modo claro,modo oscuro) como de la ventana de escritura (toda una paleta de colores).
-
-![interfaz de markdown monster](/assets/img/blog/monster_1.webp)
 
 Se trabaja sobre una ventana mientras muestra una pre-visualización en la otra.
 
@@ -97,9 +97,10 @@ No posee un mundo 'full screen 100%' pero si un modo de escritura sin distraccio
 
 ## **3. Editor de Markdown Boostnote**
 
+![Interfaz del editor de texto boostnote](/assets/img/blog/editor-bootsnote.webp)
+
 **Boostnote**, es el editor más complicado. Su forma de crear y gestionar documentos es un tanto rígida; por lo qué, una vez te acostumbres puede ser una ventaja.
 
-![interfaz del editor de texto boostnote](/assets/img/blog/boost_1.webp)
 Pero hasta que llegue ese momento, es un tanto extraño. Debemos sumarle, que su interfaz por defecto, dividida en 4 apartados, no es del todo agradable. A pesar de que se pueden mover las ventanas, es incómodo excepto que desees crear notas cortas y rápidas.
 
 Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas, ofreciéndonos una opción de marcar notas como favoritas o añadir etiquetas. 
@@ -108,9 +109,9 @@ Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas,
 
 ## **4. Editor de Markdown Zettlr**
 
-Zettlr es un editor de Markdown especial, ¿Por qué? Pues porque no es un editor de texto, simple y sencillo al uso. Zettlr es un completo editor que te va a ayudar a la creación de trabajos universitarios o de un diaro o bloc de notas personal espectacular.
-
 ![Vista de inicio del editor perfecto de Markdown para estudiantes universitarios Zettlr](/assets/img/2020-news/zettlr-editor-texto.webp "Vista de inicio del editor perfecto de Markdown para estudiantes universitarios Zettlr")
+
+Zettlr es un editor de Markdown especial, ¿Por qué? Pues porque no es un editor de texto, simple y sencillo al uso. Zettlr es un completo editor que te va a ayudar a la creación de trabajos universitarios o de un diaro o bloc de notas personal espectacular.
 
 Zettlr es capaz de mejorar tu metodología de trabajo gracias a la implementación de [la metodología Zettelkasten](https://ciberninjas.com/wiki/zettelkasten/), además de la integración perfecta de gestores de referencias, la integración del uso de hastags, la posibilidad de cargar citas en modo CSL-JSON o BibTex.
 
@@ -122,9 +123,9 @@ Si quieres conocer Zettlr más en profundidaz, no dejes de [leer nuestro anális
 
 ## **5. Editor de Markdown Haroopad**
 
-**Haroopad**, es posiblemente un editor más enfocado  a usuarios que se dedique a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
-
 ![interfaz del software, editor de texto Haroopad](/assets/img/blog/haropad_captura_1.webp)
+
+**Haroopad**, es posiblemente un editor más enfocado  a usuarios que se dedique a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
 
 Por defecto tiene una pequeña 'chuletilla' de **MarkDown** que puedes o bien mantener a la vista, o si no; estará a mano de un solo 'Click' abajo a la izquierda de la ventana.
 
@@ -138,9 +139,9 @@ Con estas excelentes aplicaciones, vamos a poder explotar todo el potencial de M
 
 ## **6. Editor de Markdown FocuxFox**
 
-FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de fondo para ayudarte a *enfocarte* exclusivamente en lo que necesitas, que utiliza las funciones de Markdown para agregar rápidamente el formato al texto sin formato; y además, agrega botones y una amplia chuleta de Markdown para los más principiantes.
-
 ![visión del editor online de FocuxFox](/assets/img/blog/focuxfox-1.webp)
+
+FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de fondo para ayudarte a *enfocarte* exclusivamente en lo que necesitas, que utiliza las funciones de Markdown para agregar rápidamente el formato al texto sin formato; y además, agrega botones y una amplia chuleta de Markdown para los más principiantes.
 
 La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de corrector ortográfico para los ~~ errores ~~ además de ofrecer el modo de escritura de minimalista y el modo oscuro de escritura.
 
@@ -148,9 +149,9 @@ La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de co
 
 ## **7. Editor de Markdown online StackEdit**
 
-StackEdit nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final.
-
 ![Visión del editor online de Stackedit](/assets/img/blog/stackedit.webp)
+
+StackEdit nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final.
 
 Barra de botones con opciones rápidas a atajos de elementos de **MarkDown** incluso para la creación de tablas y con opciones de publicar lo editado de forma rápida.
 
@@ -160,19 +161,17 @@ El corrector ortográfico del navegador funciona perfectamente.
 
 ## **8. Editor de Markdown online Dillinger**
 
-Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante.
-
 ![Visión de la web del editor online dillinger](/assets/img/blog/dillinger_1.webp)
 
-Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peor de todo, el corrector ortográfico se desactiva al escribir. 
+Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante. Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peor de todo, el corrector ortográfico se desactiva al escribir. 
 
 [🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **9. Editor de Markdown online Hackmd.io**
 
-Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones de usabilidad, incluso de tablas. Conexión, exportación e importación por varias cuentas.
-
 ![Visión de la página del editor online de markdown, Hackmd](/assets/img/blog/ultimo_online.webp)
+
+Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones de usabilidad, incluso de tablas. Conexión, exportación e importación por varias cuentas.
 
 La parte extra de **Hackmd** es que permite el trabajo compartido online, compartir una nota y editarla de forma grupal; y un panel de 'portada' desde el que podremos gestionar las publicaciones trabajando con etiquetas o palabras claves.
 
@@ -252,6 +251,18 @@ Con la introducción de Markdown, escribir un correo electrónico o blog dentro 
 
 Si aún no has probado nunca a escribir en Markdown, comienza a hacerlo desde hoy; a continuación tienes editores en los que empezar a probar y con los que comenzar a ser un fanático la escritura en Markdown.
 
-![Qué es Markdown y los 8 Mejores Editores de Markdown 2021, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
+### **Relacionados** <!-- omit in toc -->
+
+[▷ Los Mejores Editores de Texto GRATIS para PROGRAMAR en 2021](https://ciberninjas.com/mejores-editores-texto/)
+
+[▷ 11 Mejores Editores de Código de Python y entornos de desarrollo IDE 2021](https://ciberninjas.com/mejores-ide-python/)
+
+[▷ Los 11 Mejores Editores de Código PHP y Entornos de Desarrollo 2021](https://ciberninjas.com/mejores-editores-php/)
+
+[▷ Gitpod: Plataforma IDE en la nube de código abierto](https://ciberninjas.com/gitpod-abre-el-codigo/)
+
+[▷ Segunda actualización de Java para Visual Studio Code en 2020](https://ciberninjas.com/actualidad-java-visual-studio/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![Qué es Markdown y los 8 Mejores Editores de Markdown 2021, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
