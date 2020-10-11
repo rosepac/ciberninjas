@@ -111,7 +111,7 @@ Al finalizar el módulo de entornos de desarrollo, deberías de haber aprendido 
 
 Al finalizar esta unidad el alumno / a:
 
-**1.** Reconocer los elementos y las herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en que actúan hasta llegar a su puesta en funcionamiento.
+**1. Reconocer los elementos y las herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en que actúan hasta llegar a su puesta en funcionamiento.**
 
 - Identifica la relación de los programas con los componentes del sistema informático: memoria, procesador, periféricos, entre otros.
 - Identificar las fases de desarrollo de una aplicación informática.
@@ -120,7 +120,7 @@ Al finalizar esta unidad el alumno / a:
 - Clasificar los lenguajes de programación.
 - Evaluar la funcionalidad ofrecida por las herramientas utilizadas en programación.
 
-**2.** Evaluar los entornos de desarrollo integrado analizando sus características para editar código fuente y generar ejecutables.
+**2. Evaluar los entornos de desarrollo integrado analizando sus características para editar código fuente y generar ejecutables.**
 
 - Instalar entornos de desarrollo, propietarios y libres.
 - Añade y eliminar módulos en el entorno de desarrollo.
@@ -134,7 +134,7 @@ Al finalizar esta unidad el alumno / a:
 
 Al finalizar esta unidad el alumno / a:
 
-**1.** Verifica el funcionamiento de programas diseñando y realizando pruebas.
+**1. Verifica el funcionamiento de programas diseñando y realizando pruebas.**
 
 - Identificar los diferentes tipos de pruebas.
 - Define casos de prueba.
@@ -146,7 +146,7 @@ Al finalizar esta unidad el alumno / a:
 - Implementar pruebas automáticas.
 - Documentar las incidencias detectadas.
 
-**2.** Optimiza código utilizando las herramientas disponibles en el entorno de desarrollo
+**2. Optimiza código utilizando las herramientas disponibles en el entorno de desarrollo.**
 
 - Identificar los patrones de refacción más usuales.
 - Elaborar las pruebas asociadas a la refacción.
@@ -161,7 +161,7 @@ Al finalizar esta unidad el alumno / a:
 
 Al finalizar esta unidad el alumno / a:
 
-**1.** Generar diagramas de clases valorando su importancia en el desarrollo de aplicaciones y utilizando las herramientas disponibles en el entorno.
+**1. Generar diagramas de clases valorando su importancia en el desarrollo de aplicaciones y utilizando las herramientas disponibles en el entorno.**
 
 - Identificar los conceptos básicos de la programación orientada a objetos.
 - Instalar el módulo del entorno de desarrollo integrado que permite la utilización de diagramas de clases.
@@ -171,7 +171,7 @@ Al finalizar esta unidad el alumno / a:
 - Generar código a partir de un diagrama de clases.
 - Generar un diagrama de clases mediante ingeniería inversa.
 
-**2.** Generar diagramas de comportamiento valorando su importancia en el desarrollo de aplicaciones y utilizando las herramientas disponibles en el entorno.
+**2. Generar diagramas de comportamiento valorando su importancia en el desarrollo de aplicaciones y utilizando las herramientas disponibles en el entorno.**
 
 - Identificar los diferentes tipos de diagramas de comportamiento.
 - Reconocer el significado de los diagramas de casos de uso.
@@ -196,6 +196,7 @@ Al finalizar esta unidad el alumno / a:
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+> **Contenido traducido** a 11 de Octubre de 2020, por [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy/).
 > **Licencia**: [CCO](https://creativecommons.org/licenses/by-nc-sa/3.0/es/deed.ca "Licencia CCO"){:target="_blank" rel="nofollow,noreferrer"} creado inicialmente por el Instituto Abierto de Cataluña.
 
 ![¿Qué aprenderás en el módulo de entornos de desarrollo?](/assets/img/paginas/fp/entorno-desarrollo-aprender.webp "¿Qué aprenderás en el módulo de entornos de desarrollo?")

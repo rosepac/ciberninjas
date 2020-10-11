@@ -362,7 +362,7 @@ Aquí vas a poder encontrar algunas de las palabras más utilizadas dentro del m
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){:.btn.btn-danger.btn-lg.btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-> **Contenido creado y traducido** a 11 de Octubre de 2020, por [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy/).
+> **Contenido traducido** a 11 de Octubre de 2020, por [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy/).
 > **Licencia**: [CCO](https://creativecommons.org/licenses/by-nc-sa/3.0/es/deed.ca "Licencia CCO"){:target="_blank" rel="nofollow,noreferrer"} creado inicialmente por el Instituto Abierto de Cataluña.
 
 ![Palabras más utilizadas en el módulo de entorno de desarrollo](/assets/img/paginas/fp/entorno-desarrollo-diccionario.webp "Palabras más utilizadas en el módulo de entorno de desarrollo")
