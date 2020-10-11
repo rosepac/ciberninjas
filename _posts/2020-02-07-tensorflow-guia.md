@@ -7,7 +7,7 @@ description: TensorFlow es una biblioteca de software de código abierto desarro
 excerpt: TensorFlow es una biblioteca de software de código abierto desarrollada por Google para el cálculo numérico con gráficos de flujo de datos. Esta guía TensorFlow cubre por qué la biblioteca es importante, cómo usarla y más.
 published: true
 comments: false
-date: 2020-03-13 13:08:12
+date: 2020-10-05 13:08:12
 last_modified_at: 
 thumbnail: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
 feature-img: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
@@ -50,10 +50,10 @@ TensorFlow se lanzó originalmente el 9 de noviembre de 2015, y la versión esta
 
 Los desarrolladores pueden descargar el código fuente desde el repositorio TensorFlow GitHub. Los usuarios ya están viendo sus efectos en el ecosistema de Google.
 
-**Saber Más**: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+**Saber Más**: [Cómo aprender Python 2021](/python/ "Cómo aprender Python 2021"), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning 2021](/que-aprender-sobre-machine-learning-2020/ "Cómo aprender aprendizaje automático o machine learning 2021"), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--primary}
 
-## ¿Qué es TensorFlow?
+## **¿Qué es TensorFlow?**
 
 Cuando tienes una foto de la Torre Eiffel, Google Photos puede identificar la imagen. Esto es posible gracias al aprendizaje profundo y desarrollos como TensorFlow. Antes de TensorFlow había una división entre los investigadores del aprendizaje automático y los que desarrollaban productos reales; esa división hizo difícil para los desarrolladores incluir el aprendizaje profundo en su software. Con TensorFlow, esa división se ha ido.
 
@@ -74,7 +74,7 @@ Google está en proceso de implementar TensorFlow 2.0, que incluye las siguiente
 * La experimentación avanzada será posible con nuevas extensiones de [Tensores irregulares](https://www.tensorflow.org/guide/ragged_tensors){:target="_blank" rel="nofollow,noreferrer"} (el equivalente TensorFlow de listas anidadas de longitud variable), [TensorFlow Probability](https://www.tensorflow.org/probability){:target="_blank" rel="nofollow,noreferrer"} (una biblioteca de Python construida en TensorFlow que facilita la combinación de modelos probabilísticos y aprendizaje profundo) y [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor){:target="_blank" rel="nofollow,noreferrer"} (una biblioteca de modelos de aprendizaje profundo y conjuntos de datos).
 * Una herramienta de conversión que actualiza automáticamente el código de TensorFlow 1.x Python para que pueda usarse con las API compatibles con TensorFlow 2.0 (y marca los casos en los que dicho código no se puede convertir automáticamente).
 
-## ¿Por qué importa TensorFlow?
+## **¿Por qué importa TensorFlow?**
 
 El aprendizaje automático es la salsa secreta para la innovación del mañana. El aprendizaje automático, también llamado aprendizaje profundo, se considera una clase de algoritmos que:
 
@@ -88,21 +88,21 @@ Con desarrolladores y compañías capaces de usar las bibliotecas TensorFlow, ca
 
 Debido a que Google hizo de código abierto TensorFlow, las bibliotecas pueden ser a la vez mejorado y ampliado a otros idiomas, tales como [Java](https://www.java.com/){:target="_blank" rel="nofollow,noreferrer"}, [Lua](https://www.lua.org/){:target="_blank" rel="nofollow,noreferrer"}, y [R](https://www.r-project.org/about.html){:target="_blank" rel="nofollow,noreferrer"}. Este movimiento lleva el aprendizaje automático (algo que hasta ahora solo estaba disponible para los institutos de investigación) a todos los desarrolladores, para que puedan enseñar a sus sistemas y software a reconocer imágenes o traducir el habla.
 
-## ¿A quién afecta TensorFlow?
+## **¿A quién afecta TensorFlow?**
 
 TensorFlow no solo hace posible que los desarrolladores incluyan el botín de aprendizaje profundo en sus productos, sino que hace que los dispositivos y el software sean significativamente más inteligentes y fáciles de usar. En nuestro mundo moderno, móvil y conectado 24/7, eso significa que todos están afectados. Los diseñadores de software, desarrolladores, pequeñas empresas, empresas y consumidores se ven afectados por el resultado final del aprendizaje profundo. El hecho de que Google haya creado una biblioteca de software que mejora dramáticamente el aprendizaje profundo es una gran victoria para todos.
 
-## ¿Cuándo se lanzó TensorFlow?
+## **¿Cuándo se lanzó TensorFlow?**
 
 TensorFlow se lanzó originalmente el 9 de noviembre de 2015, y la versión estable se puso a disposición el 15 de febrero de 2017. [TensorFlow 2.0 alpha ya](https://www.tensorflow.org/alpha){:target="_blank" rel="nofollow,noreferrer"} está disponible, y la vista previa pública estará disponible próximamente. Puede obtener más información sobre el alfa TensorFlow 2.0 en la [guía](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner){:target="_blank" rel="nofollow,noreferrer"} oficial [Comenzar con TensorFlow](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner){:target="_blank" rel="nofollow,noreferrer"} .
 
 Las [bibliotecas](https://github.com/jtoy/awesome-tensorflow#libraries){:target="_blank" rel="nofollow,noreferrer"} , las [API](https://www.tensorflow.org/api_docs/){:target="_blank" rel="nofollow,noreferrer"} y [las guías de desarrollo](https://www.tensorflow.org/get_started/get_started){:target="_blank" rel="nofollow,noreferrer"} están disponibles ahora, por lo que los desarrolladores pueden comenzar a incluir TensorFlow en sus productos. Los usuarios ya están viendo los resultados de TensorFlow en Google Photos, Gmail, Google Search, Google Assistant y más.
 
-## Competidores de TensorFlow
+## **Competidores de TensorFlow**
 
 TensorFlow no está solo en el campo de aprendizaje profundo; de hecho, hay varias otras empresas con frameworks de aprendizaje automático, incluidas las siguientes [bibliotecas de Python](/python/#bibliotecas-de-python) como [Theano](/python/#theano), [Keras](/python/#keras), [Pandas](/python/#pandas), etc. Entre algunas otras librerías aún no citadas como por ejemplo [Torch](https://github.com/torch/torch7){:target="_blank" rel="nofollow,noreferrer"}, [Caffe](https://github.com/BVLC/caffe){:target="_blank" rel="nofollow,noreferrer"}, [neon](https://github.com/NervanaSystems/neon){:target="_blank" rel="nofollow,noreferrer"} o [H2O.ai](https://www.h2o.ai/){:target="_blank" rel="nofollow,noreferrer"}
 
-## ¿Cómo empiezo a usar TensorFlow?
+## **¿Cómo empiezo a usar TensorFlow?**
 
 Lo primero que debe hacer cualquier desarrollador es leer la [guía de inicio de TensorFlow](https://www.tensorflow.org/get_started/get_started){:target="_blank" rel="nofollow,noreferrer"}, que incluye un tutorial básico de TensorFlow. Si es nuevo en el aprendizaje automático, asegúrese de consultar las siguientes guías:
 
@@ -121,12 +121,11 @@ Finalmente, los desarrolladores pueden aprovechar todas las guías de TensorFlow
 * [TensorBoard: visualización de gráficos](https://www.tensorflow.org/get_started/graph_viz){:target="_blank" rel="nofollow,noreferrer"}
 * [Conceptos básicos de registro y monitoreo con tf.contrib.learn](https://www.tensorflow.org/get_started/monitors){:target="_blank" rel="nofollow,noreferrer"}
 
-## Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 * [Curso de Tensorflow con Anaconda](/tensorflow-con-jap-software/) 
 * [Crea un Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/) 
 * [▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes](/11-aprendizajes-principiantes-inteligencia-artificial/)
 * [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
-**Fuente**\: [Tech Republic](https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+> **Fuente**: [Tech Republic](https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/){:target="_blank" rel="nofollow,noreferrer"}
