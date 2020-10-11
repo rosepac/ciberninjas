@@ -7,7 +7,7 @@ excerpt: "Los mejores apuntes y recursos para superar el FP de desarrollo de apl
 published: true
 comments: false
 bootstrap: true
-date: 2020-09-22
+date: 2020-10-09
 permalink: /recursos-daw/
 canonical_URL: https://ciberninjas.com/recursos-daw/
 thumbnail: /assets/img/paginas/fp/portada-daw.webp
@@ -15,6 +15,8 @@ feature-img: /assets/img/paginas/fp/portada-daw.webp
 img: /assets/img/paginas/fp/portada-daw.webp
 
 ---
+
+{% include fpdaw.html %}
 
 <div class="hidden-sm-down">
 <nav aria-label="breadcrumb">
