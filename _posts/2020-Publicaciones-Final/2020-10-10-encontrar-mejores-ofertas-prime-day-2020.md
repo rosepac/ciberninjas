@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Ofertas Amazon
 thumbnail: /assets/img/blog/amazon-prime-day-camel.webp
 feature-img: /assets/img/blog/amazon-prime-day-camel.webp
 title: '▷ ¿Cómo encontrar las mejores ofertas durante Prime Day 2020?'
@@ -37,8 +37,8 @@ Año tras año, lanzan ofertas, con la esperanza de intentar hacer sombra al gra
 - [**¿Cómo encontrar las mejores ofertas de Prime Day 2020?**](#cómo-encontrar-las-mejores-ofertas-de-prime-day-2020)
 - [**CamelCamelCamel: El mejor rastreador de productos de Amazon**](#camelcamelcamel-el-mejor-rastreador-de-productos-de-amazon)
 - [Honey](#honey)
-- [Chollometro](#chollometro)
-- [PC Part Picker](#pc-part-picker)
+- [**Chollometro**](#chollometro)
+- [PC Componentes](#pc-componentes)
 - [**Vigila los precios fuera de Amazon**](#vigila-los-precios-fuera-de-amazon)
 - [**Ven, y vivamos el Amazon Prime Day juntos**](#ven-y-vivamos-el-amazon-prime-day-juntos)
 - [**Nuevos Dispositivos Inteligentes de Amazon**](#nuevos-dispositivos-inteligentes-de-amazon)
@@ -67,7 +67,7 @@ Honey trabaja con Amazon y muchos otros minoristas, y puede agregar elementos a 
 
 Además, Honey ofrece un sistema de afiliados por compartir cupones descuento, además de por invitar a más personas a participar. Con el que puedes ganar Cheque descuento de 10 dólares.
 
-## Chollometro
+## **Chollometro**
 
 Chollometro reúne algunas de las mejores ofertas en Internet, según lo descubierto por su equipo y comunidad de usuarios. Su sitio también le permite crear alertas de ofertas basadas en palabras clave, pero funcionan de manera un poco diferente en Slickdeals que en los sitios anteriores.
 
@@ -81,17 +81,19 @@ Chollometro no es exactamente un comparador de precios. La dinámica de la web, 
 
 Acaso alguien puede poner en dudas, de qué, ¿Más de 3.000.000 de ojos, van a ser mejor vigilante que solamente tus propios ojos?
 
-## PC Part Picker
+## PC Componentes
 
-Como habrás adivinado con el nombre, PC Part Picker te ayuda a elegir componentes de PC que sean compatibles entre sí, lo que facilita un poco la ya abrumadora tarea de armar una configuración de PC DIY.
+Como habrás adivinado con el nombre, [PC Componentes](https://www.pccomponentes.com/configurador/){:target="_blank" rel="nofollow,noreferrer"} te ayuda a elegir los mejores componentes de PC que sean compatibles entre sí, lo que facilita un poco la ya abrumadora tarea de armar una configuración de PC propio.
 
-Eso en sí mismo lo convierte en una herramienta crucial, pero también es un excelente rastreador de precios, que le muestra un gráfico detallado que ilustra el movimiento actual y anterior en el precio de un componente en particular.
+<!-- Eso en sí mismo lo convierte en una herramienta crucial, pero también es un excelente rastreador de precios, que le muestra un gráfico detallado que ilustra el movimiento actual y anterior en el precio de un componente en particular. -->
 
-Le permite construir la PC de sus sueños y puede alertarlo por correo electrónico sobre caídas de precios de grandes minoristas como Amazon, Best Buy, Newegg, B&H Photo y más. De esa manera, puede, digamos, elegir esperar para comprar todo hasta que ese procesador o tarjeta gráfica baje a un precio más bajo que sabe que ha alcanzado antes.
+El constructor de Ordenadores, te permite construir la PC de tus sueños, no dudes en usarlo para calcular el precio exacto del ordenador montado a tu propio placer. <!-- y puede alertarlo por correo electrónico sobre caídas de precios de grandes minoristas como Amazon, Best Buy, Newegg, B&H Photo y más. De esa manera, puede, digamos, elegir esperar para comprar todo hasta que ese procesador o tarjeta gráfica baje a un precio más bajo que sabe que ha alcanzado antes. -->
 
 ## **Vigila los precios fuera de Amazon**
 
-Prime Day es un gran evento que muestra la presencia minorista de Amazon, por lo que, naturalmente, otras cadenas minoristas se dan cuenta. A veces, puede encontrar mejores ofertas en Best Buy, Target, Walmart y Newegg. Recopilaremos las mejores ventas anti-Prime Day una vez que lleguen. Si la oferta de Amazon no tiene todo lo que desea o si solo desea asegurarse de obtener la mejor oferta, compare un poco.
+Prime Day es un gran evento que muestra la presencia minorista de Amazon, por lo que, naturalmente, otras cadenas minoristas se dan cuenta. A veces, puede encontrar mejores ofertas en otras tiendaso Online.
+
+Por lo que no debes de olvidarte de comparar precios, antes de lanzarte a realizar tu compra final.
 
 ## **Ven, y vivamos el Amazon Prime Day juntos**
 
@@ -101,7 +103,7 @@ El ser una única persona, reduce un poco las posibilidades y capacidad de actua
 
 ## **Nuevos Dispositivos Inteligentes de Amazon**
 
-De hecho, ya puedes acceder, a todas las ofertas de los nuevos dispositivos inteligentes de Amazon. Recién, hemos publicado las ofertas de lanzamiento, y se espera que durante las próximas fechas. Aparezca alguna pequeña rebaja para ellos.. 😉
+De hecho, ya puedes acceder, a todas las ofertas de [los nuevos dispositivos inteligentes de Amazon](https://ciberninjas.com/amazon-nuevo-hardware/). Recién, hemos publicado las ofertas de lanzamiento, y se espera que durante las próximas fechas. Aparezca alguna pequeña rebaja para ellos.. 😉
 
 ### **Relacionados** <!-- omit in toc -->
 
