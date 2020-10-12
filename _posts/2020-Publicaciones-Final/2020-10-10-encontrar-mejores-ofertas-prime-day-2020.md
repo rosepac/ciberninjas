@@ -12,11 +12,11 @@ description: >-
   Prime Day 2020 traerá algunas de las mejores ofertas en tecnología de todo el año. He reunido algunos de los mejores sitios de seguimiento de precios que te ayudarán a asegurarte de obtener todo los dispositivos de tu lista de deseos antes de que se agote.
 excerpt: >-
   Prime Day 2020 traerá algunas de las mejores ofertas en tecnología de todo el año. He reunido algunos de los mejores sitios de seguimiento de precios que te ayudarán a asegurarte de obtener todo los dispositivos de tu lista de deseos antes de que se agote.
-canonical_URL: https://ciberninjas.com/encontrar-mejores-ofertas-pd2020/
-permalink: /encontrar-mejores-ofertas-pd2020/
-date: 2020-10-10 14:28:32
+canonical_URL: https://ciberninjas.com/encontrar-mejores-ofertas-pd-2020/
+permalink: /encontrar-mejores-ofertas-pd-2020/
+date: 2020-10-12 12:28:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -37,7 +37,6 @@ Año tras año, lanzan ofertas, con la esperanza de intentar hacer sombra al gra
 - [**¿Cómo encontrar las mejores ofertas de Prime Day 2020?**](#cómo-encontrar-las-mejores-ofertas-de-prime-day-2020)
 - [**CamelCamelCamel: El mejor rastreador de productos de Amazon**](#camelcamelcamel-el-mejor-rastreador-de-productos-de-amazon)
 - [Honey](#honey)
-- [SlickDeals](#slickdeals)
 - [Chollometro](#chollometro)
 - [PC Part Picker](#pc-part-picker)
 - [**Vigila los precios fuera de Amazon**](#vigila-los-precios-fuera-de-amazon)
@@ -48,7 +47,7 @@ Año tras año, lanzan ofertas, con la esperanza de intentar hacer sombra al gra
 
 Personalmente, desde **Ciberninjas intentaré estar publicando las mejores y más recomendables ofertas y descuentos**, pero si deseas ser de las primeras personas en enterarte de **las bajadas de precios de todos los productos que te interesan**, la mejor idea es que configures una web de seguimiento de precios con las alertas adecuadas.
 
-A continuación. Vas a encontrar mis comparadores favoritos, y en qué puede ayudar cada uno de ellos.
+A continuación. Vas a encontrar mis comparadores favoritos, y en qué te puede ayudar cada uno de ellos.
 
 Todas los opciones son gratuitas, y una vez que hayas agregado los productos que te interesen, vas a poder estar tranquilo sabiendo que no necesitarás realizar ninguna acción adicional hasta que llegue el momento de realizar tus compras.
 
@@ -56,23 +55,25 @@ Todas los opciones son gratuitas, y una vez que hayas agregado los productos que
 
 [CamelCamelCamel](https://es.camelcamelcamel.com/){:target="_blank" rel="nofollow,noreferrer"} rastrea el precio de cada producto vendido en Amazon y puede enviarle alertas cuando bajan tanto como usted quisiera. Una vez que un producto alcance el precio deseado que haya establecido o más bajo, recibirá un correo electrónico al respecto. Este rastreador de precios funciona solo para productos en Amazon, por lo que deberá usar uno diferente a continuación si desea rastrear el movimiento de precios en Walmart, Best Buy y otros.
 
-Para realizar un seguimiento de los precios y recibir alertas por correo electrónico, deberá crear una cuenta gratuita. Además, sugiero instalar la extensión del navegador del sitio , llamada The Camelizer, que le permite ver las tendencias de precios producto por producto y le permite establecer el precio deseado sin salir de Amazon. Es fantástico y fácil de usar.
+Para realizar un seguimiento de los precios y recibir alertas por correo electrónico, deberá crear una cuenta gratuita. Además, es [muy recomendable la instalación de la extensión para el navegador, llamada The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo){:target="_blank" rel="nofollow,noreferrer"} que te permite ver las tendencias de precios producto por producto y establecer el precio deseado sin salirte de Amazon. **Camelizer es fantástico y muy fácil de usar**.
 
-Tan pronto como uno de los productos caiga por debajo de la cantidad establecida en su alerta de precio, recibirá un correo electrónico instantáneamente. Y si ya tiene una lista de deseos guardada en Amazon, puede importarla a CamelCamelCamel.
+Tan pronto como uno de los productos caiga por debajo de la cantidad establecida en su alerta de precio, recibirá un correo electrónico instantáneamente. Y si ya tiene una lista de deseos guardada en Amazon, puede importarlas a CamelCamelCamel para que sea supervisada por el propio sitio.
 
 ## Honey
 
-Al igual que CamelCamelCamel, la extensión del navegador Honey puede realizar un seguimiento de los precios de los artículos que le interesan y le avisará cuando encuentre una oferta. Sin embargo, a diferencia del sitio de seguimiento de precios anterior, Honey también rastreará cada sitio que visite en busca de códigos de oferta que se puedan aplicar al total de su pago para ahorrarle aún más dinero.
+Al igual que CamelCamelCamel, [la extensión del navegador Honey](https://www.joinhoney.com/ref/igsfkqm){:target="_blank" rel="nofollow,noreferrer"} puede realizar un seguimiento de los precios de los artículos que le interesan y le avisará cuando encuentre una oferta. Sin embargo, a diferencia del sitio de seguimiento de precios anterior, Honey también rastreará cada sitio que visite en busca de códigos de oferta que se puedan aplicar al total de su pago para ahorrarle aún más dinero.
 
-Honey trabaja con Amazon y muchos otros minoristas, y puede agregar elementos a su "Droplist", que es básicamente una lista de deseos. En Best Buy, por ejemplo, la opción de agregar un artículo a su lista aparece en la imagen del producto y puede seleccionar la duración de la observación del precio, así como el porcentaje de descuento que está buscando.
+Honey trabaja con Amazon y muchos otros minoristas, y puede agregar elementos a su "Droplist", que es básicamente una lista de deseos. En Best Buy (tienda exclusiva para México, EE.UU. y Cánada), por ejemplo, la opción de agregar un artículo a su lista aparece en la imagen del producto y puede seleccionar la duración de la observación del precio, así como el porcentaje de descuento que está buscando.
 
-## SlickDeals
-
-Slickdeals reúne algunas de las mejores ofertas en Internet, según lo descubierto por su equipo y comunidad de usuarios. Su sitio también le permite crear alertas de ofertas basadas en palabras clave, pero funcionan de manera un poco diferente en Slickdeals que en los sitios anteriores.
-
-Puede escribir el nombre de un producto, como "Nintendo Switch" o el nombre de un minorista, y una vez que se agregue a su lista, se le notificará una alerta de oferta si cumple con sus criterios. Puede configurarlo para que le avise literalmente sobre cualquier oferta relacionada con su palabra clave, o puede filtrar ofertas para que se le notifique si, por ejemplo, la oferta es lo suficientemente popular como para llegar a la página principal de Slickdeals o si obtuvo una alta calificación de la comunidad.
+Además, Honey ofrece un sistema de afiliados por compartir cupones descuento, además de por invitar a más personas a participar. Con el que puedes ganar Cheque descuento de 10 dólares.
 
 ## Chollometro
+
+Chollometro reúne algunas de las mejores ofertas en Internet, según lo descubierto por su equipo y comunidad de usuarios. Su sitio también le permite crear alertas de ofertas basadas en palabras clave, pero funcionan de manera un poco diferente en Slickdeals que en los sitios anteriores.
+
+Puede escribir el nombre de un producto, como "Nintendo Switch" o el nombre de un minorista, y una vez que se agregue a su lista, se le notificará una alerta de oferta si cumple con sus criterios.
+
+Puede configurarlo para que le avise literalmente sobre cualquier oferta relacionada con su palabra clave, o puede filtrar ofertas para que se le notifique si, por ejemplo, la oferta es lo suficientemente popular como para llegar a la página principal de Slickdeals o si obtuvo una alta calificación de la comunidad.
 
 Con el paso de los años, Chollometro se ha convertido por mérito propio, en la página de compras más importante de España. Sin lugar a dudas, el mejor lugar para estar alerta de las mejores ofertas, y que especifícamente se dedican a ello.
 
@@ -84,7 +85,9 @@ Acaso alguien puede poner en dudas, de qué, ¿Más de 3.000.000 de ojos, van a 
 
 Como habrás adivinado con el nombre, PC Part Picker te ayuda a elegir componentes de PC que sean compatibles entre sí, lo que facilita un poco la ya abrumadora tarea de armar una configuración de PC DIY.
 
-Eso en sí mismo lo convierte en una herramienta crucial, pero también es un excelente rastreador de precios, que le muestra un gráfico detallado que ilustra el movimiento actual y anterior en el precio de un componente en particular. Le permite construir la PC de sus sueños y puede alertarlo por correo electrónico sobre caídas de precios de grandes minoristas como Amazon, Best Buy, Newegg, B&H Photo y más. De esa manera, puede, digamos, elegir esperar para comprar todo hasta que ese procesador o tarjeta gráfica baje a un precio más bajo que sabe que ha alcanzado antes.
+Eso en sí mismo lo convierte en una herramienta crucial, pero también es un excelente rastreador de precios, que le muestra un gráfico detallado que ilustra el movimiento actual y anterior en el precio de un componente en particular.
+
+Le permite construir la PC de sus sueños y puede alertarlo por correo electrónico sobre caídas de precios de grandes minoristas como Amazon, Best Buy, Newegg, B&H Photo y más. De esa manera, puede, digamos, elegir esperar para comprar todo hasta que ese procesador o tarjeta gráfica baje a un precio más bajo que sabe que ha alcanzado antes.
 
 ## **Vigila los precios fuera de Amazon**
 
