@@ -360,7 +360,9 @@ https://amzn.to/2TxtN52
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## 👮‍♀️ Seguridad
+## Seguridad
+
+Los mejores libros de seguridad y seguridad informática, en español.
 
 ## Seguridad Inform&aacute;tica 🔐
 
