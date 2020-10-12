@@ -16,8 +16,6 @@ img: /assets/img/paginas/fp/portada-daw.webp
 
 ---
 
-{% include fpdaw.html %}
-
 <div class="hidden-sm-down">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
@@ -27,6 +25,8 @@ img: /assets/img/paginas/fp/portada-daw.webp
   </ol>
 </nav>
 </div>
+
+{% include fpdaw.html %}
 
 <script type="application/ld+json">
 {
