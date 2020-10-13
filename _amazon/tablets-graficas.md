@@ -15,9 +15,43 @@ feature-img: /assets/img/paginas/amazon/tablet-graficax1280.webp
 img: /assets/img/paginas/amazon/tablet-graficax1280.webp
 ---
 
-Las mejores tabletas gráficas con las que los diseñadores gráficos puedan alcanzar su máximo potencial, creando los mejores diseños.
+Las mejores tabletas gráficas con las que los diseñadores gráficos puedan alcanzar su máximo potencial, creando los mejores diseños. Marcas de reconocido prestigio como Wacom y Huion.
 
-Marcas de reconocido prestigio como Wacom y Huion.
+- [**Las Mejores Ofertas de Dispositivo de Diseño Gráfico del Amazon Prime Day**](#las-mejores-ofertas-de-dispositivo-de-diseño-gráfico-del-amazon-prime-day)
+  - [Wacom, no demasiado rebajadas 😿](#wacom-no-demasiado-rebajadas-)
+- [HUION](#huion)
+- [HUION Kamvas Pro 20](#huion-kamvas-pro-20)
+- [Huion Kamvas 20 2019](#huion-kamvas-20-2019)
+- [HUION Kamvas 16](#huion-kamvas-16)
+- [HUION KAMVAS Pro 13](#huion-kamvas-pro-13)
+- [HUION Inspiroy H950P](#huion-inspiroy-h950p)
+- [WACOM](#wacom)
+- [](#)
+- [](#-1)
+- [](#-2)
+- [](#-3)
+- [🎁 Más Black Friday](#-más-black-friday)
+- [Más Ofertas de Black Friday](#más-ofertas-de-black-friday)
+- [🎁 Más Black Friday](#-más-black-friday-1)
+
+## **Las Mejores Ofertas de Dispositivo de Diseño Gráfico del Amazon Prime Day**
+
+[VER TODAS LAS MEJORES OFERTAS EN TARJETAS GRÁFICAS](https://amzn.to/2jVmaYp "Compra una de las mejores tarjetas gráficas con las rebajas del Prime Day 2020"){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+
+![Wacom One by Wacom Medium](https://i.ibb.co/JFgJQqY/image.png)  
+[Wacom One by Wacom Medium](https://amzn.to/33VsgMq){:target="_blank" rel="nofollow,noreferrer"}
+
+Wacom One by Wacom Medium, **¡Rebajada a 59,99 € su mejor precio desde Octubre de 2019!**. Tableta gráfica con lápiz digital sensible a la presión, compatible con Windows y Mac, óptima para oficina en casa y e-learning, color negro y rojo.
+
+![Wacom Intuos S Tableta Gráfica](https://i.ibb.co/nrwpzyz/wacom2.jpg)  
+[Wacom Intuos S Tableta Gráfica](https://amzn.to/33U4fpd){:target="_blank" rel="nofollow,noreferrer"}
+
+Wacom Intuos S Tableta Gráfica, Bluetooth Negra – Tableta Gráfica Inalámbrica para pintar, dibujar y editar fotos con 2 softwares creativos incluidos para descargar, compatible con Windows & Mac. Su preecio actual es de 61,59, no es un precio mínimo (49,90 en Octubre).
+
+### Wacom, no demasiado rebajadas 😿
+
+![Wacom PTH-660 Intuos Pro M](https://i.ibb.co/n7WWD38/wacom.jpg)  
+[Wacom PTH-660 Intuos Pro M](https://amzn.to/2xQsaoG){:target="_blank" rel="nofollow,noreferrer"} Tableta gráfica con lápiz digital Pro Pen 2 / Tableta digitalizadora para pintura y diseño digital / Portalápices con 10 puntas / Compatible con Windows y MacOS / Negro
 
 ## HUION
 
