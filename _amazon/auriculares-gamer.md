@@ -30,16 +30,16 @@ Dicho esto, no te pierdas la ofertaza de [**los Razer Kraken X**](https://amzn.t
 - [**3. Razer Thresher Ultimate**](#3-razer-thresher-ultimate)
 - [**4. HyperX Cloud Orbit S**](#4-hyperx-cloud-orbit-s)
 - [**5. Steelseries Arctis 7**](#5-steelseries-arctis-7)
-- [6. **Razer Kraken X**](#6-razer-kraken-x)
+- [**6. Razer Kraken X**](#6-razer-kraken-x)
 - [**Más Ofertas con Rebajas y Flash 🎁**](#más-ofertas-con-rebajas-y-flash-)
 
 ## **1. HyperX Cloud Alpha**
 
 [![Compra el auricular HyperX Cloud Alpha](/assets/img/paginas/amazon/auriculares/13-hyper-x.webp "Compra el auricular HyperX Cloud Alpha")](https://amzn.to/3iV00xL){:target="_blank" rel="nofollow,noreferrer"}
 
-> **¡Oferta especial de Prime Day 2020, a un precio de 65,99 €!**
+> **¡OFERTA ESPECIAL DE PRIME DAY 2020, POR 65,99 €!**
 
-[🎧 ¡COMPRA YA TUS HYPERX CLOUD ALPHA! 🎶](https://amzn.to/3iV00xL "Compra ya los auriculares HyperX Cloud Alpha"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡COMPRA YA TUS HYPERX CLOUD ALPHA! 🎶](https://amzn.to/3iV00xL "Compra ya los auriculares HyperX Cloud Alpha"){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Con los frutos del largo legado de excelencia de HyperX Cloud, **el Cloud Alpha presenta un sonido excelente y una calidad de construcción con las características esenciales bien hechas** y sin ninguna característica que infle el precio.
 
@@ -72,7 +72,7 @@ Actualmente en oferta 79,99 €. Su precio normal es de 99,99 €.
 
 > **¡Oferta especial de Prime Day 2020, a 176,99 €!**
 
-[🎧 ¡COMPRA YA TUS STEELSERIES ARCTIS PRO! 🎶](https://amzn.to/2Fgqlst "Compra ya los auriculares Steelseries Arctis Pro + GameDAC"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡COMPRA YA TUS STEELSERIES ARCTIS PRO! 🎶](https://amzn.to/2Fgqlst "Compra ya los auriculares Steelseries Arctis Pro + GameDAC"){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 El audio de alta resolución está mejorando gracias a la transmisión sin pérdidas de Tidal et al, y juegos como Wolfenstein II: The New Colossus que ofrecen soporte completo.
 
@@ -194,7 +194,7 @@ Un micrófono funcional pero ligeramente silencioso y amortiguado es la única g
 
 [🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3bVv7ri "Compra ya los auriculares Steelseries Arctis 7"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 6. **Razer Kraken X**
+## **6. Razer Kraken X**
 
 [![Comprar Razer Kraken X](/assets/img/paginas/amazon/auriculares/razer-kraken-x.webp)](https://amzn.to/3ir4FZ1){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -247,4 +247,4 @@ En la siguiente lista de los mejores auriculares para juegos vas a encontrar opc
 [🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
