@@ -22,6 +22,8 @@ published: true
 
 Amazon acaba de anunciar un montón de nuevos productos en su evento anual de hardware. A continuación, a modo de resumen rápido, un listado completo de todos los nuevos productos de Amazon:
 
+<a class="twitter-timeline" data-width="1010" data-height="750" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Nuevas versiones de [Amazon Echo, Echo Dot Hogar, Echo Dot con reloj y Echo Dot Kids](https://ciberninjas.com/amazon-echo-dot-2020/ "Los nuevos dispositivos inteligentes Amazon Echo 2020").
 - Nuevos enrutadores de red en malla Wi-Fi Eero 6.
 - Nuevo [servicio de transmisión de videojuegos Luna](https://ciberninjas.com/amazon-anuncia-luna/ "Amazon anuncia la plataforma de transmisión de juegos Luna"). Que competirá con Google Stadia y los servicios de transmisión de juegos de Microsoft.

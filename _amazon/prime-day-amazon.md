@@ -23,6 +23,8 @@ El Prime Day 2020 va a comenzar en [la tienda de Amazon](https://amzn.to/2SEXQYq
 
 Desde aquí, vas a poder encontrar **absolutamente todas las mejores ofertas y chollos** (o esa es la idea) **del Amazon Prime Day 2020** y desde **[el siguiente enlace, las mejores ofertas y chollos del Black Friday 2020](https://ciberninjas.com/black-friday-amazon/)** (igual que hice el año pasado) y que ya se dice, que podría comenzar antes de lo esperado en este año 2020 (se comenta, podría comenzar el mismo Martes 13??? 🙀).
 
+<a class="twitter-timeline" data-width="1010" data-height="750" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Además, de las ofertas, a continuación vas a poder obtener **algunos detalles, consejos y sugerencias geniales con las que aprovechar al máximo el Prime Day 2020** y el Black Friday).
 
 ***

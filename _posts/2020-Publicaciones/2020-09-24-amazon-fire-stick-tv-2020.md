@@ -24,6 +24,8 @@ Amazonas anunció hoy un rediseño de la experiencia de Fire TV junto con un Fir
 
 La interfaz actualizada para la plataforma de televisión inteligente habilitada para Alexa introducirá un puñado de nuevas funciones, que incluyen soporte para videollamadas y otras opciones para usar Fire TV como una forma de video chat, incluido más adelante, soporte para Zoom, dice Amazon.
 
+<a class="twitter-timeline" data-width="1010" data-height="750" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 También mejora el diseño general de la experiencia del software Fire TV.
 
 El diseño actualizado de Fire TV incluye una página de inicio personalizada donde puede acceder más rápidamente a sus aplicaciones y contenido favoritos.

@@ -22,6 +22,8 @@ published: true
 
 La nueva locura absoluta de Amazon. El nuevo **Echo Show 10 girará sobre su base para seguirte por la habitación**. La cámara incorporada es capaz de reconocer a una persona y gira para seguirla, esencialmente llevando la función de seguimiento de personas que se encuentra en el Portal de Facebook y el Nest Hub Max de Google a la siguiente palanca más espeluznante.
 
+<a class="twitter-timeline" data-width="1010" data-height="750" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Amazon es rápido en notar, desde una perspectiva de privacidad, que el dispositivo no identifica a las personas individualmente, sino que simplemente reconoce la forma general de una persona y gira de tal manera que siempre mantenga la pantalla frente a ellos.
 
 No estoy seguro de cómo funcionará esto con varias personas, etcétera, pero será interesante verlo en persona. También, francamente, me pregunto qué tan útil es esta característica en última instancia, y si vale la pena ese nivel adicional de seguimiento.

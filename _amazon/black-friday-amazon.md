@@ -17,6 +17,8 @@ img: /assets/img/amazon/black-friday.webp
 
 Parece que el Black Friday 2020 será diferente a medida que se acerque la fecha, del 27 de Noviembre: las ofertas en línea dominarán más de lo que lo han hecho en años anteriores.
 
+<a class="twitter-timeline" data-width="1010" data-height="750" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Primero, Walmart , Best Buy y Target están dando a su personal el Día de Acción de Gracias como día de vacaciones, y las tiendas no abrirán en medio del telón de fondo de la pandemia mundial. Best Buy confirmó que distribuirá las ofertas este año, en lugar de forzarlas a un solo período de un fin de semana y se espera que otros minoristas sigan estos pasos.
 
 Entonces, ¿Qué significa todo eso respecto a las mejores ofertas de ordenadores, computadoras, portátiles y otros compoentes para ordenadores? Bueno, en primer lugar, es probable que haya mucho más tráfico en línea, y los minoristas posiblemente ofrezcan más opciones de clic y recopilación para aquellos que aún quieren aventurarse y recoger sus productos en la acera.

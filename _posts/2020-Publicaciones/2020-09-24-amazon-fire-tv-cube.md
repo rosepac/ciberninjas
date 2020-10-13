@@ -24,6 +24,8 @@ Por si no fuese suficiente con [las nuevas versiones de los dispositivos intelig
 
 Este nuevo producto, viene a ser una mezcla conjunta de un dispositivo Echo Dot y Alex, más un soporte capaz de reproducir tus series y películas favoritas a la máxima resolución conocida.
 
+<a class="twitter-timeline" data-width="1010" data-height="750" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Recuerda, que siempre puedes esperar a comprar, uno de estos nuevos dispositivos. En **[el próximo Amazon Prime Day 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/)**.
 
 El Fire Tv Cube está creado principalmente para sacar todo el partido de [**las grandes televisiones que permiten resoluciones en 4K HDR**](https://amzn.to/3i40wt1){:target="_blank" rel="nofollow,noreferrer"}.

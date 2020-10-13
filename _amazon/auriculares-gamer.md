@@ -175,7 +175,7 @@ En OFERTAZA actualmente con 289 €. Su precio habitual es de 329 €.
 
 ## **5. Steelseries Arctis 7**
 
-[![Comprar Steelseries Arctis 7](/assets/img/paginas/amazon/auriculares/steelseries-arctis-7)](https://amzn.to/3ir4FZ1)
+[![Comprar Steelseries Arctis 7](/assets/img/paginas/amazon/auriculares/steelseries-arctis-7.webp)](https://amzn.to/3ir4FZ1)
 
 Lo mejor del [Arctis 7](https://ciberninjas.com/steelseries-arctis-7/) es que puedes olvidar fácilmente que es un modelo inalámbrico mientras lo usas.
 
@@ -206,7 +206,9 @@ Un micrófono funcional pero ligeramente silencioso y amortiguado es la única g
 
 ## 6. **Razer Kraken X**
 
-[![]()](https://amzn.to/3ir4FZ1)
+[![Comprar Razer Kraken X](/assets/img/paginas/amazon/auriculares/razer-kraken-x.webp)](https://amzn.to/3ir4FZ1)
+
+> Con oferta especial por el Amazon Prime Day 2020, en su versión en negro. **¡Solamente 38,99 €!**
 
 Como alternativa económica al Kraken, el Kraken X es una opción económica que sobresale en PC por una sencilla razón: Un sonido envolvente virtual 7.1. disponible a través de una aplicación, esto eleva el ya buen audio de los auriculares gracias a una profundidad, claridad y definición superiores.
 
@@ -226,7 +228,7 @@ Hay algunos inconvenientes para sentirse cómodo con él, por supuesto (un micr�
 
 ### **Precio del auricular Razer Kraken X** <!-- omit in toc -->
 
-En OFERTA Actualmente sale por solamente 53,99 €. Su precio habitual es de 69,99 €.. Con oferta especial por el Amazon Prime Day 2020, en su versión en negro. **¡Solamente 38,99 €!**
+En OFERTA Actualmente sale por solamente 53,99 €. Su precio habitual es de 69,99 €.
 
 [🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/3ke4hgR "Compra ya los auriculares Razer Kraken X"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
