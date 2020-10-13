@@ -30,7 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-
 ### 🔔 13 de Octubre  <!-- omit in toc -->
 
 - Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
