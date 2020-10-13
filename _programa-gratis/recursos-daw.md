@@ -144,7 +144,6 @@ En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de b
 <img alt="¿Qué aprenderás en el módulo de entornos de desarrollo?" class="" src="/assets/img/paginas/fp/entorno-desarrollo-aprender.webp">
 </a>
 </div>
-</div>
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-diccionario/">
 <div class="caption" title="Diccionario del módulo entorno de desarrollo">
@@ -154,6 +153,7 @@ En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de b
 </div>
 <img alt="Palabras más utilizadas en el módulo de entorno de desarrollo" class="" src="/assets/img/paginas/fp/entorno-desarrollo-diccionario.webp">
 </a>
+</div>
 </div>
 
 En la asignatura de entornos de desarrollo vas a conocer los diferentes entornos de desarrollo integrados, los entornos de desarrollo más actuales, los entornos de desarrollo online.
