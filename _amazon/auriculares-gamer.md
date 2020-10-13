@@ -135,7 +135,7 @@ El precio del Razer Thresher Ultimate traido de importación desde EE.UU con el 
 
 > **PRECIO ESPECIAL PRIME DAY 2020**: 260,57 €
 
-[🎧 ¡COMPRA YA TUS HYPERX CLOUD ORBIT S! 🎶](https://amzn.to/3ir4FZ1 "Compra ya los auriculares HyperX Cloud Orbit S"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡COMPRA YA TUS HYPERX CLOUD ORBIT S! 🎶](https://amzn.to/3ir4FZ1 "Compra ya los auriculares HyperX Cloud Orbit S"){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 HyperX se las arregla para ofrecer uno de los auriculares más cómodos y duraderos del mercado sin dejar de tener un audio nítido. El Cloud Orbit S utiliza controladores magnéticos planos de nivel audiófilo, que se leen tan bien como suenan.
 
@@ -200,7 +200,7 @@ Un micrófono funcional pero ligeramente silencioso y amortiguado es la única g
 
 > Con oferta especial por el Amazon Prime Day 2020, en su versión en negro. **¡Solamente 38,99 €!**
 
-[🎧 ¡COMPRA TUS RAZER KRAKEN X! 🎶](https://amzn.to/3ke4hgR "Compra ya los auriculares Razer Kraken X"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 ¡COMPRA TUS RAZER KRAKEN X! 🎶](https://amzn.to/3ke4hgR "Compra ya los auriculares Razer Kraken X"){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Como alternativa económica al Kraken, el Kraken X es una opción económica que sobresale en PC por una sencilla razón: Un sonido envolvente virtual 7.1. disponible a través de una aplicación, esto eleva el ya buen audio de los auriculares gracias a una profundidad, claridad y definición superiores.
 
