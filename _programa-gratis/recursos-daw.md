@@ -125,7 +125,7 @@ En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de b
 
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
-<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-que-aprenderas/">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entornos-desarrollo-introduccion/">
 <div class="caption" title="Introducción a Entornos de Desarrollo">
 <div class="caption-content">
 <i class="fa fa-search-plus fa-3x"></i>
@@ -158,7 +158,7 @@ En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de b
 
 En la asignatura de entornos de desarrollo vas a conocer los diferentes entornos de desarrollo integrados, los entornos de desarrollo más actuales, los entornos de desarrollo online.
 
-Verás una amplia introducirte en el mundo de los procedimientos de pruebas, la calidad del software, los casos de uso, el testing, la automatización de pruebas.
+Verás una amplia introducción al mundo de los procedimientos de pruebas, la calidad del software, los casos de uso, el testing, la automatización de pruebas.
 
 Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportamiento, además de aprender a generar documentación.
 

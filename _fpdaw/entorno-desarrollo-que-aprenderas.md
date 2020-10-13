@@ -34,7 +34,7 @@ published: true
 
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
-<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-que-aprenderas/">
+<a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entornos-desarrollo-introduccion/">
 <div class="caption" title="Introducción a Entornos de Desarrollo">
 <div class="caption-content">
 <i class="fa fa-search-plus fa-3x"></i>
