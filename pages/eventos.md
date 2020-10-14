@@ -34,6 +34,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 - Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 - Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"} (18:00 PM)
+- Mujer y Tecnología: Desafíos en el sector tecnológico [Registro](https://www.eventbrite.com.ar/e/mujer-y-tecnologia-desafios-en-el-sector-tecnologico-tickets-124820225655){:target="_blank" rel="nofollow, noreferrer"} (23:00 H.)
 
 ### 🔔 15 de Octubre  <!-- omit in toc -->
 
