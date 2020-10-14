@@ -30,12 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-### 🔔 13 de Octubre  <!-- omit in toc -->
-
-- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
-- Webinar: Systemic, nueva librería de inyección de dependencias para node.js - [Registro](https://www.eventbrite.es/e/entradas-webinar-systemic-nueva-libreria-de-inyeccion-de-dependencias-para-nodejs-119109867821?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
-- Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
-
 ### 🔔 14 de Octubre  <!-- omit in toc -->
 
 - Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
@@ -965,3 +959,9 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - LatinR: Conferencia Latinoamericana sobre Uso de R en I+D 📆 [Calendario de Eventos](https://latin-r.com/cronograma/){:target="_blank" rel="nofollow, noreferrer"}
 - ¿Cómo se trabaja en la industria con Python? 👉 [Info.](https://www.eventbrite.com/e/como-se-trabaja-en-la-industria-con-python-tickets-122417015589?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (00:00 PM noche para el 10)
+
+### 🔔 13 de Octubre  <!-- omit in toc -->
+
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
+- Webinar: Systemic, nueva librería de inyección de dependencias para node.js - [Registro](https://www.eventbrite.es/e/entradas-webinar-systemic-nueva-libreria-de-inyeccion-de-dependencias-para-nodejs-119109867821?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
+- Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
