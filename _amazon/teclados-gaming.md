@@ -31,19 +31,19 @@ Ya sea que estés comprando un teclado para tu PC de juegos o planeando regalar 
 
 Dado que es probable que [Amazon Prime Day se celebre a mitad de Octubre](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y el Black Friday a final de Noviembre, y no tendrás que esperar demasiado.
 
-- [1. **SteelSeries Apex Pro**](#1-steelseries-apex-pro)
-- [2. **Razer Huntsman Elite**](#2-razer-huntsman-elite)
-- [3. **Roccat Vulcan 120 Aimo**](#3-roccat-vulcan-120-aimo)
-- [4. **Alienware Pro AW768**](#4-alienware-pro-aw768)
-- [5. **Cooler Master MasterSet MS120**](#5-cooler-master-masterset-ms120)
-- [6. **Corsair K95 RGB Platinum**](#6-corsair-k95-rgb-platinum)
-- [7. **Teclado mecánico de Havit**](#7-teclado-mecánico-de-havit)
-- [8. **Razer Huntsman Tournament**](#8-razer-huntsman-tournament)
-- [9. **SteelSeries Apex 3**](#9-steelseries-apex-3)
-- [10. **Razer Cynosa V2**](#10-razer-cynosa-v2)
-- [11. **MSI Vigor GK60 CR**](#11-msi-vigor-gk60-cr)
+- [**1. SteelSeries Apex Pro**](#1-steelseries-apex-pro)
+- [**2. Razer Huntsman Elite**](#2-razer-huntsman-elite)
+- [**3. Roccat Vulcan 120 Aimo**](#3-roccat-vulcan-120-aimo)
+- [**4. Alienware Pro AW768**](#4-alienware-pro-aw768)
+- [**5. Cooler Master MasterSet MS120**](#5-cooler-master-masterset-ms120)
+- [**6. Corsair K95 RGB Platinum**](#6-corsair-k95-rgb-platinum)
+- [**7. Teclado mecánico de Havit**](#7-teclado-mecánico-de-havit)
+- [**8. Razer Huntsman Tournament**](#8-razer-huntsman-tournament)
+- [**9. SteelSeries Apex 3**](#9-steelseries-apex-3)
+- [**10. Razer Cynosa V2**](#10-razer-cynosa-v2)
+- [**11. MSI Vigor GK60 CR**](#11-msi-vigor-gk60-cr)
 
-## 1. **SteelSeries Apex Pro**
+## **1. SteelSeries Apex Pro**
 
 [![Comprar el teclado gaming SteelSeries Apex Pro](/assets/img/amazon/teclados-gaming/SteelSeries-Apex-Pro.webp)](https://amzn.to/332kL5N "Comprar el teclado gaming SteelSeries Apex Pro"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -56,7 +56,7 @@ En cuanto al rendimiento, se encuentra entre los mejores teclados para juegos qu
 [⌨ ¡CÓMPRALO YA! 🖱](https://amzn.to/332kL5N){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⌨ ¡CÓMPRALO YA DESDE AMÉRICA! 🖱](https://amzn.to/368hiVm){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 2. **Razer Huntsman Elite**
+## **2. Razer Huntsman Elite**
 
 [![Comprar el teclado gaming Razer Huntsman Elite](/assets/img/amazon/teclados-gaming/razer-huntsman.webp)](https://amzn.to/2EyOeeg "Comprar el teclado gaming Razer Huntsman Elite"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -65,7 +65,7 @@ Si necesita velocidad, entonces el Huntsman Elite es su mejor opción, gracias a
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2EyOeeg){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⌨ ¡CÓMPRALO YA DESDE AMÉRICA! 🖱](https://amzn.to/308vYjs){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 3. **Roccat Vulcan 120 Aimo**
+## **3. Roccat Vulcan 120 Aimo**
 
 [![TITULO](/assets/img/amazon/teclados-gaming/roccat-vulkan.webp)](https://amzn.to/3i8Vc7w "Comprar el teclado gaming"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -78,7 +78,7 @@ Este teclado para juegos combina una respuesta táctil increíble con silencio y
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/3i8Vc7w){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⌨ ¡CÓMPRALO YA DESDE AMÉRICA! 🖱](https://amzn.to/3i6YFTY){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 4. **Alienware Pro AW768**
+## **4. Alienware Pro AW768**
 
 [![Comprar el teclado gaming Alienware Pro AW768](/assets/img/amazon/teclados-gaming/alienware-pro-mechanical-keyboard.webp)](https://amzn.to/3cvRLXr "Comprar el teclado gaming Alienware Pro AW768"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -88,7 +88,7 @@ No es el teclado con más funciones del juego, pero a este precio, realmente no 
 
 [⌨ ¡CÓMPRALO YA! EXCLUSIVAMENTE PARA EE.UU 🖱](https://amzn.to/3cvRLXr "Comprar Alienware Pro AW768 en Estados Unidos"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 5. **Cooler Master MasterSet MS120**
+## **5. Cooler Master MasterSet MS120**
 
 [![Comprar el teclado Cooler Master MasterSet MS120](/assets/img/amazon/teclados-gaming/cooler-master-masterset-ms120.webp)](https://amzn.to/3n7zdBs "Comprar el teclado gaming Cooler Master MasterSet MS120"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -100,7 +100,7 @@ También es silencioso, por lo que puedes golpear furiosamente durante una inten
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/3n7zdBs){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 6. **Corsair K95 RGB Platinum**
+## **6. Corsair K95 RGB Platinum**
 
 [![Comprar el teclado Corsair K95 RGB Platinum](/assets/img/amazon/teclados-gaming/corsair-k95-rgb-platinum.webp)]( "Comprar el teclado gaming"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -108,7 +108,7 @@ Un precio de $ 159 en un teclado para juegos puede ser un poco caro, pero el Cor
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/3j8pYyH){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 7. **Teclado mecánico de Havit**
+## **7. Teclado mecánico de Havit**
 
 [![Comprar Teclado mecánico de Havit](/assets/img/amazon/teclados-gaming/mechanical-havit.webp)](https://amzn.to/2S22eQM "Comprar el teclado gaming mecánico de Havit"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -118,7 +118,7 @@ Si bien definitivamente tiene la iluminación RGB (honestamente, ¿cómo no podr
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2S22eQM){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 8. **Razer Huntsman Tournament**
+## **8. Razer Huntsman Tournament**
 
 [![Comprar el teclado Razer Huntsman Tournament](/assets/img/amazon/teclados-gaming/razer-tournament.webp)](https://amzn.to/3cynO92 "Comprar el teclado gaming Razer Huntsman Tournament"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -128,9 +128,11 @@ Es cierto que aquí no hay muchas funciones, lo que lo coloca detrás de muchos 
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/3cynO92){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 9. **SteelSeries Apex 3**
+## **9. SteelSeries Apex 3**
 
 [![Comprar el Teclado SteelSeries Apex 3](/assets/img/amazon/teclados-gaming/SteelSeries-APEX-3.webp)](https://amzn.to/336rmwl "Comprar el teclado gaming SteelSeries Apex 3"){:target="_blank" rel="nofollow,noreferrer"}
+
+> **¡OFERTA ESPECIAL PRIME DAY 2020, a 53,99 €!**
 
 No todos los grandes teclados para juegos tienen interruptores mecánicos, como está demostrando este asequible teclado Apex. El SteelSeries Apex 3 de presupuesto limitado puede venir con algunas concesiones, pero también cuenta con algunas características impresionantes que compensan con creces esos compromisos.
 
@@ -142,7 +144,7 @@ Y, si odias esos ruidos de clics que a los teclados mecánicos les encanta hacer
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/336rmwl){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 10. **Razer Cynosa V2**
+## **10. Razer Cynosa V2**
 
 [![Comprar el teclado gaming Razer Cynosa V2](/assets/img/amazon/teclados-gaming/razer-cynosa-v2.webp)](https://amzn.to/3i21A0h "Comprar el teclado gaming Razer Cynosa V2"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -152,7 +154,7 @@ Entre los mejores teclados para juegos en los que hemos jugado este año, este e
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/3i21A0h){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 11. **MSI Vigor GK60 CR**
+## **11. MSI Vigor GK60 CR**
 
 [![Comprar el teclado MSI Vigor GK60 CR](/assets/img/amazon/teclados-gaming/msi-vigor-gk60.webp)](https://amzn.to/2L6RcH8 "Comprar el teclado gaming MSI Vigor GK60 CR"){:target="_blank" rel="nofollow,noreferrer"}
 
