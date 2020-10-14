@@ -26,11 +26,18 @@ Desde aquí, vas a poder encontrar **absolutamente todas las mejores ofertas y c
 Además, de las mejores ofertas, a continuación vas a poder obtener **algunos detalles, consejos y sugerencias geniales con las que aprovechar al máximo el Prime Day 2020** y el Black Friday).
 
 - [**Las Mejores Ofertas de Amazon Prime Day 2020**](#las-mejores-ofertas-de-amazon-prime-day-2020)
+  - [**Mejores Ofertas de Componentes de Ordenadores**](#mejores-ofertas-de-componentes-de-ordenadores)
+- [**Mejores Ofertas de Auriculares y Otros Dispositivos de Sonido**](#mejores-ofertas-de-auriculares-y-otros-dispositivos-de-sonido)
 - [**Mejores Ofertas en Dispositivos Inteligentes de Amazon**](#mejores-ofertas-en-dispositivos-inteligentes-de-amazon)
   - [**Fire TV Stick Lite**](#fire-tv-stick-lite)
+- [**Hogar Inteligente**](#hogar-inteligente)
+  - [**Bombillas Inteligentes de Amazon**](#bombillas-inteligentes-de-amazon)
   - [**Nuevas TABLET de AMAZON**](#nuevas-tablet-de-amazon)
-  - [**Bombillas inteligentes de Amazon**](#bombillas-inteligentes-de-amazon)
 - [**Mejores Ofertas en Robótica del Amazon Prime Day 2020**](#mejores-ofertas-en-robótica-del-amazon-prime-day-2020)
+- [**OFERTAS EN TABLETS**](#ofertas-en-tablets)
+- [**Ofertas de Videojuegos**](#ofertas-de-videojuegos)
+  - [**Kindle Paperwhite**](#kindle-paperwhite)
+  - [**Kindle Oasis**](#kindle-oasis)
 - [**Amazon Prime Day 2020 y todos los Nuevos Dispositivos Inteligentes de Amazon**](#amazon-prime-day-2020-y-todos-los-nuevos-dispositivos-inteligentes-de-amazon)
 
 ## **Las Mejores Ofertas de Amazon Prime Day 2020**
@@ -39,13 +46,13 @@ Además, de las mejores ofertas, a continuación vas a poder obtener **algunos d
 
 <a class="twitter-timeline" data-width="1010" data-height="625" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> **📢 Última Actualización: 16:30 del 13 de Octubre**
+> **📢 Última Actualización: 09:34 del 14 de Octubre**
 
 Las **mejores ofertas y chollos del Amazon Prime Day 2020**. No te olvides guardar está página y seguirme a través de TWITTER 🔥 **¡¡¡VAMONOS DE COMPRAS!!!**
 
 [¡TODAS LAS MEJORES OFERTAS DEL AMAZON PRIME DAY 2020!](https://amzn.to/33RCDki "Busca entre todas las rebajas impresionantes del Prime Day 2020"){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
 
-### **Mejores Ofertas de Componentes de Ordenador del Amazon Prime Day** <!-- omit in toc -->
+### **Mejores Ofertas de Componentes de Ordenadores**
 
 [🎤 HASTA UN 43% EN AURICULARES, ALTAVOCES Y TECLADOS 🎧](https://amzn.to/33RCDki ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
 [HASTA UN 30% REBAJADO EN DISPOSITIVOS DE ALMACENAMIENTO](https://amzn.to/2GT6Re9 ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
@@ -58,26 +65,17 @@ Las **mejores ofertas y chollos del Amazon Prime Day 2020**. No te olvides guard
 
 Aunque no ha habido demasiada rebaja en el tema de componentes de ordenadores, a continuación puedes encontrar; algunas ofertas de [👷‍♂️ - pendiente de actualización - 👷‍♂️ las mejores ofertas de componentes de ordenadores](https://ciberninjas.com/ordenadores-componentes/) de ordenadores: tarjetas gráficas, placas base, fuentes de alimentación o “SAIS”.
 
-### **Las Mejores Ofertas de Auriculares y Otros Dispositivos de Sonido del Amazon Prime Day** <!-- omit in toc -->
+## **Mejores Ofertas de Auriculares y Otros Dispositivos de Sonido**
 
-[VER TODAS LAS OFERTAS](https://amzn.to/2ld3fIS){:target="_blank" rel="nofollow,noreferrer"}
+[VER TODAS LAS OFERTAS](https://amzn.to/2ld3fIS){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+
+* [Mejores Ofertas de Auriculares Gaming](https://ciberninjas.com/auriculares-gamer/)
+* [Mejores Ofertas de Auriculares de Alta Gama Rebajados](https://ciberninjas.com/auriculares-diseño/)
 
 * [Dispositivos de audio: micrófonos, auriculares y controladores](https://amzn.to/2ld3fIS){:target="_blank" rel="nofollow,noreferrer"}.
 * [40% en auriculares de alta gama](https://amzn.to/2jXCecc){:target="_blank" rel="nofollow,noreferrer"}
 
-![logitech](https://i.ibb.co/QfJrsjS/logitech.jpg)  
-[Logitech G430](https://amzn.to/2OcC27h){:target="_blank" rel="nofollow,noreferrer"} – Auriculares Gaming para PC, Xbox One, PS4 y Switch, Color Negro y Azul
-
-### **Las Mejores Ofertas de Apple del Amazon Prime Day** <!-- omit in toc -->
-
-Apple está ofreciendo en Amazon un descuento de hasta un [35% en dispositivos Apple](https://amzn.to/2lhZ66w){:target="_blank" rel="nofollow,noreferrer"}. Solo hoy: en iPad, iPhone, iMac, teclados, fundas.
-
-La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, quedando entre los 330 € del modelo rosa hasta los 399 € de los modelos gris espacil, gris plata o plata con mayor capacidad:
-
-* [Apple iPhone 6s Plus (de 32GB)](https://amzn.to/2xPA2Xo){:target="_blank" rel="nofollow,noreferrer"} – Gris Espacial, Oro, Plata, Gris o Oro Rosa
-* [Apple iPhone 6s Plus (de 128GB)](https://amzn.to/2lAN3RQ){:target="_blank" rel="nofollow,noreferrer"} – Gris Espacial, Oro, Plata, Gris o Oro Rosa
-
-### **Las Mejores Ofertas de Dispositivos de Amazon del Amazon Prime Day** <!-- omit in toc -->
+## **Mejores Ofertas de Dispositivos de Amazon del Amazon Prime Day** <!-- omit in toc -->
 
 [🔥 🛒 🔥 VER TODAS LAS OFERTAS DEL AMAZON PRIME DAY 2020 🔥 🛒 🔥](https://amzn.to/2lCy221 "Mira todas las mejores ofertas del Amazon Prime Day 2020"){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
 
@@ -99,6 +97,34 @@ Amazon a [rediseñado sus aparatos Fire TV](https://ciberninjas.com/amazon-fire-
 
 El nuevo Fire TV Stick Lite, se encuentra a la ventana por tan solamente 29,99 €. Pasate, por [aquí](https://ciberninjas.com/amazon-fire-stick-2020/), si quieres conocer más sobre [los dispositivos Fire TV Stick Full HD](https://ciberninjas.com/amazon-fire-stick-2020/). 
 
+## **Hogar Inteligente**
+
+Este Prime Day 2020, si algo nos está ofreciendo, es una genial oportunidad para todos aquellos que quieran aprovechar; y llenar su casa con dispositivos inteligentes.
+
+Echo Dot casi regalados de precios, y bombillas inteligentes que cambian de color a precios más que económicos. Cámaras de videovigilancia y micrófonos de alta calidad, a precios excepcionales.
+
+No dejes de ojear, algunas de las mejores ofertas, para todos estos gadgets.
+
+[20% de Descuento en Bombillas Inteligentes Philips](https://amzn.to/3lEUYag "20% de Descuento en Bombillas Inteligentes Philips"){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+
+[Ahorro de 30 € en Cámara de Videovigilancia RING](https://amzn.to/3nQXoEX ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+
+[Ahorro de 50 € en el Sistema de Micrófono más Cámara RING DOOR](https://amzn.to/3lDz7jA ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+[]( ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+[]( ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+[]( ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+[]( ""){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
+
+### **Bombillas Inteligentes de Amazon**
+
+Amazon está vendiendo sus bombillas inteligentes, compatibles con sus dispositivos. A precios jamás vistos. Puedes aprovechar, la salida de los nuevos dispositivos de Amazon, para comprar dispositivos de una edición anterior. A precios casi ridículos, y bombillas por los precios más bajos, que nunca yo he visto antes.
+
+![Bombilla de colores LE](https://i.ibb.co/g9fswW2/image.png)
+
+[Bombilla inteligente LE con 16 milloens de colores por solamente 10,10 €](https://amzn.to/2FpSNrT "Bombilla inteligente LE con 16 milloens de colores por solamente 10,10 €").
+
+Está bombilla inteligente LE, ofrece más de 16 milloens de colores y es totalmente compatible con los dispositivos de Alexa. Su potencia, es equivalente a una bombillade 60 W, y todo eso por solamente 10,10 €.
+
 ### **Nuevas TABLET de AMAZON**
 
 Por este Amazon Prime Day 2020, Amazon ha aprovechado para sacar sus tablets y Kindle, a los mejores precios que jamás habían estado.
@@ -112,16 +138,6 @@ La tablet Fire HD 8 ha sido rebajada hasta los 69,99 €.
 
 Y la tablet Fire 7, la han rebajado hasta los 59,99 €.
 
-### **Bombillas inteligentes de Amazon**
-
-Amazon está vendiendo sus bombillas inteligentes, compatibles con sus dispositivos. A precios jamás vistos. Puedes aprovechar, la salida de los nuevos dispositivos de Amazon, para comprar dispositivos de una edición anterior. A precios casi ridículos, y bombillas por los precios más bajos, que nunca yo he visto antes.
-
-![Bombilla de colores LE](https://i.ibb.co/g9fswW2/image.png)
-
-[Bombilla inteligente LE con 16 milloens de colores por solamente 10,10 €](https://amzn.to/2FpSNrT "Bombilla inteligente LE con 16 milloens de colores por solamente 10,10 €").
-
-Está bombilla inteligente LE, ofrece más de 16 milloens de colores y es totalmente compatible con los dispositivos de Alexa. Su potencia, es equivalente a una bombillade 60 W, y todo eso por solamente 10,10 €.
-
 ## **Mejores Ofertas en Robótica del Amazon Prime Day 2020**
 
 ![](https://i.ibb.co/k1rm47d/image.png)
@@ -132,52 +148,59 @@ Está bombilla inteligente LE, ofrece más de 16 milloens de colores y es totalm
 
 [LABISTS Raspberry Pi 4 Model B Kit de 4 GB con SD de 32GB Clase 10 y 5.1V 3A Tipo C con Interruptor, RPi Barebone con 3 Disipadores de Calor, Ventilador, Micro HDMI, Lector de Tarjetas y Caja Negra](https://amzn.to/2H0uHnU "Comprar LABISTS Raspberry Pi 4 Model B Kit de 4 GB con SD de 32GB"){:target="_blank" rel="nofollow,noreferrer"}
 
-> 👷‍♂️👷‍♂️ 🔥 SEGUIMOS ACTUALIZANDO, LAS MEJORES OFERTAS 🔥 👷‍♂️👷‍♂️
-
-### **Ofertas de Dispositivos Inteligentes o Smart Home** <!-- omit in toc -->
+## **Ofertas de Dispositivos Inteligentes o Smart Home** <!-- omit in toc -->
 
 [VER TODOS](https://amzn.to/2ldfHZ8){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Ofertas de Portátiles / Laptops** <!-- omit in toc -->
+## **Ofertas de Portátiles / Laptops** <!-- omit in toc -->
 
-[25% en portátiles HP, Lenovo y Acer](https://amzn.to/2LUZu6c){:target="_blank" rel="nofollow,noreferrer"}  
-[25 % en productos Gaming: portátiles, sobremesas y monitores](https://amzn.to/2k6kR8R){:target="_blank" rel="nofollow,noreferrer"}  
-[30% en una selección de Accesorios Gaming](https://amzn.to/2lcAXyb){:target="_blank" rel="nofollow,noreferrer"} 
-[Portátiles ultrafinos y convertibles. Más baratos](https://amzn.to/2Jzuk2p){:target="_blank" rel="nofollow,noreferrer"}
+[25% en portátiles HP, Lenovo y Acer](https://amzn.to/3lMGYf0){:target="_blank" rel="nofollow,noreferrer"}  
 
-### **Ofertas en Tablets** <!-- omit in toc -->
+## **OFERTAS EN TABLETS**
 
-[25% en Tablets de Huawei, Samsung, Lenovo y más](https://amzn.to/2jZ1mPN){:target="_blank" rel="nofollow,noreferrer"}
+[Hasta un 25% en Tablets de Huawei, Samsung, y Lenovo](https://amzn.to/316gwoC){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-danger .btn-lg .btn-block}
 
-### **Ofertas de Videojuegos** <!-- omit in toc -->
+## **Ofertas de Videojuegos**
 
-[VER TODAS LAS OFERTAS](https://amzn.to/2k3VaFW){:target="_blank" rel="nofollow,noreferrer"}
+[HASTA UN 20 % DE REBAJA EN LOS MEJORES VIDEOJUEGOS](https://amzn.to/2SQOCIu){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Otras Ofertas** <!-- omit in toc -->
+## **Mejores Ofertas para Lectores de EBOOKS* <!-- omit in toc -->
 
-Amazon inunda a sus miembros Prime con más de un millón de ofertas. Encontrarás descuentos en todo, desde [televisores 4K y de gama alta](https://amzn.to/2lcqH99){:target="_blank" rel="nofollow,noreferrer"} o televisores [más económicos](https://amzn.to/32sh07o){:target="_blank" rel="nofollow,noreferrer"} con descuentos de hasta un 40%; entre [miles de productos más](https://amzn.to/2lCB9XF){:target="_blank" rel="nofollow,noreferrer"}.
+Si deseas ponerte al día con las lecturas de libros electrónicos, a través de Amazon’s Prime Day hay muchas ofertas para ayudarlo a mantenerse ocupado con los libros durante el resto de la temporada.
 
-### **Ofertas de Smartwarches** <!-- omit in toc -->
+Prime Day 2020 comenzó esta mañana y tiene una duración de 48 horas, por lo que los Prime Members tienen hasta el final del día del martes para abastecerse de todo, desde una suscripción de Audible con descuento hasta una serie de libros populares disponibles en Kindle. Aquí, las mejores ofertas para los lectores en Amazon Prime Day 2020.
 
-Los [smartwatches de Samsung](https://amzn.to/2jXzuvq){:target="_blank" rel="nofollow,noreferrer"} podrás encontrarlos con hasta un 55% de descuento, ofertas de hasta un 30% al 40% de descuento en [las pulseras Fitbit](https://amzn.to/2ShXW7m){:target="_blank" rel="nofollow,noreferrer"} y descuentazos de hasta un 45% en [los relojes de entrenamiento de Garmin](https://amzn.to/2lza5sf){:target="_blank" rel="nofollow,noreferrer"} 30& en los relojes Polar(https://amzn.to/2lAOv6J)
-
-## **Mejores Ofertas para E-Readers** <!-- omit in toc -->
-
-Si desea ponerse al día con las lecturas de verano , a través de Amazon’s Prime Day hay muchas ofertas para ayudarlo a mantenerse ocupado con los libros durante el resto de la temporada. Prime Day 2020 comenzó esta mañana y tiene una duración de 48 horas, por lo que los Prime Members tienen hasta el final del día del martes para abastecerse de todo, desde una suscripción de Audible con descuento hasta una serie de libros populares disponibles en Kindle. Aquí, las mejores ofertas para los lectores en Amazon Prime Day 2020.
-
-### **Kindle** <!-- omit in toc -->
+### **Kindle Paperwhite**
 
 Varios modelos diferentes de Amazon Kindle están a la venta a través de Amazon Prime Day. Para los lectores que buscan llevar sus libros a la playa o la piscina, Paperwhite es un lector electrónico a prueba de agua que almacena entre 8GB y 32GB. Del mismo modo, el modelo más nuevo del Kindle básico. Las compras de cualquiera de los Kindle vienen con un crédito de eBooks.
 
-- [Kindle Paperwhite](https://amzn.to/2J3LsMY){:target="_blank" rel="nofollow,noreferrer"}: Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales
-- [Nuevo Kindle Oasis](https://amzn.to/3aiUQZ7){:target="_blank" rel="nofollow,noreferrer"}: Ahora con luz frontal integrada, negro.
-- [Nuevo Kindle Oasis](https://amzn.to/3bbS33D){:target="_blank" rel="nofollow,noreferrer"}: Ahora con luz frontal integrada, de color dorado.
+- [Kindle Paperwhite](https://amzn.to/2J3LsMY){:target="_blank" rel="nofollow,noreferrer"}: Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales. Con cálida luz frontal incluida.
+
+> **¡OFERTA ESPECIAL DE PRIME DAY 2020, POR 59,99 €!**
+
+- [Kindle Paperwhite. Resistente al agua](https://amzn.to/3jSAjiC){:target="_blank" rel="nofollow,noreferrer"}: Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales.
+
+> **¡OFERTA ESPECIAL DE PRIME DAY 2020, POR 94,99 €!**
+
+### **Kindle Oasis**
+
+- [Nuevo Kindle Oasis 8 GB con Wifi](https://amzn.to/3j12f2y){:target="_blank" rel="nofollow,noreferrer"}: Ahora con luz cálida ajustable integrada, negro.
+
+> **¡OFERTA ESPECIAL DE PRIME DAY 2020, POR 179,99 €!**
+
+- [Nuevo Kindle Oasis 32 GB con Wifi](https://amzn.to/33XHDUC){:target="_blank" rel="nofollow,noreferrer"}: Ahora con luz cálida ajustable integrada, negro.
+
+> **¡OFERTA ESPECIAL DE PRIME DAY 2020, POR 209,99 €!**
+
+- [Nuevo Kindle Oasis 32 GB con Wifi + 4G](https://amzn.to/3dnitC2){:target="_blank" rel="nofollow,noreferrer"}: Ahora con luz cálida ajustable integrada, negro.
+
+> **¡OFERTA ESPECIAL DE PRIME DAY 2020, POR 269,99 €!**
 
 ### **Kindle Unlimited** <!-- omit in toc -->
 
 Se está ofreciendo otro servicio de suscripción digital con un descuento masivo en Amazon Prime Day. [Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21){:target="_blank" rel="nofollow,noreferrer"} permite a los lectores acceder a más de un millón de títulos en cualquier dispositivo a través de la aplicación Kindle.
 
-Los nuevos miembros pueden aprovechar una oferta de 30 días por 0 € que les da acceso a revistas, así como a varias series de libros. La oferta de Kindle Unlimited se extiende más allá de Prime Day ya que los miembros tienen hasta el 31 de julio para inscribirse.
+Los nuevos miembros pueden aprovechar una oferta de 30 días por 0 € que les da acceso a revistas, así como a varias series de libros. La oferta de Kindle Unlimited se extiende más allá de Prime Day ya que los miembros tienen un período sin final para inscribirse.
 
 ## **Amazon Prime Day 2020 y todos los Nuevos Dispositivos Inteligentes de Amazon**
 
