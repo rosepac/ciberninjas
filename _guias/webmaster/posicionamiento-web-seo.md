@@ -23,9 +23,44 @@ Las búsquedas a través de los buscadores están en constante cambio, más siem
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[Historia del SEO](/posicionamiento-web-seo/#la-historia-del-seo){: .btn .btn--inverse .btn--large} [Estructura Básica](/posicionamiento-web-seo/#la-estructura-básica-y-fundamental){: .btn .btn--inverse .btn--large} [Qué es y por qué es importante el SEO](/posicionamiento-web-seo/#qué-es-y-por-qué-es-importante-el-seo){: .btn .btn--inverse .btn--large} [Cuplir la intención del usuario](/posicionamiento-web-seo/#cumplir-la-intención-del-usuario){: .btn .btn--inverse .btn--large} [Sobre los motores de búsqueda](/posicionamiento-web-seo/#sobre-los-motores-de-búsqueda){: .btn .btn--inverse .btn--large} [Google Search Console](/posicionamiento-web-seo/#definiendo-parámetros-de-url-en-google-search-console){: .btn .btn--inverse .btn--large} [Consejos para tu negocio](/posicionamiento-web-seo/#consejos-importantes-para-posicionar-tu-negocio-local){: .btn .btn--inverse .btn--large} [análisis de Keywords Express](/posicionamiento-web-seo/#análisis-de-keywords-express){: .btn .btn--inverse .btn--large}
+- [**La Historia del SEO**](#la-historia-del-seo)
+  - [Métodos](#métodos)
+  - [¿Cómo estrategia de marketing?](#cómo-estrategia-de-marketing)
+  - [Mercados internacionales](#mercados-internacionales)
+  - [Precedentes legales](#precedentes-legales)
+- [La estructura básica y fundamental](#la-estructura-básica-y-fundamental)
+- [¿Qué es y por qué es importante el SEO?](#qué-es-y-por-qué-es-importante-el-seo)
+  - [¿Qué es el SEO?](#qué-es-el-seo)
+  - [¿Por qué el SEO es importante?](#por-qué-el-seo-es-importante)
+- [Cumplir la intención del usuario](#cumplir-la-intención-del-usuario)
+- [Sobre los motores de búsqueda](#sobre-los-motores-de-búsqueda)
+  - [Las mejores prácticas en Google & otros buscadores](#las-mejores-prácticas-en-google--otros-buscadores)
+  - [Las peores prácticas ante los ojos de Google & otros buscadores](#las-peores-prácticas-ante-los-ojos-de-google--otros-buscadores)
+  - [¿Cómo funcionan los motores de búsquedas?](#cómo-funcionan-los-motores-de-búsquedas)
+  - [¿Qué es el rastreo de los motores de búsqueda?](#qué-es-el-rastreo-de-los-motores-de-búsqueda)
+  - [¿Qué es el índice del motor de búsqueda?](#qué-es-el-índice-del-motor-de-búsqueda)
+  - [Posicionamiento en buscadores](#posicionamiento-en-buscadores)
+  - [En SEO, no todos los motores de búsqueda son iguales](#en-seo-no-todos-los-motores-de-búsqueda-son-iguales)
+  - [Rastreo ¿Los motores de búsqueda pueden encontrar tu página?](#rastreo-los-motores-de-búsqueda-pueden-encontrar-tu-página)
+  - [Indica a los motores como rastrearte](#indica-a-los-motores-como-rastrearte)
+  - [Robots.txt](#robotstxt)
+  - [Cómo trata Googlebot los archivos robots.txt](#cómo-trata-googlebot-los-archivos-robotstxt)
+  - [Optimizar para el presupuesto de rastreo](#optimizar-para-el-presupuesto-de-rastreo)
+- [Definiendo parámetros de URL en Google Search Console](#definiendo-parámetros-de-url-en-google-search-console)
+  - [¿Los rastreadores pueden encontrar todo tu contenido importante?](#los-rastreadores-pueden-encontrar-todo-tu-contenido-importante)
+  - [¿Está tu contenido oculto detrás de formularios de inicio de sesión?](#está-tu-contenido-oculto-detrás-de-formularios-de-inicio-de-sesión)
+  - [¿Estás confiando en los formularios de búsqueda?](#estás-confiando-en-los-formularios-de-búsqueda)
+  - [¿Está el texto oculto dentro del contenido no textual?](#está-el-texto-oculto-dentro-del-contenido-no-textual)
+  - [¿Los motores de búsqueda pueden seguir la navegación de su sitio?](#los-motores-de-búsqueda-pueden-seguir-la-navegación-de-su-sitio)
+  - [Errores de navegación comunes que pueden impedir que los rastreadores vean todo tu sitio](#errores-de-navegación-comunes-que-pueden-impedir-que-los-rastreadores-vean-todo-tu-sitio)
+  - [¿Tienes una arquitectura de la información limpia?](#tienes-una-arquitectura-de-la-información-limpia)
+  - [¿Estás utilizando sitemaps?](#estás-utilizando-sitemaps)
+- [Consejos importantes para posicionar tu negocio local](#consejos-importantes-para-posicionar-tu-negocio-local)
+  - [Principios básicos para mejorar tu posicionamiento local](#principios-básicos-para-mejorar-tu-posicionamiento-local)
+  - [Posibles detalles a evitar a la hora de posicionar localmente](#posibles-detalles-a-evitar-a-la-hora-de-posicionar-localmente)
+- [Análisis de Keywords Express](#análisis-de-keywords-express)
 
-## La Historia del SEO
+## **La Historia del SEO**
 
 Los Webmaster así como los proveedores de contenidos, comenzaron a optimizar sitios web enfocado en los motores de búsqueda a mediados de la década de 1990, ya que los motores de búsqueda número uno catalogaban todas las páginas de la WWW.
 
