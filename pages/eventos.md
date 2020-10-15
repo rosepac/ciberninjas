@@ -47,12 +47,12 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 17 de Octubre  <!-- omit in toc -->
 
-- PEUMConf 2020 ([Programar Es Una Mierda](https://www.programaresunamierda.com/p/peumconf-2019.html){:target="_blank" rel="nofollow, noreferrer"})
+- Conferencia: Programar es una Mierda 2020 📆 ([AGENDA](https://www.programaresunamierda.com/p/peumconf-2019.html){:target="_blank" rel="nofollow, noreferrer"}) De 12:00 AM a 20:00 PM H. Española.
 - Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 20 de Octubre  <!-- omit in toc -->
 
-- Nerdear.LA (Del 20 al 24 de Octubre)
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [AGENDA](https://nerdear.la/agenda/){:target="_blank" rel="nofollow, noreferrer"}
 - ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
 - Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
 
@@ -87,6 +87,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 27 de Octubre  <!-- omit in toc -->
 
 - Operadores de Kubernetes: Operando servicios nativos de la nube a escala - [REGISTRO](https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
+- ForoASLAN: 12 A 14H WIFI 6 Y NUEVAS CAPACIDADES PARA EL ENTORNO 5G - [INFO.](https://aslan.es/actividades/foro-tendencias-tecnologicas-conectividad-inteligente-tendencias-de-alto-impacto/)
 
 ### 🔔 29 de Octubre  <!-- omit in toc -->
 
