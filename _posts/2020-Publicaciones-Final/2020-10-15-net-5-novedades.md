@@ -7,7 +7,7 @@ tags:
 - NET
 thumbnail: /assets/img/blog/framework-net-15.webp
 feature-img: /assets/img/blog/framework-net-15.webp
-title: '▷ Novedades de Microsoft .NET 5'
+title: '▷ Novedades de Microsoft NET 5'
 description: >-
   Con el objetivo de unificar la plataforma .NET, .NET 5 trae mejoras a la calidad del código RyuJIT, recolección de basura y serialización JSON, para empezar.
 excerpt: >-
