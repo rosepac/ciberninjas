@@ -30,16 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-### 🔔 14 de Octubre  <!-- omit in toc -->
-
-- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
-- Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"} (18:00 PM)
-- Mujer y Tecnología: Desafíos en el sector tecnológico [Registro](https://www.eventbrite.com.ar/e/mujer-y-tecnologia-desafios-en-el-sector-tecnologico-tickets-124820225655){:target="_blank" rel="nofollow, noreferrer"} (23:00 H.)
-
-### 🔔 15 de Octubre  <!-- omit in toc -->
-
-- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 16 de Octubre  <!-- omit in toc -->
 
 - DevFest Spain 2020 👉 [INFO.](https://gdg.community.dev/events/details/google-gdg-asturias-presents-devfest-spain-2020/){:target="_blank" rel="nofollow, noreferrer"}
@@ -967,3 +957,14 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 - Webinar: Systemic, nueva librería de inyección de dependencias para node.js - [Registro](https://www.eventbrite.es/e/entradas-webinar-systemic-nueva-libreria-de-inyeccion-de-dependencias-para-nodejs-119109867821?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 - Fomentando la cultura DevOps para el éxito - [Registro](https://events.codemotion.com/webinars/fomentando-la-cultura-devops-para-el-xito/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
+
+
+### 🔔 14 de Octubre  <!-- omit in toc -->
+
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
+- Escuelas con WordPress: ¿Sensei o LearnDash? - [Registro](https://www.meetup.com/es/Torrelodones-WordPress-Meetup/events/273453234/){:target="_blank" rel="nofollow, noreferrer"} (18:00 PM)
+- Mujer y Tecnología: Desafíos en el sector tecnológico [Registro](https://www.eventbrite.com.ar/e/mujer-y-tecnologia-desafios-en-el-sector-tecnologico-tickets-124820225655){:target="_blank" rel="nofollow, noreferrer"} (23:00 H.)
+
+### 🔔 15 de Octubre  <!-- omit in toc -->
+
+- Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
