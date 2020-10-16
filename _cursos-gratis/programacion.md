@@ -6,9 +6,9 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Programación]
-title: "▷ 125 Mejores cursos gratis de programación"
-description: "Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto"
-excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto"
+title: "▷ 125 Mejores cursos GRATIS de Programación 2021"
+description: "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021"
+excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021"
 date: 2020-09-30T08:22:00.000+02:00
 permalink: /cursos-programacion/
 canonical_URL: https://ciberninjas.com/cursos-programacion/
@@ -44,28 +44,32 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
   - [¿Por qué Golang es tan popular?](#por-qué-golang-es-tan-popular)
 - [**Cursos Gratis Java**](#cursos-gratis-java)
 - [**Cursos Gratis de Frameworks Java**](#cursos-gratis-de-frameworks-java)
-  - [Play](#play)
+  - [**Cursos Gratis de Apache Struts**](#cursos-gratis-de-apache-struts)
+  - [**Cursos Gratis de Play Framework**](#cursos-gratis-de-play-framework)
   - [PrimeFaces](#primefaces)
   - [.NET Core](#net-core)
-  - [Spring](#spring)
-  - [Struts](#struts)
+  - [**Cursos Gratis de Spring Framewor**](#cursos-gratis-de-spring-framewor)
+  - [**Cursos Gratis de Struts Framework**](#cursos-gratis-de-struts-framework)
 - [Javascript](#javascript)
 - [Javascript Frameworks](#javascript-frameworks)
   - [¿Dónde puedo aprender JavaScript para principiantes?](#dónde-puedo-aprender-javascript-para-principiantes)
 - [Kotlin](#kotlin)
-- [Perl](#perl)
+- [**Cursos Gratis de Perl**](#cursos-gratis-de-perl)
 - [**Cursos Gratis de PHP**](#cursos-gratis-de-php)
 - [PHP Frameworks](#php-frameworks)
   - [CakePHP](#cakephp)
   - [**Cursos de CodeIgniter**](#cursos-de-codeigniter)
   - [**Cursos de Laravel**](#cursos-de-laravel)
   - [**Cursos de Symfony**](#cursos-de-symfony)
-  - [Zend](#zend)
-- [Python](#python)
+  - [**Cursos de Yii Framework**](#cursos-de-yii-framework)
+  - [**Cursos de Zend Framework**](#cursos-de-zend-framework)
+- [**Cursos Gratis de Python**](#cursos-gratis-de-python)
 - [Python Frameworks](#python-frameworks)
+  - [**Cursos Gratis de Django**](#cursos-gratis-de-django)
+  - [**Cursos Gratis de Flask**](#cursos-gratis-de-flask)
 - [**Cursos Gratis Ruby**](#cursos-gratis-ruby)
-- [Ruby Frameworks](#ruby-frameworks)
-  - [Ruby and Rails](#ruby-and-rails)
+- [Cursos Gratis de Ruby Frameworks**](#cursos-gratis-de-ruby-frameworks)
+  - [**Cursos Gratis de Ruby and Rails Framework**](#cursos-gratis-de-ruby-and-rails-framework)
 - [Sistemas de ERP](#sistemas-de-erp)
 - [Swift](#swift)
 - [**Cursos de Typescript**](#cursos-de-typescript)
@@ -247,11 +251,17 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank" rel="nofollow,noreferrer"} (Mil Cursos Gratis)
 - [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Taller Práctico de Java Server Page - JSP](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVbUthOrAxCCRorubLJ1uus){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+- [Taller Práctico de Java Server Faces - JSF](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWUt7ZVM8BR8gOqFTVlVGuq){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 
 ## **Cursos Gratis de Frameworks Java**
 
-### Play
+### **Cursos Gratis de Apache Struts**
+
+- [Taller Práctico de Apache Struts 2](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUHRXGI9ZmSA338-WQFL8gN){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+
+### **Cursos Gratis de Play Framework**
 
 - [Play Framework](https://www.youtube.com/playlist?list=PLSkgknIuMNrrWy4Ly5mGQ7VryaLYBPhgj){:target="_blank" rel="nofollow,noreferrer"} (Juan Manuel Marchese, YouTube)
 - [Tutorial de Play Framework](https://www.youtube.com/playlist?list=PLSKqagaCmohcTbZ_nva1mGGLBz1agOF_k){:target="_blank" rel="nofollow,noreferrer"} (Play Framework, Youtube)
@@ -265,7 +275,7 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 
 - [Curso de .NET Core Framework](/net-core-framework-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 
-### Spring
+### **Cursos Gratis de Spring Framewor**
 
 - [Desarrollo Web con Spring Boot](/desarrollo-web-spring-boot-con-byte-code/){:target="_blank" rel="nofollow,noreferrer"} (Byte Code, Youtube) (2018)
 - [Spring Framework Tutorial](https://www.youtube.com/watch?v=r4kqcSs4F7I&list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
@@ -274,8 +284,9 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Spring Boot](/spring-boot-con-jose-orjuela/) (José Orjuela, Youtube) (2018)
 - [Spring Boot + Docker](/spring-boot-docker-con-abel-fresnillo/) (Abel Fresnillo, Youtube) (2019)
 - [Spring Boot: recetas para el trabajo diario (introducción)](https://www.udemy.com/spring-boot-recetas-para-el-trabajo-diario-introduccion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Taller Práctico de Spring Web MVC](https://www.youtube.com/playlist?list=PLbP-b3gf8hAW2ALibZexruFfYxD0idO36){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-### Struts
+### **Cursos Gratis de Struts Framework**
 
 - [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
 
@@ -350,7 +361,7 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 
 ## Javascript Frameworks
 
-> Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual.
+> Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual; y considerar que en líneas generales se suelen dedicar hacía ese enfoque del desarrollo móvil / web.
 {: .notice--info}
 
 ### ¿Qué es JavaScript? <!-- omit in toc -->
@@ -406,7 +417,7 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## Perl
+## **Cursos Gratis de Perl**
 
 - [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
@@ -419,12 +430,16 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Como crear documentos PDF en PHP: generar reportes PDF](https://www.udemy.com/como-crear-documentos-pdf-en-php-generar-reportes-pdf){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Cookies y sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Curso de PHP Estructurado y MySQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUVDqFsUUnrsQr7uItyxqvd){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+- [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVP2439cLz7QW2ZXUcgBRBZ){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Curso de PHP para principiantes desde 0](https://www.youtube.com/playlist?list=PLPl81lqbj-4KPLqegK5DNKWSFBzn8QTbq){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
+- [Curso de PHP y PostgreSQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAX2wRrQJroLQ2Ae8jkyJcro){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube) (2014)
 - [Curso de PHP 7 y MySQL](/👨‍🏫-curso-php-7-mysql-purito-codigo) (Purito Código, Youtube)
 - [PHP Básico](https://www.udemy.com/php-basico-t){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Programación en Internet (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OWC)
 - [Programación en Internet (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2008.html){:target="_blank" rel="nofollow,noreferrer"} (OWC)
 - [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Taller Práctico de PHP y MySQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVewFe5xEhwOYS2rXSFyM2p){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -443,6 +458,7 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 - [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a CodeIgniter](https://www.udemy.com/course/introduccion-codeigniter){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Taller Práctico de CodeIgniter](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWSlDSn9421tZ6vxNxazMU0){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ### **Cursos de Laravel**
 
@@ -459,13 +475,19 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Laravel 5.4: crear tu primer sitio web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-laravel%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt){:target="_blank" rel="nofollow,noreferrer"} (Raul Palacios, YouTube)
 - [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Taller Práctico de Laravel](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWzkNssLra6UOJkfNMfnU-q){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ### **Cursos de Symfony**
 
 - [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+- [Symfony 2](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVAQPBX1EuYKMv0pKE6Fl_G){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Symfony 3: en producción. Subir y publicar proyectos web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsymfony-3-en-produccion-subir-y-publicar-proyectos-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### Zend
+### **Cursos de Yii Framework**
+
+- [Taller Práctico de Yii Framework](https://www.youtube.com/playlist?list=PLbP-b3gf8hAU2dNOauzb6yv2Wjnctp8cp){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+
+### **Cursos de Zend Framework**
 
 - [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, YouTube)
 
@@ -520,7 +542,7 @@ Puedes aprender PHP con:
 
 Comience con tutoriales de introducción, fundamentos, conceptos básicos y para principiantes, libros, lecciones en video en línea, etc. y practique rigurosamente. Hacer un experimento continuo con su enfoque le permitirá aprender mejor de sus errores. Conócelo y sigue practicando.
 
-## Python
+## **Cursos Gratis de Python**
 
 - [Analista de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (Unipython)
 - [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante){:target="_blank" rel="nofollow,noreferrer"} (Unipython)
@@ -535,6 +557,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 - [Python Avanzado con Dlib & OpenCV](https://unipython.com/curso-de-python-avanzado-con-dlib-opencv){:target="_blank" rel="nofollow,noreferrer"}
 - [Selenium con Python](https://unipython.com/curso-selenium){:target="_blank" rel="nofollow,noreferrer"}
 - [Taller de creación de Backdoors con Python - Parte 1](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbackdoors-with-python%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+- [Taller Práctico de Programación con Python](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVePaRWh1wLFbsUNgdALZ2Q){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
 - [Introducción a la Programación con Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-la-programacion-con-python-juan-de-la-torre%2F){:target="_blank" rel="nofollow,noreferrer"} (Juan de la Torre, Udemy)
 - [Qt usando Python y PyQT](https://www.youtube.com/playlist?list=PLEtcGQaT56cj81xiNCrJnoAjc66uZVXDa){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
@@ -544,10 +567,17 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 ## Python Frameworks
 
+### **Cursos Gratis de Django**
+
 - [Curso básico de Django - Páginas web con Python](https://www.udemy.com/curso-basico-de-django-paginas-web-con-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Taller Práctico de Desarrollo con Django](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUaQVd_lrj3NNyc7eNTP670){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+
+### **Cursos Gratis de Flask**
+
+- [Taller Práctico de Desarrollo con Flask](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWXm5K1jD3LbW4cPpSv0n74){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ## **Cursos Gratis Ruby**
 
@@ -555,10 +585,11 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Ruby Frameworks
+## Cursos Gratis de Ruby Frameworks**
 
-### Ruby and Rails
+### **Cursos Gratis de Ruby and Rails Framework**
 
+- [Curso de Ruby and Rails](https://www.youtube.com/playlist?list=PLbP-b3gf8hAXQF22GlGEt1jYNO5tsZIl1){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Ruby and Rails Básico](https://www.youtube.com/watch?v=GDgzK0xTAYM){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 - [Introducción a Ruby on Rails y servicios REST](https://plataforma.keepcoding.io/courses/enrolled/123885){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 
@@ -631,4 +662,4 @@ Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últ
 
 ### **Relacionados** <!-- omit in toc -->
 
-![Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-programacion.webp "Los mejores cursos gratuitos con los que aprender todo sobre programación, desde cero hasta nivel experto")
+![Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021](/assets/img/paginas-cursos/cursos-programacion.webp "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021")

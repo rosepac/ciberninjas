@@ -48,7 +48,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
   - [¿Debo aprender React Native o Flutter?](#debo-aprender-react-native-o-flutter)
   - [¿Cuáles son los requisitos previos para aprender React Native?](#cuáles-son-los-requisitos-previos-para-aprender-react-native)
   - [¿Por qué debería aprender React Native?](#por-qué-debería-aprender-react-native)
-- [**Vue**](#vue)
+- [**Cursos Gratis de Vue Framework**](#cursos-gratis-de-vue-framework)
   - [¿Qué es Vue.Js?](#qué-es-vuejs)
   - [¿Cuáles son los requisitos previos para aprender Vue.js?](#cuáles-son-los-requisitos-previos-para-aprender-vuejs)
   - [¿Por qué debería aprender Vue.Js?](#por-qué-debería-aprender-vuejs)
@@ -57,6 +57,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
   - [¿Cuáles son los mejores libros para aprender Vue.Js?](#cuáles-son-los-mejores-libros-para-aprender-vuejs)
   - [¿Es Vue js un marco o una biblioteca?](#es-vue-js-un-marco-o-una-biblioteca)
   - [¿Por qué Vue JS es mejor que Angular?](#por-qué-vue-js-es-mejor-que-angular)
+- [**Cursos Gratis de APIs**](#cursos-gratis-de-apis)
 
 ## **Programación Web 👩‍💻**
 
@@ -90,6 +91,7 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 - [Empezando con Angular 5](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fempezando-con-angular-5){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-html5-css3-angular){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+- [Taller Práctico de Angular](https://www.youtube.com/playlist?list=PLbP-b3gf8hAXuiA5sYcXsAUFXNynWXXwt){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -237,7 +239,7 @@ Los siguientes son los requisitos previos para aprender React Native:
 
 Necesita aprender React Native si está interesado o necesita desarrollar aplicaciones móviles con capacidades de plataforma nativa.
 
-## **Vue**
+## **Cursos Gratis de Vue Framework**
 
 - [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Anticuado, ver más actual: Escuela Vue) (WMedia)
 - [Curso de Vue JS](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT){:target="_blank" rel="nofollow,noreferrer"} (BluuWeb, Youtube) (2018)
@@ -247,6 +249,7 @@ Necesita aprender React Native si está interesado o necesita desarrollar aplica
 - [Introducción Vue js 2 framework JAVASCRIPT desde CERO](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-vue-js-2-framework-javascript-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Primeros pasos con Vue.js: Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Taller Práctico de Vue](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUqICAQ_gap9cC-migRHott){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Vue, JavaScript y desarrollo Web moderno](https://escuelavue.es/series){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
 
 ### ¿Qué es Vue.Js?
@@ -312,6 +315,11 @@ Tanto Angular como Vue.js tienen sus pros y sus contras entre sí. VueJS es mejo
 - Es considerablemente más fácil de aprender.
 - Ofrece una mayor personalización.
 - Admite enfoques de enlace de datos unidireccionales y bidireccionales.
+
+## **Cursos Gratis de APIs**
+
+- [Cómo usar la API de Facebook](https://www.youtube.com/playlist?list=PLbP-b3gf8hAX7lPkTD13_6P0tsDMZw8wy){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube) (2011)
+- [Curso de la API de Google Maps](https://www.youtube.com/playlist?list=PLbP-b3gf8hAU3XCmopgUer4Al5zTFWJV0){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube) (2014)
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 

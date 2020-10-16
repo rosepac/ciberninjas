@@ -65,6 +65,7 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [Minicurso Diseño para Android con Material Design y Theming](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-diseno-para-android-con-material-design-y-theming%2F){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
 - [Minicurso Firebase para android. Base de dato en tiempo real](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-firebase-para-android-base-datos-tiempo-real%2F){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
 - [Programación Android 01: Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F){:target="_blank" rel="nofollow,noreferrer"} por Javier San José Ortiz (Udemy)
+- [Taller Práctico de Desarrollo Móvil para Android](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWeLwCb-XxganG8zpOQS50-){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ## **¿Qué es Android?**
 

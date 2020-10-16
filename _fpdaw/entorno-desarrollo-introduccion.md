@@ -172,6 +172,7 @@ En la segunda parte de la unidad formativa vemos la utilización de una herramie
 - Conectores.
 - Documentación y ayuda.
 
+
 ## **2. Introducción a la Optimización del Software**
 
 <!-- https://ioc.xtec.cat/materials/FP/Materials/IC_S_INF/INF_IC_S_M05/web/html/WebContent/u2/resum.html -->
