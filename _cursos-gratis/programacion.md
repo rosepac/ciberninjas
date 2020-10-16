@@ -43,26 +43,26 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
   - [¿Qué es Golang?](#qué-es-golang)
   - [¿Por qué Golang es tan popular?](#por-qué-golang-es-tan-popular)
 - [**Cursos Gratis Java**](#cursos-gratis-java)
-- [**Cursos Gratis de Frameworks Java**](#cursos-gratis-de-frameworks-java)
+- [**Cursos Gratis de Framework Java**](#cursos-gratis-de-framework-java)
   - [**Cursos Gratis de Apache Struts**](#cursos-gratis-de-apache-struts)
-  - [**Cursos Gratis de Play Framework**](#cursos-gratis-de-play-framework)
+  - [**Cursos Gratis de Play**](#cursos-gratis-de-play)
   - [PrimeFaces](#primefaces)
   - [.NET Core](#net-core)
-  - [**Cursos Gratis de Spring Framewor**](#cursos-gratis-de-spring-framewor)
-  - [**Cursos Gratis de Struts Framework**](#cursos-gratis-de-struts-framework)
+  - [**Cursos Gratis de Spring**](#cursos-gratis-de-spring)
+  - [**Cursos Gratis de Struts**](#cursos-gratis-de-struts)
 - [Javascript](#javascript)
-- [Javascript Frameworks](#javascript-frameworks)
+- [**Cursos Gratis de Javascript Framework**](#cursos-gratis-de-javascript-framework)
   - [¿Dónde puedo aprender JavaScript para principiantes?](#dónde-puedo-aprender-javascript-para-principiantes)
 - [Kotlin](#kotlin)
 - [**Cursos Gratis de Perl**](#cursos-gratis-de-perl)
 - [**Cursos Gratis de PHP**](#cursos-gratis-de-php)
-- [PHP Frameworks](#php-frameworks)
-  - [CakePHP](#cakephp)
-  - [**Cursos de CodeIgniter**](#cursos-de-codeigniter)
-  - [**Cursos de Laravel**](#cursos-de-laravel)
-  - [**Cursos de Symfony**](#cursos-de-symfony)
-  - [**Cursos de Yii Framework**](#cursos-de-yii-framework)
-  - [**Cursos de Zend Framework**](#cursos-de-zend-framework)
+- [**Cursos Gratis de PHP Frameworks**](#cursos-gratis-de-php-frameworks)
+  - [**Cursos Gratis de CakePHP**](#cursos-gratis-de-cakephp)
+  - [**Cursos Gratis de CodeIgniter**](#cursos-gratis-de-codeigniter)
+  - [**Cursos Gratis de Laravel**](#cursos-gratis-de-laravel)
+  - [**Cursos Gratis de Symfony**](#cursos-gratis-de-symfony)
+  - [**Cursos Gratis de Yii**](#cursos-gratis-de-yii)
+  - [**Cursos Gratis de Zend**](#cursos-gratis-de-zend)
 - [**Cursos Gratis de Python**](#cursos-gratis-de-python)
 - [Python Frameworks](#python-frameworks)
   - [**Cursos Gratis de Django**](#cursos-gratis-de-django)
@@ -252,13 +252,13 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Taller Práctico de Java Server Faces - JSF](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWUt7ZVM8BR8gOqFTVlVGuq){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 
-## **Cursos Gratis de Frameworks Java**
+## **Cursos Gratis de Framework Java**
 
 ### **Cursos Gratis de Apache Struts**
 
 - [Taller Práctico de Apache Struts 2](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUHRXGI9ZmSA338-WQFL8gN){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-### **Cursos Gratis de Play Framework**
+### **Cursos Gratis de Play**
 
 - [Play Framework](https://www.youtube.com/playlist?list=PLSkgknIuMNrrWy4Ly5mGQ7VryaLYBPhgj){:target="_blank" rel="nofollow,noreferrer"} (Juan Manuel Marchese, YouTube)
 - [Tutorial de Play Framework](https://www.youtube.com/playlist?list=PLSKqagaCmohcTbZ_nva1mGGLBz1agOF_k){:target="_blank" rel="nofollow,noreferrer"} (Play Framework, Youtube)
@@ -272,7 +272,7 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 
 - [Curso de .NET Core Framework](/net-core-framework-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 
-### **Cursos Gratis de Spring Framewor**
+### **Cursos Gratis de Spring**
 
 - [Desarrollo Web con Spring Boot](/desarrollo-web-spring-boot-con-byte-code/){:target="_blank" rel="nofollow,noreferrer"} (Byte Code, Youtube) (2018)
 - [Spring Framework Tutorial](https://www.youtube.com/watch?v=r4kqcSs4F7I&list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
@@ -283,7 +283,7 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Spring Boot: recetas para el trabajo diario (introducción)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-recetas-para-el-trabajo-diario-introduccion%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Taller Práctico de Spring Web MVC](https://www.youtube.com/playlist?list=PLbP-b3gf8hAW2ALibZexruFfYxD0idO36){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-### **Cursos Gratis de Struts Framework**
+### **Cursos Gratis de Struts**
 
 - [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
 
@@ -353,7 +353,7 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 - [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Javascript desde cero](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (YouTube)
 
-## Javascript Frameworks
+## **Cursos Gratis de Javascript Framework**
 
 > Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual; y considerar que en líneas generales se suelen dedicar hacía ese enfoque del desarrollo móvil / web.
 {: .notice--info}
@@ -435,29 +435,33 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## PHP Frameworks
+## **Cursos Gratis de PHP Frameworks**
 
 [CakePHP](/cursos-tecnologia/#cakephp){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Symfony](/cursos-tecnologia/#symfony-){: .btn .btn--inverse .btn--large} [Zend](/cursos-tecnologia/#zend){: .btn .btn--inverse .btn--large}
 
 - [Introducción teórica a los frameworks de desarrollo para PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-teorica-a-los-framework-de-desarrollo-para-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### CakePHP
+### **Cursos Gratis de CakePHP**
 
 - [CakePHP 2](https://www.youtube.com/playlist?list=PL-9WnOL7eRJYmdqHWCKigyl_tRHjNkrlF){:target="_blank" rel="nofollow,noreferrer"} (Edson Mollericona Marin, YouTube)
 - [CakePHP 3 Básico](https://www.youtube.com/playlist?list=PL-9WnOL7eRJZFoTXKm7EvR_p38rtF87YH){:target="_blank" rel="nofollow,noreferrer"} (Edson Mollericona Marin, YouTube)
 
-### **Cursos de CodeIgniter**
+### **Cursos Gratis de CodeIgniter**
 
+- [CodeIgniter](https://www.youtube.com/playlist?list=PLQBsSZ4qJdGmDU3-an3F60vx35IP47xYV){:target="_blank" rel="nofollow,noreferrer"} (Luis Pastén, Udemy) (2019) + [CodeIgniter 4](https://www.youtube.com/playlist?list=PLQBsSZ4qJdGkMC9t1c85-zWQoV2JERGxI){:target="_blank" rel="nofollow,noreferrer"} (2019)
 - [CodeIgniter 3 de cero a Experto. El mejor framework de PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcodeigniter-desde-cero-tu-primera-aplicacion-web%2F){:target="_blank" rel="nofollow,noreferrer"} (David Navarro, Udemy)
 - [CodeIgniter 3 y Laravel 7 para principiantes: Primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcodeigniter-para-principiantes-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [CodeIgniter 4 de cero a Experto. El mejor framework de PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftutorial-codeigniter-4-de-cero-a-experto%2F){:target="_blank" rel="nofollow,noreferrer"} (David Navarro, Udemy)
+- [CodeIgniter de 0 a 100](https://www.youtube.com/playlist?list=PLCTD_CpMeEKTFN5TDeOP-wP_hU0_9VoWg){:target="_blank" rel="nofollow,noreferrer"} (Programador Novato, Youtube) (2019)
+- [Curso de CodeIgniter 3 desde Cero](https://www.youtube.com/playlist?list=PLYAyQauAPx8kZdtLprP9g7PJBRk5HgYuu){:target="_blank" rel="nofollow,noreferrer"} (CodeStack, Youtube) (2017)
+- [Curso Tutorial de CodeIgniter en Español](https://www.youtube.com/playlist?list=PLB5SYDBi8M3HkA4pHjmu-BFi5TqcXPSC4){:target="_blank" rel="nofollow,noreferrer"} (Andrés Cruz, Youtube) (2020)
 - [Introducción a CodeIgniter](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-codeigniter%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Sistema de Blog Básico en Codeigniter 3 (2021) - PARTE 1](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsistema-de-blog-basico-en-codeigniter-3-2021-parte-1%2F){:target="_blank" rel="nofollow,noreferrer"} (Tutos Coders, Youtube)
 - [Sistema de Blog Básico en Codeigniter 3 (2021) - PARTE 2](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsistema-de-blog-basico-en-codeigniter-3-2021-parte-2%2F){:target="_blank" rel="nofollow,noreferrer"} (Tutos Coders, Youtube)
 - [Sistema de Exámenes en linea con Codeigniter 3 y Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsistema-de-examenes-en-linea-con-codeigniter-3-y-bootstrap-4%2F){:target="_blank" rel="nofollow,noreferrer"} (Tutos Coders, Youtube)
 - [Taller Práctico de CodeIgniter](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWSlDSn9421tZ6vxNxazMU0){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-### **Cursos de Laravel**
+### **Cursos Gratis de Laravel**
 
 - [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://www.udemy.com/aprende-laravel-modelos-migraciones-rutas-vistas-etc){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Configurar Laravel en Windows y MySql Server](https://www.udemy.com/laravel-y-sql-server){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -474,17 +478,17 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Taller Práctico de Laravel](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWzkNssLra6UOJkfNMfnU-q){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-### **Cursos de Symfony**
+### **Cursos Gratis de Symfony**
 
 - [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 - [Symfony 2](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVAQPBX1EuYKMv0pKE6Fl_G){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Symfony 3: en producción. Subir y publicar proyectos web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsymfony-3-en-produccion-subir-y-publicar-proyectos-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### **Cursos de Yii Framework**
+### **Cursos Gratis de Yii**
 
 - [Taller Práctico de Yii Framework](https://www.youtube.com/playlist?list=PLbP-b3gf8hAU2dNOauzb6yv2Wjnctp8cp){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-### **Cursos de Zend Framework**
+### **Cursos Gratis de Zend**
 
 - [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, YouTube)
 
