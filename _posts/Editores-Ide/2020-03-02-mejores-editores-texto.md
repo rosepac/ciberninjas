@@ -37,11 +37,11 @@ published: true
 
 ---
 
-Vamos a conocer los mejores editores de texto para programar totalmente gratuitos, bien seas un desarrollador web nuevo o un adicto del código veterano, vas necesitas un editor de código, sí o sí.
+Vamos a conocer **los mejores editores de texto para programar totalmente gratuitos**, bien seas un desarrollador web nuevo o un adicto del código veterano, **vas a necesitar un editor de código**, sí o sí.
 
-Es muy importante, que tu editor sea lo suficientemente robusto como para ofrecerte todo lo que necesites realizar. El editor, va a ser tu herramienta principal y tu mejor amigo (durante todo tu tiempo de codeo 😉) entre toda tu caja de herramientas.
+Es muy importante, que **el editor sea lo suficientemente robusto** como para ofrecerte posibilidades para todo lo que necesites realizar. El **editor es y será ser tu herramienta de trabajo principal** y tu mejor amigo (durante todo tu tiempo de codeo 😉) entre toda tu caja de herramientas.
 
-Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
+Dado que que el encotnrar el mejor editor para programar, es una búsqueda continua para la mayoría de las personas nuevas en el mundo de la programación, he recopilado **las mejores opciones de editores de programación**, tanto gratuitas como premium, para que puedas integrarlas sin problemas en tu flujo de trabajo.
 
 <br/>
 <details>
