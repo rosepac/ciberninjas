@@ -78,7 +78,6 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 
 ## **Curso Gratis C**
 
-- [C y C++ ¡Desde 0!](https://www.udemy.com/course/aprende-c-y-c-en-1-curso-master-en-programacion/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
@@ -123,7 +122,6 @@ Puede aprender C en una clase física, así como en un aula virtual o la combina
 ## **Curso Gratis C#**
 
 - [Algoritmos de Ordenación de C#](/algoritmos-ordenacion-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
-- [C# básico de programación](https://www.udemy.com/-programacion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Crear un bot en C#](/crear-bot-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 - [Curso de C#](/c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 - [Desarrollo de aplicaciones para Windows con C# y Sql en 4 capas](https://www.youtube.com/playlist?list=PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
@@ -181,7 +179,7 @@ No. No es absolutamente necesario aprender C de antemano aprendiendo C ++. Sin e
 
 ## **Curso Gratis Ensamblador**
 
-- [Programación en ensamblador 8086 con proteus](https://www.udemy.com/course/programacion-en-ensamblador-8086-con-proteus/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Programación en ensamblador 8086 con proteus](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-en-ensamblador-8086-con-proteus%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
@@ -236,18 +234,17 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 ## **Cursos Gratis Java**
 
 - [Acceso a bases de datos en Java](http://ocw.upm.es/course/acceso-bases-datos-java){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Curso básico de Java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-programacion-java%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
 - [Desarrollo en J2ME con NetBeans](https://www.youtube.com/playlist?list=PL2DD57072B0682FEC){:target="_blank" rel="nofollow,noreferrer"} (Guillermo Malagon, YouTube)
 - [Estructura de datos en Java](https://www.youtube.com/playlist?list=PLCLpAU8VN0j4RGemFfybZrWoSX57NbEq9){:target="_blank" rel="nofollow,noreferrer"} (MasterHeHeGar, YouTube)
 - [Fundamentos de Java](https://devcode.la/cursos/fundamentos-java){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
-- [Fundamentos de Programación con Java](https://www.udemy.com/fundamentos-de-programacion-con-java){:target="_blank" rel="nofollow,noreferrer"} (Ion Jaureguialzo, Udemy)
-- [Fundamentos de Programación en Java](https://www.udemy.com/fundamentos-de-programacion-en-java-ricrack){:target="_blank" rel="nofollow,noreferrer"} (Alfonso Sebastián, Udemy)
-- [Introducción a Java desde cero](https://www.udemy.com/introduccion-a-java-desde-cero-gratis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Fundamentos de Programación en Java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-en-java-ricrack%2F){:target="_blank" rel="nofollow,noreferrer"} (Alfonso Sebastián, Udemy)
+- [Introducción a Java desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-java-desde-cero-gratis%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a la programación en JAVA (2009)](https://ocw.ehu.eus/pluginfile.php/5429/mod_resource/content/1/intro_java/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Introducción a la programación en Java: escribiendo buen código](https://www.edx.org/es/course/introduccion-a-la-programacion-en-java-escribiendo){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Carlos III de Madrid)
 - [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
-- [Java Básico](https://www.udemy.com/java-basico-d){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Java Básico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-basico-d%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank" rel="nofollow,noreferrer"} (Mil Cursos Gratis)
 - [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -283,7 +280,7 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Spring Boot](/spring-boot-con-mitocode/) (Mitocode, Youtube) (2019)
 - [Spring Boot](/spring-boot-con-jose-orjuela/) (José Orjuela, Youtube) (2018)
 - [Spring Boot + Docker](/spring-boot-docker-con-abel-fresnillo/) (Abel Fresnillo, Youtube) (2019)
-- [Spring Boot: recetas para el trabajo diario (introducción)](https://www.udemy.com/spring-boot-recetas-para-el-trabajo-diario-introduccion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Spring Boot: recetas para el trabajo diario (introducción)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-recetas-para-el-trabajo-diario-introduccion%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Taller Práctico de Spring Web MVC](https://www.youtube.com/playlist?list=PLbP-b3gf8hAW2ALibZexruFfYxD0idO36){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ### **Cursos Gratis de Struts Framework**
@@ -352,12 +349,9 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 - [Curso de Javascript para principiantes](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Javascript 6](https://www.youtube.com/playlist?list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z){:target="_blank" rel="nofollow,noreferrer"} (WebApps HTML5, Youtube)
 - [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript){:target="_blank" rel="nofollow,noreferrer"}
-- [Fundamentos de Javascript](https://www.udemy.com/fundamentos-de-javascript){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Javascript desde cero](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (YouTube)
-- [JavaScript en páginas web: paso a paso](https://www.udemy.com/curso-gratis-javascript-principiantes-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [JavaScript ES 6 (2.017)](https://www.udemy.com/es6-javascript){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ## Javascript Frameworks
 
@@ -425,20 +419,18 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 ## **Cursos Gratis de PHP**
 
-- [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Aprende PHP y MySQl, conceptos básicos](https://www.udemy.com/php-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Aprende PHP y MySQl, conceptos básicos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Aprende programación básica con PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-programacion-basica-con-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Como crear documentos PDF en PHP: generar reportes PDF](https://www.udemy.com/como-crear-documentos-pdf-en-php-generar-reportes-pdf){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Cookies y sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Cookies y sesiones en PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-documentos-pdf-en-php-generar-reportes-pdf%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Curso de PHP Estructurado y MySQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUVDqFsUUnrsQr7uItyxqvd){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVP2439cLz7QW2ZXUcgBRBZ){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Curso de PHP para principiantes desde 0](https://www.youtube.com/playlist?list=PLPl81lqbj-4KPLqegK5DNKWSFBzn8QTbq){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
 - [Curso de PHP y PostgreSQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAX2wRrQJroLQ2Ae8jkyJcro){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube) (2014)
 - [Curso de PHP 7 y MySQL](/👨‍🏫-curso-php-7-mysql-purito-codigo) (Purito Código, Youtube)
-- [PHP Básico](https://www.udemy.com/php-basico-t){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Programación en Internet (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OWC)
 - [Programación en Internet (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2008.html){:target="_blank" rel="nofollow,noreferrer"} (OWC)
-- [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Programador web: Cookies y Sesiones en PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramador-web-php-cookies-y-sesiones%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Taller Práctico de PHP y MySQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVewFe5xEhwOYS2rXSFyM2p){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
@@ -447,7 +439,7 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 [CakePHP](/cursos-tecnologia/#cakephp){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Symfony](/cursos-tecnologia/#symfony-){: .btn .btn--inverse .btn--large} [Zend](/cursos-tecnologia/#zend){: .btn .btn--inverse .btn--large}
 
-- [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Introducción teórica a los frameworks de desarrollo para PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-teorica-a-los-framework-de-desarrollo-para-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### CakePHP
 
@@ -456,8 +448,13 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 ### **Cursos de CodeIgniter**
 
-- [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Introducción a CodeIgniter](https://www.udemy.com/course/introduccion-codeigniter){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [CodeIgniter 3 de cero a Experto. El mejor framework de PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcodeigniter-desde-cero-tu-primera-aplicacion-web%2F){:target="_blank" rel="nofollow,noreferrer"} (David Navarro, Udemy)
+- [CodeIgniter 3 y Laravel 7 para principiantes: Primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcodeigniter-para-principiantes-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [CodeIgniter 4 de cero a Experto. El mejor framework de PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftutorial-codeigniter-4-de-cero-a-experto%2F){:target="_blank" rel="nofollow,noreferrer"} (David Navarro, Udemy)
+- [Introducción a CodeIgniter](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-codeigniter%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Sistema de Blog Básico en Codeigniter 3 (2021) - PARTE 1](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsistema-de-blog-basico-en-codeigniter-3-2021-parte-1%2F){:target="_blank" rel="nofollow,noreferrer"} (Tutos Coders, Youtube)
+- [Sistema de Blog Básico en Codeigniter 3 (2021) - PARTE 2](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsistema-de-blog-basico-en-codeigniter-3-2021-parte-2%2F){:target="_blank" rel="nofollow,noreferrer"} (Tutos Coders, Youtube)
+- [Sistema de Exámenes en linea con Codeigniter 3 y Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsistema-de-examenes-en-linea-con-codeigniter-3-y-bootstrap-4%2F){:target="_blank" rel="nofollow,noreferrer"} (Tutos Coders, Youtube)
 - [Taller Práctico de CodeIgniter](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWSlDSn9421tZ6vxNxazMU0){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ### **Cursos de Laravel**
