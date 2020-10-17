@@ -33,6 +33,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 17 de Octubre  <!-- omit in toc -->
 
 - Conferencia: Programar es una Mierda 2020 📆 ([AGENDA](https://www.programaresunamierda.com/p/peumconf-2019.html){:target="_blank" rel="nofollow, noreferrer"}) De 12:00 AM a 20:00 PM H. Española.
+- DevFest Spain 2020 👉 [INFO.](https://gdg.community.dev/events/details/google-gdg-asturias-presents-devfest-spain-2020/){:target="_blank" rel="nofollow, noreferrer"}
 - Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 20 de Octubre  <!-- omit in toc -->
