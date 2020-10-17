@@ -8,7 +8,7 @@ tags:
 - Visual Studio Code
 thumbnail: /assets/img/blog/vsc-1-1-50.webp
 feature-img: /assets/img/blog/vsc-1-1-50.webp
-title: '▷ Novedades de Microsoft Visual Studio Code 1.50'
+title: '▷ Novedades de Microsoft Visual Studio Code 1.50 y Cambios Históricos'
 description: >-
   Microsoft actualiza Visual Studio Code mensualmente. Infórmate de los nuevos cambios y novedades, desde aquí.
 excerpt: >-

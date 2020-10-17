@@ -306,11 +306,15 @@ Otras características de Rust 1.25 incluyen:
 ### **Relacionados** <!-- omit in toc -->
 
 [▷ Sentando las bases para el futuro de Rust](https://ciberninjas.com/rust-bases-de-futuro/)
+
 [▷ Nueva sintaxis de ensamblaje para Rust dentro de Nightly](https://ciberninjas.com/sintaxis-rust-nightly/)
+
 [ El lenguaje de programación Rust entra por primera vez, dentro de los 20 lenguajes más populares](https://ciberninjas.com/lenguajes-programaci%C3%B3n-ranking-rust/)
+
 [Rust vs C++: ¿Rust reemplazará a C++ en el futuro?](https://ciberninjas.com/rust-vs-c-m%C3%A1s/)
+
 [▷ A los desarrolladores les encanta el lenguaje de programación Rust](https://ciberninjas.com/desarrolladores-lenguaje-rust/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/blog/novedades-rust.webp "")
+![Novedades 2020 de Rust. Rust fue diseñado para facilitar el desarrollo de software a nivel de sistema rápido y seguro. Estas son las novedades.](/assets/img/blog/novedades-rust.webp "Novedades 2020 de Rust. Rust fue diseñado para facilitar el desarrollo de software a nivel de sistema rápido y seguro. Estas son las novedades.")
