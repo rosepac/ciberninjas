@@ -47,4 +47,4 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-linux.webp)
+![Los mejores cursos gratuitos con los que aprender todo de Linux y el Software Libre, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-linux.webp "Los mejores cursos gratuitos con los que aprender todo de Linux y el Software Libre, desde cero hasta nivel experto")

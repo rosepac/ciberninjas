@@ -18,19 +18,21 @@ img: "/assets/img/paginas-cursos/cursos-redes-telefonicas.webp"
 
 ---
 
+Cursos gratis de redes de telefonía y comunicaciones móviles, con los que convertirte en un experto en la infraestructura y montaje de redes telefónicas.
+
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 📞 Redes de Telefonía
+## **Cursos Gratis de Redes de Telefonía**
 
 - [Antenas y telescopios: control de seguimiento (2012)](https://ocw.ehu.eus/course/view.php?id=45){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Comunicaciones Digitales (2012)](http://ocw.uma.es/ingenierias/Comunicacion-digital){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Comunicaciones en audio y vídeo (2010)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/comunicaciones-en-audio-y-video){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Comunicaciones Móviles (2012)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/comunicaciones-moviles){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Comunicaciones Móviles Digitales (2007)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/comunicaciones-moviles-digitales){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Diseño de redes inalámbricas con CYPETEL Wireless](https://www.udemy.com/diseno-de-redes-inalambricas-con-cypetel-wireless){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Diseño de redes inalámbricas con CYPETEL Wireless](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdiseno-de-redes-inalambricas-con-cypetel-wireless%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Diseño digital de Alta Velocidad (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6473&p_caca=2008){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Esquemas multifilares con CYPELEC Multiline](https://www.udemy.com/esquemas-multifilares-con-cypelec-multiline){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Esquemas multifilares con CYPELEC Multiline](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fesquemas-multifilares-con-cypelec-multiline%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Radiocomunicación (2007)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/radiocomunicacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Redes de comunicaciones (2015)](https://ocw.unican.es/course/view.php?id=27){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Redes telefónicas (2009)](https://ocw.unican.es/course/view.php?id=211){:target="_blank" rel="nofollow,noreferrer"} (OCW)

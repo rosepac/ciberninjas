@@ -299,4 +299,4 @@ En las entrevistas, también se le pueden hacer algunas preguntas generales de l
 
 ### **Relacionados** <!-- omit in toc -->
 
-![Mejores cursos hispanos gratis de Bootstrap](/assets/img/paginas-cursos/cursos-bootstrap.webp "Mejores cursos hispanos gratis de Bootstrap")
+![Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-bootstrap.webp "Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto")

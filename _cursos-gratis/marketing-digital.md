@@ -66,4 +66,4 @@ img: "/assets/img/paginas-cursos/cursos-marketing-digital.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-marketing-digital.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre marketing digital y community manager, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-marketing-digital.webp "Los mejores cursos gratuitos con los que aprender todo sobre marketing digital y community manager, desde cero hasta nivel experto")

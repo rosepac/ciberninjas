@@ -135,4 +135,4 @@ Las escuelas de esta lista son las mejores del mundo en la formación de la pró
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-ciencias-computacion.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-ciencias-computacion.webp "Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto")

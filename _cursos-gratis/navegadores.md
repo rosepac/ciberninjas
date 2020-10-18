@@ -24,4 +24,4 @@ img: "/assets/img/paginas-cursos/cursos-navegadores.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-navegadores.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre los navegadores, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-navegadores.webp "Los mejores cursos gratuitos con los que aprender todo sobre los navegadores, desde cero hasta nivel experto")

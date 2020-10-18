@@ -39,4 +39,4 @@ img: "/assets/img/paginas-cursos/cursos-machine-deep-learning.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-machine-deep-learning.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre el aprendizaje automático y aprendizaje automático, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-machine-deep-learning.webp "Los mejores cursos gratuitos con los que aprender todo sobre el aprendizaje automático y aprendizaje automático, desde cero hasta nivel experto")

@@ -54,4 +54,4 @@ A continuación vas a encontrar los mejores cursos
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre CSS y los preprocesadores CSS, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp "Los mejores cursos gratuitos con los que aprender todo sobre CSS y los preprocesadores CSS, desde cero hasta nivel experto")

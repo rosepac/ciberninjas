@@ -25,10 +25,9 @@ Los **mejores cursos gratuitos de seguridad en la red**.
 
 ## **Cursos Gratis de Seguridad en Internet**
 
-- [Aprende seguridad Cisco desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
 - [Aspectos Sociales, Legales, Éticos y Profesionales de la Informática (2010)](http://ocw.uniovi.es/course/view.php?id=151) (OCW)
 - [Backtrack 5](https://www.youtube.com/playlist?list=PLr1Aeqj0pcHdSvwNSbPeaRpF925uw-X04) (Johnny Ramos, YouTube)
-- [Ciberseguridad en línea](https://www.udemy.com/ciberseguridadenlinea) (Udemy)
+- [Ciberseguridad en línea](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fciberseguridadenlinea%2F) (Udemy)
 - [Ciberseguridad. Entender ataques para desplegar contramedidas](https://miriadax.net/web/ciberseguridad-entender-los-ataques-para-desplegar-contramedidas-2-edicion-) (MiriadaX)
 - [Cross site scripting xss](https://www.youtube.com/playlist?list=PL1UnfB2evouGiHRoUB_t-I4Mt_0RreZUu) (Jhonny Ramos, YouTube)
 - [Derecho e Internet (2011)](http://ocw.uv.es/ciencias-sociales-y-juridicas/plant/Course_listing) (OCW)

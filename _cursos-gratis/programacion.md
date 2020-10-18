@@ -463,13 +463,12 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 ### **Cursos Gratis de Laravel**
 
-- [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://www.udemy.com/aprende-laravel-modelos-migraciones-rutas-vistas-etc){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Configurar Laravel en Windows y MySql Server](https://www.udemy.com/laravel-y-sql-server){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-laravel-modelos-migraciones-rutas-vistas-etc%2F){:target="_blank" rel="nofollow,noreferrer"} (Jorge Alexis Paz Barrera, Udemy)
+- [Configurar Laravel en Windows y MySql Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"} (Pedro Rojas Reyes, Udemy)
 - [Curso de Laravel](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bk-qkvjER90g2c_jVmpAHBh){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
 - [Introducción a PHP 7 y Laravel](https://plataforma.keepcoding.io/p/introduccion-php-7-online-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 - [Curso Laravel](https://www.youtube.com/playlist?list=PLEtcGQaT56cigZVUvRpPBnoLGO0KcX5MO){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [Empezando con Laravel 5 y Vuejs 2](https://www.udemy.com/empezando-con-laravel-5-y-vuejs-2){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a Laravel 5: primeros pasos con este framework](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-laravel-5-primeros-pasos-framework-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Laravel 5](https://www.youtube.com/playlist?list=PLIddmSRJEJ0u-5Nv2k6W8Vhe0wUP_7H5W){:target="_blank" rel="nofollow,noreferrer"} (Raul Palacios, YouTube)
 - [Laravel 5.4](https://www.youtube.com/playlist?list=PLS3ZgoVufwTkqmF0oAnfeus9ZklMqjFhS){:target="_blank" rel="nofollow,noreferrer"} (iTech School, YouTube)
@@ -570,10 +569,9 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 ### **Cursos Gratis de Django**
 
-- [Curso básico de Django - Páginas web con Python](https://www.udemy.com/curso-basico-de-django-paginas-web-con-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-- [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Probar Django: Crear una Aplicación Web en Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprobar-django-construir-una-aplicacion-web-en-python%2F){:target="_blank" rel="nofollow,noreferrer"} (Justin Mitchel y Karlita K, Udemy)
 - [Taller Práctico de Desarrollo con Django](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUaQVd_lrj3NNyc7eNTP670){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ### **Cursos Gratis de Flask**

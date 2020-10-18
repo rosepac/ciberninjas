@@ -110,4 +110,4 @@ Sigue a Ciberninjas a través de las redes sociales para estar alerta de las úl
 
 {% include cursos-bases-datos.html %}
 
-![](/assets/img/paginas-cursos/cursos-bases-datos.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-bases-datos.webp "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto")

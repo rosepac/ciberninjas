@@ -31,4 +31,4 @@ img: "/assets/img/paginas-cursos/cursos-editores-texto.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-editores-texto.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre los editores de texto, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-editores-texto.webp "Los mejores cursos gratuitos con los que aprender todo sobre los editores de texto, desde cero hasta nivel experto")

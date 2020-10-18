@@ -37,4 +37,4 @@ img: "/assets/img/paginas-cursos/cursos-big-data.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-big-data.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre las big data, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-big-data.webp "Los mejores cursos gratuitos con los que aprender todo sobre las big data, desde cero hasta nivel experto")

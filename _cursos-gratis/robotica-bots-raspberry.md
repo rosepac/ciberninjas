@@ -111,8 +111,8 @@ Sí, aunque puede requerir algunas modificaciones en las bibliotecas centrales d
 
 - [Aprende a manejar Raspberry Pi con Python](https://unipython.com/curso-raspberry-pi){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 - [Raspberry Pi 3](https://www.youtube.com/playlist?list=PLNipMBg3MF-aD-LQuyfj7z5Oqb3TqHjFa){:target="_blank" rel="nofollow,noreferrer"} (Editronikx, YouTube)
-- [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor){:target="_blank" rel="nofollow,noreferrer"} (Udemy - Subtítulos en Español) (2017)
-- [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Raspberry Pi Workshop 2018](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fraspberry-pi-workshop-become-a-coder-maker-inventor%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy - Subtítulos en Español) (2017)
+- [Termómetro digital con Raspberry Pi(2017)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftermometro-digital-con-raspberry-pi%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 

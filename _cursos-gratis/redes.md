@@ -23,13 +23,11 @@ Los **mejores cursos gratuitos de creación y gestión de redes en la red**.
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 🕸 Redes
+## **Cursos Gratis de Redes**
 
 [Servidores y Servicios Nube ⛅](/cursos-tecnologia/#servidores-y-servicios-nube-){: .btn .btn--inverse .btn--large}
 
 - [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Aprende Seguridad desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Aprende Subnetting rápido y fácil](https://www.udemy.com/aprende-subnetting){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Arquitectura de Redes de Acceso y Medio Compartido (2012)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-redes-de-acceso-y-medio-compartido){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Arquitectura de Sistemas (2013)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-sistemas-2013){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Cisco Packet Tracer](https://www.youtube.com/playlist?list=PL19E8BE542D61D648){:target="_blank" rel="nofollow,noreferrer"} (My Cyber academy, Youtube)
@@ -43,7 +41,6 @@ Los **mejores cursos gratuitos de creación y gestión de redes en la red**.
 - [Diseño y operación de redes telemáticas (2015)](https://ocw.unican.es/course/view.php?id=22){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Fundamentos de CISCO Packet Tracer](https://www.youtube.com/playlist?list=PL52690EAE4EBD641C){:target="_blank" rel="nofollow,noreferrer"} (Luis Pérez, YouTube)
 - [Fundamentos de las redes de comunicaciones: de las aplicaciones a los bits (2007)](http://ocw.uc3m.es/ingenieria-telematica/fundamentos-de-las-redes-de-comunicaciones-de-las-aplicaciones-a-los-bits){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [GNS3 Network Emulator: Instalación y configuración](https://www.udemy.com/gns3-network-emulator-instalacion-y-configuracion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Inteligencia en redes de comunicaciones (2011)](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Introducción al Internet de las Cosas y sus Aplicaciones](https://www.edx.org/es/course/introduccion-al-internet-de-las-cosas-iot-y-sus-ap){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Rosario)
 - [Introducción a la Internet de las Cosas](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/ingenieria-telematica/introduccion-a-la-internet-de-las-cosas){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -67,8 +64,9 @@ Los **mejores cursos gratuitos de creación y gestión de redes en la red**.
 - [Virtualización](http://nksistemas.com/curso-de-virtualizacion-online-y-gratuito-indice){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 - [Windows Server 2008 R2](http://nksistemas.com/curso-windows-server-2008-r2){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 - [Windows Server 2012](http://nksistemas.com/category/infraestructura/windows-2012){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-- [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwindows-server-y-linux-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
+<!-- busquedas relacionadas: seguridad cisco, cisco, -->
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->

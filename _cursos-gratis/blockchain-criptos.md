@@ -68,4 +68,4 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-blockchain-criptos.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre las criptomonedas y blockchain (cadena de bloques), desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-blockchain-criptos.webp "Los mejores cursos gratuitos con los que aprender todo sobre las criptomonedas y blockchain (cadena de bloques), desde cero hasta nivel experto")

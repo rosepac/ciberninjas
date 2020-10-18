@@ -79,4 +79,4 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre flujos de trabajo, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp "Los mejores cursos gratuitos con los que aprender todo sobre flujos de trabajo, desde cero hasta nivel experto")

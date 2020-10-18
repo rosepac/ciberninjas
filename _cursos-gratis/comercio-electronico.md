@@ -53,4 +53,4 @@ img: "/assets/img/paginas-cursos/cursos-comercio-electronico.webp"
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-comercio-electronico.webp)
+![Los mejores cursos gratuitos con los que aprender todo sobre el comercio electrónico, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-comercio-electronico.webp "Los mejores cursos gratuitos con los que aprender todo sobre el comercio electrónico, desde cero hasta nivel experto")

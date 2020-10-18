@@ -41,7 +41,6 @@ Aquí, vas a encontrar los mejores cursos de accesibilidad web en español.
 
 ### **Relacionados** <!-- omit in toc -->
 
-![](/assets/img/paginas-cursos/cursos-accesibilidad-web.webp)
 <!-- Por Actualizar -->
 <!-- Universidad de Murcia https://umumooc.um.es/ -->
 <!-- https://www.genbeta.com/a-fondo/50-mejores-cursos-online-2019 voy por introduccion a las reds sociales.. -->
@@ -112,3 +111,5 @@ El uso de herramientas de creación que admitan la accesibilidad facilita las co
 ## **¿Cómo aprender más sobre la accesibilidad web?**
 
 WAI proporciona una amplia gama de recursos sobre diferentes aspectos de los [estándares de](https://www.w3.org/WAI/guid-tech){:target="_blank" rel="nofollow,noreferrer"} accesibilidad web , [educación](https://www.w3.org/WAI/train){:target="_blank" rel="nofollow,noreferrer"}, [pruebas / evaluación](https://www.w3.org/WAI/eval/){:target="_blank" rel="nofollow,noreferrer"}, [gestión de proyectos y políticas](https://www.w3.org/WAI/managing){:target="_blank" rel="nofollow,noreferrer"}. Le recomendamos que explore el [sitio web de WAI](http://www.w3.org/WAI/){:target="_blank" rel="nofollow,noreferrer"} o consulte la lista de [recursos de WAI](http://www.w3.org/WAI/Resources/){:target="_blank" rel="nofollow,noreferrer"}.
+
+![Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-accesibilidad-web.webp "Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto")
