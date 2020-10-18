@@ -9,7 +9,7 @@ tags: [Cursos Gratis, Accesibilidad Web]
 title: "▷ 5 Mejores cursos gratis de accesibilidad web"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto"
-date: 2020-09-01T09:22:00.000+02:00
+date: 2020-10-16T09:22:00.000+02:00
 permalink: /cursos-accesibilidad-web/
 canonical_URL: https://ciberninjas.com/cursos-accesibilidad-web/
 thumbnail: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
@@ -17,6 +17,19 @@ feature-img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 
 ---
+
+Aquí, vas a encontrar los mejores cursos de accesibilidad web en español.
+
+- [**Cursos Gratis de Accesibilidad Web**](#cursos-gratis-de-accesibilidad-web)
+- [**¿Por qué es importante la accesibilidad web?**](#por-qué-es-importante-la-accesibilidad-web)
+- [**¿Qué ejemplos de accesibilidad web existen?**](#qué-ejemplos-de-accesibilidad-web-existen)
+  - [**El texto alternativo de las imágenes**](#el-texto-alternativo-de-las-imágenes)
+  - [**Entrada de teclado**](#entrada-de-teclado)
+  - [**Transcripciones para audio**](#transcripciones-para-audio)
+- [**¿Cómo hacer qué un sitio web sea accesible?**](#cómo-hacer-qué-un-sitio-web-sea-accesible)
+- [**¿Cómo aprender más sobre la accesibilidad web?**](#cómo-aprender-más-sobre-la-accesibilidad-web)
+
+## **Cursos Gratis de Accesibilidad Web**
 
 - [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/course-v1:UNED+AccTIC_004+2020/about){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -33,3 +46,69 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 <!-- Universidad de Murcia https://umumooc.um.es/ -->
 <!-- https://www.genbeta.com/a-fondo/50-mejores-cursos-online-2019 voy por introduccion a las reds sociales.. -->
 <!-- - [](){:target="_blank" rel="nofollow,noreferrer"} -->
+<!-- https://www.w3.org/standards/webdesign/accessibility -->
+<!-- https://ec.europa.eu/digital-single-market/en/news/introduction-web-accessibility-free-online-course-based-wai-guide-curricula -->
+
+> ***El poder de la Web está en su universalidad. El acceso de todas las personas independientemente de su discapacidad es un aspecto fundamental.***
+>
+> Tim Berners-Lee, director del W3C e inventor de la World Wide Web
+
+La Web está diseñada fundamentalmente para que funcione para todas las personas, independientemente de su hardware, software, idioma, ubicación o capacidad. Cuando la Web cumple con este objetivo, es accesible para personas con una amplia gama de capacidades auditivas, de movimiento, de vista y cognitivas.
+
+Por lo tanto, el impacto de la discapacidad cambia radicalmente en la Web porque la Web elimina las barreras a la comunicación y la interacción que muchas personas enfrentan en el mundo físico. Sin embargo, cuando los sitios web, las aplicaciones, las tecnologías o las herramientas están mal diseñados, pueden crear barreras que excluyan a las personas del uso de la Web.
+
+La accesibilidad es esencial para los desarrolladores y las organizaciones que desean crear sitios web y herramientas web de alta calidad, y no excluir a las personas del uso de sus productos y servicios.
+
+La misión de la Iniciativa de Accesibilidad Web (WAI) es llevar la Web a su máximo potencial para ser accesible, permitiendo que las personas con discapacidades participen por igual en la Web.
+
+**FAQ sobre la Accesibilidad Web**
+
+## **¿Por qué es importante la accesibilidad web?**
+
+La Web debe ser accesible para brindar igualdad de acceso y oportunidades a personas con capacidades diversas. De hecho, la Convención de las Naciones Unidas sobre los derechos de las personas con discapacidad reconoce el acceso a las tecnologías de la información y las comunicaciones, incluida la Web, como un derecho humano básico.
+
+La accesibilidad apoya la inclusión social de las personas con discapacidad y de otras personas , como las personas mayores, las personas de las zonas rurales y las personas de los países en desarrollo.
+
+La accesibilidad también beneficia a las personas sin discapacidad. El video Perspectivas de accesibilidad web muestra ejemplos de cómo la accesibilidad es esencial para las personas con discapacidades y útil para todos en una variedad de situaciones.
+
+También existe un sólido argumento comercial para la accesibilidad. La accesibilidad se superpone con otras mejores prácticas como el diseño web móvil , la independencia del dispositivo, la interacción multimodal, la usabilidad, el diseño para usuarios mayores y la optimización de motores de búsqueda (SEO). 
+
+Los estudios de casos muestran que los sitios web accesibles tienen mejores resultados de búsqueda, menores costos de mantenimiento y mayor alcance de audiencia, entre otros beneficios. Desarrollar un caso de negocio de accesibilidad web para su organización detalla los beneficios de la accesibilidad web.
+
+## **¿Qué ejemplos de accesibilidad web existen?**
+
+Las personas con discapacidad pueden utilizar sitios web y herramientas correctamente diseñados . Sin embargo, actualmente muchos sitios y herramientas se desarrollan con barreras de accesibilidad que dificultan o imposibilitan que algunas personas los utilicen. A continuación se muestran solo algunos ejemplos.
+
+### **El texto alternativo de las imágenes**
+
+Las imágenes deben incluir texto alternativo equivalente (texto alternativo) en el marcado / código.
+
+Si no se proporciona texto alternativo para las imágenes, la información de la imagen es inaccesible, por ejemplo, para las personas que no pueden ver y usar un lector de pantalla que lee en voz alta la información de una página, incluido el texto alternativo de la imagen visual.
+
+Cuando se proporciona un texto alternativo equivalente, la información está disponible para las personas ciegas, así como para las personas que apagan las imágenes (por ejemplo, en áreas con ancho de banda caro o bajo). También está disponible para tecnologías que no pueden ver imágenes, como los motores de búsqueda.
+
+### **Entrada de teclado**
+
+Algunas personas no pueden usar un mouse, incluidos muchos usuarios mayores con un control motor fino limitado. Un sitio web accesible no depende del mouse; hace que todas las funciones estén disponibles desde un teclado . Luego, las personas con discapacidades pueden usar tecnologías de asistencia que imitan el teclado, como la entrada de voz.
+
+### **Transcripciones para audio**
+
+Así como las imágenes no están disponibles para las personas que no pueden ver, los archivos de audio no están disponibles para las personas que no pueden oír. Proporcionar una transcripción de texto hace que la información de audio sea accesible para las personas sordas o con problemas de audición, así como para los motores de búsqueda y otras tecnologías que no pueden oír.
+
+Es fácil y relativamente económico para los sitios web proporcionar transcripciones. También existen servicios de transcripción que crean transcripciones de texto en formato HTML.
+
+## **¿Cómo hacer qué un sitio web sea accesible?**
+
+La mayoría de los conceptos básicos de accesibilidad son bastante fáciles de implementar. Sin embargo, si es nuevo en el tema de la accesibilidad, se necesita tiempo y esfuerzo para aprender los problemas y las soluciones comunes. Aquí hay lugares para comenzar:
+
+- Principios de accesibilidad : introduce requisitos de accesibilidad y estándares internacionales.
+- Easy Checks - Una primera revisión - lo ayuda a comenzar a probar la accesibilidad de una página web y comprender algunas barreras de accesibilidad comunes.
+- Sugerencias para comenzar : proporciona algunas consideraciones básicas para diseñar, escribir y desarrollar.
+
+Algunas barreras de accesibilidad son más complicadas de evitar y las soluciones requieren más tiempo y esfuerzo de desarrollo. W3C WAI proporciona amplios recursos para ayudar, como tutoriales y materiales de apoyo vinculados desde la descripción general de WCAG 2.
+
+El uso de herramientas de creación que admitan la accesibilidad facilita las cosas a los desarrolladores web. Los navegadores también juegan un papel en la accesibilidad. Estos roles se explican en Componentes esenciales de accesibilidad web.
+
+## **¿Cómo aprender más sobre la accesibilidad web?**
+
+WAI proporciona una amplia gama de recursos sobre diferentes aspectos de los [estándares de](https://www.w3.org/WAI/guid-tech){:target="_blank" rel="nofollow,noreferrer"} accesibilidad web , [educación](https://www.w3.org/WAI/train){:target="_blank" rel="nofollow,noreferrer"}, [pruebas / evaluación](https://www.w3.org/WAI/eval/){:target="_blank" rel="nofollow,noreferrer"}, [gestión de proyectos y políticas](https://www.w3.org/WAI/managing){:target="_blank" rel="nofollow,noreferrer"}. Le recomendamos que explore el [sitio web de WAI](http://www.w3.org/WAI/){:target="_blank" rel="nofollow,noreferrer"} o consulte la lista de [recursos de WAI](http://www.w3.org/WAI/Resources/){:target="_blank" rel="nofollow,noreferrer"}.
