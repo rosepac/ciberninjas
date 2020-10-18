@@ -125,8 +125,8 @@ A pesar de la exageración de las plataformas web y las tecnologías multiplataf
 
 El desarrollo de Android admite una variedad de lenguajes de programación, pero dos lenguajes de programación que son los más populares son:
 
-- 1. **Java**: El antiguo idioma oficial para el desarrollo de Android que sigue siendo la opción de idioma líder para el desarrollo de Android
-- 2. **Kotlin**: El lenguaje oficial más nuevo, moderno y fácil de aprender para el desarrollo de Android
+1. **Java**: El antiguo idioma oficial para el desarrollo de Android que sigue siendo la opción de idioma líder para el desarrollo de Android
+2. **Kotlin**: El lenguaje oficial más nuevo, moderno y fácil de aprender para el desarrollo de Android
 
 ## **¿Qué lenguajes se requieren para el desarrollo de Android?**
 
@@ -157,11 +157,17 @@ Si bien esto debería ser suficiente para ayudarlo a comenzar con la programaci�
 
 ## **¿Por qué deberías aprender Flutter?**
 
-Flutter ha ganado bastantes números en los últimos tiempos debido a su capacidad para ayudar a los desarrolladores a centrarse más en el producto final y no en el SDK. Esto se debe a las características que Flutter aporta, una de ellas es el 'modelo de diseño plateado', que lo ayuda a permitir un desplazamiento suave desde el diseño en sí, lo que mejora significativamente el diseño de la interfaz de usuario. Además, Flutter no usa los widgets estándar a diferencia de otros SDK, pero usa sus propios widgets, que son personalizables y extensibles, lo que le da un aspecto fresco al diseño.
+Flutter ha ganado bastantes números en los últimos tiempos debido a su capacidad para ayudar a los desarrolladores a centrarse más en el producto final y no en el SDK.
+
+Esto se debe a las características que Flutter aporta, una de ellas es el 'modelo de diseño plateado', que lo ayuda a permitir un desplazamiento suave desde el diseño en sí, lo que mejora significativamente el diseño de la interfaz de usuario.
+
+Además, Flutter no usa los widgets estándar a diferencia de otros SDK, pero usa sus propios widgets, que son personalizables y extensibles, lo que le da un aspecto fresco al diseño.
 
 ## **¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Flutter?**
 
-Si desea aprender Flutter para principiantes y obtener conocimientos críticos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada para usted. Ofrece una gran cantidad de tutoriales que ayudarán a los desarrolladores tanto aficionados como profesionales a concentrarse en aprender todo sobre la programación de Flutter y sus características.
+Si desea aprender Flutter para principiantes y obtener conocimientos críticos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada para usted.
+
+Ofrece una gran cantidad de tutoriales que ayudarán a los desarrolladores tanto aficionados como profesionales a concentrarse en aprender todo sobre la programación de Flutter y sus características.
 
 Los usuarios pueden encontrar los tutoriales de introducción de Flutter en español, tanto gratuitas como de pago, y decidir el modo del tutorial, que puede ser un video o un libro.
 
