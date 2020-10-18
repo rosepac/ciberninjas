@@ -90,8 +90,6 @@ Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 
 ## **Cursos Gratis Software Libre**
 
-- [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-
 ## **Cursos Gratis Informática y Gestión**
 
 - [Informática de Gestión (2009)](http://ocw.uc3m.es/ingenieria-informatica/informatica-de-gestion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -105,13 +103,9 @@ Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 - [Introducción a Outlook 2010](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-outlook-2010%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [LibreOffice Writer](https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k){:target="_blank" rel="nofollow,noreferrer"} (VideoTutoriales Education, YouTube)
 - [Microsoft Project 2013](https://www.youtube.com/playlist?list=PL7Sb5pi3h9JigadkTKlbhxBFTptqN-tHY){:target="_blank" rel="nofollow,noreferrer"} (Grupo Ephyco, YouTube)
-- [OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Software libre (2006)](http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/software-libre){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Software Libre: Ofimática con OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice) {:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-- [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-- [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 
 ### ArcGIS <!-- omit in toc -->
 

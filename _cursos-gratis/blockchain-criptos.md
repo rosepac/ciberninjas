@@ -34,7 +34,6 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 - [Blockchain: Conceptos básicos y Ampliación sobre Ethereum](https://www.tutellus.com/tecnologia/blockchain/blockchain-conceptos-basicos-y-ampliacion-sobre-ethereum-18512){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [Blockchain: Modelos de Negocio y Criptoeconomía](https://www.tutellus.com/tecnologia/blockchain/blockchain-modelos-de-negocio-e-introduccion-a-la-criptoeconomia-17326){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [Blockchain en el sector turístico](https://www.unimooc.com/cursos/blockchain-sector-turistico){:target="_blank" rel="nofollow,noreferrer"} (UniMOOC)
-- [Criptología Matemática](https://miriadax.net/web/criptologia-matematica-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 - [Hyperledger: Marco de Blockchain para el negocio](https://www.tutellus.com/tecnologia/blockchain/hyperledger-marco-blockchain-para-el-negocio-19752){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [ICO´s, Smart Contracts y Tokens en el universo Blockchain](https://www.tutellus.com/tecnologia/blockchain/icos-smart-contracts-y-tokens-en-el-universo-blockchain-17531){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)

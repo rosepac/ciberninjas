@@ -30,7 +30,6 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 ## **Metodologías de Desarrollo 💼**
 
 - [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
 - [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
@@ -38,9 +37,7 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 - [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 - [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Gestión de proyectos Software con Git y Github](https://miriadax.net/web/gitmooc/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Gestión Participativa](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 - [Git y Github Avanzado](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvHLzz87dMz7vy2At2pYlj_){:target="_blank" rel="nofollow,noreferrer"} (Make it Real, YouTube)
 - [Groupware en la gestión del conocimiento (2014)](https://ocw.ehu.eus/course/view.php?id=326){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -58,6 +55,7 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 - [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+<!-- busquedas relacionadas: agilidad, lean, Gestión de proyectos con metodologías ágiles y enfoques Lean, gestion de proyectos con git y github -->
 
 ## **Integración Continua**
 

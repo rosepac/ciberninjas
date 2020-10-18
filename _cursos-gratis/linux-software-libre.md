@@ -33,7 +33,6 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 - [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [GNU/Linux: Da tus primeros pasos!! (Curso básico)](https://www.udemy.com/course/gnulinux-desde-cero/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Introducción a Linux: Instala Linux en tu PC](https://www.udemy.com/instala-linux-en-tu-pc){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Introducción a Linux como entorno de desarrollo de Sistemas Operativos](https://miriadax.net/web/introduccion-a-linux-como-entorno-de-desarrollo-de-sistemas-software){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Linux para principiantes](https://www.udemy.com/course/linux-para-principiantes-1/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Red Hat Performance Tuning](https://www.udemy.com/course/rh-performance-tuning/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Vim, aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)

@@ -32,10 +32,9 @@ img: "/assets/img/paginas-cursos/cursos-comercio-electronico.webp"
 - [Crea tu plan de marketing paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-plan-de-marketing-online-en-6-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Dropshipping AliExpress, crea tu propia tienda con WordPress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdropshipping-aliexpress-crea-tu-propia-tienda-con-wordpress){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Google Actívate: Marketing digital, Comercio Electrónico, Transformación digital, Cloud Computing, Desarrollo de Apps, Desarrollo Web I, II, Productividad Personal](https://www.google.es/landing/activate/home){:target="_blank" rel="nofollow,noreferrer"} (Campus Google Actívate)
-- [Growth Hacking](https://miriadax.net/web/growth-hacking/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-- [Marketing Digital](https://miriadax.net/web/marketing-digital-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Marketing Digital](/👨‍🏫-curso-marketing-digital-david-rodriguez) (David Rodriguez, Youtube)
 - [Mercadeo en Red o Network Marketing](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fmercadeo-en-red-o-network-maketing){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+<!-- busquedas relacionadas Grow Hacking.. marketing digital -->
 
 ### Prestashop
 

@@ -246,7 +246,6 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
 - [Java Básico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-basico-d%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank" rel="nofollow,noreferrer"} (Mil Cursos Gratis)
-- [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Taller Práctico de Java Server Page - JSP](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVbUthOrAxCCRorubLJ1uus){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Taller Práctico de Java Server Faces - JSF](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWUt7ZVM8BR8gOqFTVlVGuq){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
@@ -350,7 +349,6 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 - [Javascript 6](https://www.youtube.com/playlist?list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z){:target="_blank" rel="nofollow,noreferrer"} (WebApps HTML5, Youtube)
 - [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript){:target="_blank" rel="nofollow,noreferrer"}
 - [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-- [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Javascript desde cero](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (YouTube)
 
 ## **Cursos Gratis de Javascript Framework**

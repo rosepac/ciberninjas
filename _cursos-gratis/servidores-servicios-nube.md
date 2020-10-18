@@ -79,7 +79,6 @@ Los mejores cursos gratuitos para aprender a utilizar los servicios en la nube m
 - [Crear una REST API desde Cero con NodeJS y AdonisJS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Curso de NodeJS](https://www.youtube.com/playlist?list=PL38CA7BD8CB5F3FF9){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Desarrollo API Web Restful con NodeJS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgMsG-eOksskBHIb9Rq4VUG){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
-- [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [NodeJS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND){:target="_blank" rel="nofollow,noreferrer"} (Jon Mircha, YouTube)
 - [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)

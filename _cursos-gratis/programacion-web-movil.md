@@ -64,7 +64,6 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 - [Aplicaciones móviles (2011)](http://ocw.uc3m.es/ingenieria-telematica/aplicaciones-moviles){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Fundamentos de Programación Web para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-web-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Juan de la Torre, Udemy)
-- [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Introducción a Tecnologías del Desarrollo con los Mejores](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmasters-desarrollo%2F){:target="_blank" rel="nofollow,noreferrer"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
 - [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpor-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
@@ -113,8 +112,6 @@ img: "/assets/img/paginas-cursos/cursos-programacion-web-movil.webp"
 - [jQuery UI - Amplia los límites de jQuery](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjquery-ui-amplia-los-limites-de-jquery){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ## **PhoneGap (Apache Cordoba)**
-
-- [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 
 ### ¿Qué es Córdoba?
 

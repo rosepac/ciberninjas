@@ -38,7 +38,6 @@ Tus hijos aprenderán a utilizar un proyecto virtual divertido para crear aplica
 
 - [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
 - [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 - [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino) (Youtube)
 - [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
 - [Videojuegos con Scratch -12 juegos-](/videojuegos-scratch-programo-ergo-sum) (Youtube) (2016)

@@ -22,17 +22,12 @@ Si deseas realizar de manera competente las tareas exigidas a un gestor de pági
 
 Para convertirte en un auténtico webmaster, puede resultarle útil inscribirse en algunos de los cursos gratuitos que te mostraré a continuación. Estas formaciones son ofrecidos, en su gran mayoría, por academias online.
 
-En líneas generales no son cursos demasiados largos, y para realizar la gran mayoría ellos, tardarás como mucho dos semanas. Aparte de lo que puedas encontrar aquí, un webmaster siempre debe beber tener conocimientos casi en todo, por lo que no estará de más que puedas formarte respecto al mundo del diseño, el seo, y más.
-
-Los estudiantes de un programa de diseño web o webmaster generalmente completan un curso introductorio que les enseña los conceptos básicos para planificar el diseño de un sitio web y utilizar la optimización.
-
-Luego avanzan para crear sus propios diseños mientras utilizan software y aplicaciones estándar de la industria.
-
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 
-- [3 Claves para convertir tu idea en dinero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F3-claves-para-convertir-tu-idea-en-dinero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
-- [Búsqueda y Gestión de la Información para la Elaboración de un Trabajos Académicos](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX \ Universidad Católica de Valencia)
+## **Cursos Gratis para Webmaster**
+
+- [3 Claves para convertir tu idea en dinero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F3-claves-para-convertir-tu-idea-en-dinero%2F){:target="_blank" rel="nofollow,noreferrer"} (Diego Palomares Bustos, Udemy)
+- [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank" rel="nofollow,noreferrer"} (Universidad Politécnica de Valencia, EDX)
 - [Creación de Marca Personal](https://www.youtube.com/playlist?list=PLpgvqH3SVWYpcLrhA2tQy4IHbKw_958OP){:target="_blank" rel="nofollow,noreferrer"} (Janette Curi Franco, YouTube)
 - [Crear campañas de E-Mail Marketing y E-Mail masivos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-basico-de-email-marketing-con-mailchimp%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Crear estación de radio por Internet desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrear-estacion-de-radio-por-internet-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -57,6 +52,14 @@ Luego avanzan para crear sus propios diseños mientras utilizan software y aplic
 - [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+
+### **Saber Más Sobre los cursos para webmaster**
+
+En líneas generales no son cursos demasiados largos, y para realizar la gran mayoría ellos, tardarás como mucho dos semanas. Aparte de lo que puedas encontrar aquí, un webmaster siempre debe beber tener conocimientos casi en todo, por lo que no estará de más que puedas formarte respecto al mundo del diseño, el seo, y más.
+
+Los estudiantes de un programa de diseño web o webmaster generalmente completan un curso introductorio que les enseña los conceptos básicos para planificar el diseño de un sitio web y utilizar la optimización.
+
+Luego avanzan para crear sus propios diseños mientras utilizan software y aplicaciones estándar de la industria.
 
 ### **Relacionados** <!-- omit in toc -->
 
