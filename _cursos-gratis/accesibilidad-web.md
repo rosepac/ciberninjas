@@ -18,7 +18,7 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 
 ---
 
-Aquí, vas a encontrar los mejores cursos de accesibilidad web en español.
+A continuación, vas a encontrar **los mejores cursos de accesibilidad web en español**.
 
 - [**Cursos Gratis de Accesibilidad Web**](#cursos-gratis-de-accesibilidad-web)
 - [**¿Por qué es importante la accesibilidad web?**](#por-qué-es-importante-la-accesibilidad-web)
