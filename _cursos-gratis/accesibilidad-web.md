@@ -18,16 +18,6 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 
 ---
 
-<div class="hidden-sm-down">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
-    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
-    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
-  </ol>
-</nav>
-</div>
 
 <script type="application/ld+json">
 {
@@ -65,15 +55,61 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
  ]
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Por qué es importante la accesibilidad web?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La Web debe ser accesible para brindar igualdad de acceso y oportunidades a personas con capacidades diversas."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué ejemplos de accesibilidad web existen?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los ejemplos de accesibilidad web más conocidos son: El texto alternativo de las imágenes,  el texto alternativo de los enlaces, o la supervisión del correcto funcionamiento de los métodos abreviados del teclado."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo hacer qué un sitio web sea accesible?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Introduciendo los principios de de accesibilidad y estándares internacionales. Además, de realizar pruebas de revisión de accesibilidad."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo aprender más sobre la accesibilidad web?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La Iniciativa por la Accesibilidad Web de la W3C es el mejor punto de partida para seguir aprendiendo todo lo necesario sobre la accesibilidad web."
+    }
+  }]
+}
+</script>
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
 
 A continuación, vas a encontrar **los mejores cursos de accesibilidad web en español**.
 
 - [**Cursos Gratis de Accesibilidad Web**](#cursos-gratis-de-accesibilidad-web)
 - [**¿Por qué es importante la accesibilidad web?**](#por-qué-es-importante-la-accesibilidad-web)
 - [**¿Qué ejemplos de accesibilidad web existen?**](#qué-ejemplos-de-accesibilidad-web-existen)
-  - [**El texto alternativo de las imágenes**](#el-texto-alternativo-de-las-imágenes)
-  - [**Entrada de teclado**](#entrada-de-teclado)
-  - [**Transcripciones para audio**](#transcripciones-para-audio)
+  - [**1. El texto alternativo de las imágenes**](#1-el-texto-alternativo-de-las-imágenes)
+  - [**2. Entrada de teclado**](#2-entrada-de-teclado)
+  - [**3. Transcripciones para audio**](#3-transcripciones-para-audio)
 - [**¿Cómo hacer qué un sitio web sea accesible?**](#cómo-hacer-qué-un-sitio-web-sea-accesible)
 - [**¿Cómo aprender más sobre la accesibilidad web?**](#cómo-aprender-más-sobre-la-accesibilidad-web)
 
@@ -124,9 +160,11 @@ Los estudios de casos muestran que los sitios web accesibles tienen mejores resu
 
 ## **¿Qué ejemplos de accesibilidad web existen?**
 
-Las personas con discapacidad pueden utilizar sitios web y herramientas correctamente diseñados . Sin embargo, actualmente muchos sitios y herramientas se desarrollan con barreras de accesibilidad que dificultan o imposibilitan que algunas personas los utilicen. A continuación se muestran solo algunos ejemplos.
+Las personas con discapacidad pueden utilizar sitios web y herramientas correctamente diseñados. Sin embargo, actualmente muchos sitios y herramientas se desarrollan con barreras de accesibilidad que dificultan o imposibilitan que algunas personas los utilicen.
 
-### **El texto alternativo de las imágenes**
+A continuación se muestran solo algunos ejemplos de accesibilidad web:
+
+### **1. El texto alternativo de las imágenes**
 
 Las imágenes deben incluir texto alternativo equivalente (texto alternativo) en el marcado / código.
 
@@ -134,11 +172,11 @@ Si no se proporciona texto alternativo para las imágenes, la información de la
 
 Cuando se proporciona un texto alternativo equivalente, la información está disponible para las personas ciegas, así como para las personas que apagan las imágenes (por ejemplo, en áreas con ancho de banda caro o bajo). También está disponible para tecnologías que no pueden ver imágenes, como los motores de búsqueda.
 
-### **Entrada de teclado**
+### **2. Entrada de teclado**
 
-Algunas personas no pueden usar un mouse, incluidos muchos usuarios mayores con un control motor fino limitado. Un sitio web accesible no depende del mouse; hace que todas las funciones estén disponibles desde un teclado . Luego, las personas con discapacidades pueden usar tecnologías de asistencia que imitan el teclado, como la entrada de voz.
+Algunas personas no pueden usar un mouse, incluidos muchos usuarios mayores con un control motor fino limitado. Un sitio web accesible no depende del mouse; hace que todas las funciones estén disponibles desde un teclado. Luego, las personas con discapacidades pueden usar tecnologías de asistencia que imitan el teclado, como la entrada de voz.
 
-### **Transcripciones para audio**
+### **3. Transcripciones para audio**
 
 Así como las imágenes no están disponibles para las personas que no pueden ver, los archivos de audio no están disponibles para las personas que no pueden oír. Proporcionar una transcripción de texto hace que la información de audio sea accesible para las personas sordas o con problemas de audición, así como para los motores de búsqueda y otras tecnologías que no pueden oír.
 
@@ -148,9 +186,9 @@ Es fácil y relativamente económico para los sitios web proporcionar transcripc
 
 La mayoría de los conceptos básicos de accesibilidad son bastante fáciles de implementar. Sin embargo, si es nuevo en el tema de la accesibilidad, se necesita tiempo y esfuerzo para aprender los problemas y las soluciones comunes. Aquí hay lugares para comenzar:
 
-- Principios de accesibilidad : introduce requisitos de accesibilidad y estándares internacionales.
+- Principios de accesibilidad: introduce requisitos de accesibilidad y estándares internacionales.
 - Easy Checks - Una primera revisión - lo ayuda a comenzar a probar la accesibilidad de una página web y comprender algunas barreras de accesibilidad comunes.
-- Sugerencias para comenzar : proporciona algunas consideraciones básicas para diseñar, escribir y desarrollar.
+- Sugerencias para comenzar: proporciona algunas consideraciones básicas para diseñar, escribir y desarrollar.
 
 Algunas barreras de accesibilidad son más complicadas de evitar y las soluciones requieren más tiempo y esfuerzo de desarrollo. W3C WAI proporciona amplios recursos para ayudar, como tutoriales y materiales de apoyo vinculados desde la descripción general de WCAG 2.
 
@@ -158,6 +196,6 @@ El uso de herramientas de creación que admitan la accesibilidad facilita las co
 
 ## **¿Cómo aprender más sobre la accesibilidad web?**
 
-WAI proporciona una amplia gama de recursos sobre diferentes aspectos de los [estándares de](https://www.w3.org/WAI/guid-tech){:target="_blank" rel="nofollow,noreferrer"} accesibilidad web , [educación](https://www.w3.org/WAI/train){:target="_blank" rel="nofollow,noreferrer"}, [pruebas / evaluación](https://www.w3.org/WAI/eval/){:target="_blank" rel="nofollow,noreferrer"}, [gestión de proyectos y políticas](https://www.w3.org/WAI/managing){:target="_blank" rel="nofollow,noreferrer"}. Le recomendamos que explore el [sitio web de WAI](http://www.w3.org/WAI/){:target="_blank" rel="nofollow,noreferrer"} o consulte la lista de [recursos de WAI](http://www.w3.org/WAI/Resources/){:target="_blank" rel="nofollow,noreferrer"}.
+WAI proporciona una amplia gama de recursos sobre diferentes aspectos de los [estándares de](https://www.w3.org/WAI/guid-tech){:target="_blank" rel="nofollow,noreferrer"} accesibilidad web, [educación](https://www.w3.org/WAI/train){:target="_blank" rel="nofollow,noreferrer"}, [pruebas / evaluación](https://www.w3.org/WAI/eval/){:target="_blank" rel="nofollow,noreferrer"}, [gestión de proyectos y políticas](https://www.w3.org/WAI/managing){:target="_blank" rel="nofollow,noreferrer"}. Le recomendamos que explore el [sitio web de WAI](http://www.w3.org/WAI/){:target="_blank" rel="nofollow,noreferrer"} o consulte la lista de [recursos de WAI](http://www.w3.org/WAI/Resources/){:target="_blank" rel="nofollow,noreferrer"}.
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-accesibilidad-web.webp "Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto")
