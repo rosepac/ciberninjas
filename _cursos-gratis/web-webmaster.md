@@ -69,6 +69,7 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 Si deseas realizar de manera competente las tareas exigidas a un gestor de páginas web, los webmasters deben tener un conocimiento profundo de los lenguajes de programación, el diseño de sitios web, los gráficos y la gestión de proyectos.
 
 Para convertirte en un auténtico webmaster, puede resultarle útil inscribirse en algunos de los cursos gratuitos que te mostraré a continuación. Estas formaciones son ofrecidos, en su gran mayoría, por academias online.
+<!-- Agregar el contenido de aquí, a la página web: https://hackr.io/es/tutorials/learn-website-performance?q=web -->
 
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 
