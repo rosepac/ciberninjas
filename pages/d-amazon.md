@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Compras 🎁"
+title: "Tienda 🎁"
 description: "Catálogo Amazon de las Mejores Ofertas y Chollos de Productos Informáticos"
 excerpt: "Catálogo Amazon de las Mejores Ofertas y Chollos de Productos Informáticos"
 permalink: /amazon/

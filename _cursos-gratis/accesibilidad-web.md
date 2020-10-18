@@ -18,6 +18,53 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Recursos DAW</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-tecnologia/",
+     "name": "Los Mejores Cursos Gratis de Tecnología"
+   }
+  }
+ ]
+}
+</script>
+
 A continuación, vas a encontrar **los mejores cursos de accesibilidad web en español**.
 
 - [**Cursos Gratis de Accesibilidad Web**](#cursos-gratis-de-accesibilidad-web)
