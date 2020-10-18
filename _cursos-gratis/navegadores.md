@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Navegadores]
-title: "▷ Algunos de los Mejores cursos gratis de navegadores"
+title: "▷ Los Mejores Cursos Gratis de Navegadores y Plugins 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre los navegadores, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre los navegadores, desde cero hasta nivel experto"
 date: 2020-08-29T10:22:00.000+02:00

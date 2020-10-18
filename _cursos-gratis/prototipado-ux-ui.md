@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, UX, Prototipado]
-title: "▷ 16 Mejores cursos gratis de UX, UI y prototipado web"
+title: "▷ 16 Mejores Cursos Gratis de UX, UI y Prototipado Web 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre UX, UI y prototipado web, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre UX, UI y prototipado web, desde cero hasta nivel experto"
 date: 2020-08-29T10:22:00.000+02:00
@@ -30,15 +30,14 @@ img: "/assets/img/paginas-cursos/cursos-prototipado.webp"
 - [Menus responsive](http://jotajotavm.com/Menus-Responsive-00-Introduccion.html){:target="_blank" rel="nofollow,noreferrer"} (jotajotavm)
 - [Tutoriales de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
 
-## Dreamweaver
+## **Cursos Gratis de Dreamweaver**
 
 - [Diseño de páginas web con Photoshop CS6](https://www.youtube.com/playlist?list=PLPl81lqbj-4Im51L2JZZZ2AxQ6u7b8HS6){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, YouTube)
-- [Diseño de páginas web en Photoshop 6](https://www.udemy.com/curso-diseno-de-paginas-web-en-photoshop-cs6){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Dreamweaver CC 2017](https://www.youtube.com/playlist?list=PLDQxj4bepx_nCFtYddm6faLvLhIb2lKCr){:target="_blank" rel="nofollow,noreferrer"} (Nelson Palomino, YouTube)
 - [Dreamweaver CS 4](https://www.youtube.com/playlist?list=PL2AC141307340E74B){:target="_blank" rel="nofollow,noreferrer"} (Aula Click, YouTube)
 - [Dreamweaver CS 5](https://www.youtube.com/playlist?list=PL7A75E72C644F2B3C){:target="_blank" rel="nofollow,noreferrer"} (Aula Click, YouTube)
 
-## Polymer
+## **Cursos Gratis de Polymer**
 
 - [Introducción a Polymer & web componentes](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-polymer-web-components){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 

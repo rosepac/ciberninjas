@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Seguridad]
-title: "▷ 21 Mejores cursos gratis de seguridad"
+title: "▷ 21 Mejores Cursos Gratis de Seguridad en Red 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00

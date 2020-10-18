@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Comercio Electrónico]
-title: "▷ 17 Mejores cursos gratis de comercio electrónico"
+title: "▷ 17 Mejores Cursos Gratis de Comercio Electrónico 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre el comercio electrónico, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre el comercio electrónico, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-comercio-electronico.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Comercio Electrónico 🛒
+## **Cursos Gratis de Comercio Electrónico**
 
 [Prestashop](/cursos-comercio-electronico/#prestashop){: .btn .btn--inverse .btn--large} [WooCommerce](/cursos-comercio-electronico/#woocommerce){: .btn .btn--inverse .btn--large} [Ir a Marketing Digital 🏪]([/cursos-tecnologia/#marketing-digital-](https://ciberninjas.com/cursos-marketing-digital/)){: .btn .btn--inverse .btn--large}
 
@@ -36,12 +36,12 @@ img: "/assets/img/paginas-cursos/cursos-comercio-electronico.webp"
 - [Mercadeo en Red o Network Marketing](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fmercadeo-en-red-o-network-maketing){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 <!-- busquedas relacionadas Grow Hacking.. marketing digital -->
 
-### Prestashop
+### **Cursos Gratis de Prestashop**
 
 - [Desarrollo de Módulos para Prestashop](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcrear-modulos-para-prestashop	){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Prestashop: tienda e-commerce desde cero](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fprestashop-tienda-ecommerce-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### WooCommerce
+### **Cursos Gratis de WooCommerce**
 
 - [Crear una tienda Online desde cero con Divi y WooCommerce](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcrear-una-tienda-online-desde-cero-con-divi-y-woocommerce){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Procesar pagos con Wompi para Tiendas Virtuales Woocommerce](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprocesar-pagos-con-wompi-para-tiendas-virtuales-woocommerce%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)

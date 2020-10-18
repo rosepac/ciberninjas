@@ -6,10 +6,10 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Android]
-title: "▷ 15 Mejores cursos gratis de Android, Flutter, Kotlin y Dart"
+title: "▷ 15 Mejores Cursos Gratis de Android, Flutter, Kotlin y Dart 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre Android, Flutter, Kotlin, Dart, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre Android, Flutter, Kotlin, Dart, desde cero hasta nivel experto"
-date: 2020-08-21T10:22:00.000+02:00
+date: 2020-10-18T10:22:00.000+02:00
 permalink: /cursos-android/
 canonical_URL: https://ciberninjas.com/cursos-android/
 thumbnail: "/assets/img/paginas-cursos/cursos-android.webp"
@@ -45,12 +45,12 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 
 ## **Cursos Gratis de Android**
 
-- [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
-- [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
+- [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
+- [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
 - [Android Studio](/android-studio-con-jesus-conde/){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [App Android: Registro de inventarios](/android-studio-registro-inventarios/){:target="_blank" rel="nofollow,noreferrer"} (Programación y Más, Youtube) (2016)
 - [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-- [Crear una aplicación sin conocimiento en programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-aplicacion-sin-conocimiento-en-programacion%2F){:target="_blank" rel="nofollow,noreferrer"} por Michael Díaz (Udemy)
+- [Crear una aplicación sin conocimiento en programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-aplicacion-sin-conocimiento-en-programacion%2F){:target="_blank" rel="nofollow,noreferrer"} (Michael Díaz, Udemy)
 - [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 - [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
 - [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
@@ -60,9 +60,9 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 - [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Mi primera app con Android N](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmi-primera-app-con-android-n%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Minicurso Diseño para Android con Material Design y Theming](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-diseno-para-android-con-material-design-y-theming%2F){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
-- [Minicurso Firebase para android. Base de dato en tiempo real](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-firebase-para-android-base-datos-tiempo-real%2F){:target="_blank" rel="nofollow,noreferrer"} por Alain Nicolás Tello (Udemy)
-- [Programación Android 01: Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F){:target="_blank" rel="nofollow,noreferrer"} por Javier San José Ortiz (Udemy)
+- [Minicurso Diseño para Android con Material Design y Theming](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-diseno-para-android-con-material-design-y-theming%2F){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
+- [Minicurso Firebase para android. Base de dato en tiempo real](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-firebase-para-android-base-datos-tiempo-real%2F){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
+- [Programación Android 01: Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F){:target="_blank" rel="nofollow,noreferrer"} (Javier San José Ortiz, Udemy)
 - [Taller Práctico de Desarrollo Móvil para Android](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWeLwCb-XxganG8zpOQS50-){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ## **¿Qué es Android?**
@@ -73,17 +73,17 @@ Android es el sistema operativo para teléfonos inteligentes más popular del mu
 
 Hay 5 cosas que debes saber antes de comenzar a aprender Android:
 
-- Ciclo de vida de la actividad de Android
-- Fundamentos de un lenguaje de programación (típicamente, Java y / o Kotlin)
-- Conceptos y paradigma de OOP
-- XML
-- Entorno de desarrollo (IDE)
+- Ciclo de vida de la actividad de Android.
+- Fundamentos de un lenguaje de programación (típicamente, Java y / o Kotlin).
+- Conceptos y paradigma de OOP.
+- XML.
+- Entorno de desarrollo (IDE).
 
 ## **¿Por qué debería aprender Android?**
 
 Puede haber diferentes razones para que cualquiera aprenda Android. Algunas buenas razones son:
 
-- Mejorar el aprendizaje sobre plataformas y arquitectura móviles
+- Mejorar el aprendizaje sobre plataformas y arquitectura móviles.
 - Gran perspectiva profesional, una de las tecnologías más utilizadas en el mundo.
 - Otorga la capacidad de crear aplicaciones poderosas, útiles y creativas.
 
@@ -91,11 +91,11 @@ Puede haber diferentes razones para que cualquiera aprenda Android. Algunas buen
 
  Puede aprender Android a partir de una combinación / uno de estos recursos:
 
-- Los mejores libros de Android
-- Principales certificaciones y cursos de Android
-- Lecciones en video en línea
-- Canales de YouTube
-- Artículos web
+- Los mejores libros de Android.
+- Principales certificaciones y cursos de Android.
+- Lecciones en video en línea.
+- Canales de YouTube.
+- Artículos web.
 
 ## **¿Cuáles son los mejores libros para aprender Android?**
 
@@ -130,11 +130,11 @@ El desarrollo de Android admite una variedad de lenguajes de programación, pero
 
 El desarrollo de Android requiere principalmente los lenguajes de programación Java y Kotlin. Sin embargo, el desarrollo de aplicaciones de Android también es posible con:
 
-- C++
-- C#
-- Corona
-- Python
-- HTML, CSS y JavaScript
+- C++.
+- C#.
+- Corona.
+- Python.
+- HTML, CSS y JavaScript.
 
 ## **Cursos Gratis de Flutter**
 
@@ -143,11 +143,15 @@ El desarrollo de Android requiere principalmente los lenguajes de programación 
 
 ## **¿Qué es Flutter?**
 
-Flutter es un SDK de desarrollo de aplicaciones móviles (Software Development Kit) creado por las mentes de Google. Los desarrolladores de Flutter lo denominan como un creador de aplicaciones de alto rendimiento y alta fidelidad para aplicaciones iOS y Android, a partir de una única base de código. La idea detrás de Flutter era ayudar a los desarrolladores a crear aplicaciones rápidas que se sientan fluidas en distintas plataformas. Con hermosos widgets con sabor a iOS construidos con el propio marco de Flutter, los desarrolladores pueden crear una experiencia de usuario hermosa y personalizada.
+Flutter es un SDK de desarrollo de aplicaciones móviles (Software Development Kit) creado por las mentes de Google. Los desarrolladores de Flutter lo denominan como un creador de aplicaciones de alto rendimiento y alta fidelidad para aplicaciones iOS y Android, a partir de una única base de código.
+
+La idea detrás de Flutter era ayudar a los desarrolladores a crear aplicaciones rápidas que se sientan fluidas en distintas plataformas. Con hermosos widgets con sabor a iOS construidos con el propio marco de Flutter, los desarrolladores pueden crear una experiencia de usuario hermosa y personalizada.
 
 ## **¿Cuáles son los requisitos previos para aprender Flutter?**
 
-Antes de buscar los tutoriales de Flutter, hay algunos requisitos para aprender Flutter. Para empezar, se debe invertir algo de tiempo en aprender los conceptos básicos de las estructuras de control y el flujo de una aplicación. Si bien esto debería ser suficiente para ayudarlo a comenzar con la programación de Flutter, también se recomienda aprender el lenguaje de programación Dart para una mayor competencia en Flutter. Dart es un lenguaje de uso general creado por Google que se utiliza para crear aplicaciones web, de servidor y móviles.  
+Antes de buscar los tutoriales de Flutter, hay algunos requisitos para aprender Flutter. Para empezar, se debe invertir algo de tiempo en aprender los conceptos básicos de las estructuras de control y el flujo de una aplicación.
+
+Si bien esto debería ser suficiente para ayudarlo a comenzar con la programación de Flutter, también se recomienda aprender el lenguaje de programación Dart para una mayor competencia en Flutter. Dart es un lenguaje de uso general creado por Google que se utiliza para crear aplicaciones web, de servidor y móviles.  
 
 ## **¿Por qué deberías aprender Flutter?**
 
@@ -169,10 +173,10 @@ Flutter, a diferencia de sus contemporáneos, funciona más como un motor de jue
 
 Hay varias buenas razones para aprender Flutter, la más notable:
 
-- Parece eviente que Flutter puede tener un futuro brillante por delante, gracias a su comunidad.
-- Superar las limitaciones tradicionales de los enfoques de desarrollo de aplicaciones multiplataforma.
-- Aumento de la productividad con la función de recarga en caliente
-- Soporte para una variedad de IDE
+- Parece eviente que Flutter puede tener un futuro brillante por delante, gracias a su comunidad..
+- Superar las limitaciones tradicionales de los enfoques de desarrollo de aplicaciones multiplataforma..
+- Aumento de la productividad con la función de recarga en caliente.
+- Soporte para una variedad de IDE.
 
 ## **¿Qué lenguaje de programación usa Flutter?**
 

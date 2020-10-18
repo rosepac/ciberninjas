@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Linux, Software Libre]
-title: "▷ 11 Mejores cursos gratis de linux y software libre"
+title: "▷ 11 Mejores Cursos Gratis de linux y Software Libre 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo de Linux, Ubuntu y el Software Libre, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo de Linux y el Software Libre, desde cero hasta nivel experto"
 date: 2020-09-01T12:22:00.000+02:00
@@ -18,16 +18,16 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 
 ---
 
-- [**Ecosistema de Software Libre 🐧**](#ecosistema-de-software-libre-)
-  - [**Linux**](#linux)
-  - [Ubuntu](#ubuntu)
+- [**Cursos Gratis del Ecosistema de Software Libre**](#cursos-gratis-del-ecosistema-de-software-libre)
+  - [**Cursos Gratis de Linux**](#cursos-gratis-de-linux)
+  - [**Cursos Gratis de Ubuntu**](#cursos-gratis-de-ubuntu)
 
-## **Ecosistema de Software Libre 🐧**
+## **Cursos Gratis del Ecosistema de Software Libre**
 
 - [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Programación con Qt](https://www.youtube.com/playlist?list=PL54fdmMKYUJvn4dAvziRopztp47tBRNum){:target="_blank" rel="nofollow,noreferrer"} (Duarte Corporation, YouTube)
 
-### **Linux**
+### **Cursos Gratis de Linux**
 
 - [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/course/shell-interprete-de-comandos-de-linux-aprende-desde-cero/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2020)
 - [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
@@ -37,7 +37,7 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 - [Red Hat Performance Tuning](https://www.udemy.com/course/rh-performance-tuning/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Vim, aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 
-### Ubuntu
+### **Cursos Gratis de Ubuntu**
 
 - [Curso de Ubuntu](https://tv.um.es/canal?serie=4581){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2011)
 - [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank" rel="nofollow,noreferrer"} (Youtube)

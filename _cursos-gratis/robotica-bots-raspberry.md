@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Robótica, Raspberry, Arduino]
-title: "▷ 22 Mejores cursos gratis de robótica, arduino, raspberry"
+title: "▷ 22 Mejores Cursos Gratis de Robótica, Arduino y Raspberry Pi 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre robótica, arduino y raspberry pi, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre robótica, arduino y raspberry pi, desde cero hasta nivel experto"
 date: 2020-09-25T10:22:00.000+02:00

@@ -6,10 +6,10 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Blockchain]
-title: "▷ 23 Mejores cursos gratis de criptomonedas y blockchain (cadena de bloques)"
+title: "▷ 23 Mejores Cursos Gratis de Blockchain (cadena de bloques) y Criptomonedas 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las criptomonedas y blockchain (cadena de bloques), desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las criptomonedas y blockchain (cadena de bloques), desde cero hasta nivel experto"
-date: 2020-08-21 10:22:00
+date: 2020-10-16 10:22:00
 permalink: /cursos-blockchain-criptos/
 canonical_URL: https://ciberninjas.com/cursos-blockchain-criptos/
 thumbnail: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"

@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Bootstrap, Don B]
-title: "▷ 12+1 Mejores cursos gratis del framework Bootstrap"
+title: "▷ 12 Mejores Cursos Gratis del framework Bootstrap 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto"
 date: 2020-08-29T10:22:00.000+02:00

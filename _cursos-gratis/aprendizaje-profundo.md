@@ -6,7 +6,7 @@ bootstrap: true
 comments: false
 published: true
 tags: [Cursos Gratis, Aprendizaje Automático, Aprendizaje Profundo]
-title: "▷ 11 Mejores cursos gratis de machine learning y deep learning en español"
+title: "▷ 11 Mejores Cursos Gratis de Machine Learning y Deep Learning 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre el aprendizaje automático y aprendizaje automático, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre el aprendizaje automático y aprendizaje automático, desde cero hasta nivel experto"
 date: 2020-08-27T10:22:00.000+02:00
@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-machine-deep-learning.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Cursos Gratis de Machine Learning
+## **Cursos Gratis de Machine Learning**
 
 - [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
 - [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)

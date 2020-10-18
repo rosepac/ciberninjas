@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Accesibilidad Web]
-title: "▷ 5 Mejores cursos gratis de accesibilidad web"
+title: "▷ 5 Mejores Cursos Gratis de Accesibilidad Web 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto"
 date: 2020-10-16T09:22:00.000+02:00

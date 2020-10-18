@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Técnico, Software]
-title: "▷ 22 Mejores cursos gratis de software técnico"
+title: "▷ 22 Mejores Cursos Gratis de Software Técnico 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre software y montaje técnico, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre software y montaje técnico, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-software-tecnico.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## 👨‍🔧 Técnico de Software & Hardware
+## **Cursos Gratis de Técnico de Software & Hardware**
 
 - [Administración de sistemas operativos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6842&p_caca=2010) (OCW)
 - [Codificación de audio: más allá del MP3](https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0) (EDX)

@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Big Data]
-title: "▷ 9 Mejores cursos gratis de big data"
+title: "▷ 9 Mejores Cursos Gratis de Big Data 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las big data, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las big data, desde cero hasta nivel experto"
 date: 2020-08-21T10:22:00.000+02:00
@@ -21,7 +21,7 @@ img: "/assets/img/paginas-cursos/cursos-big-data.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## Cursos Gratis de Big Data 👨‍👩‍👦
+## ** Cursos Gratis de Big Data**
 
 - [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)

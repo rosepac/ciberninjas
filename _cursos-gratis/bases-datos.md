@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Bases de Datos, SQL]
-title: "▷ 26 Mejores cursos gratis de bases de datos"
+title: "▷ 26 Mejores Cursos Gratis de Bases de Datos 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las bases de datos, desde cero hasta nivel experto"
 date: 2020-08-30 10:22:00

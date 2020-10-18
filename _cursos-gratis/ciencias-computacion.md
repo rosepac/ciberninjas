@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Ciencias de Computación]
-title: "▷ 85 Mejores cursos gratis sobre ciencias de la computación"
+title: "▷ 85 Mejores Cursos Gratis de Ciencias de la Computación 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto"
 date: 2020-08-30T09:22:00.000+02:00

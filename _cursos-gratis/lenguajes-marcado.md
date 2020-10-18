@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Lenguajes de Marcado]
-title: "▷ 33 Mejores cursos gratis de diseño web y lenguajes de marcado: HTML, XHTML, Markdown, Yaml, etc"
+title: "▷ 33 Mejores Cursos Gratis de Lenguajes de Marcado y Diseño Web 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 date: 2020-09-24T06:22:00.000+02:00
@@ -17,8 +17,6 @@ feature-img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 
 ---
-
-
 
 - [**Cursos Gratis de HTML** <i class="fa fa-html5" aria-hidden="true"></i> y CSS <i class="fa fa-css3" aria-hidden="true"></i>](#cursos-gratis-de-html-i-classfa-fa-html5-aria-hiddentruei-y-css-i-classfa-fa-css3-aria-hiddentruei)
 - [**Cursos Gratis de Markdown**](#cursos-gratis-de-markdown)
