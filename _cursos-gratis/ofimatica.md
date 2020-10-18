@@ -18,6 +18,54 @@ img: "/assets/img/paginas-cursos/cursos-ofimatica.webp"
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-ofimatica/",
+     "name": "Los Mejores Cursos Gratis de Ofimática 2021"
+   }
+  }
+ ]
+}
+</script>
+
 Los mejores cursos gratuitos de ofimática, tanto del paquete completo de Office: "Word, Excel, Acces, Powerpoint, Outlook, etc" junto a otros paquetes enfocados en el uso diario del ordenador.
 
 Además, vas a poder encontrar otros cursos relacionados con aplicaciones y software que permiten realizar trabajos de creación de contenidos y edición de imágenes sencillas.

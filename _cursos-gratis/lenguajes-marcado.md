@@ -18,6 +18,54 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-lenguajes-marcado/",
+     "name": "Los Mejores Cursos Gratis de Lenguajes de Marcado y Diseño Web 2021"
+   }
+  }
+ ]
+}
+</script>
+
 - [**Cursos Gratis de HTML** <i class="fa fa-html5" aria-hidden="true"></i> y CSS <i class="fa fa-css3" aria-hidden="true"></i>](#cursos-gratis-de-html-i-classfa-fa-html5-aria-hiddentruei-y-css-i-classfa-fa-css3-aria-hiddentruei)
 - [**Cursos Gratis de Markdown**](#cursos-gratis-de-markdown)
 - [**Cursos Gratis de XML**](#cursos-gratis-de-xml)

@@ -18,6 +18,54 @@ img: "/assets/img/paginas-cursos/cursos-editores-texto.webp"
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-editores-texto/",
+     "name": "Los Mejores Cursos Gratis de Editores de Código 2021"
+   }
+  }
+ ]
+}
+</script>
+
 - [60 Herramientas de desarrollo y diseño web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frecursos-web-plugins-y-utilidades%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Brackets, Editor de Código para Desarrolladores Web Frontend](https://youtu.be/l1I-HFzaAHk){:target="_blank" rel="nofollow,noreferrer"} (Youtube, Fazt)
 - [Configurando el editor de texto Brackets](https://youtu.be/UngFUMhv2TY){:target="_blank" rel="nofollow,noreferrer"} (Youtube, J&G)

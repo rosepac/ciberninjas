@@ -18,6 +18,54 @@ img: "/assets/img/paginas-cursos/cursos-ciencias-computacion.webp"
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-ciencias-computacion/",
+     "name": "Los Mejores Cursos Gratis de Ciencias de la Computación 2021"
+   }
+  }
+ ]
+}
+</script>
+
 Uno de los avances tecnológicos más importantes del siglo XXI es la integración de las computadoras en casi todos los aspectos de nuestras vidas.
 
 Los informáticos desarrollan software y algoritmos poderosos que tienen el increíble poder de predicción para hacer coincidir los productos con los consumidores, predecir elecciones políticas e incluso ayudar a las personas a encontrar parejas románticas para toda la vida.

@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Webmaster]
-title: "▷ 22 Mejores Cursos Gratis con los que Adquirir habilidades de Webmaster 2021"
+title: "▷ 22 Mejores Cursos Gratis con los que Adquirir Habilidades de Webmaster 2021"
 description: "Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto"
 date: 2020-09-25T10:22:00.000+02:00
@@ -17,6 +17,54 @@ feature-img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-web-webmaster/",
+     "name": "Los Mejores Cursos Gratis de Habilidades de Webmaster 2021"
+   }
+  }
+ ]
+}
+</script>
 
 Si deseas realizar de manera competente las tareas exigidas a un gestor de páginas web, los webmasters deben tener un conocimiento profundo de los lenguajes de programación, el diseño de sitios web, los gráficos y la gestión de proyectos.
 

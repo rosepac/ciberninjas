@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Linux, Software Libre]
-title: "▷ 11 Mejores Cursos Gratis de linux y Software Libre 2021"
+title: "▷ 11 Mejores Cursos Gratis de Linux y Software Libre 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo de Linux, Ubuntu y el Software Libre, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo de Linux y el Software Libre, desde cero hasta nivel experto"
 date: 2020-09-01T12:22:00.000+02:00
@@ -17,6 +17,54 @@ feature-img: "/assets/img/paginas-cursos/cursos-linux.webp"
 img: "/assets/img/paginas-cursos/cursos-linux.webp"
 
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-linux-software-libre/",
+     "name": "Los Mejores Cursos Gratis de Linux y Software Libre 2021"
+   }
+  }
+ ]
+}
+</script>
 
 - [**Cursos Gratis del Ecosistema de Software Libre**](#cursos-gratis-del-ecosistema-de-software-libre)
   - [**Cursos Gratis de Linux**](#cursos-gratis-de-linux)

@@ -23,7 +23,8 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Recursos DAW</li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
   </ol>
 </nav>
 </div>
@@ -45,20 +46,20 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
   },
   {
    "@type": "ListItem",
-   "position": 1,
+   "position": 2,
    "item":
    {
     "@id": "https://ciberninjas.com/cursos-tecnologia/",
-    "name": "Programar Gratis"
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
     }
   },
   {
    "@type": "ListItem",
-  "position": 2,
+  "position": 3,
   "item":
    {
-     "@id": "https://ciberninjas.com/cursos-tecnologia/",
-     "name": "Los Mejores Cursos Gratis de Tecnología"
+     "@id": "https://ciberninjas.com/cursos-accesibilidad-web/",
+     "name": "Los Mejores Cursos Gratis de Accesibilidad Web 2021"
    }
   }
  ]

@@ -18,6 +18,54 @@ img: "/assets/img/paginas-cursos/cursos-programacion.webp"
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-programacion/",
+     "name": "Los Mejores Cursos Gratis de Programación 2021"
+   }
+  }
+ ]
+}
+</script>
+
 Existen muchos diferentes lenguajes de programación, aquí vas a poder encontrar cursos gratis para comenzar desde a aprender los idiomas de programación más importantes.
 
 Además, en la gran mayoría de lenguajes, vas a poder encontrar lo que se denomina frameworks. Que son a groso modo, grandes librerías de código, con los que facilitar la creación de aplicaciones y programas ahorrando tiempo de codificación.

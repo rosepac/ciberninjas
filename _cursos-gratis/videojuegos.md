@@ -18,6 +18,54 @@ img: "/assets/img/paginas-cursos/cursos-videojuegos.webp"
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-videojuegos/",
+     "name": "Los Mejores Cursos Gratis de Desarrollo y Programación de Juegos 2021"
+   }
+  }
+ ]
+}
+</script>
+
 Lo más probable es que visite este sitio porque ama los juegos. Y también existe la posibilidad de que tengas una idea para tu propio juego, pero nunca has tenido las habilidades para hacer tus sueños realidad. Con el verano atrás y la perspectiva del frío invierno por delante, ¿por qué no pasar el tiempo en interiores de la forma más productiva posible y aprender a crear sus propios juegos?
 
 Desde software potente y flexible como RPG Maker hasta tutoriales que no requieren experiencia previa en Unity y lenguajes de programación como C ++, existe una amplia variedad de cursos legítimos para aficionados en línea que le ayudarán a enseñarle cómo crear juegos a su propio ritmo.
