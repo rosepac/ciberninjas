@@ -24,7 +24,7 @@ img: "/assets/img/paginas-cursos/cursos-software-tecnico.webp"
     <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
     <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos de Técnico</li>
   </ol>
 </nav>
 </div>

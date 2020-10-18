@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Webmaster]
-title: "▷ 22 Mejores Cursos Gratis con los que Adquirir Habilidades de Webmaster 2021"
+title: "▷ 22 Mejores Cursos Gratis Rendimiento Web / Webmaster 2021"
 description: "Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos relacionados al desempleo de un webmaster, creación y gestión de contenidos para una página web, desde cero hasta nivel experto"
 date: 2020-09-25T10:22:00.000+02:00
@@ -24,7 +24,7 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
     <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
     <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Cursos Accesibilidad Web</li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Rendimiento Web</li>
   </ol>
 </nav>
 </div>
@@ -59,7 +59,7 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
   "item":
    {
      "@id": "https://ciberninjas.com/cursos-web-webmaster/",
-     "name": "Los Mejores Cursos Gratis de Habilidades de Webmaster 2021"
+     "name": "Los Mejores Cursos Gratis de Rendimiento Web 2021"
    }
   }
  ]
