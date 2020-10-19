@@ -4,7 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Actualidad
+- Zoom
+- Reuniones
 thumbnail: /assets/img/blog/zoom-videoconferencias.webp
 feature-img: /assets/img/blog/zoom-videoconferencias.webp
 title: '▷ La nueva tienda de aplicaciones de Zoom, un intento por convertirse en una plataforma social completa'

@@ -4,7 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Extensiones Navegadores
+- Chrome
 thumbnail: /assets/img/blog/el-valor-del-tiempo.webp
 feature-img: /assets/img/blog/.webp
 title: '▷ 6 Extensiones de Chrome que te harán ahorrar tiempo'
