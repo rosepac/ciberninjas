@@ -26,7 +26,7 @@ ELAN es un software de nivel profesional bien establecido y es ampliamente utili
 
 Se han desarrollado varias herramientas de terceros para enriquecer y analizar datos y corpus de ELAN.
 
-## Características
+## **Características del Software ELAN**
 
 Sus características incluyen:
 
@@ -38,12 +38,11 @@ Sus características incluyen:
 - Búsqueda compleja.
 - Formato de datos basado en XML.
 
-
-## Historia
+## **Historia del Software ELAN**
 
 ELAN es desarrollado por el Instituto Max Planck de Psicolingüística en Nijmegen . La primera versión fue lanzada alrededor del año 2000 bajo el nombre EAT, Eudico Annotation Tool. Fue renombrado a ELAN en 2002. Desde entonces, se lanzan dos o tres versiones nuevas cada año. Está desarrollado en el lenguaje de programación Java con interfaces para plataformas de medios nativos desarrollados en C , C ++ y Objective-C .
 
-## Enlaces Externos
+## **Enlaces Externos sobre el Software ELAN**
 
 - [Official website](https://kutt.it/software-elan-web){:target="_blank" rel="nofollow,noreferrer"}
 - [ELAN recursos de terceros](https://kutt.it/software-elan-recursos-terceros){:target="_blank" rel="nofollow,noreferrer"} (Templates, Scripts, Tools, Flujos de Trabajo de Descripciones, HowTos)

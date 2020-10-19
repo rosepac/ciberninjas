@@ -26,11 +26,11 @@ El debate entre Emacs vs Vi siempre fue una de las "guerras santas" originales l
 
 Dentro del mundo del software libre este tipo de "guerras" son muy comunes sobre todo dentro del mundo del código fuente y se han librado batallas a lo largo del tiempo; en relación a sistemas operativos, lenguajes de programación, sistemas de control de versiones e incluso en cuanto al estilo de sangría utilizada.
 
-## Comparación entre Emacs y Vi
+## **Comparación entre Emacs y Vi**
 
 Las diferencias históricas más importantes entre Vi y Emacs se presentan en la siguiente tabla.
 
-### Características de Emacs
+### **Características de Emacs**
 
 - Ejecución de pulsación de tecla: Los comandos de Emacs son combinaciones de teclas para las cuales se mantienen presionadas las teclas modificadoras mientras se presionan otras teclas; un comando se ejecuta una vez que está completamente escrito. Esto todavía forma un árbol de decisión de comandos, pero no uno de pulsaciones de teclas individuales. Un paquete Emacs inspirado en Vim ( undo-tree) proporciona una interfaz de usuario para el árbol.
 - Uso de memoria y personalización: Emacs ejecuta muchas acciones al inicio, muchas de las cuales pueden ejecutar código de usuario arbitrario. Esto hace que Emacs tarde más en iniciarse (incluso en comparación con Vim) y requiere más memoria . Sin embargo, es altamente personalizable e incluye una gran cantidad de características, ya que es esencialmente un entorno de ejecución para un programa Lisp diseñado para edición de texto. Emacs 18 (lanzado en 1987) introdujo un modo de servidor diseñado para ejecutarse continuamente en segundo plano. Se pueden iniciar varias instancias de Emacs en modo cliente, adjuntando a este servidor y compartiendo estado. El tiempo de inicio del cliente Emacs es prácticamente instantáneo, ya que todo lo que hace es provocar el proceso existente de Emacs para volver a dibujar la pantalla.
@@ -39,7 +39,7 @@ Las diferencias históricas más importantes entre Vi y Emacs se presentan en la
 - Teclado: La expansión de uno de los backronyms de Emacs es Escape, Meta, Alt, Control, Shift, que resume claramente la mayoría de las teclas modificadoras que usa. Emacs fue desarrollado en teclados Space-cadet que tenían más modificadores de teclas que diseños modernos. Existen múltiples paquetes de emacs, como spacemacs o ergoemacs que reemplazan estas combinaciones de teclas con otras más fáciles de escribir, o el usuario puede hacer la personalización ad hoc.
 - Soporte de Lenguaje y Script: Emacs tiene soporte completo para todos los sistemas de escritura compatibles con Unicode y permite que múltiples scripts se mezclen libremente.
 
-### Características de Vi
+### **Características de Vi**
 
 - Ejecución de pulsación de tecla: Vi retiene cada permutación de las teclas escritas. Esto crea una ruta en el árbol de decisión que identifica inequívocamente cualquier comando.
 - Uso de memoria y personalización: Vi es un programa más pequeño y rápido, pero con menos capacidad de personalización. vim ha evolucionado de vi para proporcionar significativamente más funcionalidad y personalización que vi, por lo que es comparable a Emacs.  El tiempo de inicio de vi es casi instantáneo para archivos de texto pequeños, mientras que vim es casi tan rápido.
@@ -48,7 +48,7 @@ Las diferencias históricas más importantes entre Vi y Emacs se presentan en la
 - Teclado: Vi no usa la tecla `Alt` y rara vez usa la tecla `Ctrl`. El conjunto de teclas de Vi está restringido principalmente a las teclas alfanuméricas y la tecla de `Esc`. Esta es una reliquia duradera de su herencia de teletipo , pero tiene el efecto de hacer que la mayor parte de la funcionalidad de vi sea accesible sin frecuentes movimientos torpes de los dedos.
 - Soporte de Lenguaje y Script: Vi tiene soporte rudimentario para otros idiomas además del inglés. Modern Vim admite Unicode si se ejecuta en un shell que admite Unicode.
 
-## Beneficios de Emacs
+## **Beneficios de Emacs**
 
 - Emacs tiene una interfaz no modal
 - Uno de los programas informáticos más portados. Se ejecuta en modo texto y bajo interfaces gráficas de usuario en una amplia variedad de sistemas operativos, incluyendo la mayoría de los sistemas tipo Unix ( Linux, los diversos BSD, Solaris, AIX, IRIX, macOS, etc.), MS- DOS, Microsoft Windows, AmigaOS y OpenVMS. Los sistemas Unix, tanto gratuitos como propietarios, con frecuencia proporcionan Emacs incluidos con elsistema operativo.
@@ -61,7 +61,7 @@ Las diferencias históricas más importantes entre Vi y Emacs se presentan en la
 - "Un sistema operativo dentro de un sistema operativo". Emacs Lisp permite que Emacs se programe mucho más allá de las funciones de edición. Incluso una instalación base contiene varias docenas de aplicaciones, incluidos dos navegadores web, lectores de noticias, varios agentes de correo, cuatro clientes IRC , una versión de ELIZA y una variedad de juegos. Todas estas aplicaciones están disponibles en cualquier lugar donde se ejecute Emacs, con la misma interfaz de usuario y funcionalidad. A partir de la versión 24, Emacs incluye un administrador de paquetes, lo que facilita la instalación de aplicaciones adicionales que incluyen navegadores web alternativos, EMMS ( Emacs Multimedia System ) y más. También están disponibles numerosos paquetes para programación, incluidos algunos dirigidos a combinaciones específicas de idioma / biblioteca o estilos de codificación.
 - La naturaleza no modal de las combinaciones de teclas de Emacs hace que sea práctico ser compatible con las combinaciones de teclas de todo el sistema operativo.
 
-## Beneficios de vi
+## **Beneficios de VI**
 
 - Los comandos de edición son componibles.
 - Vi tiene una interfaz modal.
@@ -71,7 +71,7 @@ Las diferencias históricas más importantes entre Vi y Emacs se presentan en la
 - Ubicuo. Esencialmente, todos los sistemas Unix y similares a Unix vienen con vi (o una variante) incorporada. Vi (y ex, pero no vim) se especifica en el estándar POSIX.
 - Los entornos de rescate del sistema, los sistemas integrados (especialmente aquellos con BusyBox) y otros entornos restringidos a menudo incluyen vi, pero no emacs.
 
-## Evolución del conflicto
+## **Evolución del conflicto**
 
 En el pasado, muchos pequeños editores modelados o derivados de Vi florecieron. Esto se debió a la importancia de conservar la memoria con la cantidad comparativamente minúscula disponible en ese momento. A medida que las computadoras se han vuelto más poderosas, muchos clones vi, Vim en particular, han crecido en tamaño y complejidad de código.
 
@@ -97,7 +97,7 @@ Muchos sistemas operativos, especialmente derivados de Linux y BSD , agrupan var
 
 Por ejemplo, una instalación predeterminada de macOS contiene Emacs, ed, nano, TextEdit y Vim. Con frecuencia, en algún momento de la discusión, alguien señalará que ed es el editor de texto estándar.
 
-## Humor
+## **Humor**
 
 La Iglesia de Emacs, formada por Emacs y el creador del Proyecto GNU Richard Stallman, es una religión parodia. Si bien se refiere a vi como el "editor de la bestia" (vi-vi-vi es 6-6-6 en números romanos), no se opone al uso de vi; más bien, se llama anatema de software propietario . ("Usar una versión gratuita de vi no es un pecado sino una penitencia.")
 
@@ -119,13 +119,13 @@ Un juego entre usuarios de UNIX, ya sea para probar la profundidad de la compren
 
 Debido a la secuencia de caracteres poco intuitiva para salir de vi (": q!"), Los hackers bromean sobre un método propuesto para crear una secuencia de caracteres pseudoaleatoria al hacer que un usuario no esté familiarizado con vi sentado frente a un editor abierto y les pida que salgan del programa.
 
-### Notas
+### **Notas**
 
 1. Hoy en día, ambos editores proporcionan formas fáciles de implementar las combinaciones de teclas de los demás. En Emacs, las combinaciones de teclas de Vim se implementan a través del modo Evil, mientras que en Vim, las combinaciones de teclas de Emacs se implementan a través del paquete Vimacs. Aunque las combinaciones de teclas de Vim son populares por su ergonomía, la tecla posiblemente más ergonómica en un teclado, es decir, la barra espaciadora no se usa en Vim. Se implementó una alternativa popular a las formas de navegación Emacs y Vim a través de Spacemacs, que es una configuración popular de Emacs que aprovecha la barra espaciadora para funcionar como la tecla principal para el control y la navegación. La idea de Spacemacs también se ha trasladado a Vim a través de Spacevim.
 2. A partir de 2013, vim tiene 1731 kLOC de código (1142 en C + 506 stock distro vimScript + 83 relacionado con makefile), mientras que GNU Emacs tiene 1623 (solo 299 en C + 1270 stock distro Emacs Lisp + 54 relacionado con makefile). Hay muchos paquetes opcionales de Emacs Lisp (y Vimscript) disponibles; los números aquí se refieren solo al código que realmente se incluye en la descarga principal del editor respectivo.
 3. Emacs también tiene algo llamado "modos"; sin embargo, en Emacs generalmente se refieren a estados de interacción a largo plazo que se aplican durante todo el tiempo que se trabaja con un archivo o conjunto de datos dado, que no es la definición de interfaz modal per se.
 
-## Enlaces Externos
+## **Enlaces Externos**
 
 - [Resultados de un experimento que](http://www.textfiles.com/programming/vivsemacs.txt){:target="_blank" rel="nofollow,noreferrer"} compara Vi y Emacs
 - [Comparar pulsaciones de teclas](http://danzig.jct.ac.il/unix_class/emacs-vi-Commands.html){:target="_blank" rel="nofollow,noreferrer"} por tarea

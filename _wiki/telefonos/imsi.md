@@ -29,7 +29,7 @@ El IMSI cumple con el estándar de numeración ITU E.212.
 
 Los IMSI a veces pueden confundirse con el ICCID, que es el identificador de la tarjeta SIM física en sí (o ahora la tarjeta SIM virtual si es una eSIM). El IMSI vive como parte del perfil (o uno de varios perfiles si la SIM y el operador admiten SIM multi-IMSI) en la SIM / ICCID.
 
-## Análisis IMSI
+## **Análisis IMSI**
 
 El análisis IMSI es el proceso de examinar el IMSI de un suscriptor para identificar la red a la que pertenece el IMSI y si los suscriptores de esa red pueden usar una red determinada (si no son suscriptores locales, esto requiere un acuerdo de itinerancia).
 
@@ -39,7 +39,7 @@ En Norteamérica, el IMSI se convierte directamente a un número E.212 sin modif
 
 Después de esta conversión, SCCP se utiliza para enviar el mensaje a su destino final. Para más detalles, consulte los Títulos Globales.
 
-### Ejemplo Fuera del Área Mundial 1
+### **Ejemplo Fuera del Área Mundial 1**
 
 Este ejemplo muestra la práctica real que no se describe claramente en las normas.
 
@@ -66,7 +66,7 @@ Por lo tanto, 310150123456789 se convierte en 14054123456789 bajo el plan de num
 
 El resultado es un Título global compatible con E.214 (el Indicador del plan de numeración se establece en 7 en el mensaje SCCP). Este número ahora se puede enviar a Global Title Analysis.
 
-### Ejemplo Dentro del Área Mundial 1 (Ámerica del Norte) 
+### **Ejemplo Dentro del Área Mundial 1 (Ámerica del Norte)**
 
 Regla de traducción:
 
@@ -80,11 +80,11 @@ Por lo tanto, 284011234567890 se convierte en 284011234567890 bajo el plan de nu
 
 Este número tiene que convertirse en el límite de ANSI a ITU. Para más detalles, consulte los Títulos Globales.
 
-## Identidad de la Red Doméstica
+## **Identidad de la Red Doméstica**
 
 La identidad de la red doméstica (HNI) es la combinación de MCC y MNC. Este es el número que identifica completamente la red doméstica del suscriptor. Esta combinación también se conoce como PLMN.
 
-## Enlaces externos
+## **Enlaces externos**
 
 * [Artículo de "Perspectivas de redes celulares" en la revista Wireless Telecom](https://web.archive.org/web/20040607225011/http://www.cnp-wireless.com/ArticleArchive/Wireless Telecom/2001Q1WT.html){:target="_blank" rel="nofollow,noreferrer"}
 * [Consejo de supervisión de IMSI responsable de asignar rangos de IMSI en los EE. UU.](http://www.atis.org/ATIS/IOC/iochom.htm){:target="_blank" rel="nofollow,noreferrer"}

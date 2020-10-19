@@ -22,7 +22,12 @@ La Fundación Cíborg se alojó por primera vez en el Parque Científico Tecnoca
 
 Su misión es ayudar a los humanos a convertirse en cíborgs, promover el uso de la cibernética como parte del cuerpo humano y defender los derechos de los cíborg. Han donado [antenas cíborg](/wiki/antena-ciborg) a comunidades ciegas y ha enseñado el color a los niños ciegos para ayudarlos a desarrollar el sentido del color. La fundación cree que algunas extensiones cibernéticas deben tratarse como partes del cuerpo, no como dispositivos.
 
-## Historia
+- [**Historia de la Fundación Cíborg**](#historia-de-la-fundación-cíborg)
+  - [**Asociaciones y Colaboraciones**](#asociaciones-y-colaboraciones)
+- [**Derechos de Cíborg**](#derechos-de-cíborg)
+- [**Enlaces Externos de la Fundación Cíborg**](#enlaces-externos-de-la-fundación-cíborg)
+
+## **Historia de la Fundación Cíborg**
 
 La fundación fue creada como respuesta al creciente número de cartas y correos electrónicos que recibió Neil Harbisson de personas de todo el mundo interesadas en convertirse en un cíborg.
 
@@ -36,14 +41,14 @@ En 2012, el director de cine español Rafel Duran Torrent, creó un cortometraje
 
 En 2013, la película ganó el Gran Premio del Jurado en lacompetencia Focus Forward Filmmakers Competitiondel Festival de Cine de Sundance.
 
-### Asociaciones y Colaboraciones
+### **Asociaciones y Colaboraciones**
 
 - En 2016, Cíborg Foundation junto con Parsons School of Design , The New School , Sensorium Works y Pioneer Works lanzaron Cíborg Futures , un programa de residencia cíborg en Nueva York diseñado para promover la misión de la Fundación Cíborg de apoyar el uso de la cibernética como parte del cuerpo y comenzar a presentar las diversas posibilidades para las prácticas artísticas que utilizan capacidades sensoriales extendidas.
 - Existen varias colaboraciones con Ecuador, ya que su presidente Lenin Moreno anunció que su gobierno colaboraría con la Fundación Cíborg para crear nuevos órganos sensoriales.
 - En 2012 la Fundación Cíborg firmó una asociación para crear nuevas extensiones cibernéticas en colaboración con la Universidade de Pernambuco en Brasil.
 - En 2016, junto con Mesa y Cadeira , un grupo de personas (que incluía un cirujano dental, ingenieros y un psicólogo) crearon "Design Yourself", una identidad visual, un eslogan y un sitio web para la Fundación. El sitio explora las diferentes relaciones humanas con la tecnología y ofrece herramientas para expandir los sentidos y las habilidades, y en el proceso, para convertirse en un cíborg. El grupo también desarrolló un implante dental, que utiliza tecnología bluetooth y código morse para comunicarse. La primera demostración del Sistema de Comunicación Transdental se presentó en Sao Paulo.
 
-## Derechos de Cíborg
+## **Derechos de Cíborg**
 
 En 2014, la Fundación Cíborg participó en la comisión de la Unión Europea para leyes robóticas.
 
@@ -51,7 +56,7 @@ En 2016, junto con el investigador y activista electrónico de derechos civiles 
 
 Esta lista describe la redefinición y defensa de las libertades civiles cíborg y la santidad de los cuerpos cíborg. También previó una batalla por la propiedad, licencia y control de anatomías aumentadas, alternativas y sintéticas; la comunicación, datos y telemetría producidos por ellos; y la definición misma de lo que significa ser humano.
 
-## Enlaces Externos
+## **Enlaces Externos de la Fundación Cíborg**
 
 - [Sitio web de la Fundación Cyborg](http://www.cyborgfoundation.com/){:target="_blank" rel="nofollow,noreferrer"}
 - [TED Global: "Escuchando a Picasso"](http://blog.ted.com/2012/06/27/listening-to-picasso-neil-harbisson-at-tedglobal2012){:target="_blank" rel="nofollow,noreferrer"}

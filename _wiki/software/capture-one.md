@@ -21,7 +21,7 @@ img: /assets/img/wiki/articulos/wiki-capture-one.webp
 
 Capture One (también conocido como Capture One Pro) es un software de edición de fotografías, desarrollado por Phase One. Además de la edición de imágenes, realiza la catalogación de las mismas, el procesamiento de los archivos de las imágenes en bruto y la fotografía atada o tethering. Capture One funciona con archivos RAW de muchas cámaras digitales diferentes, así como con archivos de imagen TIFF y JPEG.
 
-## Características
+## **Características de Capture One**
 
 Capture One 12 está disponible para macOS y Microsoft Windows . Está traducido para chino (simplificado), checo, inglés, francés, alemán, italiano, japonés, coreano, español y sueco.
 

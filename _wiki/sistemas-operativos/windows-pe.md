@@ -25,7 +25,12 @@ Está destinado a reemplazar los discos de arranque de MS-DOS y se puede iniciar
 
 Usado tradicionalmente por grandes corporaciones y OEM (para preinstalar Sistemas operativos cliente de Windows en PC durante la fabricación), ahora está ampliamente disponible de forma gratuita a través del Kit de instalación automatizada de Windows (WAIK).
 
-## Descripción
+- [**Descripción de Windows PE**](#descripción-de-windows-pe)
+- [**Derivados de Windows PE**](#derivados-de-windows-pe)
+- [**Enlaces Relacinoados**](#enlaces-relacinoados)
+  - [**Relacionados**](#relacionados)
+
+## **Descripción de Windows PE**
 
 WinPE originalmente estaba destinado a usarse solo como una plataforma de preinstalación para implementar sistemas operativos Microsoft Windows, específicamente para reemplazar DOS a este respecto. WinPE tiene los siguientes usos:
 
@@ -41,15 +46,15 @@ La versión 2.0 introdujo una serie de mejoras y extendió la disponibilidad de 
 
 Originalmente fue diseñado y construido por un pequeño equipo de ingenieros en el equipo de implementación de Windows de Microsoft, incluidos Vijay Jayaseelan, Ryan Burkhardt y Richard Bond.
 
-## Derivados
+## **Derivados de Windows PE**
 
 El entorno de recuperación de Windows (WinRE) es un conjunto de herramientas basadas en Windows PE para ayudar a diagnosticar y recuperarse de errores graves que pueden impedir que Windows se inicie correctamente. Windows RE se instala junto con Windows Vista y posterior, y se puede iniciar desde discos duros, medios ópticos (como un disco de instalación del sistema operativo) y PXE (por ejemplo, Servicios de implementación de Windows). <!-- seccion de windows RE en un apartado de nuevo de software de microsoft https://en.wikipedia.org/wiki/Windows_Preinstallation_Environment -->
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Ver También
+## **Enlaces Relacinoados**
 
-* CD Life / CD en Vivo <!-- https://en.wikipedia.org/wiki/Live_CD -->
+* CD Life / CD en Vivo <!-- https://en.wikipedia.org/wiki/Live_CD --> 🚧 PENDIENTE DE CONSTRUCCIÓN 🚧
 
 **Desarrollador**: Microsoft
 {: .notice--primary}

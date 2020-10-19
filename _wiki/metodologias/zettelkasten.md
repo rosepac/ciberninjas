@@ -21,6 +21,10 @@ img: /assets/img/wiki/articulos/wiki-zettelkasten.webp
 
 El zettelkasten (vocablo alemán similar a "slip box" en inglés o "caja descuidada" en español) es un método de gestión del conocimiento y de toma de notas utilizado en el ámbito de la investigación y para personas profesionales del ámbito académico.
 
+- [**El Método Zettelkasten**](#el-método-zettelkasten)
+- [**La Historia del Método Zettelkasten**](#la-historia-del-método-zettelkasten)
+- [**Enlaces Externos**](#enlaces-externos)
+
 ## **El Método Zettelkasten**
 
 Un zettelkasten consta de muchas notas individuales con ideas y otras piezas cortas de información que se eliminan a medida que ocurren o se adquieren. Las notas están numeradas jerárquicamente, de modo que las nuevas notas pueden insertarse en el lugar apropiado y contienen metadatos para permitir que el tomador de notas asocie las notas entre sí.

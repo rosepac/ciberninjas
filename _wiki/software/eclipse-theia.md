@@ -26,11 +26,16 @@ Eclipse Theia es un Framework de entorno de desarrollo integrado o IDE. Gratuito
 <figcaption>Captura del Navegador IDE Theia / Autoría de <a href="https://www.typefox.io/">Typefox</a></figcaption>
 </figure>
 
-## Historia
+- [**Historia de Eclipse Theia**](#historia-de-eclipse-theia)
+- [Sobre Eclipse Theia](#sobre-eclipse-theia)
+- [**Evolución de Eclipse Theia**](#evolución-de-eclipse-theia)
+- [**Aceptación de Eclipse Theia por la Comunidad**](#aceptación-de-eclipse-theia-por-la-comunidad)
+
+## **Historia de Eclipse Theia**
 
 Theia fue desarrollado por TypeFox y Ericsson con contribuciones adicionales de Red Hat, IBM, Google y Arm Holdings. Fue lanzado por primera vez en marzo de 2017. Desde mayo de 2018, Theia paso a ser un proyecto controlado por la Fundación Eclipse.
 
-## Sobre Theia
+## Sobre Eclipse Theia
 
 Theia se basa en el Language Server Protocol (LSP) o lo que es lo mismo el Protocolo del Servidor de Idiomas y admite toda una variedad de lenguajes de programación. Se puede usar como una aplicación de escritorio, una aplicación web o una aplicación híbrida con front-end y back-end separados.
 
@@ -39,11 +44,11 @@ Todas las características de Theia se implementan como extensiones, lo que perm
 
 Theia es un proyecto de software gratuito y de código abierto bajo la Fundación Eclipse y su código se encuentra bajo la Licencia Pública de Eclipse 2.0.
 
-## Evolución
+## **Evolución de Eclipse Theia**
 
 Eclipse Theia es usado por Eclipse Che como su IDE predeterminado a partir de la versión 7 y en septiembre de 2018, se lanzó un nuevo sorprendente IDE de funcionamiento en línea basado en Theia: denominado Gitpod.
 
-## Uso por la Comunidad
+## **Aceptación de Eclipse Theia por la Comunidad**
 
 En enero de 2019, JAXenter clasificó a Theia como el tercer entorno de desarrollo integrado de JavaScript más popular de 2018 según las métricas de GitHub , detrás de Visual Studio Code y Atom.
 

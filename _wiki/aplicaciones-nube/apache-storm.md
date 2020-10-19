@@ -29,24 +29,29 @@ En un nivel superficial, la estructura de topología general es similar a un tra
 
 Storm se convirtió en un proyecto de nivel superior de Apache en septiembre de 2014 y anteriormente estaba en incubación desde septiembre de 2013.
 
-## Desarrollo
+- [**Desarrollo de Storm**](#desarrollo-de-storm)
+- [**Arquitectura de Apache Storm**](#arquitectura-de-apache-storm)
+- [**Plataforma de Pares**](#plataforma-de-pares)
+- [**Enlaces Externos de Storm**](#enlaces-externos-de-storm)
+
+## **Desarrollo de Storm**
 
 Apache Storm está desarrollado bajo la licencia de Apache , lo que lo pone a disposición de la mayoría de las empresas. Git se usa para el control de versiones y Atlassian JIRA para el seguimiento de problemas, bajo el programa Apache Incubator.
 
 Su versión actual es la 2.1.0, lanzada el 6 de septiembre de 2019,
 
-## Arquitectura de Apache Storm
+## **Arquitectura de Apache Storm**
 
 El clúster de Apache Storm comprende los siguientes componentes críticos:
 
 * **Nodos**: hay dos tipos de nodos: nodos maestros y nodos de trabajo. Un **Master Node** ejecuta un demonio **Nimbus** que asigna tareas a las máquinas y monitorea sus actuaciones. Por otro lado, un nodo de trabajo ejecuta el demonio llamado Supervisor, que asigna las tareas a otros nodos de trabajo y los opera según la necesidad. Como Storm no puede monitorear el estado y la salud del clúster, implementa ZooKeeper para resolver este problema que conecta a Nimbus con los Supervisores.
 * **Componentes**: Storm tiene tres componentes críticos: **Su Topología**, **Corriente** y **Canal**. La topología es una red compuesta por la Corriente y el Canal. La Corriente es una tubería ilimitada de tuplas y el Canal es la fuente de los flujos de datos que convierte los datos en la tupla de flujos y los envía a los tornillos para ser procesados.
 
-## Plataforma de Pares
+## **Plataforma de Pares**
 
 Storm no es más que una de las docenas de motores de procesamiento de flujo. Para obtener una lista más completa, consulte Procesamiento de flujo . Twitter anunció Heron el 2 de junio de 2015, que es compatible a través de su API con Storm. Hay otros motores de transmisión de datos comparables, como Spark Streaming y Flink.
 
-## Enlaces Externos
+## **Enlaces Externos de Storm**
 
 * [Página Web Oficial del Proyecto](https://kutt.it/apache-storm "Página web oficial del proyecto Apache Storm"){:target="_blank" rel="nofollow,noreferrer"}
 

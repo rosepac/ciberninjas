@@ -27,6 +27,10 @@ La calidad del texto generado por GPT-3 es tan alta que es difícil distinguirlo
 
 En su artículo, advirtieron sobre los peligros potenciales de GPT-3 y pidieron investigación para mitigar el riesgo: David Chalmers , un filósofo australiano, describió al GPT-3 como "uno de los sistemas de inteligencia artificial más interesantes e importantes jamás producidos".
 
+- [**Antecedentes**](#antecedentes)
+- [**Capacidad de GPT 3**](#capacidad-de-gpt-3)
+- [**Reseñas de GPT 3**](#reseñas-de-gpt-3)
+
 ## **Antecedentes**
 
 Según The Economist, los algoritmos mejorados, las computadoras potentes y el aumento de los datos digitalizados han impulsado una revolución en el aprendizaje automático , con nuevas técnicas en la década de 2010 que dieron como resultado "mejoras rápidas en las tareas", incluida la manipulación del lenguaje.

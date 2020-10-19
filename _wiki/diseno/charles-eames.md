@@ -1,8 +1,8 @@
 ---
 
 title: "Charles Eames"
-description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Charles Eames"
-excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Charles Eames"
+description: "🎨 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Charles Eames"
+excerpt: "🎨 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Charles Eames"
 date: 2020-07-28 01:55:07
 published: true
 author: rosepac
@@ -15,25 +15,39 @@ img: /assets/img/wiki/articulos/wiki-charles-eames.webp
 
 ---
 
-Charles Eames (17 de junio de 1907 - 21 de agosto de 1978) fue un diseñador, arquitecto y cineasta estadounidense. En asociación creativa con su cónyuge, Ray Kaiser Eames , fue responsable de las innovadoras contribuciones en el campo de la arquitectura, el diseño de muebles, el diseño industrial, la fabricación y las artes fotográficas.
+Charles Eames (17 de junio de 1907 - 21 de agosto de 1978) fue un diseñador, arquitecto y cineasta estadounidense. En asociación creativa con su cónyuge, Ray Kaiser Eames.
 
-## Biografía
+Fueron responsables de innovadoras e importantes contribuciones en el campo de la arquitectura, el diseño de muebles, el diseño industrial, la fabricación y las artes fotográficas.
 
-### Infancia
+- [**Biografía de Charles Eames**](#biografía-de-charles-eames)
+  - [**Infancia**](#infancia)
+  - [**Educación**](#educación)
+  - [**Primer Matrimonio**](#primer-matrimonio)
+- [**Práctica arquitectónica temprana**](#práctica-arquitectónica-temprana)
+  - [**Cranbrook y el comienzo del diseño de muebles**](#cranbrook-y-el-comienzo-del-diseño-de-muebles)
+  - [**Segundo Matrimonio**](#segundo-matrimonio)
+- [**La Casa de Eames**](#la-casa-de-eames)
+- [**La Oficina de Eames**](#la-oficina-de-eames)
+- [**Muerte de Charles Eames**](#muerte-de-charles-eames)
+- [**Filosofía de Charles Eames**](#filosofía-de-charles-eames)
+
+## **Biografía de Charles Eames**
+
+### **Infancia**
 
 Charles nació en St. Louis de Charles Eames Sr., un oficial de seguridad ferroviaria, y Marie Adele Celine Eames (en Lambert) el 17 de junio de 1907. Tenía un hermano mayor, una hermana llamada Adele. Charles asistió a Yeatman High School y desarrolló un temprano interés en la arquitectura y la fotografía.
 
-### Educación
+### **Educación**
 
 Charles estudió arquitectura en la Universidad de Washington en St. Louis con una beca de arquitectura. Después de dos años de estudio, dejó la universidad. Muchas fuentes afirman que fue despedido por su defensa de Frank Lloyd Wright y su interés en los arquitectos modernos. Según los informes, la universidad lo abandonó debido a sus puntos de vista "demasiado modernos".
 
 Otras fuentes, citadas con menos frecuencia, señalan que mientras era estudiante, Charles Eames también trabajó como arquitecto en la firma de Trueblood and Graf. Las demandas de su tiempo de este empleo y de sus clases llevaron a la falta de sueño y la disminución del rendimiento en la universidad.
 
-### Primer Matrimonio
+### **Primer Matrimonio**
 
 Mientras estaba en la Universidad de Washington, conoció a su primera esposa, Catherine Woermann, con quien se casó en 1929. Un año después, tuvieron una hija, Lucia Dewey Eames. Charles y Catherine estuvieron casados ​​durante más de una década y su divorcio finalizó a principios de 1941.
 
-## Práctica arquitectónica temprana
+## **Práctica arquitectónica temprana**
 
 En 1930, Charles comenzó su propia práctica arquitectónica en St. Louis con su compañero Charles Gray. Más tarde se les unió un tercer socio, Walter Pauley.
 
@@ -46,17 +60,17 @@ En 1930, Charles comenzó su propia práctica arquitectónica en St. Louis con s
 
 Charles Eames fue muy influenciado por el arquitecto finlandés Eliel Saarinen (cuyo hijo Eero , también arquitecto, se convertiría en socio y amigo).
 
-### Cranbrook y el comienzo del diseño de muebles 
+### **Cranbrook y el comienzo del diseño de muebles**
 
 Por invitación del élder Saarinen, Charles se mudó en 1938 con su esposa Catherine y su hija Lucia a Michigan para estudiar arquitectura en la Academia de Arte de Cranbrook . Charles se convirtió rápidamente en instructor y jefe del departamento de diseño industrial . Para solicitar el Programa de Arquitectura y Planificación Urbana, Eames definió un área de enfoque: el paseo marítimo de St. Louis. Junto con Eero Saarinen, diseñó muebles premiados para la competencia del Museo de Arte Moderno de Nueva York "Diseño orgánico en muebles para el hogar".
 
 Conoció a Ray Kaiser durante este proyecto; ella era estudiante en Cranbrook y ayudó con el diseño gráfico. El trabajo de Eames y Saarinen mostró la nueva técnica de moldura de madera (desarrollada originalmente por Alvar Aalto ), que Charles desarrollaría con Ray en muchos productos de madera contrachapada moldeada , incluidos: sillas y otros muebles , y tablillas y camillas para la Marina de los EE. UU. Durante la Guerra Mundial II.
 
-### Segundo Matrimonio
+### **Segundo Matrimonio**
 
 En 1941, Charles y Catherine se divorciaron y, poco después, se casó con su colega de Cranbrook, [Ray Kaiser](https://ciberninjas.com/wiki/ray-eames/). Se mudó con ella a Los Ángeles , California , durante su luna de miel, donde trabajaron y vivieron juntos hasta su muerte. Juntos, Charles y [Ray Eames](https://ciberninjas.com/wiki/ray-eames/) se convirtieron internacionalmente en dos de los diseñadores más reconocidos y celebrados del siglo XX.
 
-## La Casa de Eames
+## **La Casa de Eames**
 
 Tres años después de llegar a Los Ángeles, se les pidió a Charles y Ray que participaran en el Case Study House Program, un programa de vivienda patrocinado por la revista Arts & Architecture con la esperanza de mostrar ejemplos de hogares modernos con precios económicos que utilizaban materiales de guerra e industriales.
 
@@ -72,15 +86,15 @@ Sigue siendo un hito de la arquitectura moderna operada por la Fundación Eames,
 
 La oficina de Eames diseñó algunas piezas arquitectónicas más, muchas de las cuales nunca se hicieron realidad. El Showroom de Herman Miller en Beverly Boulevard en Los Ángeles se construyó en 1950 y la Casa De Pree se construyó en Zeeland, Michigan, para el fundador del hijo de Herman Miller, Max De Pree, y su creciente familia. Los proyectos no construidos incluyen la Casa Billy Wilder, la casa de kit prefabricada conocida como la Casa Kwikset y un acuario nacional.
 
-## La Oficina de Eames
+## **La Oficina de Eames**
 
 Desde 1943 hasta su muerte en 1978, Charles y Ray trabajaron junto con un equipo de personal y produjeron una amplitud incomparable de trabajo de diseño creativo en muchas disciplinas.
 
-## Muerte
+## **Muerte de Charles Eames**
 
 Charles Eames murió de un ataque al corazón el 21 de agosto de 1978, mientras realizaba un viaje de consultoría en su natal Saint Louis. Fue enterrado en el cementerio del Calvario en St. Louis. Ahora tiene una estrella en el Paseo de la Fama de San Luis.
 
-## Filosofía
+## **Filosofía de Charles Eames**
 
 En 1970 y 1971, Charles Eames dio las charlas de Charles Eliot Norton en la Universidad de Harvard. En las conferencias, el punto de vista y la filosofía de Eames están relacionados a través de la propia narración de Charles de lo que llamó "la parábola de la hoja de plátano", siendo la hoja de plátano el utensilio más básico para comer en el sur de la India. Relató la progresión del diseño y su proceso donde la hoja de plátano se transforma en algo fantásticamente adornado.
 

@@ -17,13 +17,18 @@ img: /assets/img/wiki/articulos/wiki-pubsub.webp
 
 PubSub.com fue un motor de búsqueda prospectivo para buscar blogs , comunicados de prensa, Usenet , alertas de terremoto de USGS, presentaciones de la SEC e información de retraso de vuelo de la FAA.
 
+- [**Historia de Pubsub**](#historia-de-pubsub)
+- [**Problemas Financieros**](#problemas-financieros)
+
+## **Historia de Pubsub**
+
 El sitio, fundado en 2002 por Bob Wyman y Salim Ismail, operaba almacenando el término de búsqueda de un usuario, convirtiéndolo en una suscripción y verificándolo en publicaciones en blogs que hacen ping al motor de búsqueda. Cuando se encontró una nueva coincidencia, se notificó al usuario, incluso si ocurrió meses después de la búsqueda inicial. Esta característica llevó a PubSub a llamarse un motor de coincidencias.
 
 Los resultados se podian leer en el sitio web del servicio o en una barra lateral opcional, disponible para Internet Explorer y Mozilla Firefox, escrita por Malcolm Pollack y Duncan A. Werner respectivamente, o por RSS.
 
 Los resultados también se podian enviar a sistemas remotos a través del API de Restful, correo electrónico o XMPP.
 
-## Problemas Financieros
+## **Problemas Financieros**
 
 PubSub se encontró con problemas en 2006 como se señaló en una entrada de blog de Bob Wyman y en la actualidad, esta cerrado.
 

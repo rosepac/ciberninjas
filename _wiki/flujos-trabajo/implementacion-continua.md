@@ -21,6 +21,15 @@ Tiene como objetivo construir, probar y lanzar software con mayor velocidad y fr
 
 El CD contrasta con la implementación continua , un enfoque similar en el que el software también se produce en ciclos cortos pero a través de implementaciones automatizadas en lugar de manuales.
 
+- [**Relación con DevOps**](#relación-con-devops)
+- [**Relación con el despliegue continuo**](#relación-con-el-despliegue-continuo)
+- [**Principios de la Implementación Continua**](#principios-de-la-implementación-continua)
+- [**Canal de la implementación continua**](#canal-de-la-implementación-continua)
+- [Herramientas y tipos de herramientas de implementación continua**](#herramientas-y-tipos-de-herramientas-de-implementación-continua)
+- [**Arquitectura para la entrega continua**](#arquitectura-para-la-entrega-continua)
+- [**Implementación y uso de la implementación continua**](#implementación-y-uso-de-la-implementación-continua)
+- [**Beneficios y obstáculos de la implementación continua**](#beneficios-y-obstáculos-de-la-implementación-continua)
+
 ## **Relación con DevOps**
 
 La entrega continua y DevOps son similares en sus significados y a menudo se combinan, pero son dos conceptos diferentes. DevOps tiene un alcance más amplio, y se centra en el cambio cultural, específicamente la colaboración de los diversos equipos involucrados en la entrega de software (desarrolladores, operaciones, aseguramiento de la calidad, gestión, etc.), así como en la automatización de los procesos. en la entrega de software.

@@ -1,8 +1,8 @@
 ---
 
 title: "Ray Eames"
-description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Ray Eames"
-excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Ray Eames"
+description: "🎨 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Ray Eames"
+excerpt: "🎨 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Ray Eames"
 date: 2020-07-28 01:55:07
 published: true
 author: rosepac
@@ -17,7 +17,20 @@ img: /assets/img/wiki/articulos/wiki-ray-eames.webp
 
 Ray-Bernice Alexandra Kaiser Eames , née Kaiser (15 de diciembre de 1912 - 21 de agosto de 1988), fue una artista, diseñadora y cineasta estadounidense . En asociación creativa con su cónyuge [Charles Eames](https://ciberninjas.com/wiki/charles-eames/) y la Oficina de Eames, fue responsable de las innovadoras contribuciones en el campo de la arquitectura, el diseño de muebles, el diseño industrial, la fabricación y las artes fotográficas.
 
-## Biografía
+- [**Biografía de Charles Eames**](#biografía-de-charles-eames)
+  - [**Trabajo y Educación**](#trabajo-y-educación)
+  - [**Matrimonio junto a Charles Eames**](#matrimonio-junto-a-charles-eames)
+- [**La Casa de Eames**](#la-casa-de-eames)
+- [**La Oficina de Eames**](#la-oficina-de-eames)
+  - [**Diseño Gráfico**](#diseño-gráfico)
+  - [**Diseño Textil**](#diseño-textil)
+  - [**Diseño de Madera Contrachapado**](#diseño-de-madera-contrachapado)
+- [**Años Posteriores**](#años-posteriores)
+  - [**Legado**](#legado)
+- [**Filosofía de Charles Eames**](#filosofía-de-charles-eames)
+- [**Fotografías de Muebles diseñados por Charles Eames**](#fotografías-de-muebles-diseñados-por-charles-eames)
+
+## **Biografía de Charles Eames**
 
 Ray Eames nació en Sacramento , California , hijo de Alexander y Edna Burr Kaiser, y tenía un hermano mayor llamado Maurice. Edna era episcopal y Alejandro fue criado como judío pero no practicó; Ray y Maurice fueron criados como episcopales.
 
@@ -25,7 +38,7 @@ Eames era conocida por su familia como Ray Ray. El padre de Eames dirigió un te
 
 La familia vivió en un departamento durante gran parte de la primera infancia de Ray y se mudó a un bungalow a las afueras de la ciudad. Sus padres le enseñaron la calidad del disfrute, lo que luego llevó a inventos en el diseño de muebles y juguetes. Sus padres también inculcaron el valor del disfrute de la naturaleza.
 
-### Trabajo y Educación
+### **Trabajo y Educación**
 
 En 1931, Ray Eames se graduó de Sacramento High School en febrero. Aquí ella era miembro del Club de Arte, el Big Sister Club, y está en el comité de decoración para el baile de último año.
 
@@ -41,11 +54,11 @@ En septiembre de 1940, Eames estaba considerando la idea de mudarse y construir 
 
 Fue allí donde Eames aprendió una variedad de artes, sin limitarse a la pintura abstracta. Trabajó con Harry Bertoia, Eero Saarinen, Charles Eames y otros en los paneles de exhibición para la exposición "Diseño orgánico en muebles para el hogar" en el Museo de Arte Moderno
 
-### Matrimonio junto a Charles Eames
+### **Matrimonio junto a Charles Eames**
 
 Después de un cortejo rápido, Eames se casó con [Charles Eames](https://ciberninjas.com/wiki/charles-eames/) en 1941. Estableciéndose en Los Ángeles, California, Charles y Ray Eames comenzaron una carrera sobresaliente en diseño y arquitectura.
 
-## La Casa de Eames
+## **La Casa de Eames**
 
 Se les pidió a Charles y Ray que participaran en el Case Study House Program, un programa de vivienda patrocinado por la revista Arts & Architecture con la esperanza de mostrar ejemplos de hogares modernos con precios económicos que utilizaban materiales industriales y de guerra.
 
@@ -65,11 +78,11 @@ La oficina de Eames diseñó algunas piezas arquitectónicas más, muchas de las
 
 Los proyectos no construidos incluyen la Casa Billy Wilder, la casa de kit prefabricada conocida como la Casa Kwikset y un acuario nacional.
 
-## La Oficina de Eames
+## **La Oficina de Eames**
 
 El proceso de diseño entre Ray y Charles fue muy colaborativo. Esta entrada se refiere a una muestra de los trabajos realizados por Ray.
 
-### Diseño Gráfico
+### **Diseño Gráfico**
 
 Las ilustraciones gráficas y comerciales de los proyectos de Eames Office se pueden atribuir en gran medida a Ray. Además de Charles y la oficina de Eames, diseñó veintisiete diseños de portada para la revista Arts & Architecture de 1942 a 1948. También contribuyó a los anuncios de muebles de Eames para Herman Miller (desde 1948).
 
@@ -77,7 +90,7 @@ Ray Eames tenía sentido para la forma y el color y es en gran parte responsable
 
 Ray Eames no hizo dibujos, pero ella documentó y realizó un seguimiento de todo lo que se trabajó en la oficina de Eames . Ella documentó y protegió la enorme colección de fotografías que la oficina acumuló a lo largo de los años.
 
-### Diseño Textil
+### **Diseño Textil**
 
 En 1947, Eames creó varios diseños textiles, dos de los cuales, "Crosspatch" y "Sea Things", fueron producidos por Schiffer Prints, una compañía que también produjo textiles por Salvador Dalí y Frank Lloyd Wright.
 
@@ -87,7 +100,7 @@ Trabajó en gráficos para publicidad, portadas de revistas, carteles, líneas d
 
 Los textiles Ray Eames han sido reeditados por Maharam como parte de su colección "Textiles del siglo XX".
 
-### Diseño de Madera Contrachapado
+### **Diseño de Madera Contrachapado**
 
 Entre 1943 y 1978, la Oficina de Eames produjo numerosos diseños de muebles que entraron en producción comercial, muchos de los cuales utilizaron madera contrachapada. La primera de las piezas de madera contrachapada de los Eames fue una férula hecha para la Marina de los EE. UU.
 
@@ -99,7 +112,7 @@ La Marina encargó a los Eameses que produjeran en masa 150,000 unidades de su d
 
 La férula de financiación permitió a Charles y Ray expandir su producción y experimentación para crear muebles con madera contrachapada.
 
-## Años Posteriores
+## **Años Posteriores**
 
 La productividad de la oficina de Eames disminuyó después de la muerte de [Charles Eames](https://ciberninjas.com/wiki/charles-eames/) en agosto de 1978. Ray Eames trabajó en varios proyectos inacabados (por ejemplo, una versión alemana de la exposición de Mathematica), fue consultor de IBM , publicó libros, dio conferencias, aceptó premios y administró El archivo y la finca Eames.
 
@@ -111,7 +124,7 @@ n los años previos a su muerte, Ray fue anfitriona de grupos de estudiantes vis
 
 Ray Eames murió en el Hospital Cedars Sinai , Los Ángeles , California , el 21 de agosto de 1988, diez años después del día posterior a Charles. Están enterrados uno al lado del otro en el cementerio del Calvario en St. Louis. La oficina cerró completamente después de la muerte de Ray.
 
-### Legado
+### **Legado**
 
 En celebración de lo que habría sido el cumpleaños número 100 de Ray, Vitra renombró una calle en su campus de Basilea "Ray-Eames-Strasse 1" en su honor.
 
@@ -119,13 +132,13 @@ El 23 de febrero de 2013 se inauguró en el Museo de Sacramento, California , un
 
 La exposición tuvo una duración de un año y contó con el trabajo producido por Ray antes de conocer a Charles en 1941, además del trabajo de The Eames Office.
 
-## Filosofía
+## **Filosofía de Charles Eames**
 
 "Cualquier cosa que pueda hacer, Ray puede hacerlo mejor". - [Charles Eames](https://ciberninjas.com/wiki/charles-eames/)
 
 "Nunca dejé de pintar, solo cambié mi paleta". - Ray Eames
 
-## Fotografías de Muebles
+## **Fotografías de Muebles diseñados por Charles Eames**
 
 ![Anuncio del periódico Herman Miller de 1961, el Eames DCM se celebró con tan alta estima que creyeron que sería el único diseño que aún sería famoso cien años después. ¡Casi ya hemos llegado y siguen siendo famosas!, visto en Ciberninjas](/assets/img/wiki/fotografias/eames-sillas.webp "Anuncio del periódico Herman Miller de 1961, el Eames DCM se celebró con tan alta estima que creyeron que sería el único diseño que aún sería famoso cien años después. ¡Casi ya hemos llegado y siguen siendo famosas!, visto en Ciberninjas")
 

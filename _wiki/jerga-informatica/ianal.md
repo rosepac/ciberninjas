@@ -29,7 +29,7 @@ Existe una abreviatura relacionada, TINLA, que significa "Esto no es asesoramien
 Muchas jurisdicciones tienen restricciones legales para ofrecer consejos legales, o ejercer como abogado sin calificaciones legales y registro oficial. La prestación de asesoramiento legal por parte de una persona que no tiene licencia para hacerlo puede ser la base de una práctica legal no autorizada.
 
 <!-- [Jargon File](https://en.wikipedia.org/wiki/Jargon_File) , un glosario de jerga de programadores -->
-## Origen y Uso
+## **Origen y Usodel Término IANAL**
 
 El término parece estar inspirado en un comercial de la década de 1980 para el jarabe para la tos Vicks Formula 44, en el que dos portavoces lanzaron sucesivamente el medicamento de venta libre con la frase: "No soy médico, pero juego a serlo en la televisión". Los autores fueron los actores de telenovelas Chris Robinson (quien interpretó al Dr. Rick Webber en el Hospital General) y Peter Bergman (quien interpretó al Dr. Cliff Warner en All My Children). La transferencia de médico a abogado es un ejemplo de una plantilla de cliché. 
 

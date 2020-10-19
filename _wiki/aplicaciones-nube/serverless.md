@@ -31,22 +31,22 @@ El código sin servidor se puede usar junto con el código implementado en estil
 
 Esto no debe confundirse con modelos informáticos o de redes que no requieren un servidor real para funcionar, como peer-to-peer (P2P).
 
-- [Tiempos de ejecución sin servidor](#tiempos-de-ejecución-sin-servidor)
-- [Bases de datos sin servidor](#bases-de-datos-sin-servidor)
-- [Las ventajas de la computación sin servidor](#las-ventajas-de-la-computación-sin-servidor)
-  - [El Costo](#el-costo)
-  - [Elasticidad versus escalabilidad](#elasticidad-versus-escalabilidad)
-  - [La Productividad](#la-productividad)
-- [Las desventajas de la computación sin servidor](#las-desventajas-de-la-computación-sin-servidor)
-  - [El rendimiento](#el-rendimiento)
-  - [La limitación de recursos](#la-limitación-de-recursos)
-  - [La necesidad de supervisión y depuración](#la-necesidad-de-supervisión-y-depuración)
-  - [La seguridad](#la-seguridad)
-  - [La privacidad](#la-privacidad)
-  - [Estándares](#estándares)
-  - [El bloqueo al vendedor](#el-bloqueo-al-vendedor)
+- [**Tiempos de ejecución sin servidor**](#tiempos-de-ejecución-sin-servidor)
+- [**Bases de datos sin servidor**](#bases-de-datos-sin-servidor)
+- [**Las ventajas de la computación sin servidor**](#las-ventajas-de-la-computación-sin-servidor)
+  - [**El Costo de la Computación sin Servidor**](#el-costo-de-la-computación-sin-servidor)
+  - [**Elasticidad versus Escalabilidad**](#elasticidad-versus-escalabilidad)
+  - [**La Productividad de la Computación sin Servidor**](#la-productividad-de-la-computación-sin-servidor)
+- [**Las desventajas de la Computación sin Servidor**](#las-desventajas-de-la-computación-sin-servidor)
+  - [**El rendimiento**](#el-rendimiento)
+  - [**La limitación de recursos**](#la-limitación-de-recursos)
+  - [**La necesidad de supervisión y depuración**](#la-necesidad-de-supervisión-y-depuración)
+  - [**La seguridad**](#la-seguridad)
+  - [**La privacidad**](#la-privacidad)
+  - [**Estándares**](#estándares)
+  - [**El bloqueo al vendedor**](#el-bloqueo-al-vendedor)
 
-## Tiempos de ejecución sin servidor
+## **Tiempos de ejecución sin servidor**
 
 La mayoría, pero no todos, los proveedores sin servidor ofrecen tiempos de ejecución de cómputo, también conocidos como plataformas de función como servicio (FaaS), que ejecutan la lógica de la aplicación pero no almacenan datos.
 
@@ -68,7 +68,7 @@ IBM ofrece IBM Cloud Functions en el IBM Cloud público desde 2016.
 
 Microsoft Azure ofrece Azure Functions, que se ofrecen tanto en la nube pública de Azure como en las instalaciones a través de Azure Stack. 
 
-## Bases de datos sin servidor 
+## **Bases de datos sin servidor**
 
 En los últimos años han surgido varias bases de datos sin servidor . Estos sistemas extienden el modelo de ejecución sin servidor al RDBMS , eliminando la necesidad de aprovisionar o escalar hardware de base de datos virtual o físico.
 
@@ -82,13 +82,13 @@ Azure Data Lake Analytics proporciona una infraestructura distribuida que puede 
 
 Firebase, también propiedad de Google, incluye una base de datos jerárquica y está disponible a través de planes fijos y de pago por uso.
 
-## Las ventajas de la computación sin servidor
+## **Las ventajas de la computación sin servidor**
 
 LAs mayores ventajas de la computación sin servidor, son: La reducción de costos, la ganancia de elasticidad contra la posibilidad de escalar y el aumento de la productividad.
 
-### El Costo
+### **El Costo de la Computación sin Servidor**
 
-La computación sin servidor puede ser más rentable que alquilar o comprar una cantidad fija de servidores, que generalmente implica períodos significativos de subutilización o tiempo de inactividad. 
+La computación sin servidor puede ser más rentable que alquilar o comprar una cantidad fija de servidores, que generalmente implica períodos significativos de subutilización o tiempo de inactividad.
 
 Incluso puede ser más rentable que el aprovisionamiento de un grupo de autoescalado , debido al bin-empaquetado más eficiente de los recursos de la máquina subyacente.
 
@@ -96,7 +96,7 @@ Esto se puede describir como computación de pago por uso o código básico, ya 
 
 Los beneficios de costos inmediatos están relacionados con la falta de costos de sistemas operativos, que incluyen: licencias, instalación, dependencias, mantenimiento, soporte y parches.
 
-### Elasticidad versus escalabilidad 
+### **Elasticidad versus Escalabilidad**
 
 Una arquitectura sin servidor significa que los desarrolladores y operadores no necesitan perder tiempo configurando y ajustando políticas o sistemas de autoescalado; el proveedor de la nube es responsable de escalar la capacidad a la demanda.
 
@@ -106,17 +106,17 @@ Dado que los sistemas nativos de la nube se escalan tanto hacia abajo como hacia
 
 Los pequeños equipos de desarrolladores pueden ejecutar el código por sí mismos sin depender de equipos de ingenieros de infraestructura y soporte; más desarrolladores se están volviendo expertos en DevOps y las distinciones entre ser un desarrollador de software o un ingeniero de hardware se están difuminando.
 
-### La Productividad
+### **La Productividad de la Computación sin Servidor**
 
 Con la función como servicio , las unidades de código expuestas al mundo exterior son funciones simples impulsadas por eventos . Esto significa que, por lo general, el programador no tiene que preocuparse por el multiproceso o el manejo directo de las solicitudes HTTP en su código, lo que simplifica la tarea de desarrollo de software de back-end.
 
-## Las desventajas de la computación sin servidor
+## **Las desventajas de la Computación sin Servidor**
 
 Entre las posibles desventajas de la computación sin servidor se encuentran, un posible peor rendimiento, una limitación de recursos, la necesidad de supervisión y depuración.
 
 Además como otros aspectos preocupantes podemos encontrar, la preocupación de la seguridad y la privacidad. Los estándares. O el posible bloqueo al vendedor.
 
-### El rendimiento
+### **El rendimiento**
 
 El código sin servidor que se utiliza con poca frecuencia puede sufrir una mayor latencia de respuesta que el código que se ejecuta continuamente en un servidor dedicado, máquina virtual o contenedor.
 
@@ -124,17 +124,17 @@ Esto se debe a que, a diferencia del ajuste de escala automático, el proveedor 
 
 Esto significa que si el tiempo de ejecución (por ejemplo, el tiempo de ejecución de Java ) requiere una cantidad significativa de tiempo para iniciarse, creará una latencia adicional.
 
-### La limitación de recursos
+### **La limitación de recursos**
 
 La computación sin servidor no es adecuada para algunas cargas de trabajo de computación, como la computación de alto rendimiento, debido a los límites de recursos impuestos por los proveedores de la nube y también porque probablemente sería más barato aprovisionar en masa la cantidad de servidores que se cree que se requieren en cualquier momento dado.
 
-### La necesidad de supervisión y depuración
+### **La necesidad de supervisión y depuración**
 
 El diagnóstico de problemas de rendimiento o uso excesivo de recursos con código sin servidor puede ser más difícil que con el código de servidor tradicional, porque aunque las funciones completas se pueden cronometrar, normalmente no hay capacidad para profundizar en más detalles adjuntando perfiladores , depuradores o herramientas APM.
 
 Además, el entorno en el que se ejecuta el código no suele ser de código abierto , por lo que sus características de rendimiento no se pueden replicar con precisión en un entorno local.
 
-### La seguridad
+### **La seguridad**
 
 La tecnología sin servidor a veces se considera erróneamente más segura que las arquitecturas tradicionales.
 
@@ -152,7 +152,7 @@ Cree equipos multifuncionales y trabaje para lograr una estrecha integración en
 
 Colabore para que su organización pueda resolver los riesgos de seguridad a la velocidad de la tecnología sin servidor ".
 
-### La privacidad
+### **La privacidad**
 
 Muchos entornos de funciones sin servidor se basan en entornos de nube pública patentados. Aquí, se deben considerar algunas implicaciones de privacidad, como los recursos compartidos y el acceso de empleados externos.
 
@@ -160,7 +160,7 @@ Sin embargo, la informática sin servidor también se puede realizar en un entor
 
 Esto brinda a las empresas un control total sobre los mecanismos de privacidad, al igual que con el alojamiento en las configuraciones de servidor tradicionales.
 
-### Estándares
+### **Estándares**
 
 La informática sin servidor está cubierta por la International Data Center Authority (IDCA) en su marco AE360.
 
@@ -168,7 +168,7 @@ Sin embargo, la parte relacionada con la portabilidad puede ser un problema al m
 
 Cloud Native Computing Foundation (CNCF) también está trabajando en el desarrollo de una especificación con Oracle.
 
-### El bloqueo al vendedor
+### **El bloqueo al vendedor**
 
 La informática sin servidor se proporciona como un servicio de terceros.
 

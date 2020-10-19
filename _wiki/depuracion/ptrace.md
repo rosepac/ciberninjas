@@ -17,7 +17,15 @@ img: /assets/img/wiki/articulos/wiki-ptrace.webp
 
 Ptrace es una llamada al sistema que se encuentra en Unix y en varios sistemas operativos similares a Unix . Al usar ptrace (el nombre es una abreviatura de "traza de proceso") un proceso puede controlar a otro, permitiendo que el controlador inspeccione y manipule el estado interno de su objetivo. Los depuradores y otras herramientas de análisis de código utilizan ptrace , principalmente como ayuda para el desarrollo de software.
 
-## Usos
+- [**Usos de PTrace**](#usos-de-ptrace)
+- [**Limitaciones de PTrace**](#limitaciones-de-ptrace)
+- [**Sistemas Operativos que Soportan PTrace**](#sistemas-operativos-que-soportan-ptrace)
+  - [**Unix y BSD**](#unix-y-bsd)
+  - [**MacOS**](#macos)
+  - [**Linux**](#linux)
+  - [**Android**](#android)
+
+## **Usos de PTrace**
 
 Ptrace es utilizado por los depuradores (como gdb y dbx), mediante herramientas de rastreo como strace y ltrace, y mediante herramientas de cobertura de código.
 
@@ -31,7 +39,7 @@ Como la capacidad de inspeccionar y alterar otro proceso es muy poderosa, ptrace
 
 En los sistemas Linux que cuentan con seguridad basada en capacidades , la capacidad de trazar está aún más limitada por la capacidad CAP_SYS_PTRACE o por el módulo de seguridad YAMA Linux. En FreeBSD, está limitado por las cárceles de FreeBSD y las políticas de control de acceso obligatorio.
 
-## Limitaciones
+## **Limitaciones de PTrace**
 
 Las comunicaciones entre el controlador y el objetivo se realizan utilizando llamadas repetidas de ptrace, pasando un pequeño bloque de memoria de tamaño fijo entre los dos (se necesitan dos cambios de contexto por llamada); Esto es extremadamente ineficiente cuando se accede a grandes cantidades de memoria del objetivo, ya que esto solo se puede hacer en bloques de tamaño de palabra (con una llamada de seguimiento para cada palabra).
 
@@ -43,9 +51,9 @@ Ptrace solo proporciona la interfaz más básica necesaria para admitir depurado
 
 Además, los programas que inyectan código ejecutable en el proceso de destino o (como gdb) permiten al usuario ingresar comandos que se ejecutan en el contexto del destino deben generar y cargar ese código por sí mismos, generalmente sin la ayuda del cargador de programas.
 
-## Soporte
+## **Sistemas Operativos que Soportan PTrace**
 
-### Unix y BSD
+### **Unix y BSD**
 
 Ptrace  se implementó por primera vez en la Versión 6 de Unix, y estuvo presente en las ramas SVr4 y 4.3BSD de Unix. Ptrace está disponible como una llamada al sistema en IRIX, IBM AIX, NetBSD, FreeBSD, OpenBSD, y Linux.
 
@@ -53,13 +61,13 @@ Ptrace se implementa como una llamada a la biblioteca en Solaris, construida en 
 
 HP-UX admitió ptrace hasta la versión 11i v3 (se desaprobó a favor de ttrace , una llamada similar específica del sistema operativo, en 11i v1).
 
-### MacOS
+### **MacOS**
 
 De Apple Mac OS X también implementa PTRACE como una llamada al sistema. La versión de Apple agrega una opción especial PT_DENY_ATTACH: si un proceso invoca esta opción en sí mismo, los intentos posteriores de seguir el proceso fallarán.
 
 Apple usa esta función para limitar el uso de depuradores en programas que manipulan contenido DRM , incluido iTunes. PT_DENY_ATTACH en también deshabilita la capacidad de DTrace para monitorear el proceso. Los depuradores en OS X generalmente usan una combinación de ptrace y Mach VM y API de hilo. Ptrace (nuevamente con PT_DENY_ATTACH) está disponible para desarrolladores para el iPhone de Apple.
 
-### Linux
+### **Linux**
 
 Linux también brinda a los procesos la capacidad de evitar que otros procesos se unan a ellos. Los procesos pueden llamar a prctl syscall y borrar su indicador PR_SET_DUMPABLE ; en núcleos posteriores, esto evita que los procesos que no son de raíz tracen el proceso de llamada.
 
@@ -67,7 +75,7 @@ El agente de autenticación OpenSSH utiliza este mecanismo para evitar el secues
 
 El control de esta función se realiza a través de la configuración / proc / sys / kernel / yama / ptrace_scope. En los sistemas donde esta función está habilitada, los comandos como " gdb --attach " y " strace -p " no funcionarán.
 
-### Android
+### **Android**
 
 Para algunos teléfonos Android con un cargador de arranque bloqueado, ptrace se usa para obtener control sobre el proceso de inicio para habilitar un 'segundo arranque' y reemplazar los archivos del sistema.
 

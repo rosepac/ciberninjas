@@ -26,11 +26,16 @@ La misión del grupo es crear una comunidad diversa de Python a través de activ
 
 PyLadies también proporciona fondos para que las mujeres asistan a conferencias de código abierto. El objetivo de PyLadies es aumentar la participación de las mujeres en la informática. PyLadies se convirtió en una organización de varias de egaciones tras la fundación de la delegación de Washington DC en Agosto de 2011. El grupo cuenta actualmente con [más de 100 delegaciones](/wiki/pyladies/#enlaces-externos "Más de 100 delegaciones de PyLadies que existen a lo largo de todo el mundo") en todo el mundo. 
 
-## Historia
+- [**Historia de PyLadies**](#historia-de-pyladies)
+- [**Sobre de PyLadies**](#sobre-de-pyladies)
+- [Galería](#galería)
+- [**Enlaces Externos de PyLadies**](#enlaces-externos-de-pyladies)
+
+## **Historia de PyLadies**
 
 La organización fue creada en Los Ángeles en abril de 2011 por siete mujeres: Audrey Roy Greenfeld, Christine Cheung, Esther Nam, Jessica Stanton, Katharine Jarmul, Sandy Strong y Sophia Viklund. Alrededor de 2012, la organización finalmente solicito el estado de organización sin fines de lucro.
 
-## Sobre
+## **Sobre de PyLadies**
 
 PyLadies ha llevado a cabo eventos de divulgación para principiantes y usuari@s experimentad@s, además de realizar numerosos hackatones, noches sociales y talleres para entusiastas de Python.
 
@@ -38,9 +43,9 @@ Cada delegación es libre de organizarse como lo desee, siempre y cuando se cent
 
 ## Galería
 
-🚧
+🚧 PENDIENTE DE CONSTRUCCIÓN 🚧
 
-## Enlaces Externos
+## **Enlaces Externos de PyLadies**
 
 * [Página Web Oficial PyLadies](https://www.pyladies.com){:target="_blank" rel="nofollow,noreferrer"}
 * [Localización de las Delegaciones](https://www.pyladies.com/locations/){:target="_blank" rel="nofollow,noreferrer"}

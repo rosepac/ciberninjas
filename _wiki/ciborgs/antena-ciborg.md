@@ -23,7 +23,11 @@ La antena usa vibraciones audibles en el cráneo para reportar información. Est
 
 La antena habilitada para Wi-Fi también permite la recepción de señales y datos de satélites.
 
-## Historia
+- [**Historia de la Antena Cíborg**](#historia-de-la-antena-cíborg)
+- [**Escalas de Color a Sonido**](#escalas-de-color-a-sonido)
+- [**Colaboraciones del Proyecto**](#colaboraciones-del-proyecto)
+
+## **Historia de la Antena Cíborg**
 
 La primera antena fue creada en Inglaterra en 2003 por Neil Harbisson. La invención, bajo el título Proyecto Bridging the Island of the Colourblind , ganó un premio británico en innovación (Submerge 2004) y un premio europeo en herramientas de contenido y diseño de interfaz ( Europrix 2004).
 
@@ -33,13 +37,13 @@ En 2009, Matias Lizana, una estudiante deLa Universitat Politècnica de Cataluny
 
 El chip permite a los usuarios tener la antena implantada y escuchar colores más allá de los límites de la percepción humana como el infrarrojo y el ultravioleta.
 
-## Escalas de Color a Sonido
+## **Escalas de Color a Sonido**
 
 La Escala de Música Sonocromática de Harbisson (2003) es una escala microtonal y logarítmica con 360 notas en una octava. Cada nota corresponde a un grado específico de la rueda de colores . La escala se introdujo en la primera antena en 2004.
 
 La Escala Sonocromática Pura de Harbisson (2005) es una escala no logarítmica basada en la transposición de frecuencias de luz a frecuencias de sonido. La escala descarta el color como parte de una rueda de colores e ignora la percepción musical / logarítmica, por lo que puede sobrepasar los límites de la percepción humana. La introducción de la nueva escala al eyeborg en 2010, permite a los usuarios decidir si quieren percibir los colores de forma logarítmica o no.
 
-## Colaboraciones
+## **Colaboraciones del Proyecto**
 
 Desde 2005, se han donado antenas a las comunidades ciegas de Europa, Asia y América con el objetivo de ayudar a los ciegos a desarrollar el sentido del color. La primera persona ciega en probar un eyeborg fue Sabriye Tenberken, seguida por estudiantes ciegos de Braille Sin Fronteras en el Tíbet y miembros de la Sociedad de Ciegos de Pichincha en Ecuador.
 

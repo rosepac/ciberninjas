@@ -22,7 +22,17 @@ img: /assets/img/wiki/articulos/wiki-luxcorerender.webp
 
 LuxCoreRender es un software de renderización 3D de código abierto y libre. LuxRender comenzó bajo la denominaciónde LuxRender en 2008 antes de cambiar su nombre a LuxCoreRender en 2017 como parte de un reinicio del proyecto. El software LuxCoreRender puede instalarse sobre Linux, Mac OS X y Microsoft Windows.
 
-## Descripción General
+- [**Descripción General de LuxCoreRender**](#descripción-general-de-luxcorerender)
+- [**Historia de LuxCoreRender**](#historia-de-luxcorerender)
+  - [**LuxRender: Versión 1**](#luxrender-versión-1)
+  - [**LuxCoreRender: Versión 2**](#luxcorerender-versión-2)
+  - [**¿Por qué el proyecto de Lux Core Render Versión 2?**](#por-qué-el-proyecto-de-lux-core-render-versión-2)
+- [**Características de Lux Render Core**](#características-de-lux-render-core)
+  - [**LuxCoreRender 2.0**](#luxcorerender-20)
+  - [**LuxRender 1.0**](#luxrender-10)
+  - [**LuxRender 0.8**](#luxrender-08)
+
+## **Descripción General de LuxCoreRender**
 
 LuxCoreRender presenta un sistema completo de renderización 3D basado en otros programas de modelado 3D de creación de escenas renderizadas, incluidos los modelos, los materiales, las luces y las cámaras. Este contenido se puede exportar desde la aplicación para su representación.
 
@@ -32,9 +42,9 @@ Luxrender también es totalmente compatible como renderizador de producción en 
 
 Se pueden configurar varios ajustes para la configuración del procesamiento posterior a través de la interfaz gráfica de usuario y el archivo de control de la escena. Una característica importante de LuxCoreRender es que el usuario puede cambiar el equilibrio de diferentes luces mientras la imagen aún se está procesando.
 
-## Historia
+## **Historia de LuxCoreRender**
 
-### LuxRender: Versión 1
+### **LuxRender: Versión 1**
 
 LuxCoreRender comenzó originalmente como LuxRender en 2008 basado en PBRT, un programa de representación basada en la física. Aunque PBRT es muy capaz y está bien estructurado, se centra en el uso académico y los artistas digitales no lo pueden utilizar fácilmente.
 
@@ -44,7 +54,7 @@ En sus inicios, en septiembre de 2007, un pequeño grupo de programadores comenz
 
 El 24 de junio de 2008, se anunció el primer lanzamiento oficial, y esa fue la primera versión que se considero utilizable por el público en general.
 
-### LuxCoreRender: Versión 2
+### **LuxCoreRender: Versión 2**
 
 El plan para LuxRender v2.0 se definió durante el verano de 2013 y uno de los componentes principales es un nuevo motor basado en las API de C++ y Python. La antigua API de C sufría muchas limitaciones cuando se trataba de características modernas como la edición dinámica de escenas y la representación interactiva, por lo que se decidió escribir una API completamente nueva en lugar de mejorar la anterior.
 
@@ -52,17 +62,17 @@ LuxCore es el nombre de la nueva API de C++ / Python y ofrece todas las caracter
 
 Durante el invierno de 2017, LuxCoreRender v2.0 se definió como un paquete de render centrado en la API LuxCore, eliminando cualquier código antiguo relacionado con LuxRender v1.x. Se desarrolló un nuevo sitio web, foro, wiki, exportación a Blender, etc. marcando un reinicio por completo del proyecto.
 
-### ¿Por qué el proyecto de Lux Core Render Versión 2?
+### **¿Por qué el proyecto de Lux Core Render Versión 2?**
 
 El proyecto LuxRender se estaba muriendo bajo el peso de muchos viejos códigos abandonados, y todos los desarrolladores activos tenían la fuerte sensación de que se requería un nuevo comienzo. El "núcleo" entre "Lux" y "Render" está ahí para resaltar el nuevo enfoque del proyecto.
 
 Sin embargo, la versión 2.0 comienza con el enfoque de la continuidad, y una hoja de ruta pautada por 10 años de desarrollo y experiencia.
 
-## Características de Lux Render Core
+## **Características de Lux Render Core**
 
 En este apartado vamos a citar todas las características que el software ha ido implementando a lo largo de sus diferentes versiones.
 
-### LuxCoreRender 2.0
+### **LuxCoreRender 2.0**
 
 Las características incluidas en el proyecto de reinicio de la versión más actual LuxCoreRender 2.0+ incluyen:
 
@@ -79,7 +89,7 @@ Las características incluidas en el proyecto de reinicio de la versión más ac
 - Soporte para unidades de luz con base física como lumen y candela, así como controles de ganancia y exposición tradicionales.
 - Soporte para subdivisión de formas, formas de desplazamiento y desplazamiento vectorial de formas de desplazamiento.
 
-### LuxRender 1.0
+### **LuxRender 1.0**
 
 Las nuevas características incluidas en Luxrender 1.0 incluyen:
 
@@ -88,7 +98,7 @@ Las nuevas características incluidas en Luxrender 1.0 incluyen:
 - Soporte para múltiples GPU.
 - Materiales nuevos y actualizados, incluidos metal, pintura para automóviles, revestimiento brillante y materiales en capas.
 
-### LuxRender 0.8
+### **LuxRender 0.8**
 
 Las características principales de LuxRender a partir de la versión 0.8 incluyen:
 

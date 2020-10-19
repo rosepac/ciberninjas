@@ -27,6 +27,11 @@ En los diferentes servidores (instancias) los usuarios pueden crear las llamadas
 
 Como identidad en el Fediverso o Fediverso, los usuarios pueden publicar texto y otros medios o seguir las publicaciones de otras identidades. En algunos casos, los usuarios, pueden incluso mostrar o compartir datos (videos, audios, texto y otros archivos) públicamente o en un grupo seleccionado de identidades y permitir que otras identidades editen los datos de otros usuarios (como un calendario o un libro).
 
+- [**La Historia del Fediverso**](#la-historia-del-fediverso)
+- [**Protocolos de comunicación utilizados en el Fediverso**](#protocolos-de-comunicación-utilizados-en-el-fediverso)
+- [**Plataformas de software del Fediverso**](#plataformas-de-software-del-fediverso)
+- [**Difusión real del Fediverso en la actualidad**](#difusión-real-del-fediverso-en-la-actualidad)
+
 ## **La Historia del Fediverso**
 
 En 2008, la red social identi.ca fue fundada por Evan Prodromou; que publicó el software bajo una licencia libre GNU (GNU Affero General Public License , AGPL). Además del servidor, identi.ca, solo hubo algunas otras instancias, administradas por personas para su propio uso.
