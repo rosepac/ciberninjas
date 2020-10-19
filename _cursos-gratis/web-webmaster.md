@@ -73,7 +73,17 @@ Para convertirte en un auténtico webmaster, puede resultarle útil inscribirse 
 Aprende a mejorar el rendimiento de tu sitio web aprendiendo de los mejores tutoriales del mundo en español, además de poder aprender otras habilidades que te serán útiles a la hora de gestionar, crear e impulsar tu página web.
 <!-- Agregar el contenido de aquí, a la página web: https://hackr.io/es/tutorials/learn-website-performance?q=web -->
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+
+- [**Cursos Gratis de Rendimiento Web / Webmaster**](#cursos-gratis-de-rendimiento-web--webmaster)
+- [**¿Qué es el rendimiento de un sitio web?**](#qué-es-el-rendimiento-de-un-sitio-web)
+- [**¿Qué es una buena velocidad de un sitio web?**](#qué-es-una-buena-velocidad-de-un-sitio-web)
+- [**¿Por qué algunos sitios que aparecen en Google son tan lentos?**](#por-qué-algunos-sitios-que-aparecen-en-google-son-tan-lentos)
+- [**¿Cómo puedo solucionar los problemas de un sitio web lento?**](#cómo-puedo-solucionar-los-problemas-de-un-sitio-web-lento)
+- [**¿Cómo puedo comprobar el rendimiento de mi sitio web?**](#cómo-puedo-comprobar-el-rendimiento-de-mi-sitio-web)
+- [**¿Cómo puedo aumentar la velocidad de mi conexión de Internet?**](#cómo-puedo-aumentar-la-velocidad-de-mi-conexión-de-internet)
+- [**¿Por qué un sitio web es lento?**](#por-qué-un-sitio-web-es-lento)
+- [**Saber Más Sobre los cursos para webmaster**](#saber-más-sobre-los-cursos-para-webmaster)
 
 ## **Cursos Gratis de Rendimiento Web / Webmaster**
 
@@ -104,7 +114,126 @@ Aprende a mejorar el rendimiento de tu sitio web aprendiendo de los mejores tuto
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
-### **Saber Más Sobre los cursos para webmaster**
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es el rendimiento de un sitio web?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El rendimiento web es el término que se utiliza para determinar la velocidad de carga de un sitio web."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es una buena velocidad de un sitio web?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A partir de medio segundo o menos, es una buena velocidad de carga. Ahora bien, si tu sitio web se carga en dos segundos, se considera que puede ser una buena velocidad, para la mayoría de los sitios web de comercio electrónico."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Por qué algunos sitios que aparecen en Google son tan lentos?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen amplios parámetros que se reflejan en la velocidad de carga de una página web: La optimización de las imágenes, el abuso del contenido en flash, las solicitudes al servidor excesivas, el mal uso de las técnicas de almacenamiento en caché, el abuso de los anuncios publicitarios o un mal alojamiento."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo puedo solucionar los problemas de un sitio web lento?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Habilita el almacenamiento en caché, elimina complementos y la carga de archivos innecesarios, minimiza el código, optimiza el tamaño y formato de las imágenes, usa CDN."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo puedo comprobar el rendimiento de mi sitio web?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen varios sitios en línea que te permiten verificar la velocidad de su sitio web. Por ejemplo: PageSpeed Insights, WebPageTest, GTmetrix o Cloudflare."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo puedo aumentar la velocidad de mi conexión de Internet?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen varios factores que puedes revisar, por si están afectando tu conexión web, como por ejemplo: La existencia de virus, la actualización del firmware, una configuración de ISP correcta, o revisar tus dispositivos y configuración del Wifi . Aunque la mejora real, exclusivamente vendrá de la contratación de una conexión de Internet mejor."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Por qué un sitio web es lento?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen varias razones que ralentizan una página web: El renderizado de Javascript, la no utilización de CDN, la sobrecarga de las bases de datos, la no utilización de caché, abuso de scripts, e imágenes incorrectamente cargadas."
+    }
+  }]
+}
+</script>
+
+## **¿Qué es el rendimiento de un sitio web?**
+
+El rendimiento web es el término que se utiliza para la velocidad web. Se refiere a la velocidad que toma la página, imagen o archivo para cargarse, lo que mantiene la experiencia del usuario. Cualquier sitio web debe mantener una buena velocidad para seguir interactuando con los usuarios o sus clientes diarios. Significa hacer que su sitio web sea más interactivo y con un rendimiento percibido. Muchas funciones pueden afectar la velocidad de su sitio web.
+
+## **¿Qué es una buena velocidad de un sitio web?**
+
+Si su sitio web se carga en dos segundos, se considera que tiene una buena velocidad para la mayoría de los sitios web de comercio electrónico. Pero en el caso de Google, este valor de umbral es menos de medio segundo. La velocidad rápida es muy importante para una excelente experiencia de usuario y para mantener intactos a sus clientes.
+
+## **¿Por qué algunos sitios que aparecen en Google son tan lentos?**
+
+La velocidad de cargar de una página a la hora de ser indexada por Google, a veces puede relentizarse por muchas razones. Existen muchas posibles razones que afecten esa velocidad de carga. Algunas de las razones se mencionan a continuación:
+
+1. Imágenes no optimizadas.
+1. Alto contenido de flash.
+1. Solicitudes excesivas al mismo tiempo.
+1. Pobres técnicas de almacenamiento en caché.
+1. Mostrando demasiados anuncios.
+1. Mal servicio de alojamiento.
+
+## **¿Cómo puedo solucionar los problemas de un sitio web lento?**
+
+Si desea que su sitio web se clasifique mejor a través de Google, debes trabajar en la velocidad del sitio web. Es bueno para mejorar la experiencia del usuario.
+
+A continuación tienes diferentes posibles soluciones que te ayuden a aumentar la velocidad de tu sitio web:
+
+1. Habilite la técnica de almacenamiento en caché adecuada.
+1. Utilice la técnica adecuada para manejar múltiples solicitudes.
+1. Elimine los complementos innecesarios y los complementos que acaparan los recursos.
+1. Optimiza los tamaños de las imágenes.
+1. Minimiza el código.
+1. Utilice los servicios de CDN adecuados.
+
+## **¿Cómo puedo comprobar el rendimiento de mi sitio web?**
+
+Existen varios sitios en línea que te permiten verificar la velocidad de su sitio web o la página. Estos sitios no solo muestran el rendimiento de tu sitio web, sino que también te dicen que puedes o consideran importante de mejorar en él.
+
+Por ejemplo:  PageSpeed Insights, WebPageTest, GTmetrix, CloudFlare y muchos más.
+
+## **¿Cómo puedo aumentar la velocidad de mi conexión de Internet?**
+
+Hay muchas formas en las que puede aumentar la velocidad de Internet:
+
+1. Busque virus.
+1. Compruebe si hay interferencias externas y en el sistema.
+1. Acorta tus cables.
+1. Actualice el firmware.
+1. Establezca la configuración del ISP correctamente.
+1. Verifique los complementos de wifi.
+
+## **¿Por qué un sitio web es lento?**
+
+A continuación se muestran algunas de las razones de la lentitud de un sitio web:
+
+1. Javascript que bloquea el renderizado.
+1. No utiliza el servicio CDN.
+1. Sobrecarga de la base de datos.
+1. El sitio no está optimizado para CSS.
+1. Técnica de caché incorrecta.
+1. Archivos o imágenes de gran tamaño.
+1. El código o los scripts deficientes hacen que los sitios web sean lentos.
+1. Complementos pesados.
+
+## **Saber Más Sobre los cursos para webmaster**
 
 En líneas generales no son cursos demasiados largos, y para realizar la gran mayoría ellos, tardarás como mucho dos semanas. Aparte de lo que puedas encontrar aquí, un webmaster siempre debe beber tener conocimientos casi en todo, por lo que no estará de más que puedas formarte respecto al mundo del diseño, el seo, y más.
 
