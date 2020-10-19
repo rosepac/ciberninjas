@@ -15,6 +15,44 @@ feature-img: /assets/img/paginas/tecnologia-programando.webp
 img: /assets/img/paginas/cursos-tecnologia-cn.webp
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Programación</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-tecnologia/",
+     "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+   }
+  }
+ ]
+}
+</script>
+
 Más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
 <!-- Si eres nuevo/a en el mundo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/) por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/). -->
 <!-- https://digitaldefynd.com/best-udemy-courses/ -->
@@ -70,7 +108,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 - [**Cursos gratis de Sistemas de Gestión de Contenidos ✍**](#cursos-gratis-de-sistemas-de-gestión-de-contenidos-)
 - [**Cursos gratis de Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>**](#cursos-gratis-de-wordpress-i-classfa-fa-wordpress-aria-hiddentruei)
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ## Educación Global

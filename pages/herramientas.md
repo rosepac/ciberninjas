@@ -2,12 +2,12 @@
 
 layout: page
 hide: true
-title: "🌟 Mis Aplicaciones & Recursos Favoritos 🛠"
-description: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
-excerpt: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
+title: "🥇 ▷ Mis Aplicaciones & Recursos Favoritos"
+description: "Mis recursos, aplicaciones y programas Online Favoritos 🧰 La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
+excerpt: "Mis recursos, aplicaciones y programas Online Favoritos 🧰 La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 published: true
 comments: false
-date: 2019-07-17 08:07:47
+date: 2020-10-17 08:07:47
 last_modified_at: 2019-10-29T18:10:42-05:00
 permalink: /herramientas/
 canonical_URL: https://ciberninjas.com/herramientas/
