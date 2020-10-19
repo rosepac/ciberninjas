@@ -129,45 +129,44 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
   - [Go](#go)
   - [Haskell](#haskell)
 - [👨‍🎨 Diseño Web](#-diseño-web)
-- [Bootstrap](#bootstrap-1)
-- [Lenguajes de Estilos y Preprocesadores 🎨](#lenguajes-de-estilos-y-preprocesadores-)
-- [Lenguajes de Marcado ✍](#lenguajes-de-marcado-)
-- [Sistemas de Plantillas 🌱](#sistemas-de-plantillas-)
-- [HTML / CSS](#html--css)
-- [Java](#java)
-- [JavaScript](#javascript)
-  - [Angular](#angular)
-  - [D3.js](#d3js)
-  - [jQuery](#jquery)
-  - [Node](#node)
-  - [React](#react)
-- [Rust](#rust)
-- [Vue](#vue)
-- [.NET (C# / Visual Studio)](#net-c--visual-studio)
-- [**Libros y Apuntes de PHP**](#libros-y-apuntes-de-php)
-  - [Cake PHP](#cake-php)
-  - [Laravel](#laravel)
-- [Perl](#perl)
-- [Python](#python)
-- [Python Frameworks](#python-frameworks)
-  - [Django](#django)
-  - [Web2py](#web2py)
-- [Ruby](#ruby)
-  - [Ruby on Rails](#ruby-on-rails)
-- [R](#r)
-- [Scala](#scala)
-- [SVG](#svg)
-- [Swift](#swift)
-- [Tex & LaTeX](#tex--latex)
+- [**Libros Gratis de Bootstrap**](#libros-gratis-de-bootstrap)
+- [**Libros Gratis de Lenguajes de Estilos y Preprocesadores 🎨**](#libros-gratis-de-lenguajes-de-estilos-y-preprocesadores-)
+- [**Libros Gratis de Lenguajes de Marcado ✍**](#libros-gratis-de-lenguajes-de-marcado-)
+- [**Libros Gratis de HTML / CSS**](#libros-gratis-de-html--css)
+- [**Libros Gratis de Java**](#libros-gratis-de-java)
+- [**Libros Gratis de JavaScript**](#libros-gratis-de-javascript)
+  - [**Libros Gratis de Angular**](#libros-gratis-de-angular)
+  - [**Libros Gratis de D3.js**](#libros-gratis-de-d3js)
+  - [**Libros Gratis de jQuery**](#libros-gratis-de-jquery)
+  - [**Libros Gratis de Node**](#libros-gratis-de-node)
+  - [**Libros Gratis de React**](#libros-gratis-de-react)
+- [**Libros Gratis de Rust**](#libros-gratis-de-rust)
+- [**Libros Gratis de Vue**](#libros-gratis-de-vue)
+- [**Libros Gratis de .NET (C# / Visual Studio)**](#libros-gratis-de-net-c--visual-studio)
+- [**Libros Gratis de PHP**](#libros-gratis-de-php)
+  - [**Libros Gratis de Cake PHP**](#libros-gratis-de-cake-php)
+  - [**Libros Gratis de Laravel**](#libros-gratis-de-laravel)
+- [**Libros Gratis de Perl**](#libros-gratis-de-perl)
+- [**Libros Gratis de Python**](#libros-gratis-de-python)
+- [**Libros Gratis de Python Frameworks**](#libros-gratis-de-python-frameworks)
+  - [**Libros Gratis de Django**](#libros-gratis-de-django)
+  - [**Libros Gratis de Web2py**](#libros-gratis-de-web2py)
+- [**Libros Gratis de Ruby**](#libros-gratis-de-ruby)
+  - [**Libros Gratis de Ruby on Rails**](#libros-gratis-de-ruby-on-rails)
+- [**Libros Gratis de R**](#libros-gratis-de-r)
+- [**Libros Gratis de Scala**](#libros-gratis-de-scala)
+- [**Libros Gratis de SVG**](#libros-gratis-de-svg)
+- [**Libros Gratis de Swift**](#libros-gratis-de-swift)
+- [**Libros Gratis de Tex & LaTeX**](#libros-gratis-de-tex--latex)
 - [**Libros de Programación de Videojuegos**](#libros-de-programación-de-videojuegos)
 - [✍ Sistemas de Gestión de Contenidos](#-sistemas-de-gestión-de-contenidos)
-  - [Wordpress](#wordpress)
-- [👷‍♂️ Webmaster](#️-webmaster)
-- [Accesibilidad Web ♿](#accesibilidad-web-)
-- [Análitica Web 📈](#análitica-web-)
-- [Marketing Digital 🏪](#marketing-digital-)
-  - [Instagram](#instagram)
-- [Seo y Posicionamiento 🔍](#seo-y-posicionamiento-)
+  - [**Libros Gratis de Wordpress**](#libros-gratis-de-wordpress)
+- [**Libros Gratis de Webmaster**](#libros-gratis-de-webmaster)
+- [**Libros Gratis de Accesibilidad Web**](#libros-gratis-de-accesibilidad-web)
+- [**Libros Gratis de Análitica Web 📈**](#libros-gratis-de-análitica-web-)
+- [**Libros Gratis de Marketing Digital 🏪**](#libros-gratis-de-marketing-digital-)
+  - [**Libros Gratis de Instagram**](#libros-gratis-de-instagram)
+- [**Libros Gratis de Seo y Posicionamiento 🔍**](#libros-gratis-de-seo-y-posicionamiento-)
 - [Licencia](#licencia)
   - [**Nos Referencian**](#nos-referencian)
 
@@ -766,20 +765,20 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Prototipado de Aplicaciones Web (mean.js)](https://meanjsbook.danihernandez.me/) (HTML) (2015)
 
-## Bootstrap
+## **Libros Gratis de Bootstrap**
 
-## Lenguajes de Estilos y Preprocesadores 🎨
+## **Libros Gratis de Lenguajes de Estilos y Preprocesadores 🎨**
 
-## Lenguajes de Marcado ✍
+## **Libros Gratis de Lenguajes de Marcado ✍**
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
 
 * [Guía fácil del RSS](https://drive.google.com/file/d/1ivMIwIIEjArB2Q9Nsc-4RWHxV-GqUMZ8/view?usp=sharing) (PDF)
 * [Markdown: Guía Breve y Detallada](https://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf) (PDF) (2013)
 
-## Sistemas de Plantillas 🌱
+**Sistemas de Plantillas 🌱**
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 
-## HTML / CSS
+## **Libros Gratis de HTML / CSS**
 
 * [Chuleta CSS3](https://lenguajecss.com/){:target="_blank" rel="nofollow,noreferrer"} (HTML) ([PDF](https://www.emezeta.com/doc/css3-cheatsheet/css3-cheatsheet.php){:target="_blank" rel="nofollow,noreferrer"})
 * [CSS avanzado](https://librosweb.es/libro/css_avanzado){:target="_blank" rel="nofollow,noreferrer"} Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado){:target="_blank" rel="nofollow,noreferrer"}
@@ -794,7 +793,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Java
+## **Libros Gratis de Java**
 
 * [Aprenda Java como si estuviera en primero](https://fiwiki.org/images/9/9c/Aprenda_Java_como_si_estuviera_en_primero.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprendiendo Java y POO (2008)](https://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -814,7 +813,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## JavaScript
+## **Libros Gratis de JavaScript**
 
 * [Fundamentos de Javascript](https://lookaside.fbsbx.com/file/js-notesByMajoLedesma.pdf?token=AWwMwTsvr7tH4eYfiuNntACHnAzUkhcDsClQ0-OgUnvSDUVdwB3ZIaUDZbyd28BQCtrwWtg0AFenNc5PBzIN8blL3gfhWmVbjN486OrhMcLRGIwHqAHX4lNi5OeeecN-lf0TVe9iyw5bN6X-n6HGzmr-r398NH4pNIr0W3fhxFAgzw){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020) [Anexo 1: Scope y Local Scope](https://twitter.com/MajoLedes/status/1234882045190561793){:target="_blank" rel="nofollow,noreferrer"} (2020)
 * [Guía de Javascript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank" rel="nofollow,noreferrer"} (HTML)
@@ -825,25 +824,25 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [JavaScript Para Gatos](https://jsparagatos.com){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### Angular
+### **Libros Gratis de Angular**
 
 * [Cómo aprender AngularJS](https://drive.google.com/file/d/1Fa4cnjBLDvzLGIVIFtE5B22_Hubl2FmN/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### D3.js
+### **Libros Gratis de D3.js**
 
 * [Tutorial de D3](https://gcoch.github.io/D3-tutorial/index.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### jQuery
+### **Libros Gratis de jQuery**
 
 * [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery){:target="_blank" rel="nofollow,noreferrer"} (HTML) [(PDF)](https://openlibra.com/es/book/download/fundamentos-de-jquery){:target="_blank" rel="nofollow,noreferrer"}
 * [Manual de jQuery](https://mundosica.github.io/tutorial_hispano_jQuery/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### Node
+### **Libros Gratis de Node**
 
 * [Introducción a Node.js a través de Koans](https://nodejskoans.com){:target="_blank" rel="nofollow,noreferrer"}
 * [Tutorial para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html){:target="_blank" rel="nofollow,noreferrer"}
 
-### React
+### **Libros Gratis de React**
 
 * [Fundamentos de ReactJS](https://lookaside.fbsbx.com/file/React-Notes-MajoLedesma.pdf?token=AWxLqjFoHPZLfLUfVPnZmpc61WJXY_4RHl8Rfj4tPTBR0CO58_Rt6OEmJck4_WDhPiW9rKX8sqGMzPvY9RqkUY3qXCyN3GcQ7cnoMxHCfOOEjBTR9XTs7nnIxxDx70RDbOjO4ncfOmNv1TliY5oOA1eMxtbi7YCt8yh29ykASBCT2A){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020)
 * [Fundamentos de ReactJS y Hooks](https://lookaside.fbsbx.com/file/hooks-MajoLedesma.pdf?token=AWxLzCQhwLd5WPbVSTOp97HJLxyjREGyS_wykNvLBFMtT295MW6QNrhkLGZZQGiY7qylxgdGgtGMEfOHbKjV_AIXTcWfGbdz32V9qESqSWL-5fWJVcvioefVnwfFyYWwUkqv2VqkXAjp1rGxPRwq3EB5WkLE2ocTBHVxtOb3usl0mw){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020)
@@ -854,22 +853,23 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Rust
+## **Libros Gratis de Rust**
 
-* [El Lenguaje de Programación de Rust](https://goyox86.gitbooks.io/el-libro-de-rust/content/intrinsics.html){:target="_blank" rel="nofollow,noreferrer"} (HTML) [PDF](https://legacy.gitbook.com/download/pdf/book/goyox86/el-libro-de-rust){:target="_blank" rel="nofollow,noreferrer"}
+* [El Libro de Rust 2018](https://drive.google.com/file/d/1JkEaVvpQ5dFDqjCSzaKXDhUDiFezVFdF/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [El Lenguaje de Programación de Rust](https://goyox86.github.io/elpr/README.html){:target="_blank" rel="nofollow,noreferrer"} (@goyox86 en Github, HTML) [PDF](https://legacy.gitbook.com/download/pdf/book/goyox86/el-libro-de-rust){:target="_blank" rel="nofollow,noreferrer"}
 
-## Vue
+## **Libros Gratis de Vue**
 
 * [Aprendizaje VueJS](https://drive.google.com/file/d/1uj6RmzfUUzZ2J2gOV8GK0rL3ZsILkTuA/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"}
 * [Desarrolla aplicaciones con VueJS](https://drive.google.com/file/d/11mxEOrRmZCZTPyJMegrKHGA7NwqwbZYY/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} - [Gitbook](https://legacy.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details){:target="_blank" rel="nofollow,noreferrer"}
 * [Documentación Oficial de Vue en Español](https://es.vuejs.org/v2/cookbook/){:target="_blank" rel="nofollow,noreferrer"}
 
-## .NET (C# / Visual Studio)
+## **Libros Gratis de .NET (C# / Visual Studio)**
 
 * [El lenguaje de programación C#](https://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-## **Libros y Apuntes de PHP**
+## **Libros Gratis de PHP**
 
 * [Apuntes para Certificar tu sabiduría de PHP](https://diego.com.es/certificacion-php){:target="_blank" rel="nofollow,noreferrer"} - **Muy Completo.** (HTML) (2018)
 * [Apuntes para Certificar tu sabiduría de Symfony](https://diego.com.es/certificacion-symfony){:target="_blank" rel="nofollow,noreferrer"} - **Muy Completo.** (HTML) (2018)
@@ -885,11 +885,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Symfony 1.4, la guía definitiva](https://librosweb.es/libro/symfony_1_4){:target="_blank" rel="nofollow,noreferrer"} (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva){:target="_blank" rel="nofollow,noreferrer"}
 * [Symfony 2.4, el libro oficial](https://librosweb.es/libro/symfony_2_4/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12){:target="_blank" rel="nofollow,noreferrer"}
 
-### Cake PHP
+### **Libros Gratis de Cake PHP**
 
 * [CakePHP](https://lookaside.fbsbx.com/file/CakePHPCookbook.pdf?token=AWyFDalEcITnVtdOGUKjMhpxlOyhhMvu-9e2DsQwbkN8Mdm7g_L6DdvOV57rE8zfwkZvBtw1p8Y35z3JzN46qE0NMtDoTndZBu_GMUOYIIDSCqKWeKiKsUksaOesmAQVbBxe4v1zPTWnjre0Ox2yNI_C1o_RBz5DteVi0euKkepL1A){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020)
 
-### Laravel
+### **Libros Gratis de Laravel**
 
 * [Documentación de Laravel 6.0](https://lookaside.fbsbx.com/file/documentacion-de-laravel.pdf?token=AWxgc2kXPnguYTiOvb58Xp6s80I_YIj57JNfNdl8xZ_BmXoVdoRqNFMQy4hn5Lbzc6CdSEfdCesb_eU2X4HiqtVj7eDju-UlYTYsV3ujI0hMWbfw3JrO3vJ7Rvf1rsrkXIvrmy5lDqWZYGj91UvgC_GrCPGFcCodE9Hc5a6bx0V_lQ){:target="_blank" rel="nofollow,noreferrer"} (PDF) (1043 páginas)
 * [Laravel 5: Conceptos Básicos y Ejemplos](https://lookaside.fbsbx.com/file/laravel-5.pdf?token=AWzwgr1mH7p9_Q5W93UbkN6QFt5piI6VmIF7p70qAiA4u7TNf_WHB3qHChnHihr6u0se4Uc5XrA50SvY0DNNZDM7zAe2RrT7PNxCYm4-O7opZ7GhEAuX4ymt6n9J8kFB2C9Z-F2LaTAI2ALSKDXcmik1MuFl8r2U_91UTYMzJbaUOA){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -897,7 +897,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Perl
+## **Libros Gratis de Perl**
 
 * [La programación de Perl para Unix (1997)](https://www.el.bqto.unexpo.edu.ve/~jaguero/docs/varios/perlMexico.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Piensa en Perl 6](https://gitlab.com/uzluisf/piensaperl6/raw/master/PDF/piensaperl6.pdf) (PDF)
@@ -905,7 +905,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Tutorial Perl](https://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Tutoriales de Perl](https://perlenespanol.com/tutoriales/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-## Python
+## **Libros Gratis de Python**
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprende Python desde cero a experto](https://leanpub.com/aprende-python/){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020)
@@ -930,32 +930,32 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Tutorial de Python 3.6](https://tutorial.python.org.ar/_/downloads/en/latest/pdf/){:target="_blank" rel="nofollow,noreferrer"} (2020)
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) [(HTML)](https://tryton-ar.readthedocs.io/es/latest/introduccion.html){:target="_blank" rel="nofollow,noreferrer"}
 
-## Python Frameworks
+## **Libros Gratis de Python Frameworks**
 
-### Django
+### **Libros Gratis de Django**
 
 * [Django. Documentación](https://media.readthedocs.org/pdf/djangotutorial/1.8/djangotutorial.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-### Web2py
+### **Libros Gratis de Web2py**
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](https://www.web2py.com/books/default/chapter/41){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Ruby
+## **Libros Gratis de Ruby**
 
 * [Aprende a programar con Ruby](https://rubysur.org/aprende.a.programar){:target="_blank" rel="nofollow,noreferrer"} (Gitbook)
 * [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio){:target="_blank" rel="nofollow,noreferrer"} (Github)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Ruby tutorial o como pasar un buen rato programando](https://rubytutorial.wikidot.com/introduccion){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### Ruby on Rails
+### **Libros Gratis de Ruby on Rails**
 
 * [Introducción a Rails](https://rubysur.org/introduccion.a.rails){:target="_blank" rel="nofollow,noreferrer"} (Gitbook) (2015)
 * [Introducción a Ruby on Rails](https://librosweb.es/libro/introduccion_rails){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-## R
+## **Libros Gratis de R**
 
 * [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](https://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Generacion automática de reportes con R y LaTeX](https://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -967,22 +967,22 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Programación en R del método de las palabras asociadas](https://www.docentes.unal.edu.co/cepardot/docs/TrabajosGrado/TrabajoGrado_Daniel.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [R para Principiantes](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-## Scala
+## **Libros Gratis de Scala**
 
 * [Manual de Scala para programadores Java](https://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2007)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es#traducción-del-libro-scala-by-example-al-español){:target="_blank" rel="nofollow,noreferrer"} (Github) (:construction: *en proceso*)
 
-## SVG
+## **Libros Gratis de SVG**
 
 * [Scalable: Un libro sobre SVG](https://lookaside.fbsbx.com/file/scalable.pdf?token=AWxNiz6LRucqQSrNUMf8ntZOEIDPzn1YO3DyPQbwJbE6KZJvBqzlRHHn5pgC4bwM4VbgaVG8KxCvSDrlSSsSZ3_svwdff0cGNrS9p98bylJI-X5itT4zgescpGGbQ-AdmWVIDQSH6_ZMTlzzb5eRxNkeREL81VUXSXajXV3gqfyc_w){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF) (2017)
 
-## Swift
+## **Libros Gratis de Swift**
 
 * [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2015)
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Tex & LaTeX
+## **Libros Gratis de Tex & LaTeX**
 
 * [¿Alergia al LaTeX? (2000)](https://www.sindominio.net/ayuda/latex/sdlatex.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [¿Qué es TeX?](https://www.cervantex.es/queestex){:target="_blank" rel="nofollow,noreferrer"}
@@ -1005,18 +1005,18 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## ✍ Sistemas de Gestión de Contenidos
 
-### Wordpress
+### **Libros Gratis de Wordpress**
 
 * [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Tutorial, paso a paso, de Wordpress](https://drive.google.com/file/d/1K0cNYes6nHFuGwueA5hFxHXHmOS7FSkZ/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 👷‍♂️ Webmaster
+## **Libros Gratis de Webmaster**
 
 [Accesibilidad Web ♿](/biblioteca-de-programacion-y-tecnologia/#accesibilidad-web-){: .btn .btn-outline-dark .btn-lg .btn-block} [Análitica Web 📈](/biblioteca-de-programacion-y-tecnologia/#análitica-web-){: .btn .btn-outline-dark .btn-lg .btn-block} [Marketing Digital 🏪](/biblioteca-de-programacion-y-tecnologia/#marketing-digital-){: .btn .btn-outline-dark .btn-lg .btn-block} [Instagram <i class="fa fa-instagram" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#instagram-){: .btn .btn-outline-dark .btn-lg .btn-block} [Seo y Posicionamiento 🔍](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Accesibilidad Web ♿
+## **Libros Gratis de Accesibilidad Web**
 
 * [Accesibilidad a los contenidos audiovisuales en la Web](https://drive.google.com/file/d/1TsYwnUV8wmoFZ5e4b5QFnAt_cHSf7vEM/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2011)
 * [Accesibilidad a los contenidos audiovisuales en la Web a través de HTML5](https://drive.google.com/file/d/1ct6a6U7AMHAp4fLy2jtgX14i1812ryRk/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2011)
@@ -1035,22 +1035,22 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Metodología del Observatorio de Accesbilidad Web UNE](https://www.defensa.gob.es/rapfas/Galerias/ficheros/Metodologia_Observatorio_Accesibilidad_Web-UNE2012-v1_0.pdf){:target="_blank" rel="nofollow,noreferrer"} (2012)
 * [Proceso de validación nivel de accesibilidad web en sitios del Gobierno en línea del estado Colombiano](https://www.revistaespacios.com/a18v39n48/a18v39n48p08.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
-## Análitica Web 📈
+## **Libros Gratis de Análitica Web 📈**
 
 * [Analítica Web: Conceptos de Avinash Kaushik](https://lookaside.fbsbx.com/file/Analitica_Web_2.0_Conceptos_Avinash_Kaushik.pdf?token=AWyNI8IvnkSWm2iCHHkGwEd-wxsUUb_B-za--TpxVNk03ffK_litmpN9uw_J81QJ0vVBQO8MPpGbyWrB1Vw-b-bUCX85IvkN7jNZGmHN5ZjukiTc1R29LTCmUkJwsLNXYur3Pl4KBYAARu0fjIDIijRJ9WoXGi2e7s1KnZ69-go15Q){:target="_blank" rel="nofollow,noreferrer"}
 
-## Marketing Digital 🏪
+## **Libros Gratis de Marketing Digital 🏪**
 
 * [Cómo crear podcasts](https://drive.google.com/file/d/1cfJUQl7YtBFeA8etuxvzoDeQ_fxOWsA8/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (Infografía)
 * [Ecosistema del Community Manager](https://drive.google.com/file/d/1qtIqMZW74O7Zxa1o1iwt76n_7AEXvd-Q/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (Infografía)
 * [Marca 4.0: El impacto de la digitalización en la internalización y la gestión de la marca](https://www.marcasrenombradas.com/wp-content/uploads/2019/03/Informe-Marca-4.0.pdf){:target="_blank" rel="nofollow,noreferrer"} ()
 * [Vender 2.0](https://lookaside.fbsbx.com/file/Vender_2.0_Redes_Sociales.pdf?token=AWxVeWmznQH8xIIQJsIWgGRCa7Cru6AD2KkxxkbFn0gudms_yNgBD5JZpc83NZPllsT61W1QaAf1fSAQ5vVzq-8j0RKPuWgx60s5OqftF7cojeYeEfpjnavo3VW-8M29uQFDYX0RRjGzCUtvwRJxCFwsom8kpOBE2iP-CtRt29HnRA){:target="_blank" rel="nofollow,noreferrer"} (Presentación) (2013)
 
-### Instagram
+### **Libros Gratis de Instagram**
 
 * [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
-## Seo y Posicionamiento 🔍
+## **Libros Gratis de Seo y Posicionamiento 🔍**
 
 * [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf){:target="_blank" rel="nofollow,noreferrer"}
 * [Guía para principiantes sobre optimización para motores de búsqueda](https://drive.google.com/file/d/1g5nAGrtSVainEOVahZjEBwhAfi9kXG7N/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Google
