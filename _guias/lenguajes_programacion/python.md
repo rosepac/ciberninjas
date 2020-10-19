@@ -16,7 +16,7 @@ feature-img: /assets/img/lenguajes/python-programadora.webp
 img: /assets/img/lenguajes/python-programadora.webp
 ---
 
-Python es probablemente el lenguaje de programación más fácil de usar entre todos los lenguajes de la nueva era. A menudo se dice que la sintaxis de Python es clara e intuitiva; lo que, como Java, lo convierte en una opción popular para los programadores principiantes.
+**Python, es, seguramente el lenguaje de programación más fácil de usar** entre todos los lenguajes de la nueva era. A menudo se dice que **la sintaxis de Python es clara e intuitiva**; lo que, como Java, lo convierte en una opción popular para los programadores principiantes.
 
 Igual que Java, Python ofrece uuna variedad amplia en sus metodologías de aplicación, que lo convierten en una opción versátil y poderosa a la hora de elegir un lenguaje de programación adecuado para tu caso de uso.
 
@@ -27,21 +27,61 @@ Python también tiene muchos "paquetes", "librerías" o "bibliotecas" de código
 Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV; son utilizadas para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large}
 <!-- [](){: .btn .btn--inverse .btn--large} -->
 
-## ¿Qué es Python?
+- [**¿Qué es Python?**](#qué-es-python)
+- [**¿Quién está usando Python?**](#quién-está-usando-python)
+  - [**Google**](#google)
+  - [**ILM**](#ilm)
+  - [**Otras Compañías**](#otras-compañías)
+- [**¿Por qué aprender debo aprender Python?**](#por-qué-aprender-debo-aprender-python)
+- [**¿Cómo desarrollar una aplicación web con Python?**](#cómo-desarrollar-una-aplicación-web-con-python)
+- [**Los Frameworks Más Importantes de Python**](#los-frameworks-más-importantes-de-python)
+- [Django](#django)
+- [Flask](#flask)
+- [Bottle](#bottle)
+- [Pyramid](#pyramid)
+- [TurboGears](#turbogears)
+- [Falcon](#falcon)
+- [MorePath](#morepath)
+- [Sanic](#sanic)
+  - [Otros Frameworks](#otros-frameworks)
+- [CherryPy](#cherrypy)
+- [Masonite](#masonite)
+- [Web2py](#web2py)
+- [Vibora](#vibora)
+- [Pecan -DESUSO-](#pecan--desuso-)
+- [Muffin -DESUSO-](#muffin--desuso-)
+- [Ray -DESUSO-](#ray--desuso-)
+- [Bibliotecas de Python](#bibliotecas-de-python)
+- [TensorFlow](#tensorflow)
+  - [**¿Qué es TensorFlow?**](#qué-es-tensorflow)
+  - [**Características de TensorFlow**](#características-de-tensorflow)
+- [Scikit-Learn](#scikit-learn)
+  - [**¿Qué es Scikit-learn?**](#qué-es-scikit-learn)
+  - [**Características de Scikit-Learn**](#características-de-scikit-learn)
+- [Numpy](#numpy)
+- [Keras](#keras)
+- [PyTorch](#pytorch)
+- [LightGBM](#lightgbm)
+- [Eli5](#eli5)
+- [SciPy](#scipy)
+- [Theano](#theano)
+- [Pandas](#pandas)
+  - [**Otras Bibliotecas de Python**](#otras-bibliotecas-de-python)
+- [Relacionados](#relacionados)
+
+## **¿Qué es Python?**
 
 Python, es un lenguaje de programación de propósito general creado por Guido Van Rossum. Python es muy elogiado por su elegante sintaxis y código legible, si recién está comenzando su carrera de programación, Python se adapta a sus necesidades.
 
 Python, es un proyecto de código abierto que posee **25.2K** estrellas GitHub y **10.4K** horquillas GitHub. Aquí hay un enlace al repositorio de código abierto de Python en [GitHub](https://github.com/python/cpython){:target="_blank"}.
 
-## ¿Quién está usando Python?
+## **¿Quién está usando Python?**
 
 <!-- https://realpython.com/world-class-companies-using-python/ --> Es utilizado por Google, ILM, Facebook, Instagram, Spotify, Quora, Netflix, Dropbox, la NASA y Reddit, y su marco web, Django, también forma parte de las aplicaciones web de Instagram y Pinterest.
 
-### Google
+### **Google**
 
 Google ha sido partidario de Python desde casi el principio. Al principio, los fundadores de Google tomaron la decisión de usar "Python donde podemos, C ++ donde debemos". Esto significaba que se usaba C ++ donde el control de la memoria era imperativo y se deseaba una latencia baja. En las otras facetas, Python era habilitado para facilitar el mantenimiento y la entrega relativamente rápida.
 
@@ -51,7 +91,7 @@ Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Jav
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### ILM
+### **ILM**
 
 Industrial Light and Magic (ILM) es la potencia mundial de efectos especiales que fue fundada en 1975 por George Lucas para crear el FX para *Star Wars* . Desde entonces, se han convertido en sinónimo de FX, ganando múltiples premios por su trabajo en películas y comerciales.
 
@@ -67,7 +107,7 @@ El estudio ha usado Python en muchas otras facetas de su trabajo. Los desarrolla
 
 A pesar de las numerosas revisiones, ILM continúa considerando que Python es la mejor solución para sus necesidades. La combinación de un código de fuente abierta combinada con la capacidad de realizar cambios garantiza que Python continuará satisfaciendo las necesidades de ILM durante mucho tiempo.
 
-### Otros Muchos Más
+### **Otras Compañías**
 
 Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
 
@@ -75,7 +115,7 @@ Existen otras muchas empresas reconocidas que confian en Python como uno de sus 
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## ¿Por qué aprender Python?
+## **¿Por qué aprender debo aprender Python?**
 
 La sintaxis sencilla y directa de Python lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que viene del 2021. Python cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
 
@@ -93,22 +133,23 @@ En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrad
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## ¿Cómo desarrollar una aplicación web con Python?
+## **¿Cómo desarrollar una aplicación web con Python?**
 <!-- https://www.fullstackpython.com/ -->
+
 Ahora desea tomar su conocimiento inicial de Python y hacer algo real, como una aplicación web para presumir ante amigos o vender como servicio a los clientes. Ahí es donde entra en juego Full Stack Python . Has venido al lugar correcto para aprender todo lo que necesitas para crear , implementar y operar aplicaciones basadas en Python.
 
-## Frameworks Web de Python
+## **Los Frameworks Más Importantes de Python**
 
 <!-- https://www.fullstackpython.com/other-web-frameworks.html -->
-* [Django](/python/#django)
-* [Flask](/python/#flask)
-* [Bottle](/python/#bottle)
-* [Pyramid](/python/#pyramid)
-* [TurboGears](/python/#turbogears)
-* [Falcon](/python/#falcon)
-* [Morepath](/python/#morepath)
-* [Sanic](/python/#sanic)
-* [Otros Frameworks](/python/#otros-frameworks)
+- [Django](/python/#django)
+- [Flask](/python/#flask)
+- [Bottle](/python/#bottle)
+- [Pyramid](/python/#pyramid)
+- [TurboGears](/python/#turbogears)
+- [Falcon](/python/#falcon)
+- [Morepath](/python/#morepath)
+- [Sanic](/python/#sanic)
+- [Otros Frameworks](/python/#otros-frameworks)
 
 ## Django
 
@@ -613,19 +654,19 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Otras Bibliotecas
+### **Otras Bibliotecas de Python**
 
-* [CadQuery](/impresiones-3d-modulo-python-cadquery/){:target="_blank" rel="nofollow,noreferrer"}
-* [Kaggle](https://www.kaggle.com/datasets){:target="_blank" rel="nofollow,noreferrer"}
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target="_blank" rel="nofollow,noreferrer"}
-* [Requests Python](https://realpython.com/python-requests/){:target="_blank" rel="nofollow,noreferrer"}
-* [SeaBorn](https://seaborn.pydata.org/examples/index.html#example-gallery){:target="_blank" rel="nofollow,noreferrer"}
-* [Sheetfu](/sheetfu-libreria-python/){:target="_blank" rel="nofollow,noreferrer"}
-* [MatPlotLib](https://matplotlib.org/users/index.html){:target="_blank" rel="nofollow,noreferrer"}
-* [Jupiter](https://jupyter.org/install.html){:target="_blank" rel="nofollow,noreferrer"}
-* [Mitogen](https://mitogen.networkgenomics.com/){:target="_blank" rel="nofollow,noreferrer"}
-* [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-python){:target="_blank" rel="nofollow,noreferrer"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
-* [Vidgear](/vidgear-libreria-python/)
+- [CadQuery](/impresiones-3d-modulo-python-cadquery/){:target="_blank" rel="nofollow,noreferrer"}
+- [Kaggle](https://www.kaggle.com/datasets){:target="_blank" rel="nofollow,noreferrer"}
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target="_blank" rel="nofollow,noreferrer"}
+- [Requests Python](https://realpython.com/python-requests/){:target="_blank" rel="nofollow,noreferrer"}
+- [SeaBorn](https://seaborn.pydata.org/examples/index.html#example-gallery){:target="_blank" rel="nofollow,noreferrer"}
+- [Sheetfu](/sheetfu-libreria-python/){:target="_blank" rel="nofollow,noreferrer"}
+- [MatPlotLib](https://matplotlib.org/users/index.html){:target="_blank" rel="nofollow,noreferrer"}
+- [Jupiter](https://jupyter.org/install.html){:target="_blank" rel="nofollow,noreferrer"}
+- [Mitogen](https://mitogen.networkgenomics.com/){:target="_blank" rel="nofollow,noreferrer"}
+- [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-python){:target="_blank" rel="nofollow,noreferrer"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
+- [Vidgear](/vidgear-libreria-python/)
 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
