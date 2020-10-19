@@ -5,6 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Seguridad
+- Seguridad
 thumbnail: /assets/img/blog/privacidad-gpc.webp
 feature-img: /assets/img/blog/privacidad-gpc.webp
 title: '▷ DuckDuckGo, EFF y otros: Lanzan el Control de Privacidad Global para todo Internet'
@@ -101,7 +102,11 @@ Incluso si esa ley solo cubre a los residentes de California, los creadores del 
 
 La especificación de Control de privacidad global (GPC) describe cómo implementar un mecanismo de navegador para ayudar a los usuarios a señalar su privacidad deseada a sitios web y servicios.
 
-En este momento, la señal GPC no es un estándar finalizado, pero ya está disponible para los usuarios como parte de varios de los principales navegadores y extensiones y es respetado por varios sitios web importantes (ver más abajo). La señal de GPC estará destinada a comunicar una solicitud de No Vender de un control de privacidad global, según CCPA-REGULATIONS §999.315 para ese navegador o dispositivo, o, si se conoce, el consumidor. Según el GDPR, la intención de la señal GPC es transmitir una solicitud general de que los controladores de datos limiten la venta o el intercambio de los datos personales del usuario a otros controladores de datos ( artículos 7 y 21 del GDPR ). Con el tiempo, la señal GPC puede estar destinada a comunicar derechos en otras jurisdicciones.
+En este momento, la señal GPC no es un estándar finalizado, pero ya está disponible para los usuarios como parte de varios de los principales navegadores y extensiones y es respetado por varios sitios web importantes (ver más abajo).
+
+La señal de GPC estará destinada a comunicar una solicitud de No Vender de un control de privacidad global, según CCPA-REGULATIONS §999.315 para ese navegador o dispositivo, o, si se conoce, el consumidor.
+
+Según el GDPR, la intención de la señal GPC es transmitir una solicitud general de que los controladores de datos limiten la venta o el intercambio de los datos personales del usuario a otros controladores de datos ( artículos 7 y 21 del GDPR ). Con el tiempo, la señal GPC puede estar destinada a comunicar derechos en otras jurisdicciones.
 
 ## **¿Cómo puedo saber más sobre GPC?**
 
@@ -109,11 +114,17 @@ El sitio oficial de [la documentación de referencia sobre la GPC](https://globa
 
 ## **¿Cómo puedo controlar mi privacidad?**
 
-Solamente debes descargar uno de los navegadores o extensiones participantes, en el proyecto que impulsa la GPC, protegiendo tus preferencias de privacidad globales: como DuckDuckGo, Brave oa la extensión Privacy Badger de la EFF.
+Solamente debes descargar uno de los navegadores o extensiones participantes, en el proyecto que impulsa la GPC, protegiendo tus preferencias de privacidad globales: como DuckDuckGo, Brave o la extensión Privacy Badger de la EFF.
 
 ### **Relacionados** <!-- omit in toc -->
 
-[]()
+[La Privacidad según la EFF](https://ciberninjas.com/eff/privacidad/)
+
+[▷ Cómo mantener tu privacidad en un teléfono Android](https://ciberninjas.com/como-mantener-tu-privacidad-usando-android/)
+
+[Bienvenidas las nuevas opciones de control de terceros de Facebook](https://ciberninjas.com/eff/bienvenida-opcion-privacidad-terceros-facebook/)
+
+[▷ Richard Stallman: Una discusión sobre libertad, privacidad y criptomonedas](https://ciberninjas.com/stallman-sobre-las-criptomonedas/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
