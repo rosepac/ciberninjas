@@ -8,7 +8,7 @@ tags:
 - Consejos
 thumbnail: /assets/img/blog/trabajo-relajante-2.webp
 feature-img: /assets/img/blog/trabajo-relajante-2.webp
-title: '🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020 🏡'
+title: '🥇 ▷ Las 11 Mejores CONSEJOS / TIPS para trabajar desde casa 2021'
 description: >-
   Los consejos perfectos para trabajar y construir tu propia oficina en casa.
 excerpt: >-

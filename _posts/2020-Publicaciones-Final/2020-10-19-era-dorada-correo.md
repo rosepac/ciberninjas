@@ -83,13 +83,17 @@ El mundo dio un vuelco en 2020, y los usuarios han vuelto a las herramientas que
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Mime Stream, un cliente de correo electrónico nativo](https://ciberninjas.com/mimestream-gmail-para-macos/)
+[▷ Guía de productividad definitiva 2020](https://ciberninjas.com/guia-productividad-definitiva/ "Guía de productividad definitiva 2020")
 
-[▷ Una guía para principiantes de las videollamadas a través de Zoom](https://ciberninjas.com/zoom-guia-completa/)
+[▷ 10 Herramientas de productividad para desarrolladores](https://ciberninjas.com/herramientas-productividad-react-2020/ "10 Herramientas de productividad para desarrolladores")
 
-[▷ Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
+[▷ Mime Stream, un cliente de correo electrónico nativo](https://ciberninjas.com/mimestream-gmail-para-macos/ "Mime Stream, un cliente de correo electrónico nativo")
 
-[Mis Aplicaciones & Recursos Favoritos](https://ciberninjas.com/recursos/)
+[▷ Una guía para principiantes de las videollamadas a través de Zoom](https://ciberninjas.com/zoom-guia-completa/ "Una guía para principiantes de las videollamadas a través de Zoom")
+
+[▷ Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/ "Cómo configurar múltiples firmas en Gmail")
+
+[Mis Aplicaciones & Recursos Favoritos](https://ciberninjas.com/recursos/ "Mis Aplicaciones & Recursos Favoritos")
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
