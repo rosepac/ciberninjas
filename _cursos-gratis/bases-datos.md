@@ -69,7 +69,7 @@ img: "/assets/img/paginas-cursos/cursos-bases-datos.webp"
 Los mejores cursos gratuitos con los que aprender los conceptos de SQL y bases de datos para principiantes en Microsoft SQL Server, Oracle, MySQL y SQL de plataformas online como Udemy, EDX, Coursera o Youtube.
 <!-- https://medium.com/javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2 -->
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 - [**Cursos Gratis de Bases de Datos**](#cursos-gratis-de-bases-de-datos)
@@ -152,7 +152,7 @@ La mejor característica de la plataforma es que todos los tutoriales y cursos s
 
 Sigue a Ciberninjas a través de las redes sociales para estar alerta de las últimas noticias, artículos, consejos y trucos de SQL.
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

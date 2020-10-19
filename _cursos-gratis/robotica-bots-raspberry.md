@@ -66,7 +66,7 @@ img: "/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp"
 }
 </script>
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ## **Cursos Gratis de Robótica**
@@ -177,7 +177,7 @@ Sí, aunque puede requerir algunas modificaciones en las bibliotecas centrales d
 - [Raspberry Pi Workshop 2018](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fraspberry-pi-workshop-become-a-coder-maker-inventor%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy - Subtítulos en Español) (2017)
 - [Termómetro digital con Raspberry Pi(2017)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftermometro-digital-con-raspberry-pi%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

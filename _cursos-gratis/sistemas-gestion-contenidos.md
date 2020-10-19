@@ -68,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp"
 
 Los **mejores cursos gratis de los mejores sistemas de gestión de contenidos**, que existen dentro del universo de Internet: Wordpress, Blogger, Joomla, Moodle, Drupal, etc.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ## **Cursos Gratis de Blogger**
@@ -115,7 +115,7 @@ Los **mejores cursos gratis de los mejores sistemas de gestión de contenidos**,
 * Paso a Pago 😿 [Wordpress. Curso completo, hazte un experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrearblogwordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-introduccion-practica-a-gutenberg-el-nuevo-editor%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

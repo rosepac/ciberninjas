@@ -68,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-redes-telefonicas.webp"
 
 Cursos gratis de redes de telefonía y comunicaciones móviles, con los que convertirte en un experto en la infraestructura y montaje de redes telefónicas.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ## **Cursos Gratis de Redes de Telefonía**
@@ -90,7 +90,7 @@ Cursos gratis de redes de telefonía y comunicaciones móviles, con los que conv
 - [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC){:target="_blank" rel="nofollow,noreferrer"} (Óscar Delgado, YouTube)
 - [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

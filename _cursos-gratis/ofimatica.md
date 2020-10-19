@@ -72,7 +72,7 @@ Además, vas a poder encontrar otros cursos relacionados con aplicaciones y soft
 
 Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 - [**Cursos Gratis de Office**](#cursos-gratis-de-office)
@@ -159,7 +159,7 @@ Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 
 - [Publicación y Análisis de mapas en la Web con ArcGIS Online](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Farcgis-online%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

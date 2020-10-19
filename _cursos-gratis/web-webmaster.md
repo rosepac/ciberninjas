@@ -69,11 +69,13 @@ img: "/assets/img/paginas-cursos/cursos-web-webmaster.webp"
 Si deseas realizar de manera competente las tareas exigidas a un gestor de páginas web, los webmasters deben tener un conocimiento profundo de los lenguajes de programación, el diseño de sitios web, los gráficos y la gestión de proyectos.
 
 Para convertirte en un auténtico webmaster, puede resultarle útil inscribirse en algunos de los cursos gratuitos que te mostraré a continuación. Estas formaciones son ofrecidos, en su gran mayoría, por academias online.
+
+Aprende a mejorar el rendimiento de tu sitio web aprendiendo de los mejores tutoriales del mundo en español, además de poder aprender otras habilidades que te serán útiles a la hora de gestionar, crear e impulsar tu página web.
 <!-- Agregar el contenido de aquí, a la página web: https://hackr.io/es/tutorials/learn-website-performance?q=web -->
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 
-## **Cursos Gratis para Webmaster**
+## **Cursos Gratis de Rendimiento Web / Webmaster**
 
 - [3 Claves para convertir tu idea en dinero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F3-claves-para-convertir-tu-idea-en-dinero%2F){:target="_blank" rel="nofollow,noreferrer"} (Diego Palomares Bustos, Udemy)
 - [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank" rel="nofollow,noreferrer"} (Universidad Politécnica de Valencia, EDX)
@@ -100,7 +102,7 @@ Para convertirte en un auténtico webmaster, puede resultarle útil inscribirse 
 - [Zoho CRM App: gestiona tus clientes desde tu móvil](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Saber Más Sobre los cursos para webmaster**
 

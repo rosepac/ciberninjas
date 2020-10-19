@@ -115,13 +115,13 @@ A continuación, vas a encontrar **los mejores cursos de accesibilidad web en es
 
 ## **Cursos Gratis de Accesibilidad Web**
 
-- [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/course-v1:UNED+AccTIC_004+2020/about){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Aprende accesibilidad web paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-accesibilidad-web-paso-a-paso%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/course-v1:UNED+AccTIC_004+2020/about "Curso de Accesibilidad TIC en compras públicas"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal "Curso de Accesibilidad Universal"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Aprende accesibilidad web paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-accesibilidad-web-paso-a-paso%2F "Curso de [Aprende accesibilidad web paso a paso"){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad "Curso de Evitando las barreras de la Accesibilidad en la Sociedad de la Información"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/ "Curso de Herramientas para mejorar la Usabilidad Web: Balsamiq"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

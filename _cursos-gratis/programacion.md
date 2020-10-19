@@ -76,7 +76,7 @@ A continuación puedes encontrar atajos hacía los frameworks de los lenguajes m
 
 Por si lo que buscas, es comenzar con un lenguaje concreto desde cero, a continuación vas a encontrar una brevísima introducción además de los mejores cursos gratuitos en español del mundo con los que lanzarte hacía el inicio de convertirte en un programador profesional.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 
 Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te interese.
 
@@ -703,7 +703,7 @@ Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últ
 
 - [Web Scraping](/web-scraping-c-sharp-con-jap-software/) (Jap Software, Youtube)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

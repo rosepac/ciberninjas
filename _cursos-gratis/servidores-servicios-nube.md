@@ -68,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp"
 
 Los mejores cursos gratuitos para aprender a utilizar los servicios en la nube más conocidos: por ejemplo, AWS, Docker, Azure, Node, Servidores, etc.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 - [**Cursos Gratis de Servidores y Servicios en la Nube**](#cursos-gratis-de-servidores-y-servicios-en-la-nube)
@@ -170,7 +170,7 @@ Todos los cursos disponibles en la plataforma son enviados y votados por los mie
 
 Aprenda cualquier servicio bajo el paraguas de Google Cloud Platform de estos mejores tutoriales y cursos en línea de Google Cloud recomendados por la comunidad de programación. Utilice filtros (en el lado derecho de esta página) para encontrar los mejores tutoriales sobre Google Compute Engine, Google App Engine, Bigtable, BigQuery, Google Storage, Google Cloud Functions, Google Cloud Datastore o tutoriales para la certificación de Google Cloud Platform. Este es su centro de formación en línea de Google Cloud Platform.
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

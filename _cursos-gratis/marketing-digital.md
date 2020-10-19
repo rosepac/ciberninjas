@@ -110,7 +110,7 @@ img: "/assets/img/paginas-cursos/cursos-marketing-digital.webp"
 
 - [Aumenta tus Ventas con WhatsApp Bussiness](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faumenta-tus-ventas-con-whatsapp-business%2F){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 

@@ -68,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-android.webp"
 
 A continuación, vas a encontrar **los mejores cursos gratis de Android, Fluttler, Kotlin y Dart**, en español y online.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 - [**Cursos Gratis de Android**](#cursos-gratis-de-android)
@@ -95,25 +95,82 @@ A continuación, vas a encontrar **los mejores cursos gratis de Android, Fluttle
 
 ## **Cursos Gratis de Android**
 
-- [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
-- [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
+- [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad "Curso Gratis de Android: Fundamentos para crear tus primeras apps de calidad"){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
+- [Android Studio: Instalación, emuladores, git, plugins y tips](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips "Curso Gratis de Android Studio: Instalación, emuladores, git, plugins y tips"){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
 - [Android Studio](/android-studio-con-jesus-conde/){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [App Android: Registro de inventarios](/android-studio-registro-inventarios/){:target="_blank" rel="nofollow,noreferrer"} (Programación y Más, Youtube) (2016)
-- [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-- [Crear una aplicación sin conocimiento en programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-aplicacion-sin-conocimiento-en-programacion%2F){:target="_blank" rel="nofollow,noreferrer"} (Michael Díaz, Udemy)
-- [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
-- [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-- [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-android-online){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-- [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-- [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [Mi primera app con Android N](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmi-primera-app-con-android-n%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Minicurso Diseño para Android con Material Design y Theming](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-diseno-para-android-con-material-design-y-theming%2F){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
-- [Minicurso Firebase para android. Base de dato en tiempo real](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-firebase-para-android-base-datos-tiempo-real%2F){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
-- [Programación Android 01: Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F){:target="_blank" rel="nofollow,noreferrer"} (Javier San José Ortiz, Udemy)
-- [Taller Práctico de Desarrollo Móvil para Android](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWeLwCb-XxganG8zpOQS50-){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+- [App Android: Registro de inventarios](/android-studio-registro-inventarios/ "Curso Gratis de App Android: Registro de inventarios"){:target="_blank" rel="nofollow,noreferrer"} (Programación y Más, Youtube) (2016)
+- [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4 "Curso Gratis Aprende a programar tu primera app"){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+- [Crear una aplicación sin conocimiento en programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-aplicacion-sin-conocimiento-en-programacion%2F "Curso Gratis Crear una aplicación sin conocimiento en programación"){:target="_blank" rel="nofollow,noreferrer"} (Michael Díaz, Udemy)
+- [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android "Curso Gratis Básico de Android por DevCode"){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
+- [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P "Curso Gratis de Android con Android Studio por Pildoras Informáticas"){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
+- [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA "Curso Gratis de Android por Jesús Conde"){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+- [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA "Curso Gratis de Aplicaciones Android por Jesús Conde"){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+- [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-android-online "Curso Gratis de Introducción a fundamentos Android, ¡Desarrolla una app completa!"){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+- [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1 "Curso Gratis de Introducción a la programación Android"){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+- [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130 "Curso Gratis de Introducción a la programación Android"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+- [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX "Curso Gratis Material Design con Android Studio"){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+- [Mi primera app con Android N](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmi-primera-app-con-android-n%2F "Curso Gratis Mi primera app con Android N"){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Minicurso Diseño para Android con Material Design y Theming](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-diseno-para-android-con-material-design-y-theming%2F "Curso Gratis Minicurso Diseño para Android con Material Design y Theming"){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
+- [Minicurso Firebase para android. Base de dato en tiempo real](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fminicurso-firebase-para-android-base-datos-tiempo-real%2F "Curso Gratis Minicurso Firebase para android. Base de dato en tiempo real"){:target="_blank" rel="nofollow,noreferrer"} (Alain Nicolás Tello, Udemy)
+- [Programación Android 01: Conceptos generales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-android-01-conceptos-generales%2F "Curso Gratis Programación Android 01: Conceptos generales"){:target="_blank" rel="nofollow,noreferrer"} (Javier San José Ortiz, Udemy)
+- [Taller Práctico de Desarrollo Móvil para Android](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWeLwCb-XxganG8zpOQS50- "Curso Gratis Práctico de Desarrollo Móvil para Android"){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Android es el sistema operativo para teléfonos inteligentes más popular del mundo."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los requisitos previos para aprender Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen 5 requisitos fundamentales para comenzar a aprender la programación en Android: Conocer el ciclo de vida y desarrollo de Android, los fundamentos de los lenguajes de programación Java (de cara al futuro, Kotlin y Dart), los conceptos de la programación orientada a objetos, XML y conocer los entornos de desarrollo."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Por qué debería aprender Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Porque Android es el Sistema Operativo más utilizado del mundo en la actualidad, gracias al auge de los dispositivos móviles. Lo que te va a ofrecer, enormes posibilidades de trabajo en el futuro."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo aprender a desarrollar para Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A través de infinitos recursos gratuitos y de pago. Como pueden ser: La página web de Android, los cursos de Android, los mejores libros de Android o los mejores canales de programación para Android en Youtube. Además, de artículos y blogs."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los mejores libros para aprender Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El gran libro de Android, Desarrollo de Aplicaciones Android, y Aprender a Desarrollar Aplicaciones Android con Android Studio."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Está muriendo el desarrollo de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El lenguaje de programación principal de Android es Java, por ello muchas personas creen que no es un lenguaje que pueda mantenerse en el futuro. Pero, los creadores de Android, ya están implementando un nuevo lenguaje como es Kotlin, enfocados en que sea el futuro de Android."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguajes se requieren para el desarrollo de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Principalmente Java o bien, Kotlin (más bien de forma experimental). Además, puedes utilizar, C++, C#, Python o simplemente HTML, CSS más Javascript para generar aplicaciones que funcionen perfectamente en el Sistema Operativo de Android."
+    }
+  }]
+}
+</script>
 
 ## **¿Qué es Android?**
 
@@ -149,20 +206,20 @@ Puede haber diferentes razones para que cualquiera aprenda Android. Algunas buen
 
 ## **¿Cuáles son los mejores libros para aprender Android?**
 
-Estos son algunos de [los mejores libros para aprender Android](https://ciberninjas.com/mejores-libros-android-kotlin/):
+Estos son algunos de [los mejores libros para aprender Android](https://ciberninjas.com/mejores-libros-android-kotlin/ "Encuentra los mejores libros de aprendizaje sobre Android y Kotlin"):
 
-- [El Gran Libro de Android - 7ª ED](https://amzn.to/2Pz5cOu){:target="_blank" rel="nofollow,noreferrer"} (2019)
-- [Desarrollo de aplicaciones para Android](https://amzn.to/2VaoniT){:target="_blank" rel="nofollow,noreferrer"} (2018)
-- [Desarrolle una aplicación android. Programación en Java con Android Studio](https://amzn.to/2HH8TuP){:target="_blank" rel="nofollow,noreferrer"} (2018)
-- [Android Studio. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu){:target="_blank" rel="nofollow,noreferrer"}
-- [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM){:target="_blank" rel="nofollow,noreferrer"} (2018)
+- [El Gran Libro de Android - 7ª ED](https://amzn.to/2Pz5cOu "Compra el libro El Gran Libro de Android - 7ª ED"){:target="_blank" rel="nofollow,noreferrer"} (2019)
+- [Desarrollo de aplicaciones para Android](https://amzn.to/2VaoniT "Compra el libro Desarrollo de aplicaciones para Android"){:target="_blank" rel="nofollow,noreferrer"} (2018)
+- [Desarrolle una aplicación android. Programación en Java con Android Studio](https://amzn.to/2HH8TuP "Compra el libro Desarrolle una aplicación android. Programación en Java con Android Studio"){:target="_blank" rel="nofollow,noreferrer"} (2018)
+- [Android Studio. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu "Compra el libro Android Studio. Aprende a desarrollar aplicaciones"){:target="_blank" rel="nofollow,noreferrer"}
+- [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM "Compra el libro Plataformas Android: Wear, TV, Auto y Google Play Games"){:target="_blank" rel="nofollow,noreferrer"} (2018)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726623&linkId=0d517a5c36d84c2d92ddfd99c7d33806"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441538921&linkId=156686933d757a8aedf3cfe4dc1d2715"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=240901447X&linkId=227b72c11e15bbd7ad712bf2cb3ceafc"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717014&linkId=5a6136db4c875be417303208017f9e70"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726631&linkId=ca99853282436c05a9d8714916b76089"></iframe>
 
-- **[EN]** [Fundamentos del desarrollo de aplicaciones de Android](https://amzn.to/2F8GYGd){:target="_blank" rel="nofollow,noreferrer"} por Ian Darwin
-- **[EN]** [Recetario de Android: Problemas y soluciones para desarrolladores de Android](https://amzn.to/331ZacM){:target="_blank" rel="nofollow,noreferrer"} por Ian Darwin
-- **[EN]** [Head First Android Development: una guía amigable para el cerebro](https://amzn.to/3ia2wAD){:target="_blank" rel="nofollow,noreferrer"} de David Griffiths y Dawn Griffiths
-- **[EN]** [Hola, Android: Presentamos la plataforma de desarrollo móvil de Google](https://amzn.to/326mQxq){:target="_blank" rel="nofollow,noreferrer"} por Ed Burnette
+- **[EN]** [Fundamentos del desarrollo de aplicaciones de Android](https://amzn.to/2F8GYGd "Compra el libro de fundamentos del desarrollo de aplicaciones de Android"){:target="_blank" rel="nofollow,noreferrer"} por Ian Darwin
+- **[EN]** [Recetario de Android: Problemas y soluciones para desarrolladores de Android](https://amzn.to/331ZacM "Compra el libro Recetario de Android: Problemas y soluciones para desarrolladores de Android"){:target="_blank" rel="nofollow,noreferrer"} por Ian Darwin
+- **[EN]** [Head First Android Development: una guía amigable para el cerebro](https://amzn.to/3ia2wAD "Compra el libro Head First Android Development: una guía amigable para el cerebro"){:target="_blank" rel="nofollow,noreferrer"} de David Griffiths y Dawn Griffiths
+- **[EN]** [Hola, Android: Presentamos la plataforma de desarrollo móvil de Google](https://amzn.to/326mQxq "Compra el libro Hola, Android: Presentamos la plataforma de desarrollo móvil de Google"){:target="_blank" rel="nofollow,noreferrer"} por Ed Burnette
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=9389845203&linkId=82eff17cdc299f923432f6948df07cbe"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1449374433&linkId=e2bc96c36ffc2b7dc4d2156ad6aec224"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1491974052&linkId=9548b12bdf915a40cbec22aa0e85bb69"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1934356565&linkId=ad3951882cb42cd40f082aa2cdcfc8e0"></iframe>
 
@@ -175,8 +232,16 @@ A pesar de la exageración de las plataformas web y las tecnologías multiplataf
 
 El desarrollo de Android admite una variedad de lenguajes de programación, pero dos lenguajes de programación que son los más populares son:
 
-1. **Java**: El antiguo idioma oficial para el desarrollo de Android que sigue siendo la opción de idioma líder para el desarrollo de Android
-2. **Kotlin**: El lenguaje oficial más nuevo, moderno y fácil de aprender para el desarrollo de Android
+1. **Java**: El antiguo idioma oficial para el desarrollo de Android que sigue siendo la opción de idioma líder para el desarrollo de Android.
+2. **Kotlin**: El lenguaje oficial más nuevo, moderno y fácil de aprender para el desarrollo de Android.
+
+Afirmar que Android se encuentra de capa caída, es una afirmación, que se puede encontrar a lo largo de la web. Y que muchos desarrolladores han mantenido a lo largo del tiempo, pero que en verdad. Jamás se ha demostrado ser real.
+
+De hecho. Android es el sistema operativo más usado del mundo, y por ahora, no parece que vaya a ser por poco tiempo; puesto que día a día, sigue aumentando la distancia que le separa del segundo.
+
+El lenguaje de programación principal de Android es Java, y por ello, algunos desarrolladores creen que Android puede tener un final. Puesto que no lo consideran uno de los mejores lenguajes que existen, pero la historia de la programación ha demostrado que realmente eso no es un punto importante, a la hora de llegar al éxito.
+
+Además, los mantenedores de Android, ya llevan muchos años desarrollando aplicaciones y un lenguaje completo paralelo. Que algún día, quizás dará el salto para sustituir a Java por completo. A no, eso nadie lo sabe aún.
 
 ## **¿Qué lenguajes se requieren para el desarrollo de Android?**
 
@@ -190,8 +255,72 @@ El desarrollo de Android requiere principalmente los lenguajes de programación 
 
 ## **Cursos Gratis de Flutter**
 
-- [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, Youtube)
-- [Flutter: Una introducción al SDK de Google](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} por Fernando Herrera (Udemy)
+- [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_ "Curso Gratis de Flutter por G Coding Academy"){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, Youtube)
+- [Flutter: Una introducción al SDK de Google](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-primeros-pasos%2F "Curso Gratis de Flutter, una introducción al SDK de Google"){:target="_blank" rel="nofollow,noreferrer"} (Fernando Herrera, Udemy)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Flutter es un SDK de desarrollo de aplicaciones móviles creado por Google."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los requisitos previos para aprender Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Antes de comenzar con tutoriales sobre la creación de aplicaciones con Flutter. Se recomienda, aprender los conceptos básicos de las estructuras de control y el flujo de una aplicación. Además, es recomendable introducirse en el aprendizaje del lenguaje de programación Dart."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Por qué deberías aprender Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Flutter ha ganado bastantes números en los últimos tiempos debido a su capacidad para ayudar a los desarrolladores a centrarse más en el producto final y no en el SDK."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo funciona Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Flutter funciona más como un motor de juegos que como un framework de aplicación tradicional."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Por qué aprender Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Superar las limitaciones tradicionales de los enfoques de desarrollo de aplicaciones multiplataforma y aumentar la productividad de los procesos realizados en caliente."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje de programación usa Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dart. Flutter se ejecuta en la máquina virtual de Dart que cuenta con un motor de ejecución JIT"
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los mejores libros para aprender Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Aprenda Flutter rápidamente: 65 ejemplos de aplicaciones, Comenzando con Flutter, Flutter en Acción. A pesar, de que no existen grandes libros reconocidos de Flutter en español."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Flutter?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Si desea aprender Flutter para principiantes y obtener conocimientos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada."
+    }
+  }]
+}
+</script>
 
 ## **¿Qué es Flutter?**
 
@@ -215,7 +344,7 @@ Además, Flutter no usa los widgets estándar a diferencia de otros SDK, pero us
 
 ## **¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Flutter?**
 
-Si desea aprender Flutter para principiantes y obtener conocimientos críticos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada para usted.
+Si desea aprender Flutter para principiantes y obtener conocimientos críticos a través de tutoriales completos de Flutter, Ciberninjas es la plataforma adecuada para ti.
 
 Ofrece una gran cantidad de tutoriales que ayudarán a los desarrolladores tanto aficionados como profesionales a concentrarse en aprender todo sobre la programación de Flutter y sus características.
 
@@ -231,8 +360,8 @@ Flutter, a diferencia de sus contemporáneos, funciona más como un motor de jue
 
 Hay varias buenas razones para aprender Flutter, la más notable:
 
-- Parece eviente que Flutter puede tener un futuro brillante por delante, gracias a su comunidad..
-- Superar las limitaciones tradicionales de los enfoques de desarrollo de aplicaciones multiplataforma..
+- Parece eviente que Flutter puede tener un futuro brillante por delante, gracias a su comunidad.
+- Superar las limitaciones tradicionales de los enfoques de desarrollo de aplicaciones multiplataforma.
 - Aumento de la productividad con la función de recarga en caliente.
 - Soporte para una variedad de IDE.
 
@@ -278,6 +407,6 @@ Estos son algunos de los mejores libros para aprender Kotlin:
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre Android, Flutter, Kotlin, Dart, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-android.webp "Los mejores cursos gratuitos con los que aprender todo sobre Android, Flutter, Kotlin, Dart, desde cero hasta nivel experto")

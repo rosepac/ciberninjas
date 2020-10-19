@@ -68,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-redes.webp"
 
 Los **mejores cursos gratuitos de creación y gestión de redes en la red**.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ## **Cursos Gratis de Redes**
@@ -115,7 +115,7 @@ Los **mejores cursos gratuitos de creación y gestión de redes en la red**.
 - [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwindows-server-y-linux-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 <!-- busquedas relacionadas: seguridad cisco, cisco, -->
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/){: .btn .btn-danger .btn-lg .btn-block}
+[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
 ### **Relacionados** <!-- omit in toc -->
 
