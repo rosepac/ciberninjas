@@ -74,7 +74,7 @@ Además, si necesitas acceder a la interfaz de Gmail adecuada, puedes hacerlo ha
 
 ## **4. Great Suspender**
 
-Esas 70 pestañas de Chrome que tienes abiertas están consumiendo la memoria de tu computadora, lo que hace que tu navegador Chrome, se ejecute lentamente. La [extensión Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg "La extensión Great Suspender se encarga de ahorrar memoria ram mientras mantienes muchas pestañas del navegador en funcionamiento"){:target="_blank" rel="nofollow,noreferrer"} con ese nombre realmente maravilloso, pone las pestañas que no utilices en reposo después de un período de tiempo que puedes elegir.
+Esas 70 pestañas de Chrome que tienes abiertas están consumiendo la memoria de tu computadora, lo que hace que tu navegador Chrome, se ejecute lentamente. La [extensión Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg "La extensión Great Suspender se encarga de ahorrar memoria ram mientras mantienes muchas pestañas del navegador en funcionamiento"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} con ese nombre realmente maravilloso, pone las pestañas que no utilices en reposo después de un período de tiempo que puedes elegir.
 
 Suspendiéndolas a un segundo plano hasta que desees volver a usarlas nuevamente.
 
