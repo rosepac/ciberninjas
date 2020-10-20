@@ -1,5 +1,5 @@
 ---
-title: "Anuncio del control de privacidad global en Privacy Badger"
+title: "▷ Anuncio del control de privacidad global en Privacy Badger"
 description: "Hoy, anunciamos que el próximo lanzamiento de Privacy Badger admitirá el Control de privacidad global, o GPC, de forma predeterminada."
 excerpt: "Hoy, anunciamos que el próximo lanzamiento de Privacy Badger admitirá el Control de privacidad global, o GPC, de forma predeterminada."
 layout: post
