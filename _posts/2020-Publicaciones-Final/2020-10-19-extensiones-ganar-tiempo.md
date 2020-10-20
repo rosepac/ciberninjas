@@ -36,7 +36,9 @@ A continuación, tienes **las 6 mejores extensiones que harán que tu tiempo de 
 
 ## **1. Productivity Owl**
 
-¿Sabe cuál es el mayor asesino de la productividad? Pasar el tiempo navegando por divertidos sitios cuando deberías estar trabajando.
+> ***Limita que los sitios web te hagan perder tiempo.***
+
+¿Sabes cuál es el mayor asesino de la productividad? Pasar el tiempo navegando por divertidos sitios cuando deberías estar trabajando.
 
 Déjate ayudar mimar, aunque solamente sea un poco, por [la extensión Productivity Owl](https://chrome.google.com/webstore/detail/productivity-owl/eoagmdboiealblmpaahjlhajggndaahi "La extensión Productivy Owl te ayuda a ahorrar tiempo y recordarte que no debes navegar fuera de horario"){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -48,9 +50,9 @@ También puede establecer bloques de "tiempo libre", por ejemplo, a primera hora
 
 Así, durante todo la jornada laboral, solamente podrás navegar para obtener la información necesario y salir, antes de que el búho cierre la pestaña.
 
-> ***Limita que los sitios web te hagan perder tiempo.***
-
 ## **2. SearchPreview**
+
+> ***Haz CLICK de forma más inteligente.**
 
 Ante el mar interminable de resultados de búsqueda que Google te ofrece, puede ser frustrante hacer Clic dentro y fuera de los sitios para encontrar lo que estás buscando realmente. La [extensión SearchPreview](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo "La extensión SearchPreview te ayuda a visualizar una vista previa de las búsquedas de Google"){:target="_blank" rel="nofollow,noreferrer"} te ayuda a elegir los enlaces más correctos.
 
@@ -58,9 +60,9 @@ Ante el mar interminable de resultados de búsqueda que Google te ofrece, puede 
 
 Esto le ayuda a tener una mejor idea del contenido de los diferentes sitios web, y quizás a poder escoger mejor lo que más importante sea. SearchPreview funciona con los motores de búsquedas más utilizados: Google, DuckDuckGo, Yahoo y Bing.
 
-> ***Haz CLICK de forma más inteligente.**
-
 ## **3. Checker Plus para Gmail**
+
+> ***Aprende a hacer malabares con Gmail.***
 
 Gmail puede ser una distracción constante durante el día. La [extensión Checker Plus para Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj){:target="_blank" rel="nofollow,noreferrer"} hace un trabajo increíble al ofrecerte muchas de las funciones de Gmail que necesitas, sin la necesidad de acceder dentro de la interfaz de Gmail.
 
@@ -69,8 +71,6 @@ Checker Plus recopila todos sus correos electrónicos en un menú desplegable or
 Incluso, la opción de redactar nuevos mensajes es algo muy sencillo a través de Checker Plus, ya que se abre una ventana independiente como la que encontrarías desde dentro de la interfaz de Gmail.
 
 Además, si necesitas acceder a la interfaz de Gmail adecuada, puedes hacerlo haciendo Clic en tu dirección de correo electrónico que aparece en el menú desplegable de la extensión. E incluso, si haces click en tu correo dentro de la línea de asunto de cualquier correo electrónico que recibas, eso te llevará a la página principal de Gmail.
-
-> ***Aprende a hacer malabares con Gmail.***
 
 ## **4. Great Suspender**
 
@@ -82,15 +82,17 @@ Puede incluir en la lista blanca los sitios que no deseas que se suspendan, y la
 
 ## **5. Nimbus**
 
+> ***Toma capturas de pantalla perfectas, en muy pocos segundos.***
+
 Hemos hablado de [la extensión Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj "La extensión Nimbus es la mejor opción para capturar la pantalla a través del navegador Chrome"){:target="_blank" rel="nofollow,noreferrer"} con anterioridad, tanto como [una gran extensión para Chrome](https://ciberninjas.com/chrome-extensiones-1-2020/#5-nimbus-note "Las 7 mejores extensiones de Chrome 2021"), como [una de las mejores opciones para capturar la pantalla](https://ciberninjas.com/capturas-pantalla-windows-10/ "Las 8 mejores fórmulas de crear capturas de pantalla en Windows 2021").
 
 Nimbus sin lugar a dudas, destaca entre el infinito mundo de software y aplicaciones que se encargan a capturar la pantalla, tanto por su facilidad de uso como por la extensa y variada lista de opciones que ofrece.
 
 Ya bien sea, que necesitas tomar exactamente lo que ves dentro de una página, solamente un fragmento en concreto de la página o la página por completo. Con Nimbus, vas a poder hacerlo con un simplemente un par de Clics. Sin la necesidad de realizar pulsaciones complicadas de teclado, ni ningún software de edición añadido.
 
-> ***Toma capturas de pantalla perfectas, en muy pocos segundos.***
-
 ## **6. LastPass**
+
+> ***Gestiona todo el poder de las contraseñas desde un único lugar.***
 
 Los expertos dicen que debe usar una contraseña única para cada cuenta que tenga, lo que parece una locura hasta que usa una herramienta como [la extensión LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd "La extensión de LastPass te permite gestionar y generar contraseñas de forma infinita, desde un único lugar."). Acorrala todas ttus contraseñas en un solo lugar y, de manera útil, crea contraseñas complicadas para registrarte en nuevos servicios.
 
@@ -99,8 +101,6 @@ Sí, los navegadores web, incluidos Chrome; ya son capaces de hacer esa misma la
 También puede proteger un montón de otras cosas, con LastPass: Los números de las tarjetas de crédito, las direcciones, notas seguras, tarjetas de membresía y más.
 
 LastPass ofrece cuentas gratuitas y de pago, pero la cuenta gratuita es más que suficiente y funciona en todos los dispositivos.
-
-> ***Gestiona todo el poder de las contraseñas desde un único lugar.***
 
 ### **Relacionados** <!-- omit in toc -->
 
