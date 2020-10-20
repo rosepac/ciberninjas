@@ -29,6 +29,8 @@ Nuestros maestros de ceremonia te guiarán por Keynotes de alto nivel, charlas t
 
 La conferencia será online y en español, aunque también tendremos charlas en inglés.
 
+## **Speakers del Evento Codemotion España**
+
 Los oradores confirmados hasta el momento, son:
 
 - [Jessica Rose](https://twitter.com/jesslynnrose){:target="_blank" rel="nofollow,noreferrer"} (Fundadora, Katla): Jessica Rose es una estratega y conferencista reconocida internacionalmente que se centra en cómo trabajan las personas en la industria de la tecnología. Está obsesionada con fomentar un acceso más equitativo a la educación técnica y un trabajo significativo en nuestra industria. Trabaja con Mozilla para ayudar a fomentar la próxima generación de pensadores y oradores técnicos. Fundó la serie de reuniones Open Code, ayudó a cofundar Trans * Code y presenta el Pursuit Podcast.
