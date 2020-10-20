@@ -250,6 +250,13 @@ a {
   text-decoration: none;
 }
 
+a[hreflang]:after { 
+  content: " [" attr(hreflang) "]"; 
+  color: #999;
+  vertical-align: super;
+  font-size: 70%;
+  }
+
 kbd {
   background-color: #eee;
   border-radius: 3px;
