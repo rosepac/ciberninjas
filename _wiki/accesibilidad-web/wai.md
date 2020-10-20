@@ -12,7 +12,7 @@ published: true
 author: rosepac
 bootstrap: true
 layout: post
-permalink: /wiki/apache-storm/
+permalink: /wiki/wai/
 canonical_URL: https://ciberninjas.com/wiki/wai/
 feature-img: /assets/img/wiki/articulos/wiki-wai.webp
 img: /assets/img/wiki/articulos/wiki-wai.webp
