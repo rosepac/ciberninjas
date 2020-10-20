@@ -252,7 +252,7 @@ a {
 
 a[hreflang]:after { 
   content: " [" attr(hreflang) "]"; 
-  color: #999;
+  color: $link-color;
   vertical-align: super;
   font-size: 70%;
   }
