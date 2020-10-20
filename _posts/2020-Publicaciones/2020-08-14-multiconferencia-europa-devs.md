@@ -27,6 +27,8 @@ Se reunirán a muchos de los grandes profesionales en IT con un amplio curriculu
 
 Las conferencias serán en inglés, y será totalmente gratis asistir a ellas de forma Online. Aunque si deseas, recibir acceso a la grabación posterior de las mismas junto a la realización de los numerosos talleres. Será necesario, realizar un pago previo de 60 €.
 
+## **Speakers del Evento Codemotion Europa**
+
 Los oradores confirmados hasta el momento son:
 
 - [Kevlin Henney](https://twitter.com/@KevlinHenney "Red social de Twitter del programador y editor de libros sobre programación Kevlin Henney"){:target="_blank" rel="nofollow,noreferrer"} (Director, Curbralan): Kevlin es consultor y formador independiente con sede en el Reino Unido. Sus intereses de desarrollo son los patrones, la programación, la práctica y el proceso. Ha sido columnista de varias revistas y sitios web, incluidos Better Software y The Register. Kevlin es coautor de A Pattern Language for Distributed Computing y On Patterns and Pattern Languages, dos volúmenes de la serie Arquitectura de software orientada a patrones. También es editor de 97 cosas que todo programador debería saber.
