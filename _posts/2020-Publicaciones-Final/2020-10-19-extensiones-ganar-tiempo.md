@@ -7,7 +7,7 @@ tags:
 - Extensiones Navegadores
 - Chrome
 thumbnail: /assets/img/blog/el-valor-del-tiempo.webp
-feature-img: /assets/img/blog/.webp
+feature-img: /assets/img/blog/el-valor-del-tiempo.webp
 title: '▷ 6 Extensiones de Chrome que te harán ahorrar tiempo'
 description: >-
   Limita a los sitios que consumen mucho de tu tiempo, simplica el trabajo en Gmail, controla tus contraseñas y más.
