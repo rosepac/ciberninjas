@@ -21,7 +21,7 @@ img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 
 > 🚨 Vamos a aprender todo lo que debemos saber sobre la EFF, quiénes son, que hacen, su historia y cómo podemos ayudar a promocionar su proyecto e incluso como podemos contáctarles.
 
-## ¿Qué es la EFF?
+## **¿Qué es la EFF?**
 
 La Electronic Frontier Foundation es la principal organización sin fines de lucro que defiende las libertades civiles en el mundo digital. Fundada en 1990, EFF defiende la privacidad del usuario, la libertad de expresión y la innovación a través de litigios de impacto, análisis de políticas, activismo de base y desarrollo de tecnología. Trabajamos para garantizar que los derechos y libertades se mejoren y protejan a medida que crece nuestro uso de la tecnología.
 
