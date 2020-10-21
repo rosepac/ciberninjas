@@ -24,6 +24,8 @@ thumbnail: /assets/img/2020/10/android-preguntas-frecuentes.webp
 
 El sistema operativo de Android se ha convertido gracias a los dispositivos móviles, sin ningún tipo de dudas. En el Sistema Operativo más utilizado del mundo. Si eres un desarrollador, crear aplicaciones para Android, será una de tus mejores opciones de aquí al futuro.
 
+![Las preguntas más frecuentes sobre Android y sus respectivas respuestas.](/assets/img/2020/10/android-preguntas-frecuentes.webp "Las preguntas más frecuentes sobre Android y sus respectivas respuestas.")
+
 A continuación, vas a encontrar las 50 preguntas más frecuentes, que se hace un desarrollador que se intenta iniciar en la programación de Android.
 
 <span id="menu"></span>
@@ -32,7 +34,7 @@ A continuación, vas a encontrar las 50 preguntas más frecuentes, que se hace u
 - [**2. ¿Qué es el SDK de Google Android?**](#2-qué-es-el-sdk-de-google-android)
 - [**3. ¿Qué es la arquitectura de Android?**](#3-qué-es-la-arquitectura-de-android)
 - [**4. ¿Qué es el framework de Android?**](#4-qué-es-el-framework-de-android)
-- [**5. ¿Qué es AAPT 2?**](#5-qué-es-aapt-2)
+- [**5. ¿Qué es AAPT?**](#5-qué-es-aapt)
 - [**6. ¿Cuál es la importancia de tener un emulador en el entorno de Android?**](#6-cuál-es-la-importancia-de-tener-un-emulador-en-el-entorno-de-android)
 - [**7. ¿De qué sirve ActivityCreator?**](#7-de-qué-sirve-activitycreator)
 - [**8. ¿Qué son las Activities?**](#8-qué-son-las-activities)
@@ -102,7 +104,7 @@ La arquitectura de Android se compone de 4 componentes clave:
 
 El framework de Android es un aspecto importante de la Arquitectura de Android. Desde [la API oficial de Android](https://developer.android.com/reference "La API oficial de Android"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} puedes tener acceso a todas las clases y métodos que los desarrolladores necesitan para escribir aplicaciones en el entorno Android.
 
-## **5. ¿Qué es AAPT 2?**
+## **5. ¿Qué es AAPT?**
 
 AAPT es la abreviatura de Android Asset Packaging Tool. Esta herramienta que brinda a los desarrolladores la capacidad de manejar archivos compatibles con formatos .JAR .APK y .ZIP. Lo que incluye crear, extraer y ver el contenido de este tipos de archivos.
 
@@ -359,8 +361,6 @@ Java es el lenguaje más popular para el desarrollo de aplicaciones, lo que lo h
 > **Fuente**: [Ayuda de Google](https://support.google.com/android/?hl=es){:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-![Las preguntas más frecuentes sobre Android y sus respectivas respuestas.](/assets/img/2020/10/android-preguntas-frecuentes.webp "Las preguntas más frecuentes sobre Android y sus respectivas respuestas.")
 
 <script type="application/ld+json">
 {
