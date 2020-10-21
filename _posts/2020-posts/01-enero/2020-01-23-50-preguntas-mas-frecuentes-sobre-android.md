@@ -5,7 +5,7 @@ bootstrap: true
 title: "▷ 50 Preguntas más frecuentes sobre Android"
 description: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
 excerpt: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
-published: false
+published: true
 comments: false
 date: 2020-10-20 10:22:12
 last_modified_at: 
@@ -41,7 +41,7 @@ La arquitectura de Android se compone de 4 componentes clave:
 
 ## **4. Describe el framework de Android.**
 
-![img](/assets/img/blog/android-sistema-operativo.webp "Logotipo del Sistema Operativo de Android")
+![Logotipo del Sistema Operativo de Android](/assets/img/blog/android-sistema-operativo.webp "Logotipo del Sistema Operativo de Android")
 
 El framework de Android es un aspecto importante de la Arquitectura de Android. Aquí puede encontrar todas las clases y métodos que los desarrolladores necesitarían para escribir aplicaciones en el entorno Android.
 
@@ -121,7 +121,7 @@ Entre los diferentes elementos, los elementos y deben estar presentes y pueden o
 
 ## **21. ¿Cómo se usan los caracteres de escape como atributo?**
 
-Los caracteres de escape están precedidos por barras diagonales inversas dobles. Por ejemplo, se crea un carácter de nueva línea usando '\\ n'
+Los caracteres de escape están precedidos por barras diagonales inversas dobles. Por ejemplo, se crea un carácter de nueva línea usando '\ n'
 
 ## **22) ¿Cuál es la importancia de los permisos de configuración en el desarrollo de aplicaciones?**
 
