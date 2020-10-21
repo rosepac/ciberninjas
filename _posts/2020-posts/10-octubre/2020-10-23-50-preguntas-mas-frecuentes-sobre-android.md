@@ -49,9 +49,9 @@ A continuación, vas a encontrar las 50 preguntas más frecuentes, que se hace u
 - [**19. ¿Qué es ANR?**](#19-qué-es-anr)
 - [**20. ¿Qué elementos pueden aparecer solo una vez y deben estar presentes?**](#20-qué-elementos-pueden-aparecer-solo-una-vez-y-deben-estar-presentes)
 - [**21. ¿Cómo se usan los caracteres de escape como atributo?**](#21-cómo-se-usan-los-caracteres-de-escape-como-atributo)
-- [**22) ¿Cuál es la importancia de los permisos de configuración en el desarrollo de aplicaciones?**](#22-cuál-es-la-importancia-de-los-permisos-de-configuración-en-el-desarrollo-de-aplicaciones)
+- [**22. ¿Cuál es la importancia de los permisos de configuración en el desarrollo de aplicaciones?**](#22-cuál-es-la-importancia-de-los-permisos-de-configuración-en-el-desarrollo-de-aplicaciones)
 - [**23. ¿Cuál es la función de un filtro de intención?**](#23-cuál-es-la-función-de-un-filtro-de-intención)
-- [**24. Enumere los tres bucles clave al monitorear una actividad**](#24-enumere-los-tres-bucles-clave-al-monitorear-una-actividad)
+- [**24. ¿Enumera los tres bucles clave al monitorear una actividad?**](#24-enumera-los-tres-bucles-clave-al-monitorear-una-actividad)
 - [**25. ¿Cuándo se invoca el método onStop ()?**](#25-cuándo-se-invoca-el-método-onstop-)
 - [**26. ¿Hay algún caso en el que otros calificadores en múltiples recursos tengan prioridad sobre el entorno local?**](#26-hay-algún-caso-en-el-que-otros-calificadores-en-múltiples-recursos-tengan-prioridad-sobre-el-entorno-local)
 - [**27. ¿Cuáles son los diferentes estados en los que se basa un proceso?**](#27-cuáles-son-los-diferentes-estados-en-los-que-se-basa-un-proceso)
@@ -59,9 +59,9 @@ A continuación, vas a encontrar las 50 preguntas más frecuentes, que se hace u
 - [**29. ¿Qué papel juega Dalvik en el desarrollo de Android?**](#29-qué-papel-juega-dalvik-en-el-desarrollo-de-android)
 - [**30. ¿Qué es AndroidManifest.xml?**](#30-qué-es-androidmanifestxml)
 - [**31. ¿Cuál es la forma correcta de configurar un dispositivo con Android para el desarrollo de aplicaciones?**](#31-cuál-es-la-forma-correcta-de-configurar-un-dispositivo-con-android-para-el-desarrollo-de-aplicaciones)
-- [**32. Enumere los pasos para crear un servicio acotado a través de AIDL.**](#32-enumere-los-pasos-para-crear-un-servicio-acotado-a-través-de-aidl)
+- [**32. ¿Qué pasos debo seguir para crear un servicio acotado a través de AIDL?**](#32-qué-pasos-debo-seguir-para-crear-un-servicio-acotado-a-través-de-aidl)
 - [**33. ¿Cuál es la importancia de los recursos predeterminados?**](#33-cuál-es-la-importancia-de-los-recursos-predeterminados)
-- [**34. Cuando se trata de múltiples recursos, ¿cuál tiene prioridad?**](#34-cuando-se-trata-de-múltiples-recursos-cuál-tiene-prioridad)
+- [**34. Cuándo se trata de múltiples recursos, ¿Cuál tiene prioridad?**](#34-cuándo-se-trata-de-múltiples-recursos-cuál-tiene-prioridad)
 - [**35. ¿Cuándo ocurre el ANR?**](#35-cuándo-ocurre-el-anr)
 - [**36. ¿Qué es AIDL?**](#36-qué-es-aidl)
 - [**37. ¿Qué tipos de datos son compatibles con AIDL?**](#37-qué-tipos-de-datos-son-compatibles-con-aidl)
@@ -77,7 +77,7 @@ A continuación, vas a encontrar las 50 preguntas más frecuentes, que se hace u
 - [**47. ¿Qué es el punto de acceso Wi-Fi portátil?**](#47-qué-es-el-punto-de-acceso-wi-fi-portátil)
 - [**48. ¿Qué es una acción?**](#48-qué-es-una-acción)
 - [**49. ¿Cuál es la diferencia entre un mapa de bits normal y una imagen de nueve parches?**](#49-cuál-es-la-diferencia-entre-un-mapa-de-bits-normal-y-una-imagen-de-nueve-parches)
-- [**50. ¿Qué idioma es compatible con Android para el desarrollo de aplicaciones?**](#50-qué-idioma-es-compatible-con-android-para-el-desarrollo-de-aplicaciones)
+- [**50. ¿Qué lenguaje de programación es compatible con Android para el desarrollo de aplicaciones?**](#50-qué-lenguaje-de-programación-es-compatible-con-android-para-el-desarrollo-de-aplicaciones)
 
 ## **1. ¿Qué es Android?**
 
@@ -170,7 +170,9 @@ Otra desventaja es que, dado que los dispositivos móviles, como teléfonos y pe
 
 ## **17. ¿Qué es adb?**
 
-Adb es la abreviatura de Android Debug Bridge. Permite a los desarrolladores el poder de ejecutar comandos de shell remotos. Su función básica es permitir y controlar la comunicación hacia y desde el puerto del emulador.
+Adb es la abreviatura de Android Debug Bridge, que permite a los desarrolladores el poder de ejecutar comandos de shell remotos.
+
+Su función básica es permitir y controlar la comunicación hacia y desde el puerto del emulador.
 
 ## **18. ¿Cuáles son los cuatro estados esenciales de una actividad?**
 
@@ -181,7 +183,7 @@ Adb es la abreviatura de Android Debug Bridge. Permite a los desarrolladores el 
 
 ## **19. ¿Qué es ANR?**
 
-ANR es la abreviatura de Aplicación que no responde. En realidad, este es un cuadro de diálogo que aparece al usuario cuando una aplicación no responde durante un largo período de tiempo.
+ANR es la abreviatura de Aplicación que No Responde. En realidad, este es un cuadro de diálogo que aparece al usuario cuando una aplicación no responde durante un largo período de tiempo.
 
 ## **20. ¿Qué elementos pueden aparecer solo una vez y deben estar presentes?**
 
@@ -193,7 +195,7 @@ Entre los diferentes elementos, los elementos y deben estar presentes y pueden o
 
 Los caracteres de escape están precedidos por barras diagonales inversas dobles. Por ejemplo, se crea un carácter de nueva línea usando '\ n'
 
-## **22) ¿Cuál es la importancia de los permisos de configuración en el desarrollo de aplicaciones?**
+## **22. ¿Cuál es la importancia de los permisos de configuración en el desarrollo de aplicaciones?**
 
 Los permisos permiten que se impongan ciertas restricciones principalmente para proteger los datos y el código. Sin estos, los códigos podrían verse comprometidos, lo que daría lugar a defectos en la funcionalidad.
 
@@ -201,7 +203,7 @@ Los permisos permiten que se impongan ciertas restricciones principalmente para 
 
 Debido a que cada componente necesita indicar a qué intenciones pueden responder, los filtros de intención se utilizan para filtrar las intenciones que estos componentes están dispuestos a recibir. Son posibles uno o más filtros de intención, dependiendo de los servicios y actividades que se vayan a utilizar.
 
-## **24. Enumere los tres bucles clave al monitorear una actividad**
+## **24. ¿Enumera los tres bucles clave al monitorear una actividad?**
 
 - Vida útil completa: la actividad ocurre entre onCreate y onDestroy.
 - Vida útil visible: la actividad ocurre entre onStart y onStop.
@@ -222,11 +224,13 @@ Hay 4 estados posibles:
 - Actividad en primer plano.
 - Actividad visible.
 - Actividad de fondo.
-- Proceso vacio.
+- Proceso vacío.
 
 ## **28. ¿Cómo se puede prevenir el ANR?**
 
-Una técnica que evita que el sistema Android concluya un código que ha respondido durante un largo período de tiempo es crear un hilo secundario. Dentro del subproceso secundario, se puede colocar la mayoría del funcionamiento real de los códigos, de modo que el subproceso principal se ejecute con períodos mínimos de tiempos sin respuesta.
+Una técnica que evita que el sistema Android concluya un código que ha respondido durante un largo período de tiempo es crear un hilo secundario.
+
+Dentro del subproceso secundario, se puede colocar la mayoría del funcionamiento real de los códigos, de modo que el subproceso principal se ejecute con períodos mínimos de tiempos sin respuesta.
 
 ## **29. ¿Qué papel juega Dalvik en el desarrollo de Android?**
 
@@ -246,7 +250,7 @@ Los siguientes son los pasos a seguir antes del desarrollo real de la aplicació
 - Active "Depuración de USB" en su dispositivo.
 - Configura tu sistema para detectar tu dispositivo.
 
-## **32. Enumere los pasos para crear un servicio acotado a través de AIDL.**
+## **32. ¿Qué pasos debo seguir para crear un servicio acotado a través de AIDL?**
 
 1. Cree el archivo .aidl, que define la interfaz de programación
 2. Implemente la interfaz, que implica extender la clase Stub abstracta interna así como implantar sus métodos.
@@ -256,7 +260,7 @@ Los siguientes son los pasos a seguir antes del desarrollo real de la aplicació
 
 Cuando los recursos predeterminados, que contienen cadenas y archivos predeterminados, no están presentes, se producirá un error y la aplicación no se ejecutará. Los recursos se colocan en subdirectorios especialmente nombrados bajo el directorio res / project.
 
-## **34. Cuando se trata de múltiples recursos, ¿cuál tiene prioridad?**
+## **34. Cuándo se trata de múltiples recursos, ¿Cuál tiene prioridad?**
 
 Suponiendo que todos estos recursos múltiples son capaces de coincidir con la configuración de un dispositivo, el calificador de "localización" casi siempre tiene la mayor prioridad sobre los demás.
 
@@ -266,17 +270,17 @@ El cuadro de diálogo ANR se muestra al usuario en función de dos condiciones p
 
 ## **36. ¿Qué es AIDL?**
 
-AIDL, o lenguaje de definición de interfaz de Android, maneja los requisitos de interfaz entre un cliente y un servicio para que ambos puedan comunicarse al mismo nivel a través de la comunicación entre procesos o IPC. Este proceso implica descomponer los objetos en primitivos que Android puede entender. Esta parte es necesaria simplemente porque un proceso no puede acceder a la memoria del otro proceso.
+AIDL o lenguaje de definición de interfaz de Android, maneja los requisitos de interfaz entre un cliente y un servicio para que ambos puedan comunicarse al mismo nivel a través de la comunicación entre procesos o IPC. Este proceso implica descomponer los objetos en primitivos que Android puede entender. Esta parte es necesaria simplemente porque un proceso no puede acceder a la memoria del otro proceso.
 
 ## **37. ¿Qué tipos de datos son compatibles con AIDL?**
 
 AIDL tiene soporte para los siguientes tipos de datos:
 
--string.
--charSequence.
--List.
--Map.
--todos los tipos de datos nativos de Java como int, long, char y Boolean.
+- String.
+- CharSequence.
+- List.
+- Map.
+- Todos los tipos de datos nativos de Java como int, long, char y Boolean.
 
 ## **38. ¿Qué es un fragmento?**
 
@@ -294,7 +298,7 @@ La actividad en primer plano, siendo la más importante entre los otros estados,
 
 ## **41. ¿Es posible usar o agregar un fragmento sin usar una interfaz de usuario?**
 
-Sí, es posible hacerlo, como cuando desea crear un comportamiento en segundo plano para una actividad en particular. Puede hacerlo utilizando el método add (Fragment, string) para agregar un fragmento de la actividad.
+Sí, es posible hacerlo, como cuando desea crear un comportamiento en segundo plano para una actividad en particular. Puede hacerlo utilizando el método add (Fragment, String) para agregar un fragmento de la actividad.
 
 ## **42. ¿Cómo se eliminan los iconos y widgets de la pantalla principal del dispositivo Android?**
 
@@ -304,7 +308,7 @@ Para eliminar un ícono o acceso directo, mantenga presionado ese ícono. Luego,
 
 Hay 5 componentes clave en la arquitectura de la aplicación de Android:
 
-- Sservicios.
+- Servicios.
 - Intención.
 - Externalización de recursos.
 - Notificaciones.
@@ -334,9 +338,11 @@ En el desarrollo de Android, una acción es lo que el remitente intencional quie
 
 En general, una imagen de nueve parches permite cambiar el tamaño que se puede utilizar como fondo u otros requisitos de tamaño de imagen para el dispositivo de destino. El parche de nueve se refiere a la forma en que puede cambiar el tamaño de la imagen: 4 esquinas sin escala, 4 bordes que se escalan en 1 eje y el medio que se puede escalar en ambos ejes.
 
-## **50. ¿Qué idioma es compatible con Android para el desarrollo de aplicaciones?**
+## **50. ¿Qué lenguaje de programación es compatible con Android para el desarrollo de aplicaciones?**
 
-El idioma principal admitido es el lenguaje de programación Java. Java es el lenguaje más popular para el desarrollo de aplicaciones, lo que lo hace ideal incluso para los nuevos desarrolladores de Android para aprender rápidamente a crear e implementar aplicaciones en el entorno de Android.
+El lenguaje principal admitido es el lenguaje de programación Java. Aunque en la actualidad, se comienza a incluir, Dart junto a Kotlin.
+
+Java es el lenguaje más popular para el desarrollo de aplicaciones, lo que lo hace ideal incluso para los nuevos desarrolladores de Android para aprender rápidamente a crear e implementar aplicaciones en el entorno de Android.
 
 [⏫ Regresar al Inicio](/preguntas-frecuentes-android/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -355,3 +361,354 @@ El idioma principal admitido es el lenguaje de programación Java. Java es el le
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las preguntas más frecuentes sobre Android y sus respectivas respuestas.](/assets/img/2020/10/android-preguntas-frecuentes.webp "Las preguntas más frecuentes sobre Android y sus respectivas respuestas.")
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Android es un sistema operativo de código abierto que se utiliza principalmente en dispositivos móviles, como teléfonos celulares y tabletas."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es el SDK de Google Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El SDK de Android de Google es un conjunto de herramientas que los desarrolladores necesitan para escribir aplicaciones en dispositivos  Android."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es la arquitectura de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La arquitectura de Android es el grupo de componentes que forman al Sistema Operativo por completo, que son: El Kernel de Linux, las bibliotecas, el framework y las aplicaciones."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es el framework de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El framework de Android es un aspecto importante de la Arquitectura de Android, formado por un conglomerado de clases y métodos específicos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es AAPT?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AAPT es la abreviatura de Android Asset Packaging Tool, una herramienta que brinda a los desarrolladores la capacidad de manejar archivos compatibles con formatos .JAR, .APK y .zip."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la importancia de tener un emulador en el entorno de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El emulador permite a los desarrolladores \"jugar\" alrededor de una interfaz que actúa como si fuera un dispositivo móvil real."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿De qué sirve ActivityCreator?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ActivityCreator es el primer paso hacia la creación de un nuevo proyecto de Android."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué son las Activities?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Las Activities son lo que se llama en la ventana dentro de la interfaz de usuario."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué son las Intents?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Intents muestra los mensajes de notificación al usuario desde el dispositivo habilitado para Android."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo puedo diferenciar entre "actividades"/Activities de "servicios"/Services?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Las actividades se pueden cerrar o finalizar en cualquier momento que el usuario lo desee.  Los servicios están diseñados para ejecutarse detrás de escena y pueden actuar de forma independiente."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué elementos son importantes en cada proyecto de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los elementos esenciales de un proyecto Android son los ficheros:  AndroidManifest.xml, build.xml; y las rutas: bin, src, res y assets."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la importancia de los diseños basados en XML?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El uso de los diseños basados en XML proporciona un medio consistente y estándar para establecer un formato de definición de la GUI."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué son los contenedores?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los contenedores mantienen unidos los objetos y los widgets."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es la orientación?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La orientación, que se puede establecer usando setOrientation () dicta si LinearLayout se representa como una fila o una columna."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la importancia de desarrollar para Android en el mercado móvil actual?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Con la creciente popularidad de los dispositivos móviles Android, los desarrolladores pueden aprovechar esta tendencia creando y cargando sus aplicaciones en el Android Market para distribuirlos por todo el mundo."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son las desventajas de desarrollar para Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La salida de nuevas versiones del Sistema Operativo, hacen que a la hora de programar, se deba tener en cuenta hacía que versión concreta se decide desarrollar cierta aplicación. Además, siempre existe la complicación de los diferentes tamaños en las pantallas de los Smartphone."
+    }
+  },{
+    "@type": "Question",
+    "name": "Qué es adb?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Adb es la abreviatura de Android Debug Bridge, que permite a los desarrolladores el poder de ejecutar comandos de shell remotos"
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los cuatro estados esenciales de una actividad?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Activo, en pausa, detenido o destruido / finalizado."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es ANR?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ANR es la abreviatura de Aplicación que No Responde, un cuadro de diálogo que aparece al usuario cuando una aplicación no responde durante un largo período de tiempo."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se usan los caracteres de escape como atributo?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los caracteres de escape están precedidos por barras diagonales inversas dobles."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la importancia de los permisos de configuración en el desarrollo de aplicaciones?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los permisos permiten que se impongan ciertas restricciones principalmente para proteger los datos y el código."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la función de un filtro de intención?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los filtros de intención se utilizan para filtrar las intenciones que estos componentes están dispuestos a recibir."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Enumera los tres bucles clave al monitorear una actividad?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Vida útil completa, vida útil visible y vida útil en primer plano."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuándo se invoca el método onStop ()?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Una llamada al método onStop ocurre cuando una actividad ya no es visible para el usuario."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Hay algún caso en el que otros calificadores en múltiples recursos tengan prioridad sobre el entorno local?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "En realidad hay casos en los que algunos calificadores pueden tener prioridad sobre la configuración regional."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los diferentes estados en los que se basa un proceso?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Actividad en primer plano, actividad visible, actividad de fondo y proceso vacío."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se puede prevenir el ANR?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Una técnica que evita que el sistema Android concluya un código que ha respondido durante un largo período de tiempo es crear un hilo secundario."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué papel juega Dalvik en el desarrollo de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dalvik sirve como una máquina virtual, y es donde se ejecuta cada aplicación de Android."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es AndroidManifest.xml?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AndroidManifest.xml es un archivo esencial en todas las aplicaciones."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la forma correcta de configurar un dispositivo con Android para el desarrollo de aplicaciones?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes seguir 3 pasos, fundamentalmente, declara la aplicación como \"depurable\" en el fichero Manifest, activar la depuración de USB y configurar el sistema para detectar el dispositivo."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué pasos debo seguir para crear un servicio acotado a través de AIDL?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Crear el archivo .aidl, implementar la interfaz e implantar los métodos adecuados, y por último; exponer la interfaz."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la importancia de los recursos predeterminados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Si los recursos predeterminados, que contienen las cadenas y archivos predeterminados, no están presentes. Se producirá un error y la aplicación no se ejecutará."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál recurso tiene prioridad?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El calificador de \"localización\" casi siempre tiene la mayor prioridad sobre los demás."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuándo ocurre el ANR?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Las dos situaciones en las que se muestra el ANR son: 1. Cuando no hay respuesta a un evento de entrada dentro de los 5 segundos. 2. Cuando un receptor de difusión no se ejecuta en 10 segundos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es AIDL?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AIDL o lenguaje de definición de interfaz de Android, maneja los requisitos de interfaz entre un cliente y un servicio para que ambos puedan comunicarse al mismo nivel a través de la comunicación entre procesos o IPC."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué tipos de datos son compatibles con AIDL?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "String, CharSequence, List, Map, todos los tipos de datos nativos de Java como int, long, char y Boolean."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es un fragmento?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Un fragmento es una parte o porción de una actividad. Es modular en el sentido de que puede moverse o combinarse con otros fragmentos en una sola actividad."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es una actividad visible?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Una actividad visible es aquella que se encuentra detrás de un diálogo de primer plano."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuándo es el mejor momento para matar una actividad en primer plano?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Las actividades en primer plano solamente deben ser eliminadas o finalizadas como último recurso, sobre todo, si está consumiendo demasiada memoria."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Es posible usar o agregar un fragmento sin usar una interfaz de usuario?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sí, puedes hacerlo utilizando el método add (Fragment, String)."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se eliminan los iconos y widgets de la pantalla principal del dispositivo Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Simplemente debe mantener presionado el ícono, y luego arrastrarlo hacia abajo a la parte inferior de la pantalla donde aparecerá un botón de eliminación."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los componentes principales de la arquitectura de la aplicación de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Servicios, Intención, Externalización de recursos, Notificaciones y Proveedores de contenido."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué compone un proyecto típico de aplicación de Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Un proyecto en desarrollo de Android, una vez compilado, se convierte en un archivo .apk. Formado por el archivo AndroidManifest.xml, el código de la aplicación, los archivos de recursos y otros archivos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es una intención adhesiva?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Una intención fija es una transmisión del método sendStickyBroadcast () de tal manera que la intención sigue activa incluso después de la transmisión."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Todos los teléfonos móviles son compatibles con el último sistema operativo Android?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No, no todas las actualizaciones permiten ser instaladas sobre todos los dispositivos. El móvil debe ofrecer unos requisitos mínimos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es el punto de acceso Wi-Fi portátil?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El punto de acceso Wi-Fi portátil le permite compartir su conexión de Internet móvil a otro dispositivo inalámbrico."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es una acción?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Una acción es lo que el remitente intencional quiere hacer o espera obtener como respuesta."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la diferencia entre un mapa de bits normal y una imagen de nueve parches?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Una imagen de nueve parches permite cambiar el tamaño que se puede utilizar como fondo u otros requisitos de tamaño de imagen para el dispositivo de destino. El parche de nueve se refiere a la forma en que puede cambiar el tamaño de la imagen."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje de programación es compatible con Android para el desarrollo de aplicaciones?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El lenguaje principal admitido es el lenguaje de programación Java, y en la actualidad, se está comenzando a incluir el lenguaje Dart junto a Kotlin."
+    }
+  }]
+}
+</script>
