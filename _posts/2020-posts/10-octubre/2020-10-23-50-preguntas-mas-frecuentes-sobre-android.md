@@ -3,8 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ 50 Preguntas más Frecuentes sobre Android"
-description: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
-excerpt: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
+description: "Las preguntas más frecuentes sobre Android y sus respectivas respuestas."
+excerpt: "Las preguntas más frecuentes sobre Android y sus respectivas respuestas."
 published: true
 comments: false
 date: 2020-10-20 10:22:12
@@ -15,12 +15,69 @@ tags:
 - Android
 - Sistema Operativo
 - Tutorial Android
+canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
+feature-img: /assets/img/2020/10/android-preguntas-frecuentes.webp
+img: /assets/img/2020/10/android-preguntas-frecuentes.webp
+thumbnail: /assets/img/2020/10/android-preguntas-frecuentes.webp
 
 ---
 
 El sistema operativo de Android se ha convertido gracias a los dispositivos móviles, sin ningún tipo de dudas. En el Sistema Operativo más utilizado del mundo. Si eres un desarrollador, crear aplicaciones para Android, será una de tus mejores opciones de aquí al futuro.
 
 A continuación, vas a encontrar las 50 preguntas más frecuentes, que se hace un desarrollador que se intenta iniciar en la programación de Android.
+
+<span id="menu"></span>
+
+- [**1. ¿Qué es Android?**](#1-qué-es-android)
+- [**2. ¿Qué es el SDK de Google Android?**](#2-qué-es-el-sdk-de-google-android)
+- [**3. ¿Qué es la arquitectura de Android?**](#3-qué-es-la-arquitectura-de-android)
+- [**4. ¿Qué es el framework de Android?**](#4-qué-es-el-framework-de-android)
+- [**5. ¿Qué es AAPT 2?**](#5-qué-es-aapt-2)
+- [**6. ¿Cuál es la importancia de tener un emulador en el entorno de Android?**](#6-cuál-es-la-importancia-de-tener-un-emulador-en-el-entorno-de-android)
+- [**7. ¿De qué sirve ActivityCreator?**](#7-de-qué-sirve-activitycreator)
+- [**8. ¿Qué son las Activities?**](#8-qué-son-las-activities)
+- [**9. ¿Qué son las Intents?**](#9-qué-son-las-intents)
+- [**10. ¿Cómo puedo diferenciar entre "actividades"/Activities de "servicios"/Services?**](#10-cómo-puedo-diferenciar-entre-actividadesactivities-de-serviciosservices)
+- [**11. ¿Qué elementos son importantes en cada proyecto de Android?**](#11-qué-elementos-son-importantes-en-cada-proyecto-de-android)
+- [**12. ¿Cuál es la importancia de los diseños basados en XML?**](#12-cuál-es-la-importancia-de-los-diseños-basados-en-xml)
+- [**13. ¿Qué son los contenedores?**](#13-qué-son-los-contenedores)
+- [**14. ¿Qué es la orientación?**](#14-qué-es-la-orientación)
+- [**15. ¿Cuál es la importancia de Android en el mercado móvil?**](#15-cuál-es-la-importancia-de-android-en-el-mercado-móvil)
+- [**16. ¿Cuáles son las desventajas de Android?**](#16-cuáles-son-las-desventajas-de-android)
+- [**17. ¿Qué es adb?**](#17-qué-es-adb)
+- [**18. ¿Cuáles son los cuatro estados esenciales de una actividad?**](#18-cuáles-son-los-cuatro-estados-esenciales-de-una-actividad)
+- [**19. ¿Qué es ANR?**](#19-qué-es-anr)
+- [**20. ¿Qué elementos pueden aparecer solo una vez y deben estar presentes?**](#20-qué-elementos-pueden-aparecer-solo-una-vez-y-deben-estar-presentes)
+- [**21. ¿Cómo se usan los caracteres de escape como atributo?**](#21-cómo-se-usan-los-caracteres-de-escape-como-atributo)
+- [**22) ¿Cuál es la importancia de los permisos de configuración en el desarrollo de aplicaciones?**](#22-cuál-es-la-importancia-de-los-permisos-de-configuración-en-el-desarrollo-de-aplicaciones)
+- [**23. ¿Cuál es la función de un filtro de intención?**](#23-cuál-es-la-función-de-un-filtro-de-intención)
+- [**24. Enumere los tres bucles clave al monitorear una actividad**](#24-enumere-los-tres-bucles-clave-al-monitorear-una-actividad)
+- [**25. ¿Cuándo se invoca el método onStop ()?**](#25-cuándo-se-invoca-el-método-onstop-)
+- [**26. ¿Hay algún caso en el que otros calificadores en múltiples recursos tengan prioridad sobre el entorno local?**](#26-hay-algún-caso-en-el-que-otros-calificadores-en-múltiples-recursos-tengan-prioridad-sobre-el-entorno-local)
+- [**27. ¿Cuáles son los diferentes estados en los que se basa un proceso?**](#27-cuáles-son-los-diferentes-estados-en-los-que-se-basa-un-proceso)
+- [**28. ¿Cómo se puede prevenir el ANR?**](#28-cómo-se-puede-prevenir-el-anr)
+- [**29. ¿Qué papel juega Dalvik en el desarrollo de Android?**](#29-qué-papel-juega-dalvik-en-el-desarrollo-de-android)
+- [**30. ¿Qué es AndroidManifest.xml?**](#30-qué-es-androidmanifestxml)
+- [**31. ¿Cuál es la forma correcta de configurar un dispositivo con Android para el desarrollo de aplicaciones?**](#31-cuál-es-la-forma-correcta-de-configurar-un-dispositivo-con-android-para-el-desarrollo-de-aplicaciones)
+- [**32. Enumere los pasos para crear un servicio acotado a través de AIDL.**](#32-enumere-los-pasos-para-crear-un-servicio-acotado-a-través-de-aidl)
+- [**33. ¿Cuál es la importancia de los recursos predeterminados?**](#33-cuál-es-la-importancia-de-los-recursos-predeterminados)
+- [**34. Cuando se trata de múltiples recursos, ¿cuál tiene prioridad?**](#34-cuando-se-trata-de-múltiples-recursos-cuál-tiene-prioridad)
+- [**35. ¿Cuándo ocurre el ANR?**](#35-cuándo-ocurre-el-anr)
+- [**36. ¿Qué es AIDL?**](#36-qué-es-aidl)
+- [**37. ¿Qué tipos de datos son compatibles con AIDL?**](#37-qué-tipos-de-datos-son-compatibles-con-aidl)
+- [**38. ¿Qué es un fragmento?**](#38-qué-es-un-fragmento)
+- [**39. ¿Qué es una actividad visible?**](#39-qué-es-una-actividad-visible)
+- [**40. ¿Cuándo es el mejor momento para matar una actividad en primer plano?**](#40-cuándo-es-el-mejor-momento-para-matar-una-actividad-en-primer-plano)
+- [**41. ¿Es posible usar o agregar un fragmento sin usar una interfaz de usuario?**](#41-es-posible-usar-o-agregar-un-fragmento-sin-usar-una-interfaz-de-usuario)
+- [**42. ¿Cómo se eliminan los iconos y widgets de la pantalla principal del dispositivo Android?**](#42-cómo-se-eliminan-los-iconos-y-widgets-de-la-pantalla-principal-del-dispositivo-android)
+- [**43. ¿Cuáles son los componentes principales de la arquitectura de la aplicación de Android?**](#43-cuáles-son-los-componentes-principales-de-la-arquitectura-de-la-aplicación-de-android)
+- [**44. ¿Qué compone un proyecto típico de aplicación de Android?**](#44-qué-compone-un-proyecto-típico-de-aplicación-de-android)
+- [**45. ¿Qué es una intención adhesiva?**](#45-qué-es-una-intención-adhesiva)
+- [**46. ¿Todos los teléfonos móviles son compatibles con el último sistema operativo Android?**](#46-todos-los-teléfonos-móviles-son-compatibles-con-el-último-sistema-operativo-android)
+- [**47. ¿Qué es el punto de acceso Wi-Fi portátil?**](#47-qué-es-el-punto-de-acceso-wi-fi-portátil)
+- [**48. ¿Qué es una acción?**](#48-qué-es-una-acción)
+- [**49. ¿Cuál es la diferencia entre un mapa de bits normal y una imagen de nueve parches?**](#49-cuál-es-la-diferencia-entre-un-mapa-de-bits-normal-y-una-imagen-de-nueve-parches)
+- [**50. ¿Qué idioma es compatible con Android para el desarrollo de aplicaciones?**](#50-qué-idioma-es-compatible-con-android-para-el-desarrollo-de-aplicaciones)
 
 ## **1. ¿Qué es Android?**
 
@@ -39,35 +96,37 @@ La arquitectura de Android se compone de 4 componentes clave:
 - El Framework de Android.
 - Las Aplicaciones de Android.
 
-## **4. Describe el framework de Android.**
+## **4. ¿Qué es el framework de Android?**
 
 ![Logotipo del Sistema Operativo de Android](/assets/img/blog/android-sistema-operativo.webp "Logotipo del Sistema Operativo de Android")
 
-El framework de Android es un aspecto importante de la Arquitectura de Android. Aquí puede encontrar todas las clases y métodos que los desarrolladores necesitarían para escribir aplicaciones en el entorno Android.
+El framework de Android es un aspecto importante de la Arquitectura de Android. Desde [la API oficial de Android](https://developer.android.com/reference "La API oficial de Android"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} puedes tener acceso a todas las clases y métodos que los desarrolladores necesitan para escribir aplicaciones en el entorno Android.
 
-## **5. ¿Qué es AAPT?**
+## **5. ¿Qué es AAPT 2?**
 
-AAPT es la abreviatura de Android Asset Packaging Tool. Esta herramienta brinda a los desarrolladores la capacidad de manejar archivos compatibles con zip, lo que incluye crear, extraer y ver su contenido.
+AAPT es la abreviatura de Android Asset Packaging Tool. Esta herramienta que brinda a los desarrolladores la capacidad de manejar archivos compatibles con formatos .JAR .APK y .ZIP. Lo que incluye crear, extraer y ver el contenido de este tipos de archivos.
 
 ## **6. ¿Cuál es la importancia de tener un emulador en el entorno de Android?**
 
 El emulador permite a los desarrolladores "jugar" alrededor de una interfaz que actúa como si fuera un dispositivo móvil real. Pueden escribir y probar códigos, e incluso depurar. Los emuladores son un lugar seguro para probar códigos, especialmente si se encuentra en la fase inicial de diseño.
 
-## **7. ¿De qué sirve activityCreator?**
+## **7. ¿De qué sirve ActivityCreator?**
 
 ActivityCreator es el primer paso hacia la creación de un nuevo proyecto de Android. Está compuesto por un script de shell que se utilizará para crear la nueva estructura del sistema de archivos necesaria para escribir códigos dentro del IDE de Android.
 
-## **8. Describe Activities.**
+## **8. ¿Qué son las Activities?**
 
-Las Activities son lo que usted llama la ventana de la interfaz de usuario. Del mismo modo que crea ventanas para mostrar resultados o para solicitar una entrada en forma de cuadros de diálogo, las actividades juegan el mismo papel, aunque no siempre puede ser en forma de interfaz de usuario.
+Las Activities son lo que se llama en la ventana dentro de la interfaz de usuario. Del mismo modo que crea ventanas para mostrar resultados o para solicitar una entrada en forma de cuadros de diálogo, las actividades juegan el mismo papel, aunque no siempre pueden formar parte de la interfaz de usuario.
 
 ## **9. ¿Qué son las Intents?**
 
-Intents muestra mensajes de notificación al usuario desde el dispositivo habilitado para Android. Se puede usar para alertar al usuario de los estados que ocurren. Se puede hacer participe al usuario, haciendo que estos respondan a los "intents".
+Intents muestra los mensajes de notificación al usuario desde el dispositivo habilitado para Android. Se puede usar para alertar al usuario de los estados que ocurren. Se puede hacer participe al usuario, haciendo que estos respondan a los "intents".
 
-## **10. Diferenciar "actividades"/Activities de "servicios"/Services.**
+## **10. ¿Cómo puedo diferenciar entre "actividades"/Activities de "servicios"/Services?**
 
 Las actividades se pueden cerrar o finalizar en cualquier momento que el usuario lo desee. Por otro lado, los servicios están diseñados para ejecutarse detrás de escena y pueden actuar de forma independiente. La mayoría de los servicios se ejecutan continuamente, independientemente de si se ejecutan ciertas actividades o no.
+
+[⏫ Regresar al Inicio](/preguntas-frecuentes-android/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **11. ¿Qué elementos son importantes en cada proyecto de Android?**
 
@@ -88,17 +147,26 @@ El uso de los diseños basados en XML proporciona un medio consistente y estánd
 
 Los contenedores, como su propio nombre lo indica, mantienen unidos los objetos y los widgets, dependiendo de qué elementos específicos se necesitan y en qué disposición particular se desea. Los contenedores pueden contener etiquetas, campos, botones o incluso contenedores secundarios, como ejemplos.
 <!-- https://www.guru99.com/android-interview-questions.html -->
+
 ## **14. ¿Qué es la orientación?**
 
 La orientación, que se puede establecer usando setOrientation (), dicta si LinearLayout se representa como una fila o una columna. Los valores se establecen como HORIZONTALES o VERTICALES.
 
 ## **15. ¿Cuál es la importancia de Android en el mercado móvil?**
 
-Los desarrolladores pueden escribir y registrar aplicaciones que se ejecutarán específicamente en el entorno Android. Esto significa que todos los dispositivos móviles que tengan Android habilitado podrán admitir y ejecutar estas aplicaciones. Con la creciente popularidad de los dispositivos móviles Android, los desarrolladores pueden aprovechar esta tendencia creando y cargando sus aplicaciones en el Android Market para distribuirlas a cualquiera que quiera descargarlas.
+Los desarrolladores pueden escribir y registrar aplicaciones que se ejecuten específicamente en el entorno de Android.
 
-## **16. ¿Cuáles crees que son algunas desventajas de Android?**
+Esto significa que todos los dispositivos móviles que tengan Android habilitado podrán admitir y ejecutar estas aplicaciones.
 
-Dado que Android es una plataforma de código abierto, y el hecho de que se han lanzado diferentes sistemas operativos Android en diferentes dispositivos móviles, no existe una política clara sobre cómo las aplicaciones pueden adaptarse con varias versiones y actualizaciones del sistema operativo. Una aplicación que se ejecuta en esta versión particular del sistema operativo Android puede o no ejecutarse en otra versión. Otra desventaja es que, dado que los dispositivos móviles, como teléfonos y pestañas, tienen diferentes tamaños y formas, representa un desafío para los desarrolladores crear aplicaciones que puedan ajustarse correctamente al tamaño de pantalla correcto y otras características y especificaciones variables.
+Con la creciente popularidad de los dispositivos móviles Android, los desarrolladores pueden aprovechar esta tendencia creando y cargando sus aplicaciones en el Android Market para distribuirlas a cualquiera que quiera descargarlas.
+
+## **16. ¿Cuáles son las desventajas de Android?**
+
+Dado que Android es una plataforma de código abierto y el hecho de que se han lanzado diferentes sistemas operativos Android en diferentes dispositivos móviles, no existe una política clara sobre cómo las aplicaciones pueden adaptarse con varias versiones y actualizaciones del sistema operativo.
+
+Una aplicación que se ejecuta en esta versión particular del sistema operativo Android puede o no ejecutarse en otra versión.
+
+Otra desventaja es que, dado que los dispositivos móviles, como teléfonos y pestañas, tienen diferentes tamaños y formas, representa un desafío para los desarrolladores crear aplicaciones que puedan ajustarse correctamente al tamaño de pantalla correcto y otras características y especificaciones variables.
 
 ## **17. ¿Qué es adb?**
 
@@ -118,6 +186,8 @@ ANR es la abreviatura de Aplicación que no responde. En realidad, este es un cu
 ## **20. ¿Qué elementos pueden aparecer solo una vez y deben estar presentes?**
 
 Entre los diferentes elementos, los elementos y deben estar presentes y pueden ocurrir solo una vez. El resto son opcionales y pueden ocurrir tantas veces como sea necesario.
+
+[⏫ Regresar al Inicio](/preguntas-frecuentes-android/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **21. ¿Cómo se usan los caracteres de escape como atributo?**
 
@@ -165,6 +235,8 @@ Dalvik sirve como una máquina virtual, y es donde se ejecuta cada aplicación d
 ## **30. ¿Qué es AndroidManifest.xml?**
 
 Este archivo es esencial en todas las aplicaciones. Se declara en el directorio raíz y contiene información sobre la aplicación que el sistema Android debe conocer antes de que se puedan ejecutar los códigos.
+
+[⏫ Regresar al Inicio](/preguntas-frecuentes-android/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **31. ¿Cuál es la forma correcta de configurar un dispositivo con Android para el desarrollo de aplicaciones?**
 
@@ -218,6 +290,8 @@ Una actividad visible es aquella que se encuentra detrás de un diálogo de prim
 
 La actividad en primer plano, siendo la más importante entre los otros estados, solo se elimina o finaliza como último recurso, especialmente si ya está consumiendo demasiada memoria. Cuando un estado de paginación de memoria ha sido alcanzado por una actividad en primer plano, entonces se desactiva para que la interfaz de usuario pueda retener su capacidad de respuesta al usuario.
 
+[⏫ Regresar al Inicio](/preguntas-frecuentes-android/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+
 ## **41. ¿Es posible usar o agregar un fragmento sin usar una interfaz de usuario?**
 
 Sí, es posible hacerlo, como cuando desea crear un comportamiento en segundo plano para una actividad en particular. Puede hacerlo utilizando el método add (Fragment, string) para agregar un fragmento de la actividad.
@@ -264,6 +338,20 @@ En general, una imagen de nueve parches permite cambiar el tamaño que se puede 
 
 El idioma principal admitido es el lenguaje de programación Java. Java es el lenguaje más popular para el desarrollo de aplicaciones, lo que lo hace ideal incluso para los nuevos desarrolladores de Android para aprender rápidamente a crear e implementar aplicaciones en el entorno de Android.
 
------
+[⏫ Regresar al Inicio](/preguntas-frecuentes-android/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-> **Fuente**: [Google Help](https://support.google.com/android/?hl=es){:target="_blank" rel="nofollow,noreferrer"}
+### **Relacionados** <!-- omit in toc -->
+
+[🥇 ▷ Los 14 Mejores Framework de Desarrollo de Aplicaciones](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
+
+[▷ 15 Mejores cursos gratis de Android, Flutter, Kotlin y Dart](https://ciberninjas.com/cursos-android/)
+
+[▷ Los 11 mejores libros de Android y Kotlin 2021](https://ciberninjas.com/mejores-libros-android-kotlin/)
+
+[▷ Vista previa de Android 11 para desarrolladores](https://ciberninjas.com/android-11-para-desarrolladores/)
+
+> **Fuente**: [Ayuda de Google](https://support.google.com/android/?hl=es){:target="_blank" rel="nofollow,noreferrer"}
+
+[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![Las preguntas más frecuentes sobre Android y sus respectivas respuestas.](/assets/img/2020/10/android-preguntas-frecuentes.webp "Las preguntas más frecuentes sobre Android y sus respectivas respuestas.")

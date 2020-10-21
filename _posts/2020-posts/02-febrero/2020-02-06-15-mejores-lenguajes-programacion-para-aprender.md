@@ -47,6 +47,8 @@ Echemos un vistazo a los mejores lenguajes de programación para aprender durant
 
 > 🔥 Quizás te interese: [programar gratis](/programa-gratis/) >> [aprender a programar](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [mejores teclados](/teclados-ratones-dise%C3%B1o/)
 
+<span id="menu"></span>
+
 - [**1. Python**](#1-python)
   - [**Beneficios de Python**](#beneficios-de-python)
   - [**Contras de Python**](#contras-de-python)
@@ -100,7 +102,7 @@ Muchas nuevas empresas están utilizando Python como su tecnología principal de
 - La capa de acceso a la base de datos es algo inmadura.
 - El enhebrado no es bueno debido a GIL (Global Interpreter Lock).
 
-[⏩ Página Web de Python](https://www.python.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Aprender Python](/python/){: .btn .btn-outline-dark .btn-lg .btn-block}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Python](https://www.python.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Aprender Python](/python/){: .btn .btn-outline-dark .btn-lg .btn-block}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### Libros para Aprender Python <!-- omit in toc -->
 
@@ -135,7 +137,7 @@ Java también se usa ampliamente en el desarrollo de aplicaciones de Android y c
 - Gestión costosa de la memoria.
 - Más lento que los lenguajes de programación compilados de forma nativa, como C y C ++.
 
-[⏩ Página Web de Java](https://docs.oracle.com/javase/tutorial/java/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Java](https://docs.oracle.com/javase/tutorial/java/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### Libros para Aprender Java <!-- omit in toc -->
 
@@ -183,7 +185,7 @@ El soporte de estas bibliotecas y la velocidad del lenguaje lo convierten en una
 - Plagado por los problemas de desbordamiento de búfer y corrupción de memoria C / C++.
 - Biblioteca estándar más pequeña C.
 
-[⏩ Página Web de C++](https://isocpp.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de C++](https://isocpp.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **4. Javascript**
 
@@ -223,7 +225,7 @@ Por lo tanto, ahora con JS, puede usar un solo lenguaje de programación para lo
 No existe una web oficial de Javascript, por ende adjuntaremos la web de ECMAScript que es un estándar web que se supone crean y deben respetar todos los navegadores; y además, enlazaremos a las páginas oficiales de los motoroes de renderizado usados por los buscadores o empresas más potentes.
 {: .notice--info}
 
-[⏩ Estándar de Javascript: ECMAScript](https://www.ecma-international.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Estándar de Javascript: ECMAScript](https://www.ecma-international.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### ***Libros para Aprender Javascript** <!-- omit in toc -->
 
@@ -269,7 +271,7 @@ Go, también conocido como Golang, es un lenguaje de programación creado por Go
 - No hay biblioteca GUI.
 - Soporte de biblioteca desfavorecida.
 
-[⏩ Página Web de Go](https://golang.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Go](https://golang.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **6. R**
 
@@ -296,7 +298,7 @@ El lenguaje de programación R es uno de los lenguajes de programación más uti
 - Mala gestión de la memoria.
 - La calidad de algunos paquetes es deficiente.
 
-[⏩ Página Web de R](https://www.r-project.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de R](https://www.r-project.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **7. Swift**
 
@@ -326,7 +328,7 @@ Swift es el lenguaje de programación que se utiliza para desarrollar aplicacion
 - Algo inestable debido a una llegada relativamente nueva a la escena de la programación..
 - No hay soporte para proyectos heredados; solo se puede usar para iOS7 o aplicaciones posteriores.
 
-[⏩ Página Web de Swift](https://developer.apple.com/swift/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Swift](https://developer.apple.com/swift/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **8. PHP**
 
@@ -354,7 +356,7 @@ PHP es uno de los lenguajes de programación de backend más populares. Aunque P
 - Mal manejo de errores.
 - Requiere extensiones en mayor medida.
 
-[⏩ Página Web de PHP](https://www.php.net/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de PHP](https://www.php.net/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **9. C Sharp**
 
@@ -386,7 +388,7 @@ C# también conocido por C Sharp, es un lenguaje de programación de propósito 
 - Requiere un esfuerzo decente y tiempo para aprender.
 - Resolver errores requiere una gran experiencia y conocimiento.
 
-[⏩ Página Web de C#](https://docs.microsoft.com/es-es/dotnet/csharp/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de C#](https://docs.microsoft.com/es-es/dotnet/csharp/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **10. Matlab**
 
@@ -408,7 +410,7 @@ MATLAB es una herramienta de análisis estadístico que se utiliza en varias ind
 
 ### **Contras de Matlab** <!-- omit in toc -->
 
-[⏩ Página Web de Matlab](https://es.mathworks.com/help/matlab/language-fundamentals.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Matlab](https://es.mathworks.com/help/matlab/language-fundamentals.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 - No es de uso gratuito, requiere la compra de una licencia.
 - No hay mucha aplicación más allá del alcance de la computación numérica.
@@ -443,7 +445,7 @@ Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, 
 - Actualmente no genera JavaScript expandible.
 - Una pequeña comunidad, poco impulso.
 
-[⏩ Página Web de Dart](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Dart](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **12. Ruby**
 
@@ -470,7 +472,7 @@ Ruby ofrece características como bloques, iteradores, metaclases y otros. Se pu
 - En comparación con otros idiomas, Ruby tiene muy pocos recursos informativos para aprender el idioma.
 - Es más lento que otros idiomas, ya que es un lenguaje de script interpretado y los lenguajes de script son más lentos que los lenguajes compilados.
 
-[⏩ Página Web de Ruby](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Ruby](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **13. Haskell**
 
@@ -499,7 +501,7 @@ La diferencia entre ellos es que los lenguajes imperativos describen a la máqui
 - Alto tiempo de aprendizaje.
 - Carece de implementación generalizada.
 
-[⏩ Página Web de Haskell](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Haskell](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **14. Rust**
 
@@ -529,7 +531,7 @@ Rust proporciona una seguridad de memoria garantizada y tiene un control complet
 - Una curva de aprendizaje elevada.
 - Es lento de compilar.
 
-[⏩ Página Web de Rust](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Rust](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **15. OCaml**
 
@@ -554,7 +556,7 @@ Pero aquí también, OCaml desaparece y Haskell domina. Pero debido al apoyo de 
 - Menos bibliotecas en comparación con otros idiomas.
 - Un sistema de tipos que no es intuitivo.
 
-[⏩ Página Web de Ocaml](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏩ Página Web de Ocaml](https://dart.dev/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 <!-- Agregar lua -->
 ### Resumiendo <!-- omit in toc -->
