@@ -16,6 +16,9 @@ canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
 feature-img: /assets/img/glosario/diccionario-completo-python.webp
 img: /assets/img/glosario/diccionario-completo-python.webp
 ---
+
+Aquí vas a poder encontrar las palabras más importantes que se utilizan dentro del mundo del lenguaje de programación de Python.
+
 <!-- https://glossarytech.com/terms/python/ -->
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -23,6 +26,8 @@ img: /assets/img/glosario/diccionario-completo-python.webp
 
 <!-- https://glossarytech.com/terms/python/page2 --><span id="menu"></span>
 > **Índice**: 🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [K](/glosario/completo-tecnologias-python/#k) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [W](/glosario/completo-tecnologias-python/#w)
+
+![Diccionario de términos relacionados con el lenguaje de programación de Python](/assets/img/2020/10/python-diccionarios.webp "Diccionario de términos relacionados con el lenguaje de programación de Python")
 
 ## A
 

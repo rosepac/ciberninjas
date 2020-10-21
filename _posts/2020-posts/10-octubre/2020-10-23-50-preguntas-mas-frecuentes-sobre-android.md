@@ -2,7 +2,7 @@
 
 author: rosepac
 bootstrap: true
-title: "▷ 50 Preguntas más frecuentes sobre Android"
+title: "▷ 50 Preguntas más Frecuentes sobre Android"
 description: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
 excerpt: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
 published: true

@@ -18,6 +18,8 @@ img: /assets/img/lenguajes/python-programadora.webp
 
 **Python, es, seguramente el lenguaje de programación más fácil de usar** entre todos los lenguajes de la nueva era. A menudo se dice que **la sintaxis de Python es clara e intuitiva**; lo que, como Java, lo convierte en una opción popular para los programadores principiantes.
 
+![Cómo Aprender Python desde cero a experto en 2021, todo lo necesario para convertirte en un profesional](/assets/img/lenguajes/python-programadora.webp "Cómo Aprender Python desde cero a experto en 2021, todo lo necesario para convertirte en un profesional")
+
 Igual que Java, Python ofrece uuna variedad amplia en sus metodologías de aplicación, que lo convierten en una opción versátil y poderosa a la hora de elegir un lenguaje de programación adecuado para tu caso de uso.
 
 Si estás interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django (escrito en Python) es muy conocido, y además es fácil de aprender y posee muchas funciones; también Django, es utilizado en el desarrollo de aplicaciones y páginas web muy populares como por ejemplo: Instagram, Spotify o Mozilla.

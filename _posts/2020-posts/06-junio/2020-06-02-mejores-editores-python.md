@@ -28,7 +28,11 @@ date: 2020-09-01
 published: true
 ---
 
-Los mejores editores de código Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida.
+Los mejores editores de código Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
+
+![Mejores Editores de Código de Python u entornos de desarrollo IDE](/assets/img/blog/python-ide/python-editores-scrapy.webp "Mejores Editores de Código de Python u entornos de desarrollo IDE")
+
+Usando estos entornos de desarrollo integrados de Python u IDE, puedes administrar una gran base de código y lograr una implementación rápida.
 
 Los desarrolladores pueden usar estos editores para crear aplicaciones de escritorio o web. Los ingenieros de DevOps también pueden utilizar los IDE para la integración continua.
 
