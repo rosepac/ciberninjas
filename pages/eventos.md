@@ -30,35 +30,15 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-### 🔔 20 de Octubre  <!-- omit in toc -->
-
-- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [AGENDA](https://nerdear.la/agenda/){:target="_blank" rel="nofollow, noreferrer"}
-- ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
-- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/multiconferencia-europa-devs-2020/){:target="_blank" rel="nofollow, noreferrer"}
-
-<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
-
-### 🔔 21 de Octubre  <!-- omit in toc -->
-
-- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
-- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/multiconferencia-europa-devs-2020/){:target="_blank" rel="nofollow, noreferrer"}
-- Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00 H. Esp.)
-
-### 🔔 22 de Octubre  <!-- omit in toc -->
-
-- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
-- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/multiconferencia-europa-devs-2020/){:target="_blank" rel="nofollow, noreferrer"}
-
-### **Tarugconf: 22, 23, 24 de Octubre**  <!-- omit in toc -->
-
-- ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
-
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
 
 ### 🔔 23 de Octubre  <!-- omit in toc -->
 
 - Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
+
+<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
 
 ### 🔔 24 de Octubre  <!-- omit in toc -->
 
@@ -968,3 +948,25 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - Conferencia: Programar es una Mierda 2020 📆 ([AGENDA](https://www.programaresunamierda.com/p/peumconf-2019.html){:target="_blank" rel="nofollow, noreferrer"}) De 12:00 AM a 20:00 PM H. Española.
 - DevFest Spain 2020 👉 [INFO.](https://gdg.community.dev/events/details/google-gdg-asturias-presents-devfest-spain-2020/){:target="_blank" rel="nofollow, noreferrer"}
 - Semana de Ada Lovelace 👉 [Info.](https://ada.ninaspro.cl/){:target="_blank" rel="nofollow, noreferrer"}
+
+
+### 🔔 20 de Octubre  <!-- omit in toc -->
+
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [AGENDA](https://nerdear.la/agenda/){:target="_blank" rel="nofollow, noreferrer"}
+- ForoASLAN "Infraestructuras multi-cloud híbridas" - [Inscripción gratuita](http://ow.ly/8SSd50AK7W4){:target="_blank" rel="nofollow, noreferrer"}
+- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/multiconferencia-europa-devs-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 21 de Octubre  <!-- omit in toc -->
+
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
+- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/multiconferencia-europa-devs-2020/){:target="_blank" rel="nofollow, noreferrer"}
+- Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere 🗞 [Registrarse](https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-113771585876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (13:00 H. Esp.)
+
+### 🔔 22 de Octubre  <!-- omit in toc -->
+
+- Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
+- Gran Conferencia CodeMotion Europa (En Inglés) - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/multiconferencia-europa-devs-2020/){:target="_blank" rel="nofollow, noreferrer"}
+
+### **Tarugconf: 22, 23, 24 de Octubre**  <!-- omit in toc -->
+
+- ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
