@@ -31,7 +31,6 @@ published: true
 </nav>
 </div>
 
-
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/recursos-daw/entorno-desarrollo-que-aprenderas/">
