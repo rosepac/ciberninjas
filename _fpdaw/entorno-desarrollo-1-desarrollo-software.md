@@ -79,19 +79,21 @@ published: true
 
 ![Introducción al desarrollo del software y la instalación y uso de entornos de desarrollo.](/assets/img/paginas/fp/modulo-entorno-desarrollo/tema-desarrollo-de-software.webp "Introducción al desarrollo del software y la instalación y uso de entornos de desarrollo.")
 
-Toda aplicación informática, ya sea utilizada en un soporte convencional (como un ordenador de sobremesa o un ordenador portátil) o sea utilizada en un soporte de nueva generación (por ejemplo, dispositivos móviles como un teléfono móvil de última generación o una tableta táctil PC), ha seguido un procedimiento planificado y desarrollado detalle por detalle para su creación. Este irá desde la concepción de la idea o de la funcionalidad que deberá satisfacer esta aplicación hasta la generación de uno o varios ficheros que permitan su ejecución exitosa.
+Toda aplicación informática, ya sea utilizada en un soporte convencional (como un ordenador de sobremesa o un ordenador portátil) o sea utilizada en un soporte de nueva generación (por ejemplo, dispositivos móviles como un teléfono móvil de última generación o una tableta táctil PC), ha seguido un procedimiento planificado y desarrollado detalle por detalle para su creación.
+
+Este irá desde la concepción de la idea o de la funcionalidad que deberá satisfacer esta aplicación hasta la generación de uno o varios ficheros que permitan su ejecución exitosa.
 
 Para convertir esta concepción de una idea abstracta en un producto acabado que sea eficaz y eficiente habrá muchos más pasos, muchas tareas que hacer. Estas tareas deberán estar bien planificadas y que sigan un guión que puede tener en cuenta aspectos como:
 
-- Analizar las necesidades que tienen las personas que utilizarán este software, escuchar como el querrán, atender a sus indicaciones ...
-- Diseñar una solución que tenga en cuenta todas las necesidades antes analizadas: qué deberá hacer el software, qué interfaces gráficas tendrá y cómo serán éstas, qué datos se deberán almacenar y cómo se hará..
+- Analizar las necesidades que tienen las personas que utilizarán este software, escuchar como el querrán, atender a sus indicaciones.
+- Diseñar una solución que tenga en cuenta todas las necesidades antes analizadas: qué deberá hacer el software, qué interfaces gráficas tendrá y cómo serán éstas, qué datos se deberán almacenar y cómo se hará.
 - Desarrollar el software que implemente todo lo analizado y diseñado anteriormente, haciéndolo de una forma lo más modular posible para facilitar el posterior mantenimiento o manipulación por parte de otros programadores.
 - Llevar a cabo las pruebas pertinentes, tanto de forma individualizada para cada módulo como de forma completa, a fin de validar que el código desarrollado es correcto y que hace lo que debe hacer según lo establecido en los requerimientos.
 - Implantar el software en el entorno donde los usuarios finales lo utilizarán.
 
 Este apartado se centrará en el tercer punto, el desarrollo de software.
 
-<span id="menu"></span>
+<strong><span id="menu" title="Menú del Desarrollo de Software">Desarrollo de Software</span></strong>
 
 - [**1. Concepto de programa informático**](#1-concepto-de-programa-informático)
 - [**2. Código fuente, código objeto y código excutable: máquinas virtuales**](#2-código-fuente-código-objeto-y-código-excutable-máquinas-virtuales)
@@ -145,7 +147,7 @@ Este conjunto de comandos no es arbitrario, sino que sirve para llevar a cabo un
 
 Entrando ya, ahora sí, en el mundo de los ordenadores, la forma en que se estructuran las tareas que deben ser ejecutadas es similar a los programas de electrodomésticos anteriormente citados. En este caso, sin embargo, en lugar de transformar ingredientes (o lavar ropa sucia, si se tratase de una lavadora), lo que la computadora transforma es información o datos.
 
-> <i class="fas fa-star"></i> *Un **programa informático** no es más que una serie de órdenes que se llevan a cabo secuencialmente, aplicadas sobre un conjunto de datos.*
+> <i class="fas fa-star"></i> *Un ***programa informático*** no es más que una serie de órdenes que se llevan a cabo secuencialmente, aplicadas sobre un conjunto de datos.*
 
 Qué datos procesa un programa informático? Bueno, esto dependerá del tipo de programa:
 
@@ -167,7 +169,7 @@ Por otra parte, una vez hecho el programa, cada vez que se ejecute, el ordenador
 
 De hecho, un ordenador es incapaz de hacer absolutamente nada por sí mismo, siempre hay que decirle qué debe hacer. Y eso se le llama mediante la ejecución de programas. Aunque desde el punto de vista del usuario puede parecer que cuando se pone en marcha un ordenador este funciona sin ejecutar ningún programa concreto, hay que tener en cuenta que su sistema operativo es un programa que está siempre en ejecución.
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **2. Código fuente, código objeto y código excutable: máquinas virtuales**
 
@@ -206,7 +208,7 @@ A continuación, en la Figura. 1, se muestra un resumen ordenado de todos los co
 
 El código fuente desarrollado por los programadores se convertirá en código objeto con la ayuda del compilador. Este ayudará a localizar los errores de sintaxis o de compilación que se encuentren en el código fuente. Con el enlazador, que recogerá el código objeto y las librerías, se generará el código ejecutable.
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **2.1. Máquina virtual**
 
@@ -242,7 +244,7 @@ La empresa Sun Microsystems es la propietaria de la marca registrada Java, y est
 
 En el prefacio de las que se dice: "Esperamos que esta especificación documente suficientemente la máquina virtual de Java para hacer posibles implementaciones desde cero. Sun proporciona tests que verifican que las implementaciones de la máquina virtual Java operan correctamente."
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **3. Tipos de lenguajes de programación**
 
@@ -320,7 +322,7 @@ Como consecuencia de este alejamiento de la máquina y acercamiento a las person
 
 Hay dos tipos de traductores: los compiladores y los intérpretes.
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 #### **3.1.1. Los Compiladores**
 
@@ -358,7 +360,7 @@ Algunas características de los lenguajes interpretados son:
 
 El intérprete es notablemente más lento que el compilador, ya que lleva a cabo la traducción al tiempo que la ejecución. Además, esta traducción se hace siempre que se ejecuta el programa, mientras que el compilador sólo la lleva a cabo una vez. La ventaja de los intérpretes es que hacen que los programas sean más portables. Así, un programa compilado en un ordenador con sistema operativo Windows no funcionará en un Macintosh, o en un ordenador con sistema operativo Linux, a menos que se vuelva a compilar el programa fuente en el nuevo sistema.
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **3.2. Características de los lenguajes de tercera, cuarta y quinta generación**
 
@@ -405,7 +407,7 @@ En lugar de ejecutar sólo un conjunto de comandos, el objetivo de estos sistema
 
 Algunos ejemplos de lenguajes de quinta generación son Lisp o Prolog.
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **4. Paradigmas de programación**
 
@@ -556,7 +558,7 @@ El paradigma es ampliamente utilizado en las aplicaciones que tienen que ver con
 
 También es útil en problemas combinatorios o que requieran una gran cantidad o amplitud de soluciones alternativas, de acuerdo con la naturaleza del mecanismo de vuelta atrás (backtracking).
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **5. Características de los lenguajes más difundidos**
 
@@ -622,7 +624,7 @@ Hasta hace unos años, toda la programación se basaba en este concepto de tipo 
 
 *Ejemplo de implementación de un tipo abstracto de datos implementado en el lenguaje C*
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **5.2 Características de la programación orientada a objetos**
 
@@ -690,7 +692,7 @@ Un ejemplo de sobrecarga de métodos podría ser el del método `Area()`. A part
 
 La implementación del método `Area()`será diferente en cada una de las clases derivadas; éstas pueden implementarse de forma diferente (en función de cómo se calcule en cada caso el área de la figura) o definirse de forma diferente.
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **6. Fases del desarrollo de los sistemas de información**
 
@@ -757,7 +759,7 @@ En este proceso se elabora el plan de mantenimiento del sistema, por lo que el r
 
 También se establece el acuerdo de nivel de servicio requerido una vez que se inicie la producción. El acuerdo de nivel de servicio se refiere a servicios de gestión de operaciones, de apoyo a usuarios y el nivel con el que se prestarán estos servicios.
 
-[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){:.btn.btn-danger.btn-lg.btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
