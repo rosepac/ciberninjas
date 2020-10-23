@@ -4,9 +4,9 @@ layout: page
 author: rosepac
 bootstrap: true
 comments: false
-thumbnail: /assets/img/paginas/fp/entorno-desarrollo-aprender.webp
-feature-img: /assets/img/paginas/fp/entorno-desarrollo-aprender.webp
-img: /assets/img/paginas/fp/entorno-desarrollo-aprender.webp
+thumbnail: /assets/img/paginas/fp/modulo-entorno-desarrollo/tema-desarrollo-de-software.webp
+feature-img: /assets/img/paginas/fp/modulo-entorno-desarrollo/tema-desarrollo-de-software.webp
+img: /assets/img/paginas/fp/modulo-entorno-desarrollo/tema-desarrollo-de-software.webp
 title: '▷ Desarrollo del Software: Unidad 1 de Entornos de Desarrollo'
 description: >-
   'Introducción al desarrollo del software y la instalación y uso de entornos de desarrollo.'
