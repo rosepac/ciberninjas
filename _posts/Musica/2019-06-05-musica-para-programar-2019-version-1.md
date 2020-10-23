@@ -15,7 +15,7 @@ tags:
 - Playlist Programar
 ---
 
-Las mejores canciones 🎶 para programar del planeta. La playlist ha sido extraido de [Spotify](https://spoti.fi/2JJk1dk) compartido por zeroidentidad, en el Chat [Ciberninjas Discord](/discord/) e importada por [Pablo Álvarez Corredera](/quien-soy/) bajo el nickname de: **ROSEPAC**.
+Las mejores canciones 🎶 para programar del planeta. La playlist ha sido extraido de [Spotify](https://spoti.fi/2JJk1dk) compartido por ZeroIdentidad, en el Chat [Ciberninjas Discord](/discord/) e importada por [Pablo Álvarez Corredera](/quien-soy/) bajo el nickname de: **ROSEPAC**.
 
 La lista está conformada por 372 canciones donde podrás encontrar desde el mejor Rock de la actualidad hasta las canciones más épicas de siempre; toda una banda sonora en una misma lista musical preparada para gozarlo, como nunca antes.
 
