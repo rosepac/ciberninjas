@@ -77,6 +77,8 @@ published: true
 }
 </script>
 
+![Introducción al desarrollo del software y la instalación y uso de entornos de desarrollo.](/assets/img/paginas/fp/modulo-entorno-desarrollo/tema-desarrollo-de-software.webp "Introducción al desarrollo del software y la instalación y uso de entornos de desarrollo.")
+
 Toda aplicación informática, ya sea utilizada en un soporte convencional (como un ordenador de sobremesa o un ordenador portátil) o sea utilizada en un soporte de nueva generación (por ejemplo, dispositivos móviles como un teléfono móvil de última generación o una tableta táctil PC), ha seguido un procedimiento planificado y desarrollado detalle por detalle para su creación. Este irá desde la concepción de la idea o de la funcionalidad que deberá satisfacer esta aplicación hasta la generación de uno o varios ficheros que permitan su ejecución exitosa.
 
 Para convertir esta concepción de una idea abstracta en un producto acabado que sea eficaz y eficiente habrá muchos más pasos, muchas tareas que hacer. Estas tareas deberán estar bien planificadas y que sigan un guión que puede tener en cuenta aspectos como:
@@ -88,6 +90,8 @@ Para convertir esta concepción de una idea abstracta en un producto acabado que
 - Implantar el software en el entorno donde los usuarios finales lo utilizarán.
 
 Este apartado se centrará en el tercer punto, el desarrollo de software.
+
+<span id="menu"></span>
 
 - [**1. Concepto de programa informático**](#1-concepto-de-programa-informático)
 - [**2. Código fuente, código objeto y código excutable: máquinas virtuales**](#2-código-fuente-código-objeto-y-código-excutable-máquinas-virtuales)
@@ -163,6 +167,8 @@ Por otra parte, una vez hecho el programa, cada vez que se ejecute, el ordenador
 
 De hecho, un ordenador es incapaz de hacer absolutamente nada por sí mismo, siempre hay que decirle qué debe hacer. Y eso se le llama mediante la ejecución de programas. Aunque desde el punto de vista del usuario puede parecer que cuando se pone en marcha un ordenador este funciona sin ejecutar ningún programa concreto, hay que tener en cuenta que su sistema operativo es un programa que está siempre en ejecución.
 
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+
 ## **2. Código fuente, código objeto y código excutable: máquinas virtuales**
 
 Para crear un programa lo que se hará será crear un archivo y escribir a un fichero cuyo serie de instrucciones que se quiere que el ordenador ejecute.
@@ -200,6 +206,8 @@ A continuación, en la Figura. 1, se muestra un resumen ordenado de todos los co
 
 El código fuente desarrollado por los programadores se convertirá en código objeto con la ayuda del compilador. Este ayudará a localizar los errores de sintaxis o de compilación que se encuentren en el código fuente. Con el enlazador, que recogerá el código objeto y las librerías, se generará el código ejecutable.
 
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+
 ### **2.1. Máquina virtual**
 
 El concepto de máquina virtual surge con el objetivo de facilitar el desarrollo de compiladores que generan código para diferentes procesadores.
@@ -233,6 +241,8 @@ El concepto de máquina virtual Java se usa en dos ámbitos: por un lado, para h
 La empresa Sun Microsystems es la propietaria de la marca registrada Java, y esta se utiliza para certificar las implementaciones de la JVM que se ajustan y son totalmente compatibles con las especificaciones de la JVM.
 
 En el prefacio de las que se dice: "Esperamos que esta especificación documente suficientemente la máquina virtual de Java para hacer posibles implementaciones desde cero. Sun proporciona tests que verifican que las implementaciones de la máquina virtual Java operan correctamente."
+
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **3. Tipos de lenguajes de programación**
 
@@ -306,7 +316,11 @@ Dim y As Integer
 End Function
 {% endhighlight %}
 
-Como consecuencia de este alejamiento de la máquina y acercamiento a las personas, los programas escritos en lenguajes de programación de tercera generación no pueden ser interpretados directamente por el ordenador, sino que es necesario llevar a cabo previamente su traducción a lenguaje máquina . Hay dos tipos de traductores: los compiladores y los intérpretes.
+Como consecuencia de este alejamiento de la máquina y acercamiento a las personas, los programas escritos en lenguajes de programación de tercera generación no pueden ser interpretados directamente por el ordenador, sino que es necesario llevar a cabo previamente su traducción a lenguaje máquina.
+
+Hay dos tipos de traductores: los compiladores y los intérpretes.
+
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 #### **3.1.1. Los Compiladores**
 
@@ -343,6 +357,8 @@ Algunas características de los lenguajes interpretados son:
 #### **3.1.3. Los compiladores ante intérpretes**
 
 El intérprete es notablemente más lento que el compilador, ya que lleva a cabo la traducción al tiempo que la ejecución. Además, esta traducción se hace siempre que se ejecuta el programa, mientras que el compilador sólo la lleva a cabo una vez. La ventaja de los intérpretes es que hacen que los programas sean más portables. Así, un programa compilado en un ordenador con sistema operativo Windows no funcionará en un Macintosh, o en un ordenador con sistema operativo Linux, a menos que se vuelva a compilar el programa fuente en el nuevo sistema.
+
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **3.2. Características de los lenguajes de tercera, cuarta y quinta generación**
 
@@ -388,6 +404,8 @@ En la figura .6 se puede ver el entorno de trabajo y un ejemplo de código fuent
 En lugar de ejecutar sólo un conjunto de comandos, el objetivo de estos sistemas es "pensar" y anticipar las necesidades de los usuarios. Estos sistemas se encuentran todavía en desarrollo. Se trataría del paradigma lógico.
 
 Algunos ejemplos de lenguajes de quinta generación son Lisp o Prolog.
+
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **4. Paradigmas de programación**
 
@@ -538,6 +556,8 @@ El paradigma es ampliamente utilizado en las aplicaciones que tienen que ver con
 
 También es útil en problemas combinatorios o que requieran una gran cantidad o amplitud de soluciones alternativas, de acuerdo con la naturaleza del mecanismo de vuelta atrás (backtracking).
 
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+
 ## **5. Características de los lenguajes más difundidos**
 
 Existen muchos lenguajes de programación diferentes, hasta el punto de que muchas tecnologías tienen su lenguaje propio. Cada uno de estos lenguajes tiene una serie de particularidades que lo hacen diferente del resto.
@@ -601,6 +621,8 @@ Los lenguajes de programación asumen un número determinado de tipos de datos, 
 Hasta hace unos años, toda la programación se basaba en este concepto de tipo y no eran pocos los problemas que aparecían, ligados muy especialmente a la complejidad de los datos que se tenían que definir. Apareció la posibilidad de poder definir tipos abstractos de datos , donde el programador puede definir un nuevo tipo de datos y sus posibles operaciones.
 
 *Ejemplo de implementación de un tipo abstracto de datos implementado en el lenguaje C*
+
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **5.2 Características de la programación orientada a objetos**
 
@@ -668,6 +690,8 @@ Un ejemplo de sobrecarga de métodos podría ser el del método `Area()`. A part
 
 La implementación del método `Area()`será diferente en cada una de las clases derivadas; éstas pueden implementarse de forma diferente (en función de cómo se calcule en cada caso el área de la figura) o definirse de forma diferente.
 
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+
 ## **6. Fases del desarrollo de los sistemas de información**
 
 Una aplicación informática necesitará muchas pequeñas acciones (y no tan pequeñas) para ser creada. Se han desarrollado muchas metodologías que ofrecen un acompañamiento a lo largo de este desarrollo, proporcionando pautas, indicaciones, métodos y documentos para ayudar, sobre todo, los jefes de proyecto más inexpertos.
@@ -732,6 +756,8 @@ El sistema debe someterse a las pruebas de implantación con la participación d
 En este proceso se elabora el plan de mantenimiento del sistema, por lo que el responsable del mantenimiento conozca el sistema antes de que éste pase a producción.
 
 También se establece el acuerdo de nivel de servicio requerido una vez que se inicie la producción. El acuerdo de nivel de servicio se refiere a servicios de gestión de operaciones, de apoyo a usuarios y el nivel con el que se prestarán estos servicios.
+
+[🔝 Regresar al Menú](/recursos-daw/desarrollo-software/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){:.btn.btn-danger.btn-lg.btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
