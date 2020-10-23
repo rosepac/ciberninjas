@@ -108,6 +108,8 @@ Abrir varios enlaces a la vez, de una sola selección.
 
 * Whatruns, Visual Inspector, Whatfont, ColorZilla, Clear Cache, Dimensions, Lighthouse, Adblock Plus..
 
+![La gran caja de herramientas de los Ciberninjas, desarrolladores, programadores, webmaster y diseñadores 2021](/assets/img/2020/10/web-herramientas.webp "La gran caja de herramientas de los Ciberninjas, desarrolladores, programadores, webmaster y diseñadores 2021")
+
 [👈 VOLVER A CIBERNINJAS 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 LIBROS GRATIS 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [🛒 Catálogo de Libros 👨‍💻](/catalogo/#page-title){: .btn .btn--inverse .btn--x-large .align-center}

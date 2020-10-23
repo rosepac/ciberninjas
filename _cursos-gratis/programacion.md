@@ -512,10 +512,11 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-laravel-modelos-migraciones-rutas-vistas-etc%2F){:target="_blank" rel="nofollow,noreferrer"} (Jorge Alexis Paz Barrera, Udemy)
 - [Configurar Laravel en Windows y MySql Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"} (Pedro Rojas Reyes, Udemy)
 - [Curso de Laravel](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bk-qkvjER90g2c_jVmpAHBh){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-- [Introducción a PHP 7 y Laravel](https://plataforma.keepcoding.io/p/introduccion-php-7-online-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 - [Curso Laravel](https://www.youtube.com/playlist?list=PLEtcGQaT56cigZVUvRpPBnoLGO0KcX5MO){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+- [Desarrollo Web y APIs con Laravel y PHP](https://www.youtube.com/playlist?list=PLp7PPjAxisAJrtZ7GfnVl_Kl8v4TPU2n4){:target="_blank" rel="nofollow,noreferrer"} (Wolf Academy, Youtube)
 - [Introducción a Laravel 5: primeros pasos con este framework](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-laravel-5-primeros-pasos-framework-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Introducción a PHP 7 y Laravel](https://plataforma.keepcoding.io/p/introduccion-php-7-online-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Laravel 5](https://www.youtube.com/playlist?list=PLIddmSRJEJ0u-5Nv2k6W8Vhe0wUP_7H5W){:target="_blank" rel="nofollow,noreferrer"} (Raul Palacios, YouTube)
 - [Laravel 5.4](https://www.youtube.com/playlist?list=PLS3ZgoVufwTkqmF0oAnfeus9ZklMqjFhS){:target="_blank" rel="nofollow,noreferrer"} (iTech School, YouTube)
 - [Laravel 5.4: crear tu primer sitio web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-laravel%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -673,6 +674,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 ## **Cursos de Typescript**
 
+- [Typescript 4.0](https://www.youtube.com/playlist?list=PLTd5ehIj0goPbPaN9VEoQQVUwZN2eXdB5){:target="_blank" rel="nofollow,noreferrer"} (Makigas, Youtube)
 - [NestJS: Node + Typescript al estilo Angular para crear APIS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnestjs-free%2F){:target="_blank" rel="nofollow,noreferrer"} por Alejandro Lora y Miguel Campos Rivera (Udemy)
 
 ## **Typescript**
