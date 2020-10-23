@@ -20,7 +20,7 @@ Las mejores canciones 🎶 para programar del planeta. La playlist ha sido extra
 La lista está conformada por 377 canciones donde podrás encontrar desde el mejor Rock de la actualidad hasta las canciones más épicas de siempre; toda una banda sonora en una misma lista musical preparada para gozarlo, como nunca antes.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8u51ZY2a3Sc?rel=0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8M1frRRqO_o-LwsdDejTLuq3t-jZ0hKU" allowfullscreen></iframe>
 </div><br/>
 
 **Playlist Completa**: [Youtube](https://www.youtube.com/playlist?list=PL8M1frRRqO_o-LwsdDejTLuq3t-jZ0hKU)
