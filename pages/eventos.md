@@ -30,7 +30,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-
 ### 🔔 23 de Octubre  <!-- omit in toc -->
 
 - Nerdear.LA (Del 20 al 24 de Octubre) 📆 [Agenda y Registro](https://nerdear.la/agenda/){:target="_blank" rel="nofollow,noreferrer"}
