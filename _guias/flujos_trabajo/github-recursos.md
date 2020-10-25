@@ -40,9 +40,10 @@ Artículos y enlaces que te van a ayudar a crear una página de personalización
 
 ## **Artículos sobre Git y Github**
 
-* [10 comandos más importantes de Git que todo desarrollador debe saber](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/){:target="_blank" rel="nofollow,noreferrer"}
-* [Automatice las actualizaciones de dependencia de GitHub con Dependabot](https://bolajiayodeji.com/automate-github-dependency-updates-with-dependabot-ck4u3kd2d00hktjs1llbiuf8d){:target="_blank" rel="nofollow,noreferrer"}
-* [Guía de principiantes para el control de versiones con Git y GitHub](https://medium.com/faun/beginners-guide-to-version-control-using-git-and-github-8bf44b421140){:target="_blank" rel="nofollow,noreferrer"}
+* [10 comandos más importantes de Git que todo desarrollador debe saber](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/ "10 comandos más importantes de Git que todo desarrollador debe saber"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+* [Automatice las actualizaciones de dependencia de GitHub con Dependabot](https://bolajiayodeji.com/automate-github-dependency-updates-with-dependabot-ck4u3kd2d00hktjs1llbiuf8d "Automatice las actualizaciones de dependencia de GitHub con Dependabot"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+* [Creación automatica de GIGITNORE](https://www.gitignore.io/ "Creación automatica de GIGITNORE"){:target="_blank" rel="nofollow,noreferrer"}
+* [Guía de principiantes para el control de versiones con Git y GitHub](https://medium.com/faun/beginners-guide-to-version-control-using-git-and-github-8bf44b421140 "Guía de principiantes para el control de versiones con Git y GitHub"){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Chuletas
 
