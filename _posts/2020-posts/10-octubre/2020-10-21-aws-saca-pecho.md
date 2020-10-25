@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/amazon-anuncia-300000-migraciones/
 permalink: /amazon-anuncia-300000-migraciones/
 date: 2020-10-24 13:28:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 

@@ -16,9 +16,9 @@ excerpt: >-
   Aprende, paso a paso, a instalar el lenguaje de programación Dart en el sistema operativo de Windows.
 canonical_URL: https://ciberninjas.com/como-instalar-dart/
 permalink: /como-instalar-dart/
-date: 2020-10-10 03:45:32
+date: 2020-10-25 03:45:32
 last_modified_at: 
-published: true
+published: false
 
 ---
 
