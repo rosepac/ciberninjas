@@ -14,8 +14,8 @@ description: >-
   En un intento de sobrepasar a Oracle, Amazon promociona que ha alcanzado las 300.000 migraciones de bases de datos con su herramienta DMS.
 excerpt: >-
   En un intento de sobrepasar a Oracle, Amazon promociona que ha alcanzado las 300.000 migraciones de bases de datos con su herramienta DMS.
-canonical_URL: https://ciberninjas.com/amazon-anuncia-300000-migraciones/
-permalink: /amazon-anuncia-300000-migraciones/
+canonical_URL: https://ciberninjas.com/amazon-anuncia-migraciones/
+permalink: /amazon-anuncia-migraciones/
 date: 2020-10-24 13:28:32
 last_modified_at: 
 published: true
