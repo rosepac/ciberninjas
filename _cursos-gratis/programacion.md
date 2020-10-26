@@ -80,6 +80,8 @@ Por si lo que buscas, es comenzar con un lenguaje concreto desde cero, a continu
 
 Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te interese.
 
+<span id="menu"><strong>Menú de Cursos Gratuitos de Lenguajes de Programación</strong></span>
+
 - [**Curso Gratis C**](#curso-gratis-c)
 - [**Curso Gratis C#**](#curso-gratis-c-1)
 - [**Cursos Gratis C++**](#cursos-gratis-c)
@@ -130,6 +132,8 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 - [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
 - [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6){:target="_blank" rel="nofollow,noreferrer"} (ProgramacionATS, YouTube)
+
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### ¿Qué es C? <!-- omit in toc -->
 
@@ -223,13 +227,13 @@ No. No es absolutamente necesario aprender C de antemano aprendiendo C ++. Sin e
 
 - [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank" rel="nofollow,noreferrer"}
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
 ## **Curso Gratis Ensamblador**
 
 - [Programación en ensamblador 8086 con proteus](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-en-ensamblador-8086-con-proteus%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos Gratis Go**
 
@@ -334,7 +338,7 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 
 - [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### ¿Que es Java? <!-- omit in toc -->
 
@@ -457,13 +461,13 @@ Lo mejor para comenzar a aprender JS es con libros. No obstante, también puede 
 
 Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos a la página de [Android](https://ciberninjas.com/cursos-android/) por considerarse la sección más adecuada para ellos. 🔥
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos Gratis de Perl**
 
 - [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos Gratis de PHP**
 
@@ -481,7 +485,7 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Programador web: Cookies y Sesiones en PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramador-web-php-cookies-y-sesiones%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Taller Práctico de PHP y MySQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVewFe5xEhwOYS2rXSFyM2p){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## **Cursos Gratis de PHP Frameworks**
 
@@ -612,7 +616,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 - [Qt usando Python y PyQT](https://www.youtube.com/playlist?list=PLEtcGQaT56cj81xiNCrJnoAjc66uZVXDa){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
 - [Web Scraping](https://www.youtube.com/playlist?list=PLuaGRMrO-j-8B_RT_2kGE6NW-ZxzHaU17){:target="_blank" rel="nofollow,noreferrer"} (Leonardo Kuffo, Youtube) (2017)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Python Frameworks
 
@@ -631,7 +635,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 - [Aprende a programar con Ruby](https://www.youtube.com/playlist?list=PLmpZi4g2hDnl0UnkUd0ZG_a_tt4EQEdpB){:target="_blank" rel="nofollow,noreferrer"} (Adaptar.ME, Youtube)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Cursos Gratis de Ruby Frameworks**
 
