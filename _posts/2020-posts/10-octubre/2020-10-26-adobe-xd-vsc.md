@@ -34,13 +34,12 @@ Los **equipos de DesignOps podrán crear paquetes de sistemas de diseño (DSP) c
   - [**¿Cuál es la estructura de un paquete DSP?**](#cuál-es-la-estructura-de-un-paquete-dsp)
     - [**El archivo dsp.json**](#el-archivo-dspjson)
   - [**¿Cómo usar un paquete DSP a través de NPM?**](#cómo-usar-un-paquete-dsp-a-través-de-npm)
-  - [**Uso de NPM para distribuir tu paquete DSP**](#uso-de-npm-para-distribuir-tu-paquete-dsp)
 - [**DSP y herramientas públicas disponibles**](#dsp-y-herramientas-públicas-disponibles)
   - [**Adobe Spectrum DSP**](#adobe-spectrum-dsp)
     - [**¿Cómo instalar Adobe Spectrum DSP?**](#cómo-instalar-adobe-spectrum-dsp)
-    - [**¿Cómo puedo utilizar el paquete Adobe Spectrum DSP?**](#cómo-puedo-utilizar-el-paquete-adobe-spectrum-dsp)
+    - [**¿Cómo utilizar el paquete Adobe Spectrum DSP?**](#cómo-utilizar-el-paquete-adobe-spectrum-dsp)
     - [**¿Qué hay en el paquete de Adobe Spectrum DSP?**](#qué-hay-en-el-paquete-de-adobe-spectrum-dsp)
-    - [**¿Dónde puedo descargar Adobe Spectrum DSP?**](#dónde-puedo-descargar-adobe-spectrum-dsp)
+    - [**¿Dónde descargar Adobe Spectrum DSP?**](#dónde-descargar-adobe-spectrum-dsp)
   - [**Simplificador de Iconos DSP**](#simplificador-de-iconos-dsp)
     - [**¿Cómo descargar el paquete de Iconos en DSP?**](#cómo-descargar-el-paquete-de-iconos-en-dsp)
   - [**Bootstrap 5 DSP**](#bootstrap-5-dsp)
@@ -106,9 +105,7 @@ Este es el punto de entrada para el paquete de sistema de diseño (DSP). Incluye
 
 ### **¿Cómo usar un paquete DSP a través de NPM?**
 
-### **Uso de NPM para distribuir tu paquete DSP**
-
-Si decide utilizar NPM para distribuir su paquete, agregue un archivo package.json a la carpeta raíz siguiendo [las instrucciones para publicar en NPM](https://zellwk.com/blog/publish-to-npm/ "Las instrucciones, paso a paso, con las que publicar en NPM"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}. Un ejemplo es Adobe Spectrum DSP en npm, que se puede instalar en su proyecto con `npm install adobe-spectrum-dsp`.
+Si decides utilizar NPM para distribuir su paquete, agregue un archivo package.json a la carpeta raíz siguiendo [las instrucciones para publicar en NPM](https://zellwk.com/blog/publish-to-npm/ "Las instrucciones, paso a paso, con las que publicar en NPM"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}. Un ejemplo es Adobe Spectrum DSP en npm, que se puede instalar en su proyecto con `npm install adobe-spectrum-dsp`.
 
 Para iOS, puede explorar compartir los tokens usando [CocoaPods](https://cocoapods.org/){:target="_blank" rel="nofollow,noreferrer"}, y para Android puede explorar compartir los tokens como parte de un [Gradle](https://gradle.org/){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -128,15 +125,15 @@ Adobe Spectrum Design System Package (DSP) beta, está basado en [espectrum.adob
 
 Para instalar Adobe Spectrum DSP en su proyecto, ejecute `npm install adobe-spectrum-dsp`.
 
-#### **¿Cómo puedo utilizar el paquete Adobe Spectrum DSP?**
+#### **¿Cómo utilizar el paquete Adobe Spectrum DSP?**
 
-Utiliza la [extensión Adobe XD para VS Code](https://letsxd.com/vscode) para abrir este y otros DSP. Después de instalar Adobe Spectrum DSP con npm, abre la extensión Adobe XD para VS Code y selecciona `Load package`. Luego navega a tu carpeta `node_modules` y selecciona la carpeta `adobe-spectrum-dsp` (los DSP contienen un archivo dsp.json en el nivel raíz).
+Utiliza la [extensión Adobe XD para VS Code](https://letsxd.com/vscode){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} para abrir este y otros DSP. Después de instalar Adobe Spectrum DSP con npm, abre la extensión Adobe XD para VS Code y selecciona `Load package`. Luego navega a tu carpeta `node_modules` y selecciona la carpeta `adobe-spectrum-dsp` (los DSP contienen un archivo dsp.json en el nivel raíz).
 
 #### **¿Qué hay en el paquete de Adobe Spectrum DSP?**
 
 Dentro del paquete vas a encontrar tokens de diseño compilados disponibles en /distAndroid, CSS, Flutter (Dart), iOS (Objective-C), iOS (Swift), JavaScript y SCSS. Además, de fragmentos de código disponibles como Spectrum CSS, Spectrum Web Components (HTML) y React Spectrum.
 
-#### **¿Dónde puedo descargar Adobe Spectrum DSP?**
+#### **¿Dónde descargar Adobe Spectrum DSP?**
 
 https://spectrum.adobe.com/page/spectrum-xd-plugin/
 
@@ -224,6 +221,104 @@ Actualmente, parece estar caído. Por lo que no he podido tener acceso a realiza
 > **Próximamente un DSP para Material Design, que incluye tokens y componentes.**
 
 El equipo de ya está trabajando en la creación de un paquete DSP centrado especifícamente en Material Design, y han decidido crear una [newsletter de Material Design](https://services.google.com/fb/forms/materialdesignnewsletter/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}  para  estar informado de las nuevas actualizaciones al respcto.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es un paquete de sistema de diseño o DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "DSP es una nueva estructura de carpetas de formato abierto creada para ayudar a los equipos a compartir información del sistema de diseño entre herramientas."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la estructura de un paquete DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Para los paquetes DSP de Adobe Spectrum. Los contenidos dentro del paquete son los siguientes:
+
+- /assets
+- /data
+- /dist
+- /ext
+- dsp.json"
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo usar un paquete DSP a través de NPM?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Si decides utilizar NPM para distribuir su paquete, agregue un archivo package.json a la carpeta raíz siguiendo las instrucciones para publicar en NPM."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo instalar Adobe Spectrum DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Para instalar Adobe Spectrum DSP en su proyecto, ejecute `npm install adobe-spectrum-dsp`."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo utilizar el paquete Adobe Spectrum DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Después de instalar Adobe Spectrum DSP con npm, abre la extensión Adobe XD para VS Code y selecciona `Load package`. Luego navega a tu carpeta `node_modules` y selecciona la carpeta `adobe-spectrum-dsp`."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué hay en el paquete de Adobe Spectrum DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dentro del paquete vas a encontrar tokens de diseño compilados disponibles en /distAndroid, CSS, Flutter (Dart), iOS (Objective-C), iOS (Swift), JavaScript y SCSS. Además, de fragmentos de código disponibles como Spectrum CSS, Spectrum Web Components (HTML) y React Spectrum."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Dónde descargar Adobe Spectrum DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Desde la página oficial de Adobe, `spectrum.adobe.com`."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo descargar el paquete de Iconos en DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Desde la página oficial de los creadores del paquete `streamlinehq.com`."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo instalar el paquete de Bootstrap DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Para instalar Adobe Bootstrap DSP en tu proyecto, ejecuta: `npm install @foxbox/adobe-bootstrap-dsp`."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo descargar el paquete de Bootstrap DSP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Desde el repositorio de Github del creador del paquete FoxBoxDigital."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo descargar Dracula UI?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Desde la web oficial de la extensión `Dracula Theme` puedes encontrar las instrucciones de instalación, hasta para 100 diferentes software. Y muy pronto, también para DSP."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo instalar el paquete de Knapback?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A día de hoy, deberás pedir acceso anticipado y solicitar una demostración del producto. Además, de mostrar tu interés por el mismo, para poder comprobar su funcionamiento."
+    }
+  }]
+}
+</script>
 
 ### **Relacionados** <!-- omit in toc -->
 
