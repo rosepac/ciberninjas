@@ -71,6 +71,12 @@ Los **mejores cursos gratis de los mejores sistemas de gestión de contenidos**,
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
+- [**Cursos Gratis de Blogger**](#cursos-gratis-de-blogger)
+- [**Cursos Gratis de Drupal**](#cursos-gratis-de-drupal)
+- [**Cursos Gratis de Joomla**](#cursos-gratis-de-joomla)
+- [**Cursos Gratis de Moodle**](#cursos-gratis-de-moodle)
+- [**Cursos Gratis de Wordpress**](#cursos-gratis-de-wordpress)
+
 ## **Cursos Gratis de Blogger**
 
 - [Curso como crear y editar un blog de blogguer, Joalgoba](https://www.youtube.com/playlist?list=PLe_p_U5W9sa7KnbvLiJFqKXeqcFKSe7bb){:target="_blank" rel="nofollow,noreferrer"} (Youtube \ Joalgoba)
@@ -90,7 +96,7 @@ Los **mejores cursos gratis de los mejores sistemas de gestión de contenidos**,
 
 - [Curso Completo de Moodle 3.1](https://www.youtube.com/playlist?list=PLa3fNlcB1bYcSBp3kbN1BSc0dZfQ0QZpG){:target="_blank" rel="nofollow,noreferrer"} (Óscar Arturo Cruz, YouTube)
 
-## **Cursos Gratis de Wordpress** <i class="fa fa-wordpress" aria-hidden="true"></i>
+## **Cursos Gratis de Wordpress**
 
 - [Ajax en Wordpress para desarrolladores web, nivel avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fajax-para-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * Paso a Pago 😿 [Aprende a crear una página web profesional con Wordpress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-tu-pagina-web-profesional-con-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)

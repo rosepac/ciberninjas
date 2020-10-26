@@ -9,7 +9,7 @@ tags: [Cursos Gratis, Programación]
 title: "▷ 125 Mejores Cursos GRATIS de Programación 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021"
-date: 2020-09-30T08:22:00.000+02:00
+date: 2020-10-25T08:22:00.000+02:00
 permalink: /cursos-programacion/
 canonical_URL: https://ciberninjas.com/cursos-programacion/
 thumbnail: "/assets/img/paginas-cursos/cursos-programacion.webp"
@@ -121,10 +121,10 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 - [Cursos Gratis de Ruby Frameworks**](#cursos-gratis-de-ruby-frameworks)
   - [**Cursos Gratis de Ruby and Rails Framework**](#cursos-gratis-de-ruby-and-rails-framework)
 - [Sistemas de ERP](#sistemas-de-erp)
-- [Swift](#swift)
+- [**Cursos Gratis de Swift**](#cursos-gratis-de-swift)
 - [**Cursos de Typescript**](#cursos-de-typescript)
 - [**Typescript**](#typescript)
-- [Web Scraping 🕸](#web-scraping-)
+- [**Cursos Gratis de Web Scraping**](#cursos-gratis-de-web-scraping)
 
 ## **Curso Gratis C**
 
@@ -658,7 +658,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Swift
+## **Cursos Gratis de Swift**
 
 - [¿Cómo crear formularios de forma sencilla usando Swift?](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-formularios-de-forma-sencilla-usando-swift%2F "¿Cómo crear formularios de forma sencilla usando Swift?") por Gabriel Mejia & Ricardo Echeverry & Santiago Castaño (Udemy)
 - [iOS 10 y Swift 3, Desarrollo de Aplicaciones Desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-app-ios-swift%2F "iOS 10 y Swift 3, Desarrollo de Aplicaciones Desde Cero") por Juan Villalvazo & Gabo Cuadros (Udemy)
@@ -707,7 +707,7 @@ Ciberninjas es la mejor plataforma para aprender TypeScript con una gran cantida
 
 Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últimas noticias, conocimientos, consejos y trucos y mantenerse actualizado.
 
-## Web Scraping 🕸
+## **Cursos Gratis de Web Scraping**
 
 - [Web Scraping](/web-scraping-c-sharp-con-jap-software/) (Jap Software, Youtube)
 
