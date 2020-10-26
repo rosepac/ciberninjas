@@ -39,13 +39,13 @@ Con el problema ya resuelto. Facebook Dating ahora se ofrece en más de 50 país
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Esto es lo que está haciendo Facebook para potenciar sus grupos](https://ciberninjas.com/facebook-grupos-cambios/)
+[▷ Esto es lo que está haciendo Facebook para potenciar sus grupos](https://ciberninjas.com/facebook-grupos-cambios/ "Esto es lo que está haciendo Facebook para potenciar sus grupos")
 
-[🥇 ▷ Herramienta de Facebook para transferir todas tus fotografías](https://ciberninjas.com/facebook-to-google-fotos/)
+[🥇 ▷ Herramienta de Facebook para transferir todas tus fotografías](https://ciberninjas.com/facebook-to-google-fotos/ "Herramienta de Facebook para transferir todas tus fotografías")
 
-[Alemania y Francia acuerdan bloquear Libra](https://ciberninjas.com/alemania-y-francia-acuerdan-bloquear-libra-de-facebook/)
+[Alemania y Francia acuerdan bloquear Libra](https://ciberninjas.com/alemania-y-francia-acuerdan-bloquear-libra-de-facebook/ "Alemania y Francia acuerdan bloquear Libra")
 
-[Bienvenidas las nuevas opciones de control de terceros de Facebook](https://ciberninjas.com/eff/bienvenida-opcion-privacidad-terceros-facebook/)
+[Bienvenidas las nuevas opciones de control de terceros de Facebook](https://ciberninjas.com/eff/bienvenida-opcion-privacidad-terceros-facebook/ "Bienvenidas las nuevas opciones de control de terceros de Facebook")
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
