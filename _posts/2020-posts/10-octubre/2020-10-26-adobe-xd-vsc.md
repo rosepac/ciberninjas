@@ -32,7 +32,6 @@ Los **equipos de DesignOps podrán crear paquetes de sistemas de diseño (DSP) c
 - [**¿Qué es un paquete de sistema de diseño o DSP?**](#qué-es-un-paquete-de-sistema-de-diseño-o-dsp)
   - [**¿Qué formato forma un paquete DSP?**](#qué-formato-forma-un-paquete-dsp)
   - [**¿Cuál es la estructura de un paquete DSP?**](#cuál-es-la-estructura-de-un-paquete-dsp)
-    - [**El archivo dsp.json**](#el-archivo-dspjson)
   - [**¿Cómo usar un paquete DSP a través de NPM?**](#cómo-usar-un-paquete-dsp-a-través-de-npm)
 - [**DSP y herramientas públicas disponibles**](#dsp-y-herramientas-públicas-disponibles)
   - [**Adobe Spectrum DSP**](#adobe-spectrum-dsp)
@@ -99,7 +98,7 @@ Esta carpeta contiene código específico de la plataforma generado por un siste
 
 Esta carpeta podría contener archivos escritos por herramientas de terceros. Sus subcarpetas deben seguir la convención de nombre de dominio inverso de "com_partner_name" (por ejemplo, para Adobe, la carpeta debe llamarse "com_adobe").
 
-####  **El archivo dsp.json**
+####  **El archivo dsp.json** <!-- omit in toc -->
 
 Este es el punto de entrada para el paquete de sistema de diseño (DSP). Incluye información, configuraciones e importaciones del paquete.
 
