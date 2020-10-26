@@ -20,7 +20,21 @@ img: "/assets/img/blog/chocolatey-ciberninjas.webp"
 
 Chocolatey es el mejor instalador múltiple y administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows.
 
-## 📌 Introducción
+- [📌 **Introducción a Chocolatey**](#-introducción-a-chocolatey)
+- [👨‍💻 **¿Qué es Chocolatey?**](#-qué-es-chocolatey)
+- [🎥 **¿Qué es y cómo instalar Chocolatey?**](#-qué-es-y-cómo-instalar-chocolatey)
+- [📋 **Requisitos para la Instalación**](#-requisitos-para-la-instalación)
+  - [**Clientes de Chocolatey**](#clientes-de-chocolatey)
+  - [**Componentes de Chocolatey**](#componentes-de-chocolatey)
+  - [**Requisitos de Espacio**](#requisitos-de-espacio)
+  - [**Requisitos de Memoria Ram**](#requisitos-de-memoria-ram)
+- [💭 **Hablemos de Chocolatey**](#-hablemos-de-chocolatey)
+- [⚙ **Comandos de Chocolatey**](#-comandos-de-chocolatey)
+  - [👉 **Lista de Comandos de Chocolatey**](#-lista-de-comandos-de-chocolatey)
+- [🛠 **Instalación de Chocolatey**](#-instalación-de-chocolatey)
+  - [🎁 **Off-topic: Zeal**](#-off-topic-zeal)
+
+## 📌 **Introducción a Chocolatey**
 
 Si eres un auténtico **ciberninja** seguro que eres un amante de probar todo software que encuentras, te parece interesante o te aconsejan.
 
@@ -30,7 +44,9 @@ Muchas veces nos obligan a descargar de nuevo archivos **_.exe_** para poder act
 
 Igual que desde hace ya bastante tiempo, existe el instalador múltiple de [Ninite][1] y los Sistemas Operativos de Linux poseen instaladores sencillos del software; aparece Chocolatey, que nos simplifica la instalación de los programas dentro del Sistema Operativo de Windows.
 
-## 👨‍💻 ¿Qué es Chocolatey?
+![Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows.](/assets/img/blog/chocolatey-ciberninjas.webp "Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows.")
+
+## 👨‍💻 **¿Qué es Chocolatey?**
 
 Chocolatey es un gestor de paquetes e instalador a nivel de máquina para paquetes de software, creado para la plataforma Windows.
 
@@ -40,9 +56,15 @@ El nombre es una extensión en un juego de palabras de NuGet (de &#171;nougat&#1
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 📋 Requisitos
+## 🎥 **¿Qué es y cómo instalar Chocolatey?**
 
-### Clientes de Chocolatey
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/y3GvDJh3Ncg" allowfullscreen></iframe>
+</div><br/>
+
+## 📋 **Requisitos para la Instalación**
+
+### **Clientes de Chocolatey**
 
 Con los clientes de Chocolatey, nos aseguramos de que Chocolatey se ejecute con poca carga de memoria, ya que tendrá todos los aspectos de las cosas que necesitará administrar y diferentes espacios y memoria disponibles para todos esas necesidades.
 
@@ -52,12 +74,12 @@ Para los clientes de Chocolatey, necesitarás lo siguiente:
 - Windows PowerShell v2 + (aún no PowerShell Core, también conocido como PowerShell 6)
 - .NET Framework 4.x +
 
-### Componentes de Chocolatey
+### **Componentes de Chocolatey**
 
 - Chocolatey CLI aka choco (o choco.exe) es un cliente (no es un servicio de Windows) que proporciona el núcleo de Chocolatey y el almacén de instalación para paquetes instalados localmente. Esto es importante ya que Chocolatey administra los paquetes, no los Programas y las Características directamente. ¿Los Programas y las Funciones se limitan solo al software que tiene &#171;instaladores&#187;? y Chocolatey trata todos los aspectos del software de Windows como ciudadanos de primera clase (cremalleras, scripts, binarios, instaladores), por lo que necesita rastrear y administrar esas cosas por separado.
 - Chocolatey GUI es una aplicación que se ejecuta cuando un usuario la ejecuta (tampoco es un servicio de Windows).
 
-### Requisitos de Espacio
+### **Requisitos de Espacio**
 
 - La CLI de Chocolatey tiene un impacto de 15 MB en la instalación predeterminada más el espacio que utilizan los paquetes instalados.
 - Chocolatey GUI ocupa otros 50–100 MB de espacio en la instalación predeterminada.
@@ -68,7 +90,7 @@ Deseará activar el Reductor de paquetes (ediciones comerciales) si lo tiene par
 
 Si no tiene Package Reducer y está incrustando binarios en nupkgs, necesitará 3 veces el espacio de lo que está instalando a menos que limpie explícitamente los instaladores / zips extraídos en sus scripts automatizados, entonces necesitará 2 veces más espacio cuando se considera que nupkg seguirá conteniendo binarios incrustados (y el nupkg debe permanecer). Desafortunadamente, esto será un cálculo para comprender los requisitos de espacio exactos y realmente depende de lo que instalará.
 
-### Requisitos de Memoria Ram
+### **Requisitos de Memoria Ram**
 
 - Chocolatey CLI solo se ejecuta cuando se llama. Cae en la memoria administrada, por lo que puede funcionar en entornos con poca cantidad de memoria siempre que tengan suficiente memoria disponible para administrar las instalaciones de software.
 - Chocolatey GUI solo se ejecuta cuando la aplicación está abierta y también está en la memoria administrada. Puede funcionar en sistemas con poca memoria.
@@ -76,7 +98,7 @@ Si no tiene Package Reducer y está incrustando binarios en nupkgs, necesitará 
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 💭 Hablemos de Chocolatey
+## 💭 **Hablemos de Chocolatey**
 
 Con **Chocolatey** solo debes redactar una pequeña línea de código agregando los comandos adecuados posteriormente a la propia instalación -de Chocolatey en sí- e instantáneamente tendremos el programa instalado. **Así de fácil**.
 
@@ -88,11 +110,11 @@ Además, **Chocolatey** nos ofrece actualmente hasta nada más y nada menos que 
 
 El software, ha sido ya, descargado más de 113 millones de veces. Lo que habla muy bien del alcance que ha logrado y de la comodidad que es capaz de aportarnos.
 
-## ⚙ Comando
+## ⚙ **Comandos de Chocolatey**
 
 Si quieres conocer todos los comandos existentes dentro de Chocolatey, solo debes ejecutar `choco comand -help` luego de la instalación del propio programa
 
-### 👉 Lista de Comandos
+### 👉 **Lista de Comandos de Chocolatey**
 
 - _**list**_: lista de paquetes remotos o locales
 - _**search**_: busca paquetes remotos o locales (alias para la lista)
@@ -124,7 +146,7 @@ Por favor, se debe ejecutar chocolate con `choco command -help` para mostrar la 
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 🛠 Instalación de Chocolatey
+## 🛠 **Instalación de Chocolatey**
 
 Para la instalación existen dos opciones, podemos abrir el **Cmd.exe** o bien el **PowerShell.exe** de Windows.
 
@@ -170,7 +192,7 @@ Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la c
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 🎁 Off-topic: Zeal
+### 🎁 **Off-topic: Zeal**
     
 El programa que hemos aprendido a instalar, se denomina Zeal.
     
@@ -205,32 +227,30 @@ Espero presentarlo en una entrada más completa 💘
 Esta guía fue creada originalmente el *01 de Marzo de 2018* y actualizado por última vez el *09 de Mayo de 2020*.
 {: .notice--info}
 
-### **Relacionados**
+### **Relacionados** <!-- omit in toc -->
 
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/ "10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador")
 
-[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/ "5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio")
 
-[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
+[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/ "Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10")
 
-[10 Mejores VPN GRATIS para Windows en 2021](https://ciberninjas.com/mejores-vpn-windows/)
+[10 Mejores VPN GRATIS para Windows en 2021](https://ciberninjas.com/mejores-vpn-windows/ "10 Mejores VPN GRATIS para Windows en 2021")
 
-[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/ "Deja de perder texto e imágenes de forma permanente")
 
-[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/ "8 Fórmulas diferentes de crear una captura de pantalla en Windows 10")
 
 [💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
 
-[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/ "Cómo controlar otro ordenador a través de la Asistencia")
 
-[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/)
+[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/ "Ninite, instalar o actualizar múltiples aplicaciones a la vez")
 
-[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/)
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/ "Las 8 mejores aplicaciones de dibujo")
 
-[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/)
+[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/ "Hiren´s BootCD PE")
 
-[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
-
-[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
+[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe "Windows PE o Entorno de Preinstalación de Windows")
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
