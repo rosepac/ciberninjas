@@ -7,7 +7,7 @@ tags:
 - 
 thumbnail: /assets/img/2020/10/adobe-xd-1.webp
 feature-img: /assets/img/2020/10/adobe-xd-1.webp
-title: '▷ Adobe XD para Visual Studio Code: Crea y revisualiza paquetes de sistemas de diseño'
+title: '▷ Extensión de Adobe XD para Visual Studio Code: Crea y revisualiza paquetes de sistemas de diseño'
 description: >-
   La nueva extensión de Adobe XD para Visual Studio Code permite a los desarrolladores mapear visualmente las fuentes de diseño creadas en XD y disponibles en las Bibliotecas Creative Cloud, al código específico de la plataforma utilizando tokens de diseño.
 excerpt: >-
