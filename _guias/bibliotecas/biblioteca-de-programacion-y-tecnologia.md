@@ -37,7 +37,7 @@ Viendo fortalecidas así, sus aptitudes para llevar a cabo cualquier puesto de t
 {% include libros-prog.html %}
 <!-- LIBROS INDIVIDUALES: https://www.pdf-manual.es/programacion-web/css/155-libro-bootstrap-3.html , https://pdfcursos.com/155-curso-libro-bootstrap-3.pdf , https://pdfcursos.com/, https://pdfcursos.com/180-curso-taller-de-raspberry-pi.pdf -->
 
-## **Mejores Libros Gratuitos PDF para Programar**
+**Mejores Libros Gratuitos PDF para Programar** <!-- omit in toc -->
 
 Si tu profesión o futuro trabajo esta entre los siguientes campos comomunicaciones.
 
@@ -57,28 +57,28 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 [📚 Ver Todas las Bibliotecas Gratuitas 📚](/biblioteca-de-programacion-y-tecnologia/#índice-de-libros){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-- [**Mejores Libros Gratuitos PDF para Programar**](#mejores-libros-gratuitos-pdf-para-programar)
-- [**Índice de Libros**](#índice-de-libros)
-- [🗃 Meta-Listas](#-meta-listas)
-  - [🧰 Meta-Listas Herramientas](#-meta-listas-herramientas)
-  - [🌐 Cursos Masivos en Línea](#-cursos-masivos-en-línea)
-- [Algoritmos 🔡](#algoritmos-)
-- [📁 Bases de Datos](#-bases-de-datos)
-- [MySQL](#mysql)
-- [SQL](#sql)
-- [NoSQL](#nosql)
-  - [MongoDB](#mongodb)
-  - [Redis](#redis)
-- [⛓ Blockchain](#-blockchain)
-- [Cadena de Bloques 🔗](#cadena-de-bloques-)
-- [Criptomonedas 💰](#criptomonedas-)
+<span id="menu"><strong>Menú de Categorías de Libros Gratuitos<strong></span>
+
+- [**Meta-Listas de Libros**](#meta-listas-de-libros)
+  - [**Meta-Listas de Herramientas**](#meta-listas-de-herramientas)
+  - [**Cursos Masivos en Línea**](#cursos-masivos-en-línea)
+- [**Libros Gratis de Algoritmos**](#libros-gratis-de-algoritmos)
+- [**Libros Gratis de Bases de Datos**](#libros-gratis-de-bases-de-datos)
+- [**Libros Gratis de MySQL**](#libros-gratis-de-mysql)
+- [**Libros Gratis de SQL**](#libros-gratis-de-sql)
+- [**Libros Gratis de  NoSQL**](#libros-gratis-de-nosql)
+  - [**Libros Gratis de MongoDB**](#libros-gratis-de-mongodb)
+  - [**Libros Gratis de Redis**](#libros-gratis-de-redis)
+- [**Libros Gratis de Blockchain**](#libros-gratis-de-blockchain)
+- [**Libros Gratis de Cadena de Bloques**](#libros-gratis-de-cadena-de-bloques)
+- [**Libros Gratis de Criptomonedas**](#libros-gratis-de-criptomonedas)
   - [Bitcoin](#bitcoin)
   - [Ethereum](#ethereum)
-- [🔬 Ciencias de la Computación](#-ciencias-de-la-computación)
-- [🛒 Comercio Electrónico](#-comercio-electrónico)
+- [**Libros Gratis de Ciencias de la Computación**](#libros-gratis-de-ciencias-de-la-computación)
+- [**Libros Gratis de Comercio Electrónico**](#libros-gratis-de-comercio-electrónico)
   - [Startups](#startups)
 - [📐 Diseño Cad](#-diseño-cad)
-- [🐧 Ecosistema de Software Libre](#-ecosistema-de-software-libre)
+- [**Libros Gratis de Ecosistema de Software Libre**](#libros-gratis-de-ecosistema-de-software-libre)
   - [Hacktivismo](#hacktivismo)
   - [Linux](#linux)
   - [Ubuntu](#ubuntu)
@@ -124,11 +124,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
   - [Ensamblador](#ensamblador)
   - [Erlang](#erlang)
   - [Elixir](#elixir)
-- [Git](#git)
-- [Github](#github)
-  - [Go](#go)
-  - [Haskell](#haskell)
-- [👨‍🎨 Diseño Web](#-diseño-web)
+- [**Libros Gratis de Git**](#libros-gratis-de-git)
+- [**Libros Gratis de Github**](#libros-gratis-de-github)
+  - [**Libros Gratis de Go**](#libros-gratis-de-go)
+  - [**Libros Gratis de Haskell**](#libros-gratis-de-haskell)
+- [**Libros Gratis de Diseño Web**](#libros-gratis-de-diseño-web)
 - [**Libros Gratis de Bootstrap**](#libros-gratis-de-bootstrap)
 - [**Libros Gratis de Lenguajes de Estilos y Preprocesadores 🎨**](#libros-gratis-de-lenguajes-de-estilos-y-preprocesadores-)
 - [**Libros Gratis de Lenguajes de Marcado ✍**](#libros-gratis-de-lenguajes-de-marcado-)
@@ -170,13 +170,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [Licencia](#licencia)
   - [**Nos Referencian**](#nos-referencian)
 
-## **Índice de Libros**
-
-[🗃 Meta-Listas](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block} [🧰 Meta-Listas Herramientas](/biblioteca-de-programacion-y-tecnologia/#-meta-listas-herramientas){: .btn .btn-outline-dark .btn-lg .btn-block} [🌐 Cursos Masivos en Línea](/biblioteca-de-programacion-y-tecnologia/#-cursos-masivos-en-línea){: .btn .btn-outline-dark .btn-lg .btn-block} [📁 Bases de Datos](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [⛓ Blockchain](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔬 Ciencias de la Computación](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn-outline-dark .btn-lg .btn-block} [🛒 Comercio Electrónico](/biblioteca-de-programacion-y-tecnologia/#comercio-electrónico){: .btn .btn-outline-dark .btn-lg .btn-block} [👩‍💻 Desarrollo Web](/biblioteca-de-programacion-y-tecnologia/#-desarrollo-web){: .btn .btn-outline-dark .btn-lg .btn-block} [📐 Diseño Cad](/biblioteca-de-programacion-y-tecnologia/#-diseño-cad){: .btn .btn-outline-dark .btn-lg .btn-block} [👨‍🎨 Diseño Web](/biblioteca-de-programacion-y-tecnologia/#-diseño-web){: .btn .btn-outline-dark .btn-lg .btn-block} [🐧 Software Libre](/biblioteca-de-programacion-y-tecnologia/#ecosistema-de-software-libre){: .btn .btn-outline-dark .btn-lg .btn-block} [👨‍💻 Lenguajes de Programación](/biblioteca-de-programacion-y-tecnologia/#lenguajes-de-programación){: .btn .btn-outline-dark .btn-lg .btn-block} [💼 Metodologías de Desarrollo](/biblioteca-de-programacion-y-tecnologia/#metodologías-de-desarrollo){: .btn .btn-outline-dark .btn-lg .btn-block} [👦 Programación Infantil](/biblioteca-de-programacion-y-tecnologia/#programación-infantil){: .btn .btn-outline-dark .btn-lg .btn-block} [🎮 Programación Videojuegos](/biblioteca-de-programacion-y-tecnologia/#-programación-videojuegos){: .btn .btn-outline-dark .btn-lg .btn-block} [🕸 Redes](/biblioteca-de-programacion-y-tecnologia/#-redes){: .btn .btn-outline-dark .btn-lg .btn-block} [🤖 Robótica](/biblioteca-de-programacion-y-tecnologia/#-robótica){: .btn .btn-outline-dark .btn-lg .btn-block} [👮‍♀️ Seguridad](/biblioteca-de-programacion-y-tecnologia/#-seguridad){: .btn .btn-outline-dark .btn-lg .btn-block} [👨‍🔧 Software & Hardware](/biblioteca-de-programacion-y-tecnologia/#-técnico-de-software--hardware){: .btn .btn-outline-dark .btn-lg .btn-block} [👷‍♂️ Webmaster](/biblioteca-de-programacion-y-tecnologia/#%EF%B8%8F-webmaster){: .btn .btn-outline-dark .btn-lg .btn-block}
-
-## 🗃 Meta-Listas
-
-[Herramientas 🧰](/biblioteca-de-programacion-y-tecnologia/#-meta-listas-herramientas){: .btn .btn-outline-dark .btn-lg .btn-block} [Cursos Online 🌐](/biblioteca-de-programacion-y-tecnologia/#-cursos-masivos-en-línea){: .btn .btn-outline-dark .btn-lg .btn-block}
+## **Meta-Listas de Libros**
 
 * [Aprender Python](https://kutt.it/meta-aprendiendo-python){:target="_blank" rel="nofollow,noreferrer"} - Python Argentina
 * [Aprender Java](https://kutt.it/java-hispano){:target="_blank" rel="nofollow,noreferrer"} - Java Hispano
@@ -198,11 +192,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### 🧰 Meta-Listas Herramientas
+### **Meta-Listas de Herramientas**
 
 * [Style Guides](https://styleguides.io){:target="_blank" rel="nofollow,noreferrer"} (+572 entre Artículos, Libros y Herramientas)
 
-### 🌐 Cursos Masivos en Línea
+### **Cursos Masivos en Línea**
 
 * [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2020)
 * [Miriadax](https://miriadax.net/cursos){:target="_blank" rel="nofollow,noreferrer"} (HTML)
@@ -210,7 +204,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Algoritmos 🔡
+## **Libros Gratis de Algoritmos**
 
 * [Algoritmos y Programación (Guía para docentes)](https://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprenda a programar como si estuviera en primero](https://drive.google.com/file/d/1oP4ec2D6YIjXQ-L9H-z-8Gp6L-DAADvG/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -225,7 +219,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 📁 Bases de Datos
+## **Libros Gratis de Bases de Datos**
 
 [Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn-outline-dark .btn-lg .btn-block} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn-outline-dark .btn-lg .btn-block} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn-outline-dark .btn-lg .btn-block} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn-outline-dark .btn-lg .btn-block} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -246,37 +240,37 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## MySQL
+## **Libros Gratis de MySQL**
 
 * [MySQL Redundante sobre RAID 1 en Debian 8](https://www.researchgate.net/publication/333971453_MySQL_Redundante_sobre_RAID_1_en_Debian_8) (PDF) (2017)
 
-## SQL
+## **Libros Gratis de SQL**
 
 * [Manual de SQL](https://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Tutorial de SQL](https://www.desarrolloweb.com/manuales/9/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
 [⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## NoSQL
+## **Libros Gratis de  NoSQL**
 
-### MongoDB
+### **Libros Gratis de MongoDB**
 
 * [Comenzando con MongoDB](https://burgersbacon.gitbooks.io/mongo-db/content) (HTML) (2015)
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book){:target="_blank" rel="nofollow,noreferrer"}
 * [MongoDB en Castellano](https://leanpub.com/mongodbcastellano?){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF)
 * [MongoDB en Español](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
 
-### Redis
+### **Libros Gratis de Redis**
 
 * [Redis: Un pequeño libro](https://raulexposito.com/documentos/redis/redis.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 [⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## ⛓ Blockchain
+## **Libros Gratis de Blockchain**
 
 [Cadena de Bloques 🔗](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn-outline-dark .btn-lg .btn-block} [Criptomonedas 💰](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn-outline-dark .btn-lg .btn-block} [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#bitcoin-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Cadena de Bloques 🔗
+## **Libros Gratis de Cadena de Bloques**
 
 * [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](https://lookaside.fbsbx.com/file/analisis-comparacion-monedas-2016.pdf?token=AWyBM7cScU8vEZ6bFuAaJysHVF8cq3c_5Y57YCovuod0N0MGRDsPcJifEkqFRjy9Rb1q2yPiRKJv58VKZqi-BTuEjlT9ao3wOjVCeAQ2c6lnTwicR-H-hzAzOaEa6wzGC84S_jScSobC5Zav7_reoA6VLl4eU5OpZqhCj2D6MOSO_A){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aspectos jurídicos de las criptomonedas](https://blockchainintelligence.es/wp-content/uploads/2019/04/Art%C3%ADculo-doctrinal_Apectos-jur%C3%ADficos-de-las-criptomonedas-por-M-de-la-Concepci%C3%B3n-Chamorro-Rodr%C3%ADguez.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -289,7 +283,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Criptomonedas 💰
+## **Libros Gratis de Criptomonedas**
 
 * [Análisis de las criptomonedas en la economía actual](https://lookaside.fbsbx.com/file/analisis-criptomonedas-2018-TFG-Zarraluqui%20Matos%2C%20IAigo.pdf?token=AWybo2fN3i9Vwjev4WcpqC5s1fR9L8YXIgK4_jTcWPbz5kguDM5ur-Oe5tIolO2nuqAwOFZVn_oRnCTahjh1r8YmiCQjGL8yAVIAKqFA1rOQgr-VbPrt5hab6J49sZknOb3lOdNgbQtr3zqtqT402v8vsUDS9dayj3zilLHaPbUTrA) (PDF)
 * [Criptomonedas (en especial, bitcoin) y blanqueo de dinero](https://criminet.ugr.es/recpc/21/recpc21-14.pdf) (PDF)
@@ -319,7 +313,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 🔬 Ciencias de la Computación
+## **Libros Gratis de Ciencias de la Computación**
 
 * [Análisis de la Aplicación de la Especificación de Despliegue y Configuración del OMG a Sistemas de Tiempo Real Basados en Componentes](https://www.ctr.unican.es/publications/plm-jlm-jmd-2006a.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -337,7 +331,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 🛒 Comercio Electrónico
+## **Libros Gratis de Comercio Electrónico**
 
 * [¿Cuál es la mejor plataforma de comercio electrónico para emprendedores?](https://www.prochile.gob.cl/wp-content/uploads/2019/03/2-Cual-es-la-mejor-plataforma-de-comercio-electronico-para-emprendedores.pdf) (PDF) (2018)
 * [Diseño e Implementación de una Tienda Electrónica de Ropa](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/88405/5/emilio89TFM0119memoria.pdf) (PDF) (2019)
@@ -356,7 +350,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 * [Manual Avanzado de Revit](https://www.espaciobim.com/recursos-gratis/){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-## 🐧 Ecosistema de Software Libre
+## **Libros Gratis de Ecosistema de Software Libre**
 
 [Linux <i class="fa fa-linux" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#linux-){: .btn .btn-outline-dark .btn-lg .btn-block} [Ubuntu](/biblioteca-de-programacion-y-tecnologia/#ubuntu-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -734,7 +728,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Git
+## **Libros Gratis de Git**
 
 * [Git Immersion en Español](https://esparta.github.io/gitimmersion-spanish){:target="_blank" rel="nofollow,noreferrer"}
 * [Git Magic (2007)](https://openlibra.com/es/book/download/git-magic){:target="_blank" rel="nofollow,noreferrer"}
@@ -743,17 +737,17 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Gitmagic](https://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es){:target="_blank" rel="nofollow,noreferrer"}
 * [Pro Git](https://git-scm.com/book/es/){:target="_blank" rel="nofollow,noreferrer"}
 
-## Github
+## **Libros Gratis de Github**
 
 * [Conociendo Github Documentación](https://media.readthedocs.org/pdf/conociendogithub/latest/conociendogithub.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple){:target="_blank" rel="nofollow,noreferrer"} (Github)
 * [Github Chuleta de Comandos](https://drive.google.com/file/d/1Gm4fhWzDWtfjnnoxwjeq5PESYMaouwdi/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-### Go
+### **Libros Gratis de Go**
 
 * [Go: Un pequeño libro](https://raulexposito.com/documentos/go/go.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-### Haskell
+### **Libros Gratis de Haskell**
 
 * [¡Aprende Haskell por el bien de todos!](https://aprendehaskell.es/main.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Lógica de primer orden en Haskell](https://docs.google.com/viewerng/viewer?url=idus.us.es/xmlui/bitstream/handle/11441/63139/Paluzo+Hidalgo+Eduardo+TFG.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -761,7 +755,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 👨‍🎨 Diseño Web
+## **Libros Gratis de Diseño Web**
 
 * [Prototipado de Aplicaciones Web (mean.js)](https://meanjsbook.danihernandez.me/) (HTML) (2015)
 

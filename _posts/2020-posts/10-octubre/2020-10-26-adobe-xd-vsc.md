@@ -323,6 +323,14 @@ El equipo de ya está trabajando en la creación de un paquete DSP centrado espe
 
 [▷ 16 Mejores Cursos Gratis de UX, UI y Prototipado Web](https://ciberninjas.com/cursos-prototipado-ux-ui/ "16 Mejores Cursos Gratis de UX, UI y Prototipado Web")
 
+[▷ Visual Studio Code 1.47: Ahora se desarrolla en Typescript](https://ciberninjas.com/visual-studio-code-1-47/ "Visual Studio Code 1.47: Ahora se desarrolla en Typescript")
+
+[▷ Segunda actualización de Java para Visual Studio Code](https://ciberninjas.com/actualidad-java-visual-studio/ "Segunda actualización de Java para Visual Studio Code")
+
+[▷ Visualiza estructuras de datos en Visual Studio Code](https://ciberninjas.com/visualiza-datos-vscode/ "Visualiza estructuras de datos en Visual Studio Code")
+
+[🥇 ▷ Los Mejores Editores de Texto GRATIS](https://ciberninjas.com/mejores-editores-texto/ "Los Mejores Editores de Texto GRATIS")
+
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Adobe XD para Visual Studio Code: Crea y revisualiza paquetes de sistemas de diseño](/assets/img/2020/10/adobe-xd-1.webp "Adobe XD para Visual Studio Code: Crea y revisualiza paquetes de sistemas de diseño")
