@@ -72,64 +72,60 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [**Libros Gratis de Blockchain**](#libros-gratis-de-blockchain)
 - [**Libros Gratis de Cadena de Bloques**](#libros-gratis-de-cadena-de-bloques)
 - [**Libros Gratis de Criptomonedas**](#libros-gratis-de-criptomonedas)
-  - [Bitcoin](#bitcoin)
-  - [Ethereum](#ethereum)
+  - [**Libros Gratis de Bitcoin**](#libros-gratis-de-bitcoin)
+  - [**Libros Gratis de Ethereum**](#libros-gratis-de-ethereum)
 - [**Libros Gratis de Ciencias de la Computación**](#libros-gratis-de-ciencias-de-la-computación)
 - [**Libros Gratis de Comercio Electrónico**](#libros-gratis-de-comercio-electrónico)
-  - [Startups](#startups)
-- [📐 Diseño Cad](#-diseño-cad)
+  - [**Libros Gratis de Startups**](#libros-gratis-de-startups)
+- [**Libros Gratis de Diseño Cad**](#libros-gratis-de-diseño-cad)
 - [**Libros Gratis de Ecosistema de Software Libre**](#libros-gratis-de-ecosistema-de-software-libre)
-  - [Hacktivismo](#hacktivismo)
-  - [Linux](#linux)
-  - [Ubuntu](#ubuntu)
-- [💼 Metodologías de Desarrollo](#-metodologías-de-desarrollo)
+  - [**Libros Gratis de Hacktivismo**](#libros-gratis-de-hacktivismo)
+  - [**Libros Gratis de Linux**](#libros-gratis-de-linux)
+  - [**Libros Gratis de Ubuntu**](#libros-gratis-de-ubuntu)
+- [**Libros Gratis de Flujos de Trabajo**](#libros-gratis-de-flujos-de-trabajo)
 - [Misceláneos](#misceláneos)
-- [👨‍🔧 Técnico de Software & Hardware](#-técnico-de-software--hardware)
-  - [Montaje & Mantenimiento 🔧](#montaje--mantenimiento-)
-- [💻 Ofimática](#-ofimática)
-  - [Software Libre](#software-libre)
+- [**Libros Gratis de Montaje & Mantenimiento**](#libros-gratis-de-montaje--mantenimiento)
+- [**Libros Gratis de Ofimática**](#libros-gratis-de-ofimática)
+  - [**Libros Gratis de Software Libre**](#libros-gratis-de-software-libre)
   - [Otros](#otros)
-- [👨‍💻 Paradigmas de Programación](#-paradigmas-de-programación)
-- [👦 Programación Infantil](#-programación-infantil)
-  - [App Inventor](#app-inventor)
-  - [Scratch](#scratch)
-- [🕸 Redes](#-redes)
-  - [Servicios en red](#servicios-en-red)
-  - [Virtualización](#virtualización)
-- [👮‍♀️ Seguridad](#️-seguridad)
-- [Criptografía 🔓](#criptografía-)
-- [Sistemas Operativos](#sistemas-operativos)
+- [**Libros Gratis de Paradigmas**](#libros-gratis-de-paradigmas)
+- [**Libros Gratis de Programación Infantil**](#libros-gratis-de-programación-infantil)
+  - [**Libros Gratis de App Inventor**](#libros-gratis-de-app-inventor)
+  - [**Libros Gratis de Scratch**](#libros-gratis-de-scratch)
+- [**Libros Gratis de Redes**](#libros-gratis-de-redes)
+  - [**Libros Gratis de Servicios en Red**](#libros-gratis-de-servicios-en-red)
+  - [**Libros Gratis de Virtualización y Redes**](#libros-gratis-de-virtualización-y-redes)
+- [**Libros Gratis de Seguridad y Criptografía**](#libros-gratis-de-seguridad-y-criptografía)
+- [**Libros Gratis de Criptografía**](#libros-gratis-de-criptografía)
+- [**Libros Gratis de Sistemas Operativos**](#libros-gratis-de-sistemas-operativos)
   - [iPhone](#iphone)
 - [Software](#software)
 - [Consola y Editores de Texto](#consola-y-editores-de-texto)
 - [Anotaciones y Transcripciones](#anotaciones-y-transcripciones)
 - [🗞 Revistas](#-revistas)
-- [🤖 Robótica](#-robótica)
-- [Arduino 🔦](#arduino-)
-- [Casas Inteligentes 🏡](#casas-inteligentes-)
-- [Inteligencia Artificial](#inteligencia-artificial)
-- [Raspberry Pi](#raspberry-pi)
-- [👩‍💻 Desarrollo Web](#-desarrollo-web)
-- [Android](#android)
-- [Docker](#docker)
-- [Bootstrap](#bootstrap)
-- [Ionic](#ionic)
-- [PhoneGap (Apache Cordoba)](#phonegap-apache-cordoba)
-- [Programación Web 👩‍💻](#programación-web-)
-- [👨‍💻 Lenguajes de Programación](#-lenguajes-de-programación)
-  - [C](#c)
-  - [C++](#c-1)
-  - [Coffescript](#coffescript)
-  - [Emacs y Lisp](#emacs-y-lisp)
-  - [Ensamblador](#ensamblador)
-  - [Erlang](#erlang)
-  - [Elixir](#elixir)
+- [**Libros Gratis de Arduino**](#libros-gratis-de-arduino)
+- [**Libros Gratis de Inteligencia Artificial**](#libros-gratis-de-inteligencia-artificial)
+- [**Libros Gratis de Raspberry Pi**](#libros-gratis-de-raspberry-pi)
+- [**Libros Gratis de Android**](#libros-gratis-de-android)
+- [**Libros Gratis de Docker**](#libros-gratis-de-docker)
+- [**Libros Gratis de Bootstrap**](#libros-gratis-de-bootstrap)
+- [**Libros Gratis de Ionic**](#libros-gratis-de-ionic)
+- [**Libros Gratis de PhoneGap**](#libros-gratis-de-phonegap)
+- [**Libros Gratis de Programación Web**](#libros-gratis-de-programación-web)
+- [**Libros Gratis de Lenguajes de Programación**](#libros-gratis-de-lenguajes-de-programación)
+  - [**Libros Gratis de C**](#libros-gratis-de-c)
+  - [**Libros Gratis de C++**](#libros-gratis-de-c-1)
+  - [**Libros Gratis de Coffescript**](#libros-gratis-de-coffescript)
+  - [**Libros Gratis de Emacs y Lisp**](#libros-gratis-de-emacs-y-lisp)
+  - [**Libros Gratis de Ensamblador**](#libros-gratis-de-ensamblador)
+  - [**Libros Gratis de Erlang**](#libros-gratis-de-erlang)
+  - [**Libros Gratis de Elixir**](#libros-gratis-de-elixir)
 - [**Libros Gratis de Git**](#libros-gratis-de-git)
 - [**Libros Gratis de Github**](#libros-gratis-de-github)
   - [**Libros Gratis de Go**](#libros-gratis-de-go)
   - [**Libros Gratis de Haskell**](#libros-gratis-de-haskell)
 - [**Libros Gratis de Diseño Web**](#libros-gratis-de-diseño-web)
-- [**Libros Gratis de Bootstrap**](#libros-gratis-de-bootstrap)
+- [**Libros Gratis de Bootstrap**](#libros-gratis-de-bootstrap-1)
 - [**Libros Gratis de Lenguajes de Estilos y Preprocesadores 🎨**](#libros-gratis-de-lenguajes-de-estilos-y-preprocesadores-)
 - [**Libros Gratis de Lenguajes de Marcado ✍**](#libros-gratis-de-lenguajes-de-marcado-)
 - [**Libros Gratis de HTML / CSS**](#libros-gratis-de-html--css)
@@ -159,14 +155,14 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [**Libros Gratis de Swift**](#libros-gratis-de-swift)
 - [**Libros Gratis de Tex & LaTeX**](#libros-gratis-de-tex--latex)
 - [**Libros de Programación de Videojuegos**](#libros-de-programación-de-videojuegos)
-- [✍ Sistemas de Gestión de Contenidos](#-sistemas-de-gestión-de-contenidos)
+- [Sistemas de Gestión de Contenidos](#sistemas-de-gestión-de-contenidos)
   - [**Libros Gratis de Wordpress**](#libros-gratis-de-wordpress)
 - [**Libros Gratis de Webmaster**](#libros-gratis-de-webmaster)
 - [**Libros Gratis de Accesibilidad Web**](#libros-gratis-de-accesibilidad-web)
-- [**Libros Gratis de Análitica Web 📈**](#libros-gratis-de-análitica-web-)
-- [**Libros Gratis de Marketing Digital 🏪**](#libros-gratis-de-marketing-digital-)
+- [**Libros Gratis de Análitica Web**](#libros-gratis-de-análitica-web)
+- [**Libros Gratis de Marketing Digital**](#libros-gratis-de-marketing-digital)
   - [**Libros Gratis de Instagram**](#libros-gratis-de-instagram)
-- [**Libros Gratis de Seo y Posicionamiento 🔍**](#libros-gratis-de-seo-y-posicionamiento-)
+- [**Libros Gratis de Seo y Posicionamiento**](#libros-gratis-de-seo-y-posicionamiento)
 - [Licencia](#licencia)
   - [**Nos Referencian**](#nos-referencian)
 
@@ -190,7 +186,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico){:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://biblioweb.tic.unam.mx/, https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ https://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **Meta-Listas de Herramientas**
 
@@ -202,7 +198,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Miriadax](https://miriadax.net/cursos){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Hacker.IO](https://hackr.io/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Algoritmos**
 
@@ -217,7 +213,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/catalogo/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank" rel="nofollow,noreferrer"} (Bubok)
 
-[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Bases de Datos**
 
@@ -238,7 +234,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Principios sobre bases de datos relacionales](https://cmapspublic2.ihmc.us/rid=1P2RVCGBV-1PKTG1T-2B2B/Principios%20de%20bases%20de%20datos%20relacionales.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Usando Oracle SQL y PL/SQL](https://issuu.com/aulacero21/docs/gesti_n_de_bases_de_datos_-_jorge_s_nchez___oracle/61){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de MySQL**
 
@@ -249,7 +245,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Manual de SQL](https://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Tutorial de SQL](https://www.desarrolloweb.com/manuales/9/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de  NoSQL**
 
@@ -264,7 +260,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 * [Redis: Un pequeño libro](https://raulexposito.com/documentos/redis/redis.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Blockchain**
 
@@ -281,7 +277,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Plataformas blockchain y escenarios de uso](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/20541/1/tg-pereira-toscano-villar.pdf) (PDF) (2019)
 * [Tecnología blockchain, una nueva era para la empresa](https://accid.org/wp-content/uploads/2019/04/Tecnolog%C3%ADa_blockchain__una_nueva_era_para_la_empresa_L_Parrondologo.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2018)
 
-[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Criptomonedas**
 
@@ -290,9 +286,9 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](https://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Las criptomonedas en el sistema monetario actual (2017)](https://lookaside.fbsbx.com/file/CapitulocriptomonedasUAM-A.pdf?token=AWw_ZFF8EPnY8-Nk2z31lXSUKC5K3J_iFpvIeVJ-7EH89kus6E8-HgBmOwyExnnoI2ob3mrS5LbgJCgt9r43osu991kFz1zUI36RqCCxDtz-Mn8mGXZbJYnHEZJ4L7Amm5LjjYFdY2FLAGZz-tpDNPHin2HyoNN10ae0yGzaKKOr0A){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### Bitcoin
+### **Libros Gratis de Bitcoin**
 
 * [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -307,11 +303,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf){:target="_blank" rel="nofollow,noreferrer"}
 * [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-### Ethereum
+### **Libros Gratis de Ethereum**
 
 * [Guía Básica de ETHEREUM](https://lookaside.fbsbx.com/file/gu%C3%ADa-ethereum-es.pdf?token=AWwRSd69kRSRBGrrjSl_ITZa_kLRQvAMFMpcuiihuL4L93bASE99P0bZyp3jZA1gclULalRTvF9FdiWXCxDnG4GQl7F7aeBXiWt9oCr84BAdVMcaCRUpnzCFCfvZrhGk_fqF-h_3WqWJiuLCssvR7QJ0Ew4zAHbavWie9Vm7Eswviw){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Ciencias de la Computación**
 
@@ -329,7 +325,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Middleware de distribución y modelo transaccional en sistemas de tiempo real](https://www.ctr.unican.es/publications/jjg-mgh-jlc-2005a.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Una aproximación dirigida por modelos para diseñar y construir esquemas XML: Un caso de estudio.](https://www.redalyc.org/pdf/1331/133115019007.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Comercio Electrónico**
 
@@ -339,14 +335,14 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Plan de Negocios para la creación de un marketplace online de ferreterías](https://cswetwebcorsta01.blob.core.windows.net/uploads/2019/06/Informe-anual-integrado-2014.pdf) (PDF) (2014)
 * [TPV - Virtual: Manual de Integración - Redirección](https://www.grupocooperativocajamar.es/recursos-entidades/es/pdf/manuales-tpv/tpv-virtual-manual-integracion-redireccion-v2-1.pdf) (PDF) (2019)
 
-### Startups
+### **Libros Gratis de Startups**
 
 * [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
 * [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
 
-[⏫ Subir a E-Commerce 🛒](/biblioteca-de-programacion-y-tecnologia/#-comercio-electrónico){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a E-Commerce 🛒](/biblioteca-de-programacion-y-tecnologia/#-comercio-electrónico){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 📐 Diseño Cad
+## **Libros Gratis de Diseño Cad**
 
 * [Manual Avanzado de Revit](https://www.espaciobim.com/recursos-gratis/){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
@@ -383,11 +379,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Tostadores y Posix (1999)](https://www.ctr.unican.es/publications/mgh-cdl-1997a.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Trampa en el Cyberespacio](https://fortinux.com/wp-content/uploads/2010/12/trampacyberespacio.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-### Hacktivismo
+### **Libros Gratis de Hacktivismo**
 
 * [El Kit de la Lucha en Internet](https://www.traficantes.net/sites/default/files/pdfs/El%20kit%20de%20la%20lucha%20en%20Internet-TdS.pdf){:target="_blank" rel="nofollow,noreferrer"} (2012)
 
-### Linux
+### **Libros Gratis de Linux**
 
 * [Administración avanzada de GNU/Linux](https://softlibre.unizar.es/manuales/linux/871.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Bases de la programación en Bash](https://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
@@ -405,14 +401,16 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Linux Fácil](https://fortinux.com/wp-content/uploads/2010/12/linux-facil-scribus-FINAL-baja.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Sistema Operativo Huayra Gnu/Linux](https://bibliotecadigital.educ.ar/articles/read/366){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### Ubuntu
+### **Libros Gratis de Ubuntu**
 
 * [Corre linux corre: conociendo Ubuntu](https://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[⏫ Subir a Software Libre 🐧](/biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-software-libre){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[⏫ Subir a Software Libre 🐧](/biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-software-libre){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 💼 Metodologías de Desarrollo
+**Libros Gratuitos de Metodologías de Desarrollo 💼**
+
+## **Libros Gratis de Flujos de Trabajo**
 
 * [Código Sólido](https://leanpub.com/codigosolido?){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF)
 * [Compendio de Ingeniería del Software](https://www.navegapolis.com/files/cis.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -440,17 +438,17 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [El camino a un mejor programador](https://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html){:target="_blank" rel="nofollow,noreferrer"} (HTML) [(PDF, ePub)](https://emanchado.github.io/camino-mejor-programador/){:target="_blank" rel="nofollow,noreferrer"}
 * [Latino. Lenguaje de programación](https://github.com/primitivorm/latino/blob/master/README.md#qu%C3%A9-es-lenguaje-latino){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-## 👨‍🔧 Técnico de Software & Hardware
+**Técnico de Software & Hardware 👨‍🔧**
 
-### Montaje & Mantenimiento 🔧
+## **Libros Gratis de Montaje & Mantenimiento**
 
 * [Armado y reparación de PC](https://nksistemas.com/curso-de-armado-y-reparacion-de-pc){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-## 💻 Ofimática
+## **Libros Gratis de Ofimática**
 
 [Acces](/biblioteca-de-programacion-y-tecnologia/#acces){: .btn .btn-outline-dark .btn-lg .btn-block} [Excel](/biblioteca-de-programacion-y-tecnologia/#excel){: .btn .btn-outline-dark .btn-lg .btn-block} [Google Drive](/biblioteca-de-programacion-y-tecnologia/#google-drive){: .btn .btn-outline-dark .btn-lg .btn-block} [Presentaciones](/biblioteca-de-programacion-y-tecnologia/#presentaciones){: .btn .btn-outline-dark .btn-lg .btn-block} [Software Libre](/biblioteca-de-programacion-y-tecnologia/#software-libre){: .btn .btn-outline-dark .btn-lg .btn-block} [Otros](/biblioteca-de-programacion-y-tecnologia/#presentaciones){: .btn .btn-outline-dark .btn-lg .btn-block} [Word](/biblioteca-de-programacion-y-tecnologia/#word){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### Software Libre
+### **Libros Gratis de Software Libre**
 
 * [Guía de Jitsi](https://lookaside.fbsbx.com/file/jitsi-guia.pdf?token=AWwJD_WLH4AqHnO5CuUo2QSgfUWJW0HvWvKu4wTIudknIkBEoeSY82IwpiAL8Fz8bDd10JtIqgV90CD8ETkLOzw9QeW0eSzMIF9Is4YkI_1UjQHZ2Fk0bLP0B3W1VSb7rN2Sk2aoWzWVBUMOtjj9y_0CVZrXI4S0X1U594W8QUn2tA){:target="_blank" rel="nofollow,noreferrer"} - Para la utilización básica de Jitsi para videoconferias
 
@@ -458,23 +456,25 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 * [Avaloon usando Odoo](https://lookaside.fbsbx.com/file/avaloon-usando-odoo.pdf?token=AWy6m1FcI2UG2vyDU6C-HP0NywuUwEbNaCOA0IEn9zWXk0omxJk9q317PcCb6SeI7gWXnz_ZapW21Q7kErTtFm5lWFw9e0ZXoZzTSAne8fndNhwBbDaJ1ym_7aBDnnvVf4sYcetZgz9xwqyDgVSg9a-6n_vOFp346F2wuIygOKPAJA){:target="_blank" rel="nofollow,noreferrer"}
 
-## 👨‍💻 Paradigmas de Programación
+**Paradigmas de Programación 👩‍💻**
+
+## **Libros Gratis de Paradigmas**
 
 * [97 cosas que todo programador debería saber](https://97cosas.com/programador){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [El Manifiesto Mónada (Anotado)](https://leanpub.com/monad-manifesto-annotated-spanish?){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Programación Funcional (1996)](https://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 👦 Programación Infantil
+## **Libros Gratis de Programación Infantil**
 
 [App Inventor](/biblioteca-de-programacion-y-tecnologia/#app-inventor){: .btn .btn-outline-dark .btn-lg .btn-block} [Scratch <i class="fas fa-paw"></i>](/biblioteca-de-programacion-y-tecnologia/#scratch-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### App Inventor
+### **Libros Gratis de App Inventor**
 
 * [Desarrollo de aplicaciones para Android usando MIT App Inventor 2 -2016](https://openlibra.com/en/book/download/desarrollo-de-aplicaciones-para-android-usando-mit-app-inventor-2){:target="_blank" rel="nofollow,noreferrer"} [2013](https://tecnoarboleda.files.wordpress.com/2014/02/desarrollo-para-android-usando-mit-appinventor.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
-### Scratch
+### **Libros Gratis de Scratch**
 
 * [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf){:target="_blank" rel="nofollow,noreferrer"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf){:target="_blank" rel="nofollow,noreferrer"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name){:target="_blank" rel="nofollow,noreferrer"}
 * [Animar un Personaje](https://resources.scratch.mit.edu/www/cards/es/animation-cards.pdf){:target="_blank" rel="nofollow,noreferrer"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf){:target="_blank" rel="nofollow,noreferrer"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character){:target="_blank" rel="nofollow,noreferrer"}
@@ -489,13 +489,13 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Scratch al Sur](https://scratchalsur.org/assets/computaci%C3%B3n-creativa.pdf){:target="_blank" rel="nofollow,noreferrer"}
 * [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf){:target="_blank" rel="nofollow,noreferrer"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf){:target="_blank" rel="nofollow,noreferrer"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 🕸 Redes
+## **Libros Gratis de Redes**
 
 * [Configuración manual con DHCP de redes WLAN protegidas con WPA/WPA2 en Debian 7.9](https://www.researchgate.net/publication/333971201_Configuracion_manual_con_DHCP_de_redes_WLAN_protegidas_con_WPAWPA2_en_Debian_79) (PDF) (2015)
 
-### Servicios en red
+### **Libros Gratis de Servicios en Red**
 
 * [Aulas en red. Aplicaciones y servicios. Linux](https://www.ite.educacion.es/formacion/materiales/85/cd/linux/indice.htm){:target="_blank" rel="nofollow,noreferrer"}
 * [Aulas en red. Aplicaciones y servicios. Windows](https://www.ite.educacion.es/formacion/materiales/85/cd/windows/indice.htm){:target="_blank" rel="nofollow,noreferrer"}
@@ -503,11 +503,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Redes. Contenido de Cisco: CCNA](https://nksistemas.com/curso-de-redes-online-contenidos-de-ccna){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Técnicas para armado de redes LAN utilizando Software Libre](https://fortinux.com/wp-content/uploads/2010/12/redes.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-### Virtualización
+### **Libros Gratis de Virtualización y Redes**
 
 * [VMWare por Expertos - Por una buena causa](https://drive.google.com/drive/folders/1gTWuEAMN503ytNiWRtFePVRD8KZOEe18) (PDF) ([Donativo](https://www.ceafa.es/es/colaborar/donaciones))
 
-## 👮‍♀️ Seguridad
+## **Libros Gratis de Seguridad y Criptografía**
 
 [Criptografía 🔓](/biblioteca-de-programacion-y-tecnologia/#criptografía-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -542,14 +542,14 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Telegram: sorteando el protocolo de autentificación](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_telegram_es.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Tendencias en el mercado de la Ciberseguridad (2016)](https://www.incibe.es/sites/default/files/estudios/tendencias_en_el_mercado_de_la_ciberseguridad.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-## Criptografía 🔓
+## **Libros Gratis de Criptografía**
 
 * [Alnum: sistema de codificación de caracteres alfanuméricos](https://www.researchgate.net/publication/333967818_Alnum_alphanumeric_character_encoding_system_CIDSI_2018){:target="_blank" rel="nofollow,noreferrer"}
 * [Sistema de Autenticación por credenciales criptográficas disociadas](https://www.researchgate.net/publication/333967679_SACRED_-_Sistema_de_Autenticacion_por_credenciales_criptograficas_disociadas_Authentication_system_by_dissociation_of_cryptographic_credentials_CIDSI_2018){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2018)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Sistemas Operativos
+## **Libros Gratis de Sistemas Operativos**
 
 * [Android Lollipop 5.0. Guía de inicio rápido](https://www.compromovil.es/manuales/Manual_de_Instrucciones_en_Espa%C3%B1ol_Android_5_0_Lollypop.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprendemos a manejar el computador (2009)](https://www.iered.org/archivos/Publicaciones_Libres/2009_Aprendamos_Manejo_Computador/Manejo-Computador_Texto_v4.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -560,7 +560,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Sistemas Operativos](https://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF){:target="_blank" rel="nofollow,noreferrer"} - Dr. David Luis la Red (PDF)
 * [Sistemas operativos en las netbooks: GNU/Linux y Microsoft Windows.](https://bibliotecadigital.educ.ar/uploads/contents/M-SistemasoperataivosVF10.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### iPhone
 
@@ -579,7 +579,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Introducción a ELAN](https://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Manual de Procesamiento de Archivos ELAN](https://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## 🗞 Revistas
 
@@ -603,15 +603,15 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is){:target="_blank" rel="nofollow,noreferrer"} (PDF) 2019 \ 139 Ediciones Mensuales
 * [TeknoKultura](https://revistas.ucm.es/index.php/TEKN/issue/archive){:target="_blank" rel="nofollow,noreferrer"} (PDF) 2019 \ Universidad Complutense de Madrid
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 🤖 Robótica
+**Libros Gratis de Robótica y Electrónica**
 
 [Arduino 🔦](/biblioteca-de-programacion-y-tecnologia/#arduino-){: .btn .btn-outline-dark .btn-lg .btn-block} [Casas Inteligentes 🏡](/biblioteca-de-programacion-y-tecnologia/#casas-inteligentes-){: .btn .btn-outline-dark .btn-lg .btn-block} [Inteligencia Artificial](/biblioteca-de-programacion-y-tecnologia/#inteligencia-artificial){: .btn .btn-outline-dark .btn-lg .btn-block} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#raspberry-pi){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 * [Glosario de términos y conceptos de robótica](http://el.uy/doc/robotica/mooc.educalab.es.%202017.%20Glosario%20de%20t%C3%A9rminos%20y%20conceptos%20rob%C3%B3ticos.pdf){:target="_blank" rel="nofollow,noreferrer"} (MOOC Intef)
 
-## Arduino 🔦
+## **Libros Gratis de Arduino**
 
 * [Arduino. Guía Completa](https://arduinobot.pbworks.com/w/page/10175775/FrontPage){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Arduino. Libro de Proyectos](https://lookaside.fbsbx.com/file/Arduino-Libro-de-proyectos-87.pdf?token=AWyWTv2brzUB4Kb18VbD6mGXfeeB38-uFuYdloTpsp3_mYculQtj1nQKwVMa8s4GLvhcVuvx36ytmAh4z65lUOaK9uVStrJEbkFRtdk_yR7qT270IezL-8885UmD-RUy5O6bkzoAKVt-fEYv7cBAmsqr1eabDyJG-cILdCQUOxRP-g){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2013)
@@ -624,20 +624,20 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Robot de Arduino controlado mediante sensores y con respuestas sobre actuadores](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWzQIOlxk93xPyvbo5-Qs861gHYCe6gBw4gCNSUGr6g0yifdPEqvv414Ybu75_dftKX3x8cH1L9blpx4KxwH_Y8tcV2hwOPHI7cnY9kWs1rkXWbxu2-WJ8GE1eDt6ZFTezn3tKM8ql5iMdomiZNDiWwZS7WVH-d2ZZ1_tP2swdhcHA){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2017)
 * [Utilizando Arduino Due en la docencia de la entrada/salida](https://lookaside.fbsbx.com/file/Utilizando_Arduino_Due.pdf?token=AWyfCmQzCqTdm-mjJPMgon33FVOGe95bT0diczQ2YkSgPtEnLfYPgtshNHNoIp9GNDcUCQnPjMnsqPQYHATAfh4DME6PXSkgyCXzBL1tT0D329oQgN1RIx1NW6odZQgme_9PY0_TEFg398TtV791E2v7g2mYlM0oG2t5FUMrMEpNsg){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-## Casas Inteligentes 🏡
+**Casas Inteligentes 🏡**
 
-## Inteligencia Artificial
+## **Libros Gratis de Inteligencia Artificial**
 
 * [MVCGI: un modelo de implementación estándar para arquitecturas modulares MVC sobre programas de interfaz CGI](https://www.researchgate.net/publication/333968629_MVCGI_-_a_standard_implementation_model_for_modular_MVC_architectures_over_CGI_interface_programs) (PDF) (2016)
 * [Principios y Aplicaciones de Inteligencia Artificial](https://leanpub.com/inteligencia_artificial?){:target="_blank" rel="nofollow,noreferrer"}
 
-## Raspberry Pi
+## **Libros Gratis de Raspberry Pi**
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## 👩‍💻 Desarrollo Web
+**Libros Gratis de Desarrollo Web 👨‍💻**
 
-## Android
+## **Libros Gratis de Android**
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprendizaje Android](https://riptutorial.com/Download/android-es.pdf){:target="_blank" rel="nofollow,noreferrer"} RipTutorial (PDF)
@@ -654,29 +654,29 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Programación en Android para principiantes](https://drive.google.com/file/d/1dNfaug7wupQ-U756zfbSE8tlsUqNddjJ/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por FAQS Android (PDF)
 * [Seguridad en dispositivos Android](https://lsi.vc.ehu.eus/pablogn/investig/JornadasSeguridad141112.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Docker
+## **Libros Gratis de Docker**
 
 * [Chuleta sobre Docker](https://leanmind.es/es/blog/infografia-de-docker/) (HTML) ([PDF](https://leanmind.es/docker-cheatsheet.pdf){:target="_blank" rel="nofollow,noreferrer"}) por [@YodraLopez](https://twitter.com/yodralopez){:target="_blank" rel="nofollow,noreferrer"}
 * [Comandos de Docker](https://criskrus.github.io/docker-formation/){:target="_blank" rel="nofollow,noreferrer"} (Github) \ ([Fuente](https://github.com/CrisKrus/docker-formation#docker-formation){:target="_blank" rel="nofollow,noreferrer"})
 * [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank" rel="nofollow,noreferrer"} (Github)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-## Bootstrap
+## **Libros Gratis de Bootstrap**
 
 * [Bootstrap 3: El manual oficial](https://librosweb.es/libro/bootstrap_3){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Bootstrap 3: Introducción al diseño responsive](https://drive.google.com/file/d/1xrywZA_yEJXHKKuPOcg1mI-NPiFYR2E8/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Antonio Javier Gallego Sánchez (PDF)
 
-## Ionic
+## **Libros Gratis de Ionic**
 
 * [Desarrollo de Apps con IONIC](https://leanpub.com/desarrollodeappsconionic?){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF)
 
-## PhoneGap (Apache Cordoba)
+## **Libros Gratis de PhoneGap**
 
 * [PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa](https://ajgallego.gitbooks.io/phonegap/content) (HTML) (2016)
 
-## Programación Web 👩‍💻
+## **Libros Gratis de Programación Web**
 
 * [Desarrollar aplicaciones Progressive Web Apps](https://jdonsan.gitbooks.io/desarrolla-progressive-web-apps/content) (HTML) (2018)
 * [Desarrollo de Aplicaciones Web - Guía Completa](https://juanda.gitbooks.io/webapps/content) (HTML) (2016)
@@ -687,14 +687,14 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Interfaz de usuario básica en iOS](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details) (HTML) (2018)
 * [Buenas Prácticas Front End](https://redmint.gitbooks.io/buenas-practicas-front-end/content) (HTML) (2018)
 
-## 👨‍💻 Lenguajes de Programación
+## **Libros Gratis de Lenguajes de Programación**
 
-### C
+### **Libros Gratis de C**
 
 * [GNU/Linux: Programación de Sistemas](https://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Introducción a la programación con C](https://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)(descarga directa)
 
-### C++
+### **Libros Gratis de C++**
 
 * [Aprenda C++ avanzado como si estuviera en primero](https://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -703,30 +703,30 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Guía de programación C++STL](https://olimpiada-informatica.org/static/pdfs/guiastl.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Manual básico de programación en C++](https://olimpiada-informatica.org/static/pdfs/manual.es.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### Coffescript
+### **Libros Gratis de Coffescript**
 
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript){:target="_blank" rel="nofollow,noreferrer"} - Javi Jiménez (Descarga PDF)
 
-### Emacs y Lisp
+### **Libros Gratis de Emacs y Lisp**
 
 * [Una Introducción a Emacs Lisp en Español](https://savannah.nongnu.org/git/?group=elisp-es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Una Introducción a Emacs Lisp en Español](https://savannah.nongnu.org/git/?group=elisp-es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-### Ensamblador
+### **Libros Gratis de Ensamblador**
 
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf){:target="_blank" rel="nofollow,noreferrer"} - Paul A.Carter (PDF)
 
-### Erlang
+### **Libros Gratis de Erlang**
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang){:target="_blank" rel="nofollow,noreferrer"} (WikiLibros)
 
-### Elixir
+### **Libros Gratis de Elixir**
 
 * [Elixir School. Lecciones acerca del lenguaje de programación Elixir](https://elixirschool.com/es){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Git**
 
@@ -753,7 +753,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Lógica de primer orden en Haskell](https://docs.google.com/viewerng/viewer?url=idus.us.es/xmlui/bitstream/handle/11441/63139/Paluzo+Hidalgo+Eduardo+TFG.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Piensa en Haskell (ejercicios de programación funcional)](https://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Diseño Web**
 
@@ -785,7 +785,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Introducción a XHTML](https://librosweb.es/libro/xhtml){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Sass, el manual oficial](https://librosweb.es/libro/sass/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-xhtml){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Java**
 
@@ -805,7 +805,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Tutorial básico de Java EE](https://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Tutorial introducción a Maven 3](https://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf){:target="_blank" rel="nofollow,noreferrer"} - Erick Camacho (PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de JavaScript**
 
@@ -845,7 +845,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish?){:target="_blank" rel="nofollow,noreferrer"}
 * [SurviveJS - React: De aprendiz a maestro](https://leanpub.com/survivejs-react-es){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Rust**
 
@@ -889,7 +889,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Laravel 5: Conceptos Básicos y Ejemplos](https://lookaside.fbsbx.com/file/laravel-5.pdf?token=AWzwgr1mH7p9_Q5W93UbkN6QFt5piI6VmIF7p70qAiA4u7TNf_WHB3qHChnHihr6u0se4Uc5XrA50SvY0DNNZDM7zAe2RrT7PNxCYm4-O7opZ7GhEAuX4ymt6n9J8kFB2C9Z-F2LaTAI2ALSKDXcmik1MuFl8r2U_91UTYMzJbaUOA){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Laravel 5: El PHP Framework](https://lookaside.fbsbx.com/file/0149-curso-laravel-5.pdf?token=AWwr_RJ6MnHGNFN1gNizBpOOC2OYpqZWr4ybIjnmxMQPr1rFlrsuOvdWG8LHrt0MPchKB1qRreKzqq8PZDkP18GNS1t57mcUHr4mHFWvjamz7Ow8VwuauoGkcPwNYgFfeawlPgcbaN3aInfVGbQ86bwVlf4h4roWqovk7-qOvL9tZA){:target="_blank" rel="nofollow,noreferrer"} (PDF) ()
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Perl**
 
@@ -935,7 +935,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](https://www.web2py.com/books/default/chapter/41){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Ruby**
 
@@ -974,7 +974,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2015)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Tex & LaTeX**
 
@@ -997,14 +997,14 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Power Ups](https://dolmeneditorial.com/tienda/power-ups-libro-digital-pdf/){:target="_blank" rel="nofollow,noreferrer"} (PDF) por [@JuanPOrdonez](https://twitter.com/JuanPOrdonez){:target="_blank" rel="nofollow,noreferrer"} - Guía imprescindible para conocer los secretos de la industria del videojuego gracias al testimonio de medio centenar de profesionales, auténticas leyendas vivas del sector.
 * [Programación de videojuegos SDL](https://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-## ✍ Sistemas de Gestión de Contenidos
+## Sistemas de Gestión de Contenidos
 
 ### **Libros Gratis de Wordpress**
 
 * [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Tutorial, paso a paso, de Wordpress](https://drive.google.com/file/d/1K0cNYes6nHFuGwueA5hFxHXHmOS7FSkZ/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Webmaster**
 
@@ -1029,11 +1029,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Metodología del Observatorio de Accesbilidad Web UNE](https://www.defensa.gob.es/rapfas/Galerias/ficheros/Metodologia_Observatorio_Accesibilidad_Web-UNE2012-v1_0.pdf){:target="_blank" rel="nofollow,noreferrer"} (2012)
 * [Proceso de validación nivel de accesibilidad web en sitios del Gobierno en línea del estado Colombiano](https://www.revistaespacios.com/a18v39n48/a18v39n48p08.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
-## **Libros Gratis de Análitica Web 📈**
+## **Libros Gratis de Análitica Web**
 
 * [Analítica Web: Conceptos de Avinash Kaushik](https://lookaside.fbsbx.com/file/Analitica_Web_2.0_Conceptos_Avinash_Kaushik.pdf?token=AWyNI8IvnkSWm2iCHHkGwEd-wxsUUb_B-za--TpxVNk03ffK_litmpN9uw_J81QJ0vVBQO8MPpGbyWrB1Vw-b-bUCX85IvkN7jNZGmHN5ZjukiTc1R29LTCmUkJwsLNXYur3Pl4KBYAARu0fjIDIijRJ9WoXGi2e7s1KnZ69-go15Q){:target="_blank" rel="nofollow,noreferrer"}
 
-## **Libros Gratis de Marketing Digital 🏪**
+## **Libros Gratis de Marketing Digital**
 
 * [Cómo crear podcasts](https://drive.google.com/file/d/1cfJUQl7YtBFeA8etuxvzoDeQ_fxOWsA8/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (Infografía)
 * [Ecosistema del Community Manager](https://drive.google.com/file/d/1qtIqMZW74O7Zxa1o1iwt76n_7AEXvd-Q/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (Infografía)
@@ -1044,7 +1044,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
-## **Libros Gratis de Seo y Posicionamiento 🔍**
+## **Libros Gratis de Seo y Posicionamiento**
 
 * [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf){:target="_blank" rel="nofollow,noreferrer"}
 * [Guía para principiantes sobre optimización para motores de búsqueda](https://drive.google.com/file/d/1g5nAGrtSVainEOVahZjEBwhAfi9kXG7N/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Google
@@ -1053,7 +1053,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf){:target="_blank" rel="nofollow,noreferrer"}
 * [SEO: Optimización de Webs para Buscadores](https://drive.google.com/file/d/156XG3EZwqjxxuzJu57OK3w9Rez8bAT0P/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Interactive Advertising Bureau
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -1061,7 +1061,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy){:target="_blank" rel="nofollow,noreferrer"}, los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md){:target="_blank" rel="nofollow,noreferrer"} especialmente, sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank" rel="nofollow,noreferrer"}.
 
-[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### **Nos Referencian**
 
