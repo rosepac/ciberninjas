@@ -100,8 +100,8 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
   - [**Cursos Gratis de Struts**](#cursos-gratis-de-struts)
 - [Javascript](#javascript)
 - [**Cursos Gratis de Javascript Framework**](#cursos-gratis-de-javascript-framework)
-  - [¿Dónde puedo aprender JavaScript para principiantes?](#dónde-puedo-aprender-javascript-para-principiantes)
-- [Kotlin](#kotlin)
+  - [**¿Dónde puedo aprender JavaScript para principiantes?**](#dónde-puedo-aprender-javascript-para-principiantes)
+- [**Cursos Gratis de Kotlin**](#cursos-gratis-de-kotlin)
 - [**Cursos Gratis de Perl**](#cursos-gratis-de-perl)
 - [**Cursos Gratis de PHP**](#cursos-gratis-de-php)
 - [**Cursos Gratis de PHP Frameworks**](#cursos-gratis-de-php-frameworks)
@@ -404,29 +404,31 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 > Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual; y considerar que en líneas generales se suelen dedicar hacía ese enfoque del desarrollo móvil / web.
 {: .notice--info}
 
-### ¿Qué es JavaScript? <!-- omit in toc -->
+- [**Cursos Gratis de Desarrollo Móvil y Web**](https://ciberninjas.com/cursos-programacion-web-movil/)
+
+### **¿Qué es JavaScript?** <!-- omit in toc -->
 
 JavaScript (JS) es un lenguaje de programación dinámico de alto nivel. Junto con HTML y CSS, JavaScript constituye las tres tecnologías centrales de la creación y el diseño de contenido de la World Wide Web. JS se utiliza principalmente para diseñar páginas web interactivas.
 
 Con la programación de JavaScript, los usuarios pueden crear videojuegos en línea y otros programas en línea. La mayoría de los sitios web en Internet hoy en día utilizan JavaScript, mientras que la mayoría de los navegadores web modernos admiten JavaScript debido a un motor integrado. Hay numerosos tutoriales de JS disponibles en línea donde los usuarios pueden aprender a programar en JavaScript.
 
-### ¿Cuáles son los requisitos previos para aprender JavaScript? <!-- omit in toc -->
+### **¿Cuáles son los requisitos previos para aprender JavaScript?** <!-- omit in toc -->
 
 Los usuarios pueden aprender JS en línea, ya que hay miles de tutoriales de JS disponibles en línea que brindan aprendizaje en todos los niveles (principiantes, intermedios y avanzados) de programación de JavaScript. Sin embargo, antes de comenzar, existen algunos requisitos previos para aprender JavaScript. Si bien es posible comenzar con JavaScript, los usuarios deben aprender HTML y CSS y obtener una comprensión firme de los dos. Una vez que adquiera las habilidades necesarias, puede pensar en la programación de JavaScript y comenzar a buscar tutoriales de JS para aprender JavaScript.
 
-### ¿Por qué debería aprender JavaScript? <!-- omit in toc -->
+### **¿Por qué debería aprender JavaScript?** <!-- omit in toc -->
 
 JavaScript es un lenguaje de programación fácil de aprender y fácil de usar que tiene en verdad infinitas aplicaciones. Una vez que aprenda a programar en JavaScript, habrá aprendido algo que se usa en casi todas partes, incluidos los navegadores web, dispositivos móviles, juegos, escritorio, realidad virtual y mucho más. JavaScript es un lenguaje de programación extremadamente expresivo y poderoso.
 
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de JavaScript? <!-- omit in toc -->
+### **¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de JavaScript?** <!-- omit in toc -->
 
 Ciberninjas es un gran lugar para aprender JavaScript con una gran cantidad de tutoriales de JS, tanto gratuitos como de pago. Puede aprender a programar en JavaScript a través de videos o libros, tutoriales y cursos.
 
-### ¿Cómo aprender JavaScript rápidamente? <!-- omit in toc -->
+### **¿Cómo aprender JavaScript rápidamente?** <!-- omit in toc -->
 
 JavaScript es un lenguaje de programación popular de la web. Aunque no es uno de los lenguajes de programación más fáciles de aprender, puede leer este artículo de blog para saber cómo puede aprender JS rápidamente.
 
-### ¿Cuáles son los mejores libros para aprender JavaScript? <!-- omit in toc -->
+### **¿Cuáles son los mejores libros para aprender JavaScript?** <!-- omit in toc -->
 
 A continuación se muestran algunos de los mejores libros para aprender JavaScript:
 
@@ -437,7 +439,7 @@ A continuación se muestran algunos de los mejores libros para aprender JavaScri
 - 
 <!-- Consulte esta lista detallada de los mejores libros de JavaScript. https://hackr.io/blog/javascript-books -->
 
-### ¿Cómo ejecutar JavaScript? <!-- omit in toc -->
+### **¿Cómo ejecutar JavaScript?** <!-- omit in toc -->
 
 Puede ejecutar el código JavaScript mediante:
 
@@ -447,11 +449,11 @@ Puede ejecutar el código JavaScript mediante:
 
 3. 	Usando la ventana de la consola de un navegador web
 
-### ¿Dónde puedo aprender JavaScript para principiantes?
+### **¿Dónde puedo aprender JavaScript para principiantes?**
 
 Lo mejor para comenzar a aprender JS es con libros. No obstante, también puede comenzar JavaScript con videos de YouTube y tutoriales gratuitos de JavaScript.
 
-## Kotlin
+## **Cursos Gratis de Kotlin**
 
 Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos a la página de [Android](https://ciberninjas.com/cursos-android/) por considerarse la sección más adecuada para ellos. 🔥
 
