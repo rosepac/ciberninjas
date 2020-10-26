@@ -16,6 +16,8 @@ feature-img: /assets/img/2020/10/tools-full.webp
 img: /assets/img/2020/10/tools-full.webp
 ---
 
+![Adobe XD es sin lugar a dudas, el mejor software de prototipado web profesional de pago que existen en el mundo.](/assets/img/2020/10/adobe-xd-2.webp "Adobe XD es sin lugar a dudas, el mejor software de prototipado web profesional de pago que existen en el mundo.")
+
 ![¿Qué es el front end? La mejor explicación que vas a poder encontrarte en la web](/assets/img/2020/10/que-es-el-front-end.webp "¿Qué es el front end? La mejor explicación que vas a poder encontrarte en la web")
 
 ![Comenzando con los styled components de React](/assets/img/2020/10/react-styled-components.webp "Comenzando con los styled components de React")
