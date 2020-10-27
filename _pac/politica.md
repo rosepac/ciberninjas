@@ -18,6 +18,23 @@ img: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
 Los enlaces aquí indicados solamente son referentes históricos sobre ciertos actos políticos, declaraciones o situaciones; en cuanto algunas situaciones de interés general política.
 {: .notice--info}
 
+## Historia de Asturias
+
+Hoy, toca decir una vez más, aquello de que Asturias es España; y lo demás tierra conquistada.. Por los moros, y por Franco, a quién le guste bien, y a quién no; que se lo tome de dos tragos.. En vez de uno.. 😹
+
+La Revolución de Asturias
+https://gredos.usal.es/bitstream/handle/10366/25000/THI~N1~P6-19.pdf
+
+1934:Octubre duró 24 horas en Barcelona y 15 días en Asturias
+http://www.unidadcivicaporlarepublica.es/index.php/nuestra-memoria/la-guerra-civil/17481-1934octubre-duro-24-horas-en-barcelona-y-15-dias-en-asturias
+
+¿Fue la Revolución de Asturias el prólogo de la Guerra Civil?
+https://www.lavanguardia.com/historiayvida/historia-contemporanea/20201016/33856/mccarthy-vio-comunista-eisenhower.html
+
+https://ateneullibertariu.files.wordpress.com/2015/11/a_proposito_de_la_rebelion_en_asturias.pdf
+
+https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Asturias_de_1934
+
 ## Anotaciones
 
 283 primera línea..
@@ -38,7 +55,7 @@ https://conversacionsobrehistoria.info
 
 https://www.boe.es/publicaciones/biblioteca_juridica/abrir_pdf.php?id=PUB-PB-2018-91
 
-NAción y nacionalismos en la España de las AUtonomías.
+Nación y nacionalismos en la España de las Autonomías.
 
 https://www.elmatinal.com/actualidad/una-digna-diputada-del-pp-desenmascaro-a-rufian-que-ademas-de-ser-un-verdadero-rufian-e-imbecil-en-la-escuela-le-llamaban-el-caraculo/
 https://dondiario.com/gabriel-rufian-y-tambien-bufon
