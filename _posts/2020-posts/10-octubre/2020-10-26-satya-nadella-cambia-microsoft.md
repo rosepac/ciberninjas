@@ -26,7 +26,7 @@ Cuando Satya Nadella se convirtió en el tercer jefe de Microsoft en 2014, una f
 
 Los dos magnates blancos de la tecnología adoptaron una pose de confianza con su vestimenta informal, y el Sr. Nadella, un indio-americano, parecía esconderse en su traje entre una torpe sonrisa.
 
-> **Relacionados**: [Libros recomendados por Satya Nadella](https://ciberninjas.com/libros-recomendados-satya-nadella-2020/) >>> [Más Noticias](https://ciberninjas.com/etiqueta/#Actualidad) >>> O bien, sigue leyendo 🔥 👇
+> **Relacionados**: [Libros recomendados por Satya Nadella](https://ciberninjas.com/libros-recomendados-satya-nadella-2020/) >> [Más Noticias](https://ciberninjas.com/etiqueta/#Actualidad) >> O bien, sigue leyendo 🔥 👇
 
 Satya Nadella tenía una razón para esa incómoda sonrisa. La empresa estaba en un auténtico receso. Mientras se acurrucaba en su sede en Redmond, Washington, y Apple inventaba el iPhone y Google y Facebook surgían de Silicon Valley. 
 
