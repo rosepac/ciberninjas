@@ -43,8 +43,6 @@ Por último, os dejo aquí, unos enlaces relacionados desde los que seguir [apre
 - [**8. Editor de Markdown online Dillinger**](#8-editor-de-markdown-online-dillinger)
 - [**9. Editor de Markdown online Hackmd.io**](#9-editor-de-markdown-online-hackmdio)
 - [**Enlaces a Geniales Recursos de MarkDown**](#enlaces-a-geniales-recursos-de-markdown)
-- [**¿Qué es Markdown?**](#qué-es-markdown)
-- [**¿Por qué usar Markdown?**](#por-qué-usar-markdown)
 
 > **¡Adelante, vamos al lío y a conocer los editores perfectos para Markdown!**
 
@@ -151,6 +149,8 @@ La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de co
 
 [🔥 ¡Comienza ya con FocuxFox!](https://www.focusfox.co/ "Prueba el editor de Markdown Online Focusfox"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
+**Editores de Markdown Gratuitos Online**
+
 ## **7. Editor de Markdown online StackEdit**
 
 ![Visión del editor online de Stackedit](/assets/img/blog/stackedit.webp)
@@ -195,65 +195,6 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 
 > 🔥 Quizás te interese: [mejores editores de código](/mejores-editores-texto/) >> [mejores editores de python](/mejores-ide-python/) >> [mejores editores de PHP](/mejores-editores-php/)
 {: .notice--danger}
-
-## **¿Qué es Markdown?**
-
-Markdown es una sintaxis de formato de texto sin etiquetas destinada a facilitar la escritura en Internet, este lenguaje de marcado ligero fue creado en 2004, por John Gruber con una ayuda importante de Aaron Swartz para la creación de su sintaxis.
-
-La filosofía detrás de Markdown es que los documentos de texto sin formato deben ser legibles sin que las etiquetas desglosen todo, pero aún debe haber formas de agregar modificadores de texto como listas, negrita, cursiva, etc.
-
-Es una alternativa a los editores WYSIWYG (lo que ves es lo que se obtiene) que utilizan texto enriquecido que luego se convierte a HTML adecuado. Es posible que hayas encontrado Markdown sin darte cuenta; en sitios como el chat de Facebook, Skype y Reddit te permiten usar diferentes tipos de Markdown para formatear tus mensajes.
-
-Aquí hay un ejemplo rápido: para poner palabras en negrita usando Markdown, simplemente enciérrelas en * (asteriscos). Entonces, * palabra en negrita * se vería como una palabra en negrita cuando todo está dicho y hecho.
-
-En total, Markdown es una excelente manera de escribir para la web usando texto sin formato.
-
-## **¿Por qué usar Markdown?**
-
-Markdown es muy simple de aprender, fácil de aprender y rápido de usar. Escribir Markdown es casi siempre más rápido que escribir con un editor de texto enriquecido, especialmente cuando comienzas a acceder a cosas como enlaces o listas con viñetas, que te hacen usar el mouse o te obligan a memorizar una secuencia complicada de atajos de teclado.
-
-Una advertencia es que si necesita elementos de texto complicados, como tablas, es mejor quedarse con HTML; aunque en la actualidad también existen páginas con las que podemos [transformar contenido en una tabla](https://www.tablesgenerator.com/markdown_tables){:target="_blank" rel="nofollow,noreferrer"} de Markdown. Markdown tiene soporte HTML completo, por lo que puede codificar una tabla en HTML y volver a Markdown en el mismo documento.
-<!-- https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html -->
-
-En resumen, es mucho más fácil leer Markdown sin formato que leer HTML sin formato. Lo que, ya sabes, es gran parte de la razón por la que incluso se inventó Markdown.
-
-> **Es fácil y sencillo convertir Markdown en HTML**
-
-Si estás escribiendo un correo electrónico o un archivo README donde necesitas las opciones de formato HTML pero no la amplitud completa de sus características, Markdown es perfecto.
-
-Markdown se convierte a HTML sin problemas, evitando la molestia de abrir y cerrar todas esas etiquetas. Entonces. Mucho mejor dejar las etiquetas de lado, y usar algo mil veces más útil, práctico y rápido.
-
-De hecho, con Markdown tendrás software para convertir entre texto plano, HTML y Markdown sin ningún problema. Así que Markdown es en realidad un software de conversión de texto a HTML, aparte de ser un lenguaje de marcado.
-
-Además, ¿Alguna vez has intentado convertir un archivo .docx a HTML? A menudo obtienes tanto formato y espacio extra que no vale la pena el esfuerzo.
-
-> **Markdown ha venido para quedarse**
-
-Cuando cito "a prueba de futuro" quiero decir que Markdown es un formato de texto pero sin formato. Mientras el texto plano sea el estándar (que será por mucho tiempo) Markdown será utilizable y se podrá abrir con un sinfín de programas modernos y cada día que pasa; más software lo irán aceptando.
-
-Por ejemplo, en comparación con Microsoft Word, que tiene 8 tipos de formato de archivos diferentes; la idea de mantener tus escritos en texto plano te va a asegurar que nunca habrá una versión desactualizada, por lo que el software no necesita actualizarse para mantener, mover, publicar o compartir tu contenido.
-
-Markdown tiene su propia extensión de nombre de archivo: .md, pero fue diseñado para ser perfectamente legible como un archivo de texto sin formato. Por lo tanto, se podría decir que Markdown no cambiará en un futuro.
-
-> **Markdown se puede usar en cualquier parte**
-
-Se podría esperar que el uso de Markdown se estancará a medida que el texto enriquecido se ha ido volviendo cada vez más popular, pero nada más lejos de la realidad. La presencia de Markdown no ha hecho que crecer desde su aparición y continúa usándose cada vez más.
-
-Markdown, es el estándar no oficial en sitios de codificación populares como GitHub; también es la opción de formato predeterminada para herramientas de comunicación populares como Skype, Slack y (en menor medida) Facebook Messenger. Wikipedia incluso utiliza una sintaxis de Markdown modificada que llaman wikitexto y existen plugins para Wordpress y todos los editores de código e IDE´s que se te puedan ocurrir.
-
-Dentro del mundo de la programación, que cada día vemos más incluido dentro de la sociedad en general; el programador que no conoce Markdown se encontrará en desventaja (e incluso pueda llegar a estar confundido por un tiempo).
-
-Así que será mejor que aprendas Markdown y si no es por ninguna otra razón; que sea por el mero hecho de no quedarte atrás en el mundillo.
-
-> **Con Markdown no es necesario que cambies de editor para escribir en prosa**
-
-Escribir en prosa puede ser un poco complicado, si lo haces dentro de un editor de código o texto. No es que no se pueda hacer, pero el texto sin formato elimina muchas de las opciones de formato que suelen ser útiles al escribir en prosa.
-
-Esto es más un pequeño inconveniente que un gran problema, pero sigue siendo suficiente para que muchas personas prefieran cambiar a su programa de correo electrónico para escribir un correo electrónico o a su procesador de textos para escribir en prosa, en lugar de utilizar su editor de código habitual.
-
-Con la introducción de Markdown, escribir un correo electrónico o blog dentro desde tu editor de código es perfectamente viable y eso es genial, porque ofrecer una mayor gama de posibilidades a los usuarios siempre es hacerles la vida un poco más fácil.
-
-Si aún no has probado nunca a escribir en Markdown, comienza a hacerlo desde hoy; a continuación tienes editores en los que empezar a probar y con los que comenzar a ser un fanático la escritura en Markdown.
 
 ### **Relacionados** <!-- omit in toc -->
 
