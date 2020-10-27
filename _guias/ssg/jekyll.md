@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "🥇 ▷ Jekyll: Crea blogs fácilmente y encuentra sus mejores plantillas"
+title: "🥇 ▷ Jekyll: Creando un blog estatíco con la ayuda de Ruby y YAML 2021"
 description: "Uno de los mejores generadores de contenidos estático (SSG)"
 excerpt: "Uno de los mejores generadores de contenidos estático (SSG)"
-date: 2020-05-18
+date: 2020-10-26
 last_modified_at:
 permalink:  /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/
@@ -24,14 +24,39 @@ Además, se incluyen enlaces a los lugares más importantes dentro de la Comunid
 
 Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque solamente sean en parte, a la gran comunidad de Wordpress existente.
 
-> **¡A la almendrilla!**
+> **¡Al lío!**
 
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[CMS para Jekyll](/jekyll/#cms-para-jekyll){: .btn .btn--inverse .btn--large} [Montaje y Pruebas](/jekyll/#montaje-y-pruebas){: .btn .btn--inverse .btn--large} [SEO de Jekyll](/jekyll/#seo){: .btn .btn--inverse .btn--large} [Plugins de Jekyll](/jekyll/#plugins-de-importaci%c3%b3n){: .btn .btn--inverse .btn--large} [Enlaces Externos de Jekyll](/jekyll/#enlaces-externos){: .btn .btn--inverse .btn--large} [Minimal Mistakes](/jekyll/#plantilla-de-minimal-mistakes){: .btn .btn--inverse .btn--large} [Popurrí de Enlaces](/jekyll/#enlaces-por-investigar-y-por-organizar){: .btn .btn--inverse .btn--large}
+<span id="menu"><strong>Menú de los Contenidos del SSG: Jekyll</strong></span>
 
-[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+- [CMS para Jekyll](#cms-para-jekyll)
+  - [Prose.io](#proseio)
+  - [Forestry, Enlaces Directos](#forestry-enlaces-directos)
+  - [CloudCannon](#cloudcannon)
+- [**¿Cómo realizar pruebas y montar un blog con Jekyll?**](#cómo-realizar-pruebas-y-montar-un-blog-con-jekyll)
+- [**¿Cómo implementar mejoras de SEO en Jekyll?**](#cómo-implementar-mejoras-de-seo-en-jekyll)
+- [Plugins de Importación](#plugins-de-importación)
+- [**Generando una PWA**](#generando-una-pwa)
+- [Enlaces Externos](#enlaces-externos)
+  - [Enlaces de Chuletas](#enlaces-de-chuletas)
+  - [Comercio Electrónico](#comercio-electrónico)
+  - [Lenguaje de Uso: Liquid](#lenguaje-de-uso-liquid)
+  - [Plugins de Jekyll](#plugins-de-jekyll)
+  - [Temas de Jekyll](#temas-de-jekyll)
+  - [Videotutoriales](#videotutoriales)
+- [Plantilla de Minimal Mistakes](#plantilla-de-minimal-mistakes)
+  - [Publicar un Enlace](#publicar-un-enlace)
+  - [Publicar una Cita](#publicar-una-cita)
+  - [Actualizar la Fecha de Publicación](#actualizar-la-fecha-de-publicación)
+  - [Agregar Cajas de Avisos o Notas Informativas](#agregar-cajas-de-avisos-o-notas-informativas)
+  - [Agregar Etiqueta: more](#agregar-etiqueta-more)
+  - [Configuración de la Plantilla Minimal Mistakes](#configuración-de-la-plantilla-minimal-mistakes)
+  - [Cómo cambiar la fuente tipográfica](#cómo-cambiar-la-fuente-tipográfica)
+- [Enlaces por Investigar y por Organizar](#enlaces-por-investigar-y-por-organizar)
+
+[🔖 Ir al Índice](/jekyll/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## CMS para Jekyll
 
@@ -64,7 +89,7 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 * [El CMS en la Nube para Jekyll](https://cloudcannon.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -104,7 +129,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank" rel="nofollow,noreferrer"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### Comercio Electrónico
 
@@ -129,7 +154,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### Temas de Jekyll
 
@@ -142,7 +167,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -202,7 +227,7 @@ Si deseas ingresa la etiqueta _más_ o también conocida como _more_ en tus publ
 `excerpt_separator: "<!--more-->"`
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### Configuración de la Plantilla Minimal Mistakes
 
@@ -224,7 +249,7 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 2. Cambiar dentro del fichero `_sass/minimal-mistakes.scss` las variables redactadas en el paso anterior citando la fuente adecuada.
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Enlaces por Investigar y por Organizar
 
