@@ -9,11 +9,16 @@ layout: default
         {% include post_info.html author=page.author date=page.date %}
         {% else %}
     </header>
+    <div style="display: inline-block;">
+        <!-- Social media shares -->
+        {% if include.is_post %} {% include share_buttons.html %} {% endif %}
+    </div>
+
     <section class="post-content">{{ content }}</section>
 
     <div style="display: inline-block;">
         <!-- Social media shares -->
-        {% if include.is_post %} {% include share_buttons.html %} {% endif %}
+        <!-- {% if include.is_post %} {% include share_buttons.html %} {% endif %} -->
 
         <!-- Tag list -->
         {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}

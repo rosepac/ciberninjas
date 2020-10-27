@@ -13,6 +13,9 @@ layout: default
     </div>
   </header>
 
+  <!-- Social media shares -->
+  {% include share_buttons.html %}
+  
   <section class="post-content">
   {% if page.bootstrap %}
     <div class="bootstrap-iso">
@@ -22,9 +25,6 @@ layout: default
     </div>
   {% endif %}
   </section>
-
-  <!-- Social media shares -->
-  {% include share_buttons.html %}
 
    <!-- Tag list -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
