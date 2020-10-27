@@ -4,16 +4,18 @@ published: true
 author: rosepac
 bootstrap: true
 title: "📚 ▷ Más de 1.500 Libros PDF en Inglés de Desarrollo Web, Programación, Seguridad, Robótica, Blockchain, Domótica y Mucho Más"
-description: "🚀 Biblioteca de libros PDF Online en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
-excerpt: "🚀 Biblioteca de libros PDF Online en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
-date: 2019-12-27T14:40:00.000+00:00
-last_modified_at: 2020-01-10T10:42:42-05:00
+description: "Biblioteca de libros PDF Online y Web en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
+excerpt: "Biblioteca de libros PDF Online y Web en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
+date: 2020-10-26T14:40:00.000+00:00
+last_modified_at: 2020-10-26T15:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia-ingles/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia-ingles/
 thumbnail: /assets/img/paginas/revistas-alternativas.webp
 feature-img: /assets/img/paginas/revistas-alternativas.webp
 img: /assets/img/paginas/revistas-alternativas.webp
 ---
+
+La mejor lista de lenguajes de programación en inglés de todo Internet.
 
 - [Meta Listas](#meta-listas)
 - [Programación Gráfica](#programación-gráfica)
@@ -211,19 +213,19 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Scala](#scala)
 	- [Levantar](#levantar)
 	- [Jugar scala](#jugar-scala)
-- [Esquema](#esquema)
+- [Squema](#squema)
 - [Scilab](#scilab)
-- [Rasguño](#rasguño)
+- [Scratch](#scratch)
 - [Sed](#sed)
 - [Self](#self)
 - [Smalltalk](#smalltalk)
 - [Snap](#snap)
 - [Spark](#spark)
 - [SQL (agnóstico de implementación)](#sql-agnóstico-de-implementación)
-- [servidor SQL](#servidor-sql)
-- [ML estándar](#ml-estándar)
+- [Servidor SQL](#servidor-sql)
+- [Machine Learning Estándar](#machine-learning-estándar)
 - [Subversión](#subversión)
-- [Rápido](#rápido)
+- [Swift](#swift)
 	- [Vapor](#vapor)
 - [Tcl](#tcl)
 - [TEI](#tei)
@@ -238,9 +240,9 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Empuje](#empuje)
 - [Visual Basic](#visual-basic)
 - [Prólogo visual](#prólogo-visual)
-- [Servicios web](#servicios-web)
+- [Servicios Web](#servicios-web)
 - [Windows 8](#windows-8)
-- [Telefono windows](#telefono-windows)
+- [Telefono de Windows](#telefono-de-windows)
 - [Flujo de trabajo](#flujo-de-trabajo)
 - [xBase (dBase / Clipper / Harbor)](#xbase-dbase--clipper--harbor)
 
@@ -516,7 +518,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Comunicación de procesos secuenciales](https://www.usingcsp.com/cspbook.pdf){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Tony Hoare (PDF)
 - [Reflexiones informáticas](https://scpd.stanford.edu/knuth/index.jsp){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} (conferencias de Donald Knuth)
 - [Confesiones de un CTO involuntario: Lecciones para desarrollar una aplicación web](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Jack Kinsella
-- [Entrega continua y DevOps: una guía de](https://www.packtpub.com/packt/free-ebook/devops-quickstart){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} inicio [rápido](https://www.packtpub.com/packt/free-ebook/devops-quickstart){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Paul Swartout, Packt. (dirección de correo electrónico *solicitada* , no requerida)
+- [Entrega continua y DevOps: una guía de](https://www.packtpub.com/packt/free-ebook/devops-quickstart){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} inicio [Swift](https://www.packtpub.com/packt/free-ebook/devops-quickstart){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Paul Swartout, Packt. (dirección de correo electrónico *solicitada* , no requerida)
 - [CS para todos](https://www.cs.hmc.edu/csforall/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Cultura e Imperio: Revolución digital](https://hintjens.com/books){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} (PDF)
 - [Diseñar con FontForge](https://designwithfontforge.com/en-US/index.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
@@ -1262,7 +1264,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Haskell y Yesod](https://www.yesodweb.com/book-1.4){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Haskell sin pánico](https://lisperati.com/haskell/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Programación web Haskell](https://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} (tutorial de Yesod)
-- [Aprende Haskell rápido y duro](https://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [Aprende Haskell Swift y duro](https://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Aprende un Haskell por el bien de todos](https://learnyouahaskell.com/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Miran Lipovaca
 - [Programación paralela y concurrente en Haskell](https://chimera.labs.oreilly.com/books/1230000000929/index.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Simon Marlow
 - [Haskell del mundo real](https://book.realworldhaskell.org/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
@@ -2118,7 +2120,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 
 ## Pyramid
 
-- [Tutorial rápido para Pyramid](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [Tutorial Swift para Pyramid](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 
 ### Tornado
 
@@ -2276,17 +2278,17 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Essential Play](https://underscore.io/books/essential-play/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Dave Gurnell (PDF, HTML, EPUB) (dirección de correo electrónico *solicitada* , no requerida)
 - [Play Framework Recipes](https://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Alvin Alexander
 
-## Esquema
+## Squema
 
-- [Un folleto contra la inteligencia computacional de R. en el esquema de Guile](https://panicz.github.io/pamphlet/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
-- [Una introducción al esquema y su implementación](https://www.cs.rpi.edu/academics/courses/fall00/ai/scheme/reference/schintro-v14/schintro_toc.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
-- [Abstracciones concretas: una introducción a la informática utilizando el esquema](https://gustavus.edu/+max/concrete-abstractions.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - M. Hailperin, B. Kaiser, K. Knight
+- [Un folleto contra la inteligencia computacional de R. en el Squema de Guile](https://panicz.github.io/pamphlet/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [Una introducción al Squema y su implementación](https://www.cs.rpi.edu/academics/courses/fall00/ai/scheme/reference/schintro-v14/schintro_toc.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [Abstracciones concretas: una introducción a la informática utilizando el Squema](https://gustavus.edu/+max/concrete-abstractions.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - M. Hailperin, B. Kaiser, K. Knight
 - [Cómo diseñar programas](https://htdp.org/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
-- [Tutorial de esquemas](https://www.cs.hut.fi/Studies/T-93.210/schemetutorial/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
-- [Esquema simple: Introducción a la informática](https://www.cs.berkeley.edu/~bh/ss-toc2.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - B. Harvey, M. Wright
-- [Esquema de enseñanza en días Fixnum](https://ds26gte.github.io/tyscheme/index-Z-H-1.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
-- [El lenguaje de programación del esquema: Edición 3](https://www.scheme.com/tspl3/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - [El lenguaje de programación del esquema: Edición 4](https://www.scheme.com/tspl4/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
-- [Escribe un esquema en 48 horas](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Wikilibros
+- [Tutorial de Squemas](https://www.cs.hut.fi/Studies/T-93.210/schemetutorial/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [Squema simple: Introducción a la informática](https://www.cs.berkeley.edu/~bh/ss-toc2.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - B. Harvey, M. Wright
+- [Squema de enseñanza en días Fixnum](https://ds26gte.github.io/tyscheme/index-Z-H-1.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [El lenguaje de programación del Squema: Edición 3](https://www.scheme.com/tspl3/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - [El lenguaje de programación del Squema: Edición 4](https://www.scheme.com/tspl4/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [Escribe un Squema en 48 horas](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Wikilibros
 
 ## Scilab
 
@@ -2294,7 +2296,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Programación en Scilab](https://forge.scilab.org/index.php/p/docprogscilab/downloads/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Escribir extensiones de Scilab](https://forge.scilab.org/index.php/p/docsciextensions/downloads/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 
-## Rasguño
+## Scratch
 
 - [Un plan de estudios introductorio de computación con Scratch](https://scratched.gse.harvard.edu/guide/download.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Conceptos de informática en Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
@@ -2334,7 +2336,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Notas SQL para profesionales](https://books.goalkicker.com/SQLBook/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Use The Index, Luke !: Una guía para el rendimiento de la base de datos SQL](https://use-the-index-luke.com/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 
-## servidor SQL
+## Servidor SQL
 
 - [Lo mejor de SQLServerCentral.com Vol 7](https://www.red-gate.com/community/books/ssc-7){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} * (RedGate, por los autores de SQLServerCentral)
 - [Guía segura de Brad para planes de mantenimiento de SQL Server ](https://www.red-gate.com/community/books/sql-server-maintenance-plans){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} *(RedGate, por Brad McGehee)*
@@ -2362,7 +2364,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [El arte de SQL Server FILESTREAM ](https://www.red-gate.com/community/books/art-of-filestream){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} *(RedGate, por Jacob Sebastian y Sven Aelterman)*
 - [Solución de problemas de SQL Server: una guía para el DBA accidental ](https://www.red-gate.com/community/books/accidental-dba){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} *(RedGate, por Jonathan Kehayias y Ted Krueger)*
 
-## ML estándar
+## Machine Learning Estándar
 
 - [Introducción a ML estándar](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Atsushi Ohori (PDF)
 - [Programación en el estándar ML '97](https://homepages.inf.ed.ac.uk/stg/NOTES/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Stephen Gilmore, Universidad de Edimburgo
@@ -2375,10 +2377,10 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Control de versiones de Subversion](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} (PDF)
 - [Control de versiones con Subversion](https://svnbook.red-bean.com/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 
-## Rápido
+## Swift
 
 - [Hackear con Swift](https://www.hackingwithswift.com/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
-- [Aprender rápido](https://books.aidanf.net/learn-swift){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+- [Aprender Swift](https://books.aidanf.net/learn-swift){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Swift Essentials - Segunda edición](https://www.packtpub.com/packt/free-ebook/swift-essentials){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Dr. Alex Blewitt, Packt (dirección de correo electrónico *solicitada* , no requerida)
 - [Referencia de Swift Pocket](https://www.oreilly.com/programming/free/swift-pocket-reference.csp){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} (dirección de correo electrónico *solicitada* , no requerida)
 - [Desarrollo iOS probado con Swift](https://www.packtpub.com/packt/free-ebook/TDD-Swift){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Dr. Dominik Hauser, Packt. (dirección de correo electrónico *solicitada* , no requerida)
@@ -2464,7 +2466,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Una guía para principiantes al prólogo visual](https://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Prólogo visual para Tyros](https://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 
-## Servicios web
+## Servicios Web
 
 - [Servicios web RESTful](https://restfulwebapis.org/RESTful_Web_Services.pdf){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} (PDF)
 
@@ -2473,7 +2475,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Programación de aplicaciones de Windows 8 con HTML, CSS y JavaScript (v1)](https://blogs.msdn.com/b/microsoft_press/archive/2012/10/29/free-ebook-programming-windows-8-apps-with-html-css-and-javascript.aspx){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Programación de aplicaciones de Windows 8 con HTML, CSS y JavaScript (v2, incompleto)](https://blogs.msdn.com/b/microsoft_press/archive/2013/10/29/free-ebook-programming-windows-store-apps-with-html-css-and-javascript-second-edition-second-preview.aspx){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 
-## Telefono windows
+## Telefono de Windows
 
 - [Desarrollo de una aplicación avanzada de Windows Phone 7.5 que se conecta a la nube](https://coolthingoftheday.blogspot.co.uk/2012/05/free-ebook-guidance-advanced-windows.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 - [Desarrollo de Windows Phone 8 de manera sucinta](https://www.syncfusion.com/resources/techportal/ebooks/windowsphone8){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} - Matteo Pagani (PDF)
