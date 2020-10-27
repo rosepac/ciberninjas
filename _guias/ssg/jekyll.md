@@ -90,6 +90,11 @@ Si deseas transportar tus datos de Wordpress a Jekyll, es posible que puedas ter
 
 En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll){:target="_blank" rel="nofollow,noreferrer"}. Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
 
+## **Generando una PWA**
+
+[Registro y Testing de PWA](https://www.pwabuilder.com/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+[Jekyll PWA](https://alokprateek.in/articles/jekyll-pwa/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
+
 ## Enlaces Externos
 
 Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
@@ -254,6 +259,7 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 - [**¿Cómo realizar pruebas y montar un blog con Jekyll?**](#cómo-realizar-pruebas-y-montar-un-blog-con-jekyll)
 - [**¿Cómo implementar mejoras de SEO en Jekyll?**](#cómo-implementar-mejoras-de-seo-en-jekyll)
 - [Plugins de Importación](#plugins-de-importación)
+- [**Generando una PWA**](#generando-una-pwa)
 - [Enlaces Externos](#enlaces-externos)
   - [Enlaces de Chuletas](#enlaces-de-chuletas)
   - [Comercio Electrónico](#comercio-electrónico)
