@@ -29,13 +29,12 @@ feed:
 
 # Share button options
 share:
-  wordpress: true
-  facebook: true
   twitter: true
-  linkedin: true
-  email: true
+  facebook: true
   pinterest: true
+  email: true
   pocket: true
+  linkedin: true
   reddit:
   instagram: true
   telegram: true
