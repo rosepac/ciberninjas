@@ -47,7 +47,7 @@
         </li>
         {% endif %} {% if site.data.social.share.telegram or site.theme_settings.telegram %}
         <li>
-            <a href="https://t.me/share/text={{ page.title | url_encode }}%20%7C%20{{ site.title | url_encode }}&url?url={{ page.url | absolute_url }}&&s=" target="_blank" title="{{ site.data.social.language.str_share_on }} Telegram">
+            <a href="https://t.me/share/url?url={{ page.url | absolute_url }}&&s=text={{ page.title | url_encode }}%20%7C%20{{ site.title | url_encode }}" target="_blank" title="{{ site.data.social.language.str_share_on }} Telegram">
 			<i class="fa fa-telegram fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">{{ site.data.social.language.str_share_on | default: "Compartir en" }} Telegram</span>
 		</a>
