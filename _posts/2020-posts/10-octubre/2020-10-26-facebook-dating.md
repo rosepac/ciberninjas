@@ -49,4 +49,4 @@ Con el problema ya resuelto. Facebook Dating ahora se ofrece en más de 50 país
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/2020/10/facebook-dating.webp "")
+![Después de un retraso en Febrero debido a las preocupaciones planteadas por los reguladores de la UE, el servicio de citas de Facebook, Facebook Dating, llegará a Europa.](/assets/img/2020/10/facebook-dating.webp "Después de un retraso en Febrero debido a las preocupaciones planteadas por los reguladores de la UE, el servicio de citas de Facebook, Facebook Dating, llegará a Europa.")
