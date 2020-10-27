@@ -8,11 +8,11 @@ tags:
 - Markdown
 thumbnail: /assets/img/blog/editores_negro.webp
 feature-img: /assets/img/blog/editores_negro.webp
-title: '▷ ¿Qué es Markdown y los 9 Mejores Editores de Markdown 2021?'
+title: '🥇 ▷ Los 9 Mejores Editores de Markdown 2021'
 description: >-
-  Los mejores editores de texto, notas y creación de diarios con los que de editar publicaciones y redactar tus pensamientos con el lenguaje de Markdown.
+  Los mejores editores de texto y creación de diarios con el lenguaje de marcado Markdown.
 excerpt: >-
-  Los mejores editores de texto, notas y creación de diarios con los que de editar publicaciones y redactar tus pensamientos con el lenguaje de Markdown.
+  Los mejores editores de texto y creación de diarios con el lenguaje de marcado Markdown.
 canonical_URL: https://ciberninjas.com/editores-markdown/
 permalink: /editores-markdown/
 date: 2020-10-09 05:32:32
@@ -48,7 +48,7 @@ Existen cientos de opciones más, pero sin lugar a dudas, estos son los mejores.
 
 ## **1. Editor de Markdown Typora**
 
-![Vista de la interfaz del editor de Markdown Typora](/assets/img/blog/markdown_typora_captura_1.webp "Vista de la interfaz del editor de Markdown Typora")
+![El editor de Markdown Typora, uno de los mejores editores de Markdown del mundo](/assets/img/blog/markdown_typora_captura_1.webp "El editor de Markdown Typora, uno de los mejores editores de Markdown del mundo")
 
 Sin lugar a dudas, para mi el mejor editor de los que he probado. Sencillo, simple, útil; visualmente muy, muy agradable. Su minimalismo y su modo a pantalla completa, es perfecto para centrarse en escribir.
 
@@ -68,7 +68,7 @@ Esto hará funcionar el corrector ortográfico en español. A pesar de todo, las
 
 Podremos hacerle aprender palabras nuevas, haciendo 'click' sobre una palabra y seleccionando en el menú secundario, la opción **'Learn Spelling'**.
 
-[🔥 Probar Typora](https://typora.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descarga Typora](https://typora.io/ "Descarga el editor de Markdown Typora"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **2. Editor MarkDown Monster**
 
@@ -95,7 +95,7 @@ En la cinta de botones encontramos todas las opciones de **MarkDown** y además,
 
 No posee un mundo 'full screen 100%' pero si un modo de escritura sin distracciones bastante agradable, tienen corrector ortográfico en español y otro detalle importante; existe una versión **portable**. 
 
-[🔥 Probar Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Markdown Monster](https://markdownmonster.west-wind.com/ "Descarga y prueba el editor Markdown Monster"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **3. Editor de Markdown Boostnote**
 
@@ -107,7 +107,7 @@ Pero hasta que llegue ese momento, es un tanto extraño. Debemos sumarle, que su
 
 Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas, ofreciéndonos una opción de marcar notas como favoritas o añadir etiquetas. 
 
-[🔥 Probar Bootsnote](https://boostnote.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Bootsnote](https://boostnote.io/ "Descarga y prueba el editor de Markdown Bootsnote"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **4. Editor de Markdown Zettlr**
 
@@ -121,19 +121,19 @@ También, Zettlr te permite personalizar por completo su CSS y te ofrece la posi
 
 Si quieres conocer Zettlr más en profundidaz, no dejes de [leer nuestro análisis sobre Zettlr](https://ciberninjas.com/zeetlr-editor-markdown/) el impresionante nuevo software. 
 
-[🔥 Probar Zettlr](https://kutt.it/zettlr){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Zettlr](https://kutt.it/zettlr "Descarga y prueba el editor de Markdown Zettlr"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **5. Editor de Markdown Haroopad**
 
-![interfaz del software, editor de texto Haroopad](/assets/img/blog/haropad_captura_1.webp)
+![Vista de la interfaz del editor de Markdown Haroopad](/assets/img/blog/haropad_captura_1.webp)
 
-**Haroopad**, es posiblemente un editor más enfocado  a usuarios que se dedique a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
+**Haroopad**, es posiblemente un editor más enfocado a los usuarios que se dediquen a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
 
-Por defecto tiene una pequeña 'chuletilla' de **MarkDown** que puedes o bien mantener a la vista, o si no; estará a mano de un solo 'Click' abajo a la izquierda de la ventana.
+Por defecto, **Haroopad incluye una cheathseet de MarkDown**, que puedes mantener a la vista constántemente; o bien, mostrar con un sencillo 'Click' en la parte de abajo a la izquierda de tu ventana.
 
 Una pega, es que no tiene corrector (o eso creo)  no se lo he encontrado.
 
-[🔥 Probar Haroopad](http://pad.haroopress.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Haroopad](http://pad.haroopress.com/ "Descarga y prueba el editor de Markdown Haroopad"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 **A continuación, vamos a seguir, con algunos de los mejores editores de Markdown en línea.**
 
@@ -147,7 +147,7 @@ FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de
 
 La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de corrector ortográfico para los ~~ errores ~~ además de ofrecer el modo de escritura de minimalista y el modo oscuro de escritura.
 
-[🔥 Probar FocuxFox](https://www.focusfox.co/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 ¡Comienza ya con FocuxFox!](https://www.focusfox.co/ "Prueba el editor de Markdown Online Focusfox"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **7. Editor de Markdown online StackEdit**
 
@@ -159,7 +159,7 @@ Barra de botones con opciones rápidas a atajos de elementos de **MarkDown** inc
 
 El corrector ortográfico del navegador funciona perfectamente.
 
-[🔥 Probar StackEdit](https://stackedit.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 ¡Comienza ya con StackEdit!](https://stackedit.io/ "Prueba el editor de Markdown StackEdit"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **8. Editor de Markdown online Dillinger**
 
@@ -167,7 +167,7 @@ El corrector ortográfico del navegador funciona perfectamente.
 
 Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante. Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peor de todo, el corrector ortográfico se desactiva al escribir. 
 
-[🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Dillinger](https://dillinger.io/ "Descarga y prueba Dillinger"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **9. Editor de Markdown online Hackmd.io**
 
@@ -177,7 +177,7 @@ Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones
 
 La parte extra de **Hackmd** es que permite el trabajo compartido online, compartir una nota y editarla de forma grupal; y un panel de 'portada' desde el que podremos gestionar las publicaciones trabajando con etiquetas o palabras claves.
 
-[🔥 Probar HackMD](https://hackmd.io){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 ¡Comienza ya con HackMD¡](https://hackmd.io "Prueba el editor de Markdown online HackMD"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Enlaces a Geniales Recursos de MarkDown**
 
