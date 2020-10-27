@@ -26,7 +26,7 @@ En el intento de **Amazon por liderar el mundo de las bases de datos** y **ser c
 
 Desde **Amazon Web Services** anuncian que **más de 300.000 bases de datos** se han migrado a su plataforma en la nube utilizando **AWS Database Migration Service**.
 
-Amazon DMS se lanzó en marzo de 2016, brindando a **los clientes de Amazon una manera fácil de migrar sus bases de datos relacionales tradicionales**,** bases de datos no relacionales** y **almacenes de datos a su infraestructura en la nube**, evitando el tiempo de inactividad.
+Amazon DMS se lanzó en marzo de 2016, brindando a **los clientes de Amazon una manera fácil de migrar sus bases de datos relacionales tradicionales**, **bases de datos no relacionales** y **almacenes de datos a su infraestructura en la nube**, evitando el tiempo de inactividad.
 
 El servicio ha demostrado, tener una buena acogida. Dan Neault, gerente general de Amazon DMS declara: *"Que los clientes se estaban mudando a las bases de datos alternativas alojadas en la nube de Amazon para aprovechar los beneficios como la reducción de costos operativos y de capital, además de una mayor escalabilidad y un pago ajustado al uso."*
 
