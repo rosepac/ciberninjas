@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/como-satya-nadella-cambia-microsoft/
 permalink: /como-satya-nadella-cambia-microsoft/
 date: 2020-10-26 22:36:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
