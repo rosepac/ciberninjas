@@ -8,16 +8,21 @@ canonical_URL: https://ciberninjas.com/amazon/
 published: true
 ---
 
-Aún es demasiado pronto para conocer **las mejores ofertas y chollos del Black Friday 2020** que vendrán, pero puedes echar un vistazo hacia en los enlaces que encontrarás a continuación para comprobar los detalles de las mejores ofertas del año pasado y hacerte una idea de lo que probablemente vendrá (con seguridad, sean ofertas similares para el año nuevo de 2020).
+> **"Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados), ganaré una comisión con las compras que realices"**.
 
-Únicamente, deberás tener en cuenta que la pandemia actual de coronavirus COVID-19 puede hacer que Amazon realice ciertos ajustes en su venta, ya que pueden existir más problemas de los habituales a la hora de gestionar un gran aumento de la demanda en sus productos.
+El Black Friday a comenzado anticipadamente, y pronto se conocerá **las mejores ofertas y chollos del Black Friday 2020**.
+
+A continuación tienes algunos de los mejores y más esperados productos que puedes conocer y agregar a tu lista de favoritos.
+
+Según se acerque la fecha del Black Friday, aquí vas a encontrar las mejores ofertas. Igualmente, a través de [mi twittter](https://twitter.com/ciberninjas) vas a poder encontrar cada una de las mejores ofertas rebajadas sobre informática y electrónica.
 
 {% include amazon.html %}
 
 Publicaré una copia de los anuncios de Amazon y los detalles más importantes de los descuentos y la gran mayoría de las ofertas, sobre el Black Friday de 2020. Además, de tratar de traer algunas de **las mejores ofertas del Prime Day 2020** o día especial para los usuarios que son [Prime en Amazon](http://www.amazon.es/prime?tag=ciberninjas07-21){:target="_blank" rel="nofollow,noreferrer"}.
 <!-- https://www.blackerfriday.com/amazon/ -->
+Únicamente, deberás tener en cuenta que la pandemia actual de coronavirus COVID-19 puede hacer que Amazon realice ciertos ajustes en su venta, ya que pueden existir más problemas de los habituales a la hora de gestionar un gran aumento de la demanda en sus productos.
 
-Como probablemente sepas, el Prime Day se ha retrasado en los EE. UU. y en todas las regiones del mundo (se espera que se reprograme para, posiblemente, en algún momento de Octubre). Asegúrate de volver por aquí, para conocer las últimas actualizaciones o únete a nuestro RSS para ser el primero en conocer todos los anuncios oficiales.
+<!-- Como probablemente sepas, el Prime Day se ha retrasado en los EE. UU. y en todas las regiones del mundo (se espera que se reprograme para, posiblemente, en algún momento de Octubre). Asegúrate de volver por aquí, para conocer las últimas actualizaciones o únete a nuestro RSS para ser el primero en conocer todos los anuncios oficiales. -->
 
 [🤗 ¡Ayúdanos! 🎁 Visita Nuestro Canal de Afiliados de Amazon 🤘](https://www.amazon.es/shop/cibercursos){:target="_blank" rel="nofollow,noreferrer"}
 
