@@ -9,7 +9,7 @@ bootstrap: true
 published: true
 comments: false
 hide: true
-date: 2020-10-09
+date: 2020-10-26
 last_modified_at: 
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
@@ -27,6 +27,8 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 > 📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank" rel="nofollow,noreferrer"}<br />
 > 📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
 
+<span id="menu"><stronger>Menú de Aprender a Programar 2021</stronger></span>
+
 - [**Cómo aprender a programar código en 2021**](#cómo-aprender-a-programar-código-en-2021)
 - [**¿En qué campo de la informática trabajar?**](#en-qué-campo-de-la-informática-trabajar)
   - [Aprendizaje Automático / Machine Learning](#aprendizaje-automático--machine-learning)
@@ -35,15 +37,15 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 - [**¿Qué lenguaje aprender en 2021?**](#qué-lenguaje-aprender-en-2021)
 - [**¿Qué lenguajes evitar en 2021?**](#qué-lenguajes-evitar-en-2021)
 - [**La Programación en la Actualidad 2021**](#la-programación-en-la-actualidad-2021)
-  - [¿Cómo iniciar una Startup?](#cómo-iniciar-una-startup)
+  - [**¿Cómo iniciar una Startup?**](#cómo-iniciar-una-startup)
 - [**¿Qué puestos de trabajo existen?**](#qué-puestos-de-trabajo-existen)
 - [**¿Qué tecnologías y herramientas debo aprender?**](#qué-tecnologías-y-herramientas-debo-aprender)
 - [**Los Lenguajes Imprescindibles de 2021**](#los-lenguajes-imprescindibles-de-2021)
-  - [Sobre Javascript](#sobre-javascript)
-- [**Debemos hablar de WebAssambly**](#debemos-hablar-de-webassambly)
+  - [**Debemos hablar de Javascript**](#debemos-hablar-de-javascript)
+- [****Debemos hablar de WebAssambly****](#debemos-hablar-de-webassambly)
 - [**Los Lenguajes de Programación más Clásicos**](#los-lenguajes-de-programación-más-clásicos)
 - [**Otros Lenguajes Populares en 2020**](#otros-lenguajes-populares-en-2020)
-- [Lenguajes Estándar de los Navegadores](#lenguajes-estándar-de-los-navegadores)
+- [**Los Lenguajes Estándar de los Navegadores**](#los-lenguajes-estándar-de-los-navegadores)
 
 ## **Cómo aprender a programar código en 2021**
 
@@ -64,7 +66,7 @@ En esta primera sección, vamos a intentar realizar un resumen de los pasos que 
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/OPlGMplfEbc?rel=0" allowfullscreen></iframe>
 </div><br/>
 
-[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **¿En qué campo de la informática trabajar?**
 
@@ -132,7 +134,7 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 > Aprender a programar, es la clave de la era digital
 
-[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **La Programación en la Actualidad 2021**
 
@@ -141,13 +143,13 @@ Existen miles de publicaciones dispersas sobre las que poder informarse del esta
 * [Encuesta de StackOverflow 2020](https://insights.stackoverflow.com/survey/2020)
 * [Índice TIOBE](https://www.tiobe.com/tiobe-index/)
 
-### ¿Cómo iniciar una Startup?
+### **¿Cómo iniciar una Startup?**
 
 Si tu objetivo es abrir una Startup o unirte a una, nada mejor que iniciarte con Ruby y Ruby and Rails. Ruby, es amigable con los principiantes y permite desarrollar prototipos a la velocidad del viento, eso lo convierte en una excelente opción en organizaciones en las que te puedes encontrar un crecimiento agresivo.
 
 Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; pero eso no quiere decir que sea el mejor, ni el único.
 
-[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **¿Qué puestos de trabajo existen?**
 
@@ -176,15 +178,15 @@ En esta lista encontramos los lenguajes que están más al alza entre los puesto
 Java - Javascript - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
-[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### Sobre Javascript
+### **Debemos hablar de Javascript**
 
 Si nos encontramos a JavaScript en la parte alta de todas las listas actuales de los lenguajes de programación más populares, no debería de ser una sorpresa para nadie. Gracias a su integración continua en los últimos proyectos de código abierto, JavaScript ha experimentado un crecimiento masivo que hace años era imposible de imaginar.
 
 Hay más de un factor determinante detrás de esta última tendencia de usar JavaScript en proyectos de código abierto. Desde la aparición de NodeJS los desarrolladores pueden emplear el lenguaje de JS tanto en el Back-End como en el Front-End indistintamente, además se calcula que en la actualidad casi el 95% de los sitios web creados a día de hoy usan JavaScript.
 
-## **Debemos hablar de WebAssambly**
+## ****Debemos hablar de WebAssambly****
 
 Llegados ya a 2021 debemos de citar en este punto: WebAssambly.
 
@@ -218,7 +220,7 @@ Una lista de algunos de estos lenguajes podría ser:
 </ol>
 </details>
 
-[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Otros Lenguajes Populares en 2020**
 
@@ -241,16 +243,16 @@ Existen además de los lenguajes que ya hemos visto con anterioridad otros mucho
 </ol>
 </details> 
 
-## Lenguajes Estándar de los Navegadores
+## **Los Lenguajes Estándar de los Navegadores**
 
 Los navegadores web así como Internet, sin lugar a dudas han cambiado por completo el paradigma informático. Pasando a ser sin competencia alguna el navegador, el software más usado en todo el mundo. Por ello, los lenguajes creados bajo estándares que son capaces de ser reconocidos por los visualizadores de páginas de contenidos web; navegadores. Son de vital importancia, aunque su aprendizaje no es de especial dificultad; son necesarios, y además, su utilización puede complicarse tanto como uno lo desee.
 
 Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más importantes de todo Internet. Incluso podríamos incluir la tecnología AJAX.
 
 <!-- ## Qué es Programar -->
-[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Declaración Ciberninjas <!-- omit in toc -->
+## **Declaración Ciberninjas** <!-- omit in toc -->
 
 Amamos y casi hasta el punto de la adicción, los lenguajes de programación más modernos en conjunto a sus técnicas más creativas y novedosas de implementarlos en la sociedad actual.
 
@@ -258,7 +260,7 @@ Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, 
 
 Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre [nuestra "filosofía"](/que-es-ciberninjas/). Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
 
-[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
