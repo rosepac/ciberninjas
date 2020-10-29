@@ -12,6 +12,10 @@ img: "/assets/img/blog/08-rosepac-banner.webp"
 icon: "fa-search"
 ---
 
+<div>
 <script async src='https://cse.google.com/cse.js?cx=034f449078f9bd39e'></script><div class="gcse-searchbox-only"></div>
+</div>
 
+<div>
 <script async src='https://cse.google.com/cse.js?cx=034f449078f9bd39e'></script><div class="gcse-searchresults-only"></div>
+</div>

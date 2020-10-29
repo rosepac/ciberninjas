@@ -37,8 +37,4 @@ Si te gusta lo que ves al entrar en nuestro mundo, no dudes en dejarnos una opin
 [🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Discord 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
 
-¡SIGO TRABAJANDO..!
-
-<script async src='https://cse.google.com/cse.js?cx=034f449078f9bd39e'></script><div class="gcse-searchbox-only"></div>
-
-<script async src='https://cse.google.com/cse.js?cx=034f449078f9bd39e'></script><div class="gcse-searchresults-only"></div>
+**¡SIGO TRABAJANDO EN MEJORAR..!**
