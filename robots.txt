@@ -3,4 +3,3 @@ Allow: /
 Sitemap: https://ciberninjas.com/sitemap.xml
 Disallow: /proyectos/*.*
 Disallow: /blog/*
-Disallow: https://ciberninjas.com/buscador-test/
