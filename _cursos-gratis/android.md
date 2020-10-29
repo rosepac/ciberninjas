@@ -258,6 +258,7 @@ El desarrollo de Android requiere principalmente los lenguajes de programación 
 - [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_ "Curso Gratis de Flutter por G Coding Academy"){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, Youtube)
 - [Flutter: Una introducción al SDK de Google](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-primeros-pasos%2F "Curso Gratis de Flutter, una introducción al SDK de Google"){:target="_blank" rel="nofollow,noreferrer"} (Fernando Herrera, Udemy)
 
+<!--
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -321,6 +322,7 @@ El desarrollo de Android requiere principalmente los lenguajes de programación 
   }]
 }
 </script>
+-->
 
 ## **¿Qué es Flutter?**
 
