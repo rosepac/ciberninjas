@@ -1,10 +1,15 @@
 ---
 layout: page
 title: El Mejor Buscador
+date: 2020-09-08T09:00:05
 permalink: /buscador/
 canonical_URL: https://ciberninjas.com/buscador/
-subtitle: "Prueba a rastrear nustra página web Ciberninjas para encontrar cualquier cosa que desees."
+description: "Yo soy ROSEPAC."
+excerpt: "Yo soy ROSEPAC."
+subtitle: ""
 feature-img: "assets/img/pexels/search-map.jpeg"
+thumbnail: "assets/img/pexels/search-map.jpeg"
+img: "assets/img/pexels/search-map.jpeg"
 icon: "fa-search"
 ---
 
