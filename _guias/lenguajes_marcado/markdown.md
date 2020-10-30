@@ -10,7 +10,7 @@ tags:
 thumbnail: /assets/img/2020/10/markdown-nubes-720.webp
 feature-img: /assets/img/2020/10/markdown-nubes-720.webp
 img: /assets/img/2020/10/markdown-nubes-720.webp
-title: '▷ Empezando con Markdown'
+title: '🥇 ▷ Empezando con Markdown'
 description: >-
   Una descripción general de Markdown, cómo funciona y qué puede hacer con él.
 excerpt: >-
@@ -190,9 +190,9 @@ Si no puedes separarte de Evernote, puedes probar la aplicación [Marxico](https
 
 **¿Estás buscando autoeditar una novela?** Prueba [Leanpub](https://leanpub.com/){:target="_blank" rel="nofollow,noreferrer"}, un servicio que toma tus archivos con formato Markdown y los convierte en un libro electrónico. Leanpub genera tu libro en formato de archivo .PDF, .EPUB y .MOBI.
 
-Si deseas crear copias de libros de bolsillo, puedes cargar el archivo PDF en otro servicio como [Kindle Direct Publishing](https://kdp.amazon.com/es_ES/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}.
+Si deseas crear copias de libros de bolsillo, puedes cargar el archivo PDF en otro servicio como [Kindle Direct Publishing](https://kdp.amazon.com/es_ES/){:target="_blank" rel="nofollow,noreferrer"}.
 
-Para obtener más información sobre cómo escribir y autoeditar un libro con Markdown, lee la publicación del siguiente blog, que trata sobre [herramientas open source para autoeditar tu libro](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca){:target="_blank" rel="nofollow,noreferrer"}.
+Para obtener más información sobre cómo escribir y autoeditar un libro con Markdown, lee la publicación del siguiente blog, que trata sobre [herramientas open source para autoeditar tu libro](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}.
 
 ### **La creación de presentaciones con Markdown**
 
@@ -208,10 +208,10 @@ Markdown es un ajuste natural para la documentación técnica. Empresas como Git
 
 Si escribe documentación para un producto o servicio, eche un vistazo a estas útiles herramientas:
 
-- [Read the Docs](https://readthedocs.org/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} puede generar un sitio web de documentación a partir de sus archivos Markdown de código abierto. Simplemente conecte su repositorio de GitHub a su servicio y presiona - Read the Docs hace el resto.
-- [MkDocs](https://www.mkdocs.org/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} es un generador de sitios estáticos rápido y simple que está orientado a la creación de documentación de proyectos. Los archivos de origen de la documentación se escriben en Markdown y se configuran con un solo archivo de configuración YAML. MkDocs tiene varios [temas](https://www.mkdocs.org/user-guide/styling-your-docs/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} integrados, incluido un puerto del tema de documentación [Leer los](https://readthedocs.org/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} documentos para usar con MkDocs. Uno de los temas más nuevos es [MkDocs Material](https://squidfunk.github.io/mkdocs-material/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}.
-- [Docusaurus](https://v2.docusaurus.io/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} es un generador de sitios estáticos diseñado exclusivamente para crear sitios web de documentación. Admite traducciones, búsqueda y control de versiones.
-- [VuePress](https://vuepress.vuejs.org/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} es un generador de sitios estáticos impulsado por [Vue](https://vuejs.org/) y optimizado para escribir documentación técnica.
+- [Read the Docs](https://readthedocs.org/){:target="_blank" rel="nofollow,noreferrer"} puede generar un sitio web de documentación a partir de sus archivos Markdown de código abierto. Simplemente conecte su repositorio de GitHub a su servicio y presiona - Read the Docs hace el resto.
+- [MkDocs](https://www.mkdocs.org/){:target="_blank" rel="nofollow,noreferrer"} es un generador de sitios estáticos rápido y simple que está orientado a la creación de documentación de proyectos. Los archivos de origen de la documentación se escriben en Markdown y se configuran con un solo archivo de configuración YAML. MkDocs tiene varios [temas](https://www.mkdocs.org/user-guide/styling-your-docs/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} integrados, incluido un puerto del tema de documentación [Leer los](https://readthedocs.org/){:target="_blank" rel="nofollow,noreferrer"} documentos para usar con MkDocs. Uno de los temas más nuevos es [MkDocs Material](https://squidfunk.github.io/mkdocs-material/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}.
+- [Docusaurus](https://v2.docusaurus.io/){:target="_blank" rel="nofollow,noreferrer"} es un generador de sitios estáticos diseñado exclusivamente para crear sitios web de documentación. Admite traducciones, búsqueda y control de versiones.
+- [VuePress](https://vuepress.vuejs.org/){:target="_blank" rel="nofollow,noreferrer"} es un generador de sitios estáticos impulsado por [Vue](https://vuejs.org/){:target="_blank" rel="nofollow,noreferrer"} y optimizado para escribir documentación técnica.
 - [Jekyll](/jekyll/) se mencionó anteriormente en la sección de sitios web, pero también es una buena opción para generar un sitio web de documentación a partir de archivos Markdown.<!-- Si sigue esta ruta, asegúrese de consultar el [tema de la documentación de Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/) -->.
 
 ## **Sabores de Markdown**
