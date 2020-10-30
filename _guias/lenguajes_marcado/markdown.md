@@ -23,12 +23,24 @@ published: true
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/guias/">Guías</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Markdown</li>
+  </ol>
+</nav>
+</div>
+
 <!-- MUY IMPORTANTE DE COMPLETA: https://www.markdownguide.org/tools/ -->
 La **Guía de Markdown es una guía de referencia gratuita** que explica cómo usar Markdown, **el lenguaje de marcado simple y más fácil de usar** para formatear prácticamente cualquier tipo de documentos.
 
 A continuación. Vamos a conocer un poco de la historia de Markdown, qué es Markdown, para qué sirve Markdown y cómo funciona Markdown.
 
 Además, vamos a conocer [todos los elementos utilizables con Markdown](https://ciberninjas.com/markdown-cheatsheet/) y [los mejores editores para utilizar Markdown](https://ciberninjas.com/editores-markdown/).
+
+> [Editores Markdown] >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
 
 - [**¿Qué es Markdown?**](#qué-es-markdown)
 - [**¿Por qué utilizar Markdown?**](#por-qué-utilizar-markdown)
@@ -336,3 +348,32 @@ Si aún no has probado nunca a escribir en Markdown, comienza a hacerlo desde ho
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Una descripción general de Markdown, cómo funciona y qué puede hacer con él](/assets/img/2020/10/markdown-nubes-720.webp)
+
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/guias/",
+    "name": "Las Mejores Guías de Tecnología del Mundo"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/markdown/",
+     "name": "Empezando con Markdown"
+   }
+  }
+ ]
+}
+</script>

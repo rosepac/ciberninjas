@@ -17,11 +17,21 @@ excerpt: >-
   Los mejores editores de texto y creación de diarios con el lenguaje de marcado Markdown.
 canonical_URL: https://ciberninjas.com/editores-markdown/
 permalink: /editores-markdown/
-date: 2020-10-09 05:32:32
+date: 2020-10-30 07:32:32
 last_modified_at: 
 published: true
 
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/guias/">Guías</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Markdown Editores</li>
+  </ol>
+</nav>
+</div>
 
 **Los mejores editores de Markdown** creados por y para ser usados con **el lenguaje de marcado ligero Markdown** que pelea por convertirse en un estándar, la mayoría de estos **editores pueden instalarse tanto en Windows como en Linux**.
 
@@ -213,3 +223,40 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Qué es Markdown y los 8 Mejores Editores de Markdown 2021, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/guias/",
+    "name": "Las Mejores Guías de Tecnología del Mundo"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/markdown/",
+     "name": "Empezando con Markdown"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/editores-markdown/",
+     "name": "Los 9 Mejores Editores de Markdown 2021"
+   }
+  }
+ ]
+}
+</script>

@@ -10,16 +10,16 @@ tags:
 thumbnail: /assets/img/2020/10/markdown-nubes-720.webp
 feature-img: /assets/img/2020/10/markdown-nubes-720.webp
 img: /assets/img/2020/10/markdown-nubes-720.webp
-title: '▷ Cheatsheet u hoja de trucos de Markdown 2021'
+title: '▷ Cheatsheet u hoja de trucos de Markdown'
 description: >-
   Una referencia rápida a la sintaxis de Markdown.
 excerpt: >-
   Una referencia rápida a la sintaxis de Markdown.
 canonical_URL: https://ciberninjas.com/markdown-cheatsheet/
 permalink: /markdown-cheatsheet/
-date: 2020-10-30 08:32:32
+date: 2020-10-26 23:32:32
 last_modified_at: 
-published: true
+published: false
 
 ---
 
@@ -45,16 +45,16 @@ Estos elementos son los que establecen la base principial de Makrdown.
 
 | Elemento                                                     | Sintaxis de Markdown                            |
 | ------------------------------------------------------------ | ----------------------------------------------- |
-| **Encabezado** | `# H1## H2### H3`                               |
-| **Negrita**  | `**texto en negrita**`                          |
-| **Cursiva** | `*texto en cursiva*`                            |
-| **Blockquote** | `> blockquote`                                  |
-| **Lista Ordenada** | `1. Primer item 2. Segundo item 3. Tercer item` |
-| **Lista Desordenada** | `- First item- Second item- Third item`         |
-| **Código**   | ``código``                                      |
-| **Línea Divisoria Horizontal** | `---`                                           |
-| **Enlace**  | `[title](https://www.example.com)`              |
-| **Imagen** | `![alt text](image.jpg)`                        |
+| [Encabezado](https://www.markdownguide.org/basic-syntax/#headings) | `# H1## H2### H3`                               |
+| [Negrita](https://www.markdownguide.org/basic-syntax/#bold)  | `**texto en negrita**`                          |
+| [Cursiva](https://www.markdownguide.org/basic-syntax/#italic) | `*texto en cursiva*`                            |
+| [Blockquote](https://www.markdownguide.org/basic-syntax/#blockquotes-1) | `> blockquote`                                  |
+| [Lista Ordenada](https://www.markdownguide.org/basic-syntax/#ordered-lists) | `1. Primer item 2. Segundo item 3. Tercer item` |
+| [Lista Desordenada](https://www.markdownguide.org/basic-syntax/#unordered-lists) | `- First item- Second item- Third item`         |
+| [Código](https://www.markdownguide.org/basic-syntax/#code)   | ``código``                                      |
+| [Línea Divisoria Horizontal](https://www.markdownguide.org/basic-syntax/#horizontal-rules) | `---`                                           |
+| [Enlace](https://www.markdownguide.org/basic-syntax/#links)  | `[title](https://www.example.com)`              |
+| [Imagen](https://www.markdownguide.org/basic-syntax/#images-1) | `![alt text](image.jpg)`                        |
 
 ## **Sintaxis Avanzada**
 
@@ -62,13 +62,13 @@ Estos elementos amplían la sintaxis básica agregando características adiciona
 
 | Elemento                                                     | Sintaxis Markdown                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Tablas** | `| Sintaxis | Descripción || ----------- | ----------- || Encabezado | Título || Párrafo | Texto |` |
-| **Bloque de Código** | ````{ "primerNombre": "Pablo", "primerApellido": "Álvarez", "edad": 25}```` |
-| **Nota al Pie de Página** | `Esta es una frase con una nota al pie de página. [^1][^1]: Este es el pie de página.` |
-| **Encabezado con ID** | `### Mi Encabezado Principal {#id-personalizado}`                   |
-| **Definiciones de Palabras** | `termino: definición`                                        |
-| **Contenido Tachado** | `~~El mundo es plano.~~`                                     |
-| **Lista de Tareas** | `- [x] Escribir el comunicado de prensa- [ ] Actualizar la página web- [ ] Contactar con la prensa` |
+| [Tablas](https://www.markdownguide.org/extended-syntax/#tables) | `| Sintaxis | Descripción || ----------- | ----------- || Encabezado | Título || Párrafo | Texto |` |
+| [Bloque de Código](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks) | ````{ "primerNombre": "Pablo", "primerApellido": "Álvarez", "edad": 25}```` |
+| [Nota al Pie de Página](https://www.markdownguide.org/extended-syntax/#footnotes) | `Esta es una frase con una nota al pie de página. [^1][^1]: Este es el pie de página.` |
+| [Encabezado con ID](https://www.markdownguide.org/extended-syntax/#heading-ids) | `### Mi Encabezado Principal {#id-personalizado}`                   |
+| [Definiciones de Palabras](https://www.markdownguide.org/extended-syntax/#definition-lists) | `termino: definición`                                        |
+| [Contenido Tachado](https://www.markdownguide.org/extended-syntax/#strikethrough) | `~~El mundo es plano.~~`                                     |
+| [Lista de Tareas](https://www.markdownguide.org/extended-syntax/#task-lists) | `- [x] Escribir el comunicado de prensa- [ ] Actualizar la página web- [ ] Contactar con la prensa` |
 
 ## **Descarga la Cheatsheet**
 
@@ -91,40 +91,3 @@ Puede descargar esta [cheatsheet u hoja de trucos de Markdown](https://drive.goo
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Una descripción general de Markdown, cómo funciona y qué puede hacer con él](/assets/img/2020/10/markdown-nubes-720.webp)
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "BreadcrumbList",
- "itemListElement":
- [
-  {
-   "@type": "ListItem",
-   "position": 1,
-   "item":
-   {
-    "@id": "https://ciberninjas.com/guias/",
-    "name": "Las Mejores Guías de Tecnología del Mundo"
-    }
-  },
-  {
-   "@type": "ListItem",
-   "position": 2,
-   "item":
-   {
-    "@id": "https://ciberninjas.com/markdown/",
-     "name": "Empezando con Markdown"
-    }
-  },
-  {
-   "@type": "ListItem",
-  "position": 3,
-  "item":
-   {
-     "@id": "https://ciberninjas.com/markdown-cheatsheet/",
-     "name": "Cheatsheet u hoja de trucos de Markdown 2021"
-   }
-  }
- ]
-}
-</script>
