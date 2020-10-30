@@ -155,11 +155,11 @@ Puede utilizar una aplicación de creación de documentos Markdown para crear y 
 
 Aquí hay algunas aplicaciones de creación de documentos de Markdown que recomiendo:
 
-- **Mac:** [MacDown](https://www.markdownguide.org/tools/macdown/), [iA Writer](https://www.markdownguide.org/tools/ia-writer/) o [Marcado](https://marked2app.com/)
-- **iOS / Android:** [iA Writer](https://www.markdownguide.org/tools/ia-writer/)
-- **Windows:** [ghostwriter](https://wereturtle.github.io/ghostwriter/) o [Markdown Monster](https://markdownmonster.west-wind.com/)
-- **Linux:** [ReText](https://github.com/retext-project/retext) o [ghostwriter](https://wereturtle.github.io/ghostwriter/)
-- **Web:** [Dillinger](https://www.markdownguide.org/tools/dillinger/) o [StackEdit](https://www.markdownguide.org/tools/stackedit/)
+- **Mac:** [MacDown](https://macdown.uranusjr.com/){:target="_blank" rel="nofollow,noreferrer"}, [iA Writer](https://ia.net/writer){:target="_blank" rel="nofollow,noreferrer"} o [Marked](https://marked2app.com/){:target="_blank" rel="nofollow,noreferrer"}
+- **iOS / Android:** [Markor](https://play.google.com/store/apps/details?id=net.gsantner.markor&hl=en_US&gl=US){:target="_blank" rel="nofollow,noreferrer"}
+- **Windows:** [ghostwriter](https://wereturtle.github.io/ghostwriter/){:target="_blank" rel="nofollow,noreferrer"} o [Markdown Monster](https://ciberninjas.com/editores-markdown/#2-editor-markdown-monster)
+- **Linux:** [ReText](https://github.com/retext-project/retext){:target="_blank" rel="nofollow,noreferrer"} o [ghostwriter](https://wereturtle.github.io/ghostwriter/){:target="_blank" rel="nofollow,noreferrer"}
+- **Web:** [Dillinger](https://ciberninjas.com/editores-markdown/#8-editor-de-markdown-online-dillinger) o [StackEdit](https://ciberninjas.com/editores-markdown/#7-editor-de-markdown-online-stackedit)
 
 > **Consejo**: iA Writer proporciona plantillas para obtener una vista previa, imprimir y exportar documentos con formato Markdown. Por ejemplo, la plantilla "Académico - Estilo MLA" sangra los párrafos y agrega doble espacio entre oraciones.
 
@@ -167,12 +167,12 @@ Aquí hay algunas aplicaciones de creación de documentos de Markdown que recomi
 
 En casi todos los sentidos, Markdown es la sintaxis ideal para tomar notas. Lamentablemente, Evernote y OneNote , dos de las aplicaciones de notas más populares, actualmente no son compatibles con Markdown. La buena noticia es que varias otras aplicaciones de notas son compatibles con Markdown:
 
-- [Simplenote](https://www.markdownguide.org/tools/simplenote/) es una aplicación [básica](https://www.markdownguide.org/tools/simplenote/) gratuita para tomar notas disponible para todas las plataformas.
-- [Notable](https://www.markdownguide.org/tools/notable/) es una aplicación para tomar notas que se ejecuta en una variedad de plataformas.
-- [Bear](https://www.markdownguide.org/tools/bear/) es una aplicación similar a Evernote disponible para dispositivos Mac e iOS. No usa exclusivamente Markdown de forma predeterminada, pero puede habilitar el modo de compatibilidad de Markdown.
-- [Boostnote se anuncia a](https://www.markdownguide.org/tools/boostnote/) sí mismo como una "aplicación de código abierto para tomar notas diseñada para programadores".
+- [Simplenote](https://simplenote.com/){:target="_blank" rel="nofollow,noreferrer"} es una aplicación básica gratuita para tomar notas disponible para todas las plataformas.
+- [Notable](https://notable.app/){:target="_blank" rel="nofollow,noreferrer"} es una aplicación para tomar notas que se ejecuta en una variedad de plataformas.
+- [Bear](https://bear.app/){:target="_blank" rel="nofollow,noreferrer"} es una aplicación similar a Evernote disponible para dispositivos Mac e iOS. No usa exclusivamente Markdown de forma predeterminada, pero puede habilitar el modo de compatibilidad de Markdown.
+- [Boostnote](https://ciberninjas.com/editores-markdown/#3-editor-de-markdown-boostnote) se anuncia a sí mismo como una "aplicación de código abierto para tomar notas diseñada para programadores".
 
-Si no puedes [separarse de Evernote](https://marxi.co/){:target="_blank" rel="nofollow,noreferrer"}, prueba la aplicación [Marxico](https://marxi.co/){:target="_blank" rel="nofollow,noreferrer"}, un editor de Markdown basado en suscripción para Evernote, o puedes usar [Markdown Here](https://markdown-here.com/){:target="_blank" rel="nofollow,noreferrer"} con el mismo sitio web de Evernote.
+Si no puedes separarte de Evernote, puedes probar la aplicación [Marxico](https://marxi.co/){:target="_blank" rel="nofollow,noreferrer"}, un editor de Markdown basado en suscripción para Evernote, o puedes usar [Markdown Here](https://markdown-here.com/){:target="_blank" rel="nofollow,noreferrer"} con el mismo sitio web de Evernote.
 
 ### **La creación de libros con Markdown**
 
