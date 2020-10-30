@@ -757,7 +757,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## **Libros Gratis de Diseño Web**
 
-* [Prototipado de Aplicaciones Web (mean.js)](https://meanjsbook.danihernandez.me/) (HTML) (2015)
+* [Prototipado de Aplicaciones Web (mean.js)](https://meanjsbook.danihernandez.me/){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2015)
 
 ## **Libros Gratis de Bootstrap**
 
@@ -766,8 +766,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## **Libros Gratis de Lenguajes de Marcado ✍**
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
 
-* [Guía fácil del RSS](https://drive.google.com/file/d/1ivMIwIIEjArB2Q9Nsc-4RWHxV-GqUMZ8/view?usp=sharing) (PDF)
-* [Markdown: Guía Breve y Detallada](https://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf) (PDF) (2013)
+* [Guía fácil del RSS](https://drive.google.com/file/d/1ivMIwIIEjArB2Q9Nsc-4RWHxV-GqUMZ8/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+* [Markdown: Guía Breve y Detallada](http://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2013)
 
 **Sistemas de Plantillas 🌱**
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
