@@ -1,5 +1,6 @@
 ---
 
+layout: page
 author: rosepac
 bootstrap: true
 comments: false
@@ -23,11 +24,11 @@ published: true
 
 **Los mejores editores de Markdown** creados por y para ser usados con **el lenguaje de marcado ligero Markdown** que pelea por convertirse en un estándar, la mayoría de estos **editores pueden instalarse tanto en Windows como en Linux**.
 
-Si aún no sabes que es Markdown, estás tardando en descubrirlo. A continuación, vamos a ver **la mejor colección de editores de Markdown** del mundo y finalmente, **una breve introducción a Markdown para principiantes**.
+Si aún no sabes que es Markdown, estás tardando en descubrirlo. A continuación, vamos a ver **la mejor colección de editores de Markdown** del mundo y también, [**una gran introducción a Markdown para principiantes**]().
 
 Con estos editores que facilitan la implementación de utilidades extras gracias al uso de Markdown; van a ayudarnos a [**aumentar la productividad**](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) y reducir el tiempo ante la creación de nuevos contenidos.
 
-A continuación, vas a encontrar 5 excelentes editores de texto instalables y 3 opciones de editores online de Markdown; con los que ayudarte a la hora de escribir con el lenguaje de marcado de Markdown.
+A continuación, vas a encontrar 9 aplicaciones diferentes: 5 excelentes editores de texto instalables y 3 opciones de editores online de Markdown; con los que ayudarte a la hora de escribir con el lenguaje de marcado de Markdown.
 
 Existen cientos de opciones más, pero sin lugar a dudas, estos son los mejores.
 
@@ -185,13 +186,13 @@ La parte extra de **Hackmd** es que permite el trabajo compartido online, compar
 
 Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 
-- [Tutorial de Aprendizaje de Markdown](https://www.markdowntutorial.com/es/){:target="_blank" rel="nofollow,noreferrer"}
+- [Crear correos electrónicos con MarkDown](https://markdown-here.com/){:target="_blank" rel="nofollow,noreferrer"}
 - [Cursos de Markdown](https://ciberninjas.com/cursos-tecnologia/#markdown-){:target="_blank"}
 - [Libro de Markdown](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#lenguajes-de-marcado-){:target="_blank"}
 - [Markdown IT: Crea y personaliza tu propio lenguaje de Markdown](https://github.com/markdown-it/markdown-it){:target="_blank" rel="nofollow,noreferrer"}
 - [MarkDown Chuleta](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf){:target="_blank" rel="nofollow,noreferrer"}
+- [Tutorial de Aprendizaje de Markdown](https://www.markdowntutorial.com/es/){:target="_blank" rel="nofollow,noreferrer"}
 - [Generador de tablas MarkDown](https://www.tablesgenerator.com/markdown_tables#){:target="_blank" rel="nofollow,noreferrer"}
-- [Crear correos electrónicos con MarkDown](https://markdown-here.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 > 🔥 Quizás te interese: [mejores editores de código](/mejores-editores-texto/) >> [mejores editores de python](/mejores-ide-python/) >> [mejores editores de PHP](/mejores-editores-php/)
 {: .notice--danger}
