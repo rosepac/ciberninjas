@@ -99,6 +99,8 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 - [Aprenda Markdown desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprenda-markdown-desde-cero%2F) (Udemy)
 - [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
 
+> [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Editores Markdown](https://ciberninjas.com/editores-markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
+
 ## **Cursos Gratis de XML**
 
 - [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
