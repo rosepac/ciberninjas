@@ -3,7 +3,7 @@ layout: page
 author: rosepac
 bootstrap: true
 hide: true
-title: "🥇 ▷ Los Mejores Cursos GRATIS de Programación Online en español 2020"
+title: "🥇 ▷ Los Mejores Cursos GRATIS de Programación Online en español 2021"
 description: ✅ Más de 700 cursos gratuitos de tecnología perfectamente clasificados.
 excerpt: ✅ Más de 700 cursos gratuitos de tecnología perfectamente clasificados.
 date: 2020-09-17
