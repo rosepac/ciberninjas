@@ -38,8 +38,6 @@ img: /assets/img/2020/10/tools-full.webp
 
 ![Vamos a conocer los diferentes tipos de arquitecturas que existen en la creación de redes neuronales con las que implementar la inteligencia artificial en los proyectos](/assets/img/2020/10/tipos-arquitecturas-de-redes-neuronales.webp "Vamos a conocer los diferentes tipos de arquitecturas que existen en la creación de redes neuronales con las que implementar la inteligencia artificial en los proyectos")
 
-![La gran caja de herramientas que todo programador o desarrollador full stack debe conocer para ser un verdadero profesional](/assets/img/2020/10/.webp "La gran caja de herramientas que todo programador o desarrollador full stack debe conocer para ser un verdadero profesional")
-
 ![¿Por qué todas las empresas aman Excel, y lo intentan utilizar absolutamente para todo lo que son capaces de inventarse?](/assets/img/2020/10/trabajando-con-excel.webp "¿Por qué todas las empresas aman Excel, y lo intentan utilizar absolutamente para todo lo que son capaces de inventarse?")
 
 ![Es muy fácil aprender a crear pequeños juegos, con el uso de la gran plataforma de Unity y todas sus herramientas](/assets/img/2020/10/unity-minijuegos.webp "Es muy fácil aprender a crear pequeños juegos, con el uso de la gran plataforma de Unity y todas sus herramientas")
