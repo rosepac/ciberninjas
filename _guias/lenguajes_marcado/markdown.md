@@ -40,7 +40,7 @@ A continuación. Vamos a conocer un poco de la historia de Markdown, qué es Mar
 
 Además, vamos a conocer [todos los elementos utilizables con Markdown](https://ciberninjas.com/markdown-cheatsheet/) y [los mejores editores para utilizar Markdown](https://ciberninjas.com/editores-markdown/).
 
-> [Editores Markdown] >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
+> [Editores Markdown](https://ciberninjas.com/editores-markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
 
 - [**¿Qué es Markdown?**](#qué-es-markdown)
 - [**¿Por qué utilizar Markdown?**](#por-qué-utilizar-markdown)

@@ -40,6 +40,12 @@ Esta hoja de trucos de Markdown proporciona una descripción general rápida de 
 
 <!-- No puede cubrir todos los casos extremos, cualquiera de estos elementos, consulte las guías de referencia para conocer la sintaxis básica y avanzada. -->
 
+> [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Editores Markdown](https://ciberninjas.com/editores-markdown/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
+
+- [**Sintaxis Básica**](#sintaxis-básica)
+- [**Sintaxis Avanzada**](#sintaxis-avanzada)
+- [**Descarga la Cheatsheet**](#descarga-la-cheatsheet)
+
 ## **Sintaxis Básica**
 
 Estos elementos son los que establecen la base principial de Makrdown.

@@ -46,6 +46,8 @@ Existen cientos de opciones más, pero sin lugar a dudas, estos son los mejores.
 
 Por último, os dejo aquí, unos enlaces relacionados desde los que seguir [aprendiendo Markdown](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown).
 
+> [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
+
 - [**1. Editor de Markdown Typora**](#1-editor-de-markdown-typora)
 - [**2. Editor MarkDown Monster**](#2-editor-markdown-monster)
 - [**3. Editor de Markdown Boostnote**](#3-editor-de-markdown-boostnote)
