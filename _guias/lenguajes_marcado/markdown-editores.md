@@ -28,6 +28,7 @@ published: true
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/guias/">Guías</a></li>
+    <li class="breadcrumb-item"><a href="/markdown/">Markdown</a></li>
     <li class="breadcrumb-item active" aria-current="page">Markdown Editores</li>
   </ol>
 </nav>
