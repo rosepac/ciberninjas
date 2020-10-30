@@ -14,9 +14,6 @@ permalink: /11-aprendizajes-principiantes-inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/11-aprendizajes-principiantes-inteligencia-artificial/
 tags:
 - Inteligencia Artificial
-- Aprender
-- Lenguaje
-- Automático
 
 ---
 

@@ -7,10 +7,8 @@ canonical_URL: https://ciberninjas.com/cómo-tener-conversaciones-divertidas-zoo
 permalink: /cómo-tener-conversaciones-divertidas-zoom/
 published: true
 tags:
-  - Software Videollamadas
   - Actualidad
   - Redes Sociales
-  - Cámara
   - Snapchat
   - Zoom
 thumbnail: /assets/img/blog/1-snap-camera.webp

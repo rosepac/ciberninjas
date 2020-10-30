@@ -11,7 +11,7 @@ excerpt: >-
 permalink: /algoritmos-ordenacion-c-sharp-con-jap-software/
 comments: false
 date: 2020-01-20 15:35:00 +0200
-tags: [Algoritmos de Ordenación, C#, Videotutorial C#, Jap Software]
+tags: [Algoritmos, C#, Videotutorial C#, Jap Software]
 
 ---
 
