@@ -9,6 +9,7 @@ tags:
 - Markdown
 thumbnail: /assets/img/blog/editores_negro.webp
 feature-img: /assets/img/blog/editores_negro.webp
+img: /assets/img/blog/editores_negro.webp
 title: '🥇 ▷ Los 9 Mejores Editores de Markdown 2021'
 description: >-
   Los mejores editores de texto y creación de diarios con el lenguaje de marcado Markdown.

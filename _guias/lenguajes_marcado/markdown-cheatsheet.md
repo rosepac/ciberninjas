@@ -7,8 +7,9 @@ comments: false
 tags:
 - Editores de Texto
 - Markdown
-thumbnail: /assets/img/blog/editores_negro.webp
-feature-img: /assets/img/blog/editores_negro.webp
+thumbnail: /assets/img/2020/10/markdown-nubes-720.webp
+feature-img: /assets/img/2020/10/markdown-nubes-720.webp
+img: /assets/img/2020/10/markdown-nubes-720.webp
 title: '▷ Cheatsheet u hoja de trucos de Markdown'
 description: >-
   Una referencia rápida a la sintaxis de Markdown.
@@ -79,4 +80,4 @@ Puede descargar esta [cheatsheet u hoja de trucos de Markdown](https://drive.goo
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Qué es Markdown y los 8 Mejores Editores de Markdown 2021, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
+![Una descripción general de Markdown, cómo funciona y qué puede hacer con él](/assets/img/2020/10/markdown-nubes-720.webp)
