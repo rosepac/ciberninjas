@@ -10,9 +10,9 @@ date: 2020-09-17
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 tags: [Recursos Gratis, Cursos Gratis, Cursos Programación]
-thumbnail: /assets/img/paginas/tecnologia-programando.webp
-feature-img: /assets/img/paginas/tecnologia-programando.webp
-img: /assets/img/paginas/cursos-tecnologia-cn.webp
+thumbnail: /assets/img/2020/10/web-herramientas.webp
+feature-img: /assets/img/2020/10/web-herramientas.webp
+img: /assets/img/2020/10/web-herramientas.webp
 ---
 
 <div class="hidden-sm-down">
@@ -306,4 +306,4 @@ HTML, Markdown, XHTML, Open.
 <!-- Universidad de Murcia https://umumooc.um.es/ -->
 <!-- https://www.genbeta.com/a-fondo/50-mejores-cursos-online-2019 voy por introduccion a las reds sociales.. -->
 <!-- * [](){:target="_blank" rel="nofollow,noreferrer"} -->
-![Los Mejores Cursos GRATIS de Programación Online en español 2020](/assets/img/paginas/cursos-tecnologia-cn.webp "Los Mejores Cursos GRATIS de Programación Online en español 2020")
+![La gran caja de herramientas que todo programador o desarrollador full stack debe conocer para ser un verdadero profesional](/assets/img/2020/10/web-herramientas.webp "La gran caja de herramientas que todo programador o desarrollador full stack debe conocer para ser un verdadero profesional")

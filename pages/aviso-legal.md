@@ -63,13 +63,20 @@ Sigue paso a paso la guía de [este enlace](https://www.cookiesandyou.com/disabl
 
 Si fueses usuario de algún otro navegador la metodología suele ser similar o también puedes dar uso de un Software Gratuito que limpie 'cookies' mi recomendación es: [BleachBit](https://www.bleachbit.org/)
 
-## Venta de Productos
+## Afiliados
 
-Respecto al apartado de la tienda, desde esta página web no se realizan ventas directas. Utilizamos enlaces de afiliados de Amazon y otras múltiples empresas, desde las que se realizan las distintas compras; y se usarán las COOKIES necesarias para el funcionamiento correcto de los productos mostrados y expuestos a la venta.
+Respecto al apartado de [tienda/ amazon](/amazon/), los [productos personalizados de Redbubble](https://www.redbubble.com/es/people/ciberninjas/shop), los diferentes enlaces a la compra de libros u otros posibles productos, existentes dentro de la página web o cualquier red social u otro blog replicante que gestione Ciberninjas (Pablo Álvarez Corredera).
 
-### Código ShareASale
+1º Desde está página web no se realiza ninguna venta directa, por lo que no nos hacemos cargo de ningún tipo de reclamación, garantía o posible problema existente a raíz de un enlace publico aquí.
+2º Se utilizan enlaces de afiliados (principalmente de Amazon y Rakuten -Udemy- entre otros programas) y para ello se usarán las COOKIES necesarias para el funcionamiento correcto de los productos mostrados y expuestos a la venta.
 
-* GDDXBMHV192290748
+### Afiliado de Amazon
+
+"Ciberninjas participa en el Programa de Asociados de Amazon Services LLC, un programa de publicidad afiliado diseñado para proporcionar un medio para que los sitios ganen tarifas de publicidad mediante enlaces y publicidad de [Amazon.es](https://amzn.to/37RtBX9) y en menor medida, de [Amazon.com](https://amzn.to/3oEoYW3)."
+
+### Afiliado de Udemy
+
+"Ciberninjas participa en el Programa de Asociados de Rakuten, un programa de publicidad afiliado diseñado para proporcionar un medio para que los sitios ganen tarifas de publicidad mediante enlaces y publicidad de diferentes empresas, como por ejemplo [Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F)."
 
 ## Formularios de Contacto
 
