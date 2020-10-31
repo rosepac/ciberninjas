@@ -48,6 +48,9 @@ El Fondo Humanitario 612 también quiso compartir su agradecimiento a todos nues
 
 > *Extendemos nuestro más sincero agradecimiento al público ya los manifestantes por su confianza y apoyo, que ha permitido al Fondo desempeñar un papel modesto en estos tiempos difíciles para Hong Kong.*
 
+- [**¿Por qué es importante la libertad en Hong Kong?**](#por-qué-es-importante-la-libertad-en-hong-kong)
+- [**Siempre lucharemos por la libertad**](#siempre-lucharemos-por-la-libertad)
+
 ## **¿Por qué es importante la libertad en Hong Kong?**
 
 En Junio, las autoridades de Hong Kong, a instancias del gobierno Chino, se apresuraron a implementar la nueva Ley de Seguridad Nacional en medio de la noche, avisando al pueblo de Hong Kong con solo dos horas de anticipación. Esta regulación otorgó a las fuerzas del orden de Hong Kong amplios poderes extrajudiciales, incluida la capacidad de interceptar comunicaciones privadas, censurar contenido en línea y registrar locales y confiscar propiedades, todo sin una orden judicial. 
