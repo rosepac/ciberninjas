@@ -30,9 +30,9 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Octubre**
 
-### 🔔 29 de Octubre  <!-- omit in toc -->
+### 🔔 31 de Octubre  <!-- omit in toc -->
 
-- Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"} (11:00 AM)
+- Perú Hack 🎥 [DIRECTO](https://www.twitch.tv/peruhackcon/schedule){:target="_blank" rel="nofollow, noreferrer"} (15:20 H. ESP.) 📆 [Agenda](https://peruhack.org/#agenda){:target="_blank" rel="nofollow, noreferrer"}
 
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
@@ -969,3 +969,7 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - Operadores de Kubernetes: Operando servicios nativos de la nube a escala - [REGISTRO](https://events.codemotion.com/webinars/kubernetes-operators-operando-servicios-nativos-de-la-nube-a-escala/){:target="_blank" rel="nofollow, noreferrer"} (19:00 PM)
 - ForoASLAN: 12 A 14H WIFI 6 Y NUEVAS CAPACIDADES PARA EL ENTORNO 5G - [INFO.](https://aslan.es/actividades/foro-tendencias-tecnologicas-conectividad-inteligente-tendencias-de-alto-impacto/)
+
+### 🔔 29 de Octubre  <!-- omit in toc -->
+
+- Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"} (11:00 AM)
