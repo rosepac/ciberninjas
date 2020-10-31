@@ -47,15 +47,18 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 3 de Noviembre  <!-- omit in toc -->
 
-- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/)
+- Raiola Conferencias - [MÁS INFORMACIÓN Y REGISTRO](https://raiolanetworks.es/rmc-online/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 4 de Noviembre  <!-- omit in toc -->
 
-- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/)
+- Raiola Conferencias - [MÁS INFORMACIÓN Y REGISTRO](https://raiolanetworks.es/rmc-online/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 5 de Noviembre  <!-- omit in toc -->
 
-- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/){:target="_blank" rel="nofollow, noreferrer"}
+- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/)
+- Raiola Conferencias - [MÁS INFORMACIÓN Y REGISTRO](https://raiolanetworks.es/rmc-online/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 11 de Noviembre  <!-- omit in toc -->
 
@@ -72,10 +75,12 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 18 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+- [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 19 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+- [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 20 de Noviembre  <!-- omit in toc -->
 
