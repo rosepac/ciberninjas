@@ -7,7 +7,7 @@ tags:
 - 
 thumbnail: /assets/img/2020/10/google-developer-learning.webp
 feature-img: /assets/img/2020/10/google-developer-learning.webp
-title: '▷ Google lanza Google Learn: Un recopilatorio de todo el contenido de aprendizaje, para los desarrolladores de dispositivos de Google'
+title: '▷ Google lanza Google Learn: Un recopilatorio de su contenido de aprendizaje, para los desarrolladores de dispositivos de Google'
 description: >-
   Bienvenido a Learn, su destino único para adquirir y desarrollar el conocimiento y las habilidades que necesita para desarrollar software con la tecnología de Google.
 excerpt: >-
