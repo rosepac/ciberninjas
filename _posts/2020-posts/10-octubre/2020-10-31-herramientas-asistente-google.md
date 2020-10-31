@@ -8,7 +8,7 @@ tags:
 - IOT
 thumbnail: /assets/img/2020/10/31-asistente-google.webp
 feature-img: /assets/img/2020/10/31-asistente-google.webp
-title: '▷ Las nuevas herramientas y funciones para los desarrolladres del Asistente Inteligente de Google'
+title: '▷ Las nuevas herramientas y funciones para los desarrolladores del Asistente Inteligente de Google'
 description: >-
   Noticias e información valiosa sobre las plataformas, las herramientas y los eventos de Google.
 excerpt: >-
