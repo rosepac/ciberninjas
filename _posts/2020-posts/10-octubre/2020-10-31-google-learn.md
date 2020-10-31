@@ -54,7 +54,7 @@ Los [temas](https://developers.google.com/learn/topics){:target="_blank" rel="no
 
 **¡Aquí es donde comienza la diversión!** Puedes mostrar todas las cosas nuevas que has aprendido desde tu perfil de desarrollador de Google. Para utilizar las funciones sociales, primero debes [crear tu perfil de desarrollador](https://google.dev/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}, y logra tu primera insignia de perfil de desarrollador creado.
 
-![El nuevo perfil de Google Aprendizaje para nuevos mostrar las habilidades estudidadas por cada desarrollador](/assets/2020/10/perfil-insignias.webp)
+![El nuevo perfil de Google Aprendizaje para nuevos mostrar las habilidades estudidadas por cada desarrollador](/assets/img/2020/10/perfil-insignias.webp)
 
 A continuación, ve a probar algunas de las rutas que han ido creando, y después de completar cada actividad. Realizarás una prueba y, si la apruebas, se te otorgará una insignia nueva.
 
