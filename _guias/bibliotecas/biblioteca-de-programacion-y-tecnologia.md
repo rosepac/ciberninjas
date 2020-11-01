@@ -674,18 +674,19 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## **Libros Gratis de PhoneGap**
 
-* [PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa](https://ajgallego.gitbooks.io/phonegap/content) (HTML) (2016)
+* [PhoneGap o Apache Cordova, como compilar código Web como aplicación nativa](https://ajgallego.gitbooks.io/phonegap/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
 
 ## **Libros Gratis de Programación Web**
 
-* [Desarrollar aplicaciones Progressive Web Apps](https://jdonsan.gitbooks.io/desarrolla-progressive-web-apps/content) (HTML) (2018)
-* [Desarrollo de Aplicaciones Web - Guía Completa](https://juanda.gitbooks.io/webapps/content) (HTML) (2016)
-* [Integración con API´s de terceros](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/) (HTML) (2016)
-* [Programación Web en Entorno Cliente (JS, Ajax & jQuery)](https://josh1982.gitbooks.io/programacion-web-en-cliente/content) (HTML) (2016)
-* [Programación Hipermedia para Dispositivos Móviles](https://mastermoviles.gitbooks.io/programacion-hipermedia-para-dispositivos-moviles/content) (HTML) (2018)
-* [Tecnologías para el desarrollo de aplicacioens móviles](https://mastermoviles.gitbooks.io/tecnologias2/content) (HTML) (2018)
-* [Interfaz de usuario básica en iOS](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details) (HTML) (2018)
-* [Buenas Prácticas Front End](https://redmint.gitbooks.io/buenas-practicas-front-end/content) (HTML) (2018)
+* [Apuntes de GraphQL](https://www.notion.so/GraphQL-6c83d30ad0e7446998afae6efa948753){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2020) por [Betty Jiménez](https://twitter.com/bettyrjce){:target="_blank" rel="nofollow,noreferrer"}
+* [Desarrollar aplicaciones Progressive Web Apps](https://jdonsan.gitbooks.io/desarrolla-progressive-web-apps/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+* [Desarrollo de Aplicaciones Web - Guía Completa](https://juanda.gitbooks.io/webapps/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
+* [Integración con API´s de terceros](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
+* [Programación Web en Entorno Cliente (JS, Ajax & jQuery)](https://josh1982.gitbooks.io/programacion-web-en-cliente/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
+* [Programación Hipermedia para Dispositivos Móviles](https://mastermoviles.gitbooks.io/programacion-hipermedia-para-dispositivos-moviles/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+* [Tecnologías para el desarrollo de aplicacioens móviles](https://mastermoviles.gitbooks.io/tecnologias2/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+* [Interfaz de usuario básica en iOS](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+* [Buenas Prácticas Front End](https://redmint.gitbooks.io/buenas-practicas-front-end/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
 
 ## **Libros Gratis de Lenguajes de Programación**
 
