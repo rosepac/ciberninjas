@@ -71,16 +71,19 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 17 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
+- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
 
 ### 🔔 18 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 - [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
+- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
 
 ### 🔔 19 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"}
 - [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
+- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
 
 ### 🔔 20 de Noviembre  <!-- omit in toc -->
 
