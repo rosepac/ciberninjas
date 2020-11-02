@@ -21,15 +21,17 @@ Los mejores teclados para juegos, por lo tanto, son más que una simple excusa p
 
 Claro, la mayoría de los teclados son lo suficientemente buenos para hacer el trabajo, pero ya sea por rendimiento, características adicionales o construcción, la diferencia sigue siendo de día y de noche. No se limite a obtener el mejor mouse para juegos y el mejor monitor para juegos . Opte por la trifecta e invierta también en uno de los mejores teclados para juegos.
 
-> **Los mejores teclados para juegos en Amazon Prime Day y Black Friday**
+> **Los mejores teclados para juegos de Amazon Prime Day y Black Friday**
 
 Con el [**Amazon Prime Day presumiblemente este 13 de Octubre**](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y el [**Black Friday**](https://ciberninjas.com/black-friday-amazon/) próximos, algunos de los mejores teclados para juegos de esta lista seguramente tendrán algunas rebajas de precio decentes, al igual que el año pasado.
 
 Esto significa que es posible que pueda obtener el teclado para juegos que más te guste, por menos dinero de lo que crees, lo que te va a permitir ahorrar dinero que podrás usar en otra cosa de tu lista de compras.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 Ya sea que estés comprando un teclado para tu PC de juegos o planeando regalar uno durante la temporada navideña, sería prudente esperar hasta estos eventos de rebajas más importantes de todo el año.
 
-Dado que es probable que [Amazon Prime Day se celebre a mitad de Octubre](https://ciberninjas.com/amazon-prime-day-fecha-2020/) y el Black Friday a final de Noviembre, y no tendrás que esperar demasiado.
+Pasado ya el [Amazon Prime](https://ciberninjas.com/amazon-prime-day-fecha-2020/) de Octubre, no dudes en comprar en el [Black Friday de final de Noviembre](https://ciberninjas.com/black-friday-amazon/) uno de los más espectaculares teclados a uno de sus mejores precios del año.
 
 - [**1. SteelSeries Apex Pro**](#1-steelseries-apex-pro)
 - [**2. Razer Huntsman Elite**](#2-razer-huntsman-elite)

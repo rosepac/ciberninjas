@@ -23,9 +23,6 @@ En esta página vas a poder encontrar todos los libros que necesites de literatu
 
 Encontrarás dentro de los diferentes sitios web, a todos los autores de la literatura clásica española y en español; siempre y cuando haya transcurrido cierto tiempo desde el fallecimiento del mismo, o por lo contrario, si sus obras se encuentran bajo licencias de dominio público.
 
-> Omitir. Redacción de contenido, exclusivamente agregado por la mejora del posicionamiento 
-😉 👉 [Bibliotecas](/biblioteca-novela-poesia/#bibliotecas-online) 😀
-
 ### Índice <!-- omit in toc -->
 - [**Bibliotecas Online**](#bibliotecas-online)
 - [**Repositorios Documentales Digitales**](#repositorios-documentales-digitales)

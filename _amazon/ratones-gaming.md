@@ -25,6 +25,8 @@ Además, también estarás recibiendo algunas comodidades extra, como por ejempl
 
 Con el mejor ratón, mejorarás tu flujo de trabajo, mejorarás en tus juegos y así con todo, sin lugar a dudas, vas a desenvolverte mejor en cualquier otra tarea que debas realizar con tu ordenador.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 Para ayudarte, he recopilado **las mejores opciones de ratones para 2021**, desde el mejor mouse inalámbrico hasta sus los ratones con cable más tradicionales. Elije algo de nuestra lista; después de todo, tú (y tu muñeca) os merecéis lo mejor.
 <!-- https://www.techradar.com/news/computing-components/peripherals/what-mouse-10-best-mice-compared-1027809 -->
 

@@ -17,6 +17,8 @@ img: '/assets/img/amazon/ordenador-componentes.webp'
 
 Las mejore ofertas de Amazon en componentes para ordenadores. Si deseas crear tu propio ordenador por piezas, desde aquí, vas a encontrar los mejores chollos en placas base, tarjetas gráficas, fuentes de alimentación, cajas, discos duros, memorias ram, ventiladores, etc.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 Selecciona todo lo que necesites, y luego monta tu PC por menos dinero y mucho más potente; que si lo compras montado en alguna de las tiendas Online que ofrecen ese servicio.
 
 En el caso de que necesites alguna ayuda, a la hora del montaje, no dudes en [ponerte en contacto conmigo](https://ciberninjas.com/quien-soy/).

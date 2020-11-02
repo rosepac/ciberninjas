@@ -17,6 +17,8 @@ img: /assets/img/paginas/amazon/tablet-graficax1280.webp
 
 Las mejores tabletas gráficas con las que los diseñadores gráficos puedan alcanzar su máximo potencial, creando los mejores diseños. Marcas de reconocido prestigio como Wacom y Huion.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 - [**Las Mejores Ofertas de Dispositivo de Diseño Gráfico del Amazon Prime Day**](#las-mejores-ofertas-de-dispositivo-de-diseño-gráfico-del-amazon-prime-day)
   - [Wacom, no demasiado rebajadas 😿](#wacom-no-demasiado-rebajadas-)
 - [HUION](#huion)

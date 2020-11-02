@@ -18,6 +18,8 @@ img: /assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-beats-6.web
 
 En esta publicación vamos a realizar un repaso, entre algunos de los más espectaculares y mejores auriculares para diseñadores, gamers y todo aquel que ame la tecnología al máximo.. 😻
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 Si lo que te interesa, es conocer [**los mejores auriculares para jugar**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para jugar"), no dudes de visitar mi página de [**cascos para juegos**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para gamers del mundo").
 
 > 🔥 Quizás te interese: [Los Mejores Auriculares en Oferta 2021](https://www.amazon.es/shop/cibercursos?listId=1RT24JM35NPPJ&ref=cm_sw_tw_r_inf_list_own_cibercursos_dp_Z1tRolhJAm9X6 "Los mejores auriculares en oferta 2021")

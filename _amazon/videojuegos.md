@@ -18,7 +18,11 @@ img: /assets/img/paginas/amazon/consola-mando-joystick-1.webp
 
 [🎯 Videoconsolas](/videojuegos/#-videoconsolas){: .btn .btn--inverse .btn--large} [🎮 Videojuegos](/videojuegos/#-videojuegos){: .btn .btn--inverse .btn--large}
 
-Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espectaculares que van a llegar durante todo el año 2020 y el próximo 2021; y las mejores videoconsolas y ordenadores de sobremesa; con los que disfrutar de las mayores capacidades de las nuevas tecnologías para disfrutar al máximo.
+Breve resumen de las mejores ofertas de los videojuegos más espectaculares que han llegado durante el año 2020 y los videojuegos y videoconsolas que vendrán, el próximo 2021.
+
+Ánimate a probar, y disfruta de la mayor capacidad de las nuevas tecnologías para disfrutar al máximo, en 2021.
+
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
 
 [💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -26,11 +30,11 @@ Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espect
 
 <!-- Cyberpunk 2077, Doom Eternal, Marvel´s Avengers, Halo Infinity, The Last of Us Part II, Dying Light 2, Final Fantasy VII Remake, Animal Crossing, Hal-life: Alyx, Resident Evil 3, Ori and the Will of the Wisps, Ghost of Tsuhima, Gods y Monsters, Vampire: The Masquerade - Bloodlines 2, Nioh 2, Wasteland 3, Lego Star Wars The Skywalker Saga, Dragon Ball z: Kakarot, Minecraft Dungeons, Tom Clancy´s Rainbow, Bleeding Edge, No More Heroes III, Psychonauts, Empire of Sin, Dreams, Skull y Bones, 12 Minutes, Outriders, Sony Marvel´s Iron Man, Zombie Army 4, Warcraft III, Journey to the Savage Planet, Predator: Hunting Grounds, New World, Tales Of Arise, Spiritfarer, Godfall, Disintegration, Temtem, Yakuza: Like a Dragon, Mount t Blade II, System Shock, Oddworld: Soulstorm, Crusader: Kings III, Carrion, One Punch Man: A Hero Nobody Knows, Little Nightmares II, Streets of Rage 4, CAPCOM: MegaManZero, CrossFire X, Humankind. -->
 
-## Cyberpunk 2077
+## Battlefield V
 
-[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank" rel="nofollow,noreferrer"}
+[![Battlefield V](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Battlefield V para PS4"){:target="_blank" rel="nofollow,noreferrer"}
 
-[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🎯 VIDEOCONSOLAS
 
@@ -76,7 +80,7 @@ Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espect
 
 [![Battlefield 5](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Battlefield 5 PS 4"){:target="_blank" rel="nofollow,noreferrer"}
 
-[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D87MCR7&linkId=cdb5177ff8d6d9484250ba7375a049a2"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D87SQ67&linkId=41fec9eaa0b4d0474ed5419cc0385b97"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D85BDX9&linkId=d4be04513a5f41e67debb5f22c2c0c83"></iframe>
 
@@ -84,7 +88,7 @@ Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espect
 
 [![Ghost Recon Breakpoint](https://i.ibb.co/jr0C5Df/image.png)](https://amzn.to/37Mo3dY){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 PS 4 🎯](https://amzn.to/37Mo3dY){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/2OSfe9W){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PS 4 🎯](https://amzn.to/37Mo3dY){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/2OSfe9W){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RHTDGB2&linkId=184ea4d43aca7a5c0cfec463db087d20"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RL2KMYQ&linkId=44a6d30a4f2e15ed17fbffaf833581f5"></iframe>
 
@@ -92,7 +96,7 @@ Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espect
 
 [![Take Two Interactive - Red Dead Redemption 2](https://i.ibb.co/WvPW0dQ/image.png)](https://amzn.to/2R1oyuP){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 PS 4 🎯](https://amzn.to/2R1oyuP){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/2qXcQqd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PS 4 🎯](https://amzn.to/2R1oyuP){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/2qXcQqd){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01M9COSMD&linkId=0adec0a5564548d1738994a79ae7b313"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01M6YIR2E&linkId=7e00ebd7d7ec7f59846654b70d6ecba4"></iframe>
 
@@ -104,15 +108,15 @@ Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espect
 
 [![Need for Speed Heat](https://i.ibb.co/T0br3n5/image.png)](https://amzn.to/2DpOIiy){:target="_blank" rel="nofollow,noreferrer"}
 
-[💻 PC 🎯](https://amzn.to/35Iylde){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2DpOIiy){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/2snlRct){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 PC 🎯](https://amzn.to/35Iylde){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2DpOIiy){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/2snlRct){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07WW1HC5D&linkId=d2b23171322d8ab2c239cbeb9da32dc0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07WSXBN1D&linkId=2a5a45bb75120ec0b9e0db0e21bbd92d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07WSXCDJT&linkId=c84de2157482637486853b0638ec4d56"></iframe>
 
 ## F1 2019
 
-[![F1 2019](https://i.ibb.co/5sWkw7g/image.png)]([ "XBox One"](https://amzn.to/35KBEkc)){:target="_blank" rel="nofollow,noreferrer"}
+[![F1 2019](https://i.ibb.co/5sWkw7g/image.png)](https://amzn.to/35KBEkc){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 PS 4 🎯](https://amzn.to/35KBEkc){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PS 4 🎯](https://amzn.to/35KBEkc){: .btn .btn-outline-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07ZHV5RDS&linkId=d81a15073b180cb3c4b6db69ae9bfa4a"></iframe>
 
