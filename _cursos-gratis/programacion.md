@@ -6,9 +6,9 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Programación]
-title: "▷ 125 Mejores Cursos GRATIS de Programación 2021"
-description: "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021"
-excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021"
+title: "▷ 125 Mejores Cursos GRATIS de Udemy Programación 2021"
+description: "Los mejores cursos gratuitos con los que aprender todo sobre programación y cualquier lenguaje para programar 2021"
+excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre programación y cualquier lenguaje para programar 2021"
 date: 2020-10-25T08:22:00.000+02:00
 permalink: /cursos-programacion/
 canonical_URL: https://ciberninjas.com/cursos-programacion/
@@ -500,7 +500,7 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 ### **Cursos Gratis de CodeIgniter**
 
-- [CodeIgniter](https://www.youtube.com/playlist?list=PLQBsSZ4qJdGmDU3-an3F60vx35IP47xYV){:target="_blank" rel="nofollow,noreferrer"} (Luis Pastén, Udemy) (2019) + [CodeIgniter 4](https://www.youtube.com/playlist?list=PLQBsSZ4qJdGkMC9t1c85-zWQoV2JERGxI){:target="_blank" rel="nofollow,noreferrer"} (2019)
+- [CodeIgniter](https://www.youtube.com/playlist?list=PLQBsSZ4qJdGmDU3-an3F60vx35IP47xYV){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2019) + [CodeIgniter 4](https://www.youtube.com/playlist?list=PLQBsSZ4qJdGkMC9t1c85-zWQoV2JERGxI){:target="_blank" rel="nofollow,noreferrer"} (2019)
 - [CodeIgniter 3 de cero a Experto. El mejor framework de PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcodeigniter-desde-cero-tu-primera-aplicacion-web%2F){:target="_blank" rel="nofollow,noreferrer"} (David Navarro, Udemy)
 - [CodeIgniter 3 y Laravel 7 para principiantes: Primeros pasos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcodeigniter-para-principiantes-primeros-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [CodeIgniter 4 de cero a Experto. El mejor framework de PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftutorial-codeigniter-4-de-cero-a-experto%2F){:target="_blank" rel="nofollow,noreferrer"} (David Navarro, Udemy)
