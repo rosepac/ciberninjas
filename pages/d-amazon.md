@@ -8,7 +8,7 @@ canonical_URL: https://ciberninjas.com/amazon/
 published: true
 ---
 
-> **"Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados), ganaré una comisión con las compras que realices"**.
+> **"Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión con las compras que realices desde cualquier enlace que te encuentres a continuación"**.
 
 El Black Friday a comenzado anticipadamente, y pronto se conocerá **las mejores ofertas y chollos del Black Friday 2020**.
 
