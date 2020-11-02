@@ -32,6 +32,8 @@ El diseño actualizado de Fire TV incluye una página de inicio personalizada do
 
 También apoyará los perfiles de usuario introducidos recientemente para hasta seis personas en un hogar. Los perfiles permiten a los usuarios realizar un seguimiento de los programas que están viendo y ver recomendaciones adaptadas a sus propios intereses.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 La navegación de Fire TV también se ha simplificado. Atrás quedó la larga fila de pestañas en la parte superior de la pantalla para hacer clic. En cambio, la navegación se ha desplazado hacia abajo en la página junto al ícono de su perfil y ahora incluye pestañas para Inicio, Buscar, En vivo y Biblioteca, junto con una fila de sus aplicaciones favoritas.
 
 [RESERVA en PREVENTA YA el Fire Stick TV](https://amzn.to/33131HZ "Compra ya el nuevo fire stick tv 2020"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -34,6 +34,8 @@ Amazon ha estado agregando un montón de funciones de software de terceros al Sh
 
 Todos esos son grandes logros en la era del trabajo desde casa, pero Netflix especialmente, ya que el Show recibió un gran golpe cuando Google eliminó el soporte de YouTube de los dispositivos Echo.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 El [Echo Show 10](https://amzn.to/330Lvnl){:target="_blank" rel="nofollow,noreferrer"} cuesta 249,99 €, bastante caro, en lo que respecta a estas pantallas inteligentes. Sin lugar a dudas mucho de lo que estás pagando es por el costoso mecanismo de reconocimiento que es capaz de perseguirte mientras te mueve; puede ser, que para muchas personas ese añadido no merezca del todo la pena.
 
 - [**Conociendo más el nuevo Echo Show 10**](#conociendo-más-el-nuevo-echo-show-10)

@@ -28,6 +28,8 @@ Este nuevo producto, viene a ser una mezcla conjunta de un dispositivo Echo Dot 
 
 Recuerda, que siempre puedes esperar a comprar, uno de estos nuevos dispositivos. En **[el próximo Amazon Prime Day 2020](https://ciberninjas.com/amazon-prime-day-fecha-2020/)**.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 El Fire Tv Cube está creado principalmente para sacar todo el partido de [**las grandes televisiones que permiten resoluciones en 4K HDR**](https://amzn.to/3i40wt1){:target="_blank" rel="nofollow,noreferrer"}.
 
 - [**Conociendo más al nuevo Fire TV Cube**](#conociendo-más-al-nuevo-fire-tv-cube)
