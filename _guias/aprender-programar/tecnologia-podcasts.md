@@ -72,6 +72,7 @@ A continuación vas a encontrar los **mejores podcasts de programación, diseño
 ## **Podcasts Random**
 
 - [Cosas de Internet](https://cosasdeinternet.fm/episodios){:target="_blank" rel="nofollow,noreferrer"} (podcast)
+- [DevRel](https://www.devrel.es/){:target="_blank" rel="nofollow,noreferrer"} (podcast)
 - [Doomling & Chill](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNGM2ZjE5MC9wb2RjYXN0L3Jzcw==){:target="_blank" rel="nofollow,noreferrer"} (podcast)
 - [Educando Geek](https://educandogeek.github.io/){:target="_blank" rel="nofollow,noreferrer"} (podcast)
 - [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html){:target="_blank" rel="nofollow,noreferrer"} (podcast)
