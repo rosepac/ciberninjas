@@ -19,6 +19,8 @@ Más que solo para decorar su ya impresionante equipo, los mejores teclados ofre
 
 Por lo tanto, aunque obtener un excelente periférico de escritura puede ser lo último que tenga en mente, es importante que invierta en uno de los mejores teclados, especialmente si pasa mucho tiempo en la computadora. Marcará una gran diferencia, mejorará su experiencia general en todos los ámbitos y brindará la máxima comodidad con el rebote, el desplazamiento y la respuesta táctil adecuados.
 
+> **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
+
 Los mejores teclados para 2021 superan con creces a sus homólogos inferiores. Entonces, desde los mejores teclados para juegos hasta los ideales para la productividad y el trabajo creativo, aquí están nuestras mejores opciones. Para asegurarnos de que también obtenga el mejor precio disponible, también hemos incluido nuestra herramienta de comparación de precios.
 
 - [1. **Roccat Vulcan 120 Aimo**](#1-roccat-vulcan-120-aimo)
