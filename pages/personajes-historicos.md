@@ -3,11 +3,11 @@ layout: page
 hide: true
 author: rosepac
 bootstrap: true
-title: "Personajes Históricos en la Historia de las Computadoras"
-description: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
-excerpt: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
+title: "Personajes Históricos de la Historia de las Computadoras"
+description: 'Los personajes históricos más importantes en la historia de la creación de las computadoras'
+excerpt: 'Los personajes históricos más importantes en la historia de la creación de las computadoras'
 entries_layout: default
-date: 2019-09-11T16:18:02-05:00
+date: 2020-11-03T16:18:02-05:00
 last_modified_at: 2019-10-30T15:40:02-05:00
 permalink: /personajes-historicos/
 canonical_URL: https://ciberninjas.com/personajes-historicos/
