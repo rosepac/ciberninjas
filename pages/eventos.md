@@ -22,33 +22,23 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 <iframe src="https://calendar.google.com/calendar/embed?height=410&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=AGENDA&amp;showPrint=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="410" frameborder="0" scrolling="no"></iframe>
 
-- [**Agenda y Eventos tecnológicos de Octubre**](#agenda-y-eventos-tecnológicos-de-octubre)
 - [**Agenda y Eventos tecnológicos de Noviembre**](#agenda-y-eventos-tecnológicos-de-noviembre)
 - [**Agenda y Eventos tecnológicos de Diciembre**](#agenda-y-eventos-tecnológicos-de-diciembre)
 - [**Agenda y Eventos Tecnológicos Más Importantes en Inglés 📆**](#agenda-y-eventos-tecnológicos-más-importantes-en-inglés-)
 - [**Agenda y Eventos tecnológicos de Septiembre**](#agenda-y-eventos-tecnológicos-de-septiembre)
-
-## **Agenda y Eventos tecnológicos de Octubre**
-
-### 🔔 31 de Octubre  <!-- omit in toc -->
-
-- Perú Hack 🎥 [DIRECTO](https://www.twitch.tv/peruhackcon/schedule){:target="_blank" rel="nofollow, noreferrer"} (15:20 H. ESP.) 📆 [Agenda](https://peruhack.org/#agenda){:target="_blank" rel="nofollow, noreferrer"}
-
-<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
-
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
+- [**Agenda y Eventos tecnológicos de Octubre**](#agenda-y-eventos-tecnológicos-de-octubre)
 
 ## **Agenda y Eventos tecnológicos de Noviembre**
-
-### 🔔 2 de Noviembre  <!-- omit in toc -->
-
-- JSConf MX online [MÁS INFORMACIÓN Y REGISTRO](https://hopin.to/events/jsconf-mx-online){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 3 de Noviembre  <!-- omit in toc -->
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/)
 - Raiola Conferencias - [MÁS INFORMACIÓN Y REGISTRO](https://raiolanetworks.es/rmc-online/){:target="_blank" rel="nofollow, noreferrer"}
+
+<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
 
 ### 🔔 4 de Noviembre  <!-- omit in toc -->
 
@@ -62,7 +52,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ### 🔔 11 de Noviembre  <!-- omit in toc -->
 
-- Webinar Desarrollo en la nube: De contenedores a OpenShift [MÁS INFORMACIÓN Y REGISTRO](https://www.eventbrite.es/e/entradas-webinar-desarrollo-en-la-nube-de-contenedores-a-openshift-122566962083?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Webinar Desarrollo en la nube: De contenedores a OpenShift: [MÁS INFORMACIÓN Y REGISTRO](https://www.eventbrite.es/e/entradas-webinar-desarrollo-en-la-nube-de-contenedores-a-openshift-122566962083?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 16 de Noviembre  <!-- omit in toc -->
 
@@ -864,6 +854,8 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - Modelado 3D con Tinkercad 👉 [REGISTRO](https://www.eventbrite.com.ar/e/modelado-3d-con-tinkercad-tickets-118359363041?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"} (15:00)
 - Primavera UX UI: Diseño UI. Diseñando la interfaz 👉 [REGISTRO](https://www.eventbrite.com.ar/e/primavera-uxui-diseno-de-productos-digitales-tickets-119103237991){:target="_blank" rel="nofollow, noreferrer"} (23:00)
 
+## **Agenda y Eventos tecnológicos de Octubre**
+
 ### 🔔 1 de Octubre  <!-- omit in toc -->
 
 - Dev Day 4 Women Virtual 👉 [REGISTRO](https://www.crowdcast.io/e/dd4w_20/register){:target="_blank" rel="nofollow, noreferrer"} 🗓 [PROGRAMA](https://devday4w.com/agenda-2020/){:target="_blank" rel="nofollow, noreferrer"}
@@ -981,3 +973,11 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 29 de Octubre  <!-- omit in toc -->
 
 - Aplicaciones: ¿Cómo desarrollo y entrego mi mejor software? 👉 [REGISTRO](https://www.ituser.es/it-television/2020/08/aplicaciones-como-desarrollo-y-entrego-mi-mejor-software){:target="_blank" rel="nofollow, noreferrer"} (11:00 AM)
+
+### 🔔 31 de Octubre  <!-- omit in toc -->
+
+- Perú Hack 🎥 [DIRECTO](https://www.twitch.tv/peruhackcon/schedule){:target="_blank" rel="nofollow, noreferrer"} (15:20 H. ESP.) 📆 [Agenda](https://peruhack.org/#agenda){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 2 de Noviembre  <!-- omit in toc -->
+
+- JSConf MX online [MÁS INFORMACIÓN Y REGISTRO](https://hopin.to/events/jsconf-mx-online){:target="_blank" rel="nofollow, noreferrer"}
