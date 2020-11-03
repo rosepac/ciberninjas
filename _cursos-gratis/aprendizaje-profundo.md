@@ -69,7 +69,7 @@ img: "/assets/img/paginas-cursos/cursos-machine-deep-learning.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## **Cursos Gratis de Machine Learning**
+## **Los Mejores Cursos Gratis de Machine Learning**
 
 - [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
 - [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)

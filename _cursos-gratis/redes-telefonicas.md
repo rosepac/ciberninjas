@@ -71,7 +71,7 @@ Cursos gratis de redes de telefonía y comunicaciones móviles, con los que conv
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## **Cursos Gratis de Redes de Telefonía**
+## **Los Mejores Cursos Gratis de Redes de Telefonía**
 
 - [Antenas y telescopios: control de seguimiento (2012)](https://ocw.ehu.eus/course/view.php?id=45){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Comunicaciones Digitales (2012)](http://ocw.uma.es/ingenierias/Comunicacion-digital){:target="_blank" rel="nofollow,noreferrer"} (OCW)

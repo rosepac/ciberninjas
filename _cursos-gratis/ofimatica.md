@@ -75,28 +75,28 @@ Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-- [**Cursos Gratis de Office**](#cursos-gratis-de-office)
-- [**Cursos Gratis de Acces**](#cursos-gratis-de-acces)
-- [**Cursos Gratis de Excel**](#cursos-gratis-de-excel)
-- [**Cursos Gratis de Powerpoint**](#cursos-gratis-de-powerpoint)
-- [**Cursos Gratis de Word**](#cursos-gratis-de-word)
-- [**Cursos Gratis Google Drive**](#cursos-gratis-google-drive)
-- [**Cursos Gratis Contabilidad**](#cursos-gratis-contabilidad)
-- [**Cursos Gratis Software Libre**](#cursos-gratis-software-libre)
-- [**Cursos Gratis Informática y Gestión**](#cursos-gratis-informática-y-gestión)
+- [**Los Mejores Cursos Gratis de Office**](#los-mejores-cursos-gratis-de-office)
+- [**Los Mejores Cursos Gratis de Acces**](#los-mejores-cursos-gratis-de-acces)
+- [**Los Mejores Cursos Gratis de Excel**](#los-mejores-cursos-gratis-de-excel)
+- [**Los Mejores Cursos Gratis de Powerpoint**](#los-mejores-cursos-gratis-de-powerpoint)
+- [**Los Mejores Cursos Gratis de Word**](#los-mejores-cursos-gratis-de-word)
+- [**Los Mejores Cursos Gratis Google Drive**](#los-mejores-cursos-gratis-google-drive)
+- [**Los Mejores Cursos Gratis Contabilidad**](#los-mejores-cursos-gratis-contabilidad)
+- [**Los Mejores Cursos Gratis Software Libre**](#los-mejores-cursos-gratis-software-libre)
+- [**Los Mejores Cursos Gratis Informática y Gestión**](#los-mejores-cursos-gratis-informática-y-gestión)
 
-## **Cursos Gratis de Office**
+## **Los Mejores Cursos Gratis de Office**
 
 - [Microsoft Office 2013](https://www.youtube.com/playlist?list=PL2994D8A0985CFC9A) (Pablo Martinez, YouTube)
 
-## **Cursos Gratis de Acces**
+## **Los Mejores Cursos Gratis de Acces**
 
 - [Curso de Acces 2010 Avanzado](https://www.youtube.com/playlist?list=PL87EB5DB749276DAF){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Curso de Acces 2010 Básico](https://www.youtube.com/playlist?list=PLDA8B66B264169835){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Diseño de sistemas de información gerencial para intranet con Microsoft Access](https://www.edx.org/course/diseno-de-sistemas-de-informacion-gerencial-para-2){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad del Rosario)
 
-## **Cursos Gratis de Excel**
+## **Los Mejores Cursos Gratis de Excel**
 
 - [Curso de Excel 2010 Avanzado](https://www.youtube.com/playlist?list=PLFED09792AB0E606F){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Curso de Excel 2010 Básico](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkCs-P-AnQhxsSyxSxv9jfI){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
@@ -112,7 +112,7 @@ Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 - [Macros y VBA para Excel desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmacros-y-vba-para-excel-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Operaciones financieras en Excel](https://www.youtube.com/playlist?list=PLFNWPvtjBMjtG2o48zgCj2fItp53dPBc4) (Excel y Más, YouTube)
 
-## **Cursos Gratis de Powerpoint**
+## **Los Mejores Cursos Gratis de Powerpoint**
 
 - [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
 - [Diseña presentaciones eficaces con PowerPoint](https://www.edx.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
@@ -120,25 +120,25 @@ Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 - [Introducción al PowerPoint 2013](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-al-powerpoint-2013%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Microsoft Powerpoint 2013](https://www.youtube.com/playlist?list=PL5vjFJ0wFekJnqeP2qZNHGft7SoIGJu8B) (Yoney Gallardo, YouTube)
 
-## **Cursos Gratis de Word**
+## **Los Mejores Cursos Gratis de Word**
 
 - [Curso de Word 2010 Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnPxtSjts4Tieg4AbIRYz1K){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 - [Introducción a Word 2010](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-word-2010%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Microsoft Word 2013](https://www.youtube.com/playlist?list=PLomN84AdULIAyCVh5aH55gkbANr7dBctW){:target="_blank" rel="nofollow,noreferrer"} (Aula Click, YouTube)
 - [Word intermedio: herramientas de formato y productividad](https://www.edx.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 
-## **Cursos Gratis Google Drive**
+## **Los Mejores Cursos Gratis Google Drive**
 
 - [Aprende a usar Google Drive de una manera fácil y sencilla](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-usar-google-drive-de-una-manera-facil-y-sencilla%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Domina la hoja de cálculo de Google sin esfuerzo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdomina-la-hoja-de-calculo-de-google-sin-esfuerzo%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## **Cursos Gratis Contabilidad**
+## **Los Mejores Cursos Gratis Contabilidad**
 
 - [Contabilidad básica](https://www.academiajaf.com/como/aprender/contabilidad/contabilidad-curso-basico/135-capitulo-001-introduccion-a-la-contabilidad){:target="_blank" rel="nofollow,noreferrer"} (Academia JAF)
 
-## **Cursos Gratis Software Libre**
+## **Los Mejores Cursos Gratis Software Libre**
 
-## **Cursos Gratis Informática y Gestión**
+## **Los Mejores Cursos Gratis Informática y Gestión**
 
 - [Informática de Gestión (2009)](http://ocw.uc3m.es/ingenieria-informatica/informatica-de-gestion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Informática de Gestión (2010)](https://ocw.ehu.eus/file.php/122/Informatica_gestion/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)

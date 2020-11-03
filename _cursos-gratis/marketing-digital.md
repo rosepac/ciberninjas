@@ -66,7 +66,7 @@ img: "/assets/img/paginas-cursos/cursos-marketing-digital.webp"
 }
 </script>
 
-## **Cursos Gratis de Marketing Digital**
+## **Los Mejores Cursos Gratis de Marketing Digital**
 
 - [Automatización de redes sociales: Unifica tus publicaciones](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fautomatizacion-de-redes-sociales-unifica-tus-publicaciones%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Master en Marketing Digital](https://campus.neetwork.com/p/master-gratuito-en-marketing-digital-y-analitica-web){:target="_blank" rel="nofollow,noreferrer"}

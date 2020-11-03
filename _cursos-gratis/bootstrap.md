@@ -68,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-bootstrap.webp"
 
 Los mejores cursos en español para estudiar el framework de Bootstrap.
 
-## **Cursos Gratis Bootstrap**
+## **Los Mejores Cursos Gratis Bootstrap**
 
 - [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-una-landing-page-que-enamore-sin-saber-programar%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Bootstrap 4. Fundamentos: crea tu primer sitio responsive](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F){:target="_blank" rel="nofollow,noreferrer"} (Erick Mines, Udemy)

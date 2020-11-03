@@ -72,14 +72,14 @@ Los mejores cursos gratuitos con los que aprender los conceptos de SQL y bases d
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-- [**Cursos Gratis de Bases de Datos**](#cursos-gratis-de-bases-de-datos)
-- [**Cursos Gratis de SQL**](#cursos-gratis-de-sql)
+- [**Los Mejores Cursos Gratis de Bases de Datos**](#los-mejores-cursos-gratis-de-bases-de-datos)
+- [**Los Mejores Cursos Gratis de SQL**](#los-mejores-cursos-gratis-de-sql)
 - [**¿Qué es el lenguaje de programación SQL?**](#qué-es-el-lenguaje-de-programación-sql)
 - [**¿Cuáles son los requisitos previos para aprender SQL?**](#cuáles-son-los-requisitos-previos-para-aprender-sql)
 - [**¿Por qué debería aprender SQL?**](#por-qué-debería-aprender-sql)
 - [**¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de SQL?**](#cómo-ciberninjas-va-a-ayudarte-a-encontrar-los-mejores-tutoriales-de-sql)
 
-## **Cursos Gratis de Bases de Datos**
+## **Los Mejores Cursos Gratis de Bases de Datos**
 
 - [Administración de Bases de Datos](https://ouo.io/3lo31e){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Administración de Oracle](https://ouo.io/mFbGMZ){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2010)
@@ -108,7 +108,7 @@ Los mejores cursos gratuitos con los que aprender los conceptos de SQL y bases d
 - [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-## **Cursos Gratis de SQL**
+## **Los Mejores Cursos Gratis de SQL**
 
 - [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
 - [Introducción a SQL con Oracle 11g](https://kutt.it/intro-sql-oracle-11){:target="_blank" rel="nofollow,noreferrer"} (Udemy)

@@ -69,7 +69,7 @@ img: "/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp"
 A continuación vas a encontrar **los mejores cursos de lenguajes de Estilos, como CSS o XSL y los preprocesadores CSS**.
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
 
-## **Cursos Gratis de Lenguaje de estilos CSS**
+## **Los Mejores Cursos Gratis de Lenguaje de estilos CSS**
 
 - [Aprende CSS para dar estilo a tus páginas web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-css-para-dar-estilo-a-tus-paginas-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Aprende las bases del CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-basico-de-css%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -81,7 +81,7 @@ A continuación vas a encontrar **los mejores cursos de lenguajes de Estilos, co
 - [CSS Grid](/👨‍🏫-curso-css-grid-purito-codigo) (Purito Código, Youtube)
 - [CSS Variables](https://ed.team/cursos/variables-css) (EdTeam)
 
-### **Cursos Gratis de Flexbox**
+### **Los Mejores Cursos Gratis de Flexbox**
 
 - [Flexbox - Armar un sitio web responsive con CSS3](https://www.youtube.com/playlist?list=PLPl81lqbj-4JfZ9Ln5ojAl1GiORf2aK9U){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
 - [Flexbox desde 0](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-flexbox-desde-0%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -89,7 +89,7 @@ A continuación vas a encontrar **los mejores cursos de lenguajes de Estilos, co
 
 ## **Cursos Gratis de LESS**
 
-## **Cursos Gratis de SASS**
+## **Los Mejores Cursos Gratis de SASS**
 
 - [CSS con SASS](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, YouTube)
 - [Curso de SASS Básico. Principantes paso a paso](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)

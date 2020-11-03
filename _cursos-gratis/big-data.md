@@ -69,7 +69,7 @@ img: "/assets/img/paginas-cursos/cursos-big-data.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## ** Cursos Gratis de Big Data**
+## **Los Mejores Cursos Gratis de Big Data**
 
 - [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)

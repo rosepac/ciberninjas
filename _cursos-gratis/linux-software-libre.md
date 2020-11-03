@@ -66,16 +66,16 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 }
 </script>
 
-- [**Cursos Gratis del Ecosistema de Software Libre**](#cursos-gratis-del-ecosistema-de-software-libre)
-  - [**Cursos Gratis de Linux**](#cursos-gratis-de-linux)
-  - [**Cursos Gratis de Ubuntu**](#cursos-gratis-de-ubuntu)
+- [**Los Mejores Cursos Gratis del Ecosistema de Software Libre**](#los-mejores-cursos-gratis-del-ecosistema-de-software-libre)
+  - [**Los Mejores Cursos Gratis de Linux**](#los-mejores-cursos-gratis-de-linux)
+  - [**Los Mejores Cursos Gratis de Ubuntu**](#los-mejores-cursos-gratis-de-ubuntu)
 
-## **Cursos Gratis del Ecosistema de Software Libre**
+## **Los Mejores Cursos Gratis del Ecosistema de Software Libre**
 
 - [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Programación con Qt](https://www.youtube.com/playlist?list=PL54fdmMKYUJvn4dAvziRopztp47tBRNum){:target="_blank" rel="nofollow,noreferrer"} (Duarte Corporation, YouTube)
 
-### **Cursos Gratis de Linux**
+### **Los Mejores Cursos Gratis de Linux**
 
 - [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/course/shell-interprete-de-comandos-de-linux-aprende-desde-cero/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2020)
 - [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
@@ -85,7 +85,7 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 - [Red Hat Performance Tuning](https://www.udemy.com/course/rh-performance-tuning/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 - [Vim, aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 
-### **Cursos Gratis de Ubuntu**
+### **Los Mejores Cursos Gratis de Ubuntu**
 
 - [Curso de Ubuntu](https://tv.um.es/canal?serie=4581){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2011)
 - [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank" rel="nofollow,noreferrer"} (Youtube)

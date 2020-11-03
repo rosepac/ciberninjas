@@ -69,13 +69,13 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-- [**Cursos Gratis de Metodologías de Desarrollo**](#cursos-gratis-de-metodologías-de-desarrollo)
-- [**Cursos Gratis de Integración Continua**](#cursos-gratis-de-integración-continua)
-- [**Cursos Gratis de Grunt**](#cursos-gratis-de-grunt)
-  - [**Cursos Gratis de Estudiar**](#cursos-gratis-de-estudiar)
-- [**Cursos Gratis de QA Pruebas**](#cursos-gratis-de-qa-pruebas)
+- [**Los Mejores Cursos Gratis de Metodologías de Desarrollo**](#los-mejores-cursos-gratis-de-metodologías-de-desarrollo)
+- [**Los Mejores Cursos Gratis de Integración Continua**](#los-mejores-cursos-gratis-de-integración-continua)
+- [**Los Mejores Cursos Gratis de Grunt**](#los-mejores-cursos-gratis-de-grunt)
+- [**Los Mejores Cursos Gratis de Estudiar**](#los-mejores-cursos-gratis-de-estudiar)
+- [**Los Mejores Cursos Gratis de QA Pruebas**](#los-mejores-cursos-gratis-de-qa-pruebas)
 
-## **Cursos Gratis de Metodologías de Desarrollo**
+## **Los Mejores Cursos Gratis de Metodologías de Desarrollo**
 
 - [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
@@ -105,19 +105,19 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 - [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 <!-- busquedas relacionadas: agilidad, lean, Gestión de proyectos con metodologías ágiles y enfoques Lean, gestion de proyectos con git y github -->
 
-## **Cursos Gratis de Integración Continua**
+## **Los Mejores Cursos Gratis de Integración Continua**
 
 - [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## **Cursos Gratis de Grunt**
+## **Los Mejores Cursos Gratis de Grunt**
 
 - [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### **Cursos Gratis de Estudiar**
+## **Los Mejores Cursos Gratis de Estudiar**
 
 - [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank" rel="nofollow,noreferrer"}
 
-## **Cursos Gratis de QA Pruebas**
+## **Los Mejores Cursos Gratis de QA Pruebas**
 
 - [Curso de programación para QA](https://jj.github.io/curso-tdd/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [Repositorio de Github](https://jj.github.io/curso-tdd/) (Github)
 

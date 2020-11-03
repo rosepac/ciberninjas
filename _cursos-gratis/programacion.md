@@ -82,43 +82,43 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 
 <span id="menu"><strong>Menú de Cursos Gratuitos de Lenguajes de Programación</strong></span>
 
-- [**Curso Gratis C**](#curso-gratis-c)
-- [**Curso Gratis C#**](#curso-gratis-c-1)
-- [**Cursos Gratis C++**](#cursos-gratis-c)
+- [**Los Mejores Curso Gratis C**](#los-mejores-curso-gratis-c)
+- [**Los Mejores Curso Gratis C#**](#los-mejores-curso-gratis-c-1)
+- [**Los Mejores Cursos Gratis C++**](#los-mejores-cursos-gratis-c)
   - [¿Cuánto tiempo se tarda en aprender C ++?](#cuánto-tiempo-se-tarda-en-aprender-c-)
   - [¿Es necesario aprender C antes de aprender C ++?](#es-necesario-aprender-c-antes-de-aprender-c-)
-- [**Curso Gratis Cobol**](#curso-gratis-cobol)
-- [**Curso Gratis Ensamblador**](#curso-gratis-ensamblador)
-- [**Cursos Gratis Go**](#cursos-gratis-go)
+- [**Los Mejores Curso Gratis Cobol**](#los-mejores-curso-gratis-cobol)
+- [**Los Mejores Cursos Gratis Ensamblador**](#los-mejores-cursos-gratis-ensamblador)
+- [**Los Mejores Cursos Gratis Go**](#los-mejores-cursos-gratis-go)
   - [¿Qué es Golang?](#qué-es-golang)
   - [¿Por qué Golang es tan popular?](#por-qué-golang-es-tan-popular)
-- [**Cursos Gratis Java**](#cursos-gratis-java)
-- [**Cursos Gratis de Framework Java**](#cursos-gratis-de-framework-java)
+- [**Los Mejores Cursos Gratis Java**](#los-mejores-cursos-gratis-java)
+- [**Los Mejores Cursos Gratis de Framework Java**](#los-mejores-cursos-gratis-de-framework-java)
   - [**Cursos Gratis de Apache Struts**](#cursos-gratis-de-apache-struts)
   - [**Cursos Gratis de Play**](#cursos-gratis-de-play)
   - [PrimeFaces](#primefaces)
   - [.NET Core](#net-core)
   - [**Cursos Gratis de Spring**](#cursos-gratis-de-spring)
   - [**Cursos Gratis de Struts**](#cursos-gratis-de-struts)
-- [Javascript](#javascript)
-- [**Cursos Gratis de Javascript Framework**](#cursos-gratis-de-javascript-framework)
+- [**Los Mejores Cursos Gratis de Javascript**](#los-mejores-cursos-gratis-de-javascript)
+- [**Los Mejores Cursos Gratis de Frameworks de Javascript**](#los-mejores-cursos-gratis-de-frameworks-de-javascript)
   - [**¿Dónde puedo aprender JavaScript para principiantes?**](#dónde-puedo-aprender-javascript-para-principiantes)
-- [**Cursos Gratis de Kotlin**](#cursos-gratis-de-kotlin)
-- [**Cursos Gratis de Perl**](#cursos-gratis-de-perl)
-- [**Cursos Gratis de PHP**](#cursos-gratis-de-php)
-- [**Cursos Gratis de PHP Frameworks**](#cursos-gratis-de-php-frameworks)
+- [**Los Mejores Cursos Gratis de Kotlin**](#los-mejores-cursos-gratis-de-kotlin)
+- [**Los Mejores Cursos Gratis de Perl**](#los-mejores-cursos-gratis-de-perl)
+- [**Los Mejores Cursos Gratis de PHP**](#los-mejores-cursos-gratis-de-php)
+- [**Los Mejores Cursos Gratis de Frameworks de PHP**](#los-mejores-cursos-gratis-de-frameworks-de-php)
   - [**Cursos Gratis de CakePHP**](#cursos-gratis-de-cakephp)
   - [**Cursos Gratis de CodeIgniter**](#cursos-gratis-de-codeigniter)
   - [**Cursos Gratis de Laravel**](#cursos-gratis-de-laravel)
   - [**Cursos Gratis de Symfony**](#cursos-gratis-de-symfony)
   - [**Cursos Gratis de Yii**](#cursos-gratis-de-yii)
   - [**Cursos Gratis de Zend**](#cursos-gratis-de-zend)
-- [**Cursos Gratis de Python**](#cursos-gratis-de-python)
-- [Python Frameworks](#python-frameworks)
+- [**Los Mejores Cursos Gratis de Python**](#los-mejores-cursos-gratis-de-python)
+- [**Los Mejores Cursos Gratis de Frameworks de Python**](#los-mejores-cursos-gratis-de-frameworks-de-python)
   - [**Cursos Gratis de Django**](#cursos-gratis-de-django)
   - [**Cursos Gratis de Flask**](#cursos-gratis-de-flask)
 - [**Cursos Gratis Ruby**](#cursos-gratis-ruby)
-- [Cursos Gratis de Ruby Frameworks**](#cursos-gratis-de-ruby-frameworks)
+- [Cursos Gratis de Frameworks de Ruby**](#cursos-gratis-de-frameworks-de-ruby)
   - [**Cursos Gratis de Ruby and Rails Framework**](#cursos-gratis-de-ruby-and-rails-framework)
 - [Sistemas de ERP](#sistemas-de-erp)
 - [**Cursos Gratis de Swift**](#cursos-gratis-de-swift)
@@ -126,7 +126,7 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 - [**Typescript**](#typescript)
 - [**Cursos Gratis de Web Scraping**](#cursos-gratis-de-web-scraping)
 
-## **Curso Gratis C**
+## **Los Mejores Curso Gratis C**
 
 - [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -171,7 +171,7 @@ Si. Existen varias plataformas para aprender el lenguaje de programación C en l
 
 Puede aprender C en una clase física, así como en un aula virtual o la combinación de los dos. Los libros son su mejor amigo para aprender C sin importar si está conectado o sin conexión. Puede visitar sitios como geeksforgeeks.org para comprender discusiones de temas rudimentarios y avanzados.
 
-## **Curso Gratis C#**
+## **Los Mejores Curso Gratis C#**
 
 - [Algoritmos de Ordenación de C#](/algoritmos-ordenacion-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 - [Crear un bot en C#](/crear-bot-c-sharp-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
@@ -179,7 +179,7 @@ Puede aprender C en una clase física, así como en un aula virtual o la combina
 - [Desarrollo de aplicaciones para Windows con C# y Sql en 4 capas](https://www.youtube.com/playlist?list=PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
 - [Programación en C#](/c-sharp-con-nicosiored/){:target="_blank" rel="nofollow,noreferrer"} (Nicosio, YouTube)
 
-## **Cursos Gratis C++**
+## **Los Mejores Cursos Gratis C++**
 
 - [Estructura de datos en C++](/c-mas-con-programacion-explicada/){:target="_blank" rel="nofollow,noreferrer"} (Programación Explicada, YouTube)
 
@@ -223,19 +223,19 @@ Aprender la sintaxis de C ++ puede llevar entre un par de días y algunas semana
 
 No. No es absolutamente necesario aprender C de antemano aprendiendo C ++. Sin embargo, si ya tiene algunos conocimientos de C, seguramente mejorará su experiencia de aprendizaje de C ++.
 
-## **Curso Gratis Cobol**
+## **Los Mejores Curso Gratis Cobol**
 
 - [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## **Curso Gratis Ensamblador**
+## **Los Mejores Cursos Gratis Ensamblador**
 
 - [Programación en ensamblador 8086 con proteus](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-en-ensamblador-8086-con-proteus%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## **Cursos Gratis Go**
+## **Los Mejores Cursos Gratis Go**
 
 - [Curso de GO - De 0 a 100](/go-con-g-coding-academy/) (G Coding Academy, Youtube)
 - [Curso Interactivo de Go](https://gotour-es.appspot.com/#1) (HTML)
@@ -283,7 +283,7 @@ Golang or Go es un lenguaje de programación de código abierto que facilita el 
 
 Golang admite la recolección automática de basura y la concurrencia. Además, tiene un excelente soporte para la verificación de errores y es altamente escalable. Además de todos ellos, es muy simple y un lenguaje de programación ligero de código abierto desarrollado y mantenido por Google.
 
-## **Cursos Gratis Java**
+## **Los Mejores Cursos Gratis Java**
 
 - [Acceso a bases de datos en Java](http://ocw.upm.es/course/acceso-bases-datos-java){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Curso básico de Java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-programacion-java%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -303,7 +303,7 @@ Golang admite la recolección automática de basura y la concurrencia. Además, 
 - [Taller Práctico de Java Server Faces - JSF](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWUt7ZVM8BR8gOqFTVlVGuq){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 - [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 
-## **Cursos Gratis de Framework Java**
+## **Los Mejores Cursos Gratis de Framework Java**
 
 ### **Cursos Gratis de Apache Struts**
 
@@ -392,7 +392,7 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 - Cursos y certificaciones online
 - Lecciones en video de YouTube
 
-## Javascript
+## **Los Mejores Cursos Gratis de Javascript**
 
 - [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 - [Curso básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
@@ -403,7 +403,7 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 - [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Javascript desde cero](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (YouTube)
 
-## **Cursos Gratis de Javascript Framework**
+## **Los Mejores Cursos Gratis de Frameworks de Javascript**
 
 > Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual; y considerar que en líneas generales se suelen dedicar hacía ese enfoque del desarrollo móvil / web.
 {: .notice--info}
@@ -457,19 +457,19 @@ Puede ejecutar el código JavaScript mediante:
 
 Lo mejor para comenzar a aprender JS es con libros. No obstante, también puede comenzar JavaScript con videos de YouTube y tutoriales gratuitos de JavaScript.
 
-## **Cursos Gratis de Kotlin**
+## **Los Mejores Cursos Gratis de Kotlin**
 
 Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos a la página de [Android](https://ciberninjas.com/cursos-android/) por considerarse la sección más adecuada para ellos. 🔥
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## **Cursos Gratis de Perl**
+## **Los Mejores Cursos Gratis de Perl**
 
 - [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## **Cursos Gratis de PHP**
+## **Los Mejores Cursos Gratis de PHP**
 
 - [Aprende PHP y MySQl, conceptos básicos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Aprende programación básica con PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-programacion-basica-con-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -487,7 +487,7 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## **Cursos Gratis de PHP Frameworks**
+## **Los Mejores Cursos Gratis de Frameworks de PHP**
 
 [CakePHP](/cursos-tecnologia/#cakephp){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Symfony](/cursos-tecnologia/#symfony-){: .btn .btn--inverse .btn--large} [Zend](/cursos-tecnologia/#zend){: .btn .btn--inverse .btn--large}
 
@@ -595,7 +595,7 @@ Puedes aprender PHP con:
 
 Comience con tutoriales de introducción, fundamentos, conceptos básicos y para principiantes, libros, lecciones en video en línea, etc. y practique rigurosamente. Hacer un experimento continuo con su enfoque le permitirá aprender mejor de sus errores. Conócelo y sigue practicando.
 
-## **Cursos Gratis de Python**
+## **Los Mejores Cursos Gratis de Python**
 
 - [Analista de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (Unipython)
 - [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante){:target="_blank" rel="nofollow,noreferrer"} (Unipython)
@@ -618,7 +618,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Python Frameworks
+## **Los Mejores Cursos Gratis de Frameworks de Python**
 
 ### **Cursos Gratis de Django**
 
@@ -637,7 +637,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Cursos Gratis de Ruby Frameworks**
+## Cursos Gratis de Frameworks de Ruby**
 
 ### **Cursos Gratis de Ruby and Rails Framework**
 

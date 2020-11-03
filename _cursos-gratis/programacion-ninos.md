@@ -78,7 +78,7 @@ A través de los siguientes cursos, enfocados para niños de 7 a 16 años, ellos
 - [**Juegos con Java**](#juegos-con-java)
 - [**Programación de videojuegos**](#programación-de-videojuegos)
 
-## **Cursos Gratis de Programación con Scratch**
+## **Los Mejores Cursos Gratis de Programación con Scratch**
 
 Los cursos de programación en línea con Scratch, permiten a los niños de entre 7 a 10 años avanzar en el inicio de la programación utilizando la popular plataforma de iniciación Scratch. Las clases en línea comienzan con una introducción al entorno de codificación visual de Scratch, aprendiendo sobre las áreas clave de ramificación e iteración más variables y la lógica del juego.
 
@@ -94,7 +94,7 @@ Tus hijos aprenderán a utilizar un proyecto virtual divertido para crear aplica
 [⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 <!-- Programo Ergo Sum: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists -->
 
-## **Cursos Gratis de App Inventor**
+## **Los Mejores Cursos Gratis de App Inventor**
 
 - [Como usar el componente Sound](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-usar-el-componente-sound-sin-morir-en-el-intento%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Componente Contact Picker](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapp-inventor-2-componente-contact-picker%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -113,7 +113,7 @@ Tus hijos aprenderán a utilizar un proyecto virtual divertido para crear aplica
 
 [⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## **Cursos Gratis de Mods de Minecraft**
+## **Los Mejores Cursos Gratis de Mods de Minecraft**
 
 Entre los videojuegos, Minecraft ha demostrado ser uno de los más populares hasta ahora. La aventura de aprendizaje de su hijo, puedse comenzar con los siguientes videotutoriales que están relacionados con la plataforma del juego Minecraft.
 
@@ -123,7 +123,7 @@ Lo que va ayudar a los más pequeños, a comenzar a desarrollar su pensamiento l
 
 En estos tutoriales de Minecraft, los niños y niñas van descubrir cómo crear y configurar propiedades, funciones y texturas de los elementos fundamentales del juego Minecraft.
 
-## **Cursos Gratis de Roblox Game Maker**
+## **Los Mejores Cursos Gratis de Roblox Game Maker**
 
 En las lecciones de programación en línea, una de las mejores opciones para los niños más grandes, de entre 9 a 12 años.Una de las opciones más interesantes puedes ser comenzar con programar un proyecto a través de Roblox Studio.
 

@@ -66,6 +66,8 @@ img: "/assets/img/paginas-cursos/cursos-editores-texto.webp"
 }
 </script>
 
+## **Los Mejores Cursos de Editores de Texto**
+
 - [60 Herramientas de desarrollo y diseño web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frecursos-web-plugins-y-utilidades%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Brackets, Editor de Código para Desarrolladores Web Frontend](https://youtu.be/l1I-HFzaAHk){:target="_blank" rel="nofollow,noreferrer"} (Youtube, Fazt)
 - [Configurando el editor de texto Brackets](https://youtu.be/UngFUMhv2TY){:target="_blank" rel="nofollow,noreferrer"} (Youtube, J&G)

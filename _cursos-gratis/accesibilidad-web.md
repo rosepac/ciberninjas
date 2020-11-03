@@ -104,7 +104,7 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 
 A continuación, vas a encontrar **los mejores cursos de accesibilidad web en español**.
 
-- [**Cursos Gratis de Accesibilidad Web**](#cursos-gratis-de-accesibilidad-web)
+- [**Los Mejores Cursos Gratis de Accesibilidad Web**](#los-mejores-cursos-gratis-de-accesibilidad-web)
 - [**¿Por qué es importante la accesibilidad web?**](#por-qué-es-importante-la-accesibilidad-web)
 - [**¿Qué ejemplos de accesibilidad web existen?**](#qué-ejemplos-de-accesibilidad-web-existen)
   - [**1. El texto alternativo de las imágenes**](#1-el-texto-alternativo-de-las-imágenes)
@@ -113,7 +113,7 @@ A continuación, vas a encontrar **los mejores cursos de accesibilidad web en es
 - [**¿Cómo hacer qué un sitio web sea accesible?**](#cómo-hacer-qué-un-sitio-web-sea-accesible)
 - [**¿Cómo aprender más sobre la accesibilidad web?**](#cómo-aprender-más-sobre-la-accesibilidad-web)
 
-## **Cursos Gratis de Accesibilidad Web**
+## **Los Mejores Cursos Gratis de Accesibilidad Web**
 
 - [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/course-v1:UNED+AccTIC_004+2020/about "Curso de Accesibilidad TIC en compras públicas"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal "Curso de Accesibilidad Universal"){:target="_blank" rel="nofollow,noreferrer"} (OCW)

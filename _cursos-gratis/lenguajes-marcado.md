@@ -66,11 +66,12 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 }
 </script>
 
-- [**Cursos Gratis de HTML** <i class="fa fa-html5" aria-hidden="true"></i> y CSS <i class="fa fa-css3" aria-hidden="true"></i>](#cursos-gratis-de-html-i-classfa-fa-html5-aria-hiddentruei-y-css-i-classfa-fa-css3-aria-hiddentruei)
-- [**Cursos Gratis de Markdown**](#cursos-gratis-de-markdown)
-- [**Cursos Gratis de XML**](#cursos-gratis-de-xml)
+- [**Los Mejores Cursos Gratis de HTML**](#los-mejores-cursos-gratis-de-html)
+- [**Los Mejores Cursos Gratis de Markdown**](#los-mejores-cursos-gratis-de-markdown)
+- [**Los Mejores Cursos Gratis de XML**](#los-mejores-cursos-gratis-de-xml)
 
-## **Cursos Gratis de HTML** <i class="fa fa-html5" aria-hidden="true"></i> y CSS <i class="fa fa-css3" aria-hidden="true"></i>
+## **Los Mejores Cursos Gratis de HTML**
+
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
 - [Aprende a crear páginas web con HTML y CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-paginas-web-con-html-y-css%2F%26eid%3DW9Gem8jDoic%26lsnoid%3DNONE){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Aprende a crear páginas de internet con HTML y CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-paginas-de-internet-con-html-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -82,26 +83,27 @@ img: "/assets/img/paginas-cursos/cursos-lenguajes-marcado.webp"
 - [Cómo crear una página web. Introducción a HTML5 y CSS3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-pagina-web-introduccion-a-html5-y-css3%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Cómo crear una página web en 30 minutos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-pagina-web-en-30-minutos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Cómo programar para emprendedores - HTML y CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-programar-para-emprendedores-html-y-css%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Curso básico de HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
-- [Curso de Diseño Web](/curso-diseno-web-dustin-hurtado/) (Dostin Hurtado, Youtube)
-- [Curso de HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
-- [Curso de HTML y CSS Gratis](https://devcode.la/cursos/html-css) (DevCode)
-- [Curso de HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK) (Pildoras Informáticas, Youtube)
+- [HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
+- [Diseño Web](/curso-diseno-web-dustin-hurtado/) (Dostin Hurtado, Youtube)
+- [HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
+- [HTML y CSS Gratis](https://devcode.la/cursos/html-css) (DevCode)
+- [HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK) (Pildoras Informáticas, Youtube)
 - [Desarrollo Páginas Web con HTML y CSS: Aprende a crear webs](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-html5-css3%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Desarrollo Web Responsive con HTML5 y CSS3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-al-web-responsive-html5-css3%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
+- [HTML 5 desde Cero](https://www.youtube.com/playlist?list=PLROIqh_5RZeB92ME1GFyeqDVOa-gL0Ybd) (Dorian Designs, Youtube) (2020)
 - [HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK){:target="_blank" rel="nofollow,noreferrer"} (PildorasInformaticas, YouTube)
 - [HTML5 y CSS3 (2016)](https://www.youtube.com/watch?v=_Swi5_rmztg&list=PLPl81lqbj-4KaMYQ9nrh-NjTIcgmbL1V2){:target="_blank" rel="nofollow,noreferrer"} (Blueeweb!, Youtube)
 - [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-## **Cursos Gratis de Markdown**
+## **Los Mejores Cursos Gratis de Markdown**
 
 - [Aprenda Markdown desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprenda-markdown-desde-cero%2F) (Udemy)
 - [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
 
 > [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Editores Markdown](https://ciberninjas.com/editores-markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
 
-## **Cursos Gratis de XML**
+## **Los Mejores Cursos Gratis de XML**
 
 - [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 

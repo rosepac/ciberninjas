@@ -69,7 +69,7 @@ img: "/assets/img/paginas-cursos/cursos-procesadores-lenguajes.webp"
 > 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-## **Cursos Gratis de Procesadores de Lenguajes**
+## **Los Mejores Cursos Gratis de Procesadores de Lenguajes**
 
 - [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Microprocesadores (2006)](http://ocw.upm.es/tecnologia-electronica/microprocesadores){:target="_blank" rel="nofollow,noreferrer"} (OCW)
