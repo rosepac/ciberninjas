@@ -18,8 +18,7 @@ bootstrap: true
 
 Esta es una galería de personajes, que podríamos definir como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
 
-**IMPORTANTE**: El contenido en esta página incluido y traducido además de las páginas adyacentes sobre el directorio de `/personajes-historicos/` así como las fotografías incluidas se encuentran bajo los derechos de autoría y Copyright © 2019 de Computer History Museum. NO COPIAR, NI REPRODUCIR sin su consentimiento previo.
-{: .notice--warning}
+> **IMPORTANTE**: El contenido en esta página incluido y traducido además de las páginas adyacentes sobre el directorio de `/personajes-historicos/` así como las fotografías incluidas se encuentran bajo los derechos de autoría y Copyright © 2019 de Computer History Museum. NO COPIAR, NI REPRODUCIR sin su consentimiento previo.
 
 - [**Historia de los Premios**](#historia-de-los-premios)
 - [**Personajes Históricos**](#personajes-históricos)
