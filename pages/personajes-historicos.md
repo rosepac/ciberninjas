@@ -16,12 +16,16 @@ author: rosepac
 bootstrap: true
 ---
 
+Esta es una galería de personajes, que podríamos definir como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
+
 **IMPORTANTE**: El contenido en esta página incluido y traducido además de las páginas adyacentes sobre el directorio de `/personajes-historicos/` así como las fotografías incluidas se encuentran bajo los derechos de autoría y Copyright © 2019 de Computer History Museum. NO COPIAR, NI REPRODUCIR sin su consentimiento previo.
 {: .notice--warning}
 
-Esta es una galería de personajes, que podríamos definir como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
+- [**Historia de los Premios**](#historia-de-los-premios)
+- [**Personajes Históricos**](#personajes-históricos)
+- [**🔥 Biografías Más Recientes.. 👇**](#-biografías-más-recientes-)
 
-## Historia de los Premios
+## **Historia de los Premios**
 
 Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas capaces de cambiar el mundo. Lo que les convierte en auténticos personajes históricos entre los más importantes por sus acontecimientos en el campo de la computación.
 
@@ -33,7 +37,7 @@ Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas c
 </details>
 
 <!-- Saber Más: https://www.computerhistory.org/fellowawards/hall/ -->
-## Personajes Históricos
+## **Personajes Históricos**
 
 <details>
 <summary> Listado de Premiados Cronológicamente 👈</summary>
@@ -66,6 +70,6 @@ Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas c
 </ul>
 </details>
 
-## 🔥 Biografías Agregadas Más Recientes.. 👇
+## **🔥 Biografías Más Recientes.. 👇**
 
 {% include personajes-historicos.html %}
