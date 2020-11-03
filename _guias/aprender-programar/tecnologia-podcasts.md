@@ -58,7 +58,7 @@ A continuación vas a encontrar los **mejores podcasts de programación, diseño
 
 ## **Podcasts de Programación**
 
-- [Commit.fm](https://anchor.fm/khriztianmoreno) (podcast) (Última Actualización, Julio 2020){:target="_blank" rel="nofollow,noreferrer"}
+- [Commit.fm](https://anchor.fm/khriztianmoreno){:target="_blank" rel="nofollow,noreferrer"} (podcast) (Última Actualización, Julio 2020)
 - [Descargas de mi mente](https://www.ivoox.com/podcast-descargas-mi-mente_sq_f1584288_1.html){:target="_blank" rel="nofollow,noreferrer"} (podcast)
 - [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html){:target="_blank" rel="nofollow,noreferrer"} (podcast)
 - [Maestría JS](https://anchor.fm/maestriajs){:target="_blank" rel="nofollow,noreferrer"} (podcast) (Última Actualización, Mayo 2020)
