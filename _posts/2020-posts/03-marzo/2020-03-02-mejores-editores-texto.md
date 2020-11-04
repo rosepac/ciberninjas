@@ -26,9 +26,9 @@ thumbnail: "/assets/img/2020/11/mejores-editores-web.webp"
 feature-img: "/assets/img/2020/11/mejores-editores-web.webp"
 title: '🥇 ▷ Los Mejores EDITORES de TEXTO Gratis para PROGRAMAR 2021'
 description: >-
-  ✅ Revisión y comparativa y revisión de las 16 Mejores aplicaciones GRATIS. Programas u aplicaciones para programar en CSS, HTML, Java, Python, etc GRATIS
+  ✅ Las 16 mejores APLICACIONES GRATUITAS para crear código. Comparativa y revisión de cada editar además de una lista de características.
 excerpt: >-
-  ✅ Comparativa y revisión de las 16 Mejores aplicaciones GRATIS. Programas u aplicaciones para programar en CSS, HTML, Java, Python, etc GRATIS
+  ✅ Las 16 mejores APLICACIONES GRATUITAS para crear código. Comparativa y revisión de cada editar además de una lista de características.
 canonical_URL: https://ciberninjas.com/mejores-editores-texto/
 permalink: /mejores-editores-texto/
 date: 2020-11-03 16:05:32
