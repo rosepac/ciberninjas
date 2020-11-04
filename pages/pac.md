@@ -3,7 +3,7 @@ layout: page
 hide: true
 title: '¿Quién es ROSEPAC?'
 permalink: "/quien-soy/"
-date: 2020-07-25T22:00:00.000+00:00
+date: 2020-11-03T22:00:00.000+00:00
 canonical_URL: https://ciberninjas.com/quien-soy/
 description: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 excerpt: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
@@ -20,6 +20,7 @@ Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas co
 - [**¿Qué estudios he realizado?**](#qué-estudios-he-realizado)
 - [**¿Cómo comencé en Internet?**](#cómo-comencé-en-internet)
   - [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
+  - [Ciclo Formativo de Grado Superior: "Desarrollo de Aplicaciones Web"](#ciclo-formativo-de-grado-superior-desarrollo-de-aplicaciones-web)
   - [Dinamización en Redes Sociales](#dinamización-en-redes-sociales)
   - [Diseño de proyectos educativos sobre seguridad en la red](#diseño-de-proyectos-educativos-sobre-seguridad-en-la-red)
   - [Adicción a la tecnología](#adicción-a-la-tecnología)
@@ -94,6 +95,19 @@ Colabore en páginas como intercambioswarez o intercambiosvirtuales, en su día.
 - Montaje y mantenimiento de equipo (MME).
 - Redes locales (RLO).
 - Sistemas operativos monopuesto (SOPM).
+
+### Ciclo Formativo de Grado Superior: "Desarrollo de Aplicaciones Web"
+
+Módulos parciales aprobados:
+
+- Sistemas informáticos.
+- Entornos de desarrollo.
+- Diseño de interfaces web.
+
+Módulos parciales convalidados:
+
+- Empresa e iniciativa emprendedora.
+- Formación en centros de trabajo.
 
 ### Dinamización en Redes Sociales
 
@@ -229,6 +243,8 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 - Contenidos técnicos y características a tener en cuenta
 
 ### Unimooc: Emprende
+
+UniMOOC, es el Instituto de Economía Internacional de la Universidad de Alicante.
 
 - Atrévete a actuar
 - El cubo del emprendimiento
