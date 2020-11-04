@@ -17,8 +17,8 @@ Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas co
 {: .notice--warning}
 
 - [**¿Quién es Pablo Álvarez Corredera?**](#quién-es-pablo-álvarez-corredera)
-- [**¿Qué estudios he realizado?**](#qué-estudios-he-realizado)
 - [**¿Cómo comencé en Internet?**](#cómo-comencé-en-internet)
+- [**¿Qué estudios he realizado?**](#qué-estudios-he-realizado)
   - [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
   - [Ciclo Formativo de Grado Superior: "Desarrollo de Aplicaciones Web"](#ciclo-formativo-de-grado-superior-desarrollo-de-aplicaciones-web)
   - [Dinamización en Redes Sociales](#dinamización-en-redes-sociales)
@@ -51,11 +51,31 @@ Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas co
 
 ## **¿Quién es Pablo Álvarez Corredera?**
 
-Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank" rel="nofollow,noreferrer"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
+Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC.
+
+Soy un asturiano y amo el huerto y la agricultura, de hecho hubo un tiempo en el que dedicaba el tiempo a cultivar e incluso cree [una página de Facebook donde mostraba mi trabajo como agricultor](https://www.facebook.com/ciberural){:target="_blank"}.
+
+He pasado muchas horas entre mis plantaciones de fabas, repollos, lechugas, pimientos, etc.
+
+ que hace una infinidad de años tenía un blog en los "live.spaces" de Microsoft.
+
+Más tarde, en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank" rel="nofollow,noreferrer"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
 
 Nunca he encontrado la fortuna alrededor de la web. Años intentando darle sentido a la creación de un blog, sin encontrar el lugar más idonio; una y otra vez. Siempre pensando en crear proyectos demasiado grandes para lo que uno podía hacer. Por dinero y tiempo.
 
 No descarto que la culpa sea mía por no saber centrarme en una temática concreta, lo que dificulta la gestión cada vez más; pero bueno, yo lo intento..
+
+## **¿Cómo comencé en Internet?**
+
+Siempre me gusto escribir. He tenido varios blogs a lo largo de mi vida, el que más tiempo aguanto con vida: Fue una página dentro de una antigua plataforma que se denominaba Windows Live Spaces (un proyecto con el que Microsoft aspiraba a competir contra Blogger, en su momento).
+
+Fuí moderador de las salas de Chat de IRC, gestione varios Xat.COM, jugue a Second Life e incluso hasta a Imvu.
+
+Llegue a tener MySpace, Tumbler, Tuenti.. Incluso hasta Orkut; aunque jamás he estado tan involucrado en la red, como ahora.
+
+Además, sufrí varios intentos de crear un Wordpress y otros tantos intentos de crear mi propio blog de Blogger sobre música.
+
+Colabore en páginas como intercambioswuarez (entre otras) de los creadores intercambiosvirtuales en su día.
 
 ## **¿Qué estudios he realizado?**
 
@@ -68,18 +88,6 @@ Oficialmente, soy técnico de sistemas microinformáticos y redes, y también he
 Desde, hace ya más de 4 años, me he convertido en un auténtico adicto a la tecnología.
 
 Me encanta conocer cómo, por qué, para qué y todo lo que sea posible saber sobre los lenguajes de programación, frameworks, software, hardware, nuevas metodologías de programación, desarrollo, diseño y todo lo que tenga que ver con la evolución tecnológica actual.
-
-## **¿Cómo comencé en Internet?**
-
-Siempre me gusto escribir. He tenido varios blogs a lo largo de mi vida, el que más tiempo aguanto con vida: Fue una página dentro de una antigua plataforma que se denominaba Windows Live Spaces (un proyecto con el que Microsoft aspiraba a competir contra Blogger, en su momento).
-
-Fuí moderador de las salas de Chat de IRC, gestione varios Xat.COM, jugue a Second Life e incluso hasta a Imvu.
-
-Llegue a tener MySpace, Tumbler, Tuenti.. Incluso hasta Orkut; aunque jamás he estado tan involucrado en la red, como ahora.
-
-Además, sufrí varios intentos de crear un Wordpress y otros tantos intentos de crear mi propio blog de Blogger sobre música.
-
-Colabore en páginas como intercambioswarez o intercambiosvirtuales, en su día.
 
 ### Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"
 
