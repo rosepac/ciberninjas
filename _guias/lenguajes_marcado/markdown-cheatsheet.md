@@ -81,6 +81,8 @@ Estos elementos amplían la sintaxis básica agregando características adiciona
 
 Puede descargar esta [cheatsheet u hoja de trucos de Markdown](https://drive.google.com/file/d/1jrTzd53AvkiePGsE4iGl2Ja7vNSzB7gD/view?usp=sharing) como un archivo de Markdown para usar en su aplicación de Markdown.
 
+> [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
+
 ### **Relacionados** <!-- omit in toc -->
 
 [▷ Empezando con Markdown](https://ciberninjas.com/markdown/)

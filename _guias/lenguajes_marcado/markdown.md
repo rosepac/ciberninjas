@@ -40,8 +40,6 @@ A continuación. Vamos a conocer un poco de la historia de Markdown, qué es Mar
 
 Además, vamos a conocer [todos los elementos utilizables con Markdown](https://ciberninjas.com/markdown-cheatsheet/) y [los mejores editores para utilizar Markdown](https://ciberninjas.com/editores-markdown/).
 
-> [Editores Markdown](https://ciberninjas.com/editores-markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
-
 - [**¿Qué es Markdown?**](#qué-es-markdown)
 - [**¿Por qué utilizar Markdown?**](#por-qué-utilizar-markdown)
 - [**Prácticando con Markdown**](#prácticando-con-markdown)
@@ -331,6 +329,8 @@ Esto es más un pequeño inconveniente que un gran problema, pero sigue siendo s
 Con la introducción de Markdown, escribir un correo electrónico o blog dentro desde tu editor de código es perfectamente viable y eso es genial, porque ofrecer una mayor gama de posibilidades a los usuarios siempre es hacerles la vida un poco más fácil.
 
 Si aún no has probado nunca a escribir en Markdown, comienza a hacerlo desde hoy; a continuación tienes editores en los que empezar a probar y con los que comenzar a ser un fanático la escritura en Markdown.
+
+> [Editores Markdown](https://ciberninjas.com/editores-markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
 
 <!-- https://www.markdownguide.org/ -->
 ### **Relacionados** <!-- omit in toc -->

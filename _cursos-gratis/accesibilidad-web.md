@@ -115,15 +115,15 @@ A continuación, vas a encontrar **los mejores cursos de accesibilidad web en es
 
 ## **Los Mejores Cursos Gratis de Accesibilidad Web**
 
-- [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/course-v1:UNED+AccTIC_004+2020/about "Curso de Accesibilidad TIC en compras públicas"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal "Curso de Accesibilidad Universal"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Aprende accesibilidad web paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-accesibilidad-web-paso-a-paso%2F "Curso de [Aprende accesibilidad web paso a paso"){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad "Curso de Evitando las barreras de la Accesibilidad en la Sociedad de la Información"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/ "Curso de Herramientas para mejorar la Usabilidad Web: Balsamiq"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/course-v1:UNED+AccTIC_004+2020/about "Curso de Accesibilidad TIC en compras públicas"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal "Curso de Accesibilidad Universal"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Aprende accesibilidad web paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-accesibilidad-web-paso-a-paso%2F "Curso de [Aprende accesibilidad web paso a paso"){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad "Curso de Evitando las barreras de la Accesibilidad en la Sociedad de la Información"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/ "Curso de Herramientas para mejorar la Usabilidad Web: Balsamiq"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
 
 - [Los Mejores Cursos de Seguridad Web](https://ciberninjas.com/cursos-seguridad/)
 - [Los Mejores Cursos de HTML](https://ciberninjas.com/cursos-lenguajes-marcado/)
@@ -135,6 +135,13 @@ A continuación, vas a encontrar **los mejores cursos de accesibilidad web en es
 <!-- - [](){:target="_blank" rel="nofollow,noreferrer"} -->
 <!-- https://www.w3.org/standards/webdesign/accessibility -->
 <!-- https://ec.europa.eu/digital-single-market/en/news/introduction-web-accessibility-free-online-course-based-wai-guide-curricula -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
+
+- 🔠 Wiki: [a11y](a11y: Definición del Término)
+- 🔠 Wiki: [Iniciativa de accesibilidad web (WAI)](https://ciberninjas.com/wiki/wai/)
+- Mitos UX: [Lograr la Accesibilidad Web](https://ciberninjas.com/34-mitos-ux/#5-lograr-la-accesibilidad-es-complicado-y-costoso)
+- Posicionamiento Web y SEO: [La importancia de la accesibilidad web en el SEO](https://ciberninjas.com/posicionamiento-web-seo/)
 
 > ***El poder de la Web está en su universalidad. El acceso de todas las personas independientemente de su discapacidad es un aspecto fundamental.***
 >

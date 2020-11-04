@@ -46,8 +46,6 @@ Existen cientos de opciones más, pero sin lugar a dudas, estos son los mejores.
 
 Por último, os dejo aquí, unos enlaces relacionados desde los que seguir [aprendiendo Markdown](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown).
 
-> [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
-
 - [**1. Editor de Markdown Typora**](#1-editor-de-markdown-typora)
 - [**2. Editor MarkDown Monster**](#2-editor-markdown-monster)
 - [**3. Editor de Markdown Boostnote**](#3-editor-de-markdown-boostnote)
@@ -208,8 +206,7 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 - [Tutorial de Aprendizaje de Markdown](https://www.markdowntutorial.com/es/){:target="_blank" rel="nofollow,noreferrer"}
 - [Generador de tablas MarkDown](https://www.tablesgenerator.com/markdown_tables#){:target="_blank" rel="nofollow,noreferrer"}
 
-> 🔥 Quizás te interese: [mejores editores de código](/mejores-editores-texto/) >> [mejores editores de python](/mejores-ide-python/) >> [mejores editores de PHP](/mejores-editores-php/)
-{: .notice--danger}
+> [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
 
 ### **Relacionados** <!-- omit in toc -->
 
