@@ -24,9 +24,9 @@ tags:
 - Markdown Monster
 thumbnail: "/assets/img/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
 feature-img: "/assets/img/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
-title: '🥇 ▷ Los Mejores Editores de Texto GRATIS para PROGRAMAR en 2021'
+title: '🥇 ▷ Los Mejores EDITORES de TEXTO Gratis para PROGRAMAR 2021'
 description: >-
-  ✅ Comparativa y revisión de las 16 Mejores aplicaciones GRATIS. Programas u aplicaciones para programar en CSS, HTML, Java, Python, etc GRATIS
+  ✅ Revisión y comparativa y revisión de las 16 Mejores aplicaciones GRATIS. Programas u aplicaciones para programar en CSS, HTML, Java, Python, etc GRATIS
 excerpt: >-
   ✅ Comparativa y revisión de las 16 Mejores aplicaciones GRATIS. Programas u aplicaciones para programar en CSS, HTML, Java, Python, etc GRATIS
 canonical_URL: https://ciberninjas.com/mejores-editores-texto/
@@ -37,43 +37,71 @@ published: true
 
 ---
 
-Vamos a conocer **los mejores editores de texto para programar totalmente gratuitos**, bien seas un desarrollador web nuevo o un adicto del código veterano, **vas a necesitar un editor de código**, sí o sí.
+Comparativa y revisión de **los mejores editores de texto para programar totalmente gratuitos**, bien seas un desarrollador web nuevo o un adicto del código veterano, **vas a necesitar un editor de código**, sí o sí.
 
 Es muy importante, que **el editor sea lo suficientemente robusto** como para ofrecerte posibilidades para todo lo que necesites realizar. El **editor es y será ser tu herramienta de trabajo principal** y tu mejor amigo (durante todo tu tiempo de codeo 😉) entre toda tu caja de herramientas.
 
-Dado que que el encotnrar el mejor editor para programar, es una búsqueda continua para la mayoría de las personas nuevas en el mundo de la programación, he recopilado **las mejores opciones de editores de programación**, tanto gratuitas como premium, para que puedas integrarlas sin problemas en tu flujo de trabajo.
+Dado que el encontrar **el mejor editor para programar**, es una **búsqueda continua** de tu mejor adaptación para la mayoría de las personas nuevas en el mundo de la programación, he recopilado **las mejores opciones de editores de programación**, tanto gratuitas como premium, para que puedas integrarlas sin problemas en tu flujo de trabajo.
 
-<br/>
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/mejores-editores-texto/#1-visual-studio-code-de-microsoft">Visual Studio Code: La tanqueta indestructible</a></li>
-    <li><a href="/mejores-editores-texto/#2-sublime-text">Sublime Text: El guaperas entre los minimalistas</a></li>
-    <li><a href="/mejores-editores-texto/#3-notepad-">Notepad ++: La pareja ideal para comenzar el baile</a></li>
-    <li><a href="/mejores-editores-texto/#4-brackets">Brackets: La paleta más vistos y perfecta para los artistas</a></li>
-    <li><a href="/mejores-editores-texto/#5-atom">Atom: El vehículo anfibio adaptable</a></li>
-    <li><a href="/mejores-editores-texto/#6-bluej">BlueJ: El triciclo para los más jóvenes, y también para adultos</a></li>
-    <li><a href="/mejores-editores-texto/##7-bluefish">BlueFish: Un ayudante perfecto en forma de pescadito</a></li>
-    <li><a href="/mejores-editores-texto/#8-codeshareio">Codeshare IO: El dron perfecto, para volar a cualquier parte</a></li>
-    <li><a href="/mejores-editores-texto/#9-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
-    <li><a href="/mejores-editores-texto/#10-gnu-emacs">EMacs: Un Porsche Clásico, algo así como el 911 Turbo</a></li>
-    <li><a href="/mejores-editores-texto/##11-spacemacs">Spacemacs: El más díficil de conducir, algo así como un Lamborghini Veneno</a></li>
-    <li><a href="/mejores-editores-texto/#12-komodo-ide">Komodo IDE: El dragón que puede con todo</a></li>
-    <li><a href="/mejores-editores-texto/#13-eclipse-theia">Eclipse Theia: Regresando a la luna, desde las nubes</a></li>
-    <li><a href="/mejores-editores-texto/#14-light-table">Light Table: El hijastro peleón del Ceceo</a></li>
-    <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi: La Pascalina de la programación
-    </a></li>
-    <li><a href="/mejores-editores-texto/#16-markdown-monster">Markdown Monster: El monstruo del Markdown</a></li>
-  </ol>
-</nav>
-</details>
+<span id="menu"><strong>MENÚ</strong></span>
+
+- [**1. Visual Studio Code de Microsoft**](#1-visual-studio-code-de-microsoft)
+  - [**Mejores características de Visual Studio Code**](#mejores-características-de-visual-studio-code)
+  - [**VS Code es tu editor si..**](#vs-code-es-tu-editor-si)
+- [**2. Sublime Text**](#2-sublime-text)
+  - [**Mejores características del editor Sublime Text**](#mejores-características-del-editor-sublime-text)
+  - [**Sublime Text es tu editor si..**](#sublime-text-es-tu-editor-si)
+- [**3. Notepad ++**](#3-notepad-)
+  - [**Mejores características del editor Notepad ++**](#mejores-características-del-editor-notepad-)
+  - [**Notepad ++ es para ti si..**](#notepad--es-para-ti-si)
+- [**4. Brackets**](#4-brackets)
+  - [**Mejores características del editor Brackets**](#mejores-características-del-editor-brackets)
+  - [**Brackets es tu editor si..**](#brackets-es-tu-editor-si)
+- [**5. Atom**](#5-atom)
+  - [**Mejores características del editor Atom**](#mejores-características-del-editor-atom)
+  - [**Atom es tu editor si..**](#atom-es-tu-editor-si)
+- [**6. BlueJ**](#6-bluej)
+  - [**Mejores características del editor BlueJ**](#mejores-características-del-editor-bluej)
+  - [**BlueJ es para ti si..**](#bluej-es-para-ti-si)
+- [**7. Bluefish**](#7-bluefish)
+  - [**Mejores características del editor BlueFish**](#mejores-características-del-editor-bluefish)
+  - [**Bluefish es para ti si..**](#bluefish-es-para-ti-si)
+- [**8. Codeshare.io**](#8-codeshareio)
+  - [**Mejores características del editor Codeshare**](#mejores-características-del-editor-codeshare)
+  - [**Codeshare es para ti si..**](#codeshare-es-para-ti-si)
+- [**9. VIM**](#9-vim)
+  - [**Mejores características del editor VIM**](#mejores-características-del-editor-vim)
+  - [**VIM es para ti si..**](#vim-es-para-ti-si)
+- [**10. GNU Emacs**](#10-gnu-emacs)
+  - [**Mejores características del editor GNU Emacs**](#mejores-características-del-editor-gnu-emacs)
+  - [**EMacs es para ti si..**](#emacs-es-para-ti-si)
+- [**11. Spacemacs**](#11-spacemacs)
+  - [**Mejores características del editor Spacemacs**](#mejores-características-del-editor-spacemacs)
+  - [**SpaceMacs es para ti si..**](#spacemacs-es-para-ti-si)
+- [**12. Komodo IDE**](#12-komodo-ide)
+  - [**Mejores características del editor Komodo IDE**](#mejores-características-del-editor-komodo-ide)
+  - [**Komodo IDE es para ti si..**](#komodo-ide-es-para-ti-si)
+- [**13. Eclipse Theia**](#13-eclipse-theia)
+  - [**Mejores características del editor Eclipse Theia**](#mejores-características-del-editor-eclipse-theia)
+  - [**Eclipse Theia es para ti si..**](#eclipse-theia-es-para-ti-si)
+- [**14. Light Table**](#14-light-table)
+  - [**Mejores características del editor Light Table**](#mejores-características-del-editor-light-table)
+  - [**Light Table es para ti si..**](#light-table-es-para-ti-si)
+- [**15. Delphi Community Edition**](#15-delphi-community-edition)
+  - [**Mejores características del editor Delphi Comunity Edition**](#mejores-características-del-editor-delphi-comunity-edition)
+  - [**Delphi es para ti si..**](#delphi-es-para-ti-si)
+- [**16. Markdown Monster**](#16-markdown-monster)
+  - [**Mejores características del editor Markdown Monster**](#mejores-características-del-editor-markdown-monster)
+  - [**Markdown Monster es para ti si..**](#markdown-monster-es-para-ti-si)
+- [**¿Cuál es el mejor editor de texto para programar?**](#cuál-es-el-mejor-editor-de-texto-para-programar)
 
 ## **1. Visual Studio Code de Microsoft**
 
 Visual Studio Code (o VS Code) se ha convertido rápidamente en  el estándar para el desarrollo de software desde su lanzamiento en 2015. Como la mayoría de los productos de Microsoft en estos días, VS Code está disponible en todas las plataformas principales.
 
 ![El editor de código visual studio code de microsoft, es sin lugar a dudas uno de los mejores. Visto en Ciberninjas](/assets/img/paginas/editores-texto/1-visual-studio-code.webp "El editor de código visual studio code de microsoft, es sin lugar a dudas uno de los mejores. Visto en Ciberninjas")
+
+> ***Visual Studio Code: La tanqueta indestructible.***
 
 Eso significa que los desarrolladores en Mac, Windows y Linux pueden usar esta herramienta increíblemente poderosa, que no es exactamente un IDE (que en realidad es un producto completamente diferente), VS Code puede asumir la mayoría de las tareas de un IDE con la configuración correcta y la biblioteca de complementos.
 
@@ -85,7 +113,7 @@ Además, para los más distanciados de cualquier gran empresa. Existe la posibil
 
 ¿Qué es VSCodium? Una distribución binaria impulsada por la comunidad y con licencia libre del editor VSCode de Microsoft.
 
-### **Mejores características de Visual Studio Code**
+### **Mejores características de Visual Studio Code** <!-- omit in toc -->
 
 1. Multiplataforma.
 2. Código abierto a través de licencia MIT.
@@ -98,7 +126,7 @@ Además, para los más distanciados de cualquier gran empresa. Existe la posibil
 9. Distribuciones específicas de Linux para Ubuntu, Fedora, SUSE, Red Hat y Debian.
 10. El resaltado IntelliSense y el autocompletado funcionan como el mejor sueño para un programador.
 
-### **VS Code es tu editor si..**
+### **VS Code es tu editor si..** <!-- omit in toc -->
 
 Si requieres un editor de texto, básicamente. VS Code es casi perfecto. Si bien algunas personas pueden desanimarse porque es desarrollo por Microsoft, aunque eso no debería de ser un gran problema con VS Code.
 
@@ -108,7 +136,7 @@ VS Code funciona muy bien en todas las plataformas en los que lo pruebes, y no v
 
 El propio programa funciona bien desde el momento en que se ejecuta por primera vez, y tanto Git como el depurador integrados; simplemente funcionan. No hace falta configurar nada en absoluto, ni instalar nada extra, ni perder tiempo en jugar con complejas configuraciones.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al Menú"}
 [🏡 Web Oficial Visual Studio Code](https://code.visualstudio.com/ "Página web oficial del editor de Microsoft, Visual Studio Code"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Visual Studio Code](https://code.visualstudio.com/download "Descarga gratis Visual Studio Code"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -118,6 +146,8 @@ Sublime Text está bastante cerca del estándar de la industria de los editores 
 
 ![El editor Sublime Text es uno de los favoritos sobre todo entre los usuarios de Linux. Visto en Ciberninjas](/assets/img/paginas/editores-texto/sublime-text-3.webp "El editor Sublime Text es uno de los favoritos sobre todo entre los usuarios de Linux. Visto en Ciberninjas")
 
+> ***Sublime Text: El guaperas entre los minimalistas.***
+
 Al igual que Atom y VS Code, Sublime Text tiene un repositorio de paquetes increíblemente activo que extiende sus características mucho más allá de la descarga inicial. Sublime Text es un hermoso editor de código rico en funciones.
 
 Quizás el mayor atractivo es que le da una gran importancia a la experiencia del usuario, su UX es probablemente el más minimalista de todas los enumerados a lo largo de la lista.
@@ -126,7 +156,7 @@ Esto se debe a características como el modo de escritura sin distracciones, acc
 
 Una vez que te acostumbres a los atajos de teclado de Sublime, bueno, sublime, te preguntarás cómo alguna vez escribiste una palabra sin ellos. Si bien hay un precio de $ 80 adjunto a Sublime, ofrecen una prueba indefinida e interminable.
 
-### **Mejores características del editor Sublime Text**
+### **Mejores características del editor Sublime Text** <!-- omit in toc -->
 
 1. Ir a cualquier cosa (búsqueda rápida / accesos directos).
 2. Paleta de comandos.
@@ -139,11 +169,11 @@ Una vez que te acostumbres a los atajos de teclado de Sublime, bueno, sublime, t
 9. API de complemento.
 10. Y mucho más.
 
-### **Sublime Text es tu editor si..**
+### **Sublime Text es tu editor si..** <!-- omit in toc -->
 
 Si prefieres una buena experiencia de usuario sobre todo lo demás. Eso no quiere decir que Sublime Text no tenga las características que necesites para casi todos los proyectos (sí las tiene). Es solo que  usar Sublime Text es la parte más impresionante de todo el programa, y hay muchos paquetes más dentro del proyecto.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al Menú"}
 [🏡 Web Oficial Sublime Text](https://www.sublimetext.com/ "Página web del editor Sublime Text"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Sublime Text](https://www.sublimetext.com/3 "Descarga totalmente gratis Sublime Text"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -152,6 +182,8 @@ Si prefieres una buena experiencia de usuario sobre todo lo demás. Eso no quier
 Notepad ++ es un editor de texto extremadamente popular. Esto se debe en parte a que es de código abierto gratuito y con licencia GPL.
 
 ![Notepad es el pequeño gran editor que es superligero y que sirve absolutamente para todo lo que necesite cualquier programador. Visto en Ciberninjas](/assets/img/paginas/editores-texto/notepad-1.webp "Notepad es el pequeño gran editor que es superligero y que sirve absolutamente para todo lo que necesite cualquier programador. Visto en Ciberninjas")
+
+> ***Notepad: La pareja ideal para comenzar el baile (el baile de prescolar, claro).***
 
 Sin embargo, incluso más que eso, la razón por la que es uno de los mejores editores de texto es que es simple.
 
@@ -163,7 +195,7 @@ Notepad ++ es una opción maravillosa y simple no solo para principiantes, sino 
 
 La desventaja: el software es solo para Windows. Muchos desarrolladores están en Mac o Linux, pero para aquellos que viven en el territorio de Microsoft, esta es una gran opción para probar, ya que es gratis. No tienes nada que perder. Especialmente si vienes nuevo al campo.
 
-### **Mejores características del editor Notepad ++**
+### **Mejores características del editor Notepad ++** <!-- omit in toc -->
 
 1. Resaltado de sintaxis.
 2. Sintaxis Plegable.
@@ -175,13 +207,13 @@ La desventaja: el software es solo para Windows. Muchos desarrolladores están e
 8. Entorno multilenguaje compatible.
 9. Y más.
 
-### **Notepad ++ es para ti si..**
+### **Notepad ++ es para ti si..** <!-- omit in toc -->
 
 Si eres nuevo en el mundo de la programación, y trabajando con editores de código y deseas facilitar tu línea de aprendizaje. Además, si deseas una opción de recursos livianos, Notepad ++ lo es.
 
 Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atascar tu sistema mientras trabajas. Eso significa que es posible que no esté cargando gigabytes de información a la vez, pero para las tareas de desarrollo web habituales, etc., Notepad ++ es más que suficiente.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Notepad++](https://notepad-plus-plus.org/ "Página oficial del bloc de notas Notepad++"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Notepad++](https://notepad-plus-plus.org/downloads/ "Instala gratis Notepad++"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -191,13 +223,15 @@ Brackets es otro editor gratuito y de código abierto. Esta vez, no se trata sim
 
 ![Brackets el mejor Editor de texto para cualquier diseñador o desarrollador web actual desarrollado por Adobe](../assets/img/paginas/editores-texto/brackets-editor-1.webp "Brackets el mejor Editor de texto para cualquier diseñador o desarrollador web actual desarrollado por Adobe")
 
+> ***Brackets: La paleta más vistos y perfecta para los artistas.***
+
 Sí, el adobe. De Photoshop, Illustrator, etc. Por eso, espere pulido y poder. Brackets está diseñado para ser mínimo pero potente. Sin embargo, ofrece algunas características únicas y útiles.
 
 Una de esas características es Extraer, una herramienta que le permite extraer información como colores, fuentes, gradientes, medidas, directamente desde PSD como CSS limpio.
 
 Para los desarrolladores front-end que trabajan en una agencia de diseño que tienen que recrear sitios perfectos para píxeles a partir de maquetas, puede que no haya una mejor herramienta para usted.
 
-### **Mejores características del editor Brackets**
+### **Mejores características del editor Brackets** <!-- omit in toc -->
 
 1. Extraer.
 2. Biblioteca de extensiones en constante crecimiento.
@@ -210,15 +244,15 @@ Para los desarrolladores front-end que trabajan en una agencia de diseño que ti
 9. Informe del preprocesador.
 10. Y mucho más.
 
-### **Brackets es tu editor si..**
+### **Brackets es tu editor si..** <!-- omit in toc -->
 
- Si ya has trabajado dentro del ecosistema de Adobe; te sentirás como en casa si alguna vez has usado algún producto de Adobe con anterioridad.
+Si ya has trabajado dentro del ecosistema de Adobe; te sentirás como en casa si alguna vez has usado algún producto de Adobe con anterioridad.
  
- Brackets, se siente como si fuese parte de Creative Cloud, aunque no lo es. Las IU son similares, y se siente muy natural si vienes de Photoshop o InDesign.
+Brackets, se siente como si fuese parte de Creative Cloud, aunque no lo es. Las IU son similares, y se siente muy natural si vienes de Photoshop o InDesign.
  
- Además, la herramienta de extracción hace que Brackets sea casi imprescindible para los desarrolladores front-end que trabajan con los PSD de los diseñadores.
+Además, la herramienta de extracción hace que Brackets sea casi imprescindible para los desarrolladores front-end que trabajan con los PSD de los diseñadores.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Brackets](http://brackets.io/ "Página del editor privado Brackets"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Brackets](https://github.com/adobe/brackets/releases "Descarga gratis el editor Brackets de Adobe"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -227,6 +261,8 @@ Para los desarrolladores front-end que trabajan en una agencia de diseño que ti
 Atom, un proyecto iniciado por  Github y, por lo tanto, ahora propiedad de Microsoft; se ha establecido como uno de los principales editores de código y texto.
 
 ![El editor Atom de código abierto es la mejor alternativa para quién no desee usar el editor visual studio de microsoft. Visto en Ciberninjas](../assets/img/paginas/editores-texto/atom-1.webp "El editor Atom de código abierto es la mejor alternativa para quién no desee usar el editor visual studio de microsoft. Visto en Ciberninjas")
+
+> ***Atom: El vehículo anfibio adaptable.***
 
 La mejor parte es que Atom es totalmente gratuito, de código abierto y altamente personalizable.
 
@@ -240,7 +276,7 @@ Como buenos, padre e hijo, VS Code y Atom compiten entre sí; pero a pesar de el
 
 Sigue manteniendo ambos editores bajo proyectos separados, como un buen acto de fe hacía las comunidades que trabajan alrededor de ellos.
 
-### **Mejores características del editor Atom**
+### **Mejores características del editor Atom** <!-- omit in toc -->
 
 1. Navegador del sistema de archivos.
 2. Teletype (trabajo online en equipo interno).
@@ -256,7 +292,7 @@ Sigue manteniendo ambos editores bajo proyectos separados, como un buen acto de 
 12. Altamente temático.
 13. Comunidad increíblemente apasionada.
 
-### **Atom es tu editor si..**
+### **Atom es tu editor si..** <!-- omit in toc -->
 
 Si eres el tipo de persona a la que le gusta que su software sea  exactamente lo que ellos quieren que sea y que haga  exactamente lo que tú quieres que haga.
 
@@ -266,7 +302,7 @@ Funciona muy bien desde el primer momento, pero su verdadero poder proviene de l
 
 Algunas personas se han desanimado por la adquisición de GitHub por parte de Microsoft, pero en los meses posteriores, Atom ha seguido creciendo.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Atom](https://atom.io/ "Página del editor de código abierto Atom"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Atom](https://github.com/atom/atom/releases/tag/v1.44.0 "Descargar totalmente gratis el editor ATOM"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -276,18 +312,20 @@ Un entorno de desarrollo Java gratuito diseñado para principiantes, utilizado p
 
 ![El editor BlueJ es uno de los mejores para los principiantes puesto que facilita mucho la inserción automática y los ejemplos del código. Visto en Ciberninjas](../assets/img/paginas/editores-texto/bluej-esquema.png "El editor BlueJ es uno de los mejores para los principiantes puesto que facilita mucho la inserción automática y los ejemplos del código. Visto en Ciberninjas")
 
-### **Mejores características del editor BlueJ**
+> ***BlueJ: El triciclo para los más jóvenes, y también para los más adultos.***
+
+### **Mejores características del editor BlueJ** <!-- omit in toc -->
 
 1. Diseñador para el aprendizaje.
 2. Ofrece opciones de interacción entre objetos.
 3. Numerosas integraciones y banco de objetos.
 4. El editor favorito de James Gosling, el creador de Java.
 
-### **BlueJ es para ti si..**
+### **BlueJ es para ti si..** <!-- omit in toc -->
 
 Si estas comenzando a programar en Java.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial BlueJ](https://www.bluej.org/ "Página web oficial del editor BlueJ"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar BlueJ](https://www.bluej.org/versions.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -297,13 +335,15 @@ Bluefish es más un  IDE  que un editor de texto real, lo que significa que pued
 
 ![El editor Bluefish es otro gran editor para principiantes del código, puesto que no posee gran número de opciones y facilita la elaboración limpia del código](../assets/img/paginas/editores-texto/bluefish-code.webp "El editor Bluefish es otro gran editor para principiantes del código, puesto que no posee gran número de opciones y facilita la elaboración limpia del código")
 
+> ***Bluefish: Un ayudante perfecto con forma de caña de pescar.***
+
 Es gratis, admite casi todos los idiomas porque es de código abierto y viene con una amplia variedad de características útiles para usar en muchas plataformas. La comunidad lo actualiza constantemente y se basa en el editor y puede manejar algunas bases de código bastante complejas.
 
 Puede editar en pantalla completa o ajustar el texto como desee, y la poderosa herramienta de búsqueda y reemplazo mantiene las cosas ordenadas.
 
 El IDE también admite muchas conexiones seguras, por lo que no tendrá que preocuparse por un cliente FTP separado, ya que puede trabajar en sus sitios y repositorios de forma remota desde el propio Bluefish.
 
-### **Mejores características del editor BlueFish**
+### **Mejores características del editor BlueFish** <!-- omit in toc -->
 
 1. Ligero.
 2. Entorno de desarrollo integrado.
@@ -318,7 +358,7 @@ El IDE también admite muchas conexiones seguras, por lo que no tendrá que preo
 11. Soporte de lenguaje de programación personalizable.
 12. Y mucho más.
 
-### **Bluefish es para ti si..**
+### **Bluefish es para ti si..** <!-- omit in toc -->
 
 Si quieres aprender todos los matices y el poder de un IDE completo.
 
@@ -326,7 +366,7 @@ Es posible que esta no sea la mejor opción para los programadores nuevos porque
 
 Con Bluefish, puedes hacer mucho si quieres esforzarte un poco por aprender a hacerlo cantar. No tiene el pulido de los IDE hechos por compañías como JetBrains (ver más abajo en la sección Premium), pero no mucho. Sin embargo, para una opción gratuita, es fenomenal.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial BlueFish](http://bluefish.openoffice.nl/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Bluefish](http://bluefish.openoffice.nl/index.html "Descarga gratuitamente el editor Bluefish"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -336,6 +376,8 @@ Codeshare, es un producto interesante. Es un editor de código gratuito basado e
 
 ![El editor codeshare es uno de los nuevos editores en la nubea, que facilitan el trabajo en equipo y la creación de código mientras se trabaja en común dentro de un mismo repositorio](../assets/img/paginas/editores-texto/codeshare.webp "El editor codeshare es uno de los nuevos editores en la nubea, que facilitan el trabajo en equipo y la creación de código mientras se trabaja en común dentro de un mismo repositorio")
 
+> ***Codeshare: El dron perfecto, para que puedas volar a donde quieras.***
+
 Si creas una cuenta, incluso puedes guardar tu código. Codeshare no es una herramienta de trabajo para el día a día. Con seguridad, no estarás, creando de un proyecto constantemente a través del trabajo en línea.
 
 Pero si a menudo te encuentras en la situación de estar en ordenadores diferentes, o pasas mucho tiempo programando fuera de casa; por ejemplo, en la Universidad. Tal vez, necesites compartir tu código contigo mismo o requieras de la ayuda de otras personas, a través de la búsqueda de solucionar este tipo de problemas nació: Codeshare.
@@ -344,7 +386,7 @@ La compañía, también cita, que puede ser un buen soporte para la realización
 
 Los docentes o profesores, también podrían aprovechar mucho esta herramienta; que además incluye docenas de temas y resaltados de sintaxis para todos los idiomas principales. Los métodos de atajo de teclado también están integrados, y puedes elegir un conjunto favorito de ellos: en similitud con Sublime, VIM o Emacs.
 
-### **Mejores características del editor Codeshare**
+### **Mejores características del editor Codeshare** <!-- omit in toc -->
 
 1. Gratis y no es necesario registrarse.
 2. Basado en el navegador.
@@ -354,7 +396,7 @@ Los docentes o profesores, también podrían aprovechar mucho esta herramienta; 
 6. Opciones de acceso directo entre Emacs, VIM y Sublime Text.
 7. Ligero y no se atasca fácilmente.
 
-### **Codeshare es para ti si..**
+### **Codeshare es para ti si..** <!-- omit in toc -->
 
 Si tienes una entrevista de programación, o necesitas apresurar algún código rápidamente. Si requieres usar una computadora externa, o enseñarle a alguien cómo hacer algo; o simplemente si necesitas un editor diferente al que posees en ese momento, por cualquier otra razón.
 
@@ -366,7 +408,7 @@ Sus características disponibles lo hacen sentir estable y robusto, algo así co
 
 Simplemente no esperes un IDE de él.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Codeshare](https://codeshare.io/ "Probar online el editor Codeshare"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **9. VIM**
@@ -374,6 +416,8 @@ Simplemente no esperes un IDE de él.
 Vim es hardcore. Seamos claros acerca de eso por adelantado. Cuando Sublime Text, Notepad ++ y algunos de los otros editores de esta lista son amigables para los novatos, Vim no se aconseja en absoluto por su total minimalismo.
 
 ![Eleditor VIM es específico para los usuarios de Linux o sistemas operativos unix; se centra en el uso de la consola. Visto en Ciberninjas](../assets/img/paginas/editores-texto/vim-editor.webp "Eleditor VIM es específico para los usuarios de Linux o sistemas operativos unix; se centra en el uso de la consola. Visto en Ciberninjas")
+
+> ***VIM: Un Ferrari Clásico, algo así como el 512.***
 
 Desde el sitio web oficial del software en sí, ya se advierte, de que Vim es una herramienta de programación, creada por programadores y para programadores.
 
@@ -387,7 +431,7 @@ Luego de aprender VIM a un nivel más o menos elevado; si intentas volver a otra
 
 Debido a que Vim puede ser tan intenso de aprender, [crearon un juego para que juegues](https://vim-adventures.com/){:target="_blank" rel="nofollow,noreferrer"} y aprendas cómo funciona. No es un tutorial, realmente, pero es una forma de no abrumarte con todo lo que hace a Vim, Vim, ¡Es muy divertido!
 
-### **Mejores características del editor VIM**
+### **Mejores características del editor VIM** <!-- omit in toc -->
 
 1. Diseñado para programadores y desarrolladores.
 2. IU Minimalista al máximo.
@@ -400,7 +444,7 @@ Debido a que Vim puede ser tan intenso de aprender, [crearon un juego para que j
 9. Soporte para cada lenguaje de programación imaginable.
 10. Y más.
 
-### **VIM es para ti si..**
+### **VIM es para ti si..** <!-- omit in toc -->
 
 Si eres el tipo de persona que no solo tecleas código, sino que lo vives y respiras. Si tienes alguna instalación de Linux, Vim es para ti.
 
@@ -408,7 +452,7 @@ Si tienes alguna distribución de Linux que no sea Ubuntu, adorarás Vim; y esta
 
 Es tan poderoso como cualquier otro editor, seguramente incluso más, pero la interfaz de usuario minimalista puede parecerte desagradable; tendrás que ser paciente hasta atravesar esa fachada arisca y lograr llegar a su hermosa experiencia que te puede ofrecer.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Vim](https://www.vim.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar VIM](https://www.vim.org/download.php "Descargar gratuitamente el editor VIM"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -418,6 +462,8 @@ Habiendo incluido a Vim, nos sentimos obligados a incluir también a Emacs. Para
 
 ![](../assets/img/paginas/editores-texto/emacs-editor.webp)
 
+> ***EMACS: Un Porsche Clásico, algo así como el 911 Turbo.***
+
 Son casi dos caras de la misma moneda, ya que están absolutamente diseñados para la mejor experiencia de desarrollador posible, al tiempo que eliminan muchas de las características extrañas que son barreras para la eficiencia.
 
 Emacs es liviano, está basado en la línea de comandos y forma parte de GNU; lo vas a encontrar disponible totalmente gratis en una gran cantidad de sistemas operativos.
@@ -426,10 +472,10 @@ Emacs adopta un enfoque de edición un poco más atractivo visualmente que Vim, 
 
 Si te encuentras en el mercado buscando un editor de texto y un IDE incondicional que estará prácticamente para siempre, Emacs es definitivamente una opción. Después de todo, el núcleo surgió en 1976 y esta iteración particular (GNU Emacs) se ha actualizado regularmente desde 1984.
 
-### **Mejores características del editor GNU Emacs**
+### **Mejores características del editor GNU Emacs** <!-- omit in toc -->
 
 1. Instalación de línea de comando.
-2.  Edición con reconocimiento de contenido.
+2. Edición con reconocimiento de contenido.
 3. Soporte Unicode para casi todo.
 4. Documentación incorporada.
 5. Tanto Lisp o interfaz gráfica.
@@ -440,13 +486,13 @@ Si te encuentras en el mercado buscando un editor de texto y un IDE incondiciona
 10. Disponible para casi todos los sistemas operativos.
 11. Y más.
 
-### **EMacs es para ti si..**
+### **EMacs es para ti si..** <!-- omit in toc -->
 
 Si prefierse la funcionalidad por encima de la interfaz pero Vim es demasiado mínimalista para ti. Además, puedes instalar Emacs en cualquier sistema operativo, por lo que no importa dónde te encuentres, que tu experiencia de codificación será la misma.
 
 Definitivamente, este no es uno de los mejores editores de texto para novatos, pero si has estado incursionando en diferentes entornos durante un tiempo y deseas mejorar la eficiencia, Emacs es justo lo que estás buscando.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial GNU Emacs](https://www.gnu.org/software/emacs/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar GNU Emacs](https://www.gnu.org/software/emacs/download.html "Descarga gratuita del editor GNU Emacs"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -456,6 +502,8 @@ Ahora que está familiarizado con VIM y Emacs, permítanos presentarle Spacemacs
 
 ![](../assets/img/paginas/editores-texto/spacemacs-editor.webp)
 
+> ***Spacemacs: El más complejo de conducir, la nave espacial de los editores.***
+
 En lugar de tener que elegir entre los editores de código, Pepsi o Coca-Cola, ya sabes. Obtienes lo mejor de ambos mundos en un nuevo editor de código abierto. El hecho de que combine los dos en un paquete más agradable que cualquiera de los dos no significa que sea más accesible.
 
 Spacemacs todavía no es un editor enfocado hacía principiantes. Es complejo y está lleno de funcionalidad por encima de su diseño, pero toda esa funcionalidad no llega a ser tan agresiva; como en los casos de sus padres.
@@ -464,7 +512,7 @@ El equipo de desarrollo y la comunidad han creado un conjunto de convenciones y 
 
 Si la idea de aprender un híbrido de los dos no te asusta, vale la pena considerar Spacemacs; y al igual que las fuentes de código de las que se deriva, Spacemacs también es totalmente gratis.
 
-### **Mejores características del editor Spacemacs**
+### **Mejores características del editor Spacemacs** <!-- omit in toc -->
 
 1. Convenciones de uso comunitario que tienen sentido.
 2. Atajos de teclado que son mnemotécnicos y fáciles de recordar.
@@ -475,15 +523,15 @@ Si la idea de aprender un híbrido de los dos no te asusta, vale la pena conside
 7. Comunidad activa.
 8. Muchos complementos y extensiones para personalizar.
 
-### **SpaceMacs es para ti si..**
+### **SpaceMacs es para ti si..** <!-- omit in toc -->
 
 Si sabes que significa esto:
 
-```
+{% highlight js %}
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
-```
+{% endhighlight %}
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Spacemacs](https://www.spacemacs.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Spacemacs](https://www.spacemacs.org/# "Descargar gratis el editor Spacemacs"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -493,9 +541,11 @@ Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora es
 
 ![Logotipo del editor de texto Komodo IDE](../assets/img/paginas/editores-texto/komodo-ide.webp "Logotipo del editor de texto Komodo IDE")
 
+> ***Komodo: El dragón que puede con todo.***
+
 Ahora puede usar la CLI de ActiveState, la Herramienta de estado, para crear nuevos proyectos de tiempo de ejecución, así como agregar, eliminar y enumerar todos los paquetes. Sin lugar a dudas una buena opción.
 
-### **Mejores características del editor Komodo IDE**
+### **Mejores características del editor Komodo IDE** <!-- omit in toc -->
 
 1. Un editor avanzado.
 2. Autocompletado y refactorización del código.
@@ -508,11 +558,11 @@ Ahora puede usar la CLI de ActiveState, la Herramienta de estado, para crear nue
 9. Código inteligente y depuración para Python, PHP, Perl, Tcl, Go, Ruby, Node.js, JavaScript, HTML, CSS, varias plantillas web y más.
 10. Agregado en la última versión React, Ember, Angular, Typescript y ES6.
 
-### **Komodo IDE es para ti si..**
+### **Komodo IDE es para ti si..** <!-- omit in toc -->
 
 Si deseas probar algo diferente y nuevo al más alto nivel, sin lugar a dudas. Sobre todo, puede ser muy recomendable, si eres una persona que te manejas en varios lenguajes, por su alta compatibilidad.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Komodo IDE](https://www.activestate.com/products/komodo-ide/download-ide/ "Descargar totalmente gratuito el editor Komodo IDE"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -522,9 +572,11 @@ Eclipse Theia es una plataforma extensible para desarrollar IDE de nube y escrit
 
 ![](../assets/img/paginas/editores-texto/theia-experimental.webp)
 
+> ***Eclipse Theia: Regresando a la luna, desde las nubes.***
+
 Si deseas conocer más, sobre [Eclipse Theia](/wiki/eclipse-theia)
 
-### **Mejores características del editor Eclipse Theia**
+### **Mejores características del editor Eclipse Theia** <!-- omit in toc -->
 
 1. Theia puede desarrollar un IDE y ejecutarlo en navegadores o aplicaciones de escritorio nativas.
 2. Alojado en la Fundación Eclipse, Fundación de Código Abierto.
@@ -533,11 +585,11 @@ Si deseas conocer más, sobre [Eclipse Theia](/wiki/eclipse-theia)
 5. Theia integra un terminal con todas sus funciones.
 6. Theia se basa en PhosphorJS, que proporciona una base sólida de widgets fácilmente arrastrables.
 
-### **Eclipse Theia es para ti si..**
+### **Eclipse Theia es para ti si..** <!-- omit in toc -->
 
 Si trabajas habitualmente a través de la nube, si estás familiarizado con la Fundación Eclipse o si quieres implicarte dentro de un proyecto nuevo, si deseas algo diferente.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Eclipse Theia](https://theia-ide.org/ "Página web oficial del editor de texto Eclipse"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Eclipse Theia](https://theia-ide.org/ "Probar gratis el editor Eclipse Theia"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -547,11 +599,13 @@ Light Table es un entorno de desarrollo integrado para ingeniería de software d
 
 ![](../assets/img/paginas/editores-texto/lighttable-editor.webp)
 
+> ***Light Table: El hijastro peleón del Ceceo***
+
 La retroalimentación instantánea proporciona un entorno de ejecución inusual destinado a ayudar a desarrollar abstracciones. El equipo de desarrollo intentó crear un programa que muestre al programador cuáles son los efectos de sus adiciones en tiempo real, en lugar de exigirles que resuelvan los efectos mientras escriben el código.
 
 Aunque el programa comenzó por admitir solo Clojure, desde entonces ha tenido como objetivo admitir Python y JavaScript debido a su popularidad. Los desarrolladores afirman que el software puede reducir el tiempo de programación hasta en un 20%.
 
-### **Mejores características del editor Light Table**
+### **Mejores características del editor Light Table** <!-- omit in toc -->
 
 1. Evaluación en línea.
 2. Fuente abierta.
@@ -559,11 +613,11 @@ Aunque el programa comenzó por admitir solo Clojure, desde entonces ha tenido c
 4. Plugin Manager.
 5. Edición poderosa.
 
-### **Light Table es para ti si..**
+### **Light Table es para ti si..** <!-- omit in toc -->
 
 Si buscas un editor diferente a los más utilizados; o bien uno enfocado en trabajar con Clojure, Python o JavaScript.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Light Table](http://lighttable.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Light Table](http://lighttable.com/# "Descargar gratis el editor Light Table"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -573,9 +627,11 @@ Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de
 
 ![](../assets/img/paginas/editores-texto/delphi-editor.webp)
 
+> ***Delphi: La Pascalina de la programación.***
+
 Delphi Community Edition incluye un editor de código, potentes herramientas de depuración, acceso integrado a bases de datos locales populares con datos en tiempo real en tiempo de diseño, funcionalidad Bluetooth y de IoT y un diseñador visual de UI con soporte para diseño de píxel perfecto y específico para la plataforma.
 
-### **Mejores características del editor Delphi Comunity Edition**
+### **Mejores características del editor Delphi Comunity Edition** <!-- omit in toc -->
 
 1. Delphi Community Edition te proporciona herramientas de desarrollo integradas y de nivel profesional desde el 1.er día.
 2. Desarrollas aplicaciones para Windows, macOS, Android y iOS con un solo código fuente.
@@ -585,11 +641,11 @@ Delphi Community Edition incluye un editor de código, potentes herramientas de 
 6. Cientos de componentes incluidos para mejorar tu aplicación y reducir los ciclos de desarrollo.
 7. Enfocado al lenguaje Object Pascal.
 
-### **Delphi es para ti si..**
+### **Delphi es para ti si..** <!-- omit in toc -->
 
 Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Delphi, que está basado en Object Pascal.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Delphi Embarcadero](https://www.embarcadero.com/es/products/delphi/starter "Página web del editor Delphi Embarcadero"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Delphi Community Edition](https://www.embarcadero.com/es/products/delphi/starter/free-download "Descargar gratis el editor Delphi Comunity"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -599,11 +655,13 @@ Markdown Monster no es un editor al uso, no se centra en la programación concre
 
 ![](../assets/img/paginas/editores-texto/editor-markdown-monster-1.webp)
 
+> ***Markdown Monster: El monstruo del Markdown.***
+
 Sin lugar a dudas Monster nos ofrece una extensa gama de posibilidades a la hora de prefabricar nuestras publicaciones.
 
 Solamente se encuentra disponible para Windows.
 
-### **Mejores características del editor Markdown Monster**
+### **Mejores características del editor Markdown Monster** <!-- omit in toc -->
 
 1. Sintaxis coloreada Markdown
 2. Vista previa de HTML en vivo
@@ -620,11 +678,11 @@ Solamente se encuentra disponible para Windows.
 13. Expansión de texto de plantilla
 14. .NET scripting y complementos
 
-### **Markdown Monster es para ti si..**
+### **Markdown Monster es para ti si..** <!-- omit in toc -->
 
 Si eres escritor, redactor o creador de contenidos; y tienes la posibilidad de realizar tus artículos a través del lenguaje de marcado de Markdown (personalmente, te recomiendo al 100% de que te acostumbres a utilizarlo -markdown-) y quieres facilitar al máximo la edición y publicación de tus trabajos.
 
-[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔝 Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 Web Oficial Markdown Monster](https://markdownmonster.west-wind.com/ "Página web del editor Markdown Monster"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Markdown](https://markdownmonster.west-wind.com/download.aspx "Descargar gratis el editor Markdown Monster"){: .btn .btn-outline-dark .btn-lg .btn-block}
 
