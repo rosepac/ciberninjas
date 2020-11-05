@@ -15,7 +15,7 @@ feature-img: /assets/img/amazon/black-friday.webp
 img: /assets/img/amazon/black-friday.webp
 ---
 
-Parece que el Black Friday 2021 será diferente a medida que se acerque la fecha, del 27 de Noviembre: Las ofertas en línea dominarán más de lo que lo han hecho en años anteriores, y **Amazon ya ha comenzado a poner descuentos desde el día 1 de Noviembre hasta el día del 27 de Noviembre, que se celebrará el Black Friday oficialmente.
+Parece que el Black Friday 2021 será diferente a medida que se acerque la fecha, del 27 de Noviembre: Las ofertas en línea dominarán más de lo que lo han hecho en años anteriores, y **Amazon ya ha comenzado a poner descuentos desde el día 1 de Noviembre hasta el día del 27 de Noviembre**, que se celebrará el **Black Friday** oficialmente.
 
 > **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
 
@@ -35,7 +35,7 @@ Además, Amazon ha lanzando una inumerable lista de ofertas sobre todos sus disp
   - [**Dispositivos Echo Dot y Echo Show**](#dispositivos-echo-dot-y-echo-show)
   - [**Dispositivos TV y Videollamadas para el Portal**](#dispositivos-tv-y-videollamadas-para-el-portal)
   - [**Dispositivos de Cámaras de Seguridad**](#dispositivos-de-cámaras-de-seguridad)
-  - [**Echo Dot y Echo Flex**](#echo-dot-y-echo-flex)
+  - [**Echo Flex**](#echo-flex)
 - [**Cheques & Tarjetas de Regalo**](#cheques--tarjetas-de-regalo)
 - [**Preguntas y Respuestas: Amazon Prime**](#preguntas-y-respuestas-amazon-prime)
 - [**Detalles de la Semana Black Friday 2021**](#detalles-de-la-semana-black-friday-2021)
@@ -90,27 +90,21 @@ Además, Amazon ha lanzando una inumerable lista de ofertas sobre todos sus disp
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01M675RC9&linkId=77078413f2760c9ea327a190ffb68a65"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01M7SSR5F&linkId=f6f925ed19bcad4a54584a13ab76210b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07X7CQBJP&linkId=99aa60bee8f408a391d7df178d958b71"></iframe>
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+<!-- **Tabletas Electrónicas** -->
 <!--
-### **Tabletas Electrónicas**
-
 * [Fire 7 - 32 GB](https://amzn.to/2OfcIeF){:target="_blank" rel="nofollow,noreferrer"} con 20 € de descuento
 * [Fire 8 HD - 16 GB](https://amzn.to/34jUZsg){:target="_blank" rel="nofollow,noreferrer"} con 30 € de descuento
 * [Fire 8 HD - 32 GB](https://amzn.to/2DbyvNT){:target="_blank" rel="nofollow,noreferrer"} con 30 € de descuento
 * [Funda Infantil Fire 7](https://amzn.to/2pJqcWF){:target="_blank" rel="nofollow,noreferrer"} de diferentes colores, ahorras 7,50 €
-* [Fundas para tablet Fire 7](https://amzn.to/2D5Xmmi){:target="_blank" rel="nofollow,noreferrer"} <!-- de diferentes colores, ahorras 7,50 €
-
-[🔝 REGRESAR 🔝](/black-friday-amazon/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+* [Fundas para tablet Fire 7](https://amzn.to/2D5Xmmi){:target="_blank" rel="nofollow,noreferrer"} de diferentes colores, ahorras 7,50 €
 -->
 
-### **Echo Dot y Echo Flex**
+### **Echo Flex**
 
-* [Echo Dot con Reloj](https://amzn.to/2OavFz3){:target="_blank" rel="nofollow,noreferrer"} solamente por 35 €
-* [Echo Flex + Philips Hue White Pack de 2 bombillas](https://amzn.to/2QU4z19){:target="_blank" rel="nofollow,noreferrer"} solamente por 35 €
-* [Echo Flex + Philips Hue White 2 Color](https://amzn.to/2qDulvI){:target="_blank" rel="nofollow,noreferrer"} ahorro de 50 €
-* [Amazon Echo (3.ª generación), edición (RED) + Philips Hue White & Color](https://amzn.to/34frOGx){:target="_blank" rel="nofollow,noreferrer"} ahorras casi 74 euros
-* [Amazon Echo (3.ª generación), tela de color añil + Philips Hue White Pack de 2 bombillas](https://amzn.to/33eXJp8){:target="_blank" rel="nofollow,noreferrer"} ahorras casi 50 euros
+* [Echo Flex + Philips Hue White Pack de 2 bombillas](https://amzn.to/2QU4z19){:target="_blank" rel="nofollow,noreferrer"} por 53,99 € con un pequeño descuento.
+* [Echo Flex + Philips Hue White 2 Color](https://amzn.to/2qDulvI){:target="_blank" rel="nofollow,noreferrer"} por 97,20 € con un descuento de poco más de 20 €.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07NQCVHQ6&linkId=eade4adf2c5932ace80fe60dac25e9f4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08125LLPZ&linkId=303511a3d568c7af2e137ffe5890f0e0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08125GZZN&linkId=a17cc98bf1ba5f9fe5992ff9889d1e06"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B081G6W2Z9&linkId=68d2a98974eacde3d6e4cce13907be93"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B081257RKG&linkId=67fe6b633853ad5dac286625d1a8d600"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08125LLPZ&linkId=255bc59df2fd3c21e4904c0a9aa60b05"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08125GZZN&linkId=0221f37936736f080a1b60e41d1e5773"></iframe>
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 <!-- Legos: https://amzn.to/2DbALoC -->
@@ -139,9 +133,7 @@ Regalo de 100 € para la Playstation Store.
 
 ## **Preguntas y Respuestas: Amazon Prime**
 
-👉 [Aquí podrás salir de todas tus posibles dudas](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){:target="_blank" rel="nofollow,noreferrer"}
-
-👉 [Servicios Extras de Amazon](https://ciberninjas.com/prime-day-amazon/#qu%C3%A9-servicios-interesantes-ofrece-amazon){:target="_blank" rel="nofollow,noreferrer"}
+👉 [Información sobre Amazon Prime](https://ciberninjas.com/prime-day-amazon/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -161,7 +153,7 @@ Además de la amplia selección de ofertas y descuentos disponibles durante la s
 
 ## **Sobre el Black Friday 2021**
 
-Muchas de las grandes empresas de supermercados, como Walmart , Best Buy y Target están dando a su personal el Día de Acción de Gracias como día de vacaciones, y las tiendas no abrirán en medio del telón de fondo de la pandemia mundial. Best Buy confirmó que distribuirá las ofertas este año, en lugar de forzarlas a un solo período de un fin de semana y se espera que otros minoristas sigan estos pasos.
+Muchas de las grandes empresas de supermercados, como Walmart, Best Buy y Target están dando a su personal el Día de Acción de Gracias como día de vacaciones, y las tiendas no abrirán en medio del telón de fondo de la pandemia mundial. Best Buy confirmó que distribuirá las ofertas este año, en lugar de forzarlas a un solo período de un fin de semana y se espera que otros minoristas sigan estos pasos.
 
 Entonces, **¿Qué significa todo eso respecto a las mejores ofertas de computadoras, portátiles y otros compoentes de computadoras?**
 
@@ -192,6 +184,8 @@ Sin embargo, no hay nada este año que sugiera que los televisores, las computad
 <!-- https://www.blackerfriday.com/?fbclid=IwAR2JTqRCr2VHTpzVmJyMKRWJGxdaV9B2MgKVnhu-kLd7KbzOt1lgHp5FIcw -->
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+
+> 👷‍♂️ 👇 **EL CONTENIDO SIGUIENTE, SE ENCUENTRA EN CONSTRUCCIÓN A LA ESPERA DEL BLACK FRIDAY** 👷‍♂️ 👇
 
 ## **🎁 Más Black Friday**
 
