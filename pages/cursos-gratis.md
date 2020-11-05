@@ -20,7 +20,7 @@ img: /assets/img/2020/10/web-herramientas.webp
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Cursos Programación</li>
+    <li class="breadcrumb-item active" aria-current="page">Cursos Gratis</li>
   </ol>
 </nav>
 </div>
