@@ -1,9 +1,9 @@
 ---
 
 layout: page
-title: "🥇 ▷ Los 30 Mejores Podcasts de tecnología en Español 2021"
-description: "Los mejores podcasts de tecnología, programación y diseño que debes escuchar en tus ratos libres"
-excerpt: "Los mejores podcasts de tecnología, programación y diseño que debes escuchar en tus ratos libres"
+title: "🥇 ▷ Los 30 Mejores PODCAST de tecnología en Español 2021"
+description: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
+excerpt: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
 bootstrap: true
 date: 2020-11-01
 permalink: /podcasts-tecnologia/
