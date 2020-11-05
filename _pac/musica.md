@@ -15,7 +15,7 @@ feature-img: /assets/img/2020/10/musica-chica.webp
 img: /assets/img/2020/10/musica-chica.webp
 ---
 
-La música random del menda lerenda, rosepac. Vale. Mis gustos son eclépticos, por lo que vas a poder encontrarte casi de todo por etre estos rneproductores; solamente espero que no te asustes 😹
+La música random del menda lerenda, rosepac. Vale. Mis gustos son eclépticos, por lo que vas a poder encontrarte casi de todo por entre estos reproductores, solamente espero que no te asustes.. Y puedas encontrar algo que te interese y entretenga. 😹
 
 A lo largo de mi vida, siempre he escuchado más o menos la misma música, pero a veces se me ha ido la cabeza un poco más hacía el rock, y otras veces hacía la música románticona, e incluso he tenido mis ratos de mala ostia con la música punkarra y metalera.
 
