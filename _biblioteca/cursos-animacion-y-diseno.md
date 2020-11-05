@@ -17,15 +17,40 @@ feature-img: "/assets/img/paginas/collage-arte-ondas-rojas-1280.webp"
 img: "/assets/img/paginas/collage-arte-ondas-rojas-1280.webp"
 ---
 
-[Diseño Gráfico Recursos](/cursos-animacion-diseno/){: .btn .btn--inverse .btn--large} [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}
+Los mejores cursos seleccionados de diseño, diseño vectorial, diseño 3D y otras artes relacionadas.
 
-### Índice
+[Diseño Gráfico Recursos](/cursos-animacion-diseno/){: .btn .btn-outline-dark .btn-lg .btn-block} [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn-outline-dark .btn-lg .btn-block} [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn-outline-dark .btn-lg .btn-block} [Aprender Diseño Web](/diseño-web/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-[Animación & 3D 🔳](/cursos-animacion-diseno/#animaci%c3%b3n--3d){: .btn .btn--inverse .btn--large} [Arquitectura 🏗](/cursos-animacion-diseno/#arquitectura){: .btn .btn--inverse .btn--large} [Arte & Cultura 🎨](/cursos-animacion-diseno/#arte--cultura){: .btn .btn--inverse .btn--large} [Comunicaciones & Sonido 📞](/cursos-animacion-diseno/#comunicaciones--sonido){: .btn .btn--inverse .btn--large} [Dibujo 🖌](/cursos-animacion-diseno/#dibujo){: .btn .btn--inverse .btn--large} [Diseño 👩‍🎨](/cursos-animacion-diseno/#dise%c3%b1o){: .btn .btn--inverse .btn--large} [Diseño Editorial 📐](/cursos-animacion-diseno/#diseño-editorial){: .btn .btn--inverse .btn--large} [Diseño Photoshop & Gimp 👨‍🎨](/cursos-animacion-diseno/#dise%c3%b1o-photoshop--gimp){: .btn .btn--inverse .btn--large} [Diseño Vectorial ✏](/cursos-animacion-diseno/#dise%c3%b1o-vectorial){: .btn .btn--inverse .btn--large} [Fotografía´📸](/cursos-animacion-diseno/#fotograf%c3%ada){: .btn .btn--inverse .btn--large} [Sonido 🔊](/cursos-animacion-diseno/#sonido){: .btn .btn--inverse .btn--large} [Vídeo 📹](/cursos-animacion-diseno/#v%c3%addeo){: .btn .btn--inverse .btn--large}
+- [Animación & 3D](#animación--3d)
+  - [3D Studio Max](#3d-studio-max)
+  - [Audivisuales](#audivisuales)
+  - [Autocad](#autocad)
+  - [Autodesk](#autodesk)
+  - [Blender](#blender)
+  - [Cinema 4D](#cinema-4d)
+  - [SketchUp](#sketchup)
+  - [Solidworks](#solidworks)
+  - [VRay](#vray)
+  - [Zbrush](#zbrush)
+  - [Otros (pendientes de clasificar)](#otros-pendientes-de-clasificar)
+- [Arquitectura](#arquitectura)
+- [Arte & Cultura](#arte--cultura)
+- [Comunicaciones & Sonido](#comunicaciones--sonido)
+- [Dibujo](#dibujo)
+- [Diseño](#diseño)
+- [Diseño Editorial](#diseño-editorial)
+- [Diseño Gráfico](#diseño-gráfico)
+  - [Photosop](#photosop)
+  - [GIMP](#gimp)
+- [Diseño Vectorial](#diseño-vectorial)
+- [Fotografía](#fotografía)
+- [Sonido](#sonido)
+- [Vídeo](#vídeo)
+  - [Información](#información)
 
 ## Animación & 3D
 
-[3D Studio Max](#3d-studio-max){: .btn .btn--inverse .btn--large} [Autocad](#autocad){: .btn .btn--inverse .btn--large} [Autodesk](#autodesk){: .btn .btn--inverse .btn--large} [Blender](#blender){: .btn .btn--inverse .btn--large} [Cinema 4D](#cinema-4d){: .btn .btn--inverse .btn--large} [SketchUp](#sketchup){: .btn .btn--inverse .btn--large} [Solidworks](#solidworks){: .btn .btn--inverse .btn--large} [VRay](#vray){: .btn .btn--inverse .btn--large} [Zbrush](#zbrush){: .btn .btn--inverse .btn--large} [Otros](#otros){: .btn .btn--inverse .btn--large}
+[3D Studio Max](#3d-studio-max){: .btn .btn-outline-dark .btn-lg .btn-block} [Autocad](#autocad){: .btn .btn-outline-dark .btn-lg .btn-block} [Autodesk](#autodesk){: .btn .btn-outline-dark .btn-lg .btn-block} [Blender](#blender){: .btn .btn-outline-dark .btn-lg .btn-block} [Cinema 4D](#cinema-4d){: .btn .btn-outline-dark .btn-lg .btn-block} [SketchUp](#sketchup){: .btn .btn-outline-dark .btn-lg .btn-block} [Solidworks](#solidworks){: .btn .btn-outline-dark .btn-lg .btn-block} [VRay](#vray){: .btn .btn-outline-dark .btn-lg .btn-block} [Zbrush](#zbrush){: .btn .btn-outline-dark .btn-lg .btn-block} [Otros](#otros){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### 3D Studio Max
 
@@ -34,6 +59,10 @@ img: "/assets/img/paginas/collage-arte-ondas-rojas-1280.webp"
 * [3D Studio Max Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IfCUr-yWF_iTIDEOq4HjdQm){:target="_blank" rel="nofollow,noreferrer"}
 * [3D Studio Max Curso Intensivo](https://www.youtube.com/playlist?list=PLrBX_a87v6cJOZY-yiQH9wT2ysRCZkWwh){:target="_blank" rel="nofollow,noreferrer"}
 * [3D Studio Max Modificadores](https://www.youtube.com/playlist?list=PLrBX_a87v6cJhiTWadVYWDJxhhcsTXjoj){:target="_blank" rel="nofollow,noreferrer"}
+
+### Audivisuales
+
+* [Creación Audiovisual: Aprendiendo de los mejores](https://www.youtube.com/playlist?list=PLc6y_bIejLFEOnLIpwADYcsIIh8eROuDw) - Cómo empezar en Youtube.
 
 ### Autocad
 
@@ -203,7 +232,7 @@ img: "/assets/img/paginas/collage-arte-ondas-rojas-1280.webp"
 
 ## Diseño Gráfico
 
-[Photosop](#photosop){: .btn .btn--inverse .btn--large} [GIMP](#gimp){: .btn .btn--inverse .btn--large}
+[Photosop](#photosop){: .btn .btn-outline-dark .btn-lg .btn-block} [GIMP](#gimp){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### Photosop
 
