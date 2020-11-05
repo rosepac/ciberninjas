@@ -61,29 +61,24 @@ Este ciclo es, una de las tres posibilidades existentes dentro de las capacitaci
 Conjunto al curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información de reciente creación.
 
 - [**1. Bases de datos**](#1-bases-de-datos)
-  - [🛒 Libros de texto de bases de datos](#-libros-de-texto-de-bases-de-datos)
+  - [**Recursos gratis de bases de datos**](#recursos-gratis-de-bases-de-datos)
 - [**2. Entornos de desarrollo**](#2-entornos-de-desarrollo)
-  - [🛒 Libros de texto de entornos de desarrollo](#-libros-de-texto-de-entornos-de-desarrollo)
 - [**3. Formación y orientación laboral**](#3-formación-y-orientación-laboral)
-  - [🛒 Libros de texto de formación y orientación laboral](#-libros-de-texto-de-formación-y-orientación-laboral)
 - [**4. Lenguajes de Marcas y Sistemas de Gestión de Información**](#4-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
-  - [🛒 Libros de texto de lenguajes de marcas y sistemas de gestión de información](#-libros-de-texto-de-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
+  - [**Recursos gratis de lenguajes de marcas y sistemas de gestión de información**](#recursos-gratis-de-lenguajes-de-marcas-y-sistemas-de-gestión-de-información)
 - [**5. Programación**](#5-programación)
-  - [🛒 Libros de texto de programación](#-libros-de-texto-de-programación)
+  - [**Recursos gratis de Programación**](#recursos-gratis-de-programación)
 - [**6. Sistemas informáticos**](#6-sistemas-informáticos)
-  - [🛒 Libros de texto de sistemas informáticos](#-libros-de-texto-de-sistemas-informáticos)
 - [**7. Diseño de interfaces web**](#7-diseño-de-interfaces-web)
-  - [🛒 Libros de texto de diseño de interfaces web](#-libros-de-texto-de-diseño-de-interfaces-web)
+  - [**Recursos gratis de diseño de interfaces web**](#recursos-gratis-de-diseño-de-interfaces-web)
 - [**8. Empresa e iniciativa emprendedora**](#8-empresa-e-iniciativa-emprendedora)
-  - [🛒 Libros de texto de empresa e iniciativa emprendedora](#-libros-de-texto-de-empresa-e-iniciativa-emprendedora)
 - [**9. Desarrollo web en entorno cliente**](#9-desarrollo-web-en-entorno-cliente)
-  - [🛒 Libros de texto de desarrollo web en entorno cliente](#-libros-de-texto-de-desarrollo-web-en-entorno-cliente)
+  - [**Recursos gratis de desarrollo web en entorno cliente**](#recursos-gratis-de-desarrollo-web-en-entorno-cliente)
 - [**10. Desarrollo web en entorno servidor**](#10-desarrollo-web-en-entorno-servidor)
-  - [🛒 Libros de texto de desarrollo web en entorno servidor](#-libros-de-texto-de-desarrollo-web-en-entorno-servidor)
+  - [**Recursos gratis de desarrollo web en entorno servidor**](#recursos-gratis-de-desarrollo-web-en-entorno-servidor)
 - [**11. Despliegue de aplicaciones web**](#11-despliegue-de-aplicaciones-web)
-  - [🛒 Libros de texto desarrollo web en entorno servidor](#-libros-de-texto-desarrollo-web-en-entorno-servidor)
+  - [**Recursos gratis de despliegue de aplicaciones web**](#recursos-gratis-de-despliegue-de-aplicaciones-web)
 - [**12. Proyecto de desarrollo de aplicaciones web**](#12-proyecto-de-desarrollo-de-aplicaciones-web)
-  - [🛒 Libros de proyecto de desarrollo de aplicaciones web](#-libros-de-proyecto-de-desarrollo-de-aplicaciones-web)
 - [**13. Formación en centros de trabajo**](#13-formación-en-centros-de-trabajo)
 - [**Recursos Extra FP Desarrollo de Aplicaciones Web**](#recursos-extra-fp-desarrollo-de-aplicaciones-web)
   - [Extra 1. **Apuntes Completos de la asignatura de Entornos de Desarrollo**](#extra-1-apuntes-completos-de-la-asignatura-de-entornos-de-desarrollo)
@@ -108,18 +103,20 @@ El primer curso de Desarrollo de Aplicaciones Web consiste en cursar las asignat
 
 En la asignatura de bases de datos vas a poder aprender una introducción a los sistemas lógicos de información, aprenderás a comprender el modelo relacional, los lenguajes relacionales, el lenguaje SQL, a diseñar, proyectar y prototipar de bases de datos, vas a conocer el modelo de entidad - relación, y a crear diseños relacionales lógicos.
 
+### Libros de texto de bases de datos 🛒 <!-- omit in toc -->
+
+[Garceta](https://amzn.to/3icE9SZ) (2014) \ [Rama](https://amzn.to/3bEueD3) (2012) \ [Sintesis](https://amzn.to/2GIPmgc) (2014)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452950&linkId=779c655de6e046705dc1c74ac323ebb0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641571&linkId=c7752adee0fedbe1567202790020e92e"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8490770425&linkId=b50590bbd7d1fb65fbf112332fe4c85b"></iframe>
+
+### **Recursos gratis de bases de datos**
+
 En nuestra biblioteca Ciberninjas vas a poder encontrar [los mejores libros de bases de datos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos) bajo licencia Creative Commons, a continuación, te indico los que personalmente me han parecido mejores recursos.
 
 - [**Diseño Conceptual de Bases de Datos**](https://drive.google.com/file/d/177YFW1w002Kz0_Z4DQ2V4XmztZOen5dt/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2.004) 📖 Las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo) por Jorge Sanchéz.
 - [**Apuntes Básicos de SQL**](https://drive.google.com/file/d/11JtEKAQWPgDynT3A7jkYp1d4YvMCn4Hs/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2.008) 📖 Estos apuntes son una introducción muy básica al SQL, en ningún caso sustituyen a un buen manual, por Unai Estébanez.
 - [**Bases de Datos**](https://drive.google.com/file/d/1R2MbP0uldOvFRER37NCOAzPNA8fhxudj/view){:target="_blank" rel="nofollow,noreferrer"} (2.011) 📖 Este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas) por Mercedes Marqués.
 - [**Bases de datos avanzadas**](https://drive.google.com/file/d/1GZlfXH303ZdnB_kxFkx2rnid7uoLooWe/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (2.013) 📖 Esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos) por Aramburu & Sanz Blasco.
-
-### 🛒 Libros de texto de bases de datos
-
-[Garceta](https://amzn.to/3icE9SZ) (2014) \ [Rama](https://amzn.to/3bEueD3) (2012) \ [Sintesis](https://amzn.to/2GIPmgc) (2014)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452950&linkId=779c655de6e046705dc1c74ac323ebb0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641571&linkId=c7752adee0fedbe1567202790020e92e"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8490770425&linkId=b50590bbd7d1fb65fbf112332fe4c85b"></iframe>
 
 ## **2. Entornos de desarrollo**
 
@@ -162,7 +159,7 @@ Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportami
 </div>
 </div>
 
-### 🛒 Libros de texto de entornos de desarrollo
+### Libros de texto de entornos de desarrollo 🛒 <!-- omit in toc -->
 
 [Garceta](https://amzn.to/2R9LRkV) \ [Rama](https://amzn.to/3bM7gdu) (2012)
 
@@ -174,7 +171,7 @@ Finalmente, aprenderás a realizar diagramas de clases y diagramas de comportami
 En la asignatura de formación y orientación laboral vas a aprender a conocer los contratos de trabajo, la jornada laboral y su retribución, la creación y estudio de nóminas, la prevención en la empresa, los riesgos laborales y los posibles conflictos dentro de la empresa.
 <!-- https://www.mheducation.es/bcv/guide/capitulo/8448191595.pdf -->
 
-### 🛒 Libros de texto de formación y orientación laboral
+### Libros de texto de formación y orientación laboral 🛒 <!-- omit in toc -->
 
 [Editex](https://amzn.to/35k39Ea) (2020) \ [Paraninfo](https://amzn.to/2R9mzn2) (2019) \ [Paraninfo](https://amzn.to/2DMcPfq) (2018) \ [Editex](https://amzn.to/33cGpmO) (2018) \ [McGraw Hill](https://amzn.to/32c9gsa) (2017)
 
@@ -184,19 +181,31 @@ En la asignatura de formación y orientación laboral vas a aprender a conocer l
 
 En la asignatura de lenguajes de marcas y sistemas de gestión vas a aprender que es XHTML, que es HTML, que es DTD, que es XSD y la estructura y formas de trabajo con todos ellos.
 
+### Libros de texto de lenguajes de marcas y sistemas de gestión de información 🛒 <!-- omit in toc -->
+
+[Sintesis](https://amzn.to/2ZlXglY) (2018) \ [Garceta](https://amzn.to/2GIm8hv) (2012) \ [Rama](https://amzn.to/35lJHH4) (2011)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491711759&linkId=4de97fd4b80513e1b8b89abf5bd75003"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452179&linkId=6348e4058e4c3b9f604f6191975d986b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641016&linkId=837d36d2acdeed5a714b0c689ec4660b"></iframe>
+
+### **Recursos gratis de lenguajes de marcas y sistemas de gestión de información**
+
 - Guía Completa de CSS3. Antonio Navajas: [**OpenLibra: Guía Completa de CSS3**](https://openlibra.com/es/book/download/guia-completa-de-css3){:target="_blank" rel="nofollow,noreferrer"} (CSS u hojas de estilo en cascada (en inglés Cascading Style Sheets) es un lenguaje usado para definir la presentación).
 
 - CSS3 y JavaScript Avanzado (2.013): [**OpenLibra: CSS3 y Javascript avanzado**](https://openlibra.com/es/book/download/css3-y-javascript-avanzado){:target="_blank" rel="nofollow,noreferrer"} (En este manual proveniente de la UOC se analizan dos de las tecnologías más punteras en cuanto al desarrollo web y CSS3).
 - HTML5. ArkaitzGarro: [**HTML5**](https://www.arkaitzgarro.com/html5/index.html){:target="_blank" rel="nofollow,noreferrer"}
 - CSS3. ArkaitzGarro: [**CSS 3**](https://www.arkaitzgarro.com/css3/){:target="_blank" rel="nofollow,noreferrer"}
 
-### 🛒 Libros de texto de lenguajes de marcas y sistemas de gestión de información
-
-[Sintesis](https://amzn.to/2ZlXglY) (2018) \ [Garceta](https://amzn.to/2GIm8hv) (2012) \ [Rama](https://amzn.to/35lJHH4) (2011)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491711759&linkId=4de97fd4b80513e1b8b89abf5bd75003"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452179&linkId=6348e4058e4c3b9f604f6191975d986b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641016&linkId=837d36d2acdeed5a714b0c689ec4660b"></iframe>
-
 ## **5. Programación**
+
+> Los lenguajes de programación tienen muchas similitudes con las lenguas de uso general como el inglés.
+
+### Libros de texto de programación 🛒 <!-- omit in toc -->
+
+[Garceta](https://amzn.to/2R5jVOT) (2013) \ [Rama](https://amzn.to/35jZshB) (2011)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452594&linkId=9263f21a58c82b01bb84c94cce8ed82c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499640885&linkId=4abe484ec5abede0d376840723f3675c"></iframe>
+
+### **Recursos gratis de Programación**
 
 - Programación en Lenguaje JAVA (2.015) OpenCourse: [Curso: Programación en Lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26){:target="_blank" rel="nofollow,noreferrer"} (programación en Lenguaje Java, en el que se ven los fundamentos de la programación de computadores y del razonamiento).
 - Programación en JAVA (2.012): [**Programación en Java - Sitio Web de Javier García Escobedo (javiergarciaescobedo.es)**](https://javiergarciaescobedo.es/programacion-en-java){:target="_blank" rel="nofollow,noreferrer"}
@@ -211,18 +220,7 @@ En la asignatura de lenguajes de marcas y sistemas de gestión vas a aprender qu
 - Programación Orientada a Objetos en JAVA (2.006): [**OpenLibra: Programación Orientada a Objetos en Java**](https://openlibra.com/es/book/download/programacion-orientada-a-objetos-en-java){:target="_blank" rel="nofollow,noreferrer"} (Un apoyo que tiene el proceso enseñanza-aprendizaje, es precisamente el material didáctico, ya sea a través de apuntes).
 - Notas de Introducción al Lenguaje de Programación JAVA (2.004): [**PDF de programación - Notas de Introducción al Lenguaje de Programación Java**](https://www.lawebdelprogramador.com/pdf/1905-Notas-de-Introduccion-al-Lenguaje-de-Programacion-Java.html){:target="_blank" rel="nofollow,noreferrer"} (Notas de Introducción al Lenguaje de Programación Java Jorge L. Ortega Arjona).
 - Prácticas de JAVA (2.006): [**OpenLibra: Prácticas de Java**](https://openlibra.com/es/book/download/practicas-de-java){:target="_blank" rel="nofollow,noreferrer"} (Con las siguientes prácticas se pretende afianzar los conceptos de programación orientada a objetos (POO)).
-
-Piensa en JAVA. Edición Española (2.002)
-
-* [**OpenLibra: Piensa en Java (Edición española)**](https://openlibra.com/es/book/piensa-en-java-edicion-espanola){:target="_blank" rel="nofollow,noreferrer"}
-
-> Los lenguajes de programación tienen muchas similitudes con las lenguas de uso general como el inglés.
-
-### 🛒 Libros de texto de programación
-
-[Garceta](https://amzn.to/2R5jVOT) (2013) \ [Rama](https://amzn.to/35jZshB) (2011)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452594&linkId=9263f21a58c82b01bb84c94cce8ed82c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499640885&linkId=4abe484ec5abede0d376840723f3675c"></iframe>
+- Piensa en JAVA. Edición Española (2.002): [**OpenLibra: Piensa en Java (Edición española)**](https://openlibra.com/es/book/piensa-en-java-edicion-espanola){:target="_blank" rel="nofollow,noreferrer"}
 
 > **Asignaturas del segundo curso de DAW**: Subiré los apuntes de cada asignatura, poco a poco 👷‍♂️
 
@@ -234,7 +232,7 @@ En la asignatura de sistemas informáticos de los ciclos de informática de grad
 
 Los contenidos de los módulos de sistemas operativos monopuesto, redes locales y un poquito de sistemas operativos en red.
 
-### 🛒 Libros de texto de sistemas informáticos
+### Libros de texto de sistemas informáticos 🛒 <!-- omit in toc -->
 
 [Garceta](https://amzn.to/3m1Bwpp) (2017) \ [Rama](https://amzn.to/3bLtIDp) (2011)
 
@@ -245,6 +243,14 @@ Los contenidos de los módulos de sistemas operativos monopuesto, redes locales 
 La asignatura de diseño de interfaces web, es una asignatura en la que cobra importancia el prototipado y el diseño web, las guías de estilos y [la accesibilidad web](https://ciberninjas.com/cursos-accesibilidad-web/).
 
 En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#accesibilidad-web-), puedes encontrar guías sobre accesibilidad. En los contenidos siguientes, algunos documentos que te serán de utilidad, sobre todo en el apartado más "teórico" del módulo.
+
+### Libros de texto de diseño de interfaces web 🛒 <!-- omit in toc -->
+
+[Sintesis](https://amzn.to/2R4Ndxl) (2019) \ [Garceta](https://amzn.to/3lWSF3o) (2016) \ [Rama](https://amzn.to/337Ps8J) (2012)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713247&linkId=00df9b013ca7ebcdf2f075fa04398427"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416228620&linkId=20e6f9ee0550e59a1f2e632cc6a365e4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641547&linkId=c795f2e3f16ed0b864c37dcfb01621fa"></iframe>
+
+### **Recursos gratis de diseño de interfaces web**
 
 - [Unidad 0 - Introducción](http://interfacesweb.github.io/unidades/00-introduccion/index.html){:target="_blank" rel="nofollow,noreferrer"}
 - [Unidad 1 - Planificación de Interfaces Gráficas](http://interfacesweb.github.io/unidades/01-planificacion/index.html){:target="_blank" rel="nofollow,noreferrer"}
@@ -257,15 +263,9 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 1. [Ejemplo. 1](http://www.upv.es/entidades/ASIC/manuales/guia_estilos_upv.pdf){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Valencia)
 2. [Ejemplo. 2](https://editorial.ugr.es/pages/calidad/guiadeestilo/!){:target="_blank" rel="nofollow,noreferrer"} (Web de la Excma. Universidad de Granada)
 
-### 🛒 Libros de texto de diseño de interfaces web
-
-[Sintesis](https://amzn.to/2R4Ndxl) (2019) \ [Garceta](https://amzn.to/3lWSF3o) (2016) \ [Rama](https://amzn.to/337Ps8J) (2012)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713247&linkId=00df9b013ca7ebcdf2f075fa04398427"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416228620&linkId=20e6f9ee0550e59a1f2e632cc6a365e4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641547&linkId=c795f2e3f16ed0b864c37dcfb01621fa"></iframe>
-
 ## **8. Empresa e iniciativa emprendedora**
 
-### 🛒 Libros de texto de empresa e iniciativa emprendedora
+### Libros de texto de empresa e iniciativa emprendedora 🛒 <!-- omit in toc -->
 
 [Editex](https://amzn.to/3m0rGE5) (2020) \ [Paraninfo](https://amzn.to/33bB5jK) (2019) \ [Editex](https://amzn.to/3ibXBPJ) (2019) \ [McGraw Hill](https://amzn.to/3hfZ6uS) (2018) \ [Bruño](https://amzn.to/3m5bTUr) (2018) \ [Algaida](https://amzn.to/3idsJ18) (2017) \ [Paraninfo](https://amzn.to/3idpZRB) (2016)
 
@@ -273,46 +273,51 @@ En el enlace, [a continuación](https://ciberninjas.com/biblioteca-de-programaci
 
 ## **9. Desarrollo web en entorno cliente**
 
-- [**Introducción a JavaScript**](https://uniwebsidad.com/libros/javascript){:target="_blank" rel="nofollow,noreferrer"} (*Cómo incluir JavaScript en documentos XHTML*)
-- [**Jardín de JavaScript**](http://bonsaiden.github.io/JavaScript-Garden/es/#intro){:target="_blank" rel="nofollow,noreferrer"} (Una guía sobre los defectos y lo peculiar de JavaScript).
-- [**Manual de JavaScript**](https://desarrolloweb.com/manuales/manual-javascript.html){:target="_blank" rel="nofollow,noreferrer"} (Manual de Javascript desde cero. Adéntrate en el lenguaje de programación más popular de la web).
-- [**Guía de JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank" rel="nofollow,noreferrer"} de los Desarrolladores de Mozilla (La Guía de JavaScript te muestra cómo usar JavaScript y te brinda una perspectiva general del lenguaje).
-
-- [**JavaScript**](https://www.arkaitzgarro.com/javascript/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
-
-### 🛒 Libros de texto de desarrollo web en entorno cliente
+### Libros de texto de desarrollo web en entorno cliente 🛒 <!-- omit in toc -->
 
 [Sintesis](https://amzn.to/3m31Mj6) (2020) \ [Garceta](https://amzn.to/3k16gF0) (2019) \ [Garceta](https://amzn.to/2DNAFHG) (2013) \ [Rama](https://amzn.to/33e54aC) (2012)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491714901&linkId=7406ef4a9027958e906626c8910510a2"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417289402&linkId=364335d3702f98602566182a40005f8b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452640&linkId=02255e77c70d13ffb290659df8ce0533"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641555&linkId=c5dfd616c9a8db6cd3c24a72eb8e3445"></iframe>
 
+### **Recursos gratis de desarrollo web en entorno cliente**
+
+- [**Introducción a JavaScript**](https://uniwebsidad.com/libros/javascript){:target="_blank" rel="nofollow,noreferrer"} (*Cómo incluir JavaScript en documentos XHTML*)
+- [**Jardín de JavaScript**](http://bonsaiden.github.io/JavaScript-Garden/es/#intro){:target="_blank" rel="nofollow,noreferrer"} (Una guía sobre los defectos y lo peculiar de JavaScript).
+- [**Manual de JavaScript**](https://desarrolloweb.com/manuales/manual-javascript.html){:target="_blank" rel="nofollow,noreferrer"} (Manual de Javascript desde cero. Adéntrate en el lenguaje de programación más popular de la web).
+- [**Guía de JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank" rel="nofollow,noreferrer"} de los Desarrolladores de Mozilla (La Guía de JavaScript te muestra cómo usar JavaScript y te brinda una perspectiva general del lenguaje).
+- [**JavaScript**](https://www.arkaitzgarro.com/javascript/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
+
 ## **10. Desarrollo web en entorno servidor**
 
-- [**AJAX**](https://www.arkaitzgarro.com/ajax/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
-
-### 🛒 Libros de texto de desarrollo web en entorno servidor
+### Libros de texto de desarrollo web en entorno servidor 🛒 <!-- omit in toc -->
 
 [Sintesis](https://amzn.to/3c2zTmR) (2019) \ [Garceta](https://amzn.to/3muGTxF) (2017) \ [Garceta](https://amzn.to/2FrEhju) (2014) \ [Rama](https://amzn.to/3hIN9hK) (2012)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713492&linkId=f358782d51fc13474622d7712f6bf916"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8416228949&linkId=ace53f3def5119baaee6a9aa44540047"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452926&linkId=495f09353fe0fc44ed093257ff2a20c4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641563&linkId=6553d73318ad201d26bc7e7918f874e4"></iframe>
 
+### **Recursos gratis de desarrollo web en entorno servidor**
+
+- [**AJAX**](https://www.arkaitzgarro.com/ajax/){:target="_blank" rel="nofollow,noreferrer"} por Arkaitz Garro.
+
 ## **11. Despliegue de aplicaciones web**
 
-- [Administración de servidores web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/81-administracion-de-servidores-web){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
-- [Servidores de aplicaciones](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/86-servidores-de-aplicaciones){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
-- [Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
-
-### 🛒 Libros de texto desarrollo web en entorno servidor
+### Libros de texto desarrollo web en entorno servidor 🛒 <!-- omit in toc -->
 
 [Sintesis](https://amzn.to/35gcUmR) (2019) \ [Garceta](https://amzn.to/2FfFcTV) (2014) \ [Rama](https://amzn.to/3m30vIX) (2012)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491713492&linkId=a93eab5073e6c1ec346ba8e36f3c9ba6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415452926&linkId=e646ab978def43f836b9b954841ee9de"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641563&linkId=857a2b024d0a4d6d7330f53bfc6e958c"></iframe>
 
+### **Recursos gratis de despliegue de aplicaciones web**
+
+- [Administración de servidores web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/81-administracion-de-servidores-web){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
+- [Servidores de aplicaciones](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/86-servidores-de-aplicaciones){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
+- [Implantación de Arquitecturas Web](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web){:target="_blank" rel="nofollow,noreferrer"} por Javier García Escobedo
+
 ## **12. Proyecto de desarrollo de aplicaciones web**
 
 El [proyecto final](/fp-modulos-formacion-profesional/#el-módulo-profesional-del-proyecto-final) de desarrollo de aplicaciones web] no requiere de un libro en sí. Desde el centro te ofrecerán las pautas necesarias y concretas para realizar el proyecto.
 
-### 🛒 Libros de proyecto de desarrollo de aplicaciones web
+### Libros de proyecto de desarrollo de aplicaciones web 🛒 <!-- omit in toc -->
 
 No existen libros específicos para este módulo, pero si que podemos encontrar en Internet algunas guías con las que podemos hacernos una idea sobre lo que nos exigiran.
 
