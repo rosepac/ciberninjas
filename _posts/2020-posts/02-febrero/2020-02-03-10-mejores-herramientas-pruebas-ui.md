@@ -146,7 +146,9 @@ Winium es un proyecto reciente y no es tan maduro como otras ofertas de automati
 
 El framework TAST (Test Automation System Tool) es una herramienta completa de automatización de pruebas, creada por la empresa española SIPSA en 2018.
 
-SIPSA, se centra en proporcionar los mejores servicios posibles a aquellas empresas que buscan agilizar y automatizar, cada uno de los procesos necesarios a la hora de testear una aplicación o software. Bajo la búsqueda de explotar al máximo el potencial de los diagramas de secuencia / UML, desde SIPSA nos ofrecen una aplicación creada alrededor del uso de esos diagramas.
+SIPSA, se centra en proporcionar los mejores servicios posibles a aquellas empresas que buscan agilizar y automatizar, cada uno de los procesos necesarios a la hora de testear una aplicación o software.
+
+Bajo la búsqueda de explotar al máximo el potencial de los diagramas de secuencia / UML, desde SIPSA nos ofrecen una aplicación creada alrededor del uso de esos diagramas.
 
 Logrando así, una corta y sencilla curva de aprendizaje de la herramienta, en todos aquellos desarrolladores que ya estén familiarizados con los diagramas de UML (que deberían de ser tod@s).
 
@@ -155,7 +157,7 @@ TAST ofrece entre otros servicios, una perfecta integración de Selenium, Seleni
 ### **Pros de TAST**
 
 - Disponible y funcional en cualquier sistema operativo (Windows, Linux, MacOS).
-- Una rápida curza de aprendizaje.
+- Una rápida curva de aprendizaje.
 - Acepta la realización de pruebas de extremo a extremo.
 - Integración con otras herramientas de gestión de pruebas.
 
