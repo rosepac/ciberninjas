@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: "🥇 ▷ Los 30 Mejores PODCAST de tecnología en Español 2021"
+title: "🥇 ▷ Los 30 Mejores PODCAST en Español"
 description: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
 excerpt: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
 bootstrap: true
@@ -54,7 +54,7 @@ A continuación vas a encontrar los **mejores podcasts de programación, diseño
 ## **Podcasts de Juegos**
 
 - [Aquelarre of Games](http://aquelarreofgames.com.ar/podcast){:target="_blank" rel="nofollow,noreferrer"} (podcast)
-- [Diógenes Digital](https://diogenesdigital.es/podcasts/){:target="_blank" rel="nofollow,noreferrer"} (pdocast) (Última Actualziación, Octubre, 2019)
+- [Diógenes Digital](https://diogenesdigital.es/podcasts/){:target="_blank" rel="nofollow,noreferrer"} (pdocast) (Última Actualización, Octubre, 2019)
 
 ## **Podcasts de Programación**
 
