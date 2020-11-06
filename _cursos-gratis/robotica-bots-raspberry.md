@@ -177,8 +177,10 @@ Sí, aunque puede requerir algunas modificaciones en las bibliotecas centrales d
 - [Raspberry Pi Workshop 2018](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fraspberry-pi-workshop-become-a-coder-maker-inventor%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy - Subtítulos en Español) (2017)
 - [Termómetro digital con Raspberry Pi(2017)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftermometro-digital-con-raspberry-pi%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre robótica, arduino y raspberry pi, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-robotica-raspberry-arduino.webp "Los mejores cursos gratuitos con los que aprender todo sobre robótica, arduino y raspberry pi, desde cero hasta nivel experto")

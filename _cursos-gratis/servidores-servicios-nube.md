@@ -170,8 +170,10 @@ Todos los cursos disponibles en la plataforma son enviados y votados por los mie
 
 Aprenda cualquier servicio bajo el paraguas de Google Cloud Platform de estos mejores tutoriales y cursos en línea de Google Cloud recomendados por la comunidad de programación. Utilice filtros (en el lado derecho de esta página) para encontrar los mejores tutoriales sobre Google Compute Engine, Google App Engine, Bigtable, BigQuery, Google Storage, Google Cloud Functions, Google Cloud Datastore o tutoriales para la certificación de Google Cloud Platform. Este es su centro de formación en línea de Google Cloud Platform.
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-servidores-servicios-nube.webp "Los mejores cursos gratuitos con los que aprender todo sobre servidores, desde cero hasta nivel experto")

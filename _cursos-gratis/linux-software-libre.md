@@ -90,8 +90,10 @@ img: "/assets/img/paginas-cursos/cursos-linux.webp"
 - [Curso de Ubuntu](https://tv.um.es/canal?serie=4581){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2011)
 - [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo de Linux y el Software Libre, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-linux.webp "Los mejores cursos gratuitos con los que aprender todo de Linux y el Software Libre, desde cero hasta nivel experto")

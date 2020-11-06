@@ -105,6 +105,7 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 A continuación, vas a encontrar **los mejores cursos de accesibilidad web en español**.
 
 - [**Los Mejores Cursos Gratis de Accesibilidad Web**](#los-mejores-cursos-gratis-de-accesibilidad-web)
+- [**¿Qué es la accesibilidad web?**](#qué-es-la-accesibilidad-web)
 - [**¿Por qué es importante la accesibilidad web?**](#por-qué-es-importante-la-accesibilidad-web)
 - [**¿Qué ejemplos de accesibilidad web existen?**](#qué-ejemplos-de-accesibilidad-web-existen)
   - [**1. El texto alternativo de las imágenes**](#1-el-texto-alternativo-de-las-imágenes)
@@ -119,9 +120,14 @@ A continuación, vas a encontrar **los mejores cursos de accesibilidad web en es
 1. [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal "Curso de Accesibilidad Universal"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 1. [Aprende accesibilidad web paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-accesibilidad-web-paso-a-paso%2F "Curso de [Aprende accesibilidad web paso a paso"){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 1. [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad "Curso de Evitando las barreras de la Accesibilidad en la Sociedad de la Información"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-1. [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/ "Curso de Herramientas para mejorar la Usabilidad Web: Balsamiq"){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/ "Curso de Herramientas para mejorar la Usabilidad Web: Balsamiq"){:target="_blank" rel="nofollow,noreferrer"} (OCW) (UniMOOC, Instituto de Economía Internacional de la Universidad de Alicante)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
+{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+Un pequeño extra, es, que en Ciberninjas estamos trabajando en la edición de un libro sobre Accesibilidad Web. Por ahora, solamente hemos realizado un primer borrador, pero tarde o temprano verá la luz 🥳
+
+Puedes [seguir el siguiente hilo de Twitter](https://twitter.com/ciberninjas/status/1323709577469243395){:target="_blank" rel="nofollow,noreferrer"} si quieres estar informado de los cambios más importantes que vayamos realizando en la página web.
 
 ### **Cursos Relacionados** <!-- omit in toc -->
 
@@ -143,19 +149,21 @@ A continuación, vas a encontrar **los mejores cursos de accesibilidad web en es
 - Mitos UX: [Lograr la Accesibilidad Web](https://ciberninjas.com/34-mitos-ux/#5-lograr-la-accesibilidad-es-complicado-y-costoso)
 - Posicionamiento Web y SEO: [La importancia de la accesibilidad web en el SEO](https://ciberninjas.com/posicionamiento-web-seo/)
 
-> ***El poder de la Web está en su universalidad. El acceso de todas las personas independientemente de su discapacidad es un aspecto fundamental.***
->
-> Tim Berners-Lee, director del W3C e inventor de la World Wide Web
+**FAQ sobre la Accesibilidad Web**
+
+## **¿Qué es la accesibilidad web?**
 
 La Web está diseñada fundamentalmente para que funcione para todas las personas, independientemente de su hardware, software, idioma, ubicación o capacidad. Cuando la Web cumple con este objetivo, es accesible para personas con una amplia gama de capacidades auditivas, de movimiento, de vista y cognitivas.
+
+> ***"El poder de la Web está en su universalidad. El acceso de todas las personas independientemente de su discapacidad es un aspecto fundamental."***
+>
+> **Tim Berners-Lee**, director del W3C e inventor de la World Wide Web
 
 Por lo tanto, el impacto de la discapacidad cambia radicalmente en la Web porque la Web elimina las barreras a la comunicación y la interacción que muchas personas enfrentan en el mundo físico. Sin embargo, cuando los sitios web, las aplicaciones, las tecnologías o las herramientas están mal diseñados, pueden crear barreras que excluyan a las personas del uso de la Web.
 
 La accesibilidad es esencial para los desarrolladores y las organizaciones que desean crear sitios web y herramientas web de alta calidad, y no excluir a las personas del uso de sus productos y servicios.
 
 La misión de la Iniciativa de Accesibilidad Web (WAI) es llevar la Web a su máximo potencial para ser accesible, permitiendo que las personas con discapacidades participen por igual en la Web.
-
-**FAQ sobre la Accesibilidad Web**
 
 ## **¿Por qué es importante la accesibilidad web?**
 
@@ -207,6 +215,7 @@ El uso de herramientas de creación que admitan la accesibilidad facilita las co
 
 ## **¿Cómo aprender más sobre la accesibilidad web?**
 
-WAI proporciona una amplia gama de recursos sobre diferentes aspectos de los [estándares de](https://www.w3.org/WAI/guid-tech){:target="_blank" rel="nofollow,noreferrer"} accesibilidad web, [educación](https://www.w3.org/WAI/train){:target="_blank" rel="nofollow,noreferrer"}, [pruebas / evaluación](https://www.w3.org/WAI/eval/){:target="_blank" rel="nofollow,noreferrer"}, [gestión de proyectos y políticas](https://www.w3.org/WAI/managing){:target="_blank" rel="nofollow,noreferrer"}. Le recomendamos que explore el [sitio web de WAI](http://www.w3.org/WAI/){:target="_blank" rel="nofollow,noreferrer"} o consulte la lista de [recursos de WAI](http://www.w3.org/WAI/Resources/){:target="_blank" rel="nofollow,noreferrer"}.
+Es recomendable que explores el [sitio web de WAI](http://www.w3.org/WAI/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} o consultes la lista de [recursos de WAI](http://www.w3.org/WAI/Resources/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}.
 
+Además, WAI proporciona una amplia gama de recursos sobre diferentes aspectos de los [estándares de](https://www.w3.org/WAI/guid-tech){:target="_blank" rel="nofollow,noreferrer" hreflang="en"} accesibilidad web, [educación](https://www.w3.org/WAI/train){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}, [pruebas / evaluación](https://www.w3.org/WAI/eval/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}, [gestión de proyectos y políticas](https://www.w3.org/WAI/managing){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}.
 ![Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-accesibilidad-web.webp "Los mejores cursos gratuitos con los que aprender todo sobre accesibilidad web, desde cero hasta nivel experto")

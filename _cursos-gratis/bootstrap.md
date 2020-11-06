@@ -84,7 +84,7 @@ Los mejores cursos en español para estudiar el framework de Bootstrap.
 - [Fundamentos de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [La biblia perdida de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
 Bootstrap es la opción de marco CSS más popular cuando se trata de un desarrollo web front-end receptivo y móvil. Además, es gratuito y de código abierto.
 
@@ -345,6 +345,8 @@ En las entrevistas, también se le pueden hacer algunas preguntas generales de l
 
 ¿Quiere ampliar sus conocimientos sobre Bootstrap? ¡Pruebe estos mejores tutoriales de Bootstrap recomendados por la comunidad hoy!
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-bootstrap.webp "Los mejores cursos gratuitos con los que aprender todo sobre Bootstrap, desde cero hasta nivel experto")

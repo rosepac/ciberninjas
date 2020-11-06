@@ -711,8 +711,10 @@ Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últ
 
 - [Web Scraping](/web-scraping-c-sharp-con-jap-software/) (Jap Software, Youtube)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021](/assets/img/paginas-cursos/cursos-programacion.webp "Los mejores cursos gratuitos con los que aprender todo sobre programacióny cualquier lenguaje para programar 2021")

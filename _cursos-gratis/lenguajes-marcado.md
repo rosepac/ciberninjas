@@ -112,8 +112,10 @@ Estos son algunos de los mejores cursos que lo ayudarán a pasar de ser un princ
 
 ## **Los Mejores Cursos Gratis de Markdown**
 
-- [Aprenda Markdown desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprenda-markdown-desde-cero%2F) (Udemy)
-- [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
+1. [Aprenda Markdown desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprenda-markdown-desde-cero%2F) (Udemy)
+1. [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
+
+Si quieres aprender más sobre Markdown, en Ciberninjas hemos creado una excelente y muy completa guía sobre Markdown; incluida una plantilla base para poder descargar.
 
 > [Aprender Markdown](https://ciberninjas.com/markdown/) >> [Editores Markdown](https://ciberninjas.com/editores-markdown/) >> [Chuleta Markdown](https://ciberninjas.com/markdown-cheatsheet/) >> [Cursos Markdon](https://ciberninjas.com/cursos-lenguajes-marcado/#cursos-gratis-de-markdown)
 
@@ -121,9 +123,11 @@ Estos son algunos de los mejores cursos que lo ayudarán a pasar de ser un princ
 
 - [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 - [Los Mejores Cursos de CSS y Preprocesadores CSS](https://ciberninjas.com/cursos-css-preprocesadores/)
 - [Los Mejores Cursos de Bootstrap](https://ciberninjas.com/cursos-bootstrap/)

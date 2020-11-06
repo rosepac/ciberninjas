@@ -77,8 +77,10 @@ img: "/assets/img/paginas-cursos/cursos-big-data.webp"
 - [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 - [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre las big data, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-big-data.webp "Los mejores cursos gratuitos con los que aprender todo sobre las big data, desde cero hasta nivel experto")

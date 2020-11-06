@@ -145,8 +145,10 @@ Además de la programación, su hijo también aprenderá sobre los ciclos de vid
 
 ## **Programación de videojuegos**
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre la programación para niños, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-ninos.webp "Los mejores cursos gratuitos con los que aprender todo sobre la programación para niños, desde cero hasta nivel experto")

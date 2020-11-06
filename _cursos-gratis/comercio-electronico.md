@@ -101,7 +101,7 @@ img: "/assets/img/paginas-cursos/cursos-comercio-electronico.webp"
 - [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Tienda Online con WooCommerce desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftienda-online-con-woocommerce-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
 Un curso en línea es una clase única que se imparte a través de Internet y que se centra en un tema o tema específico. Algunos cursos dan una introducción general a un tema, mientras que otros se enfocan en profundidad en un aspecto particular. Los cursos pueden durar unas pocas semanas o hasta varios meses.
 
@@ -121,6 +121,8 @@ Dado que los estudios de comercio electrónico se refieren a negocios que se lle
 
 Busca el curso que más se adapte a tus necesidades, entre los cursos gratuitos de está misma página para comenzar a crear tu tienda online y gestionar tu negocio, hoy mismo.
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre el comercio electrónico, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-comercio-electronico.webp "Los mejores cursos gratuitos con los que aprender todo sobre el comercio electrónico, desde cero hasta nivel experto")

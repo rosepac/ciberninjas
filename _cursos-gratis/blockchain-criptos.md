@@ -81,7 +81,7 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 - [Blockchain Demo Day: Proyectos 2019](https://www.tutellus.com/tecnologia/blockchain/blockchain-demo-day-abril-2019-24449){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [Blockchain: Conceptos básicos y Ampliación sobre Ethereum](https://www.tutellus.com/tecnologia/blockchain/blockchain-conceptos-basicos-y-ampliacion-sobre-ethereum-18512){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [Blockchain: Modelos de Negocio y Criptoeconomía](https://www.tutellus.com/tecnologia/blockchain/blockchain-modelos-de-negocio-e-introduccion-a-la-criptoeconomia-17326){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Blockchain en el sector turístico](https://www.unimooc.com/cursos/blockchain-sector-turistico){:target="_blank" rel="nofollow,noreferrer"} (UniMOOC)
+- [Blockchain en el sector turístico](https://www.unimooc.com/cursos/blockchain-sector-turistico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (UniMOOC, Instituto de Economía Internacional de la Universidad de Alicante)
 - [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 - [Hyperledger: Marco de Blockchain para el negocio](https://www.tutellus.com/tecnologia/blockchain/hyperledger-marco-blockchain-para-el-negocio-19752){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [ICO´s, Smart Contracts y Tokens en el universo Blockchain](https://www.tutellus.com/tecnologia/blockchain/icos-smart-contracts-y-tokens-en-el-universo-blockchain-17531){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
@@ -95,7 +95,7 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 
 ### **Los Mejores Cursos Gratis de Bitcoin**
 
-- [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (Unimooc)
+- [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (OCW) (UniMOOC, Instituto de Economía Internacional de la Universidad de Alicante)
 - [Bitcoin Construye un imperio minando en la nube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbitcoin-construye-un-imperio-minando-en-la-nube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 - [Cursos Bitcoin y Trading de Criptomonedas](https://www.tutellus.com/tecnologia/blockchain/curso-bitcoin-y-trading-criptomonedas-20610){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
@@ -111,8 +111,10 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 - [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Trading Forex para principiantes - Estrategias Clave](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Festrategias-trading-forex-y-operaciones-bursatiles%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre las criptomonedas y blockchain (cadena de bloques), desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-blockchain-criptos.webp "Los mejores cursos gratuitos con los que aprender todo sobre las criptomonedas y blockchain (cadena de bloques), desde cero hasta nivel experto")

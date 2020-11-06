@@ -90,7 +90,7 @@ Los **mejores cursos gratuitos de seguridad en la red**.
 - [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing) (OCW)
 - [Wireless penetration con Kali Linux](https://www.youtube.com/playlist?list=PL-G03HRCQgdFKAaW718J14tKDM63mGirL) (Hacking y Más, YouTube)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
 ### **Cursos Relacionados** <!-- omit in toc -->
 

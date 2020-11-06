@@ -384,6 +384,8 @@ Tanto Angular como Vue.js tienen sus pros y sus contras entre sí. VueJS es mejo
 [🔝 Regresar al Menú de Programación Móvil & Web](/cursos-programacion-web-movil/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🏡 REGRESAR al Índice General de Cursos Gratis](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre programación móvil y web, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-programacion-web-movil.webp "Los mejores cursos gratuitos con los que aprender todo sobre programación móvil y web, desde cero hasta nivel experto")

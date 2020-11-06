@@ -115,8 +115,10 @@ Los **mejores cursos gratuitos de creación y gestión de redes en la red**.
 - [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwindows-server-y-linux-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 <!-- busquedas relacionadas: seguridad cisco, cisco, -->
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre redes y conexiones de ordenadores y otros dispositivos, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-redes.webp "Los mejores cursos gratuitos con los que aprender todo sobre redes y conexiones de ordenadores y otros dispositivos, desde cero hasta nivel experto")

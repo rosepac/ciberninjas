@@ -175,8 +175,10 @@ Las escuelas de esta lista son las mejores del mundo en la formación de la pró
 - [UML. Fundamentos, diagramas. Caso de estudio](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fuml-fundamentos-5-diagramas-caso-de-estudio%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Variable compleja para métodos matemáticos. Parte 1](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvariable-compleja-para-metodos-matematicos-parte-1%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-ciencias-computacion.webp "Los mejores cursos gratuitos con los que aprender todo sobre las ciencias de computación, desde cero hasta nivel experto")

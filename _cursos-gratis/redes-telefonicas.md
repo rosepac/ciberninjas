@@ -90,8 +90,10 @@ Cursos gratis de redes de telefonía y comunicaciones móviles, con los que conv
 - [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC){:target="_blank" rel="nofollow,noreferrer"} (Óscar Delgado, YouTube)
 - [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre las redes telefónicas, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-redes-telefonicas.webp "Los mejores cursos gratuitos con los que aprender todo sobre las redes telefónicas, desde cero hasta nivel experto")

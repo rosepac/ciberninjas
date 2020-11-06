@@ -161,6 +161,8 @@ Como por ejemplo: Google Drive, LibreOffice, OpenOffice, etc.
 
 [🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre la Ofimática, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-ofimatica.webp "Los mejores cursos gratuitos con los que aprender todo sobre la Ofimática, desde cero hasta nivel experto")

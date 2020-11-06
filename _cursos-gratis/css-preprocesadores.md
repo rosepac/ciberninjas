@@ -94,8 +94,10 @@ A continuación vas a encontrar **los mejores cursos de lenguajes de Estilos, co
 - [CSS con SASS](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, YouTube)
 - [Curso de SASS Básico. Principantes paso a paso](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo sobre CSS y los preprocesadores CSS, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-css-preprocesadores-cn.webp "Los mejores cursos gratuitos con los que aprender todo sobre CSS y los preprocesadores CSS, desde cero hasta nivel experto")

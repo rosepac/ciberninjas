@@ -121,8 +121,10 @@ Los **mejores cursos gratis de los mejores sistemas de gestión de contenidos**,
 * Paso a Pago 😿 [Wordpress. Curso completo, hazte un experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrearblogwordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-introduccion-practica-a-gutenberg-el-nuevo-editor%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🏡 REGRESAR al Índice de CURSOS GRATIS](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-danger .btn-lg .btn-block}
+[⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
-### **Relacionados** <!-- omit in toc -->
+### **Cursos Relacionados** <!-- omit in toc -->
+
+### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
 ![Los mejores cursos gratuitos con los que aprender todo de los CMS o sistemas de gestión de contenidos, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-sistemas-gestion-cms.webp "Los mejores cursos gratuitos con los que aprender todo de los CMS o sistemas de gestión de contenidos, desde cero hasta nivel experto")
