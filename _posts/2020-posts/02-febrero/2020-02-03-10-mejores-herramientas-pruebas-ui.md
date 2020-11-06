@@ -2,12 +2,12 @@
 
 author: rosepac
 bootstrap: true
-title: "▷ Las 11 Mejores Herramientas de Automatización de Prueba de Interfaz de Usuario 2021"
+title: "▷ Las 11 Mejores Herramientas de Automatización de Pruebas para Interfaces de Usuario 2021"
 description: "Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc."
 excerpt: "Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc."
 published: true
 comments: false
-date: 2020-02-03 12:15:12
+date: 2020-11-06 09:15:12
 last_modified_at: 
 thumbnail: /assets/img/blog/ui-testing.webp
 feature-img: /assets/img/blog/ui-testing.webp
@@ -102,11 +102,11 @@ Selenium WebDriver es el componente principal de esta oferta, pero también exis
 
 ![Protactor logotipo oficial, visto en Ciberninjas](https://i.ibb.co/7pSZtd7/0-6-Ibx8-TM6-Ei8vq-Z3n.jpg "Protactor logotipo oficial, visto en Ciberninjas")
 
-Protractor es un framework de pruebas de extremo a extremo para aplicaciones Angular y AngularJS, se basa y se ejecuta sobre Selenium. Está diseñado específicamente para identificar elementos web de JavaScript y AngularJS, ya que Selenium tiene problemas con estos elementos y sus atributos personalizados. También gestiona las esperas automáticamente, algo que el plan Selenium también tiene dificultades para hacer con Angular JS.
+Protractor es un framework de pruebas de extremo a extremo para aplicaciones Angular y AngularJS, se basa y se ejecuta sobre Selenium. Está diseñado específicamente para identificar elementos web de JavaScript y AngularJS, ya que Selenium tiene problemas con estos elementos y sus atributos personalizados.
 
-A tener en cuenta:
+Además, Protactor, también gestiona las esperas automáticamente, algo que la aplicación de Selenium también tiene dificultades para hacer con Angular JS.
 
-Protector es un proyecto comunitario en evolución, la mayoría de la documentación existente es obsoleta, por lo que debes resolver los problemas por ti mismo la mayor parte de las veces.
+Debes de tener en cuenta, que Protector es un proyecto comunitario en evolución, la mayoría de la documentación existente es obsoleta, por lo que debes resolver los problemas por ti mismo la mayor parte de las veces.
 
 [⬇ Instalar Protactor](http://www.protractortest.org/#/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer" role="button" aria-label="Descargar e instalar Protactor"} [🔝 Regresar al Menú](/10-mejores-herramientas-pruebas-ui/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al Menú de Herramientas de Automatización"}
 
@@ -120,9 +120,7 @@ Este es un proyecto bastante desarrollado que tiene su propio IDE que incluye un
 
 Es compatible con Selenium Grid, por lo que es posible la ejecución de pruebas paralelas en hosts remotos.
 
-A tener en cuenta:
-
-La automatización de la interfaz de usuario móvil tiene una configuración inicial más compleja, debe poder instalar y configurar los SDK del sistema operativo móvil, descargar y configurar emuladores de dispositivos, tener una cuenta de desarrollador con iOS, poder aprovisionar el código, etc. Esto es cierto para todas las pruebas móviles no solo para Appium (por ejemplo, la prueba de interfaz de usuario Xamarin tienen los mismos obstáculos iniciales).
+A tener en cuenta, que la automatización de la interfaz de usuario móvil tiene una configuración inicial más compleja, debe poder instalar y configurar los SDK del sistema operativo móvil, descargar y configurar emuladores de dispositivos, desarrollo en iOS, poder aprovisionar el código, etc. Esto es cierto para todas las pruebas móviles no solo para Appium (por ejemplo, la prueba de interfaz de usuario Xamarin tienen los mismos obstáculos iniciales).
 
 [⬇ Descargar Appium](http://appium.io/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer" role="button" aria-label="Descargar y probar Appium"} [🔝 Regresar al Menú](/10-mejores-herramientas-pruebas-ui/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al Menú de Herramientas de Automatización"}
 
@@ -130,7 +128,11 @@ La automatización de la interfaz de usuario móvil tiene una configuración ini
 
 ![Winium logotipo ofificial, visto en Ciberninjas](https://i.ibb.co/f0cnbHf/windows-phone-and-desktop-test-automation-london-september-2015-1-638.jpg "Winium logotipo ofificial, visto en Ciberninjas")
 
-Winium también basado en Selenium es un framework de automatización de interfaz de usuario diseñado para probar aplicaciones de escritorio en Windows. Al igual que el selenio, es de código abierto, compatible con la comunidad (que tiene sus propios pros y contras como se indicó anteriormente). Es compatible con WinForms, WPF, aplicaciones universales (Tienda Windows) e incluso aplicaciones Silverlight. Una limitación principal es que solo admite trabajar sobre Windows 10.
+Winium también basado en Selenium es un framework de automatización de interfaz de usuario diseñado para probar aplicaciones de escritorio en Windows.
+
+Al igual que Selenium, es de código abierto, compatible con la comunidad (que tiene sus propios pros y contras como se indicó anteriormente).
+
+Es compatible con WinForms, WPF, aplicaciones universales (Tienda Windows) e incluso aplicaciones Silverlight. Una limitación principal es que solo admite trabajar sobre Windows 10.
 
 A tener en cuenta:
 
