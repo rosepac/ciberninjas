@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: "🥇 ▷ Los 30 Mejores PODCAST en Español"
+title: "🥇 ▷ Los 30 Mejores PODCAST de Programación, Diseño y Tecnología en Español"
 description: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
 excerpt: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
 bootstrap: true
