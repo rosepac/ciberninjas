@@ -64,11 +64,6 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
   - [**Cursos Masivos en Línea**](#cursos-masivos-en-línea)
 - [**Libros Gratis de Algoritmos**](#libros-gratis-de-algoritmos)
 - [**Libros Gratis de Bases de Datos**](#libros-gratis-de-bases-de-datos)
-- [**Libros Gratis de MySQL**](#libros-gratis-de-mysql)
-- [**Libros Gratis de SQL**](#libros-gratis-de-sql)
-- [**Libros Gratis de  NoSQL**](#libros-gratis-de-nosql)
-  - [**Libros Gratis de MongoDB**](#libros-gratis-de-mongodb)
-  - [**Libros Gratis de Redis**](#libros-gratis-de-redis)
 - [**Libros Gratis de Blockchain**](#libros-gratis-de-blockchain)
 - [**Libros Gratis de Cadena de Bloques**](#libros-gratis-de-cadena-de-bloques)
 - [**Libros Gratis de Criptomonedas**](#libros-gratis-de-criptomonedas)
@@ -217,48 +212,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 ## **Libros Gratis de Bases de Datos**
 
-[Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn-outline-dark .btn-lg .btn-block} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn-outline-dark .btn-lg .btn-block} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn-outline-dark .btn-lg .btn-block} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn-outline-dark .btn-lg .btn-block} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}
+En el [siguiente estante de nuestra biblioteca]() vas a encontrarte los mejores libros relacionados a las bases de datos en español.
 
-* [Apuntes Básicos de SQL](https://drive.google.com/file/d/11JtEKAQWPgDynT3A7jkYp1d4YvMCn4Hs/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} - Unai Estébanez (PDF) (2008)
-* [Apuntes de Bases de Datos 1](https://drive.google.com/file/d/12eJNPqLa0fE5VjUVtIVEYJc-k0lHlC-v/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} - Univ. Alicante (PDF)
-* [Base de Datos (2005)](https://drive.google.com/file/d/10A328aloGtpUQZNvSli72KJx3zzNqkEE/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2005)
-* [Base de Datos (2011)](https://drive.google.com/file/d/1R2MbP0uldOvFRER37NCOAzPNA8fhxudj/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} - Mercedes Marqués (PDF)
-* [Base de Datos Avanzadas (2013)](https://drive.google.com/file/d/1GZlfXH303ZdnB_kxFkx2rnid7uoLooWe/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} - Aramburu & Sanz Blasco (PDF)
-* [Bases de datos NoSq. Qué son y tipos que nos podemos encontrar](https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Diseño Conceptual de Bases de Datos](https://drive.google.com/file/d/177YFW1w002Kz0_Z4DQ2V4XmztZOen5dt/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Diseño e implementación de una base de datos relacional para la gestión de la red de bibliotecas.](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/13921/1/jordibs_TFC_0610.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Documentación de SQL Server 2017](https://docs.microsoft.com/es-es/sql/sql-server/sql-server-technical-documentation?view=sql-server-2017){:target="_blank" rel="nofollow,noreferrer"} (HTML) por Microsoft
-* [El lenguaje SQL](https://www.pdf-manual.es/bases-de-datos/18-lenguaje-sql.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [El modelo relacional y el álgebra relacional](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/200/8/Bases%20de%20datos_M%C3%B3dulo2_El%20modelo%20relacional%20y%20el%20%C3%A1lgebra%20relacional.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Extracción de conocimiento en grandes bases de datos utilizando estrategias adaptativas](https://sedici.unlp.edu.ar/bitstream/handle/10915/35555/Documento_completo.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Principios sobre bases de datos relacionales](https://cmapspublic2.ihmc.us/rid=1P2RVCGBV-1PKTG1T-2B2B/Principios%20de%20bases%20de%20datos%20relacionales.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Usando Oracle SQL y PL/SQL](https://issuu.com/aulacero21/docs/gesti_n_de_bases_de_datos_-_jorge_s_nchez___oracle/61){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+Incluyendo cursos sobre **los sistemas gestores de bases de datos** más importantes del mundo, como son: **SQL, MySQL, NoSQL, MongoDB o Redis**.
 
-[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
-
-## **Libros Gratis de MySQL**
-
-* [MySQL Redundante sobre RAID 1 en Debian 8](https://www.researchgate.net/publication/333971453_MySQL_Redundante_sobre_RAID_1_en_Debian_8) (PDF) (2017)
-
-## **Libros Gratis de SQL**
-
-* [Manual de SQL](https://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Tutorial de SQL](https://www.desarrolloweb.com/manuales/9/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-
-[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
-
-## **Libros Gratis de  NoSQL**
-
-### **Libros Gratis de MongoDB**
-
-* [Comenzando con MongoDB](https://burgersbacon.gitbooks.io/mongo-db/content) (HTML) (2015)
-* [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book){:target="_blank" rel="nofollow,noreferrer"}
-* [MongoDB en Castellano](https://leanpub.com/mongodbcastellano?){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF)
-* [MongoDB en Español](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
-
-### **Libros Gratis de Redis**
-
-* [Redis: Un pequeño libro](https://raulexposito.com/documentos/redis/redis.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+Ver los mejores libros de Bases de Datos: https://ciberninjas.com/libros-bases-datos/
 
 [⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
