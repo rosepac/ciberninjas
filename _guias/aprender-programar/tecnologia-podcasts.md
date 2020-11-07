@@ -48,6 +48,12 @@ Empecemos, por **los mejores podcast de tecnología clasificados en categorías*
   - [**Los Mejores Micrófonos para Grabar Podcast**](#los-mejores-micrófonos-para-grabar-podcast)
 - [**El Mejor Software de Grabación de Audio para Podcast**](#el-mejor-software-de-grabación-de-audio-para-podcast)
 - [**¿Cómo entrar en la sección de mejores podcast de iTunes?**](#cómo-entrar-en-la-sección-de-mejores-podcast-de-itunes)
+  - [**Paso 1: Crea una lista de correo electrónico o una hoja de cálculo de contactos**](#paso-1-crea-una-lista-de-correo-electrónico-o-una-hoja-de-cálculo-de-contactos)
+  - [**Paso 2: Graba al menos tres episodios de podcast antes del lanzamiento**](#paso-2-graba-al-menos-tres-episodios-de-podcast-antes-del-lanzamiento)
+  - [**Paso 3: iTunes puede tardar entre 2 y 4 días en mostrar tu podcast**](#paso-3-itunes-puede-tardar-entre-2-y-4-días-en-mostrar-tu-podcast)
+  - [**Paso 4: Prepara a la gente y elige una fecha de lanzamiento**](#paso-4-prepara-a-la-gente-y-elige-una-fecha-de-lanzamiento)
+  - [**Paso 5: ¡El Día de Lanzamiento!**](#paso-5-el-día-de-lanzamiento)
+  - [**Paso 6: Crea y comparte episodios futuros de forma coherente**](#paso-6-crea-y-comparte-episodios-futuros-de-forma-coherente)
 - [**Algunas reflexiones finales sobre el podcasting**](#algunas-reflexiones-finales-sobre-el-podcasting)
 
 ## **Podcasts de Ciencia de Datos**
@@ -222,25 +228,25 @@ No voy a mentirle, ni a asegurarte que estos próximos párrafos estén garantiz
 
 ¿Por qué debería preocuparse por la sección Nuevo y la sección de menciones de iTunes? Porque es una ventana garantizada de promoción adicional a la página principal de cualquier categoría en la que se ubique su podcast. Esto es muy beneficioso para aumentar su audiencia desde el principio y crear una credibilidad increíble para usted y su podcast.
 
-**Paso 1:** Crea una lista de correo electrónico o una hoja de cálculo de contactos.
+### **Paso 1: Crea una lista de correo electrónico o una hoja de cálculo de contactos**
 
 Antes de que su podcast se grabe o se cargue en cualquier lugar, debes crear una lista de personas con las que puedes comunicarte el primer día que tu podcast se publique. Si ya tienes una lista de correo electrónico activa, puedes aprovecharla. Si no, deberías de comenzar a construir uno lo antes posible. Puedes (y debes) usar tus contactos existentes y hacerles saber que estás a punto de lanzar un nuevo podcast y que te ayudaría su apoyo a la hora de su lanzamiento.
 
-**Paso 2:** Graba al menos tres episodios de podcast antes del lanzamiento.
+### **Paso 2: Graba al menos tres episodios de podcast antes del lanzamiento**
 
 Esto no es obligatorio en absoluto, pero puede ayudar. ¿Por qué? Porque iTunes parece valorar el tiempo dedicado a escuchar tus episodios de podcast. ¿Qué va a aumentar ese tiempo el mismo día de tu lanzamiento? Por una sencilla regla de tres, ¡El tener más de un episodio publicado para escuchar!
 
-**Paso 3:** iTunes puede tardar entre 2 y 4 días en mostrar tu podcast
+### **Paso 3: iTunes puede tardar entre 2 y 4 días en mostrar tu podcast**
 
 Una vez que envíes el enlace RSS de tu podcast a iTunes ([a través de este formulario](https://itunesconnect.apple.com/login?module=PodcastsConnect&hostname=podcastsconnect.apple.com&targetUrl=%2F&authResult=FAILED){:target="_blank" rel="nofollow,noreferrer"}), pueden tardar entre 2 a 4 días hasta que se muestre tu podcast. ¡Debes estar vigilante de ello! Especialmente en lo que se refiere al próximo paso..
 
-**Paso 4:** Prepara a la gente y elige una fecha de lanzamiento
+### **Paso 4: Prepara a la gente y elige una fecha de lanzamiento**
 
 Bien, a través de las redes sociales, o de tu lista de correo electrónico o en el grupo clandestino y secreto al que pertenezcas. Deja que la gente sepa cuándo se transmitirá tu podcast. Querrás elegir una fecha de lanzamiento y asegurate de que sea posterior a la ventana de tiempo de 2 a 4 días que iTunes tardará en publicarte. Si estableces una fecha y preparas a la gente para ello, tus posibilidades de conseguir que te ayuden con las revisiones y a aumentar las escuchas de forma drástica, impulsarán tus posibilidades de posicionarte mejor.
 
 **Extra**: ¡Tener una fiesta de lanzamiento de podcasts también es una gran idea! Puede hacerlo virtualmente a través de video en vivo o en persona.*
 
-**Paso 5:** ¡El Día de Lanzamiento!
+### **Paso 5: ¡El Día de Lanzamiento!**
 
 Tu podcast (con múltiples episodios) está en iTunes, y es hora de contárselo al resto del mundo.. Pero ¿qué les dices? iTunes valora dos cosas por encima de todo: suscripciones y reseñas. En el correo electrónico que envies a tu lista de correo electrónico (o lista de contactos), comparte el enlace a tu nuevo podcast y pide a las personas que presionen el botón de Suscribirse y además de dejarte una reseña del programa.
 
@@ -248,7 +254,7 @@ No hace falta decir que también querrás avisarlos para que escuchen el program
 
 El primer día, debería ser siempre un día importante para tus suscripciones y reseñas.
 
-**Paso 6:** Crea y comparte episodios futuros de forma coherente
+### **Paso 6: Crea y comparte episodios futuros de forma coherente**
 
 Todas las plataformas disfrutan de creadores de contenido consistentes. iTunes no es diferente. Ya sea que estés haciendo un programa a diario, o cada dos días a la semana o semanal, asegúrese de ser constante desde el principio. Es de esperar que haya planeado con anticipación y esté grabando episodios mucho antes de su lanzamiento. Este es un gran hábito y mantiene intacto su programa de contenido constante.
 
@@ -266,4 +272,6 @@ Después, ¿Puedes mostrar tu forma única  y exclusiva de hablar sobre un tema 
 
 Los buenos podcasts mantienen la experiencia en otro lugar y crean una base leal de fans / amigos / seguidores.
 
-Tu podcast debería ser un conducto hacia otras cosas. Ya sea una lista de correo electrónico, tu sitio web, tu negocio, etc. Quién sabe durante cuánto tiempo iTunes será el rey del espacio de los podcasts. Si confías mucho en iTunes y ellos hacen un cambio de algoritmo (o simplemente se deshacen del podcasting), no querrás estar en el río sin una caña siempre armada y preparada para pescar.
+Tu podcast debería ser un conducto hacia otras cosas. Ya sea una lista de correo electrónico, tu sitio web, tu negocio, etc. Quién sabe durante cuánto tiempo iTunes será el rey del espacio de los podcasts.
+
+Si confías mucho en iTunes y ellos hacen un cambio de algoritmo (o simplemente se deshacen del podcasting), no querrás estar en el río sin una caña siempre armada y preparada para pescar.
