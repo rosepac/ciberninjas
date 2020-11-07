@@ -47,7 +47,7 @@ Empecemos, por **los mejores podcast de tecnología clasificados en categorías*
 - [**El Mejor Hardware para Grabar tus Podcasts**](#el-mejor-hardware-para-grabar-tus-podcasts)
   - [**Los Mejores Micrófonos para Grabar Podcast**](#los-mejores-micrófonos-para-grabar-podcast)
 - [**El Mejor Software de Grabación de Audio para Podcast**](#el-mejor-software-de-grabación-de-audio-para-podcast)
-- [**Cómo Entrar en la sección nueva y notable de iTunes**](#cómo-entrar-en-la-sección-nueva-y-notable-de-itunes)
+- [**¿Cómo entrar en la sección de mejores podcast de iTunes?**](#cómo-entrar-en-la-sección-de-mejores-podcast-de-itunes)
 - [**Algunas reflexiones finales sobre el podcasting**](#algunas-reflexiones-finales-sobre-el-podcasting)
 
 ## **Podcasts de Ciencia de Datos**
@@ -214,7 +214,7 @@ Entre los mejores micrófonos, vas a encontrarte con marcas más nuevas o más c
 
 **Análisis:** no es obligatorio, pero utilizo el servicio gratuito PodTrac. Es un fragmento de código adicional que va en su fuente RSS que envía a iTunes (una vez). En la mejor de las capacidades conocidas, le muestra descargas en iTunes (iTunes no le da ninguna estadística).
 -->
-## **Cómo Entrar en la sección nueva y notable de iTunes**
+## **¿Cómo entrar en la sección de mejores podcast de iTunes?**
 
 Están apareciendo un montón de plataformas de publicación de podcasting. Como cualquier otra cosa, es recomendable que busques a tus amigos que tengan podcasts y les pedas sus recomendaciones.
 
