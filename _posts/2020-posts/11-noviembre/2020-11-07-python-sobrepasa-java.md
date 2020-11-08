@@ -21,25 +21,29 @@ published: true
 
 ---
 
-La edición de noviembre de la lista de los principales lenguajes de programación de TIOBE tiene una sorpresa: por primera vez en sus 20 años de historia, C y Java no ocupan los dos primeros lugares, con Java deslizándose al tercer lugar y Python ocupando su lugar.
+La edición de Noviembre de la lista de [**los principales lenguajes de programación**](https://ciberninjas.com/15-mejores-lenguajes-programacion/) de TIOBE nos trae una grata sorpresa (o no tan sorpresa, para la mayoría de nosotros).
 
-El índice TIOBE de octubre tenía C en el n. ° 1 y Java en el n. ° 2, e históricamente esos dos idiomas simplemente han intercambiado espacios, mientras que el resto de la competencia luchó por el privilegio de quedarse detrás de los dos líderes perennes. Con Python finalmente superando a Java en popularidad, el futuro podría ser uno en el que todo surja Python.
+Puesto que **por primera vez en los 20 años de historia del índice TIOBE**, **los lenguajes de programación C y Java no se encuentran entre los dos primeros lugares**.**Java baja hasta el tercer lugar, subiendo como la espuma Python**. Para destronar así a Java de esa segunda plaza: [El lenguaje de programación de Python](https://ciberninjas.com/python/). **Python se consolida como segundo lenguaje más popular**.
 
-Paul Jansen, director ejecutivo de TIOBE, dijo: "Hace algún tiempo tuve una llanta pinchada y llamé a la patrulla de carreteras para que me ayudaran. El mecánico me preguntó acerca de mi vida y cuando usé la palabra 'software' en mi respuesta, sonrió y comenzó a hablar con entusiasmo sobre su propia pasión: programar en Python. Desde ese momento, supe que Python se volvería omnipresente ".
+El índice TIOBE de Octubre, que tenía a C en el N° 1 y al lenguaje de Java en el N° 2, y que históricamente siempre han sido los lenguajes de programación que han ocupado esos dos primeros lugares. Intercambiando esas dos plazas entre ellos.
 
-Jansen usa ese incidente para ilustrar lo que él cree que es la razón detrás de la creciente popularidad de Python: la demanda general de habilidades de programación.
+Mientras que **el resto de los lenguajes de programación, siempre han estado luchando por el privilegio de quedarse en tercer lugar**. Este año, con **Python sobrepasando a Java en popularidad**, el futuro próximo podría ser más esperanzador tanto para Python como para otros nuevos lenguajes que prometen ser el futuro.
 
-"En el pasado, la mayoría de las actividades de programación eran realizadas por ingenieros de software. Pero hoy en día se necesitan habilidades de programación en todas partes y hay una falta de buenos desarrolladores de software", dijo Jansen. "Como consecuencia, necesitamos algo simple que pueda ser manejado por ingenieros que no son software, algo fácil de aprender con ciclos de edición rápidos y una implementación fluida. Python satisface todas estas necesidades".
+Paul Jansen, director ejecutivo de TIOBE, dijo: ***"Hace algún tiempo tuve una llanta pinchada y llamé a la patrulla de carreteras para que me ayudase. El mecánico me preguntó acerca de mi vida y cuando usé la palabra 'software' en mi respuesta, sonrió y comenzó a hablar con entusiasmo sobre su propia pasión: Programar en Python. Desde entonces, supe que Python se volvería omnipresente."***
 
-Jansen dijo que cree que este es el caso a pesar de las afirmaciones de otros de que la popularidad de Python se debe al auge de la minería de datos, la inteligencia artificial, la computación numérica y otras iniciativas que comúnmente utilizan las amplias capacidades de procesamiento de datos de Python. 
+Jansen usa ese incidente para ilustrar lo que él cree que es la razón detrás de la creciente popularidad de Python: La demanda creciente de las habilidades de programación.
 
-Como escribió R. Dallon Adams de TechRepublic en su artículo sobre el índice de octubre, Python ha estado dando a Java una carrera por su dinero durante algún tiempo. En octubre, Python se ubicó en el número 3 con el mayor porcentaje de crecimiento año tras año en los 50 idiomas principales. Java, todavía en el segundo lugar en octubre, tuvo la tasa de crecimiento anual negativa más grande entre los 50 primeros durante el mismo período. 
+***"En el pasado, la mayoría de las actividades de programación eran realizadas por ingenieros de software. Pero hoy en día, se necesitan habilidades de programación en todas partes y hay una falta de buenos desarrolladores de software"***, dice Jansen.
 
-El cambio de Java y Python incluso fue telegrafiado en septiembre , con Python ocupando sólidamente el puesto número 3, mientras que Java continuó publicando números negativos.
+***"Como consecuencia, necesitamos algo simple que pueda ser manejado por ingenieros que no son especifícamente ingenieros de software; algo más fácil de aprender, con ciclos de edición rápidos y una implementación fluida; y Python satisface todas esas necesidades".***
 
-Python ha sido durante mucho tiempo un lenguaje de programación muy querido , al igual que Java, pero si Jansen está en lo correcto, podría haber un cambio a largo plazo en el que Python se vuelva dominante simplemente por cómo se ha comercializado como más fácil de aprender y aún capaz de hacer. todas las cosas que puede hacer Java.
+Jansen cree, que esta es la razón del auge del lenguaje Python. A pesar de las afirmaciones de otros, que creen que la popularidad de Python se debe al auge de la minería de datos, la inteligencia artificial, la computación cuántica y otras iniciativas que comúnmente utilizan las amplias capacidades de procesamiento de datos que el lenguaje de Python ofrece.
 
-Junto con la gran sorpresa en la parte superior del índice, R, Perl y Go están mostrando un crecimiento positivo. R está en el noveno lugar, el mismo que ocupó el mes pasado. R ha experimentado un crecimiento explosivo en 2020 , lo que ha llevado a TIOBE a considerarlo un competidor para el lenguaje de programación del año.
+**El cambio de Java por Python**, se podía preever desde el mes Septiembre, puesto que ya **se veía como Python se consolidaba en el puesto número 3, mientras que Java continuaba mostrando números negativos** de forma constante.
+
+Python ha sido durante mucho tiempo un lenguaje de programación muy querido, al igual que Java, pero si Jansen está en lo correcto; **podría haber un cambio a largo plazo, en el que Python se vuelva dominante** simplemente por cómo se ha comercializado. Bajo una visión, de qué, **Python es un lenguaje de programación más fácil de aprender, y de que es totalmente capaz de hacer todo lo que hace Java**.
+
+Junto con la gran sorpresa de Python en la parte superior del índice: **R, Perl y Go están mostrando también un importante crecimiento positivo**. R se encuentra en el noveno lugar, el mismo que ocupaba el mes pasado. **R ha experimentado un crecimiento explosivo durante todo el año 2020**, lo que ha llevado a los expertos del índice TIOBE a considerarlo como un serio competidor al premio de lenguaje de programación con más auge y crecimiento del año 2020.
 
 ### **Relacionados** <!-- omit in toc -->
 
