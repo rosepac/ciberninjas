@@ -9,9 +9,9 @@ date: 2020-11-07
 permalink: /podcasts-tecnologia/
 canonical_URL: https://ciberninjas.com/podcasts-tecnologia/
 published: true
-thumbnail: "/assets/img/2020/11/podcast-itunes-top.webp"
-feature-img: "/assets/img/2020/11/podcast-itunes-top.webp"
-img: "/assets/img/2020/11/podcast-itunes-top.webp"
+thumbnail: "/assets/img/2020/podcast-itunes-top.webp"
+feature-img: "/assets/img/2020/podcast-itunes-top.webp"
+img: "/assets/img/2020/podcast-itunes-top.webp"
 tags: [Podcasts, Recursos Gratis, Libros Programación]
 
 ---
@@ -26,7 +26,7 @@ Empecemos, por **los mejores podcast de tecnología clasificados en categorías*
 
 > [Mejores Auriculares](https://ciberninjas.com/auriculares-dise%C3%B1o/) >> [Mejores Auriculares Gaming](https://ciberninjas.com/auriculares-gamer/) >> [Mejores Ofertas de Auriculares](https://amzn.to/3l3A3Ow){:target="_blank" rel="nofollow,noreferrer"}
 
-![Los mejores podcasts de tecnología, programación y diseño que debes escuchar en tus ratos libres](/assets/img/2020/11/podcast-itunes-top.webp)
+![Los mejores podcasts de tecnología, programación y diseño que debes escuchar en tus ratos libres](/assets/img/2020/podcast-itunes-top.webp)
 
 <span id="menu"><strong>**Los Mejores Podcast de Tecnología en Español**</strong></span>
 
@@ -114,7 +114,7 @@ Empecemos, por **los mejores podcast de tecnología clasificados en categorías*
 - [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5){:target="_blank" rel="nofollow,noreferrer"} (podcast)
 - [UGeek](https://ugeek.github.io/){:target="_blank" rel="nofollow,noreferrer"} (podcast)
 
-![Guía de podcasting para la creación del mejor podcast posible y cómo ganar ganancias con un podcast](/assets/img/2020/11/podcaster-girl.webp)
+![Guía de podcasting para la creación del mejor podcast posible y cómo ganar ganancias con un podcast](/assets/img/2020/podcaster-girl.webp)
 
 ## **Guía Podcasting**
 

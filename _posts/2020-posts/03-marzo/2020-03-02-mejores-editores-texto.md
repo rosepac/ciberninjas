@@ -22,9 +22,9 @@ tags:
 - Light Table
 - Delphi
 - Markdown Monster
-thumbnail: "/assets/img/2020/11/mejores-editores-web.webp"
-feature-img: "/assets/img/2020/11/mejores-editores-web.webp"
-title: '🥇 ▷ Los Mejores EDITORES de TEXTO Gratis para PROGRAMAR 2021'
+thumbnail: "/assets/img/2020/mejores-editores-web.webp"
+feature-img: "/assets/img/2020/mejores-editores-web.webp"
+title: '🥇 ▷ Los 16 Mejores EDITORES de TEXTO Gratis para PROGRAMAR 2021'
 description: >-
   ✅ Las 16 mejores APLICACIONES GRATUITAS para crear código. Comparativa y revisión de cada editar además de una lista de características.
 excerpt: >-
@@ -39,7 +39,7 @@ published: true
 
 Comparativa y revisión de **los mejores editores de texto para programar totalmente gratuitos**, bien seas un desarrollador web nuevo o un adicto del código veterano, **vas a necesitar un editor de código**, sí o sí.
 
-![Los Mejores EDITORES de TEXTO Gratis para PROGRAMAR 2021](/assets/img/2020/11/mejores-editores-web.webp)
+![Los Mejores EDITORES de TEXTO Gratis para PROGRAMAR 2021](/assets/img/2020/mejores-editores-web.webp)
 
 Es muy importante, que **el editor sea lo suficientemente robusto** como para ofrecerte posibilidades para todo lo que necesites realizar. El **editor es y será ser tu herramienta de trabajo principal** y tu mejor amigo (durante todo tu tiempo de codeo 😉) entre toda tu caja de herramientas.
 

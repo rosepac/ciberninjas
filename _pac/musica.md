@@ -10,10 +10,12 @@ last_modified_at: 2020-11-03 12:30:02
 published: true
 permalink: /musica/
 canonical_URL: https://ciberninjas.com/musica/
-thumbnail: /assets/img/2020/10/musica-chica.webp
-feature-img: /assets/img/2020/10/musica-chica.webp
-img: /assets/img/2020/10/musica-chica.webp
+thumbnail: /assets/img/2020/musica-chica.webp
+feature-img: /assets/img/2020/musica-chica.webp
+img: /assets/img/2020/musica-chica.webp
 ---
+
+![La música Ciberninjas preferida que ha acompañado al menda Pablo Álvarez Corredera a lo largo de su vida, todas mis canciones favoritas y mis gustos musicales preferidos.](/assets/img/2020/musica-chica.webp)
 
 La música random del menda lerenda, rosepac. Vale. Mis gustos son eclépticos, por lo que vas a poder encontrarte casi de todo por entre estos reproductores, solamente espero que no te asustes.. Y puedas encontrar algo que te interese y entretenga. 😹
 

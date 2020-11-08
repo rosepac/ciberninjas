@@ -6,8 +6,8 @@ comments: false
 tags:
 - Actualidad
 - Reflexión Sociedad
-thumbnail: /assets/img/2020/11/jardin-digital.webp
-feature-img: /assets/img/2020/11/jardin-digital.webp
+thumbnail: /assets/img/2020/jardin-digital.webp
+feature-img: /assets/img/2020/jardin-digital.webp
 title: '▷ Los jardines digitales permiten cultivar tu propio pedazo de Internet'
 description: >-
   Un número creciente de personas está creando sitios creativos e individualizados que evitan la apariencia única de las redes sociales.
@@ -73,4 +73,4 @@ En última instancia, queda por ver si los jardines digitales serán un remanent
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![▷ Los jardines digitales permiten cultivar tu propio pedazo de Internet](/assets/img/2020/11/jardin-digital.webp)
+![▷ Los jardines digitales permiten cultivar tu propio pedazo de Internet](/assets/img/2020/jardin-digital.webp)

@@ -6,8 +6,8 @@ comments: false
 tags:
 - Python
 - Java
-thumbnail: /assets/img/2020/11/python-supera-java.webp
-feature-img: /assets/img/2020/11/python-supera-java.webp
+thumbnail: /assets/img/2020/python-supera-java.webp
+feature-img: /assets/img/2020/python-supera-java.webp
 title: '▷ Python supera a Java para convertirse en el segundo lenguaje de programación más popular'
 description: >-
   Por primera vez en la historia del índice TIOBE, Java se ha deslizado fuera de los dos primeros, dejando a Python para ocupar el lugar detrás del actual campeón, C.
@@ -59,4 +59,4 @@ Junto con la gran sorpresa de Python en la parte superior del índice: **R, Perl
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Python supera a Java para convertirse en el segundo lenguaje de programación más popular](/assets/img/2020/11/python-supera-java.webp)
+![Python supera a Java para convertirse en el segundo lenguaje de programación más popular](/assets/img/2020/python-supera-java.webp)

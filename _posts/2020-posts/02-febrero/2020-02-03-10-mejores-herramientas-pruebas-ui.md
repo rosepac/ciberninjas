@@ -142,7 +142,7 @@ Winium es un proyecto reciente y no es tan maduro como otras ofertas de automati
 
 ## **5. TAST**
 
-![Logotipo del Framework Tast, herramienta de automatización de pruebas de origen español](/assets/img/2020/11/tast-logo.webp)
+![Logotipo del Framework Tast, herramienta de automatización de pruebas de origen español](/assets/img/2020/tast-logo.webp)
 
 El framework TAST (Test Automation System Tool) es una herramienta completa de automatización de pruebas, creada por la empresa española SIPSA en 2018.
 
