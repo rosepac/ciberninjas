@@ -1,11 +1,11 @@
 ---
 
 layout: page
-title: "🥇 ▷ Los 30 Mejores PODCAST de Programación, Diseño y Tecnología en Español"
+title: "🥇 ▷ Los 30 Mejores PODCAST + Guía Podcasting (Programación, Diseño y Tecnología en Español)"
 description: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
 excerpt: "Los mejores audios cortos de tecnología, programación y diseño que debes escuchar en tus ratos libres"
 bootstrap: true
-date: 2020-11-06
+date: 2020-11-07
 permalink: /podcasts-tecnologia/
 canonical_URL: https://ciberninjas.com/podcasts-tecnologia/
 published: true
