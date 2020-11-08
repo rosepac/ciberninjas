@@ -99,4 +99,4 @@ Los **mejores cursos gratuitos de seguridad en la red**.
 - [Los Mejores Cursos Gratis de Software Técnico](https://ciberninjas.com/cursos-css-preprocesadores/)
 - [Los Mejores Cursos Gratis de Redes Telefónicas](https://ciberninjas.com/cursos-redes-telefonicas/)
 
-![Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-seguridad.webp "Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto")
+![Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto](/assets/img/paginas-cursos/cursos-seguridad-red.webp "Los mejores cursos gratuitos con los que aprender todo sobre seguridad, desde cero hasta nivel experto")
