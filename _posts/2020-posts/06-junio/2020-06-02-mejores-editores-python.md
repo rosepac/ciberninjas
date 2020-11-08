@@ -15,8 +15,8 @@ tags:
 - Thonny
 - Visual Studio Code
 - Wing
-thumbnail: /assets/img/blog/python-ide/python-editores-scrapy.webp
-feature-img: /assets/img/blog/python-ide/python-editores-scrapy.webp
+thumbnail: /assets/img/2020/python-editores-scrapy.webp
+feature-img: /assets/img/2020/python-editores-scrapy.webp
 title: '🥇 ▷ 11 Mejores Editores de Código de Python y entornos de desarrollo IDE 2021'
 description: >-
   Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
@@ -30,7 +30,7 @@ published: true
 
 Los mejores editores de código Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
 
-![Mejores Editores de Código de Python u entornos de desarrollo IDE](/assets/img/blog/python-ide/python-editores-scrapy.webp "Mejores Editores de Código de Python u entornos de desarrollo IDE")
+![Mejores Editores de Código de Python u entornos de desarrollo IDE](/assets/img/2020/python-editores-scrapy.webp "Mejores Editores de Código de Python u entornos de desarrollo IDE")
 
 Usando estos entornos de desarrollo integrados de Python u IDE, puedes administrar una gran base de código y lograr una implementación rápida.
 

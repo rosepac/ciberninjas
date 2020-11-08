@@ -6,8 +6,8 @@ comments: false
 tags:
 - Facebook
 - Redes Sociales
-thumbnail: /assets/img/2020/10/facebook-dating.webp
-feature-img: /assets/img/2020/10/facebook-dating.webp
+thumbnail: /assets/img/2020/facebook-dating.webp
+feature-img: /assets/img/2020/facebook-dating.webp
 title: '▷ Facebook Dating, se lanza en Europa la aplicación de citas de Facebook después de un largo retraso'
 description: >-
   Después de un retraso en Febrero debido a las preocupaciones planteadas por los reguladores de la UE, el servicio de citas de Facebook, Facebook Dating, llegará a Europa.
@@ -49,4 +49,4 @@ Con el problema ya resuelto. Facebook Dating ahora se ofrece en más de 50 país
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Después de un retraso en Febrero debido a las preocupaciones planteadas por los reguladores de la UE, el servicio de citas de Facebook, Facebook Dating, llegará a Europa.](/assets/img/2020/10/facebook-dating.webp "Después de un retraso en Febrero debido a las preocupaciones planteadas por los reguladores de la UE, el servicio de citas de Facebook, Facebook Dating, llegará a Europa.")
+![Después de un retraso en Febrero debido a las preocupaciones planteadas por los reguladores de la UE, el servicio de citas de Facebook, Facebook Dating, llegará a Europa.](/assets/img/2020/facebook-dating.webp "Después de un retraso en Febrero debido a las preocupaciones planteadas por los reguladores de la UE, el servicio de citas de Facebook, Facebook Dating, llegará a Europa.")

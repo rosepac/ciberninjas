@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - 
-thumbnail: /assets/img/2020/10/google-developer-learning.webp
-feature-img: /assets/img/2020/10/google-developer-learning.webp
+thumbnail: /assets/img/2020/google-developer-learning.webp
+feature-img: /assets/img/2020/google-developer-learning.webp
 title: '▷ Google lanza Google Learn: Un recopilatorio de su contenido de aprendizaje, para los desarrolladores de dispositivos de Google'
 description: >-
   Bienvenido a Learn, su destino único para adquirir y desarrollar el conocimiento y las habilidades que necesita para desarrollar software con la tecnología de Google.
@@ -54,13 +54,13 @@ Los [temas](https://developers.google.com/learn/topics){:target="_blank" rel="no
 
 **¡Aquí es donde comienza la diversión!** Puedes mostrar todas las cosas nuevas que has aprendido desde tu perfil de desarrollador de Google. Para utilizar las funciones sociales, primero debes [crear tu perfil de desarrollador](https://google.dev/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}, y logra tu primera insignia de perfil de desarrollador creado.
 
-![El nuevo perfil de Google Aprendizaje para nuevos mostrar las habilidades estudidadas por cada desarrollador](/assets/img/2020/10/perfil-insignias.webp)
+![El nuevo perfil de Google Aprendizaje para nuevos mostrar las habilidades estudidadas por cada desarrollador](/assets/img/2020/perfil-insignias.webp)
 
 A continuación, ve a probar algunas de las rutas que han ido creando, y después de completar cada actividad. Realizarás una prueba y, si la apruebas, se te otorgará una insignia nueva.
 
 **¡Puedes compartir todas tus insignias ganadas en las redes sociales y poner celosos a tus otros amigos desarrolladores!**
 
-![Google lanza Google Learn: Un recopilatorio de todo el contenido de aprendizaje, para los desarrolladores de dispositivos de Google](/assets/img/2020/10/google-developer-learning.webp)
+![Google lanza Google Learn: Un recopilatorio de todo el contenido de aprendizaje, para los desarrolladores de dispositivos de Google](/assets/img/2020/google-developer-learning.webp)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

@@ -7,8 +7,8 @@ tags:
 - Reflexión Programación
 - Satya Nadella
 - Windows
-thumbnail: /assets/img/2020/10/satya-nadella-wallpaper.webp
-feature-img: /assets/img/2020/10/satya-nadella-wallpaper.webp
+thumbnail: /assets/img/2020/satya-nadella-wallpaper.webp
+feature-img: /assets/img/2020/satya-nadella-wallpaper.webp
 title: '▷ Cómo Satya Nadella dio la vuelta a Microsoft'
 description: >-
   Cuando Satya Nadella se convirtió en el tercer jefe de Microsoft en 2014, una fotografía capturó el momento. Lo muestra flanqueado por Bill Gates, el cofundador y presidente, y Steve Ballmer, el sucesor de Gates como director ejecutivo.
@@ -161,4 +161,4 @@ La respuesta de Microsoft, apoyándose en gran medida en que los clientes no des
 
 > **Fuente**: [The Economist](https://www.economist.com/briefing/2020/10/22/how-satya-nadella-turned-microsoft-around "The Economist: How Satya Nadella turned Microsoft around"){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}
 
-![Cuando Satya Nadella se convirtió en el tercer jefe de Microsoft en 2014, una fotografía capturó el momento. Lo muestra flanqueado por Bill Gates, el cofundador y presidente, y Steve Ballmer, el sucesor de Gates como director ejecutivo.](/assets/img/2020/10/satya-nadella-wallpaper.webp "Cuando Satya Nadella se convirtió en el tercer jefe de Microsoft en 2014, una fotografía capturó el momento. Lo muestra flanqueado por Bill Gates, el cofundador y presidente, y Steve Ballmer, el sucesor de Gates como director ejecutivo.")
+![Cuando Satya Nadella se convirtió en el tercer jefe de Microsoft en 2014, una fotografía capturó el momento. Lo muestra flanqueado por Bill Gates, el cofundador y presidente, y Steve Ballmer, el sucesor de Gates como director ejecutivo.](/assets/img/2020/satya-nadella-wallpaper.webp "Cuando Satya Nadella se convirtió en el tercer jefe de Microsoft en 2014, una fotografía capturó el momento. Lo muestra flanqueado por Bill Gates, el cofundador y presidente, y Steve Ballmer, el sucesor de Gates como director ejecutivo.")

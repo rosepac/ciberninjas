@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Libertad Internet
-thumbnail: /assets/img/2020/10/proton-libertad-red.webp
-feature-img: /assets/img/2020/10/proton-libertad-red.webp
+thumbnail: /assets/img/2020/proton-libertad-red.webp
+feature-img: /assets/img/2020/proton-libertad-red.webp
 title: '▷ Proton recauda 800.000 dólares de Hong Kong para la libertad en Hong Kong'
 description: >-
   Después de una campaña de recaudación de fondos de tres meses, ProtonVPN está donando HK $ 800,000 al Fondo Humanitario 612 y Stand With Hong Kong.
@@ -83,4 +83,4 @@ Gracias nuevamente a todos los que contribuyeron a esta campaña para apoyar al 
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Proton recauda 800.000 dólares de Hong Kong para la libertad en Hong Kong](/assets/img/2020/10/proton-libertad-red.webp)
+![Proton recauda 800.000 dólares de Hong Kong para la libertad en Hong Kong](/assets/img/2020/proton-libertad-red.webp)

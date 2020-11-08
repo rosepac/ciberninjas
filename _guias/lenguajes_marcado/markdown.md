@@ -7,9 +7,9 @@ comments: false
 tags:
 - Editores de Texto
 - Markdown
-thumbnail: /assets/img/2020/10/markdown-nubes-720.webp
-feature-img: /assets/img/2020/10/markdown-nubes-720.webp
-img: /assets/img/2020/10/markdown-nubes-720.webp
+thumbnail: /assets/img/2020/markdown-nubes-720.webp
+feature-img: /assets/img/2020/markdown-nubes-720.webp
+img: /assets/img/2020/markdown-nubes-720.webp
 title: '🥇 ▷ Empezando con Markdown'
 description: >-
   Una descripción general de Markdown, cómo funciona y qué puede hacer con él.
@@ -347,7 +347,7 @@ Si aún no has probado nunca a escribir en Markdown, comienza a hacerlo desde ho
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Una descripción general de Markdown, cómo funciona y qué puede hacer con él](/assets/img/2020/10/markdown-nubes-720.webp)
+![Una descripción general de Markdown, cómo funciona y qué puede hacer con él](/assets/img/2020/markdown-nubes-720.webp)
 
 
 <script type="application/ld+json">

@@ -16,15 +16,15 @@ tags:
 - Sistema Operativo
 - Tutorial Android
 canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
-feature-img: /assets/img/2020/10/android-preguntas-frecuentes.webp
-img: /assets/img/2020/10/android-preguntas-frecuentes.webp
-thumbnail: /assets/img/2020/10/android-preguntas-frecuentes.webp
+feature-img: /assets/img/2020/android-preguntas-frecuentes.webp
+img: /assets/img/2020/android-preguntas-frecuentes.webp
+thumbnail: /assets/img/2020/android-preguntas-frecuentes.webp
 
 ---
 
 El sistema operativo de Android se ha convertido gracias a los dispositivos móviles, sin ningún tipo de dudas. En el Sistema Operativo más utilizado del mundo. Si eres un desarrollador, crear aplicaciones para Android, será una de tus mejores opciones de aquí al futuro.
 
-![Las preguntas más frecuentes sobre Android y sus respectivas respuestas.](/assets/img/2020/10/android-preguntas-frecuentes.webp "Las preguntas más frecuentes sobre Android y sus respectivas respuestas.")
+![Las preguntas más frecuentes sobre Android y sus respectivas respuestas.](/assets/img/2020/android-preguntas-frecuentes.webp "Las preguntas más frecuentes sobre Android y sus respectivas respuestas.")
 
 A continuación, vas a encontrar las 50 preguntas más frecuentes, que se hace un desarrollador que se intenta iniciar en la programación de Android.
 

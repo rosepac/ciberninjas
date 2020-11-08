@@ -13,7 +13,7 @@ tags: [Wallpaper, Fondos de Pantalla]
 
 ---
 
-![El nuevo amor geek de Internet, todo por nuestro amor eterno](/assets/img/2020/10/wallpaper-amor.webp "El nuevo amor geek de Internet, todo por nuestro amor eterno")
+![El nuevo amor geek de Internet, todo por nuestro amor eterno](/assets/img/2020/wallpaper-amor.webp "El nuevo amor geek de Internet, todo por nuestro amor eterno")
 
 [Los mejores fondos de pantalla para los más canallas](https://kutt.it/wallpaper-macarras){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

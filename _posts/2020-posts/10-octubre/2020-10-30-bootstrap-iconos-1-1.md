@@ -7,8 +7,8 @@ tags:
 - Bootstrap
 - Framework CSS
 - Iconos
-thumbnail: /assets/img/2020/10/nuevos-iconos-donb.webp
-feature-img: /assets/img/2020/10/nuevos-iconos-donb.webp
+thumbnail: /assets/img/2020/nuevos-iconos-donb.webp
+feature-img: /assets/img/2020/nuevos-iconos-donb.webp
 title: '▷ Nuevos cambios en los Iconos de Bootstrap: Versión 1.1'
 description: >-
   Nuestro lanzamiento de los iconos de Bootstrap, con más de 30 nuevos iconos y algunas correcciones. Los nuevos íconos incluyen variaciones de relleno, junto a algunos emojis nuevos y varios íconos de nuevos formatos de archivos.
@@ -28,7 +28,7 @@ Un nuevo lanzamiento menor de los Iconos de Bootstrap, ahora vienen con más de 
 
 Aquí hay un vistazo a nuestros íconos de archivos y emoji a partir de la v1.1.0. Las novedades de esta versión para emojis son los ojos de guiño y corazón, junto con las versiones de relleno para el conjunto completo. Además, hemos agregado iconos para Word, Excel, PowerPoint y un tipo de archivo de gráfico de barras general.
 
-![Nuevos cambios en los Iconos de Bootstrap: Versión 1.1](/assets/img/2020/10/nuevos-iconos-donb.webp)
+![Nuevos cambios en los Iconos de Bootstrap: Versión 1.1](/assets/img/2020/nuevos-iconos-donb.webp)
 
 ## **Instalando los iconos de Bootstrap**
 

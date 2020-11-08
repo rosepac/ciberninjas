@@ -6,8 +6,8 @@ comments: false
 tags:
 - Casa Inteligente
 - IOT
-thumbnail: /assets/img/2020/10/31-asistente-google.webp
-feature-img: /assets/img/2020/10/31-asistente-google.webp
+thumbnail: /assets/img/2020/31-asistente-google.webp
+feature-img: /assets/img/2020/31-asistente-google.webp
 title: '▷ Las nuevas herramientas y funciones para los desarrolladores del Asistente Inteligente de Google'
 description: >-
   Noticias e información valiosa sobre las plataformas, las herramientas y los eventos de Google.
@@ -179,4 +179,4 @@ Estamos muy entusiasmados con todos estos anuncios, tanto en App Actions como en
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Las mejores marcas integran el Asistente de Google con nuevas herramientas y funciones para aplicaciones de Android y pantallas inteligentes](/assets/img/2020/10/31-asistente-google.webp)
+![Las mejores marcas integran el Asistente de Google con nuevas herramientas y funciones para aplicaciones de Android y pantallas inteligentes](/assets/img/2020/31-asistente-google.webp)

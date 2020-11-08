@@ -7,8 +7,8 @@ tags:
 - AWS
 - Oracle
 - Bases de Datos
-thumbnail: /assets/img/2020/10/aws-migraciones.webp
-feature-img: /assets/img/2020/10/aws-migraciones.webp
+thumbnail: /assets/img/2020/aws-migraciones.webp
+feature-img: /assets/img/2020/aws-migraciones.webp
 title: '▷ Amazon anuncia 300.000 bases de datos migradas a través de su herramienta DMS'
 description: >-
   En un intento de sobrepasar a Oracle, Amazon promociona que ha alcanzado las 300.000 migraciones de bases de datos con su herramienta DMS.
@@ -58,4 +58,4 @@ Hoy mismo, anunció la disponibilidad de sus **nuevas instancias de AWS Graviton
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Amazon anuncia 300.000 bases de datos migradas a través de su herramienta DMS](/assets/img/2020/10/aws-migraciones.webp "Amazon anuncia 300.000 bases de datos migradas a través de su herramienta DMS")
+![Amazon anuncia 300.000 bases de datos migradas a través de su herramienta DMS](/assets/img/2020/aws-migraciones.webp "Amazon anuncia 300.000 bases de datos migradas a través de su herramienta DMS")
