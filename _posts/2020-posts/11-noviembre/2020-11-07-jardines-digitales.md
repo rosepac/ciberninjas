@@ -17,7 +17,7 @@ canonical_URL: https://ciberninjas.com/jardines-digitales/
 permalink: /jardines-digitales/
 date: 2020-11-07 10:36:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
