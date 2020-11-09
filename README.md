@@ -1,6 +1,34 @@
-# Ciberninjas: Página Web
+# Ciberninjas: Proyecto de Jardín Digital del Saber Binario
 
-## Historia
+## ¿Cómo publicar en el blog o la web Ciberninjas?
+
+Si sigues el paso a paso de la siguiente publicación, puedes añadir cualquier publicación que desees dentro del apartado del blog, [¿Cómo escribir en el blog de Ciberninjas?](https://ciberninjas.com/ciberninjas-redactores/).
+
+Igualmente, puedes contactarme a través de [Discord](https://discord.gg/97tKkxk) ,[Telegram](https://t.me/ciberninjas) o [Twitter](https://kutt.it/ciberninjast): Si quieres realizar cualquier otro tipo de aportación, agregar una guía, una sección, o ante cualquier otra duda o sugerencia que puedas tener.
+
+## ¿Cómo participar en la Comunidad de Comunidades Ciberninjas?
+
+- [Servidor de Discord](https://discord.gg/97tKkxk).
+- [Comunidad Telegram](https://t.me/ciberninjascomunidad)
+
+La visión global del proyecto, siempre ha sido unificar al máximo las comunidades de programación y diseño (a pesr de que estás, nunca se animan demasiado) existentes.
+
+El proyecto en sí, nació de eso. De unificar recursos e intentar englobar un lugar perfecto desde el que poder enfocarse en el aprendizaje que cada usuario desee. Sin demasiadas distracciones y sin la necesidad de recurrir a buscar a través de Google, una y otra vez.
+
+Respecto a la comunidad en sí. Mi visión es la de centralizar al resto de comunidades, crear e intentar gestionar lo mejor posible ese aspecto e intentar ser el punto en el que todos los caminos vayan a desembocar.
+
+Alguna vez escuchaste eso de que todos los caminos van a Roma, pues Ciberninjas es Roma. Desde cualquier lugar se termina llegando a Roma, y desde Roma se puede llegar a cualquier lugar.
+
+Esto, es el concepto perfecto. Porque el enfoque del proyecto es exactamente ese. Que cualquier persona que pase por aquí, debe poder encontrar lo que busca y además, debe poder encontrar el camino perfecto por el que seguir caminando.
+
+## ¿Cómo puedo encontrar recursos dentro de Ciberninjas?
+
+Utilizar el [buscador de Ciberninjas](https://ciberninjas.com/buscador/) es una muy buena opción, para intentar encontrar lo que necesites. Sea lo que sea.
+
+Aunque también puedes probar suerte, en el almacén ninja, que viene siendo el [grupo de Facebook](https://www.facebook.com/groups/ciberninjas/).
+En la mayoría de casos, paso los recursos que me encuentro por allí, son recursos que no puedo dedicarles tiempo para agregar a la web. Pero que quizás, algún día, los vaya sumando a los repositorios de la web.
+
+## Historia de Ciberninjas
 
 ### 2020 / 07 / 06
 
