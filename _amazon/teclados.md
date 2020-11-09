@@ -25,7 +25,7 @@ Los mejores teclados para 2021 superan con creces a sus homólogos inferiores. E
 
 - [1. **Roccat Vulcan 120 Aimo**](#1-roccat-vulcan-120-aimo)
 - [2. **Teclado de entretenimiento inalámbrico Corsair K83**](#2-teclado-de-entretenimiento-inalámbrico-corsair-k83)
-- [3.**Tipo de Razer Pro**](#3tipo-de-razer-pro)
+- [3. **Tipo de Razer Pro**](#3-tipo-de-razer-pro)
 - [4. **Filco Ninja Majestouch-2**](#4-filco-ninja-majestouch-2)
 - [5. **Logitech Craft**](#5-logitech-craft)
 - [6. **PFU Happy Hacking Professional 2** (HHKB2)](#6-pfu-happy-hacking-professional-2-hhkb2)
@@ -61,7 +61,7 @@ Con su gran cantidad de opciones de conectividad, que incluyen Bluetooth e inal�
 
 [⌨ ¡CÓMPRALO YA! 🖱](https://amzn.to/2GaKwbm){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 3.**Tipo de Razer Pro**
+## 3. **Tipo de Razer Pro**
 
 [![Comprar Teclado Type Razer Pro](/assets/img/amazon/teclados-gaming/.webp)](https://amzn.to/334C6LK "Comprar Teclado Type Razer Pro"){:target="_blank" rel="nofollow,noreferrer"}
 

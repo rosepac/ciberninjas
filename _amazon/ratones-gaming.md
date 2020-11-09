@@ -7,7 +7,7 @@ description: "⌨ Las mejores ofertas calidad precio y chollazos de ratones y te
 excerpt: "⌨ Las mejores ofertas calidad precio y chollazos de ratones y teclados para diseñar y jugar"
 permalink: /teclados-ratones-diseño/
 canonical_URL: https://ciberninjas.com/teclados-ratones-diseño/
-published: true
+published: false
 comments: false
 date: 2020-09-25 22:14:00 +0200
 thumbnail: /assets/img/amazon/teclado-mesa-pcx1280.webp
