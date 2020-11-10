@@ -30,19 +30,18 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Noviembre**
 
-### 🔔 5 de Noviembre  <!-- omit in toc -->
-
-- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/)
-- Raiola Conferencias - [MÁS INFORMACIÓN Y REGISTRO](https://raiolanetworks.es/rmc-online/){:target="_blank" rel="nofollow, noreferrer"}
 
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### 🔔 6 de Noviembre <!-- omit in toc -->
+### 🔔 8 de Noviembre  <!-- omit in toc -->
 
-- Comunidad AI [MÁS INFORMACIÓN Y REGISTRO](https://www.eventbrite.co/e/comunidadai-live-tickets-116270814135){:target="_blank" rel="nofollow, noreferrer"}
+- Jornadas Latinoamericanas de Agilidad / Agile 🎥 [Registro + Info](http://agiles2020.agiles.org/){:target="_blank" rel="nofollow, noreferrer"} - 8 al 14 de noviembre 📆 [Agenda Completa](http://agiles2020.agiles.org/agenda/){:target="_blank" rel="nofollow, noreferrer"}
+-  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+-  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+-  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 11 de Noviembre  <!-- omit in toc -->
 
@@ -985,3 +984,12 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/)
 - Raiola Conferencias - [MÁS INFORMACIÓN Y REGISTRO](https://raiolanetworks.es/rmc-online/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 5 de Noviembre  <!-- omit in toc -->
+
+- Gran Conferencia CodeMotion España - [MÁS INFORMACIÓN Y REGISTRO](https://ciberninjas.com/codemotion-esp-2020/)
+- Raiola Conferencias - [MÁS INFORMACIÓN Y REGISTRO](https://raiolanetworks.es/rmc-online/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 6 de Noviembre <!-- omit in toc -->
+
+- Comunidad AI [MÁS INFORMACIÓN Y REGISTRO](https://www.eventbrite.co/e/comunidadai-live-tickets-116270814135){:target="_blank" rel="nofollow, noreferrer"}
