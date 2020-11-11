@@ -37,7 +37,7 @@ Si lo que te interesa, es conocer [**los mejores auriculares para jugar**](https
 - [**11. Auriculares MSI DS502**](#11-auriculares-msi-ds502)
 - [**12. Auriculares Sennheiser Momentum Free**](#12-auriculares-sennheiser-momentum-free)
 
-**🎧 sAuriculares para Diseñadores**
+**🎧 Los Mejores Auriculares para Diseñadores o Trabajar**
 
 ## **1. Auriculares Sony WH-XB900N**
 
