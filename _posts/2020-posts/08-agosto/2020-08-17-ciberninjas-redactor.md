@@ -7,7 +7,7 @@ tags:
 - Ciberninjas
 # thumbnail: /assets/img/blog/16-renderizar-musica-javascript.webp
 # feature-img: /assets/img/blog/16-renderizar-musica-javascript.webp
-title: '▷ ¿Cómo escribir en el blog de Ciberninjas?'
+title: '▷ ¿Cómo publicar en la Comunidad Ciberninjas?'
 description: >-
   Paso a paso a realizar, para agregar contenidos dentro de la web de Ciberninjas, cualquier contenido relacionado con la programación y el diseño es bien recibido.
 excerpt: >-
