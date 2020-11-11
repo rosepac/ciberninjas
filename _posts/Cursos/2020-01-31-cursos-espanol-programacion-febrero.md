@@ -18,6 +18,55 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 
 ---
 
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/cursos-tecnologia/">Cursos Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Mejores Cursos 2021</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/cursos-tecnologia/",
+    "name": "Los Mejores Cursos GRATIS de Programación y Tecnología Online 2021"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/cursos-espanol-programacion-febrero/",
+     "name": "Mejores Cursos Exclusivos de 2021"
+   }
+  }
+ ]
+}
+</script>
+
 Muchos de estos cursos ya están incluidos en nuestro [recopilatorio de cursos en español](/cursos-tecnologia/), allí podrás encontrarlos ordenados por temáticas y navegación de botones. En este otro enlace, podrás encontrar [libros](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/).
 
 Si lo que deseas es [aprender a programar](https://ciberninjas.com/programa-gratis/), no dejes de investigar más en profundidad alrededor de toda la web; y también, puedes investigar entre los cientos de recursos gratis que te ofrece Ciberninjas.
@@ -90,7 +139,7 @@ Si luego de realizar alguno de estos cursos introductorios, deseas seguir aprend
 - [Crea tu Página Web sin Códigos Ni Complicaciones.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-pagina-web-sin-codigos-ni-complicaciones%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Creación de Videojuegos en Unreal Engine para principiantes](https://www.udemy.com/course/unreal-engine-principiantes/){:target="_blank" rel="nofollow,noreferrer"}
 - [Crear Documentos PDF directamente desde PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freportes-pdf-con-php%2F){:target="_blank" rel="nofollow,noreferrer"}
-- [Crear Una Página Web Desde Cero Para Principiantes ([2020)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-esta-pagina-web-moderna-con-html5-css3-y-jquery-2019%2F){:target="_blank" rel="nofollow,noreferrer"}
+- [Crear Una Página Web Desde Cero Para Principiantes (2020)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-esta-pagina-web-moderna-con-html5-css3-y-jquery-2019%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso Asp.Net MVC + Entity Framework para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-aspnet-mvc-entity-framework-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso Básico de Iniciación SAP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finiciacion-al-sistema-sap%2F){:target="_blank" rel="nofollow,noreferrer"}
 - [Curso básico de programación orientada a objetos en java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbasic-poo-java%2F){:target="_blank" rel="nofollow,noreferrer"}

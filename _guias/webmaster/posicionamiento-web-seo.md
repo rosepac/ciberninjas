@@ -25,7 +25,7 @@ Las búsquedas a través de los buscadores están en constante cambio, más siem
 
 - [**La Historia del SEO**](#la-historia-del-seo)
   - [Métodos](#métodos)
-  - [¿Cómo estrategia de marketing?](#cómo-estrategia-de-marketing)
+  - [¿Cómo estrategia de marketing seguir?](#cómo-estrategia-de-marketing-seguir)
   - [Mercados internacionales](#mercados-internacionales)
   - [Precedentes legales](#precedentes-legales)
 - [La estructura básica y fundamental](#la-estructura-básica-y-fundamental)
@@ -238,15 +238,25 @@ Sin embargo, ambas compañías se disculparon rápidamente, arreglaron las pági
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### ¿Cómo estrategia de marketing?
+### ¿Cómo estrategia de marketing seguir?
 
-El SEO no es una estrategia adecuada para todos los sitios web, y otras estrategias de marketing en Internet pueden ser más efectivas, como la publicidad paga a través de campañas de pago por clic , según los objetivos del operador del sitio. Marketing de motores de búsquedaes la práctica de diseñar, ejecutar y optimizar campañas de ofertas de motores de búsqueda. Su diferencia con el SEO se representa casi simplemente como la diferencia entre la clasificación de precedencia pagada y no pagada en los resultados de búsqueda. Su objetivo se refiere más a la prominencia que a la relevancia; Los desarrolladores de sitios web deben considerar a SEM con la mayor importancia teniendo en cuenta la visibilidad, ya que la mayoría navega a los listados principales de su búsqueda. Una campaña exitosa de marketing en Internet también puede depender de la creación de páginas web de alta calidad para atraer y persuadir, presentando análisis web a todos para permitir que los propietarios de los sitios obtengan resultados y mejore la tasa de conversión de un sitio . En noviembre de 2015, Googlelanzó al público una versión completa de 160 páginas de sus Pautas de calificación de calidad de búsqueda, que reveló un cambio en su enfoque hacia la "utilidad" y la búsqueda móvil . En los últimos años, el mercado móvil ha explotado, superando el uso de computadoras de escritorio, como lo mostró StatCounter en octubre de 2016, donde analizaron 2.5 millones de sitios web y descubrieron que el 51.3% de las páginas fueron cargadas por un dispositivo móvil. Google ha sido uno de los múltiples que está utilizando la popularidad del uso de dispositivos móviles al alentar a los sitios web a usar su Google Search Console , la Prueba móvil amigable , que permite a las empresas medir su sitio web según los resultados del motor de búsqueda y su facilidad de uso. es.
+El SEO no es una estrategia adecuada para todos los sitios web, y otras estrategias de marketing en Internet pueden ser más efectivas, como la publicidad pagada a través de campañas de pago por clic, según los objetivos del operador del sitio.
+
+Marketing de motores de búsquedaes la práctica de diseñar, ejecutar y optimizar campañas de ofertas de motores de búsqueda. Su diferencia con el SEO se representa casi simplemente como la diferencia entre la clasificación de precedencia pagada y no pagada en los resultados de búsqueda.
+
+Su objetivo se refiere más a la prominencia que a la relevancia; Los desarrolladores de sitios web deben considerar a SEM con la mayor importancia teniendo en cuenta la visibilidad, ya que la mayoría navega a los listados principales de su búsqueda.
+
+Una campaña exitosa de marketing en Internet también puede depender de la creación de páginas web de alta calidad para atraer y persuadir, presentando análisis web a todos para permitir que los propietarios de los sitios obtengan resultados y mejore la tasa de conversión de un sitio.
+
+En noviembre de 2015, Google lanzó al público una versión completa de 160 páginas de sus Pautas de calificación de calidad de búsqueda, que reveló un cambio en su enfoque hacia la "utilidad" y la búsqueda móvil . En los últimos años, el mercado móvil ha explotado, superando el uso de computadoras de escritorio, como lo mostró StatCounter en octubre de 2016, donde analizaron 2.5 millones de sitios web y descubrieron que el 51.3% de las páginas fueron cargadas por un dispositivo móvil. Google ha sido uno de los múltiples que está utilizando la popularidad del uso de dispositivos móviles al alentar a los sitios web a usar su Google Search Console , la Prueba móvil amigable , que permite a las empresas medir su sitio web según los resultados del motor de búsqueda y su facilidad de uso. es.
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 SEO puede generar un adecuado retorno de la inversión. Sin embargo, a los motores de búsqueda no se les paga por el tráfico de búsqueda orgánica, sus algoritmos cambian y no hay garantías de referencias continuas. Debido a esta falta de garantías y certeza, una empresa que depende en gran medida del tráfico de los motores de búsqueda puede sufrir grandes pérdidas si los motores de búsqueda dejan de enviar visitantes.
 
-Los motores de búsqueda pueden cambiar sus algoritmos, afectando la ubicación de un sitio web, posiblemente resultando en una pérdida de tráfico grave. Según el CEO de Google, Eric Schmidt, en 2010, Google realizó más de 500 cambios de algoritmos, casi 1.5 por día. Se considera una práctica comercial inteligente que los operadores de sitios web se liberen de la dependencia del tráfico de los motores de búsqueda. Además de la accesibilidad en términos de rastreadores web mencionados anteriormente, el usuarioLa accesibilidad web se ha vuelto cada vez más importante para el SEO.
+Los motores de búsqueda pueden cambiar sus algoritmos, afectando la ubicación de un sitio web, posiblemente resultando en una pérdida de tráfico grave. Según el CEO de Google, Eric Schmidt, en 2010, Google realizó más de 500 cambios de algoritmos, casi 1.5 por día. Se considera una práctica comercial inteligente que los operadores de sitios web se liberen de la dependencia del tráfico de los motores de búsqueda.
+
+Además de la importancia que tiene de cara a los usuarios, la accesibilidad web se ha convertido en un apartado, cada vez más importante para el posicionamiento y el SEO de cara a los buscadores web.
 
 ### Mercados internacionales
 

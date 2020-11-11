@@ -24,19 +24,19 @@ FreeCAD es un modelador de diseño asistido por computadora (CAD) paramétrico 3
 
 FreeCAD está destinado al diseño de productos de ingeniería mecánica, pero también se expande a una gama más amplia de usos en torno a la ingeniería, como la arquitectura o la ingeniería eléctrica. Debido a la naturaleza gratuita y de código abierto del software, los usuarios pueden ampliar la funcionalidad del software utilizando el lenguaje de programación Python.
 
-## **¿Qué te ofrece FreeCAD?**
-
-- Libertad para construir lo que desee FreeCAD es un modelador 3D paramétrico de código abierto creado principalmente para diseñar objetos de la vida real de cualquier tamaño. El modelado paramétrico le permite modificar fácilmente su diseño volviendo al historial de su modelo y cambiando sus parámetros.
-- Crear 3D desde 2D y reverso FreeCAD le permite esbozar formas 2D restringidas por geometría y usarlas como base para construir otros objetos. Contiene muchos componentes para ajustar dimensiones o extraer detalles de diseño de modelos 3D para crear dibujos listos para producción de alta calidad.
-- Diseñado para sus necesidades FreeCAD está diseñado para adaptarse a una amplia gama de usos, incluido el diseño de productos, la ingeniería mecánica y la arquitectura. Si usted es un aficionado, un programador, un usuario de CAD experimentado, un estudiante o un profesor, se sentirá como en casa con FreeCAD.
-- FreeCAD multiplataforma se ejecuta en Windows, Mac y Linux
-
 - [**¿Qué te ofrece FreeCAD?**](#qué-te-ofrece-freecad)
 - [**¿Qué tecnologías modernas implementa FreeCAD?**](#qué-tecnologías-modernas-implementa-freecad)
 - [**¿Cómo instalar FreeCad?**](#cómo-instalar-freecad)
 - [**¿Cómo compilar FreeCad?**](#cómo-compilar-freecad)
 - [**¿Qué formatos de archivo permite FreeCAD?**](#qué-formatos-de-archivo-permite-freecad)
 - [**¿Dónde encontrar a la comunidad de FreeCad?**](#dónde-encontrar-a-la-comunidad-de-freecad)
+
+## **¿Qué te ofrece FreeCAD?**
+
+- Libertad para construir lo que desee FreeCAD es un modelador 3D paramétrico de código abierto creado principalmente para diseñar objetos de la vida real de cualquier tamaño. El modelado paramétrico le permite modificar fácilmente su diseño volviendo al historial de su modelo y cambiando sus parámetros.
+- Crear 3D desde 2D y reverso FreeCAD le permite esbozar formas 2D restringidas por geometría y usarlas como base para construir otros objetos. Contiene muchos componentes para ajustar dimensiones o extraer detalles de diseño de modelos 3D para crear dibujos listos para producción de alta calidad.
+- Diseñado para sus necesidades FreeCAD está diseñado para adaptarse a una amplia gama de usos, incluido el diseño de productos, la ingeniería mecánica y la arquitectura. Si usted es un aficionado, un programador, un usuario de CAD experimentado, un estudiante o un profesor, se sentirá como en casa con FreeCAD.
+- FreeCAD multiplataforma se ejecuta en Windows, Mac y Linux
 
 ## **¿Qué tecnologías modernas implementa FreeCAD?**
 
