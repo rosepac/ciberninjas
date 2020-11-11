@@ -36,7 +36,6 @@ Si lo que te interesa, es conocer [**los mejores auriculares para jugar**](https
 - [**10. Auriculares Sennheiser Game One**](#10-auriculares-sennheiser-game-one)
 - [**11. Auriculares MSI DS502**](#11-auriculares-msi-ds502)
 - [**12. Auriculares Sennheiser Momentum Free**](#12-auriculares-sennheiser-momentum-free)
-- [**Más Ofertas con Rebajas y Flash 🎁**](#más-ofertas-con-rebajas-y-flash-)
 
 **🎧 sAuriculares para Diseñadores**
 
@@ -167,11 +166,11 @@ Sennheiser Momentum Free SE Edición Especial - Auriculares (Bluetooth 4.2, Qual
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07R5ZZ23C&linkId=bde712f24e5b13a4a3baa14d49e13bf5"></iframe>
 
-## **Más Ofertas con Rebajas y Flash 🎁**
+### **Más Ofertas con Rebajas y Flash 🎁** <!-- omit in toc -->
 
-[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
-[🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/{: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
-[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
-[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
-[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn-outline-primary .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
-[💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn-dark .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

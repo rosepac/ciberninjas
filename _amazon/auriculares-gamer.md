@@ -33,7 +33,6 @@ Dicho esto, no te pierdas la ofertaza de [**los Razer Kraken X**](https://amzn.t
 - [**4. HyperX Cloud Orbit S**](#4-hyperx-cloud-orbit-s)
 - [**5. Steelseries Arctis 7**](#5-steelseries-arctis-7)
 - [**6. Razer Kraken X**](#6-razer-kraken-x)
-- [**Más Ofertas con Rebajas y Flash 🎁**](#más-ofertas-con-rebajas-y-flash-)
 
 ## **1. HyperX Cloud Alpha**
 
@@ -242,7 +241,7 @@ Lueg, puedes encontrar otras alternativas, por ejemplo, si es que tienes mucho d
 
 En la siguiente lista de los mejores auriculares para juegos vas a encontrar opciones para cada tipo de gamer, desde principiante hasta avanzado, independientemente de tu presupuesto. <!-- Alternativamente, si estás decidido a reducir el desorden de cables, nuestra guía de los mejores auriculares inalámbricos para juegos puede ser más de su gusto. https://www.pcgamer.com/best-wireless-gaming-headset/ -->
 
-## **Más Ofertas con Rebajas y Flash 🎁**
+### **Más Ofertas con Rebajas y Flash 🎁** <!-- omit in toc -->
 
 [💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🖥 TECLADOS Y RATONES 🖥](/teclados-ratones-dise%C3%B1o/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
