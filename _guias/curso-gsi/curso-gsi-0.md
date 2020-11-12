@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Curso GSI
-thumbnail: /assets/img/2020/11/.webp
-feature-img: /assets/img/2020/11/.webp
+# thumbnail: /assets/img/2020/11/.webp
+# feature-img: /assets/img/2020/11/.webp
 title: '▷ Contenidos del Curso de Gestión de Sistemas Informáticos: Según Internet'
 description: >-
   "Esta es una búsqueda sobre los supuestos contenidos incluidos en el Curso del Certificado Parcial de Gestión de Sistemas Informáticos"
@@ -33,8 +33,6 @@ Las unidades de competencia que se incluyen dentro del contenido del curso, son:
 Que se supone es equivalente al certificado del módulo:
 
 - MF0486_3: Seguridad en equipos informáticos de 90 Horas.
-
-file:///C:/Users/pablo/Pictures/2020-Octubre/IFCT0510.pdf
 
 Teniendo en cuenta que las competencias profesionales de ASIR: Administración de Sistemas Informáticos en Red son las siguientes:
 
@@ -85,16 +83,18 @@ El resultado, es que el contenido de Gestión de Sistemas Informáticos, es equi
 - El Módulo Completo: 0378. Seguridad y alta disponibilidad del FP ASIR.
 
 Recursos de Implantación de sistemas operativos -> https://apuntesfpinformatica.es/implantacion-de-sistemas-operativos/
+
 Recursos en Catalán -> https://ioc.xtec.cat/materials/FP/Materials/IC_S_INF/INF_IC_S_M01/web/html/index.html
 
 Recursos de Fundamentos de Hardware -> https://apuntesfpinformatica.es/fundamentos-de-hardware/
+
 Recursos en Catalán -> https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M05/web/html/index.html
 
 Recursos de Seguridad y Alta Disponibilidad -> https://apuntesfpinformatica.es/seguridad-y-alta-disponibilidad/
 Recurso en Catalán -> https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M11/web/html/index.html
 
-<!-- Otras formaciones interesantes: PROGRAMA FORMATIVO DE LA ESPECIALIDAD FORMATIVA. ACREDITACIÓN DOCENTE PARA TELEFORMACIÓN: FORMADOR/A. ON LINE: SSCE002PO-->
+<!-- Otras formaciones interesantes: PROGRAMA FORMATIVO DE LA ESPECIALIDAD FORMATIVA. ACREDITACIÓN DOCENTE PARA TELEFORMACIÓN: FORMADOR/A. ON LINE: SSCE002PO -->
 
-## **Seguimos por..?**
+## **¿Seguimos por?**
 
 [▷ Introducción 1.0: Conceptos Básicos e Historia de la Informática](https://ciberninjas.com/gsi-1-introduccion-historia-inf/)

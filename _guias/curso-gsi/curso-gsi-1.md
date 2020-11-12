@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - CURSO GSI
-thumbnail: /assets/img/2020/11/.webp
-feature-img: /assets/img/2020/11/.webp
+# thumbnail: /assets/img/2020/11/.webp
+# feature-img: /assets/img/2020/11/.webp
 title: '▷ Introducción 1.0: Conceptos Básicos e Historia de la Informática'
 description: >-
   "Anotaciones del primer día del Curso de Gestión de Sistemas Informáticos y un corto repaso a la historia de la informática."
@@ -19,6 +19,28 @@ last_modified_at:
 published: true
 
 ---
+
+Contenidos que se incluyen en la formación..
+
+- [MF0484 - Administración hardware de un sistema informático](#mf0484---administración-hardware-de-un-sistema-informático)
+  - [PRIMER EXAMEN](#primer-examen)
+- [MF0485 - Administración software de un sistema informático](#mf0485---administración-software-de-un-sistema-informático)
+  - [SEGUNDO EXAMEN](#segundo-examen)
+- [MF0486: Seguridad en equipos informáticos](#mf0486-seguridad-en-equipos-informáticos)
+  - [TERCER EXAMEN](#tercer-examen)
+- [**Unidad 1: CONCEPTOS BÁSICOS**](#unidad-1-conceptos-básicos)
+  - [👷‍♂️ Breve Resumen de la Historia de la Web 👷‍♂️](#️-breve-resumen-de-la-historia-de-la-web-️)
+- [**Las 6 generaciones de los ordenadores**](#las-6-generaciones-de-los-ordenadores)
+  - [**Primera Generación 37 - 53**](#primera-generación-37---53)
+  - [**Segunda Generación 54 - 62**](#segunda-generación-54---62)
+  - [**Tercera Generación 63 - 72**](#tercera-generación-63---72)
+  - [**Cuarta Generación 72 - 84**](#cuarta-generación-72---84)
+  - [**Quinta Generación 84 - 90**](#quinta-generación-84---90)
+  - [**Sexta Generación 90 - A la Actualidad**](#sexta-generación-90---a-la-actualidad)
+- [**🎮 Juegos de Repaso**](#-juegos-de-repaso)
+- [**El ordenador / partes del ordenador**](#el-ordenador--partes-del-ordenador)
+  - [**Tipos de Ordenadores**](#tipos-de-ordenadores)
+- [**Seguimos por..?**](#seguimos-por)
 
 ## MF0484 - Administración hardware de un sistema informático
 
