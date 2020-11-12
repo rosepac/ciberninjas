@@ -8,7 +8,7 @@ excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
 date: 2020-04-21
 published: true
 permalink: /cronograma/
-canonical_URL: "https://www.computerhistory.org/timeline/"
+canonical_URL: https://ciberninjas.com/cronograma/
 ---
 
 Vamos a realizar un repaso completo, paso a paso, por la evolución de los ordenadores. Desde sus primeros inicios, hasta la creación del ordenador personal como tal y lo conocemos hoy en día.
