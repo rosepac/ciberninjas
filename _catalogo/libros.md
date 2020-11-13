@@ -69,6 +69,7 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 - [**Libros de Seguridad 👮‍♂️**](#libros-de-seguridad-️)
 - [**Libros de Seguridad Inform&aacute;tica 🔐**](#libros-de-seguridad-informática-)
 - [**Libros de Ciencias Computacionales 💻**](#libros-de-ciencias-computacionales-)
+- [**Libros de Reflexión Tecnológica**](#libros-de-reflexión-tecnológica)
   - [Jaron Lainer](#jaron-lainer)
 - [**Libros de Webmaster 👷‍♂️**](#libros-de-webmaster-️)
   - [**Libros de Análitica Web 📈**](#libros-de-análitica-web-)
@@ -170,9 +171,9 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 ### Historia de la Computación 🏛
 
- *[Amstrad Eterno](https://amzn.to/2v0vnUm)
+- [Amstrad Eterno](https://amzn.to/2v0vnUm)
 
- <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417389520&linkId=5ddd0d0620c75bb5c603dbd543f48acf"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417389520&linkId=5ddd0d0620c75bb5c603dbd543f48acf"></iframe>
 
 ## 🛒 Comercio Electrónico
 
@@ -474,9 +475,11 @@ Los mejores libros de seguridad y seguridad informática, en español.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8435021343&linkId=52a2da117f60891adaecaa419237c5d3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499929176&linkId=16b6a61303fcd1c25319ce700f64a70b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417552413&linkId=36b616e9fd725a1943b5f54242901e69"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8435021343&linkId=decceadd0ba676af353cd1fb0fc52131"></iframe>
 
+## **Libros de Reflexión Tecnológica**
+
 ### Jaron Lainer
 
-- Jaron Lainer: Diez razones para borrar tus redes sociales de inmediato, El futuro es ahora: Un viaje a través de la realidad virtual (https://amzn.to/2SMnoUf){:target="_blank" rel="nofollow,noreferrer"}, ¿Quién controla el futuro? (https://amzn.to/37LOgYP){:target="_blank" rel="nofollow,noreferrer"}, Contra el rebaño digital: Un manifiesto (https://amzn.to/2VbNr8U){:target="_blank" rel="nofollow,noreferrer"}
+- Jaron Lainer: Diez razones para borrar tus redes sociales de inmediato, [El futuro es ahora: Un viaje a través de la realidad virtual](https://amzn.to/2SMnoUf){:target="_blank" rel="nofollow,noreferrer"}, [¿Quién controla el futuro?](https://amzn.to/37LOgYP){:target="_blank" rel="nofollow,noreferrer"}, [Contra el rebaño digital: Un manifiesto](https://amzn.to/2VbNr8U){:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499929001&linkId=dc662046b4d069ad6426d009806eaa5b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841763665X&linkId=fc7ad94bc76e763d4be11dfaf6c4ee3b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8483069172&linkId=a0b349d57ea6deae7b0e336554002208"></iframe>
 
