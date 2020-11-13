@@ -1,5 +1,6 @@
 ---
 
+layout: page
 author: rosepac
 bootstrap: true
 comments: false
@@ -7,7 +8,7 @@ tags:
 - Curso GSI
 # thumbnail: /assets/img/2020/11/.webp
 # feature-img: /assets/img/2020/11/.webp
-title: '▷ Contenidos del Curso de Gestión de Sistemas Informáticos: Según Internet'
+title: "▷ Contenidos del Curso de Gestión de Sistemas Informáticos: Según Internet"
 description: >-
   "Esta es una búsqueda sobre los supuestos contenidos incluidos en el Curso del Certificado Parcial de Gestión de Sistemas Informáticos"
 excerpt: >-

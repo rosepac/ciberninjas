@@ -1,13 +1,14 @@
 ---
 
+layout: page
 author: rosepac
 bootstrap: true
 comments: false
 tags:
-- CURSO GSI
+- Curso GSI
 # thumbnail: /assets/img/2020/11/.webp
 # feature-img: /assets/img/2020/11/.webp
-title: '▷ Introducción 1.0: Conceptos Básicos e Historia de la Informática'
+title: "▷ Introducción 1.0: Conceptos Básicos e Historia de la Informática"
 description: >-
   "Anotaciones del primer día del Curso de Gestión de Sistemas Informáticos y un corto repaso a la historia de la informática."
 excerpt: >-
