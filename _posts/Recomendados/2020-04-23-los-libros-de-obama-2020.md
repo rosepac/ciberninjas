@@ -23,9 +23,9 @@ Si bien, cada uno de nosotros tenemos muchas actividades todo que nos suelen man
 
 Esa canción musical que nos levanta el ánimo luego de un largo día, ese libro de bolsillo que tarde o temprano terminaremos recomendando a un amigo o esa película que nos hace sentir y reflexionar sobre los cambios de la sociedad o perdernos en la profundadidad de la ciencia ficción o nuestras propias fantasías.
 
-### Libros Recomendados por Barack Obama para 2020
-
 Para comenzar, aquí están las recomendaciones que el ex presidente recomienda leer a principios de este año. En su mayoría son libros editados a lo largo del 2019.
+
+<span id="menu"><strong>Los Mejores Libros Recomendados por Barack Obama para 2020</strong</span>
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
@@ -85,7 +85,7 @@ Como sociedad, estamos optando por conceder nuestra privacidad a cambio de una m
 <p>Shoshana Zuboff muestra que estamos en una encrucijada. Todavía tenemos el poder de decidir en qué tipo de mundo queremos vivir, y lo que decidamos ahora dará forma al resto del siglo. Nuestras opciones: permitir que la tecnología enriquezca a unos pocos y empobrezca a muchos, o aproveche y distribuya sus beneficios.</p>
 <p>La era del capitalismo de vigilanciaEs un examen profundamente razonado de la amenaza de un poder sin precedentes libre de supervisión democrática. A medida que explora el impacto de este nuevo capitalismo en la sociedad, la política, los negocios y la tecnología, expone las luchas que decidirán tanto el próximo capítulo del capitalismo como el significado de la civilización de la información.</p>
 <p>Lo más crítico es que muestra cómo podemos protegernos a nosotros mismos y a nuestras comunidades y asegurarnos de que somos los dueños de lo digital en lugar de sus esclavos.</p>
-</details> 
+</details>
 
 ## **[2. La anarquía: El ascenso implacable de las Compañías Indias del Este por William Dalrym](https://amzn.to/39O8mCC){:target="_blank" rel="nofollow,noreferrer"}**
 En inglés, no se ha realizado traducción aún.
