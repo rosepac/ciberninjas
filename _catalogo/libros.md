@@ -25,73 +25,71 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 - [**Libros de Actualidad Tecnológica 📰**](#libros-de-actualidad-tecnológica-)
 - [**Libros de Bases de Datos 📁**](#libros-de-bases-de-datos-)
-  - [**Libros de Big Data 👨‍👩‍👦**](#libros-de-big-data-)
-  - [**Libros de SQL**](#libros-de-sql)
-- [**Libros de Blockchain ⛓**](#libros-de-blockchain-)
-  - [**Libros de Criptomonedas y Blockchain 💰**](#libros-de-criptomonedas-y-blockchain-)
-  - [**Libros de Bitcoin 💲**](#libros-de-bitcoin-)
-- [🐧 Ecosistema de Código Abierto](#-ecosistema-de-código-abierto)
-  - [**Libros de Linux**](#libros-de-linux)
-- [🕴 Empresa y Estrategia](#-empresa-y-estrategia)
-- [🔬 Ciencias de la Computación](#-ciencias-de-la-computación)
-  - [Historia de la Computación 🏛](#historia-de-la-computación-)
-- [🛒 Comercio Electrónico](#-comercio-electrónico)
-- [👩‍💻 Desarrollo Web](#-desarrollo-web)
-- [Android <i class="fa fa-android" aria-hidden="true"></i>](#android-i-classfa-fa-android-aria-hiddentruei)
-- [PHP Framework](#php-framework)
-  - [CodeIgniter](#codeigniter)
-- [Docker <i class="fab fa-docker"></i>](#docker-i-classfab-fa-dockeri)
-- [React](#react)
-- [Node JS](#node-js)
-- [Lenguaje de Estilos y Preprocesadores 🎨](#lenguaje-de-estilos-y-preprocesadores-)
-- [Lenguajes de Marcado ✍](#lenguajes-de-marcado-)
+  - [Libros Big Data 👨‍👩‍👦](#libros-big-data-)
+  - [Libros SQL](#libros-sql)
+- [**Libros de Blockchain 💲**](#libros-de-blockchain-)
+  - [Libros Criptomonedas y Blockchain](#libros-criptomonedas-y-blockchain)
+  - [Libros Bitcoin](#libros-bitcoin)
+- [**Libros del Ecosistema de Código Abierto 🐧**](#libros-del-ecosistema-de-código-abierto-)
+  - [Libros de Linux](#libros-de-linux)
+- [Libros Empresa, Estrategia y Negocios 🕴**](#libros-empresa-estrategia-y-negocios-)
+- [**Libros de Ciencias de la Computación 🔬**](#libros-de-ciencias-de-la-computación-)
+  - [Libros Historia de la Computación](#libros-historia-de-la-computación)
+- [**Libros Comercio Electrónico 🛒**](#libros-comercio-electrónico-)
+- [**Libros de Desarrollo Web 👩‍💻**](#libros-de-desarrollo-web-)
+  - [Libros Android](#libros-android)
+  - [Libros de Docker](#libros-de-docker)
+- [**Libros de Lenguaje de Estilos y Preprocesadores 🎨**](#libros-de-lenguaje-de-estilos-y-preprocesadores-)
+- [**Libros de Lenguajes de Marcado ✍**](#libros-de-lenguajes-de-marcado-)
 - [PhoneGap (Apache Cordoba)](#phonegap-apache-cordoba)
 - [Sistemas de Plantillas 🌱](#sistemas-de-plantillas-)
 - [Swift <i class="fab fa-apple"></i>](#swift-i-classfab-fa-applei)
 - [💼 Flujos de Trabajo](#-flujos-de-trabajo)
-- [**Libros de Lenguajes de Programación  👩‍💻**](#libros-de-lenguajes-de-programación-)
-  - [**C, C#, C++**](#c-c-c)
-  - [**Libros de Java**](#libros-de-java)
-  - [**Libros de Javascript**](#libros-de-javascript)
-  - [**Libros de Go**](#libros-de-go)
-  - [**Libros de Objective-C**](#libros-de-objective-c)
-  - [**Libros de PHP**](#libros-de-php)
+- [**Libros de C, C#, C++**](#libros-de-c-c-c)
+- [**Libros de Java**](#libros-de-java)
+- [**Libros de Javascript**](#libros-de-javascript)
+  - [**Libros React**](#libros-react)
+  - [**Libros de Node JS**](#libros-de-node-js)
+- [**Libros de Go**](#libros-de-go)
+- [**Libros de Objective-C**](#libros-de-objective-c)
+- [**Libros de PHP**](#libros-de-php)
+  - [**Libros CodeIgniter**](#libros-codeigniter)
 - [**Libros de Desarrollo de Aplicaciones**](#libros-de-desarrollo-de-aplicaciones)
 - [**Libros de Diseño Gráfico**](#libros-de-diseño-gráfico)
 - [**Libros de Diseño Web**](#libros-de-diseño-web)
 - [**Libros de Python 🐍**](#libros-de-python-)
-- [**Libros d Programación Infantil 👦**](#libros-d-programación-infantil-)
-  - [**Libros de App Inventor**](#libros-de-app-inventor)
-  - [**Libros de Scratch**](#libros-de-scratch)
+- [**Libros de Programación Infantil 👦**](#libros-de-programación-infantil-)
+  - [Libros App Inventor](#libros-app-inventor)
+  - [Libros Scratch](#libros-scratch)
 - [**Libros de Redes 🕸**](#libros-de-redes-)
 - [**Libros de Robótica 🤖**](#libros-de-robótica-)
 - [**Libros de Raspberry Pi**](#libros-de-raspberry-pi)
 - [**Libros de Seguridad 👮‍♂️**](#libros-de-seguridad-️)
-- [**Libros de Seguridad Inform&aacute;tica 🔐**](#libros-de-seguridad-informática-)
+- [**Libros de Seguridad Informática 🔐**](#libros-de-seguridad-informática-)
 - [**Libros de Ciencias Computacionales 💻**](#libros-de-ciencias-computacionales-)
 - [**Libros de Reflexión Tecnológica**](#libros-de-reflexión-tecnológica)
-  - [Jaron Lainer](#jaron-lainer)
+  - [Bibliografía de Jaron Lainer](#bibliografía-de-jaron-lainer)
 - [**Libros de Webmaster 👷‍♂️**](#libros-de-webmaster-️)
-  - [**Libros de Análitica Web 📈**](#libros-de-análitica-web-)
-  - [**Libros de Marketing Digital 📺**](#libros-de-marketing-digital-)
-  - [**Libros de Seo y Posicionamiento 🔍**](#libros-de-seo-y-posicionamiento-)
-  - [**Libros de Sistemas de Gestión de Contenidos ✍**](#libros-de-sistemas-de-gestión-de-contenidos-)
+  - [Libros Análitica Web 📈](#libros-análitica-web-)
+  - [Libros Marketing Digital 📺](#libros-marketing-digital-)
+  - [Libros Seo y Posicionamiento 🔍](#libros-seo-y-posicionamiento-)
+- [**Libros de Sistemas de Gestión de Contenidos ✍**](#libros-de-sistemas-de-gestión-de-contenidos-)
   - [Blogger](#blogger)
   - [Drupal](#drupal)
   - [Joomla](#joomla)
   - [Moodle](#moodle)
-  - [**Libros de Wordpress**](#libros-de-wordpress)
+  - [Libros Wordpress](#libros-wordpress)
 - [**Libros para Principiantes**](#libros-para-principiantes)
-- [🎮 Videojuegos](#-videojuegos)
-  - [**Libros de Clash Royal**](#libros-de-clash-royal)
-  - [**Libros de Fortnite**](#libros-de-fortnite)
-  - [**Libros de Minecraft**](#libros-de-minecraft)
-  - [**Libros de League of Legends**](#libros-de-league-of-legends)
-  - [**Libros de Pokemon**](#libros-de-pokemon)
-  - [**Libros de Roblox**](#libros-de-roblox)
-  - [**Libros de Otros Videojuegos**](#libros-de-otros-videojuegos)
+- [**Libros sobre Videojuegos 🎮**](#libros-sobre-videojuegos-)
+  - [Libros Clash Royal](#libros-clash-royal)
+  - [Libros Fortnite](#libros-fortnite)
+  - [Libros Minecraft](#libros-minecraft)
+  - [Libros League of Legends](#libros-league-of-legends)
+  - [Libros Pokemon](#libros-pokemon)
+  - [Libros Roblox](#libros-roblox)
+- [**Libros de Otros Videojuegos**](#libros-de-otros-videojuegos)
 - [**Libros de Diseño de Modelado 2D / 3D**](#libros-de-diseño-de-modelado-2d--3d)
-- [Libros de Blogguers y Youtubers 📚 🎥](#libros-de-blogguers-y-youtubers--)
+- [**Libros de Blogguers y Youtubers 📚 🎥**](#libros-de-blogguers-y-youtubers--)
 - [**👉 Saber Más sobre la Libreria de Ciberninjas**](#-saber-más-sobre-la-libreria-de-ciberninjas)
 
 <!-- 🛒 ([Tapa Blanda](){:target="_blank" rel="nofollow,noreferrer"}) -->
@@ -108,14 +106,14 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 [Big Data 👨‍👩‍👦](/libros/#big-data-){: .btn .btn-outline-dark .btn-lg .btn-block} [SQL](/libros/#sql){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### **Libros de Big Data 👨‍👩‍👦**
+### Libros Big Data 👨‍👩‍👦
 
 - Analítica de datos: La guía definitiva de análisis de Big Data para empresas 🛒 ([Tapa Dura](https://amzn.to/33LB18y){:target="_blank" rel="nofollow,noreferrer"} \ [Tapa Blanda](https://amzn.to/2sCA85b){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/2DJrfJC){:target="_blank" rel="nofollow,noreferrer"} (2019))
 - Aprendizaje Automático: La Guía Definitiva para Principiantes para Comprender el Aprendizaje Automático 🛒 [Tapa Blanda](https://amzn.to/2TxtN52){:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1950924742&linkId=4a6de106388f7ee1baa93f80d040b83d"></iframe>
 
-### **Libros de SQL**
+### Libros SQL
 
 - [SQL. Los fundamentos del lenguaje](https://amzn.to/35YSGeA){:target="_blank" rel="nofollow,noreferrer"}
 - [SQL Server 2016. Aprender A Administrar Una Base De Datos Transaccional](https://amzn.to/2P8Gl0z)
@@ -123,16 +121,16 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409014933&linkId=567bdc6bbfc907203643c016d89f0e67"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409008623&linkId=14a76217d67b582b00bcd75c5bb67033"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726356&linkId=6df86e283d212d37bf9cb9445ba19b2e"></iframe>
 
-## **Libros de Blockchain ⛓**
+## **Libros de Blockchain 💲**
 
 [Cadena de Bloques 🔗](/libros/#cadena-de-bloques-){: .btn .btn-outline-dark .btn-lg .btn-block} [Criptomonedas 💰](/libros/#cadena-de-bloques-){: .btn .btn-outline-dark .btn-lg .btn-block} [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](/libros/#bitcoin-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### **Libros de Criptomonedas y Blockchain 💰**
+### Libros Criptomonedas y Blockchain
 
 - 3 en 1: Criptoseguridad 🛒 ([Tapa Blanda](https://amzn.to/3f2DWkr){:target="_blank" rel="nofollow,noreferrer"})
 - Independízate de Papá Estado: Empieza a invertir HOY y jubílate millonario 🛒 ([Tapa Blanda](https://amzn.to/2UquXAe){:target="_blank" rel="nofollow,noreferrer"})
 
-### **Libros de Bitcoin 💲**
+### Libros Bitcoin
 
 - El Pequeño Libro de Bitcoin [Tapa Blanda](https://amzn.to/36YBmri){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/34X3n0m){:target="_blank" rel="nofollow,noreferrer"}
 - [Los multimillonarios del Bitcoin: Una historia de dinero, traición y redención](https://amzn.to/2T6ZKly){:target="_blank" rel="nofollow,noreferrer"}
@@ -141,16 +139,16 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-## 🐧 Ecosistema de Código Abierto
+## **Libros del Ecosistema de Código Abierto 🐧**
 
-### **Libros de Linux**
+### Libros de Linux
 
 
-## 🕴 Empresa y Estrategia
+## Libros Empresa, Estrategia y Negocios 🕴**
 
 - [Más Allá del Cambio: Dominando el Futuro, Hoy]( https://amzn.to/2Qf4zd7){:target="_blank" rel="nofollow,noreferrer"}
 
-## 🔬 Ciencias de la Computación
+## **Libros de Ciencias de la Computación 🔬**
 
 - Hackear la Política 🛒 ([Tapa Blanda](https://amzn.to/2mqf26X){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/2kLxd6J){:target="_blank" rel="nofollow,noreferrer"})
 - [Industria 4.0. La transformación digital en la industria](https://amzn.to/2mhtoGY){:target="_blank" rel="nofollow,noreferrer"}
@@ -169,34 +167,27 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### Historia de la Computación 🏛
+### Libros Historia de la Computación
 
 - [Amstrad Eterno](https://amzn.to/2v0vnUm)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417389520&linkId=5ddd0d0620c75bb5c603dbd543f48acf"></iframe>
 
-## 🛒 Comercio Electrónico
+## **Libros Comercio Electrónico 🛒**
 
-
+> 👷‍♂️👷‍♂️👷‍♂️
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-## 👩‍💻 Desarrollo Web
+## **Libros de Desarrollo Web 👩‍💻**
 
-[Android <i class="fa fa-android" aria-hidden="true"></i>](/libros/#android-){: .btn .btn-outline-dark .btn-lg .btn-block} [PHP Framework](/libros/#php-framework-){: .btn .btn-outline-dark .btn-lg .btn-block} [CodeIgniter](/libros/#codeigniter){: .btn .btn-outline-dark .btn-lg .btn-block} [Docker <i class="fab fa-docker"></i>](/libros/#docker-){: .btn .btn-outline-dark .btn-lg .btn-block} [Lenguaje de Estilos y Preprocesadores 🎨](/libros/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn-outline-dark .btn-lg .btn-block} [Lenguajes de Marcado ✍](/libros/#lenguajes-de-marcado-){: .btn .btn-outline-dark .btn-lg .btn-block} [PhoneGap (Apache Cordoba)](/libros/#phonegap-apache-cordoba){: .btn .btn-outline-dark .btn-lg .btn-block} [Sistemas de Plantillas 🌱](/libros/#sistemas-de-plantillas-){: .btn .btn-outline-dark .btn-lg .btn-block} [Swift <i class="fab fa-apple"></i>](/libros/#swift-){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Android](/libros/#android-){: .btn .btn-outline-dark .btn-lg .btn-block} [PHP Framework](/libros/#php-framework-){: .btn .btn-outline-dark .btn-lg .btn-block} [CodeIgniter](/libros/#codeigniter){: .btn .btn-outline-dark .btn-lg .btn-block} [Docker <i class="fab fa-docker"></i>](/libros/#docker-){: .btn .btn-outline-dark .btn-lg .btn-block} [Lenguaje de Estilos y Preprocesadores 🎨](/libros/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn-outline-dark .btn-lg .btn-block} [Lenguajes de Marcado ✍](/libros/#lenguajes-de-marcado-){: .btn .btn-outline-dark .btn-lg .btn-block} [PhoneGap (Apache Cordoba)](/libros/#phonegap-apache-cordoba){: .btn .btn-outline-dark .btn-lg .btn-block} [Sistemas de Plantillas 🌱](/libros/#sistemas-de-plantillas-){: .btn .btn-outline-dark .btn-lg .btn-block} [Swift <i class="fab fa-apple"></i>](/libros/#swift-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Android <i class="fa fa-android" aria-hidden="true"></i>
+### Libros Android
 
 - [Los Mejores Libros y Cursos Gratis con los que Aprender Android](https://ciberninjas.com/cursos-android/)
 
-## PHP Framework
-
-### CodeIgniter
-
-- [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC){:target="_blank" rel="nofollow,noreferrer"} (Ebook)
-- [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg){:target="_blank" rel="nofollow,noreferrer"} (Ebook)
-
-## Docker <i class="fab fa-docker"></i>
+### Libros de Docker
 
 - [Docker: Seguridad y monitorización en contenedores e imágenes](https://amzn.to/2o6YlhL){:target="_blank" rel="nofollow,noreferrer"}
 - [Docker: Primeros pasos y puesta en práctica de una arquitectura basada en micro-servicios](https://amzn.to/2odnl7h){:target="_blank" rel="nofollow,noreferrer"}
@@ -204,24 +195,14 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494897233&linkId=35bc3026b0f146100af656e49e6ca03b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409015891&linkId=7925b4ca243fe75336204226420044da"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494465082&linkId=55566be7fb5ef6051c69899c0b82b058"></iframe>
 
-## React
-
-- [Desarrollo Web con React](https://amzn.to/2UgTnNy){:target="_blank" rel="nofollow,noreferrer"} (Tapa Blanda) (2019)
-- [Aplicaciones Reactivas con React, NodeJS & MongoDB](https://amzn.to/2GHMRHN){:target="_blank" rel="nofollow,noreferrer"} (Tapa Blanda) (2018)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541639&linkId=11441746abb3952b2afc98e66815bd9a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1980596077&linkId=13d9d42e3cebbbb216d77bc543ad20e8"></iframe>
-
-## Node JS
-
-- [Introducción a Node.js](https://amzn.to/2vr2DEZ) (2019)
-
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-## Lenguaje de Estilos y Preprocesadores 🎨
+## **Libros de Lenguaje de Estilos y Preprocesadores 🎨**
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
 
-## Lenguajes de Marcado ✍
+## **Libros de Lenguajes de Marcado ✍**
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml  -->
+
 - Aprende HTML efectivo [Ebook](https://amzn.to/31I5OCR){:target="_blank" rel="nofollow,noreferrer"}
 - El gran libro de HTML5, CSS3 y JavaScript [Tapa Blanda](https://amzn.to/2pImfkF){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/2Iks12u){:target="_blank" rel="nofollow,noreferrer"}
 - [HTML5 y CSS3. Domine los estándares de la creación de sitios Web](https://amzn.to/339Wmc3){:target="_blank" rel="nofollow,noreferrer"}
@@ -265,53 +246,73 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-## **Libros de Lenguajes de Programación  👩‍💻**
+**Libros de Lenguajes de Programación  👩‍💻**
 
-### **C, C#, C++**
+## **Libros de C, C#, C++**
 
-- [Aprende C# en un fin de semana](https://amzn.to/38z8l54) (2019)
-- [Cómo programar en C# de forma fácil y sencilla](https://amzn.to/38yQI5a) (2018)
-- [Aprende a programar con pseudocódigo, diagramas de flujo y ejercicios de ejemplo resueltos en C](https://amzn.to/2rYJaJx) (2015)
-- [C/C++. Curso de programación](https://amzn.to/2ORgUBw) (2017)
-- [C/C++. Curso de programación](https://amzn.to/33WYNOW) (2015)
-- Programas que hacen programas. C#: Arquitectura GTMG (2019) [Tapa Blanda](https://amzn.to/356MBwg) \ [Ebook](https://amzn.to/2YluT5P)
+- [Aprende C# en un fin de semana](https://amzn.to/38z8l54){:target="_blank" rel="nofollow,noreferrer"} (2019)
+- [Cómo programar en C# de forma fácil y sencilla](https://amzn.to/38yQI5a){:target="_blank" rel="nofollow,noreferrer"} (2018)
+- [Aprende a programar con pseudocódigo, diagramas de flujo y ejercicios de ejemplo resueltos en C](https://amzn.to/2rYJaJx){:target="_blank" rel="nofollow,noreferrer"} (2015)
+- [C/C++. Curso de programación](https://amzn.to/2ORgUBw){:target="_blank" rel="nofollow,noreferrer"} (2017)
+- [C/C++. Curso de programación](https://amzn.to/33WYNOW){:target="_blank" rel="nofollow,noreferrer"} (2015)
+- Programas que hacen programas. C#: Arquitectura GTMG (2019) [Tapa Blanda](https://amzn.to/356MBwg){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/2YluT5P){:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8493942774&linkId=872112d4fae0ce3d690840a6884dc2a8"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441539375&linkId=cc12749d783ddbbb3eee70d2ba681e52"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499645275&linkId=05bfd17ca6a53e1983f963e1a5403055"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8409126478&linkId=d25e6c88be80bbeb0d984deafdebd5f3"></iframe>
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### **Libros de Java**
+## **Libros de Java**
 
 - JAVA. Curso práctico de formación (2018)
-  - https://amzn.to/2P6vViM
+  - [Tapa Blanda](https://amzn.to/2P6vViM){:target="_blank" rel="nofollow,noreferrer"}
 - Java para niñ@s: Aprende a programar y crea tus propios proyectos con Java 8 (2017)
-  - https://amzn.to/2vJkK8X
+  - [Tapa Blanda](https://amzn.to/2vJkK8X){:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717065&linkId=28ff61008c3614758f71180a36d9f6b5"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1549844547&linkId=12eb68a2f97cc3a421d2ae3a3d1009c1"></iframe>
 
-### **Libros de Javascript**
+## **Libros de Javascript**
 
-- [Domine JavaScript 4ª Edición](https://amzn.to/2w8DUFj) (2020)
-- [Curso de JavaScript](https://amzn.to/3a6HDSq) (MANUALES IMPRESCINDIBLES) (2020)
-- [Aprender a Programar En Javascript](https://amzn.to/2T5escU) (2020)
+- [Domine JavaScript 4ª Edición](https://amzn.to/2w8DUFj){:target="_blank" rel="nofollow,noreferrer"} (2020)
+- [Curso de JavaScript](https://amzn.to/3a6HDSq){:target="_blank" rel="nofollow,noreferrer"} (MANUALES IMPRESCINDIBLES) (2020)
+- [Aprender a Programar En Javascript](https://amzn.to/2T5escU){:target="_blank" rel="nofollow,noreferrer"} (2020)
 
-### **Libros de Go**
+**Libros de Frameworks Javascript y otras librerías**
+
+### **Libros React**
+
+- [Desarrollo Web con React](https://amzn.to/2UgTnNy){:target="_blank" rel="nofollow,noreferrer"} (Tapa Blanda) (2019)
+- [Aplicaciones Reactivas con React, NodeJS & MongoDB](https://amzn.to/2GHMRHN){:target="_blank" rel="nofollow,noreferrer"} (Tapa Blanda) (2018)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541639&linkId=11441746abb3952b2afc98e66815bd9a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1980596077&linkId=13d9d42e3cebbbb216d77bc543ad20e8"></iframe>
+
+### **Libros de Node JS**
+
+- [Introducción a Node.js](https://amzn.to/2vr2DEZ) (2019)
+
+## **Libros de Go**
 
 [📖 Los Libros Más Impresionantes de Go](/los-libros-mas-impresionantes-sobre-go/){: .btn .btn--primary .btn--large}{:hreflang="en"}
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### **Libros de Objective-C**
+## **Libros de Objective-C**
 
-[Objective-C. Curso práctico para desarrolladores OS X y iOS](https://amzn.to/2OUI8ra) (2015)
+[Objective-C. Curso práctico para desarrolladores OS X y iOS](https://amzn.to/2OUI8ra){:target="_blank" rel="nofollow,noreferrer"} (2015)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494305530&linkId=a9cdc8ac50c737f45205d7d85e18ed18"></iframe>
 
-### **Libros de PHP**
+## **Libros de PHP**
 
-- [Aprender PHP, MySQL y JavaScript](https://amzn.to/2TcJu2v) (2019)
-- [Desarrollo de aplicaciones con PHP y Laravel 5.8](https://amzn.to/2wSCZsT) (2019)
-- Desarrollo web en entorno servidor: 80 (2019) https://amzn.to/2I5JYkK
+- [Aprender PHP, MySQL y JavaScript](https://amzn.to/2TcJu2v){:target="_blank" rel="nofollow,noreferrer"} (2019)
+- [Desarrollo de aplicaciones con PHP y Laravel 5.8](https://amzn.to/2wSCZsT){:target="_blank" rel="nofollow,noreferrer"} (2019)
+- Desarrollo web en entorno servidor: 80 (2019) 🛒 ([Tapa Blanda](https://amzn.to/2I5JYkK){:target="_blank" rel="nofollow,noreferrer"})
+
+**Libros de Frameworks PHP**
+
+### **Libros CodeIgniter**
+
+- [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC){:target="_blank" rel="nofollow,noreferrer"} (Ebook)
+- [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg){:target="_blank" rel="nofollow,noreferrer"} (Ebook)
 
 ## **Libros de Desarrollo de Aplicaciones**
 
@@ -323,10 +324,8 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 ## **Libros de Diseño Gráfico**
 
-- Fotomontaje creativo (Photoclub) (2019)
-  - https://amzn.to/329dEGI
-- Domina el retoque con photoshop (2018)
-  - https://amzn.to/39RmV9d
+- Fotomontaje creativo (Photoclub) (2019) 🛒 ([Tapa Blanda](https://amzn.to/329dEGI){:target="_blank" rel="nofollow,noreferrer"})
+- Domina el retoque con photoshop (2018) 🛒 ([Tapa Blanda](https://amzn.to/39RmV9d){:target="_blank" rel="nofollow,noreferrer"})
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541965&linkId=c66ddf56977d880f3f72b53666ab1524"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415131887&linkId=16c7f56fdae106265890c10432df0fc4"></iframe>
 
@@ -367,19 +366,19 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-## **Libros d Programación Infantil 👦**
+## **Libros de Programación Infantil 👦**
 
 - Todo el mundo puede codificar: Incluyendo los niños [Tapa Dura](https://amzn.to/34Kxx7n){:target="_blank" rel="nofollow,noreferrer"} \ [Tapa Blanda](https://amzn.to/2LhyFYC){:target="_blank" rel="nofollow,noreferrer"} (2019)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1611533589&linkId=1f38087f65bb4d7098c7f6a2fcc27899"></iframe>
 
-### **Libros de App Inventor**
+### Libros App Inventor
 
 - [Programación de aplicaciones Android con App Inventor 2](https://amzn.to/35qdwUz){:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1795711817&linkId=4acccde8baf0e66499ce1533947f2b13"></iframe>
 
-### **Libros de Scratch**
+### Libros Scratch
 
 - [Programa Tus Proyectos Con Scratch 3.0](https://amzn.to/2OEL8aX){:target="_blank" rel="nofollow,noreferrer"} (18 Febrero 2020)
 - [Star Wars Proyectos de programación](https://amzn.to/2ObM9Y2){:target="_blank" rel="nofollow,noreferrer"}
@@ -420,7 +419,7 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 ## **Libros de Raspberry Pi**
 
-- [IoT con Raspberry Pi: Node-RED y MQTT, control de los GPIO..](https://amzn.to/2YnA8Sk) (2018)
+- [IoT con Raspberry Pi: Node-RED y MQTT, control de los GPIO..](https://amzn.to/2YnA8Sk){:target="_blank" rel="nofollow,noreferrer"} (2018)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1541216709&linkId=070ce649c2840a8bdcac34c5f077b6b8"></iframe>
 
@@ -430,7 +429,7 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 Los mejores libros de seguridad y seguridad informática, en español.
 
-## **Libros de Seguridad Inform&aacute;tica 🔐**
+## **Libros de Seguridad Informática 🔐**
 
 - El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA){:target="_blank" rel="nofollow,noreferrer"} \ [Saber M&aacute;s](/catalogo/el-arte-de-la-invisibilidad/) (2018)
 - Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK){:target="_blank" rel="nofollow,noreferrer"}
@@ -477,7 +476,7 @@ Los mejores libros de seguridad y seguridad informática, en español.
 
 ## **Libros de Reflexión Tecnológica**
 
-### Jaron Lainer
+### Bibliografía de Jaron Lainer
 
 - Jaron Lainer: Diez razones para borrar tus redes sociales de inmediato, [El futuro es ahora: Un viaje a través de la realidad virtual](https://amzn.to/2SMnoUf){:target="_blank" rel="nofollow,noreferrer"}, [¿Quién controla el futuro?](https://amzn.to/37LOgYP){:target="_blank" rel="nofollow,noreferrer"}, [Contra el rebaño digital: Un manifiesto](https://amzn.to/2VbNr8U){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -491,7 +490,7 @@ Los mejores libros de seguridad y seguridad informática, en español.
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### **Libros de Análitica Web 📈**
+### Libros Análitica Web 📈
 
 - [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K){:target="_blank" rel="nofollow,noreferrer"}
 - [El Arte de Medir](https://amzn.to/34nO2H0){:target="_blank" rel="nofollow,noreferrer"}
@@ -500,7 +499,7 @@ Los mejores libros de seguridad y seguridad informática, en español.
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### **Libros de Marketing Digital 📺**
+### Libros Marketing Digital 📺
 
 - [101 Consejos y Estrategias de Facebook Marketing](https://amzn.to/2ZqWeqT){:target="_blank" rel="nofollow,noreferrer"}
 - [Community manager. La guía definitiva](https://amzn.to/2ZGKn3c){:target="_blank" rel="nofollow,noreferrer"}
@@ -522,11 +521,11 @@ Los mejores libros de seguridad y seguridad informática, en español.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541469&linkId=d9f4be19a736fbb1d3f57a9beee54428"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432904988&linkId=b5d9f5898450d605904ad64b68ff7bbb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841751368X&linkId=1499b287fff93358d03025f331ead441"></iframe>
 
-### **Libros de Seo y Posicionamiento 🔍**
+### Libros Seo y Posicionamiento 🔍
 
 - [SEO Avanzado. Casi todo lo que sé sobre posicionamiento web](https://amzn.to/2TOGZCP)
 
-### **Libros de Sistemas de Gestión de Contenidos ✍**
+## **Libros de Sistemas de Gestión de Contenidos ✍**
 
 [Blogger](/cursos-tecnologia/#blogger){: .btn .btn-outline-dark .btn-lg .btn-block} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn-outline-dark .btn-lg .btn-block} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn-outline-dark .btn-lg .btn-block} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn-outline-dark .btn-lg .btn-block} [Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -550,9 +549,9 @@ Los mejores libros de seguridad y seguridad informática, en español.
 > 👷‍♂️ CONTENIDOS PENDIENTES ❗
 {: .notice--warning}
 
-### **Libros de Wordpress**
+### Libros Wordpress
 
-WordPress 5. La guía completa https://amzn.to/2PwkqkM
+WordPress 5. La guía completa 🛒 [Tapa Blanda](https://amzn.to/2PwkqkM){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
@@ -568,13 +567,13 @@ WordPress 5. La guía completa https://amzn.to/2PwkqkM
 - El Método Montessori para Dummies 🛒 ([Tapa Blanda](https://amzn.to/3coHsUF){:target="_blank" rel="nofollow,noreferrer"})
 
 
-## 🎮 Videojuegos
+## **Libros sobre Videojuegos 🎮**
 
-### **Libros de Clash Royal**
+### Libros Clash Royal
 
 - [Misión Clash. Un esqueleto en Arena Real](https://amzn.to/2ZptA9J){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Libros de Fortnite**
+### Libros Fortnite
 
 - [Enciclopedia de estrategia para fortniters: Guía no oficial para Battle Royal](https://amzn.to/2PmszL5){:target="_blank" rel="nofollow,noreferrer"}
 - [Fortnite. La mejor guía para ganar: Trucos esenciales de supervivencia](https://amzn.to/2NG1Si6){:target="_blank" rel="nofollow,noreferrer"}
@@ -582,7 +581,7 @@ WordPress 5. La guía completa https://amzn.to/2PwkqkM
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### **Libros de Minecraft**
+### Libros Minecraft
 
 - [A la caza del griefer](https://amzn.to/2Lklcyv){:target="_blank" rel="nofollow,noreferrer"}
 - [Cazadores de tesoros en peligro](https://amzn.to/2LfFVDE){:target="_blank" rel="nofollow,noreferrer"}
@@ -603,11 +602,11 @@ WordPress 5. La guía completa https://amzn.to/2PwkqkM
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### **Libros de League of Legends**
+### Libros League of Legends
 
 - [Yellowstar: Conviértete en un campeón de League of Legends](https://amzn.to/2LjLOzL){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Libros de Pokemon**
+### Libros Pokemon
 
 - [Guía de los pokémon de Alola (Colección Pokémon)](https://amzn.to/2ZrK9C0){:target="_blank" rel="nofollow,noreferrer"}
 - [Guía oficial de los Pokémon legendarios y singulares](https://amzn.to/2Zpw1co){:target="_blank" rel="nofollow,noreferrer"}
@@ -618,11 +617,11 @@ WordPress 5. La guía completa https://amzn.to/2PwkqkM
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
-### **Libros de Roblox**
+### Libros Roblox
 
-- [El libro definitivo: Guía no oficial](https://amzn.to/2ZpwNpO)
-- [Guía de juegos de aventuras: Con más de 40 juegos alucinantes](https://amzn.to/2ZqYqPl)
-- [Guía del universo Roblox](https://amzn.to/2HvYC4E)
+- [El libro definitivo: Guía no oficial](https://amzn.to/2ZpwNpO){:target="_blank" rel="nofollow,noreferrer"}
+- [Guía de juegos de aventuras: Con más de 40 juegos alucinantes](https://amzn.to/2ZqYqPl){:target="_blank" rel="nofollow,noreferrer"}
+- [Guía del universo Roblox](https://amzn.to/2HvYC4E){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Regresar 🔝](/libros/#menu){: .btn .btn-dark .btn-lg .btn-block}
 
@@ -633,7 +632,7 @@ WordPress 5. La guía completa https://amzn.to/2PwkqkM
 <p></p>
 </details>
 
-### **Libros de Otros Videojuegos**
+## **Libros de Otros Videojuegos**
 
 - [APEX LEGENDS. Guía no oficial de combate](https://amzn.to/2LiqAC6){:target="_blank" rel="nofollow,noreferrer"}
 - [Atrapados en Battle Royale (Atrapados en Battle Royale 1)](https://amzn.to/2Lq3uJM){:target="_blank" rel="nofollow,noreferrer"}
@@ -646,7 +645,7 @@ WordPress 5. La guía completa https://amzn.to/2PwkqkM
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541590&linkId=18290e39f1455485189254af9853c147"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426718019&linkId=66147dc3d2b27f143b37e5b99c5b65de"></iframe>
 
-## Libros de Blogguers y Youtubers 📚 🎥
+## **Libros de Blogguers y Youtubers 📚 🎥**
 
 - [Pino. ¡Empieza la batalla!](https://amzn.to/2HxZbLw){:target="_blank" rel="nofollow,noreferrer"}
 - [Yo también puedo ser blogger y vlogger](https://amzn.to/2ZvKWgh){:target="_blank" rel="nofollow,noreferrer"} (Libro de actividades)
