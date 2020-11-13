@@ -622,7 +622,8 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 ### **Cursos Gratis de Django**
 
-- Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python){:target="_blank" rel="nofollow,noreferrer"}
+- [Desarrollo Web con Django en Python](https://unipython.com/curso-desarrollo-web-django-python){:target="_blank" rel="nofollow,noreferrer"}
+- [DJANGO paso a paso para PRINCIPIANTES](https://www.youtube.com/playlist?list=PL8ZnVqiE4oiY6fh6_vvNKwkxfutf3CiMY){:target="_blank" rel="nofollow,noreferrer"} (Jon Vadillo, Youtube)
 - [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 - [Probar Django: Crear una Aplicación Web en Python](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprobar-django-construir-una-aplicacion-web-en-python%2F){:target="_blank" rel="nofollow,noreferrer"} (Justin Mitchel y Karlita K, Udemy)
 - [Taller Práctico de Desarrollo con Django](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUaQVd_lrj3NNyc7eNTP670){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
