@@ -6,7 +6,7 @@ bootstrap: true
 published: true
 comments: false
 tags: [Cursos Gratis, Lenguajes de Marcado]
-title: "▷ 33 Mejores Cursos Gratis de Lenguajes de Marcado y Diseño Web 2021"
+title: "▷ 35 Mejores Cursos Gratis de Lenguajes de Marcado y Diseño Web 2021"
 description: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 excerpt: "Los mejores cursos gratuitos con los que aprender todo sobre las lenguajes de marcado, desde cero hasta nivel experto"
 date: 2020-09-24T06:22:00.000+02:00
@@ -83,6 +83,7 @@ Estos son algunos de los mejores cursos que lo ayudarán a pasar de ser un princ
 - [**Los Mejores Cursos Gratis de HTML**](#los-mejores-cursos-gratis-de-html)
 - [**Los Mejores Cursos Gratis de Markdown**](#los-mejores-cursos-gratis-de-markdown)
 - [**Los Mejores Cursos Gratis de XML**](#los-mejores-cursos-gratis-de-xml)
+- [**¿Cómo comenzar en el mundo del desarrollo web?**](#cómo-comenzar-en-el-mundo-del-desarrollo-web)
 
 ## **Los Mejores Cursos Gratis de HTML**
 
@@ -97,6 +98,7 @@ Estos son algunos de los mejores cursos que lo ayudarán a pasar de ser un princ
 - [Cómo crear una página web. Introducción a HTML5 y CSS3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-pagina-web-introduccion-a-html5-y-css3%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Cómo crear una página web en 30 minutos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-crear-una-pagina-web-en-30-minutos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Cómo programar para emprendedores - HTML y CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-programar-para-emprendedores-html-y-css%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+- [Desarrollando mi primera página web](https://www.youtube.com/watch?v=TMQcEDqngQo&list=PLPrl6_NTcifxxv05bvT2WaBaVCPx13VQL&ab_channel=AlienExplorer) (Alien Explorer, Youtube)
 - [HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
 - [Diseño Web](/curso-diseno-web-dustin-hurtado/) (Dostin Hurtado, Youtube)
 - [HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
@@ -124,6 +126,16 @@ Si quieres aprender más sobre Markdown, en Ciberninjas hemos creado una excelen
 - [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
 [⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
+
+## **¿Cómo comenzar en el mundo del desarrollo web?**
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLPrl6_NTcifywf0AjPQN9YFRRU3SINLVK" allowfullscreen></iframe>
+</div><br/>
+
+- [Mapa de las Herramientas y Plataformas Requeridas para Cada una de las Diferentes Profesiones Digitales](https://ciberninjas.com/profesiones-digitales-mapa-herramientas-profesiones/)
+- [Mapa de Habilidades Requeridas para Trabajar en cada Profesión Digital](https://ciberninjas.com/profesiones-digitales-mapas-habilidades/)
+- [▷ Profesiones Digitales más Demandadas de 2021](https://ciberninjas.com/profesiones-digitales/#desarrollador-web-y-multimedia)
 
 ### **Cursos Relacionados** <!-- omit in toc -->
 
