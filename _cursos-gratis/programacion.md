@@ -118,7 +118,7 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
   - [**Cursos Gratis de Django**](#cursos-gratis-de-django)
   - [**Cursos Gratis de Flask**](#cursos-gratis-de-flask)
 - [**Cursos Gratis Ruby**](#cursos-gratis-ruby)
-- [Cursos Gratis de Frameworks de Ruby**](#cursos-gratis-de-frameworks-de-ruby)
+- [**Cursos Gratis de Frameworks de Ruby**](#cursos-gratis-de-frameworks-de-ruby)
   - [**Cursos Gratis de Ruby and Rails Framework**](#cursos-gratis-de-ruby-and-rails-framework)
 - [Sistemas de ERP](#sistemas-de-erp)
 - [**Cursos Gratis de Swift**](#cursos-gratis-de-swift)
@@ -634,7 +634,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## Cursos Gratis de Frameworks de Ruby**
+## **Cursos Gratis de Frameworks de Ruby**
 
 ### **Cursos Gratis de Ruby and Rails Framework**
 
