@@ -227,8 +227,6 @@ No. No es absolutamente necesario aprender C de antemano aprendiendo C ++. Sin e
 
 - [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
-
 ## **Los Mejores Cursos Gratis Ensamblador**
 
 - [Programación en ensamblador 8086 con proteus](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-en-ensamblador-8086-con-proteus%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -485,11 +483,9 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 - [Programador web: Cookies y Sesiones en PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramador-web-php-cookies-y-sesiones%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Taller Práctico de PHP y MySQL](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVewFe5xEhwOYS2rXSFyM2p){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Los Mejores Cursos Gratis de Frameworks de PHP**
-
-[CakePHP](/cursos-tecnologia/#cakephp){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Symfony](/cursos-tecnologia/#symfony-){: .btn .btn--inverse .btn--large} [Zend](/cursos-tecnologia/#zend){: .btn .btn--inverse .btn--large}
 
 - [Introducción teórica a los frameworks de desarrollo para PHP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-teorica-a-los-framework-de-desarrollo-para-php%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
@@ -616,7 +612,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 - [Qt usando Python y PyQT](https://www.youtube.com/playlist?list=PLEtcGQaT56cj81xiNCrJnoAjc66uZVXDa){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
 - [Web Scraping](https://www.youtube.com/playlist?list=PLuaGRMrO-j-8B_RT_2kGE6NW-ZxzHaU17){:target="_blank" rel="nofollow,noreferrer"} (Leonardo Kuffo, Youtube) (2017)
 
-[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Los Mejores Cursos Gratis de Frameworks de Python**
 
@@ -636,7 +632,7 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 
 - [Aprende a programar con Ruby](https://www.youtube.com/playlist?list=PLmpZi4g2hDnl0UnkUd0ZG_a_tt4EQEdpB){:target="_blank" rel="nofollow,noreferrer"} (Adaptar.ME, Youtube)
 
-[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## Cursos Gratis de Frameworks de Ruby**
 
@@ -657,7 +653,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 - [SAP Conceptos e iniciación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsap-conceptos-e-iniciacion%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 - [Sistemas desarrollados a medidas por Sabio Go](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesarrollos-sabio-go%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Cursos Gratis de Swift**
 
@@ -715,6 +711,12 @@ Sigue los tutoriales y cursos de TypeScript en Ciberninjas para conocer las últ
 [⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
 ### **Cursos Relacionados** <!-- omit in toc -->
+
+- [▷ Los Mejores Cursos Gratis de Programación Web y Móvil 2021](https://ciberninjas.com/cursos-programacion-web-movil/)
+- [▷ Los Mejores Cursos Gratis de Android, Flutter, Kotlin y Dart 2021](https://ciberninjas.com/cursos-android/)
+- [▷ Los mejores Cursos Gratis de Desarrollo y Programación de Juegos 2021](https://ciberninjas.com/cursos-videojuegos/)
+- [▷ Los Mejores Cursos Gratis de Ciencias de la Computación 2021](https://ciberninjas.com/cursos-ciencias-computacion/)
+- [▷ Los Mejores Cursos Gratis de Programación para Niñ@s 2021](https://ciberninjas.com/cursos-programacion-infantil/)
 
 ### **Otros Contenidos Relacionados** <!-- omit in toc -->
 
