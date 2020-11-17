@@ -1,6 +1,7 @@
 ---
 layout: page
 author: rosepac
+order: 2
 bootstrap: true
 hide: true
 title: "🥇 ▷ Los Mejores Cursos GRATIS de Programación Online en español 2021"
@@ -75,7 +76,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 - [**Cursos gratis de Bases de Datos 📁**](#cursos-gratis-de-bases-de-datos-)
 - [**Cursos gratis de Big Data 👨‍👩‍👦**](#cursos-gratis-de-big-data-)
 - [**Cursos gratis de Machine Learning**](#cursos-gratis-de-machine-learning)
-- [**Cursos gratis de  Criptomonedas y Cadenas de Bloques ⛓**](#cursos-gratis-de-criptomonedas-y-cadenas-de-bloques-)
+- [**Cursos gratis de  Criptomonedas y Cadenas de Bloques ⛓**](#cursos-gratis-de--criptomonedas-y-cadenas-de-bloques-)
 - [**Cursos gratis de Ciencias de la Computación 🔬**](#cursos-gratis-de-ciencias-de-la-computación-)
 - [**Cursos gratis de Comercio Electrónico**](#cursos-gratis-de-comercio-electrónico)
 - [**Cursos gratis de Desarrollo Web**](#cursos-gratis-de-desarrollo-web)

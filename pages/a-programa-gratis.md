@@ -3,6 +3,7 @@
 layout: page
 author: rosepac
 bootstrap: true
+order: 1
 title: "Programar Gratis 👨‍💻"
 permalink: /programa-gratis/
 feature-img: /assets/img/paginas/amor-programacion.webp
@@ -108,7 +109,6 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 - [17. **Blog de David Walsh**](#17-blog-de-david-walsh)
 - [18. **Tuts +**](#18-tuts-)
 - [19. **SitePoint**](#19-sitepoint)
-- [20. **Trucos CSS**](#20-trucos-css)
 - [21. **SQL Bolt**](#21-sql-bolt)
 - [22. **SQLZoo**](#22-sqlzoo)
 - [**Aprenda suficiente la línea de comandos como para ser peligroso**](#aprenda-suficiente-la-línea-de-comandos-como-para-ser-peligroso)
@@ -116,6 +116,8 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 - [**Conquistando la línea de comandos**](#conquistando-la-línea-de-comandos)
 - [**Prueba Git**](#prueba-git)
 - [**Git Inmmersion**](#git-inmmersion)
+- [20. **CSS Tricks**](#20-css-tricks)
+- [**Flexbox Froggy**](#flexbox-froggy)
 
 A continuación, vamos a reunir las mejores páginas de programación del mundo, ¡Veamos cuantas podemos recopilar!
 
@@ -367,15 +369,7 @@ Con estos sitios web increíbles, puede aprender fácilmente cualquier lenguaje 
 
 [[EN] 🚪 Visita SitePoint(https://www.sitepoint.com/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-## 20. **Trucos CSS**
-
-Este sitio web de codificación profundiza en CSS con su gran y mal almanaque de CSS . Sin embargo, el blog ahora va más allá de CSS y habla sobre otras cosas como Sass, JavaScript, PHP y más. Explore toneladas de recursos de programación y consulte sus fragmentos de código .
-
-https://css-tricks.com/
-
-[[EN] 🚪 Visita CSS Tricks(https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
-
-> Páginas web con tutoriales interactivos en los que aprender y practicar el lenguaje de programación SQL.
+**Páginas web con tutoriales interactivos en los que aprender y practicar el lenguaje de programación SQL**
 
 ## 21. **SQL Bolt**
 
@@ -389,8 +383,7 @@ SQL significa  Structured Query Language, que significa almacenar y recuperar lo
 <!-- https://launchschool.com/books/oo_ruby/read/introduction -->
 
 <!-- https://learntocodewith.me/posts/code-for-free/#html-css -->
-
-> **¿CÓMO APRENDER A UTILIZAR LA LÍNEA DE COMANDOS GRATIS?**
+**¿Cómo aprender a utilizar la línea de comandos de manera gratuita?**
 
 ## **Aprenda suficiente la línea de comandos como para ser peligroso**
 
@@ -416,7 +409,7 @@ Al aprender y comprender el subconjunto de indicadores, opciones y argumentos pa
 
 [🚪 Visita Conquering the command line](http://conqueringthecommandline.com/book){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
-> **¿CÓMO APRENDER GIT Y GITHUB GRATIS?**
+**¿Cómo Aprender Git y Github Gratis?**
 
 ## **Prueba Git**
 
@@ -438,7 +431,23 @@ Si lo deseas puedes ir aún más rápido, accediendo a la [instalación de Git o
 
 > **¿CÓMO APRENDER A DESARROLLAR CON HTML Y CSS GRATIS?**
 
-[🚪 Visita ](){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+## 20. **CSS Tricks**
+
+Este sitio web de codificación profundiza en CSS con su gran y mal almanaque de CSS . Sin embargo, el blog ahora va más allá de CSS y habla sobre otras cosas como Sass, JavaScript, PHP y más. Explore toneladas de recursos de programación y consulte sus fragmentos de código .
+
+[[EN] 🚪 Visita CSS Tricks(https://css-tricks.com/){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
+
+## **Flexbox Froggy**
+
+Bienvenido a Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. Guía a esta rana hacia la hoja de lirio en la derecha, usando la propiedad `justify-content`, la cual alinea elementos horizontalmente y acepta los siguientes valores:
+
+- `flex-start`: Alinea elementos al lado izquierdo del contenedor.
+- `flex-end`: Alinea elementos al lado derecho del contenedor.
+- `center`: Alinea elementos en el centro del contenedor.
+- `space-between`: Muestra elementos con la misma distancia entre ellos.
+- `space-around`: Muestra elementos con la misma separación alrededor de ellos.
+
+[🚪 Visita Flexbox Froggy](https://flexboxfroggy.com/#es){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-primary .btn-lg .btn-block}
 
 > **¿CÓMO APRENDER A PROGRAMAR JAVASCRIPT GRATIS?**
 

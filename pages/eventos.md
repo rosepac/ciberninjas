@@ -1,6 +1,7 @@
 ---
 layout: page
 hide: true
+order: 4
 title: "Agenda y Eventos de Programación y Tecnología 2020"
 description: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 excerpt: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
@@ -69,6 +70,7 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 21 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- IADI 2020| Inteligencia Artificial, Datos e ingeniería 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 22 de Noviembre  <!-- omit in toc -->
 
@@ -87,18 +89,23 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 ### 🔔 25 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
 - Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 26 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-eCommerce Full Experience 2020 Live
-- eCommerce Full Experience 2020 Live 🎥 [YOUTUBE](https://www.youtube.com/c/CACEARG/featured){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://www.eventbrite.com.ar/e/ecommerce-full-experience-2020-live-tickets-126140943959?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}- eCommerce Full Experience 2020 Live 🎥 [YOUTUBE](https://www.youtube.com/c/CACEARG/featured){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://www.eventbrite.com.ar/e/ecommerce-full-experience-2020-live-tickets-126140943959?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 27 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
 - Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 28 de Noviembre  <!-- omit in toc -->
+
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Agenda y Eventos tecnológicos de Diciembre**
 
