@@ -44,7 +44,6 @@ A continuación, voy a intentar seleccionar las aplicaciones que más me han gus
 - [**6. ArtFlow**](#6-artflow)
 - [**7. Adobe Illustrator Draw**](#7-adobe-illustrator-draw)
 - [**8. Adobe Photoshop Sketch**](#8-adobe-photoshop-sketch)
-  - [**Relacionados**](#relacionados)
 
 > 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejor-software-dibujo-windows-android/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
@@ -136,7 +135,7 @@ Desde lápices hasta acrílicos gruesos, Adobe Photoshop Sketch lo cubrió. Pued
 [⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [⏩ Probar Adobe Photoshop Sketch](https://play.google.com/store/apps/details?id=com.adobe.creativeapps.sketch){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### **Relacionados**
+### **Relacionados** <!-- omit in toc -->
 
 [👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
 
