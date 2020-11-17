@@ -27,13 +27,6 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 - [**Mejores Canciones de Navidad 🎄🎅**](#mejores-canciones-de-navidad-)
 - [**🤘 Rock Roll / Heavy**](#-rock-roll--heavy)
-  - [**Extremoduro, marea, fito, eukz, saratoga, warcry, sinkope, la fuga**](#extremoduro-marea-fito-eukz-saratoga-warcry-sinkope-la-fuga)
-  - [**Söber, Mago y Leo**](#söber-mago-y-leo)
-  - [**Casi 700 vídeos del Mejor Heavy Metal**](#casi-700-vídeos-del-mejor-heavy-metal)
-  - [**Grupos Asturianos. (rock,punk,ska,reggae,rap...)**](#grupos-asturianos-rockpunkskareggaerap)
-  - [**Lista Random con Buen Rock**](#lista-random-con-buen-rock)
-  - [**Crossover clásico**](#crossover-clásico)
-- [**🎻 Full Hardcore con 2 Cellos**](#-full-hardcore-con-2-cellos)
   - [Mi Lista de las Mejores Canciones del Rock Callejero{:target="_blank" rel="nofollow,noreferrer"}](#mi-lista-de-las-mejores-canciones-del-rock-callejerotarget_blank-relnofollownoreferrer)
 - [**🎸 Rock Pop del Español**](#-rock-pop-del-español)
   - [**Las 200 mejores canciones de rock y pop de todos los tiempos**](#las-200-mejores-canciones-de-rock-y-pop-de-todos-los-tiempos)
@@ -80,16 +73,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 - [**🥳 Comercial Fiestera**](#-comercial-fiestera)
   - [**14 Canciones con las que darte una Fiesta 2010**](#14-canciones-con-las-que-darte-una-fiesta-2010)
 - [**🤸‍♀️ Power Comercial**](#️-power-comercial)
-  - [**Playlist para hacer Deporte 2020**](#playlist-para-hacer-deporte-2020)
-  - [**Clásicos de Tito El Bambino, 75 Vídeos**](#clásicos-de-tito-el-bambino-75-vídeos)
-  - [**Clásicos del Reagettonto, 134 Vídeos**](#clásicos-del-reagettonto-134-vídeos)
-  - [**Clásicos del Reagettonto, del 2020 al 2010**](#clásicos-del-reagettonto-del-2020-al-2010)
 - [**💲 Full Comercial**](#-full-comercial)
-  - [**Full Comercial 2021**](#full-comercial-2021)
-  - [**Full Comercial 2017**](#full-comercial-2017)
-  - [**Full Comercial / Reggae-tonto 2021 / 2020**](#full-comercial--reggae-tonto-2021--2020)
-  - [**18 Canciones del regaetton de hace años**](#18-canciones-del-regaetton-de-hace-años)
-  - [**Full Comercial / Reggae-tonto de Siempre**](#full-comercial--reggae-tonto-de-siempre)
 - [**Publicaciones Música**](#publicaciones-música)
   - [**Páginas web de música alternativa random**](#páginas-web-de-música-alternativa-random)
 
@@ -99,14 +83,16 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLz1LeT5FVsBsbCs8-Xbka-AvBJ8ASyJ9G" allowfullscreen></iframe>
 </div><br/>
 
-<div class="accordion" id="accordionExample">
+## **🤘 Rock Roll / Heavy**
+
+<div class="accordion" id="acordrock">
         <div class="card">
             <div class="card-header" id="headingOne">
                 <h2 class="mb-0">
                     <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne">Extremoduro, marea, fito, eukz, saratoga, warcry, sinkope, la fuga</button>									
                 </h2>
             </div>
-            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#acordrock">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
                       <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL_MyavMOcxp0Ot65TsS1sQbNMF6KpZC1u" allowfullscreen></iframe>
@@ -120,7 +106,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">Söber, Mago y Leo</button>
                 </h2>
             </div>
-            <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#acordrock">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLBpmS6aVtOwvERCSrc0e-Fcan2KOZKsk4" allowfullscreen></iframe>
@@ -131,34 +117,10 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
         <div class="card">
             <div class="card-header" id="headingThree">
                 <h2 class="mb-0">
-                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">3. What is CSS?</button>                     
-                </h2>
-            </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                <div class="card-body">
-                    <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-header" id="headingThree">
-                <h2 class="mb-0">
-                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">3. What is CSS?</button>                     
-                </h2>
-            </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                <div class="card-body">
-                    <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-header" id="headingThree">
-                <h2 class="mb-0">
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">Casi 700 vídeos del Mejor Heavy Metal</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordrock">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLglLEhldqRTN37zWaW6F3kPuFChsdcjvx" allowfullscreen></iframe>
@@ -172,7 +134,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">Grupos Asturianos. (rock,punk,ska,reggae,rap...)</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordrock">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLfW5xezkrsr6iUBjBNsfBK6EFHtTl-UX2" allowfullscreen></iframe>
@@ -186,10 +148,24 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">Lista Random con Buen Rock</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordrock">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=FLFeZtYtEE0yytSLuixMVffw" allowfullscreen></iframe>
+</div><br/>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingThree">
+                <h2 class="mb-0">
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">🎻 Full Hardcore con 2 Cellos</button>                     
+                </h2>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordrock">
+                <div class="card-body">       
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLtsjzWvKXet8gBs5MMsuNWQaOA52BQY4t" allowfullscreen></iframe>
 </div><br/>
                 </div>
             </div>
@@ -200,37 +176,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 
-## **🤘 Rock Roll / Heavy**
-
-### **Extremoduro, marea, fito, eukz, saratoga, warcry, sinkope, la fuga**
-
-
-
-### **Söber, Mago y Leo**
-
-
-
-### **Casi 700 vídeos del Mejor Heavy Metal**
-
-
-
-### **Grupos Asturianos. (rock,punk,ska,reggae,rap...)**
-
-
-
-### **Lista Random con Buen Rock**
-
-
-
-### **Crossover clásico**
-
-26 nuevas canciones.?.
-
-## **🎻 Full Hardcore con 2 Cellos**
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLtsjzWvKXet8gBs5MMsuNWQaOA52BQY4t" allowfullscreen></iframe>
-</div><br/>
+> 👷‍♂️ FALTANTES POR AÑADIR + 👷‍♂️**Crossover clásico**: 26 nuevas canciones.?.
 
 ### [Mi Lista de las Mejores Canciones del Rock Callejero](https://listas.20minutos.es/lista/mejores-canciones-del-rock-en-espanol-395047/){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -502,91 +448,75 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 ## **🤸‍♀️ Power Comercial**
 
-<div class="accordion" id="accordionExample">
+<div class="accordion" id="acordPowerComercial">
         <div class="card">
             <div class="card-header" id="headingOne">
                 <h2 class="mb-0">
-                    <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne">1. What is HTML?</button>									
+                    <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne">Playlist para hacer Deporte 2020</button>									
                 </h2>
             </div>
-            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                <div class="card-body">
-                    <p>HTML stands for HyperText Markup Language. HTML is the standard markup language for describing the structure of web pages. <a href="https://www.tutorialrepublic.com/html-tutorial/" target="_blank">Learn more.</a></p>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#acordPowerComercial">
+                <div class="card-body">             
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLA_I2ay5YcUUr8_rE-DlVknObkJ6-Rn3q" allowfullscreen></iframe>
+</div><br/>
                 </div>
             </div>
         </div>
         <div class="card">
             <div class="card-header" id="headingTwo">
                 <h2 class="mb-0">
-                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">2. What is Bootstrap?</button>
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">Clásicos de Tito El Bambino, 75 Vídeos</button>
                 </h2>
             </div>
-            <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#acordPowerComercial">
                 <div class="card-body">
-                    <p>Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development. It is a collection of CSS and HTML conventions. <a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank">Learn more.</a></p>
+                    <div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLB32D28D087F3CF4B" allowfullscreen></iframe>
+</div><br/>
                 </div>
             </div>
         </div>
         <div class="card">
             <div class="card-header" id="headingThree">
                 <h2 class="mb-0">
-                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">3. What is CSS?</button>                     
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">Clásicos del Reagettonto, 134 Vídeos</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordPowerComercial">
                 <div class="card-body">
-                    <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
+                    <div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZEemm-siVWoypkeT50V6gZgmuttI9i3j" allowfullscreen></iframe>
+</div><br/>
                 </div>
             </div>
         </div>
         <div class="card">
             <div class="card-header" id="headingThree">
                 <h2 class="mb-0">
-                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">3. What is CSS?</button>                     
+                    <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">Clásicos del Reagettonto, del 2020 al 2010</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordPowerComercial">
                 <div class="card-body">
-                    <p>CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
+                    <div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLcoqIQllPxWzoCqo3Srp_vV0-qNFKhUgV" allowfullscreen></iframe>
+</div><br/>
                 </div>
             </div>
         </div>
     </div>
 
-### **Playlist para hacer Deporte 2020**
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLA_I2ay5YcUUr8_rE-DlVknObkJ6-Rn3q" allowfullscreen></iframe>
-</div><br/>
-
-### **Clásicos de Tito El Bambino, 75 Vídeos**
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLB32D28D087F3CF4B" allowfullscreen></iframe>
-</div><br/>
-
-### **Clásicos del Reagettonto, 134 Vídeos**
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZEemm-siVWoypkeT50V6gZgmuttI9i3j" allowfullscreen></iframe>
-</div><br/>
-
-### **Clásicos del Reagettonto, del 2020 al 2010**
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLcoqIQllPxWzoCqo3Srp_vV0-qNFKhUgV" allowfullscreen></iframe>
-</div><br/>
-
 ## **💲 Full Comercial**
 
-<div class="accordion" id="accordionExample">
+<div class="accordion" id="acordFullComercial">
         <div class="card">
             <div class="card-header" id="headingOne">
                 <h2 class="mb-0">
                     <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne">Full Comercial 2021</button>									
                 </h2>
             </div>
-            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#acordFullComercial">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLyORnIW1xT6waC0PNjAMj33FdK2ngL_ik" allowfullscreen></iframe>
@@ -600,7 +530,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo">Full Comercial 2017</button>
                 </h2>
             </div>
-            <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#acordFullComercial">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8M1frRRqO_rnt1TrIlCug4kY_ARs2KEy" allowfullscreen></iframe>
@@ -614,7 +544,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">Full Comercial / Reggae-tonto 2021 / 2020</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordFullComercial">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLq3UZa7STrbrXuQZlIM_4VQSiiNK3YDf6" allowfullscreen></iframe>
@@ -628,7 +558,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">*18 Canciones del regaetton de hace años</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordFullComercial">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLptG5zt9Oqs6tsWy-Ko7vGV73Q8JM8gm1" allowfullscreen></iframe>
@@ -642,7 +572,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
                     <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree">Full Comercial / Reggae-tonto de Siempre</button>                     
                 </h2>
             </div>
-            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#acordFullComercial">
                 <div class="card-body">
                     <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLo3pNg0eiPc8rRO3XqFnl1Je2GTu7am-F" allowfullscreen></iframe>
@@ -651,24 +581,6 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
             </div>
         </div>
     </div>
-
-### **Full Comercial 2021**
-
-
-
-### **Full Comercial 2017**
-
-
-
-### **Full Comercial / Reggae-tonto 2021 / 2020**
-
-
-
-### **18 Canciones del regaetton de hace años**
-
-
-
-### **Full Comercial / Reggae-tonto de Siempre**
 
 **¡Próximamente Más!**
 
