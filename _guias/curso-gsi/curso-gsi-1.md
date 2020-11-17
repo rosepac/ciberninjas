@@ -41,6 +41,8 @@ Contenidos que se incluyen en la formación..
 - [**🎮 Juegos de Repaso**](#-juegos-de-repaso)
 - [**El ordenador / partes del ordenador**](#el-ordenador--partes-del-ordenador)
   - [**Tipos de Ordenadores**](#tipos-de-ordenadores)
+- [**Partes de un Ordenador**](#partes-de-un-ordenador)
+- [**Dispositivos externos**](#dispositivos-externos)
 - [**Seguimos por..?**](#seguimos-por)
 
 ## MF0484 - Administración hardware de un sistema informático
@@ -157,7 +159,13 @@ Las funciones básicas del ordenador, son:
 
 - Ordenadores a gran escala: Servidores, Superordenadores.
 
+## **Partes de un Ordenador**
+
 > 👷‍♂️ Definir partes del ordenador 👷‍♂️
+
+## **Dispositivos externos**
+
+Impresoras / toners, y su funcionamiento..
 
 ## **Seguimos por..?**
 

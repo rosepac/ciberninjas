@@ -37,17 +37,17 @@ Que se supone es equivalente al certificado del módulo:
 
 Teniendo en cuenta que las competencias profesionales de ASIR: Administración de Sistemas Informáticos en Red son las siguientes:
 
-UC0484_3 Administrar los dispositivos hardware del sistema.
-UC0485_3 Instalar, configurar y administrar el software de base y de aplicación del sistema.
-UC0486_3 Asegurar equipos informáticos.
-UC0495_3 Instalar, configurar y administrar el software para gestionar un entorno web.
-UC0496_3 Instalar, configurar y administrar servicios de mensajería electrónica.
-UC0497_3 Instalar, configurar y administrar servicios de transferencia de archivos y multimedia.
-UC0490_3 Gestionar servicios en el sistema informático.
-UC0223_3 Configurar y explotar sistemas informáticos.
-UC0224_3 Configurar y gestionar un sistema gestor de bases de datos.
-UC0225_3 Configurar y gestionar la base de datos.
-UC0493_3 Implementar, verificar y documentar aplicaciones web en entornos internet, intranet y extranet.
+- UC0484_3 Administrar los dispositivos hardware del sistema.
+- UC0485_3 Instalar, configurar y administrar el software de base y de aplicación del sistema.
+- UC0486_3 Asegurar equipos informáticos.
+- UC0495_3 Instalar, configurar y administrar el software para gestionar un entorno web.
+- UC0496_3 Instalar, configurar y administrar servicios de mensajería electrónica.
+- UC0497_3 Instalar, configurar y administrar servicios de transferencia de archivos y multimedia.
+- UC0490_3 Gestionar servicios en el sistema informático.
+- UC0223_3 Configurar y explotar sistemas informáticos.
+- UC0224_3 Configurar y gestionar un sistema gestor de bases de datos.
+- UC0225_3 Configurar y gestionar la base de datos.
+- UC0493_3 Implementar, verificar y documentar aplicaciones web en entornos internet, intranet y extranet.
 
 Y que según el [siguiente BOE](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355) las competencias anteriores equivalen a las convalidaciones siguientes:
 
@@ -83,17 +83,14 @@ El resultado, es que el contenido de Gestión de Sistemas Informáticos, es equi
 - Una parte del Módulo: 0371. Fundamentos de Hardware. Faltando la competencia UC0223_3: Configurar y explotar sistemas informáticos. Para que fuese completo.
 - El Módulo Completo: 0378. Seguridad y alta disponibilidad del FP ASIR.
 
-Recursos de Implantación de sistemas operativos -> https://apuntesfpinformatica.es/implantacion-de-sistemas-operativos/
+## **Recursos Encontrados**
 
-Recursos en Catalán -> https://ioc.xtec.cat/materials/FP/Materials/IC_S_INF/INF_IC_S_M01/web/html/index.html
-
-Recursos de Fundamentos de Hardware -> https://apuntesfpinformatica.es/fundamentos-de-hardware/
-
-Recursos en Catalán -> https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M05/web/html/index.html
-
-Recursos de Seguridad y Alta Disponibilidad -> https://apuntesfpinformatica.es/seguridad-y-alta-disponibilidad/
-Recurso en Catalán -> https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M11/web/html/index.html
-
+- [Recursos de Implantación de sistemas operativos](https://apuntesfpinformatica.es/implantacion-de-sistemas-operativos/){:target="_blank" rel="nofollow,noreferrer"}
+- [Recursos en Catalán](https://ioc.xtec.cat/materials/FP/Materials/IC_S_INF/INF_IC_S_M01/web/html/index.html){:target="_blank" rel="nofollow,noreferrer" hreflang="cat"}
+- [Recursos de Fundamentos de Hardware](https://apuntesfpinformatica.es/fundamentos-de-hardware/){:target="_blank" rel="nofollow,noreferrer"}
+- [Recursos en Catalán](https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M05/web/html/index.html){:target="_blank" rel="nofollow,noreferrer" hreflang="cat"}
+- [Recursos de Seguridad y Alta Disponibilidad](https://apuntesfpinformatica.es/seguridad-y-alta-disponibilidad/){:target="_blank" rel="nofollow,noreferrer"}
+- [Recurso en Catalán](https://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M11/web/html/index.html){:target="_blank" rel="nofollow,noreferrer" hreflang="cat"}
 <!-- Otras formaciones interesantes: PROGRAMA FORMATIVO DE LA ESPECIALIDAD FORMATIVA. ACREDITACIÓN DOCENTE PARA TELEFORMACIÓN: FORMADOR/A. ON LINE: SSCE002PO -->
 
 ## **¿Seguimos por?**
