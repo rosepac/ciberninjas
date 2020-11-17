@@ -2,7 +2,7 @@
 layout: page
 author: rosepac
 bootstrap: true
-order: 3
+order: 4
 title: "Guías 📓"
 feature-img: /assets/img/paginas/guias-tecnologia.webp
 thumbnail: /assets/img/paginas/guias-tecnologia.webp
