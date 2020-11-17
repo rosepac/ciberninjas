@@ -75,13 +75,17 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 ## **Mejores Canciones de Navidad 🎄🎅**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLz1LeT5FVsBsbCs8-Xbka-AvBJ8ASyJ9G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLz1LeT5FVsBsbCs8-Xbka-AvBJ8ASyJ9G" allowfullscreen></iframe>
+</div><br/>
 
 ## **🤘 Rock Roll / Heavy**
 
 ### **Extremoduro, marea, fito, eukz, saratoga, warcry, sinkope, la fuga**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL_MyavMOcxp0Ot65TsS1sQbNMF6KpZC1u" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL_MyavMOcxp0Ot65TsS1sQbNMF6KpZC1u" allowfullscreen></iframe>
+</div><br/>
 
 ### **Söber, Mago y Leo**
 
@@ -91,15 +95,21 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 ### **Casi 700 vídeos del Mejor Heavy Metal**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLglLEhldqRTN37zWaW6F3kPuFChsdcjvx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLglLEhldqRTN37zWaW6F3kPuFChsdcjvx" allowfullscreen></iframe>
+</div><br/>
 
 ### **Grupos Asturianos. (rock,punk,ska,reggae,rap...)**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLfW5xezkrsr6iUBjBNsfBK6EFHtTl-UX2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLfW5xezkrsr6iUBjBNsfBK6EFHtTl-UX2" allowfullscreen></iframe>
+</div><br/>
 
 ### **Lista Random con Buen Rock**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=FLFeZtYtEE0yytSLuixMVffw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=FLFeZtYtEE0yytSLuixMVffw" allowfullscreen></iframe>
+</div><br/>
 
 ### **Crossover clásico**
 
@@ -107,7 +117,9 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 ## **🎻 Full Hardcore con 2 Cellos**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLtsjzWvKXet8gBs5MMsuNWQaOA52BQY4t" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLtsjzWvKXet8gBs5MMsuNWQaOA52BQY4t" allowfullscreen></iframe>
+</div><br/>
 
 ### [Mi Lista de las Mejores Canciones del Rock Callejero](https://listas.20minutos.es/lista/mejores-canciones-del-rock-en-espanol-395047/){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -115,62 +127,87 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 Rock en español e inglés: Jarabe de Palo, Vetusta Morla, Leiva, Marea, KITAI ft. Taburete, Funambulista, Fito & Fitipaldis, Muse..
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA_I2ay5YcUXHaBmkpz0PdkdAlbs1IQTV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA_I2ay5YcUXHaBmkpz0PdkdAlbs1IQTV" allowfullscreen></iframe>
+</div><br/>
 
 ### **Las 200 mejores canciones de rock y pop de todos los tiempos**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL979721712CED57BB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL979721712CED57BB" allowfullscreen></iframe>
+</div><br/>
 
 ### **+700 Canciones de Rock Roll 219**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRZlMhcYkA2FGdVe0qFuaCLHgT1EAXOvw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRZlMhcYkA2FGdVe0qFuaCLHgT1EAXOvw" allowfullscreen></iframe>
+</div><br/>
 
 ### 3 Doors, Creed, Nickleback, Staind, Hinder, 3 Day's Grace, Linkin Park, Shinedown,
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLk2cJLvvpgA5GegHMQfRuKWWUn8CpCfXh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLk2cJLvvpgA5GegHMQfRuKWWUn8CpCfXh" allowfullscreen></iframe>
+</div><br/>
 
 194 canciones del rock del mejor rock alternativo.
 
 ### 48 Temazos del Rock en Inglés
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLeyt4N2uorXsVZEuiLD_t54iI4PxkBRxX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLeyt4N2uorXsVZEuiLD_t54iI4PxkBRxX" allowfullscreen></iframe>
+</div><br/>
 
 ## **📀 Los Mejores Discos del Rock Pop**
 
 ### **M-Clan: Sin Enchufe**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4PEePVBJzU_ugtCft4eyMwibhqeoPSvF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4PEePVBJzU_ugtCft4eyMwibhqeoPSvF" allowfullscreen></iframe>
+</div><br/>
 
 ## **📢 Música de Cantautor**
 
-- Antonio Vega.
-- Revolver.
+### **Las Mejores Canciones de Antonio Vega**
+
+👷‍♂️
 
 ### **Las Mejores Canciones de Revolver**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4204231F3C78EC32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4204231F3C78EC32" allowfullscreen></iframe>
+</div><br/>
 
-- Carlos Chauen.
+### **Las Mejores Carlos Chaouen**
+
+👷‍♂️
 
 ## **🌄 Los Mejores Acústicos**
 
 ### **80 Versiones en Acústico de Iratxo, El Niño de la Hipoteca, Andres Suárez, El Kanka y Más**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLE_vhtPNDDNLBfzkoYIXVk8guN9snf9VO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLE_vhtPNDDNLBfzkoYIXVk8guN9snf9VO" allowfullscreen></iframe>
+</div><br/>
 
 ### **87 Acústicos de Cantautores Españoles**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLVT5ffxHjZQw2JnAyau2rUmFupGFVp-LP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLVT5ffxHjZQw2JnAyau2rUmFupGFVp-LP" allowfullscreen></iframe>
+</div><br/>
 
 ## **🎤 Hip Hop**
 
 ### **Las Mejores 195 Mejores Canciones del Hip Hop Español**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLp7o6ZCcsW2QALsLaLRmZyggrRPRm0L5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLp7o6ZCcsW2QALsLaLRmZyggrRPRm0L5Q" allowfullscreen></iframe>
+</div><br/>
 
 ### **28 Mejores Temas del Chojín**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLMnQ17spvsZwA3yEN4Pp19kKGAD7WbcXb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLMnQ17spvsZwA3yEN4Pp19kKGAD7WbcXb" allowfullscreen></iframe>
+</div><br/>
 
 ### **Rapsusklei, Sharif, Rayden, ZPU, Nach**
 
@@ -180,33 +217,46 @@ Rock en español e inglés: Jarabe de Palo, Vetusta Morla, Leiva, Marea, KITAI f
 
 ### **Old School R&B Hip Hop Rap Soul**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL_B89Ke8dejW62he5q7pRxGcTUdtNa394" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL_B89Ke8dejW62he5q7pRxGcTUdtNa394" allowfullscreen></iframe>
+</div><br/>
 
 ### **Las 32 Mejores Canciones de Eminem**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL7E436F1EC114B001" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL7E436F1EC114B001" allowfullscreen></iframe>
+</div><br/>
 
 ## **Música Épica para para Gamers y Programadores**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8M1frRRqO_qgc_TOTuvtaStPY00DfVHu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8M1frRRqO_qgc_TOTuvtaStPY00DfVHu" allowfullscreen></iframe>
+</div><br/>
 
 ## **💘 Pop / Love**
 
 ### **476 Canciones del Mejor Pop Rock Español**
 
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLi5IanQRrFXULM1MSvLFVMnTGRVg8lJ2G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **26 Vídeos de Cantantes de Música Alternativa**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLeFr_1Q-ltOmGHOQG_v5HeEocwV8JkVft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLeFr_1Q-ltOmGHOQG_v5HeEocwV8JkVft" allowfullscreen></iframe>
+</div><br/>
 
 ### **21 Éxitos Latinos Románticones**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLWuSE8RjT0acdowwhELTVUTcWfaMSxRqb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLWuSE8RjT0acdowwhELTVUTcWfaMSxRqb" allowfullscreen></iframe>
+</div><br/>
 
 ### **6 Canciones de Música Alternativa con la que Enamorarte**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLKqlXOh4C5eCQD_owrZPDrHJRWJgkHgrr" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLKqlXOh4C5eCQD_owrZPDrHJRWJgkHgrr" allowfullscreen></iframe>
+</div><br/>
 
 ### **Español 2020**
 
@@ -218,11 +268,15 @@ Rock en español e inglés: Jarabe de Palo, Vetusta Morla, Leiva, Marea, KITAI f
 
 ### **Chill Playlist (Billie Eilish, Lorde)**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL3GoK8WI2eIG_i2RdIdJLuoigFb7fkWP5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL3GoK8WI2eIG_i2RdIdJLuoigFb7fkWP5" allowfullscreen></iframe>
+</div><br/>
 
 ### **Piano: Jose Luis Altamirano**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLeLQcPuzskwKcWR4pA7su8dkQfyjhSHGJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLeLQcPuzskwKcWR4pA7su8dkQfyjhSHGJ" allowfullscreen></iframe>
+</div><br/>
 
 ### **Playlist Nujabes / Chill Out / Relax**
 
@@ -232,27 +286,37 @@ Rock en español e inglés: Jarabe de Palo, Vetusta Morla, Leiva, Marea, KITAI f
 
 ### **Smooth R&B 2019**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLdt0ehPLKLZFOfaLU8D8-UrvpGQt_6Jop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLdt0ehPLKLZFOfaLU8D8-UrvpGQt_6Jop" allowfullscreen></iframe>
+</div><br/>
 
 ## **🤠 R&B del 2000 al 2020**
 
 ### **R&B 2021 - 60 Mejores Canciones de R&B**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRZlMhcYkA2FGdVe0qFuaCLHgT1EAXOvw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLRZlMhcYkA2FGdVe0qFuaCLHgT1EAXOvw" allowfullscreen></iframe>
+</div><br/>
 
 ### **459 Canciones de R&B**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLFbWuc6jwPGeqFkoDBq87CcmlurwrlEGv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLFbWuc6jwPGeqFkoDBq87CcmlurwrlEGv" allowfullscreen></iframe>
+</div><br/>
 
 ### **41 Canciones de R B del 2014**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLPtC92Qym_RiiWb3nE4wYlb_KgtC_qbga" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLPtC92Qym_RiiWb3nE4wYlb_KgtC_qbga" allowfullscreen></iframe>
+</div><br/>
 
 ## **🤠 Country**
 
 ### Bluegrass Playlist
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLKUA473MWUv2mddNMPh-MJkgTR5AjTpl3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLKUA473MWUv2mddNMPh-MJkgTR5AjTpl3" allowfullscreen></iframe>
+</div><br/>
 
 ### **Playlist Country, Rock, Alternativa, Random**
 
@@ -274,35 +338,43 @@ Rock en español e inglés: Jarabe de Palo, Vetusta Morla, Leiva, Marea, KITAI f
 
 ### **Hot Country Playlist 2021 - New Hot Country Music 2021**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLgFPSBWI2ATuCRZ1G6mxkqeSShDPOhtiF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLgFPSBWI2ATuCRZ1G6mxkqeSShDPOhtiF" allowfullscreen></iframe>
+</div><br/>
 
 ## **🥳 Comercial Fiestera**
 
 ### **14 Canciones con las que darte una Fiesta 2010**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL9BC5F01ED0049D0D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL9BC5F01ED0049D0D" allowfullscreen></iframe>
+</div><br/>
 
-## **🤸‍♀️ Comercial Power**
+## **🤸‍♀️ Power Comercial**
 
 ### **Playlist para hacer Deporte 2020**
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/pNNMr5glICM" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLA_I2ay5YcUUr8_rE-DlVknObkJ6-Rn3q" allowfullscreen></iframe>
 </div><br/>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA_I2ay5YcUUr8_rE-DlVknObkJ6-Rn3q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Clásicos de Tito El Bambino, 75 Vídeos**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLB32D28D087F3CF4B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLB32D28D087F3CF4B" allowfullscreen></iframe>
+</div><br/>
 
 ### **Clásicos del Reagettonto, 134 Vídeos**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZEemm-siVWoypkeT50V6gZgmuttI9i3j" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZEemm-siVWoypkeT50V6gZgmuttI9i3j" allowfullscreen></iframe>
+</div><br/>
 
 ### **Clásicos del Reagettonto, del 2020 al 2010**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLcoqIQllPxWzoCqo3Srp_vV0-qNFKhUgV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLcoqIQllPxWzoCqo3Srp_vV0-qNFKhUgV" allowfullscreen></iframe>
+</div><br/>
 
 ## **💲 Full Comercial**
 
@@ -314,12 +386,9 @@ Rock en español e inglés: Jarabe de Palo, Vetusta Morla, Leiva, Marea, KITAI f
 
 ### **Full Comercial 2017**
 
-test insercion 👇
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8M1frRRqO_rnt1TrIlCug4kY_ARs2KEy" allowfullscreen></iframe>
 </div><br/>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8M1frRRqO_rnt1TrIlCug4kY_ARs2KEy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Full Comercial / Reggae-tonto 2021 / 2020**
 
@@ -329,7 +398,9 @@ test insercion 👇
 
 ### **18 Canciones del regaetton de hace años**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLptG5zt9Oqs6tsWy-Ko7vGV73Q8JM8gm1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLptG5zt9Oqs6tsWy-Ko7vGV73Q8JM8gm1" allowfullscreen></iframe>
+</div><br/>
 
 ### **Full Comercial / Reggae-tonto de Siempre**
 
