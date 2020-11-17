@@ -60,8 +60,9 @@ Estos elementos son los que establecen la base principial de Makrdown.
 | **Lista Desordenada** | `- First item- Second item- Third item`         |
 | **Código**   | ``código``                                      |
 | **Línea Divisoria Horizontal** | `---`                                           |
-| **Enlace**  | `[title](https://www.example.com)`              |
+| **Enlace**  | `[title](https://www.ejemplo.com)`              |
 | **Imagen** | `![alt text](image.jpg)`                        |
+| **Imagen** | `[![alt text](image.jpg)](https://www.ejemplo.com)`                        |
 
 ## **Sintaxis Avanzada**
 
