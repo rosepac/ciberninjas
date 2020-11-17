@@ -24,7 +24,7 @@ published: false
 
 **Cheatsheet o Hoja de referencia de Markdown en español.**
 
-Esta hoja de trucos de Markdown proporciona una descripción general rápida de todos los elementos de sintaxis de Markdown. No puede cubrir todos los casos extremos, por lo que si necesita más información sobre cualquiera de estos elementos, consulte las guías de referencia para conocer la sintaxis básica y extendida .
+Esta hoja de trucos de Markdown proporciona una descripción general rápida de todos los elementos de sintaxis de Markdown. No puede cubrir todos los casos extremos, por lo que si necesita más información sobre cualquiera de estos elementos, consulte las guías de referencia para conocer la sintaxis básica y extendida.
 
 
 
