@@ -18,6 +18,8 @@ published: true
 
 ---
 
+Colapso de la versión 4.1. -> <!-- https://getbootstrap.com/docs/4.1/components/collapse/ -->
+
 Probando la creación y funcionamiento de Bootstrap dentro de un blog corriente, y la compatibilidad de las diferentes versiones de Bootstrap.
 
   <div class="accordion" id="accordionExample">
