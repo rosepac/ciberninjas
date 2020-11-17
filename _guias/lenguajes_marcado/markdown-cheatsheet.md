@@ -48,21 +48,21 @@ Esta hoja de trucos de Markdown proporciona una descripción general rápida de 
 
 ## **Sintaxis Básica**
 
-Estos elementos son los que establecen la base principial de Makrdown.
+Estos elementos son los que establecen la base principal de Makrdown.
 
 | Elemento                                                     | Sintaxis de Markdown                            |
 | ------------------------------------------------------------ | ----------------------------------------------- |
-| **Encabezado** | `# H1## H2### H3`                               |
+| **Encabezado** | `# H1 ## H2 ### H3`                               |
 | **Negrita**  | `**texto en negrita**`                          |
 | **Cursiva** | `*texto en cursiva*`                            |
 | **Blockquote** | `> blockquote`                                  |
 | **Lista Ordenada** | `1. Primer item 2. Segundo item 3. Tercer item` |
 | **Lista Desordenada** | `- First item- Second item- Third item`         |
-| **Código**   | ``código``                                      |
+| **Código**   | ` ` código ` `                                      |
 | **Línea Divisoria Horizontal** | `---`                                           |
-| **Enlace**  | `[title](https://www.ejemplo.com)`              |
-| **Imagen** | `![alt text](image.jpg)`                        |
-| **Imagen** | `[![alt text](image.jpg)](https://www.ejemplo.com)`                        |
+| **Enlace**  | `[título](https://www.ejemplo.com)`              |
+| **Imagen** | `![alt text](imagen.jpg)`                        |
+| **Imagen** | `[![alt text](imagen.jpg)](https://www.ejemplo.com)`                        |
 
 ## **Sintaxis Avanzada**
 
@@ -77,6 +77,119 @@ Estos elementos amplían la sintaxis básica agregando características adiciona
 | **Definiciones de Palabras** | `termino: definición`                                        |
 | **Contenido Tachado** | `~~El mundo es plano.~~`                                     |
 | **Lista de Tareas** | `- [x] Escribir el comunicado de prensa- [ ] Actualizar la página web- [ ] Contactar con la prensa` |
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Cómo se escribe un título de página con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes utilizar la almohadilla (#) al inicio de la frase que deseas utilizar como título de la página, artículo o documento, etc. Esto equivaldrá a un <h1> de HTML."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se escribe un título secundario con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes utilizar dos almohadillas (##) si deseas generar un subtítulo equivalente a un sutítulo <h2> de HTML. O tres almohadillas (###) para <h3> y así sucesivamente. Las # se colocan previas a la frase que se desea con subtítulo."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se utiliza la negrita con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes rodear la palabra, frase o párrafo completo con dos asteriscos (**), tanto al inicio de la negrita como al cierre. Ejemplo: Una palabra en **negrita** (negrita, sería la palabra en negrita)."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se utiliza la cursiva con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes rodear la palabra, frase o párrafo completo con un asterisco (*), tanto al inicio de la cursiva como al cierre. Ejemplo: Una palabra en *cursiva* (cursiva, sería la palabra en cursiva)."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se crea un bloque de blockquote con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes utilizar el símbolo de > al inicio de la frase que desees que aparezca enmarcado dentro de un cuadro \"blockquote\" que se mostrará con el diseño que se le aplique a través del .CSS."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se crear una lista ordenada con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Solamente debes enumerar (1,2,3,4,5,6) cada frase que desees que forme parte de la lista; también, puedes crear las listas con el número 1; tal que así (1,1,1,1,1,1,1) y Markdown se encargará de mostrar la secuencia de Nº."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se crear una lista desordenada con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Solamente debes utilizar el guion al inicio de cada \"item\" de la lista. (- Item 1, - Item 2, - Item 3) y redactar  cada uno de los ítems en una línea nueva."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se incluye código con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La inclusión de código dentro de Markdown puede cambiar dependiendo del Markdown que se use. Pero, casi siempre, funciona la inclusión del código entre dos líneas que incluyan tres comillas simples de apertura (```)"
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo se incluye un comando de código con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes agregar el comando entre dos comillas simples de apertura. Ejemplo: `ComandoAquí`. Esto generará un pequeño cuadro sombreado alrededor de ese comando concreto."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo puedo crear una línea divisoria horizontal en Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Incluyendo tres guiones (---) en una única línea; debes dejar la línea exclusivamente con los guiones. Eso generará una línea divisoria entre el contenido superior e inferior."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo crear un enlace o hipervínculo con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes incluir el título entre corchetes y seguido, la URL entre paréntisis. Ejemplo. [título](https://www.ejemplo.com)."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo insertar una imagen en Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La inserción de una imagen, es muy sencilla. Solamente debes utilizar el siguiente código: ![alt text](imagen.jpg)"
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo insertar una imagen con enlace en Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La inserción de una imagen, es unos de los códigos, más rebuscados. Aún así. Es algo sencillo, solo debes seguir el siguiente ejemplo: [![alt text](imagen.jpg)](https://www.ejemplo.com)"
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo crear tablas con Markdown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Si bien, puedes utilizar el símbolo ( | ) para implementar tablas dentro de Markdown. Existe una mejor opción, que es utilizar una de las múltiples páginas que existen para su creación, las que, cuidan que existan los espacios necesarios para que la página se represente de forma correcta."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo incluir palabras tachadas en Mardown?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Debes utilizar dos \"cejas\" (~~) tanto antes como después del contenido que deseas tachar."
+    }
+  }]
+}
+</script>
 
 ## **Descarga la Cheatsheet**
 
