@@ -5,9 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Test
-# thumbnail: /assets/img/2020/11/.webp
-# feature-img: /assets/img/2020/11/.webp
-title: '▷ Bootstrap: Test Paneles de Bootstrap'
+title: '▷ Bootstrap Test Paneles de Bootstrap'
 description: >-
   "Paneles de Prueba de Bootstrap"
 excerpt: >-
@@ -22,8 +20,7 @@ published: true
 
 Probando la creación y funcionamiento de Bootstrap dentro de un blog corriente, y la compatibilidad de las diferentes versiones de Bootstrap.
 
-<div class="bs-example">
-    <div class="accordion" id="accordionExample">
+  <div class="accordion" id="accordionExample">
         <div class="card">
             <div class="card-header" id="headingOne">
                 <h2 class="mb-0">
@@ -61,15 +58,12 @@ Probando la creación y funcionamiento de Bootstrap dentro de un blog corriente,
             </div>
         </div>
     </div>
-</div>
 
-<!-- CARGAR LAS LIBRERÍAS DE BOOTSTRAP -->
+<!-- CARGAR LAS LIBRERÍAS DE BOOTSTRAP Extraído de https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=accordion -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> -->
 
 ### **Relacionados** <!-- omit in toc -->
-
-[]()
-
+s
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
