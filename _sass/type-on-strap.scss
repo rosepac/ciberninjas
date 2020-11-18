@@ -1,10 +1,10 @@
-// Variables
-@import 'base/variables';
 // @import 'external/katex';
 // Base
 @import 'base/global';
-@import 'base/highlight';
 @import 'base/utility';
+// Variables
+@import 'base/variables';
+@import 'base/highlight';
 // Includes
 @import 'includes/footer';
 @import 'includes/post_nav';
