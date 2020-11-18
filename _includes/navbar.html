@@ -4,15 +4,12 @@
 	<div class="branding">
         {% if site.avatar %}
 		<a href="{{ '/' | relative_url }}">
-			<img alt="Logotipo de Ciberninjas, el mejor blog para aprender a programar. Escrito por Pablo Álvarez Corredera" class="avatar" src="{{ site.avatar | relative_url }}" />
+			<img alt="Logotipo de Ciberninjas. Página web escrita por Pablo Álvarez Corredera" class="avatar" src="{{ site.avatar | relative_url }}" />
 		</a>
         {% endif %}
-
-		<span class="site-title">
-			<a aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
+		<a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
         {{ site.title }}
-      </a>
-		</span>
+            </a>
 	</div>
 
     <!-- Toggle menu -->

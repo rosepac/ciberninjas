@@ -1,20 +1,16 @@
-// Variables
-@import 'base/variables';
 // External
 @import 'external/reset';
-@import 'external/syntax';
 @import 'external/font-awesome';
 @import 'external/pacifico';
-// @import 'external/katex';
 @import 'external/source-sans-pro';
+@import 'external/syntax';
+// Variables
+@import 'base/variables';
+// @import 'external/katex';
 // Base
 @import 'base/global';
+@import 'base/highlight';
 @import 'base/utility';
-// Posts
-@import 'layouts/posts';
-@import 'layouts/blog';
-@import 'layouts/page';
-@import 'layouts/tags';
 // Includes
 @import 'includes/footer';
 @import 'includes/post_nav';
@@ -24,3 +20,8 @@
 @import 'includes/share_buttons';
 @import 'includes/blog_nav.scss';
 @import 'includes/cookie_consent.scss';
+// Posts
+@import 'layouts/posts';
+@import 'layouts/blog';
+@import 'layouts/page';
+@import 'layouts/tags';

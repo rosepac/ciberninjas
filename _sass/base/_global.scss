@@ -4,14 +4,6 @@
   box-sizing: border-box;
 }
 
-.clean {
-  padding: 0px;
-}
-
-div.clean {
-  padding: 0px;
-}
-
 figure {
   margin: 0;
 }
@@ -19,10 +11,6 @@ figure {
 // For correct line number width in Github Gists
 .gist table tbody tr td {
   box-sizing: content-box;
-}
-
-pre {
-  overflow-x: scroll;
 }
 
 html {
@@ -84,7 +72,7 @@ embed,
 object,
 video {
   max-width: 100%;
-  padding: 0%;
+  padding: 0 9%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -287,8 +275,4 @@ kbd {
   line-height: 1;
   padding: 2px 4px;
   white-space: nowrap;
-}
-
-div.clean {
-  padding: 0px;
 }
