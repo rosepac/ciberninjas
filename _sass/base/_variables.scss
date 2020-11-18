@@ -1,16 +1,7 @@
 // Typography
-$font-family-main: Georgia,
-Helvetica,
-Arial,
-sans-serif;
-$font-family-headings: Georgia,
-Helvetica,
-Arial,
-sans-serif;
-$font-family-logo: Georgia,
-Helvetica,
-Arial,
-sans-serif;
+$font-family-main: Georgia, Helvetica, Arial, sans-serif;
+$font-family-headings: Georgia, Helvetica, Arial, sans-serif;
+$font-family-logo: Georgia, Helvetica, Arial, sans-serif;
 $font-size: 1.3em;
 // Padding
 $padding-x-large: 17%;
@@ -39,20 +30,22 @@ $brand-color: #f9f9f9;
 $background-color: #f9f9f9;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 // Typography colours
-$text-color: #000000;
+$text-color: #262626;
 $meta: #595959; //lowest gray for accessible color
 $link-color: $theme-color;
 $selection-color: #c83233; // visible when highlighting text
 $selection-typo-color: #FFFFFF; // change select typography color
 $blockquote-color: #c8222315; // $background-color;
 // Header
-$header-background-color: $theme-color; // Only used when no header image
+$header-background-color: darken($theme-color, 50%); // Only used when no header image
 $header-text-color: #000;
 $header-link-color: #383838;
 $navbar-separator-opacity: 0;
+
 // Feature image for articles
 $feature-image-text-color: #000;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
+
 //Search colours
 $link-shadow: transparentize($link-color, .6); //rgba(26, 188, 156, 0.6);
 $text-shadow: #c3c3c3;
@@ -61,16 +54,7 @@ $search-color: #999;
 /*  Syntax highlighting  */
 
 // Syntax typography
-$monospace: Consolas,
-Menlo,
-Monaco,
-Lucida Console,
-Liberation Mono,
-DejaVu Sans Mono,
-Bitstream Vera Sans Mono,
-Courier New,
-monospace,
-sans-serif !default;
+$monospace: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif !default;
 $font-size-code: 0.85em !default;
 $font-height-code: 1.3em !default;
 $border-radius: 4px !default;
@@ -91,6 +75,7 @@ $base0c: #89DDFF !default; // Support, Regular Expressions, Escape Characters, M
 $base0d: #82AAFF !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed
 $base0e: #C792EA !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
 $base0f: #FF5370 !default; // Deprecated, Opening/Closing Embedded Language Tags e.g.
+
 // base16 Monokai
 //$base00: #272822 !default; // Default Background
 //$base01: #383830 !default; // Lighter Background (Used for status bars)

@@ -43,7 +43,6 @@ canonical_URL: https://ciberninjas.com/guias/
 
 Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales.
 
-
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/cronograma/">
