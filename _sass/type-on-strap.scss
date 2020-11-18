@@ -1,9 +1,3 @@
-// External
-@import 'external/reset';
-@import 'external/font-awesome';
-@import 'external/pacifico';
-@import 'external/syntax';
-@import 'external/source-sans-pro';
 // Variables
 @import 'base/variables';
 // @import 'external/katex';
@@ -25,3 +19,9 @@
 @import 'layouts/blog';
 @import 'layouts/page';
 @import 'layouts/tags';
+// External
+@import 'external/reset';
+@import 'external/font-awesome';
+@import 'external/pacifico';
+@import 'external/syntax';
+@import 'external/source-sans-pro';
