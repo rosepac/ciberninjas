@@ -1,7 +1,7 @@
 ---
 layout: page
 hide: true
-title: '🗄 La Historia de los Ordenadores'
+title: '🥇 ▷ La Historia de la Computadora'
 description: '🗄 La Historia de la Computadora y Todo lo que Debes Saber Sobre la Historia de la Informática'
 excerpt: '🗄 La Historia de la Computadora y Todo lo que Debes Saber Sobre la Historia de la Informática'
 entries_layout: default

@@ -1,7 +1,7 @@
 ---
 layout: page
 hide: true
-order: 5
+order: 2
 title: "Agenda y Eventos de Programación y Tecnología 2020"
 description: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 excerpt: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
@@ -10,6 +10,33 @@ canonical_URL: https://ciberninjas.com/eventos/
 published: true
 feature-img: /assets/img/blog/reloj-hoy.webp
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Eventos de Tecnología</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/eventos/",
+    "name": "Eventos de Tecnología"
+    }
+  }
+ ]
+}
+</script>
 
 Esta página se encarga de mostrarte todos los eventos de tecnología y en habla hispana para los próximos días, con el objetivo de ofrecer a todos los amantes de la tecnología. Si deseas participar y agregar algún evento, solamente informa del mismo a: [rosepac21@gmail.com](mailto:rosepac21@gmail.com "Correo electrónico del Webmaster"){:target="_blank"}. Esta página se actualiza a diario.. 🤞
 

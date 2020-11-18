@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 10
 title: "Buscador"
 date: 2020-09-08T09:00:05
 permalink: /buscador/

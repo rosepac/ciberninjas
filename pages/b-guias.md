@@ -2,7 +2,7 @@
 layout: page
 author: rosepac
 bootstrap: true
-order: 4
+order: 6
 title: "Guías 📓"
 feature-img: /assets/img/paginas/guias-tecnologia.webp
 thumbnail: /assets/img/paginas/guias-tecnologia.webp
@@ -13,13 +13,74 @@ permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Guías</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/guias/",
+    "name": "Guías gratis de Programación, Desarrollo y Tecnología"
+    }
+  }
+ ]
+}
+</script>
+
 Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales.
 
+
+<div class ="portfolio-grid">
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/cronograma/">
+<div class="caption" title="🥇 ▷ Cronograma de la Historia de las Computadoras">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="1944 - Primer Colossus operativo en Bletchley Park" class="" src="/assets/img/paginas-historia/colossus.webp">
+</a>
+</div>
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/wiki/">
+<div class="caption" title="WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="La Mejor Wikipedia de Tecnología en Español del Mundo" class="" src="/assets/img/paginas/wikininjas-test-1.jpg">
+</a>
+</div>
+<div class="portfolio-cell">
+<a class="portfolio-link" data-keyboard="true" href="/glosario/">
+<div class="caption" title="🥇 ▷ Diccionario Tecnológico de los Ciberninjas">
+<div class="caption-content">
+<i class="fa fa-search-plus fa-3x"></i>
+</div>
+</div>
+<img alt="Lista de palabras del Diccionario Tecnológico y sus definiciones" class="" src="/assets/img/paginas/guias-tecnologia.webp">
+</a>
+</div>
+</div>
+
+Las siguientes guías han sido elaboradas tras haber realizado un profundo rastreo y poda de contenidos encontrados a lo largo y ancho de la profunda selva de Internet y constan de una extensa introducción a la temática elegida, junto a una amplia lista de artículos útiles y en algunos casos, complementado junto a un extenso y rebuscado set de recursos y herramientas seleccionadas.
+
+Las guías ciberninjas han sido creadas con el máximo cariño y espero de corazón, que sirvan para lograr aumentar los conocimientos de quién les de uso y así, poder ver brotar los nuevos brotes verdes de la primavera en su máximo esplendor.
+
 {% include guias.html %}
-
-Estas ciberguías han sido elaboradas tras haber realizado un profundo rastreo y poda de contenidos encontrados a lo largo y ancho de la profunda selva de Internet y constan de una extensa introducción a la temática elegida, junto a una amplia lista de artículos útiles y en algunos casos, complementado junto a un extenso y rebuscado set de recursos y herramientas seleccionadas.
-
-Las guías ciberninjas han sido creadas con el máximo cariño y espero de corazón, que sirvan para lograr aumentar los conocimientos de quién les de uso y así, poder ver brotar los nuevos brotes verdes de la primavera en su máximo explendor.
 
 Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cuidarlo. Solamente debes realizar [tu próxima compra en Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mis <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlaces de afiliado</a>.
 
@@ -32,3 +93,25 @@ Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cui
 
 > Mi jardín se construye poco a poco, desde hace ya más de dos años. A pesar de ello, los contenidos aquí recopilados van cambiando; si deseas participar en esos cambios, siempre puedes contactarme a través de mis redes sociales (nickanme: ciberninjas), ¡Saludos y espero que lo disfrutéis!
 {: .notice--warning}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué son las guías de tecnología?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Las guías de tecnología, son artículos extensos, enfocados en explicarte el máximo contenido posible sobre una tecnología concreta."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Por qué Ciberninjas crea este tipo de guías tecnológicas?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Habiendo descubierta una alta falta de contenidos de calidad sobre programación y desarrollo, en 2018, se decide comenzar con este proyecto; que se ha ido extendiendo hacía la traducción de artículos de Wikipedia y mucho más."
+    }
+  }]
+}
+</script>

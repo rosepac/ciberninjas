@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 10
 title: "🥇 ▷ Cómo APRENDER PROGRAMACIÓN desde Cero 2021"
 description: "✅ Los mejores consejos, cursos y libros recomendados para programadores, diseñadores y desarrolladores web"
 excerpt: "✅ Los mejores consejos, cursos y libros recomendados para programadores, diseñadores y desarrolladores web"
@@ -17,9 +18,47 @@ feature-img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-progr
 img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
 ---
 
-Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">¿Cómo Aprender a Programar?</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/programar/",
+     "name": "¿Cómo Aprender a Programar en 2021?"
+   }
+  }
+ ]
+}
+</script>
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+Guía completa con la que afrontar el inicio e inclusión al mundillo de la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo.
+
+Se ha considerado, como un importante punto de partida, el incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados dentro del ámbito de la tecnología, entre otros puntos que se han considerado relevantes.
 
 > ➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
 > 🔔 Se complementa a la perfección con [nuestro blog](https://ciberninjas.com/blog/), vas a encontrar múltiples artículos / guías / tutoriales, etc.<br />
@@ -43,7 +82,7 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
   - [**Debemos hablar de Javascript**](#debemos-hablar-de-javascript)
 - [****Debemos hablar de WebAssambly****](#debemos-hablar-de-webassambly)
 - [**Los Lenguajes de Programación más Clásicos**](#los-lenguajes-de-programación-más-clásicos)
-- [**Otros Lenguajes Populares en 2020**](#otros-lenguajes-populares-en-2020)
+- [**Otros Lenguajes Populares en 2021**](#otros-lenguajes-populares-en-2021)
 - [**Los Lenguajes Estándar de los Navegadores**](#los-lenguajes-estándar-de-los-navegadores)
 
 ## **Cómo aprender a programar código en 2021**
@@ -69,11 +108,11 @@ En esta primera sección, vamos a intentar realizar un resumen de los pasos que 
 
 ## **¿En qué campo de la informática trabajar?**
 
-Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos dde trabajo existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado _machine learning_ o **aprendizaje automático**, **la inteligencia artificial** y el **desarrollo móvil**.
+Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos dde trabajo existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: Son el tan citado _machine learning_ o **aprendizaje automático**, **la inteligencia artificial** y el **desarrollo móvil**.
 
 ### Aprendizaje Automático / Machine Learning
 
-Según uno de los últimos [informes publicados por Github](https://github.blog/2020-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
+Según uno de los últimos [informes publicados por Github](https://github.blog/2020-01-24-the-state-of-the-octoverse-machine-learning/){:target="blank" rel="nofollow,noreferrer" hreflang="en"}. Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -92,7 +131,7 @@ Partiendo de la base más sólida posible de lógica computación, conjunto a un
 
 ### Desarrollador Móvil Web
 
-Si tu interés, es el de desarrollar aplicaciones móviles. Lo ideal sería que te decidieses si deseas desarrollar apps centrándote en los dispositivos Android o los de Apple.
+Si tu interés, es el de desarrollar aplicaciones móviles. Lo ideal sería que te decidas si deseas desarrollar apps centrándote en los dispositivos Android o los de Apple.
 
 Con la elección de Android, tu mejor apuesta sin lugar a dudas es el lenguaje de Java (al menos, por ahora) sin embargo, debes tener en cuenta que el desarrollo y despliegue de  Java enfocado en dispositivos móviles es diferente al de la programación en Java genérica. Por ejemplo, una aplicación de Android se puede cerrar en cualquier momento si no se ejecuta en primer plano, mientras que un programa de Java normal se mantiene en ejecución hasta ser cerrado.
 
@@ -117,7 +156,7 @@ El contenido de este listado es totalmente orientativo, un poco más abajo puede
 
 - Desarrollo web front-end: JavaScript
 - Desarrollo web back-end: JavaScript, Java, Python, PHP, Ruby
-- Desarrollo móvil: Java, Swift, C #
+- Desarrollo móvil: Java, Swift, Kotlin, C #
 - Desarrollo del juego: C ++, C #
 - Aplicaciones de escritorio: Java, C ++, Python
 - Blockchain -cadenas de bloques- y Criptomonedas: C, C ++, Solidity, Python
@@ -162,7 +201,7 @@ Incluso si deseas formarte para la profesión que realizan los analistas y consu
 
 ## **¿Qué tecnologías y herramientas debo aprender?**
 
-Cada puesto de trabajo te exigira que conozcas ciertas herramientas, además de ser capaz de exprimirlas y usarlas lo máximo y mejor posible. Por lo que es totalmente imprescindible que seas conocer de ellas y de su uso hasta el último rincón.
+Cada puesto de trabajo te exigirá que conozcas ciertas herramientas, además de ser capaz de exprimirlas y usarlas lo máximo y mejor posible. Por lo que es totalmente imprescindible que seas conocer de ellas y de su uso hasta el último rincón.
 
 Posteriormente, vamos a realizar una pequeña revisión de las diferentes herramientas que más útiles te serán a la hora de realizar las tareas exigidas dentro de cada posición de trabajo o desarrollo y elaboración de las tareas requeridas por cada empresa.
 
@@ -196,7 +235,7 @@ Llegados ya a 2021 debemos de citar en este punto: WebAssambly.
 
 Hay numerosos lenguajes de programación que por una u otra razón, siguen usándose de forma máxima como pueden ser el caso de los lenguajes más "antiguos" que siguen en uso dentro de las empresas más importantes, puesto que o bien se considera que su uso favorece la seguridad o porque bien se considera que es demasiado complicado transformar toda la arquitectura ya existente a nuevos lenguajes.
 
-Además, hay otros lenguajes como por ejemplo C ++, C, Basic, Delphi, Objective C que siempre han sido utilizados en la creación de los Sistemas Operativos más importantes; como son Windows o Linux y por tanto su implementación es sumamente alta dentro de todos los software programados hasta la actualidad y por ello, siguen y seguirán durante un tiempo siendo utilizados a nivel empresarial.
+Además, hay otros lenguajes como por ejemplo C++, C, Basic, Delphi, Objective C que siempre han sido utilizados en la creación de los Sistemas Operativos más importantes; como son Windows o Linux y por tanto su implementación es sumamente alta dentro de todos los software programados hasta la actualidad y por ello, siguen y seguirán durante un tiempo siendo utilizados a nivel empresarial.
 
 Otros, son aún más utilizados a través de los navegadores por su masificación hasta ahora a través de los CMS más difundidos. Como pueden ser los casos de PHP gracias al gestor de contenidos: Wordpress y su afianzamiento a lo largo de los años; al igual que las bases de datos SQL que se han afianzado casi desde los inicios del nacimiento de los navegadores web y que se ha mostrado casi como herramienta indiscutible a la hora de realizar proyectos que manejen grandes cantidades de datos hasta la actualidad, y que además amenaza con seguir siendo importante en el futuro.
 
@@ -221,7 +260,7 @@ Una lista de algunos de estos lenguajes podría ser:
 
 [🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## **Otros Lenguajes Populares en 2020**
+## **Otros Lenguajes Populares en 2021**
 
 Existen además de los lenguajes que ya hemos visto con anterioridad otros muchos que están al alza o siguen siendo utilizados por diferentes y variopintas razones.
 
@@ -261,6 +300,161 @@ Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer má
 
 [🔝 Regresar al Menú de Cómo Aprender a Programar 2021](/programar/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Cómo aprender a programar código?'",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "10 Consejos o pasos que debes tener en cuenta a la hora de comenzar a aprender un lenguaje de programación. Entre otros, enfocarte en un único lenguaje o tecnología, reducir tus recursos, no te olvides del álgebra, etc."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿En qué campo de la informática puedo trabajar?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen, casi infinitos campos relacionados con la tecnología en la actualidad; pero tres de los campos que más futuro demuestran tener, son: El desarrollo móvil, el aprendizaje automático y profundo, y la inteligencia artificial."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué debo aprender si quiero comenzar con el machine learning?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El lenguaje en más auge que se relaciona con el aprendizaje automático en la actualidad, es el lenguaje de Python y su gran biblioteca: Tensorflow."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué debo aprender si quiero comenzar con el deap learning?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Si quieres profundizar en el campo del aprendizaje profundo y la inteligencia artificial, vas a tener que esforzarte mucho y durante mucho tiempo. Porque estos campos, suelen requerir, casi, un aprendizaje absoluto de una amplia gama de tecnologías."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué debo aprender si quiero comenzar en el mundo del desarrollo móvil?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El mundo del desarrollo móvil, ha crecido de forma espectacular a largo de los últimos años; y sigue haciéndolo cada día. Por eso, aprender a desarrollar para Android (Java, Flutter, Kotlin) o para Apple (Swift) e incluso, comenzar en alguno de los muchos frameworks multiplataforma que existen."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender en 2021?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sin lugar a dudas, los lenguajes de Python, R, Javascript, Rust, Dart o Swift Serán grandes elecciones, si lo que quieres es encontrar un puesto importante de cara al futuro. Si no, siempre puedes pensar en los más clásicos: Java, PHP, C, C#, etc."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender para el desarrollo web front-end?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Javascript. Además de centrarte en los lenguajes de marcado (HTML, XHTML, MArkdown), y CSS, y en otros añadidos sobre el diseño de la intefaz. UX / UI, interfaz y experiencia de usuario. O el prototipado."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender para el desarrollo web back-end?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "JavaScript, Java, Python, PHP o Ruby."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender si quiero centrarme en el desarrollo móvil?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Java, Swift, Flutter o C#."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender si quiero centrarme en la programación de juegos?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "C++, C#."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender si quiero centrarme en crear aplicaciones de escritorio?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Java, Javascript, C ++ o Python."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender si quiero centrarme en la programación blockchain?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "C, C ++, Solidity o Python."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguaje debería aprender si quiero centrarme en la creación de sistemas operativos?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "C o Rust."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué lenguajes de programación debería evitar en 2021?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Es demasiado completo responder a una pregunta así. Pues que aunque ciertos lenguajes, vayan usándose cada vez menos, la gran mayoría de veces ya existe una importante cantidad de código creado; y se seguirán necesitando programadores por muchos años, en casi todos los casos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué me recomendarías si quisiese iniciar una Startup?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Cada caso de uso, requiere un estudio previo y una adaptación a sus necesidad de las tecnologías a utilizar. Dicho esto, un enfoque rápido y que no conlleva una larga curva de aprendizaje, podría ser: Javascript, React y Ruby and Rails."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué puestos en relación a la tecnología existen?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Las profesionales digitales han existido desde hace ya mucho tiempo. Si bien, cada vez más, cada profesión se especializa más. Eso hace que se definan cada vez más los papeles de cada labor concreta.
+La lista sería demasiado larga.. Pero puedes encontrarla en Ciberninjas."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué tecnologías y herramientas debo aprender?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Cada puesto de trabajo te exigirá que conozcas ciertas herramientas, además de tener que ser capaz de exprimirlas y usarlas lo máximo y mejor posible."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los lenguajes imprescindibles de 2021?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sin lugar a dudas, Python, Rust, Javascript, C#, Swift, Kotlin, Go o WebAssambly. Son lenguajes que apuntan a un gran futuro."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los lenguajes de programación más clásicos?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los lenguajes como Cobol, C++, C, Basic, Delphi, Objective C, Visual Basic o SQL. Sin lugar a dudas, son lenguajes de programación, de los que existe aún tanta cantidad  de código que tardan mucho tiempo en desaparecer."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué otros lenguajes de programación alternativos existen de cara a 2021?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen nuevos o no tan nuevos lenguajes, que comienzan a seguir queridos o siguen siéndolo entre los programadores más expertos. Algunos de ellos son: TypeScrypt, Go, Rust, R, Haskell, Perl, Scala, Elixir o Erlang, entre otros muchos más."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los lenguajes estándar de los navegadores web?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los lenguajes creados bajo estándares que son capaces de ser reconocidos por los visualizadores de páginas de contenidos web. Esos lenguajes son: HTML y CSS. Además, podríamos incluir la tecnología del DOM enfocado hacía el uso aplicado de Javascript."
+    }
+  }]
+}
+</script>
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--x-large .align-center}

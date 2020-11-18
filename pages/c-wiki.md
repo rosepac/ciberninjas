@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 7
+order: 8
 title: "Wiki 🗄"
 description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
@@ -8,8 +8,44 @@ permalink: /wiki/
 canonical_URL: https://ciberninjas.com/wiki/
 published: true
 feature-img: /assets/img/paginas/wikininjas-test-1.jpg
-order: 3
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Libros Programación</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/guias/",
+    "name": "Guías gratis de Programación, Desarrollo y Tecnología"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/",
+     "name": "La Wikipedia Informática Tecnológica creada por Ciberninjas 2021"
+   }
+  }
+ ]
+}
+</script>
 
 **La Wikipedia de Wikininjas** incluye **artículos recientes sin traducción al español**, principalmente de **contenido relacionado con la informática**, **la programación** y **la tecnología**.
 
