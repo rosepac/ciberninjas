@@ -1,7 +1,7 @@
 ---
 
 layout: page
-order: 3
+order: 5
 title: "🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2021"
 description: "Los Mejores Libros PDF Gratuitos de Informática: Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
 excerpt: "Los Mejores Libros PDF Gratuitos de Informática: Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
@@ -26,6 +26,33 @@ tags: [Recursos Gratis, Libros Gratis, Libros Programación]
   </ol>
 </nav>
 </div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/",
+     "name": "Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2021"
+   }
+  }
+ ]
+}
+</script>
 
 Esta es **la mejor lista de libros de programación en PDF en español del mundo**. Una completa **biblioteca recopilada de cientos** y cientos de libros en PDF que no encontrarás en ninguna parte más. 
 
