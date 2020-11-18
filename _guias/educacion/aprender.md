@@ -148,6 +148,7 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 
 ## **Podcasts**
 
+- [**Los Mejores Podcasts de Tecnología en Español**](https://ciberninjas.com/podcasts-tecnologia/)
 - [**Hardcore History**](https://www.dancarlin.com/hardcore-history-series/){:target="_blank" rel="nofollow,noreferrer"}: Dan Carlin se sumerge profundamente en la historia. Y por profundo, quiero decir que cada podcast dura más de cuatro horas, pero será un tiempo bien empleado.
 - [**Filosofar esto!** ](https://philosophizethis.org/category/episode/){:target="_blank" rel="nofollow,noreferrer"}**:** Presentado por Stephen West, este podcast discute los pensadores e ideas que dan forma al mundo. Recomiendo comenzar en el episodio uno y avanzar.
 - [**StarTalk Radio Show**](https://www.startalkradio.net/){:target="_blank" rel="nofollow,noreferrer"}: aprenda de su astrofísico personal, Neil deGrasse Tyson, con la ayuda del comediante Chuck Nice.

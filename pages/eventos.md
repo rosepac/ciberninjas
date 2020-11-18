@@ -1,6 +1,5 @@
 ---
 layout: page
-hide: true
 order: 2
 title: "Agenda y Eventos de Programación y Tecnología 2020"
 description: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
@@ -71,7 +70,6 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 {: .notice--warning}
 
 <!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
-
 ### 🔔 17 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}

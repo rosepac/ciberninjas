@@ -1,6 +1,7 @@
 ---
 layout: page
 order: 8
+hide: true
 title: "Wiki 🗄"
 description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"

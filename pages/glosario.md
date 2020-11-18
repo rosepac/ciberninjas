@@ -1,6 +1,7 @@
 ---
 layout: page
 order: 9
+hide: true
 title: "Glosario 🔠"
 description: Lista de palabras del Diccionario Tecnológico y sus definiciones
 excerpt: "🔠 Diccionario Tecnológico de los Ciberninjas"

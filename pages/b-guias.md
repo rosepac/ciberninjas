@@ -21,6 +21,7 @@ canonical_URL: https://ciberninjas.com/guias/
   </ol>
 </nav>
 </div>
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
