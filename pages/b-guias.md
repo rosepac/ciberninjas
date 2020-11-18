@@ -43,6 +43,12 @@ canonical_URL: https://ciberninjas.com/guias/
 
 Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales.
 
+Las siguientes guías han sido elaboradas tras haber realizado un profundo rastreo y poda de contenidos encontrados a lo largo y ancho de la profunda selva de Internet y constan de una extensa introducción a la temática elegida, junto a una amplia lista de artículos útiles y en algunos casos, complementado junto a un extenso y rebuscado set de recursos y herramientas seleccionadas.
+
+{% include guias.html %}
+
+Las guías ciberninjas han sido creadas con el máximo cariño y espero de corazón, que sirvan para lograr aumentar los conocimientos de quién les de uso y así, poder ver brotar los nuevos brotes verdes de la primavera en su máximo esplendor.
+
 <div class ="portfolio-grid">
 <div class="portfolio-cell">
 <a class="portfolio-link" data-keyboard="true" href="/cronograma/">
@@ -76,13 +82,7 @@ Guías de brotes verdes con los que transmitir la información necesaria para ap
 </div>
 </div>
 
-Las siguientes guías han sido elaboradas tras haber realizado un profundo rastreo y poda de contenidos encontrados a lo largo y ancho de la profunda selva de Internet y constan de una extensa introducción a la temática elegida, junto a una amplia lista de artículos útiles y en algunos casos, complementado junto a un extenso y rebuscado set de recursos y herramientas seleccionadas.
-
-Las guías ciberninjas han sido creadas con el máximo cariño y espero de corazón, que sirvan para lograr aumentar los conocimientos de quién les de uso y así, poder ver brotar los nuevos brotes verdes de la primavera en su máximo esplendor.
-
-{% include guias.html %}
-
-Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cuidarlo. Solamente debes realizar [tu próxima compra en Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mis <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlaces de afiliado</a>.
+Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cuidarlo. Solamente debes realizar [tu próxima compra en Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon](https://amzn.to/3pI3doT){:target="_blank" rel="nofollow,noreferrer"} a través de mis <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlaces de afiliado</a>.
 
 <details>
 <summary>Saber Más</summary>

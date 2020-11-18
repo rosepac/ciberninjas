@@ -44,7 +44,7 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 
 Si eres nuevo/a en el campo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/ "Cómo aprender en academias online") por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad "Comunidad de Facebook en la que listo todos los recursos online"){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/ "Aprender a Programar con Ciberninjas").
 
-![Cómo APRENDER PROGRAMACIÓN desde Cero 2021](/assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp)
+[![Cómo APRENDER PROGRAMACIÓN desde Cero 2021](/assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp)](/programar/)
 
 A continuación tienes 3 de los más recursos gratuitos más grandes, dentro del mundo del desarrollo y la programación en español. Sin lugar a dudas, la mejor recopilación de cursos de programación gratis en español y la mejor biblioteca de libros PDF gratuitos y bajo licencias libres del mundo.
 

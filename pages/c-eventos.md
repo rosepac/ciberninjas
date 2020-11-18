@@ -1,7 +1,9 @@
 ---
 layout: page
 order: 2
-title: "Agenda y Eventos de Programación y Tecnología 2020"
+title: "Eventos 📆"
+seo:
+  name: "Agenda y Eventos de Programación y Tecnología 2020"
 description: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 excerpt: "Eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 permalink: /eventos/
@@ -43,7 +45,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 {: .notice--primary}
 
 <!-- ⏰ (:) 👇 https://www.eventbrite.com.ar/d/online/free--science-and-tech--events/?lang=es&page=1 , https://www.eventbrite.com.ar/d/online/free--classes/?lang=es&page=1 -->
-
+<!--- Titulo para SEO: Agenda y Eventos de Programación y Tecnología 2020 -->
 Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre puedes darme un empujón a que esto siga creciendo, teniendo en cuenta mis enlaces de afiliados, el día que deseas [realizar una compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o en [tu próxima compra de Amazon](https://amzn.to/3aTZb5X){:target="_blank" rel="nofollow, noreferrer"} o desde las listas de dispositivos [ofrecidas en nuestro catálogo de recomendaciones](https://ciberninjas.com/amazon/).
 {: .notice--warning}
 
