@@ -62,29 +62,8 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 
 ## **Agenda y Eventos tecnológicos de Noviembre**
 
-### 🔔 16 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- Más Mujeres en SEO 📢 [REGISTRO](https://www.eventbrite.com.ar/e/mas-mujeres-en-seo-3ra-edicion-tickets-127714327993?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La semana que viene llega la 3ra edición de Más Mujeres en <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a>, y te presentamos a las speakers confirmadas 🙌<br><br>📆 Del 16 al 20 de Noviembre<br>⏰ 11am AR- CL / 8am MX / 9am EC-PE-CO / 15pm ES<br>📝 Inscribite sin costo: <a href="https://t.co/fDNolY7ivW">https://t.co/fDNolY7ivW</a> <a href="https://t.co/D1XpvvBcXb">pic.twitter.com/D1XpvvBcXb</a></p>&mdash; Punto Rojo! (@PuntoRojoM) <a href="https://twitter.com/PuntoRojoM/status/1326932814307143682?ref_src=twsrc%5Etfw">November 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
-
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
-
-<!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
-### 🔔 17 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
-
-### 🔔 18 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
-- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
 
 ### 🔔 19 de Noviembre  <!-- omit in toc -->
 
@@ -92,6 +71,9 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 - [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
 - [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
 
+<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+
+<!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
 ### 🔔 20 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
@@ -1038,3 +1020,21 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 11 de Noviembre  <!-- omit in toc -->
 
 - Webinar Desarrollo en la nube: De contenedores a OpenShift: [MÁS INFORMACIÓN Y REGISTRO](https://www.eventbrite.es/e/entradas-webinar-desarrollo-en-la-nube-de-contenedores-a-openshift-122566962083?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 16 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- Más Mujeres en SEO 📢 [REGISTRO](https://www.eventbrite.com.ar/e/mas-mujeres-en-seo-3ra-edicion-tickets-127714327993?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La semana que viene llega la 3ra edición de Más Mujeres en <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a>, y te presentamos a las speakers confirmadas 🙌<br><br>📆 Del 16 al 20 de Noviembre<br>⏰ 11am AR- CL / 8am MX / 9am EC-PE-CO / 15pm ES<br>📝 Inscribite sin costo: <a href="https://t.co/fDNolY7ivW">https://t.co/fDNolY7ivW</a> <a href="https://t.co/D1XpvvBcXb">pic.twitter.com/D1XpvvBcXb</a></p>&mdash; Punto Rojo! (@PuntoRojoM) <a href="https://twitter.com/PuntoRojoM/status/1326932814307143682?ref_src=twsrc%5Etfw">November 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 🔔 17 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
+
+### 🔔 18 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
+- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
