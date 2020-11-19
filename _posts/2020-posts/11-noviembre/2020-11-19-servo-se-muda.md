@@ -23,11 +23,13 @@ published: true
 
 El Proyecto de servo se complace en anunciar que ha encontrado un nuevo hogar con la Fundación Linux. Servo se incubó dentro de Mozilla y sirvió como prueba de que componentes web importantes como CSS y el renderizado podían implementarse en Rust, con toda su seguridad, concurrencia y velocidad. ¡Ahora es el momento de que Servo deje el nido!
 
-Este movimiento viene con un cambio en la gobernanza del proyecto: el Proyecto Servo obtiene una junta y un comité directivo técnico para ayudar a guiar el futuro del proyecto (consulte github.com/servo/project/ para obtener más detalles).
+Este movimiento viene con un cambio en la gobernanza del proyecto: El Proyecto Servo obtiene una junta y un comité directivo técnico para ayudar a guiar el futuro del proyecto (consulte github.com/servo/project/ para obtener más detalles).
 
 Los objetivos de alto nivel de Servo se mantienen sin cambios: proporcionar un motor de renderizado seguro y de alto rendimiento para incrustar en otras aplicaciones. Es responsabilidad del comité directivo técnico proporcionar la dirección para estos objetivos y permitir que la comunidad Servo en general haga contribuciones significativas que avancen en esta misión.
 
-Como resultado de estos cambios, ahora es más fácil que nunca contribuir al futuro de Servo. Ya sea escribiendo código o documentación , probando nightlies y archivando problemas, o haciendo una donación para ayudar a cubrir los nuevos CI del proyecto y los costos de alojamiento, todo ayuda. Si conoce una empresa que le gustaría apoyar el Proyecto Servo, por favor póngase en contacto, ya que estaremos implementando un programa formal de membresía para apoyar el futuro del proyecto.
+Como resultado de estos cambios, ahora es más fácil que nunca contribuir al futuro de Servo. Ya sea escribiendo código o documentación, probando nightlies y archivando problemas, o haciendo una donación para ayudar a cubrir los nuevos CI del proyecto y los costos de alojamiento, todo ayuda.
+
+Si conoce una empresa que le gustaría apoyar el Proyecto Servo, por favor póngase en contacto, ya que estaremos implementando un programa formal de membresía para apoyar el futuro del proyecto.
 
 También tenemos un nuevo hogar para discusiones, ayuda y conversación general, en el Servo Zulip . ¡Esperamos verte allí y esperamos construir el futuro de los motores de renderizado web integrables contigo en nuestro nuevo hogar!
 
