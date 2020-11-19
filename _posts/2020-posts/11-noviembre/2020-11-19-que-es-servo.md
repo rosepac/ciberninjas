@@ -5,7 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Actualidad
-- Servo
+- Rust
 thumbnail: /assets/img/2020/servo-linux.webp
 feature-img: /assets/img/2020/servo-linux.webp
 title: '▷ ¿Qué es Servo?'

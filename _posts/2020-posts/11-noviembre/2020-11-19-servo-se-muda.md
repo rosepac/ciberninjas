@@ -5,7 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Actualidad
-- Servo
+- Rust
 thumbnail: /assets/img/2020/servo-linux.webp
 feature-img: /assets/img/2020/servo-linux.webp
 title: '▷ El nuevo hogar de Servo'
@@ -21,7 +21,7 @@ published: true
 
 ---
 
-El Proyecto de servo se complace en anunciar que ha encontrado un nuevo hogar con la Fundación Linux. Servo se incubó dentro de Mozilla y sirvió como prueba de que componentes web importantes como CSS y el renderizado podían implementarse en Rust, con toda su seguridad, concurrencia y velocidad. ¡Ahora es el momento de que Servo deje el nido!
+El Proyecto de Servo se complace en anunciar que ha encontrado un nuevo hogar con la Fundación Linux. Servo se incubó dentro de Mozilla y sirvió como prueba de que componentes web importantes como CSS y el renderizado podían implementarse en Rust, con toda su seguridad, concurrencia y velocidad. ¡Ahora es el momento de que Servo deje el nido!
 
 Este movimiento viene con un cambio en la gobernanza del proyecto: El Proyecto Servo obtiene una junta y un comité directivo técnico para ayudar a guiar el futuro del proyecto (consulte github.com/servo/project/ para obtener más detalles).
 
