@@ -121,6 +121,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 - [Aprender Flutter](/como-aprender-flutter/){:target="_blank"}
 - [Aprender Git y Github](/github-git-recursos/){:target="_blank"}
 - [Aprender Inteligencia Artificial](/inteligencia-artificial/){:target="_blank"}
+- [Aprender Java](/java/){:target="_blank"}
 - [Aprender Javascript](/javascript/){:target="_blank"}
 - [Aprender Posicionamiento y SEO](/posicionamiento-web-seo/){:target="_blank"}
 - [Aprender Python](/python/){:target="_blank"}
