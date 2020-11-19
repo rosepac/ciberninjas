@@ -9,6 +9,34 @@ canonical_URL: https://ciberninjas.com/amazon/
 published: true
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Tienda Ciberninjas</li>
+  </ol>
+</nav>
+</div>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/amazon/",
+    "name": "Tienda Ciberninjas"
+    }
+  }
+ ]
+}
+</script>
+
 El Black Friday a comenzado anticipadamente, y pronto se conocerá **las mejores ofertas y chollos del Black Friday 2020**.
 
 A continuación tienes algunos de los mejores y más esperados productos que puedes conocer y agregar a tu lista de favoritos.

@@ -1,7 +1,6 @@
 ---
 layout: tags
-title: Etiquetas
+title: "Etiquetas 🗂"
 permalink: /etiqueta/
 order: 11
-icon: "fa-tags"
 ---
