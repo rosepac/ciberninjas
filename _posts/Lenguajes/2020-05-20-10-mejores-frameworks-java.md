@@ -41,7 +41,7 @@ published: true
 
 ---
 
-Si recién comienzas a programar con Java, puedes oje [la guía para principiantes sobre Java](/java/ "La mejor guía del mundo para principiantes de Java") que te guiará a través de **todos los conceptos más importantes de Java** que necesitas conocer, si pronto quierse comenzar a utilizar cualquier de los frameworks Java.
+Si recién comienzas a programar con Java, puedes oje [la guía para principiantes sobre Java](/java/ "La mejor guía del mundo para principiantes de Java") que te guiará a través de **todos los conceptos más importantes de Java** que necesitas conocer, si pronto quieres comenzar a utilizar cualquier de los frameworks Java.
 
 Java es un lenguaje robusto y **combinado con un framework Java, puede proporcionar las mejores soluciones para cualquier campo tecnológico**, ya bien sea; un comercio electrónico, la computación en la nube, el mundo de las finanzas, el big data, el mercado de valores, las TI o cualquier otro.
 
@@ -95,7 +95,7 @@ Con todo configurado, su código será limpio y fácil de comprender.
 
 - Inyección de dependencia (DI) (Inversión de control): en este principio, en lugar de que la aplicación tome el control del flujo secuencialmente, le da el control a un controlador externo que controla el flujo. El controlador externo son los eventos. Cuando ocurre algún evento, el flujo de la aplicación continúa. Esto le da flexibilidad a la aplicación. En Spring, IoC se realiza mediante DI, que son de tres tipos: inyección de setter, inyección de método e inyección de constructor.
 - Beans y Spring Context: en Spring, los objetos se denominan beans y hay un BeanFactory que gestiona y configura estos beans. Puedes pensar en beanfactory como un contenedor que crea instancias, configura y administra las beans. La mayoría de las aplicaciones usan xml (beans.xml) para la configuración. ApplicationContext, que utiliza un superconjunto de BeanFactory para aplicaciones más complejas que necesitan propagación de eventos, mecanismos declarativos e integración con características orientadas a aspectos de Spring.
-- Puedes leer sobre algunos [conceptos](https://ashismo.github.io/java-java/j2ee popular topics/2015/05/22/Important-Concepts-of-the-Spring-Framework){:target="_blank" rel="nofollow noreferrer"} más importantes de [Spring](https://ashismo.github.io/java-java/j2ee popular topics/2015/05/22/Important-Concepts-of-the-Spring-Framework){:target="_blank" rel="nofollow noreferrer"}.
+- Puedes leer sobre algunos conceptos] más importantes de Spring.
 
 [💻 Framework Spring](https://spring.io/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [📑 Documentación Spring Framework](https://docs.spring.io/spring/docs/current/spring-framework-reference/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
