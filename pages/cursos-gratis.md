@@ -76,7 +76,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 - [**Cursos gratis de Bases de Datos 📁**](#cursos-gratis-de-bases-de-datos-)
 - [**Cursos gratis de Big Data 👨‍👩‍👦**](#cursos-gratis-de-big-data-)
 - [**Cursos gratis de Machine Learning**](#cursos-gratis-de-machine-learning)
-- [**Cursos gratis de  Criptomonedas y Cadenas de Bloques ⛓**](#cursos-gratis-de--criptomonedas-y-cadenas-de-bloques-)
+- [**Cursos gratis de Criptomonedas y Cadenas de Bloques ⛓**](#cursos-gratis-de-criptomonedas-y-cadenas-de-bloques-)
 - [**Cursos gratis de Ciencias de la Computación 🔬**](#cursos-gratis-de-ciencias-de-la-computación-)
 - [**Cursos gratis de Comercio Electrónico**](#cursos-gratis-de-comercio-electrónico)
 - [**Cursos gratis de Desarrollo Web**](#cursos-gratis-de-desarrollo-web)
@@ -169,7 +169,7 @@ Si no sabes qué es SQL y por qué deberías aprenderlo, vamos a ver [una breve 
 
 [👉 Ir a de Machine Learning](https://ciberninjas.com/cursos-machine-y-deep-learning/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-## **Cursos gratis de  Criptomonedas y Cadenas de Bloques ⛓**
+## **Cursos gratis de Criptomonedas y Cadenas de Bloques ⛓**
 
 [👉 Ir a los Cursos Gratis de Criptomonedas y Blockchain](https://ciberninjas.com/cursos-blockchain-criptos/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
