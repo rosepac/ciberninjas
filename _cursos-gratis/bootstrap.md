@@ -101,23 +101,27 @@ Bootstrap Grid System es un sistema receptivo, primero móvil que escala hasta 1
 
 Para establecer la coherencia entre navegadores, Bootstrap utiliza Normalize. Es un pequeño archivo CSS capaz de ofrecer una mejor coherencia entre navegadores en el estilo predeterminado de los elementos HTML. Además, Normalize.css es una alternativa moderna y lista para HTML5 a los restablecimientos de CSS .
 
-#3 ¿Puede enumerar las diversas listas compatibles con Bootstrap?
-Respuesta : A continuación se muestran los tres tipos de listas compatibles con Bootstrap:
+## **¿Qué listas se pueden crear con Bootstrap?**
 
-Listas de definición: este tipo de lista permite que cada elemento de la lista tenga los elementos <dt> y <dd>. El <dt> denota término de definición, que es el término o frase que se define. El elemento <dd> contiene la definición del elemento <dt>.
-Listas ordenadas: este tipo de lista sigue algún tipo de orden secuencial. Además, está precedido por números.
-Listas desordenadas : tradicionalmente diseñadas con viñetas, una lista desordenada no sigue ningún orden en particular. El uso de la clase .list-unstyled permite eliminar el estilo de las viñetas de la lista desordenada. Para colocar todos los elementos de la lista en una sola línea, se puede utilizar la clase .list-inline.
-Pregunta:  ¿Qué quiere decir con glifos? ¿Cómo los usas?
-Respuesta : Los glifos son fuentes de iconos que se utilizan en proyectos web. Aunque los Glyphicons Halflings no son gratuitos y requieren licencia en general, están disponibles sin costo para proyectos Bootstrap. Agregue el siguiente código en cualquier lugar donde desee usar los Glyphicons:
+A continuación se muestran los tres tipos de listas compatibles con Bootstrap:
 
-<span class  = "glyphicon glyphicon-search"> </ span >
-Nota : - Para un relleno adecuado, se recomienda dejar un espacio entre el icono y el texto.
+1. Listas de definición: este tipo de lista permite que cada elemento de la lista tenga los elementos <dt> y <dd>. El <dt> denota término de definición, que es el término o frase que se define. El elemento <dd> contiene la definición del elemento <dt>.
+2. Listas ordenadas: este tipo de lista sigue algún tipo de orden secuencial. Además, está precedido por números.
+3. Listas desordenadas : tradicionalmente diseñadas con viñetas, una lista desordenada no sigue ningún orden en particular. El uso de la clase .list-unstyled permite eliminar el estilo de las viñetas de la lista desordenada. Para colocar todos los elementos de la lista en una sola línea, se puede utilizar la clase .list-inline.
 
-Pregunta:  ¿Podría explicar cómo usar el complemento desplegable en Bootstrap?
-Respuesta : Hay tres formas de alternar el contenido oculto del complemento desplegable en Bootstrap:
+## **¿Qué son los glifos? ¿Cómo se usan?**
 
-Con atributos de datos : agregue data-toggle = "desplegable" a algún botón o vínculo para alternar un menú desplegable. Por ejemplo,
+Los glifos son fuentes de iconos que se utilizan en proyectos web. Aunque los Glyphicons Halflings no son gratuitos y requieren licencia en general, están disponibles sin costo para los proyectos de Bootstrap.
+
+Actualmente, Bootstrap [ha creado su propia fuente de iconos](https://ciberninjas.com/bootstrap-iconos-version-1/), totalmente gratuita.
+
+## **¿Podría explicar cómo usar el complemento desplegable en Bootstrap?**
+
+Hay tres formas de alternar el contenido oculto del complemento desplegable en Bootstrap:
+
+Con atributos de datos : agregando el atributo `data-toggle="desplegable"` a algún botón o vínculo para alternar el menú desplegable. Por ejemplo,
 <div clase  = "desplegable" >
+
  < una  técnica de palanca = "desplegable"  href = "#" > desplegable de disparo </ a > 
 < ul  clase = "menú desplegable,"  función = "menú"  aria-labelledby = "dlabel" >
 ...

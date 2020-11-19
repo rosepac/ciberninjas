@@ -18,7 +18,6 @@ img: "/assets/img/paginas-cursos/cursos-accesibilidad-web.webp"
 
 ---
 
-
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",

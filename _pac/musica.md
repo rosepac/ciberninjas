@@ -32,7 +32,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 - [**Mejores Canciones de Navidad 🎄🎅**](#mejores-canciones-de-navidad-)
 - [**🤘 Rock Roll / Heavy**](#-rock-roll--heavy)
 - [**🎸 Rock & Roll Clásico / Extranjero (en inglés)**](#-rock--roll-clásico--extranjero-en-inglés)
-  - [Mi Lista de las Mejores Canciones del Rock Callejero{:target="_blank" rel="nofollow,noreferrer"}](#mi-lista-de-las-mejores-canciones-del-rock-callejerotarget_blank-relnofollownoreferrer)
+  - [Mi Lista de las Mejores Canciones del Rock Callejero](#mi-lista-de-las-mejores-canciones-del-rock-callejero)
 - [**🎸 Rock Pop en Español**](#-rock-pop-en-español)
 - [**📀 Los Mejores Discos del Rock Pop**](#-los-mejores-discos-del-rock-pop)
   - [**M-Clan: Sin Enchufe**](#m-clan-sin-enchufe)
@@ -86,6 +86,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 ## **🤘 Rock Roll / Heavy**
 
+<br />
 <div class="accordion" id="acordrock">
     <div class="card">
         <div class="card-header" id="rrOne">
@@ -172,9 +173,11 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
         </div>
     </div>
 </div>
+<br />
 
 ## **🎸 Rock & Roll Clásico / Extranjero (en inglés)**
 
+<br />
 <div class="accordion" id="acordrock">
     <div class="card">
         <div class="card-header" id="rrOne">
@@ -261,14 +264,17 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
         </div>
     </div>
 </div>
-
+<br />
 <!-- 194 canciones del rock del mejor rock alternativo (-faltante-) -->
 > 👷‍♂️ FALTANTES POR AÑADIR + 👷‍♂️**Crossover clásico**: 26 nuevas canciones.?.
 
-### [Mi Lista de las Mejores Canciones del Rock Callejero](https://listas.20minutos.es/lista/mejores-canciones-del-rock-en-espanol-395047/){:target="_blank" rel="nofollow,noreferrer"}
+### Mi Lista de las Mejores Canciones del Rock Callejero
+
+[Listas de 20 Minutos](https://listas.20minutos.es/lista/mejores-canciones-del-rock-en-espanol-395047/){:target="_blank" rel="nofollow,noreferrer"} (En una época de Internet, esto era una moda.. Aunque no te lo creas +) 😹
 
 ## **🎸 Rock Pop en Español**
 
+<br />
 <div class="accordion" id="accordionExample">
     <div class="card">
         <div class="card-header" id="rpOne">
@@ -315,6 +321,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
         </div>
     </div>
 </div>
+<br />
 
 ## **📀 Los Mejores Discos del Rock Pop**
 
@@ -510,6 +517,7 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 
 ## **🤸‍♀️ Power Comercial**
 
+<br />
 <div class="accordion" id="acordPowerComercial">
     <div class="card">
         <div class="card-header" id="pcOne">
@@ -569,8 +577,11 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
     </div>
 </div>
 
+<br />
+
 ## **💲 Full Comercial**
 
+<br />
 <div class="accordion" id="acordFullComercial">
     <div class="card">
         <div class="card-header" id="fcOne">

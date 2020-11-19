@@ -71,11 +71,11 @@ img: "/assets/img/paginas-cursos/cursos-big-data.webp"
 
 ## **Los Mejores Cursos Gratis de Big Data**
 
-- [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
-- [Big Data Sin Misterios](https://www.edx.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
-- [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
+1. [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
+1. [Big Data Sin Misterios](https://www.edx.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
+1. [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank" rel="nofollow,noreferrer"} (Alberto Prieto Espinosa, YouTube)
 
 [⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 

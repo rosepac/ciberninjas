@@ -77,39 +77,39 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 
 ## **Los Mejores Cursos Gratis de Cadena de Bloques 🔗**
 
-- [Blockchain Básico para Periodistas](https://www.tutellus.com/tecnologia/blockchain/blockchain-basico-para-periodistas-18631){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Blockchain Demo Day: Proyectos 2019](https://www.tutellus.com/tecnologia/blockchain/blockchain-demo-day-abril-2019-24449){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Blockchain: Conceptos básicos y Ampliación sobre Ethereum](https://www.tutellus.com/tecnologia/blockchain/blockchain-conceptos-basicos-y-ampliacion-sobre-ethereum-18512){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Blockchain: Modelos de Negocio y Criptoeconomía](https://www.tutellus.com/tecnologia/blockchain/blockchain-modelos-de-negocio-e-introduccion-a-la-criptoeconomia-17326){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Blockchain en el sector turístico](https://www.unimooc.com/cursos/blockchain-sector-turistico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (UniMOOC, Instituto de Economía Internacional de la Universidad de Alicante)
-- [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
-- [Hyperledger: Marco de Blockchain para el negocio](https://www.tutellus.com/tecnologia/blockchain/hyperledger-marco-blockchain-para-el-negocio-19752){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [ICO´s, Smart Contracts y Tokens en el universo Blockchain](https://www.tutellus.com/tecnologia/blockchain/icos-smart-contracts-y-tokens-en-el-universo-blockchain-17531){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Inteligencia Artificial y Blockchain: Conceptos Básicos](https://www.tutellus.com/tecnologia/blockchain/inteligencia-artificial-y-blockchain-conceptos-basicos-24161){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Introducción a la Identidad Digital con Blockchain](https://www.tutellus.com/tecnologia/blockchain/introduccion-a-la-identidad-digital-con-blockchain-23247){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [La Disrupción del Blockchain](https://www.coursera.org/learn/blockchain-espanol){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
-- [Lightning Network: Cómo funciona y cómo instalar un nodo LN](https://www.tutellus.com/tecnologia/blockchain/lightning-network-como-funciona-y-como-instalar-un-nodo-ln-23692){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Qué es y Cómo usar la Blockchain de NEM](https://www.tutellus.com/tecnologia/blockchain/que-es-y-como-usar-la-blockchain-de-nem-22720){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Blockchain Básico para Periodistas](https://www.tutellus.com/tecnologia/blockchain/blockchain-basico-para-periodistas-18631){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Blockchain Demo Day: Proyectos 2019](https://www.tutellus.com/tecnologia/blockchain/blockchain-demo-day-abril-2019-24449){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Blockchain: Conceptos básicos y Ampliación sobre Ethereum](https://www.tutellus.com/tecnologia/blockchain/blockchain-conceptos-basicos-y-ampliacion-sobre-ethereum-18512){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Blockchain: Modelos de Negocio y Criptoeconomía](https://www.tutellus.com/tecnologia/blockchain/blockchain-modelos-de-negocio-e-introduccion-a-la-criptoeconomia-17326){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Blockchain en el sector turístico](https://www.unimooc.com/cursos/blockchain-sector-turistico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (UniMOOC, Instituto de Economía Internacional de la Universidad de Alicante)
+1. [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
+1. [Hyperledger: Marco de Blockchain para el negocio](https://www.tutellus.com/tecnologia/blockchain/hyperledger-marco-blockchain-para-el-negocio-19752){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [ICO´s, Smart Contracts y Tokens en el universo Blockchain](https://www.tutellus.com/tecnologia/blockchain/icos-smart-contracts-y-tokens-en-el-universo-blockchain-17531){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Inteligencia Artificial y Blockchain: Conceptos Básicos](https://www.tutellus.com/tecnologia/blockchain/inteligencia-artificial-y-blockchain-conceptos-basicos-24161){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Introducción a la Identidad Digital con Blockchain](https://www.tutellus.com/tecnologia/blockchain/introduccion-a-la-identidad-digital-con-blockchain-23247){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [La Disrupción del Blockchain](https://www.coursera.org/learn/blockchain-espanol){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
+1. [Lightning Network: Cómo funciona y cómo instalar un nodo LN](https://www.tutellus.com/tecnologia/blockchain/lightning-network-como-funciona-y-como-instalar-un-nodo-ln-23692){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Qué es y Cómo usar la Blockchain de NEM](https://www.tutellus.com/tecnologia/blockchain/que-es-y-como-usar-la-blockchain-de-nem-22720){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 
 ## **Los Mejores Cursos Gratis de Criptomonedas 💰**
 
 ### **Los Mejores Cursos Gratis de Bitcoin**
 
-- [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (OCW) (UniMOOC, Instituto de Economía Internacional de la Universidad de Alicante)
-- [Bitcoin Construye un imperio minando en la nube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbitcoin-construye-un-imperio-minando-en-la-nube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
-- [Cursos Bitcoin y Trading de Criptomonedas](https://www.tutellus.com/tecnologia/blockchain/curso-bitcoin-y-trading-criptomonedas-20610){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (OCW) (UniMOOC, Instituto de Economía Internacional de la Universidad de Alicante)
+1. [Bitcoin Construye un imperio minando en la nube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbitcoin-construye-un-imperio-minando-en-la-nube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Cursos Bitcoin y Trading de Criptomonedas](https://www.tutellus.com/tecnologia/blockchain/curso-bitcoin-y-trading-criptomonedas-20610){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 
 ### **Los Mejores Cursos Gratis de Dash**
 
-- [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
+1. [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 
 ### **Los Mejores Cursos Gratis de Trading**
 
-- [Curso básico de trading](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwisetradingacademy%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Curso de trading y bolsa desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-trading-y-bolsa-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Trading Forex para principiantes - Estrategias Clave](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Festrategias-trading-forex-y-operaciones-bursatiles%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Curso básico de trading](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwisetradingacademy%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Curso de trading y bolsa desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-trading-y-bolsa-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Trading Forex para principiantes - Estrategias Clave](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Festrategias-trading-forex-y-operaciones-bursatiles%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
