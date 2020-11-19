@@ -12,6 +12,7 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/categoria/cambio-tecnologico/
+canonical_URL: https://ciberninjas.com/wiki/categoria/cambio-tecnologico/
 feature-img: /assets/img/wiki/categorias/categoria-cambio-tecnologico.webp
 img: /assets/img/wiki/categorias/categoria-cambio-tecnologico.webp
 ---

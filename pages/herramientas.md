@@ -80,7 +80,7 @@ Lightshot y ShareX, son con casi toda la seguridad, la mejor herramienta de capt
 ## Listas & Recordatorios
 
 * [Microsoft TO-DO](https://todo.microsoft.com/tasks/){:target="_blank" rel="nofollow,noreferrer"}: Esta nuva herramienta, nace tras la venta de Wunderlist (siempre ha sido mi aplicación TODO favorita) a Microsoft.
-* 
+
 * En la actualidad Wunderlist, ha dejado de ser continuada. Por tanto, si lo que requieres realizar un control semanal y constante de tareas y utilizas Windows, sin lugar a dudas Microsoft TOOD es una gran opción. Gracias a presentar una muy buena adaptación visual sobre la interfaz de Windows, además, del impulso por buscar la sincronización de la misma junto al uso del Sistema Operativo Windows 10.
 
 ## Relajación

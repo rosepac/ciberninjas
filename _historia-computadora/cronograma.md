@@ -1,8 +1,9 @@
 ---
 author: rosepac
+order: 7
 bootstrap: true
 layout: post
-title: '🥇 ▷ La Historia de los Ordenadores'
+title: '🥇 ▷ Cronograma de la Historia de la Computadora'
 description: 'Los acontecimientos tecnológicos más importantes del Siglo XX. La computación, la telefonía, y las ciencias electrónicas'
 excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
 date: 2020-04-21
@@ -39,7 +40,7 @@ Vamos a realizar un repaso completo, paso a paso, por la evolución de los orden
   - [👩‍💻 1945 - Plankalkül (Cálculo del Plan)](#-1945---plankalkül-cálculo-del-plan)
   - [📞 1945 - Concepto "Memex"](#-1945---concepto-memex)
   - [👨‍❤️‍💋‍👨 1945 - Primer caso de ERROR real encontrado](#️-1945---primer-caso-de-error-real-encontrado)
-  - [💻 1944 - Primer coloso operativo en Bletchley Park](#-1944---primer-coloso-operativo-en-bletchley-park)
+  - [💻 1944 - Primer Colossus operativo en Bletchley Park](#-1944---primer-colossus-operativo-en-bletchley-park)
   - [💻 1944 - Harvard Mark 1 se completa](#-1944---harvard-mark-1-se-completa)
   - [🤖 1943 - * Un cálculo lógico de las ideas inmanentes en la actividad nerviosa *](#-1943----un-cálculo-lógico-de-las-ideas-inmanentes-en-la-actividad-nerviosa-)
   - [💻 1943 - Se completa el interpolador de relés de Bell Labs](#-1943---se-completa-el-interpolador-de-relés-de-bell-labs)
@@ -315,11 +316,11 @@ Hopper ayudó a programar el Mark II y la computadora anterior Harvard Mark I, m
 
 [⬆ REGRESAR AL MENÚ ⬆](/cronograma/#menu "Regresar al Inicio del Cronograma"){: .btn .btn-outline-info .btn-lg .btn-block}
 
-### 💻 1944 - Primer coloso operativo en Bletchley Park
+### 💻 1944 - Primer Colossus operativo en Bletchley Park
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1944.colossus.jpg" title="El coloso en el trabajo en Bletchley Park" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1944.colossus.jpg" alt="El coloso en el trabajo en Bletchley Park"></a>
-    <figcaption>El coloso en el trabajo en Bletchley Park | Visto en Ciberninjas</figcaption>
+    <a href="/assets/img/paginas-historia/colossus.webp" title="El coloso en el trabajo en Bletchley Park" class="image-popup"><img src="/assets/img/paginas-historia/colossus.webp" alt="El coloso en el trabajo en Bletchley Park"></a>
+    <figcaption>En el trabajo del Colossus en el Bletchley Park | Visto en Ciberninjas</figcaption>
 </figure>
 
 Diseñado por el ingeniero británico Tommy Flowers, el Coloso está diseñado para romper las complejas cifras de Lorenz utilizadas por los nazis durante la Segunda Guerra Mundial. Se entregaron un total de diez colosos, cada uno utilizando hasta 2.500 tubos de vacío. Una serie de poleas transportaba rollos continuos de cinta de papel perforada que contenía posibles soluciones a un código particular.

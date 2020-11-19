@@ -10,8 +10,6 @@ last_modified_at: 2019-10-04T20:40:42-05:00
 
 ---
 
-## Reflexión 
-
 La **masificación de la información** a lo largo de los últimos 10/12 años ha sido tal, que pensando a lo largo de mi mente en la sobre-saturación de noticias, pensamientos, ideas, notificaciones, etc. **me hacen sentirme personalmente desbordado**.
 
 Por tanto. **He concluido**, que la mejor opción era intentar **crear un lugar** desde el que poder acceder a **tanta información** sin la sobre dimensión de escritura y publicidad que ofrecen todas las aplicaciones y páginas web hoy en día.

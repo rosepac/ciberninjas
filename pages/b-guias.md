@@ -7,8 +7,8 @@ title: "Guías 📓"
 feature-img: /assets/img/paginas/guias-tecnologia.webp
 thumbnail: /assets/img/paginas/guias-tecnologia.webp
 img: /assets/img/paginas/guias-tecnologia.webp
-description: "Guías gratis de tecnología sobre tecnologías de programación de campos temáticos relacionados a las profesiones digitales."
-excerpt: "Guías gratis de tecnología sobre tecnologías de programación de campos temáticos relacionados a las profesiones digitales."
+description: "Guías gratis de tecnología sobre programación de campos temáticos relacionados a las profesiones digitales."
+excerpt: "Guías gratis de tecnología sobre programación de campos temáticos relacionados a las profesiones digitales."
 permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
 ---

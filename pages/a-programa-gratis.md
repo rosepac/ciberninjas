@@ -1,7 +1,6 @@
 ---
 
 layout: page
-author: rosepac
 bootstrap: true
 order: 1
 title: "Programar Gratis 👨‍💻"
@@ -44,58 +43,69 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 
 Si eres nuevo/a en el campo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/ "Cómo aprender en academias online") por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad "Comunidad de Facebook en la que listo todos los recursos online"){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/ "Aprender a Programar con Ciberninjas").
 
+[📢 Ve Direct@ a los Recursos ⬇ o Sigue Leyendo 😎](/programa-gratis/#menu){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}{: .btn .btn-primary .btn-lg .btn-block}
+
 [![Cómo APRENDER PROGRAMACIÓN desde Cero 2021](/assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp)](/programar/)
 
-A continuación tienes 3 de los más recursos gratuitos más grandes, dentro del mundo del desarrollo y la programación en español. Sin lugar a dudas, la mejor recopilación de cursos de programación gratis en español y la mejor biblioteca de libros PDF gratuitos y bajo licencias libres del mundo.
+Por ahora, te dejo aquí, tres de los mejores y más grandes recursos gratuitos más de Internet, con los que poder introducirte en el mundo del desarrollo y la programación. Totalmente en español.
 
-Conjunto a estos dos grandes repositorios, vas a encontrar una recopilación de guías y artículos de iniciación. Las guías basadas en diferentes software o herramientas y los artículos centrados en la traducción de contenidos de iniciación sobre diferentes lenguajes de programación, frameworks multiplataforma u otros.
+Sin lugar a dudas, la mejor recopilación de cursos de programación gratis en español y la mejor biblioteca de libros PDF gratis y bajo licencias libres del mundo.
 
-<div class ="portfolio-grid">
-<div class="portfolio-cell">
-<a class="portfolio-link" data-keyboard="true" href="/cursos-tecnologia/">
-<div class="caption" title="🥇 ▷ Los Mejores Cursos GRATIS de Programación Online en español 2020">
-<div class="caption-content">
-<i class="fa fa-search-plus fa-3x"></i>
-</div>
-</div>
-<img alt="Los Mejores Cursos GRATIS de Programación Online en español 2020" class="" src="/assets/img/paginas/cursos-tecnologia-cn.webp">
-</a>
-</div>
-<div class="portfolio-cell">
-<a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
-<div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2021">
-<div class="caption-content">
-<i class="fa fa-search-plus fa-3x"></i>
-</div>
-</div>
-<img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
-</a>
-</div>
-<div class="portfolio-cell">
-<a class="portfolio-link" data-keyboard="true" href="/guias/">
-<div class="caption" title="🥇 ▷ Las Mejores GUÍAS de Tecnología creadas por Ciberninjas 2020">
-<div class="caption-content">
-<i class="fa fa-search-plus fa-3x"></i>
-</div>
-</div>
-<img alt="" class="" src="/assets/img/paginas/guias-tecnologia.webp">
-</a>
-</div>
+<div class="portfolio-grid">
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/cursos-tecnologia/">
+            <div class="caption" title="🥇 ▷ Los Mejores Cursos GRATIS de Programación Online en español 2020">
+                <div class="caption-content">
+                    <i class="fa fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="Los Mejores Cursos GRATIS de Programación Online en español 2020" class="" src="/assets/img/paginas/cursos-tecnologia-cn.webp">
+        </a>
+    </div>
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/biblioteca-de-programacion-y-tecnologia/">
+            <div class="caption" title="🥇 ▷ Los Mejores LIBROS de PROGRAMACIÓN gratis PDF 2021">
+                <div class="caption-content">
+                    <i class="fa fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/paginas-libros/biblioteca-libros.webp">
+        </a>
+    </div>
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/guias/">
+            <div class="caption" title="🥇 ▷ Las Mejores GUÍAS de Tecnología creadas por Ciberninjas 2020">
+                <div class="caption-content">
+                    <i class="fa fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/paginas/guias-tecnologia.webp">
+        </a>
+    </div>
 </div>
 
-Por si esto fuese poco. En el buscador de la página web, vas a poder encontrar, algunas de los mejores listados del mundo. En los que se citan, los mejores editores de código, el mejor hardware del mundo, los mejores software de testing, los mejores software para implementar el flujo de trabajo completo de la creación del código, información sobre librerías interesantes, las mejores guías para webmaster, seo, y mucho más.
+Conjunto a estos dos grandes repositorios, vas a encontrar una recopilación de guías completas y artículos de iniciación:  
 
-Dicho esto. A continuación, tienes los enlaces, con los que iniciarte en [Python, Javascript (Angular, React, Vue)](), y más; que se encuentran en proceso de creación, y que iré subiendo según vaya viendo que se encuentran más o menos completas.
+- Las guías, están basadas en diferentes software / herramientas.
+- Los artículos, en su mayoría, son contenidos de iniciación (traducidos al español) sobre diferentes lenguajes de programación, frameworks multiplataforma u otros temáticas acordes.
 
-Junto a esto, en las siguientes imágenes, vas a poder encontrar: Todos los libros relacionados con la formación profesional del campo de la informática. Conjunto a ellos, vas a encontrar los enlaces a recursos con los que apoyarse a la hora de emprender los estudios de Sistemas Microinformáticos y Redes, Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas y Redes.
+Por si fuese poco, en nuestro buscador, vas a poder encontrar algunas de las mejores listas del mundo. Con las que poder encontrar los mejores editores de código para cada lenguaje de programación, las mejores aplicaciones y software del mundo que te harán más fáciles las tareas y el trabajo, entre mucho más, a saber; <!-- AGREGAR ENLACE AL MAPA WEB -->
 
-Además, en mis ratos libres, (y por libres, me refiero, aparte d mi vida personal y el tiempo que me ocupa el "dar de comer a la web y las redes") intento ir compartiendo; los apuntes completos y totalmente gratuitos de los Ciclos Formativos de Informática.
+Los mejores software de testing, los mejores software para implementar el flujo de trabajo completo de la creación del código, información sobre librerías interesantes, las mejores guías para webmaster, SEO, etc.
+
+Incluso las mejores listas de diferentes hardware: Los mejores teclados, los mejores ratones, las mejores cámaras..
+
+Dicho esto. A continuación, te dejo los enlaces, con los que iniciarte en los lenguajes de programación de [Python](/python/){:target="_blank"}, [Javascript](/javascript/){:target="_blank"} ([Angular](/lenguajes-programacion/#c%C3%B3mo-aprender-angular), [React](/lenguajes-programacion/#c%C3%B3mo-aprender-react), [Vue](/lenguajes-programacion/#c%C3%B3mo-aprender-vue)), [Java](/lenguajes-programacion/#c%C3%B3mo-aprender-java), [SQL](/lenguajes-programacion/#c%C3%B3mo-aprender-sql) y más (en proceso de creación, y que subiré cuando comiencen a estar más completos).
+
+Además, en las siguientes imágenes, vas a poder encontrar: Los libros relacionados con la formación profesional del campo de la informática. Conjunto a ellos, vas a encontrar los enlaces a recursos con los que apoyarte a la hora de emprender los estudios de Sistemas Microinformáticos y Redes, Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas y Redes.
+
+{% include programa-gratis.html %}
+
+Además, en mis ratos libres, (y por libres, me refiero, aparte de mi vida personal y el tiempo que me ocupa el "dar de comer a la web y las redes") intentaré ir agregando nuevos apuntes completos y totalmente gratuitos de los Ciclos Formativos de Informática.
 
 Hasta el momento, he comenzando con la asignatura de [**entornos de desarrollo**](https://ciberninjas.com/recursos-daw/entornos-desarrollo-introduccion/) y ya está disponible [**la primera unidad de desarrollo del Software**](https://ciberninjas.com/recursos-daw/desarrollo-software/).
 
 Por desgracia, es un proceso lento y que a día de hoy, no parece dar muchos frutos (por lo que, me temo, que se quedara un poco en reposo). Personalmente, me gustaría dedicarle más tiempo, pero..
-
-{% include programa-gratis.html %}
 
 Sígamos, perfectamente puedes aprovechar **todos estos recursos** a la vez que **aprendes a programar de forma gratuita**(o al menos, iniciarte en la programación) y así, descubrir lo que más y lo que menos te gusta.
 
@@ -103,13 +113,13 @@ Más adelante, vas a tener tiempo de invertir dinero, si es que considerás que 
 
 Una vez que hayas pasado por suficientes lecciones de programación gratuitas y pienses que comienzas a encontrar **tu rumbo, tu ruta, tu enfoque, tus gustos**. Vas a poder canalizar mucho mejor tu pasión, y vas impulsar ese deseo de forma más eficiente.
 
-Sin embargo, hay cientos de miles de recursos, [guías de programación](https://ciberninjas.com/guias/), [cursos gratuitos online](https://ciberninjas.com/cursos-tecnologia/), [libros de programación gratuitos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/), manuales, tutoriales, blogs, foros, grupos de facebook, servidores de Discord, Slack, Stackoverflow, etc, etc, etc.
+Sin embargo, hay cientos de miles de recursos, [guías de programación](/guias/), [cursos gratuitos online](/cursos-tecnologia/), [libros de programación gratuitos](/biblioteca-de-programacion-y-tecnologia/), manuales, tutoriales, blogs, foros, grupos de facebook, servidores de Discord, Slack, Stackoverflow, etc, etc, etc.
 
 Los suficientes como para que te vuelvas absolutamente loc@.
 
 <!-- 📢 Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0. -->
 
-**¿Cómo puedo conocer los mejores sitios para aprender a programar en línea?**
+**¿Cómo encontrar los mejores sitios para aprender a programar en línea?**
 
 Personalmente, llevo ya más de tres años investigando un poco alrededor de la red. Con resultado de ello, a continuación tienes los mejores sitios web desde los que aprender a programar y desarrollar totalmente gratis.
 
@@ -135,8 +145,11 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 
 ¡No te olvides!, puedes usar los botones internos para regresar al menú superior y guárdate esta página en tus favoritos, para regresar cuando lo necesites.
 
+<span id="menu"><strong>LOS MEJORES SITIOS DEL MUNDO EN LOS QUE APRENDER A PROGRAMAR<strong></span>
 
-<span id="menu"><strong>MENÚ DE LOS MEJORES SITIOS DEL MUNDO EN LOS QUE APRENDER PROGRAMACIÓN<strong></span>
+A continuación, vamos a reunir las mejores páginas de programación del mundo, ¡Veamos cuantas podemos recopilar!
+
+> <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i> 38 páginas + 25 canales de Youtube y subiendo..<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
 
 - [**1. FreeCodeCamp**](#1-freecodecamp)
 - [**2. Udemy**](#2-udemy)
@@ -178,8 +191,6 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 - [**37. Nodeschool**](#37-nodeschool)
 - [**38. Aprende JS**](#38-aprende-js)
 - [**38. Eloquent Javascript**](#38-eloquent-javascript)
-
-A continuación, vamos a reunir las mejores páginas de programación del mundo, ¡Veamos cuantas podemos recopilar!
 
 ## **1. FreeCodeCamp**
 
@@ -595,6 +606,8 @@ Otro libro de codificación en línea, pero más largo que la mayoría. Tiene pa
 
 <!-- https://learntocodewith.me/posts/code-for-free/#javascript -->
 [🚪 Visita Learn JS](https://www.learn-js.org/){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}{: .btn .btn-primary .btn-lg .btn-block}
+
+> 👷‍♂️ FIN, HAS ALCANZANDO EL FINAL. AL MENOS POR AHORA.. ESTÁN POR VENIR NUEVOS RECURSOS PARA MUCHO MÁS.. 👷‍♂️
 
 > **¿CÓMO APRENDER A PROGRAMAR PYTHON GRATIS?**
 

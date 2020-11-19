@@ -2,12 +2,12 @@
 layout: page
 hide: true
 date: 2018-12-01T12:42:42-05:00
+title: "Política de Privacidad"
 description: "Aviso Legal y Políticas de Privacidad · Política de Comentarios · Créditos y Reconocimientos · Proyectos Realizados; ¿Qué es Ciberninjas?"
 excerpt: "Aviso Legal y Políticas de Privacidad · Política de Comentarios · Créditos y Reconocimientos · Proyectos Realizados; ¿Qué es Ciberninjas?"
 last_modified_at: 2019-08-16T12:42:42-05:00
 permalink: "/aviso-legal/"
 canonical_URL: "https://ciberninjas.com/aviso-legal/"
-title: "Política de Privacidad"
 ---
 
 ## Quiénes somos
