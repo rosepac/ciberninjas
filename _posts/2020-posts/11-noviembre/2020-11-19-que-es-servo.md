@@ -23,7 +23,7 @@ published: true
 
 La misión de Servo es proporcionar un motor web independiente, modular e integrable, que permite a los desarrolladores entregar contenido y aplicaciones utilizando estándares web.
 
-Servo está escrito en Rust y comparte código con Mozilla Firefox y el ecosistema Rust más amplio. Desde su creación en 2012, Servo ha contribuido a los estándares web W3C / WHATWG al informar problemas de especificación y enviar nuevas pruebas automatizadas entre navegadores, y los miembros del equipo central han co-editado nuevos estándares que han sido adoptados por otros navegadores.
+Servo está escrito en Rust y comparte código con Mozilla Firefox y el ecosistema Rust más amplio. Desde su creación en 2012, Servo ha contribuido a los estándares web W3C / WHATWG al informar problemas de especificación y enviar nuevas pruebas automatizadas entre navegadores y los miembros del equipo central han co-editado nuevos estándares que han sido adoptados por otros navegadores.
 
 Como resultado, el proyecto Servo ayuda a impulsar toda la plataforma web mientras se basa en una plataforma de tecnologías modulares reutilizables que implementan estándares web.
 

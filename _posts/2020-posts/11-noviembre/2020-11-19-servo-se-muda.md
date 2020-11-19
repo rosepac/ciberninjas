@@ -15,7 +15,7 @@ excerpt: >-
   El proyecto Servo deja Mozilla para unirse a la Fundación Linux
 canonical_URL: https://ciberninjas.com/servo-fundacion-linux/
 permalink: /servo-fundacion-linux/
-date: 2020-11-19 06:36:32
+date: 2020-11-19 06:42:32
 last_modified_at: 
 published: true
 
