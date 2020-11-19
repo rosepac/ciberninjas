@@ -15,10 +15,6 @@ feature-img: /assets/img/2020/musica-chica.webp
 img: /assets/img/2020/musica-chica.webp
 ---
 
-
-<div id = "loader"> </div>
-
-<div id="content">
 La música random del menda lerenda, rosepac. Vale. Mis gustos son eclépticos, por lo que vas a poder encontrarte casi de todo por entre estos reproductores, solamente espero que no te asustes.. Y puedas encontrar algo que te interese y entretenga. 😹
 
 A lo largo de mi vida, siempre he escuchado más o menos la misma música, pero a veces se me ha ido la cabeza un poco más hacía el rock, y otras veces hacía la música románticona, e incluso he tenido mis ratos de mala ostia con la música punkarra y metalera.
@@ -670,4 +666,3 @@ Son unos añitos ya, que dan para haber ido escuchando casi de todo.
 <!-- CARGAR LAS LIBRERÍAS DE BOOTSTRAP Extraído de https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=accordion -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-</div>
