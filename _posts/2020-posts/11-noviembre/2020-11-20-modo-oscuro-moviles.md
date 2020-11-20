@@ -43,7 +43,7 @@ Estas y muchas otras preguntas se responden en este artículo, ¿Estás listo pa
   - [**Mejora la accesibilidad**](#mejora-la-accesibilidad)
 - [**Consejos para diseñar temas oscuros en apps móviles**](#consejos-para-diseñar-temas-oscuros-en-apps-móviles)
   - [**1. El negro puro perjudica la usabilidad. Usa diferentes tonos de negro**](#1-el-negro-puro-perjudica-la-usabilidad-usa-diferentes-tonos-de-negro)
-  - [**2. Evite el uso de colores saturados**](#2-evite-el-uso-de-colores-saturados)
+  - [**2. Evita el uso de colores saturados**](#2-evita-el-uso-de-colores-saturados)
 - [**3. No intentes expresar el mismo estado de ánimo que en el tema claro**](#3-no-intentes-expresar-el-mismo-estado-de-ánimo-que-en-el-tema-claro)
 - [**4. Pruebe el diseño en ambos modos**](#4-pruebe-el-diseño-en-ambos-modos)
 - [**5. Ajuste las animaciones e ilustraciones de la aplicación para el tema oscuro**](#5-ajuste-las-animaciones-e-ilustraciones-de-la-aplicación-para-el-tema-oscuro)
@@ -89,7 +89,7 @@ Es recomendable no usar solo color negro en el diseño de la interfaz de usuario
 
 Mirar la pantalla de alto contraste puede resultar demasiado difícil para los usuarios. El uso de tonos negros y grises ayuda a aliviar la fatiga visual y hace que el diseño general sea más agradable.
 
-### **2. Evite el uso de colores saturados**
+### **2. Evita el uso de colores saturados**
 
 Tenga cuidado al usar colores brillantes y saturados en la interfaz de usuario oscura. Con un aspecto fabuloso en la interfaz de usuario clara, pueden verse demasiado brillantes y chocantes a la hora de activar el fondo oscuro.
 
