@@ -9,7 +9,7 @@ tags:
 - Teletrabajo
 thumbnail: /assets/img/blog/zoom-guia.webp
 feature-img: /assets/img/blog/zoom-guia.webp
-title: '▷ Una guía para principiantes de las videollamadas a través de Zoom'
+title: '▷ Guía completa de ZOOM para los principiantes en las videollamadas'
 description: >-
   Guía completa para las personas que aún no han probado el software de Zoom, consejos sobre cómo empezar a utilizar la versión gratuita. Como registrarse y como invitar a otras personas a las llamadas de Zoom.
 excerpt: >-
