@@ -77,49 +77,49 @@ img: "/assets/img/paginas-cursos/cursos-flujos-trabajo-workflow.webp"
 
 ## **Los Mejores Cursos Gratis de Metodologías de Desarrollo**
 
-- [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
-- [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-- [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [Curso de Patrones de Diseño de Software](/crear-patrones-de-dise%C3%B1o-de-software-con-jap-software/) (Jap Software, Youtube)
-- [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
-- [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Gestión Participativa](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-- [Git y Github Avanzado](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvHLzz87dMz7vy2At2pYlj_){:target="_blank" rel="nofollow,noreferrer"} (Make it Real, YouTube)
-- [Groupware en la gestión del conocimiento (2014)](https://ocw.ehu.eus/course/view.php?id=326){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Integración continua con Github Education y Travis](https://www.udemy.com/integracion-continua-con-github-education-y-travis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-git-github-sourcetree){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-- [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-- [Introducción a la Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
-- [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank" rel="nofollow,noreferrer"} (makigas)
-- [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Metodología de marco lógico (2017)](https://www.udemy.com/metodologia-de-marco-logico){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Métodos y técnicas del trabajo corporativo (2008)](http://ocw.uc3m.es/ingenieria-informatica/metodos-y-tecnicas-de-trabajo-corporativo){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
+1. [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+1. [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+1. [Curso de Patrones de Diseño de Software](/crear-patrones-de-dise%C3%B1o-de-software-con-jap-software/) (Jap Software, Youtube)
+1. [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
+1. [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Gestión Participativa](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+1. [Git y Github Avanzado](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvHLzz87dMz7vy2At2pYlj_){:target="_blank" rel="nofollow,noreferrer"} (Make it Real, YouTube)
+1. [Groupware en la gestión del conocimiento (2014)](https://ocw.ehu.eus/course/view.php?id=326){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Integración continua con Github Education y Travis](https://www.udemy.com/integracion-continua-con-github-education-y-travis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-git-github-sourcetree){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+1. [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+1. [Introducción a la Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
+1. [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank" rel="nofollow,noreferrer"} (makigas)
+1. [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Metodología de marco lógico (2017)](https://www.udemy.com/metodologia-de-marco-logico){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Métodos y técnicas del trabajo corporativo (2008)](http://ocw.uc3m.es/ingenieria-informatica/metodos-y-tecnicas-de-trabajo-corporativo){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 <!-- busquedas relacionadas: agilidad, lean, Gestión de proyectos con metodologías ágiles y enfoques Lean, gestion de proyectos con git y github -->
 
 ## **Los Mejores Cursos Gratis de Integración Continua**
 
-- [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ## **Los Mejores Cursos Gratis de Grunt**
 
-- [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ## **Los Mejores Cursos Gratis de Estudiar**
 
-- [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank" rel="nofollow,noreferrer"}
+1. [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Los Mejores Cursos Gratis de QA Pruebas**
 
-- [Curso de programación para QA](https://jj.github.io/curso-tdd/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [Repositorio de Github](https://jj.github.io/curso-tdd/) (Github)
+1. [Curso de programación para QA](https://jj.github.io/curso-tdd/){:target="_blank" rel="nofollow,noreferrer"} (HTML) [Repositorio de Github](https://jj.github.io/curso-tdd/) (Github)
 
 [⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
