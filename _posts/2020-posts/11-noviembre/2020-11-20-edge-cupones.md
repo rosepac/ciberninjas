@@ -15,9 +15,9 @@ excerpt: >-
   Microsoft está agregando una nueva función de cupones y códigos de descuento en el navegador de Edge. Exclusivamente, por ahora, para los Estados Unidos. Entre otras interesantes mejoras.
 canonical_URL: https://ciberninjas.com/edge-cupones-y-mejoras/
 permalink: /edge-cupones-y-mejoras/
-date: 2020-11-20 18:36:32
+date: 2020-11-20 10:36:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
