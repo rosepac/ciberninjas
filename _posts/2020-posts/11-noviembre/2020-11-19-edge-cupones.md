@@ -31,7 +31,9 @@ Si bien, puede darse el caso de que seas un usuario que no está interesado en l
 
 Además, Edge trae nuevas herramientas de productividad especialmente útiles para estudiantes. Desde Microsoft, han agregado la posibilidad de anotar y agregar notas de texto y archivos PDF, una característica que realmente puede ser muy útil; y una gran herramienta de capturas de pantalla, con la que ahora vas a poder escribir y anotar digitalmente sobre la propia capturas de pantalla realizada.
 
-Microsoft, también está agregando la capacidad de capturar una página web completa en una captura de pantalla. La gran mayoría de las herramientas de captura de pantalla existentes, simplemente capturan la pantalla visible. Pero no capturan una página web completa o permiten que te desplazaces mientras tomas la captura. La nueva herramienta de captura de pantalla de Edge, se desplazará automáticamente hacia abajo sobre una página web para que puedas capturar todo en una sola imagen.
+Microsoft, también está agregando la capacidad de capturar una página web completa en una captura de pantalla. La gran mayoría de las herramientas de captura de pantalla existentes, simplemente capturan la pantalla visible.
+
+Pero no capturan una página web completa o permiten que te desplazaces mientras tomas la captura. La nueva herramienta de captura de pantalla de Edge, se desplazará automáticamente hacia abajo sobre una página web para que puedas capturar todo en una sola imagen.
 
 Finalmente, desde Microsoft están trabajando para que desde el procesador de texto Word y desde el gestor de correos de Outlook, se pueda trabajar con URL con mucha más comodidad que en la actualidad. Microsoft acortará los enlaces largos, convirtiéndolos en URL amigables cuando copies enlaces desde la barra de direcciones de Edge y los pegues en Word o Outlook.
 
@@ -47,4 +49,4 @@ Con esto, ya vas a poder olvidarte de tener que estar utilizando bit.ly u otro s
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Microsoft Edge, implementa cupones de descuentos y códigos promocionales integrados en el mismo navegador](/assets/img/2020/11/20-edge-fondo-1280x720.webp)
+![Microsoft Edge, implementa cupones de descuentos y códigos promocionales integrados en el mismo navegador](/assets/img/2020/20-edge-fondo-1280x720.webp)
