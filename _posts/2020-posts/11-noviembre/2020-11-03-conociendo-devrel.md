@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Reflexión Programación
-thumbnail: /assets/img/devrel-cn.webp
-feature-img: /assets/img/devrel-cn.webp
+thumbnail: /assets/img/2020/devrel-cn.webp
+feature-img: /assets/img/2020/devrel-cn.webp
 title: '▷ ¿Qué es DevRel o Developer Relations? o acaso es Developer Advocate'
 description: >-
   La industria de la programación soporte de relaciones con desarrolladores se está dando cuenta de un mundo en el que los desarrolladores pueden tener una mejor experiencia de desarrollo, apoyando todas las relaciones con los desarrolladores.
@@ -31,6 +31,9 @@ Un producto que es una API disponible en la nube es un buen ejemplo, los desarro
 Esto se puede hacer de diversas formas: Vía correo se puede asegurar de una gran ***experiencia por parte del desarrollador***, o quizás ***evangelizando*** el producto para aumentar **la aceptación del mismo**. A través de la construcción de una ***comunidad*** dentro de los ecosistemas de software más grandes, o ***abogando*** por cambios en el producto que ayuden a los desarrolladores con **su adaptación** , además de proporcionar todo el ***apoyo*** necesario para que el uso del software en los proyectos de los desarrolladores sea totalmente exitosa.
 
 Muchas grandes empresas de tecnología tienen equipos y programas de DevRel; entre las que se incluyen AWS, Dolby, Google, Intel, IBM, Microsoft, Salesforce, Samsung, Twilio, etc.
+
+- [**¿Qué hace un DevRel?**](#qué-hace-un-devrel)
+- [**¿Qué habilidades debe tener un DevRel?**](#qué-habilidades-debe-tener-un-devrel)
 
 ## **¿Qué hace un DevRel?**
 
@@ -92,4 +95,4 @@ Grandes enlaces de interes:
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![¿Qué es DevRel o Developer Relations? o acaso es Developer Advocate](/assets/img/devrel-cn.webp)
+![¿Qué es DevRel o Developer Relations? o acaso es Developer Advocate](/assets/img/2020/devrel-cn.webp)
