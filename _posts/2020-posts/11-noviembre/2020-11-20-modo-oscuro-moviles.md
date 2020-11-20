@@ -9,7 +9,7 @@ tags:
 - Modo Oscuro
 thumbnail: /assets/img/2020/modo-oscuro.webp
 feature-img: /assets/img/2020/modo-oscuro.webp
-title: '▷ El modo oscuro en el diseño de la interfaz de usuario en aplicaciones móviles'
+title: '▷ El modo oscuro en el diseño de la interfaz de usuario de aplicaciones móviles'
 description: >-
   Teniendo en cuenta por qué el modo oscuro de las aplicaciones móviles se está volviendo increíblemente popular hoy en día y cómo diseñarlo de la manera más efectiva.
 excerpt: >-
