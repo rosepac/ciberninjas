@@ -7,7 +7,7 @@ tags:
 - Actualidad
 thumbnail: /assets/img/2020/20-archivo-flash.webp
 feature-img: /assets/img/2020/20-archivo-flash.webp
-title: '▷ Internet Archive ahora conservará, las animaciones y juegos Flash'
+title: '▷ Internet Archive ahora conservará las animaciones y juegos Flash'
 description: >-
   Internet Archive ahora está emulando todos los juegos flash y las animaciones, en previsión a la interrupción del software web a finales de este año 2020.
 excerpt: >-
