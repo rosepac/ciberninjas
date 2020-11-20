@@ -16,7 +16,7 @@ canonical_URL: https://ciberninjas.com/roblox-bolsa-metaverso/
 permalink: /roblox-bolsa-metaverso/
 date: 2020-11-20 10:36:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -42,4 +42,4 @@ Para Roblox, parece ser un momento particularmente interesante, puesto que los n
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/2020/roblox-1280.webp "")
+![Roblox prevé su lanzamiento en bolsa, para luchar por construir un metaverso aún más grande](/assets/img/2020/roblox-1280.webp)
