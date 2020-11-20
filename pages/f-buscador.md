@@ -12,11 +12,13 @@ excerpt: "Un buscador que te ayudará a alcanzar tus metas"
 # img: "/assets/img/blog/08-rosepac-banner.webp"
 ---
 
+<!-- actualizar minilogitpos con enlaces a las etiquetas relacionadas? mmmmm botón en las etiquetas para volver al buscador? mmm -->
+<div>
 <div class="hidden-sm-down">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item active" aria-current="page">Buscador</li>
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
   </ol>
 </nav>
 </div>
@@ -40,11 +42,7 @@ excerpt: "Un buscador que te ayudará a alcanzar tus metas"
 }
 </script>
 
+<div>
 <script async src="https://cse.google.com/cse.js?cx=034f449078f9bd39e"></script>
 <div class="gcse-search"></div>
-
-<!-- <script async src='https://cse.google.com/cse.js?cx=034f449078f9bd39e'></script><div class="gcse-searchbox-only"></div>
 </div>
-<div>
-<script async src='https://cse.google.com/cse.js?cx=034f449078f9bd39e'></script><div class="gcse-searchresults-only"></div>
-</div> -->
