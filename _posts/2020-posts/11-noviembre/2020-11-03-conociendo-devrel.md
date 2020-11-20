@@ -14,7 +14,7 @@ excerpt: >-
   La industria de la programación soporte de relaciones con desarrolladores se está dando cuenta de un mundo en el que los desarrolladores pueden tener una mejor experiencia de desarrollo, apoyando todas las relaciones con los desarrolladores.
 canonical_URL: https://ciberninjas.com/que-es-devrel/
 permalink: /que-es-devrel/
-date: 2020-11-03 11:36:32
+date: 2020-11-20 18:36:32
 last_modified_at: 
 published: true
 
