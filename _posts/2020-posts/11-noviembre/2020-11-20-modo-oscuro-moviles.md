@@ -26,9 +26,13 @@ El modo oscuro se ha convertido en una de las funciones más solicitadas entre l
 
 > Este artículo es una traducción de su [artículo original](https://thedesignest.net/dark-mode-ui-mobile-apps/){:target="_blank" rel="nofollow,noreferrer"}.: Dark Mode in UI Design for Mobile Apps. Escrito por [Dana Kachan](https://twitter.com/danakachan?lang=en){:target="_blank" rel="nofollow,noreferrer"}.
 
-La interfaz de usuario oscura minimiza la fatiga visual en entornos oscuros, ahorra la duración de la batería y desbloquea un nuevo lado más sensual (😝) del producto. Las interfaces en modo oscuro, se suelen contemplar minimalistas y elegantes. Sin embargo, los diseñadores deben saber cómo evitar algunos errores de diseño si quieren unirse al lado oscuro.
+La interfaz de usuario oscura minimiza la fatiga visual en entornos oscuros, ahorra la duración de la batería y desbloquea un nuevo lado más sensual (😝) del producto.
 
-Oscuro, más oscuro y aún más oscuro. Aquí hablaremos sobre una tendencia de diseño de interfaz de usuario increíblemente hermosa: el modo oscuro. ¿Por qué tantos usuarios en todo el mundo prefieren la interfaz de usuario oscura? ¿Es mejor para los ojos del usuario? ¿Cómo diseñar la interfaz de usuario oscura de manera efectiva?
+Las interfaces en modo oscuro, se suelen contemplar minimalistas y elegantes. Sin embargo, los diseñadores deben saber cómo evitar algunos errores de diseño si quieren unirse al lado oscuro.
+
+Oscuro, más oscuro y aún más oscuro. Aquí hablaremos sobre una tendencia de diseño de interfaz de usuario increíblemente hermosa: el modo oscuro.
+
+¿Por qué tantos usuarios en todo el mundo prefieren la interfaz de usuario oscura? ¿Es mejor para los ojos del usuario? ¿Cómo diseñar la interfaz de usuario oscura de manera efectiva?
 
 Estas y muchas otras preguntas se responden en este artículo, ¿Estás listo para profundizar en los conocimientos sobre el modo oscuro y conocer los beneficios de las UI oscuras?
 
@@ -71,7 +75,9 @@ Entonces, ¿Por qué no debería implementarlo tu aplicación? El diseño oscuro
 
 ### **Mejora la accesibilidad**
 
-Si se diseña profesionalmente, la interfaz de usuario oscura, se basa en algunos estándares de contraste de color que hacen que una aplicación sea aún más accesible y fácil de navegar. Las personas que "piensan en la oscuridad" (me refiero a que principalmente cambian la interfaz del teléfono móvil y las aplicaciones al modo oscuro) dicen que las interfaces oscuras son más convenientes de usar incluso durante el día.
+Si se diseña profesionalmente, la interfaz de usuario oscura, se basa en algunos estándares de contraste de color que hacen que una aplicación sea aún más accesible y fácil de navegar.
+
+Las personas que "piensan en la oscuridad" (me refiero a que principalmente cambian la interfaz del teléfono móvil y las aplicaciones al modo oscuro) dicen que las interfaces oscuras son más convenientes de usar incluso durante el día.
 
 ## **Consejos para diseñar temas oscuros en apps móviles**
 
@@ -107,12 +113,13 @@ Que la aplicación se vea bien, dentro de cualquier rango horario. Puede parecer
 
 Si el diseño de tu aplicación móvil incluye gráficos, no olvides optimizarlo para cuando los usuarios deseen pasarse al lado oscuro. Se recomienda desaturar completamente los colores de fondo para que se vea bien a la hora de usar el modo oscuro.
 
-
 ## **Conclusión**
 
 **¿Estás listo para diseñar para el lado oscuro?**
 
-Con suerte, estos conocimientos, han arrojado luz sobre el lado oscuro del diseño de la interfaz de usuario de la aplicación móvil. El tema oscuro es una oportunidad más de destacar ante la competencia, ya que es un aspecto del diseño de la aplicación que requiere mucha creatividad y pensamiento innovador.
+Con suerte, estos conocimientos, han arrojado luz sobre el lado oscuro del diseño de la interfaz de usuario de la aplicación móvil.
+
+El tema oscuro es una oportunidad más de destacar ante la competencia, ya que es un aspecto del diseño de la aplicación que requiere mucha creatividad y pensamiento innovador.
 
 También espero que los consejos y trucos mencionados anteriormente te ayuden a crear un diseño oscuro que brinde placer y satisfacción a los usuarios de tu aplicación móvil, ¿Aún no te has pasado al lado oscuro? A que esperas, ahora es el momento perfecto.
 
