@@ -21,7 +21,7 @@ published: true
 
 ---
 
-UX Mitos, recoge **conceptos frecuentes dentro del mundo de la experiencia de usuario** y que quizás pueden ser erróneos; explicando a su vez, porque puede que **no sean ciertos**. No hay porque, tomarse al pie de la letra todo lo que aquí se presenta, simplemente se muestran algunos hallazgos tras una larga investigación y estudiar sobre diferentes artículos de numerosos gurús del diseño y la usabilidad web.
+UX Mitos, recoge **los conceptos más frecuentes dentro del mundo de la experiencia de usuario** y que quizás pueden ser erróneos; explicando a su vez, porque puede que **no sean ciertos**. No hay porque, tomarse al pie de la letra todo lo que aquí se presenta, simplemente se muestran algunos hallazgos tras una larga investigación y estudiar sobre diferentes artículos de numerosos gurús del diseño y la usabilidad web.
 
 - [**1. La gente lee en la web**](#1-la-gente-lee-en-la-web)
 - [**2. Todas las páginas deben ser accesibles de 3 clics**](#2-todas-las-páginas-deben-ser-accesibles-de-3-clics)

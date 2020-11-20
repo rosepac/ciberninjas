@@ -4,7 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Actualidad
 thumbnail: /assets/img/2020/20-archivo-flash.webp
 feature-img: /assets/img/2020/20-archivo-flash.webp
 title: '▷ Internet Archive ahora conservará, las animaciones y juegos Flash'
@@ -16,7 +16,7 @@ canonical_URL: https://ciberninjas.com/internet-archivo-flash/
 permalink: /internet-archivo-flash/
 date: 2020-11-20 10:46:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
