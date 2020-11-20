@@ -65,24 +65,17 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### 🔔 19 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
-- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
-
-<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
-
-<!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
 ### 🔔 20 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+
+<iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 <!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
 ### 🔔 21 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- IADI 2020| Inteligencia Artificial, Datos e ingeniería 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+- IADI 2020: Inteligencia Artificial, Datos e ingeniería 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 22 de Noviembre  <!-- omit in toc -->
 
@@ -1034,6 +1027,12 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
 
 ### 🔔 18 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
+- [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
+
+### 🔔 19 de Noviembre  <!-- omit in toc -->
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
 - [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
