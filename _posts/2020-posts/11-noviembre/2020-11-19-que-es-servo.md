@@ -13,8 +13,8 @@ description: >-
   La misión de Servo es proporcionar un motor web independiente, modular e integrable, que permite a los desarrolladores entregar contenido
 excerpt: >-
   La misión de Servo es proporcionar un motor web independiente, modular e integrable, que permite a los desarrolladores entregar contenido
-canonical_URL: https://ciberninjas.com/servo-fundacion-linux/
-permalink: /servo-fundacion-linux/
+canonical_URL: https://ciberninjas.com/que-es-servo/
+permalink: /que-es-servo/
 date: 2020-11-19 06:36:38
 last_modified_at: 
 published: true
