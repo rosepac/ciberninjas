@@ -25,45 +25,45 @@ published: false
 > 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
 
-## 1. ****
+## **1. **
 
 
 
-## 2. ****
+## **2. **
 
 
 
-## 3. ****
+## **3. **
 
 
 
-## 4. ****
+## **4. **
 
 
 
-## 5. ****
+## **5. **
 
 
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 6. ****
+## **6. **
 
 
 
-## 7. ****
+## **7. **
 
 
 
-## 8. ****
+## **8. **
 
 
 
-## 9. ****
+## **9. **
 
 
 
-## 10. ****
+## **10. **
 
 
 
