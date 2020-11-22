@@ -30,21 +30,11 @@ published: false
 ![]( "")
 
 
-
-### **Características de **
-
-
-
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. ****
 
 ![]( "")
-
-
-
-### **Características de **
-
 
 
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -54,11 +44,6 @@ published: false
 ![]( "")
 
 
-
-### **Características de **
-
-
-
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. ****
@@ -66,21 +51,11 @@ published: false
 ![]( "")
 
 
-
-### **Características de **
-
-
-
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. ****
 
 ![]( "")
-
-
-
-### **Características de **
-
 
 
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -92,21 +67,11 @@ published: false
 ![]( "")
 
 
-
-### **Características de **
-
-
-
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. ****
 
 ![]( "")
-
-
-
-### **Características de **
-
 
 
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -116,11 +81,6 @@ published: false
 ![]( "")
 
 
-
-### **Características de **
-
-
-
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. ****
@@ -128,21 +88,11 @@ published: false
 ![]( "")
 
 
-
-### **Características de **
-
-
-
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. ****
 
 ![]( "")
-
-
-
-### **Características de **
-
 
 
 [🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
