@@ -81,7 +81,7 @@ published: false
 
 [💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020](https://ciberninjas.com/actualidad-java-visual-studio/)
 
-[📄 ▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java ](https://ciberninjas.com/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
+[📄 ▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java](https://ciberninjas.com/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
 [👨‍🎨 Palabras más usadas en cada lenguaje de programación](https://ciberninjas.com/palabras-lenguajes-programacion/)
 
