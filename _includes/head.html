@@ -8,11 +8,8 @@
     <!-- CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 
-    <!--Favicon-->
+    <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/x-icon" />
-
-    <!-- PWA -->
-    <link rel="manifest" href="manifest.json">
 
     <!-- RSS -->
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ 'feed.xml' | absolute_url }}" /> {% if page.bootstrap %}
@@ -32,6 +29,22 @@
     {% if site.katex or site.theme_settings.katex %}
     <script src="{{ '/assets/js/vendor/katex.min.js' | relative_url }}"></script>
     {% endif %}
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+    <meta name="twitter:description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 | default: site.header_text}}">
+    <meta name="twitter:creator" content="@ciberninjas" />
+    <meta name="twitter:card" content="{% unless page.thumbnail %}summary{% else %}summary_large_image{% endunless %}">
+    <meta name="twitter:image" content="{{ '/' | absolute_url }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}">
+    <meta name="twitter:image:alt" content="{{ page.title | default: site.title }}">
+    <!-- <meta name="twitter:image:alt" content=""> -->
+
+    <!-- seo tags -->
+    {% seo %}
+    <meta property="og:image" content="{{ '/' | absolute_url }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}">
+
+    <!-- Google Adsense -->
+    {% include adsense.html %}
 
     <!-- Google Analytics -->
     {% if site.cookie_consent %} {% include cookie-consent.html %} {% elsif site.google_analytics and !%}
@@ -58,26 +71,9 @@
         ga('send', 'pageview');
     </script>
     <!-- End Google Analytics -->
-    {% endif %}
 
-    <!-- Twitter Cards -->
-    <meta name="twitter:title" content="{{ page.title | default: site.title }}">
-    <meta name="twitter:description" content="{{ page.content | strip_html | strip_newlines | truncate: 160 | default: site.header_text}}">
-    <meta name="twitter:creator" content="@ciberninjas" />
-    <meta name="twitter:card" content="{% unless page.thumbnail %}summary{% else %}summary_large_image{% endunless %}">
-    <meta name="twitter:image" content="{{ 'https://ciberninjas.com' }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}" />
-    <meta name="twitter:image:alt" content="{{ page.title | default: site.title }}">
-    <!-- <meta name="twitter:image:alt" content=""> -->
-
-    <!-- seo tags -->
-    {% seo %}
-    <meta property="og:image" content="{{ '/' | absolute_url }}{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %}">
-
-    <!-- RSS -->
-    {% feed_meta %}
-
-    <!-- Google Adsense -->
-    {% include adsense.html %}
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
 
     <!-- PWA Script -->
     <script>
