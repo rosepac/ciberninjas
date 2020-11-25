@@ -55,15 +55,7 @@ Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC.
 
 Soy un asturiano y amo el huerto y la agricultura, de hecho hubo un tiempo en el que dedicaba el tiempo a cultivar e incluso cree [una página de Facebook donde mostraba mi trabajo como agricultor](https://www.facebook.com/ciberural){:target="_blank"}.
 
-He pasado muchas horas entre mis plantaciones de fabas, repollos, lechugas, pimientos, etc.
-
- que hace una infinidad de años tenía un blog en los "live.spaces" de Microsoft.
-
-Más tarde, en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank" rel="nofollow,noreferrer"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
-
-Nunca he encontrado la fortuna alrededor de la web. Años intentando darle sentido a la creación de un blog, sin encontrar el lugar más idonio; una y otra vez. Siempre pensando en crear proyectos demasiado grandes para lo que uno podía hacer. Por dinero y tiempo.
-
-No descarto que la culpa sea mía por no saber centrarme en una temática concreta, lo que dificulta la gestión cada vez más; pero bueno, yo lo intento..
+Más. Lo que más me gusta, es la tecnología y ver como el mundo cambia a mi alrededor forzado por está e ir comprobando como la sociedad se va adaptando a todos los nuevos paradigmas de vida que van transformándolo todo.
 
 ## **¿Cómo comencé en Internet?**
 
