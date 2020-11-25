@@ -469,16 +469,16 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 
 [Descripción general del cálculo](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) (readthedocs.io)
 
-[🎓 Cursos Machine Learning en Español 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎓 Cursos Machine Learning en Español 🐍](https://ouo.io/QSlgGQ){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## 🐍 Relacionados..
 
-[🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Recursos Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Aprender Python 🐍](/python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🐍 Recursos Python 🐍](/python-recursos/#menu-py-rec){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 <!-- https://awesomeopensource.com/projects/machine-learning vamos por NPL Progress -->
 
 _____
