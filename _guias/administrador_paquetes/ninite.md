@@ -43,6 +43,7 @@ Además existe una versión más económica, aunque menos robusta, de Ninite Pro
   - [Utilidades 🛠](#utilidades-)
   - [Compresión 💊](#compresión-)
 - [**Ninite, Paso a Paso 👣**](#ninite-paso-a-paso-)
+
 ## **Características de Ninite 🔍**
 
 Ninite funciona desde Windows XP hasta las versiones más actuales de Windows. Ofreciendo al usuario una extensa lista de programas y generando un instalador convertido en un ejecutable múltiple personalizado basado en la selección de programas elegidos por el usuario.

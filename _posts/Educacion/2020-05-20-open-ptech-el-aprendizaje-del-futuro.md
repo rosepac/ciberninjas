@@ -23,6 +23,37 @@ published: true
 
 ---
 
+IBM abré un gran apatado de tutoriales y formación de introducción a las nuevas tecnologías online.
+
+<span id="menu"></span>
+
+- [**Qué es P-Tech?**](#qué-es-p-tech)
+  - [Qué trabajo realiza la escuela P-Tech?](#qué-trabajo-realiza-la-escuela-p-tech)
+  - [Momentos destacados dentro de la historia de P-Tech](#momentos-destacados-dentro-de-la-historia-de-p-tech)
+- [**Qué es la Plataforma Online P-Tech?**](#qué-es-la-plataforma-online-p-tech)
+  - [Cómo puedo registrarme en P-Tech Online?](#cómo-puedo-registrarme-en-p-tech-online)
+  - [Cómo acceder a P-Tech Online?](#cómo-acceder-a-p-tech-online)
+- [**Qué contenido nos ofrece IBM desde P-Tech Online?**](#qué-contenido-nos-ofrece-ibm-desde-p-tech-online)
+- [**Qué carrera o trabajo de futuro elegir?**](#qué-carrera-o-trabajo-de-futuro-elegir)
+- [**Cuál es el Curriculum de Inteligencia Artificial?**](#cuál-es-el-curriculum-de-inteligencia-artificial)
+  - [Qué te van a enseñar sobre la Inteligencia Artificial?](#qué-te-van-a-enseñar-sobre-la-inteligencia-artificial)
+  - [Qué insignia de Inteligencia Artificial te corresponderá?](#qué-insignia-de-inteligencia-artificial-te-corresponderá)
+- [**Cuál es el Curriculum de Blockchain?**](#cuál-es-el-curriculum-de-blockchain)
+  - [Qué te van a enseñar sobre el Blockchain?](#qué-te-van-a-enseñar-sobre-el-blockchain)
+  - [Qué insignia de Blockchain te corresponderá?](#qué-insignia-de-blockchain-te-corresponderá)
+- [**Cuál es el Curriculum de Ciberseguridad?**](#cuál-es-el-curriculum-de-ciberseguridad)
+  - [Qué te van a enseñar sobre Ciberseguridad?](#qué-te-van-a-enseñar-sobre-ciberseguridad)
+  - [Qué insignia de ciberseguridad te corresponderá?](#qué-insignia-de-ciberseguridad-te-corresponderá)
+- [**Cuál es el Curriculum de Ciencia de Datos?**](#cuál-es-el-curriculum-de-ciencia-de-datos)
+  - [Qué te van a enseñar sobre la Ciencia de los Datos?](#qué-te-van-a-enseñar-sobre-la-ciencia-de-los-datos)
+  - [Qué insignia de ciencia de datos te corresponderá?](#qué-insignia-de-ciencia-de-datos-te-corresponderá)
+- [**Cuál es el Curriculum del Pensamiento de Diseño?**](#cuál-es-el-curriculum-del-pensamiento-de-diseño)
+  - [Qué te van a enseñar sobre el Pensamiento de Diseño?](#qué-te-van-a-enseñar-sobre-el-pensamiento-de-diseño)
+  - [Qué insignia de pensamiento de diseño te corresponderá?](#qué-insignia-de-pensamiento-de-diseño-te-corresponderá)
+- [**Cuál es el Curriculum de habilidades profesionales?**](#cuál-es-el-curriculum-de-habilidades-profesionales)
+  - [Qué te van a enseñar sobre habilidades profesionales?](#qué-te-van-a-enseñar-sobre-habilidades-profesionales)
+  - [Qué insignia de habilidades profesionales te corresponderá?](#qué-insignia-de-habilidades-profesionales-te-corresponderá)
+
 ## **Qué es P-Tech?**
 
 Pathways in Technology Early College High School (P-TECH) es una escuela secundaria pública de la ciudad de Nueva York que abrió sus puertas en Septiembre de 2011. Fue desarrollada a través de una asociación entre IBM y la "Ciudad Universitaria de New York" o City Tech, junto al nuevo departamento de educación de la ciudad de Nueva York.
@@ -260,34 +291,6 @@ La insignia de "Trabajando en un mundo digital: habilidades profesionales" demue
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-#### Índice <!-- omit in toc -->
-- [**Qué es P-Tech?**](#qué-es-p-tech)
-  - [Qué trabajo realiza la escuela P-Tech?](#qué-trabajo-realiza-la-escuela-p-tech)
-  - [Momentos destacados dentro de la historia de P-Tech](#momentos-destacados-dentro-de-la-historia-de-p-tech)
-- [**Qué es la Plataforma Online P-Tech?**](#qué-es-la-plataforma-online-p-tech)
-  - [Cómo puedo registrarme en P-Tech Online?](#cómo-puedo-registrarme-en-p-tech-online)
-  - [Cómo acceder a P-Tech Online?](#cómo-acceder-a-p-tech-online)
-- [**Qué contenido nos ofrece IBM desde P-Tech Online?**](#qué-contenido-nos-ofrece-ibm-desde-p-tech-online)
-- [**Qué carrera o trabajo de futuro elegir?**](#qué-carrera-o-trabajo-de-futuro-elegir)
-- [**Cuál es el Curriculum de Inteligencia Artificial?**](#cuál-es-el-curriculum-de-inteligencia-artificial)
-  - [Qué te van a enseñar sobre la Inteligencia Artificial?](#qué-te-van-a-enseñar-sobre-la-inteligencia-artificial)
-  - [Qué insignia de Inteligencia Artificial te corresponderá?](#qué-insignia-de-inteligencia-artificial-te-corresponderá)
-- [**Cuál es el Curriculum de Blockchain?**](#cuál-es-el-curriculum-de-blockchain)
-  - [Qué te van a enseñar sobre el Blockchain?](#qué-te-van-a-enseñar-sobre-el-blockchain)
-  - [Qué insignia de Blockchain te corresponderá?](#qué-insignia-de-blockchain-te-corresponderá)
-- [**Cuál es el Curriculum de Ciberseguridad?**](#cuál-es-el-curriculum-de-ciberseguridad)
-  - [Qué te van a enseñar sobre Ciberseguridad?](#qué-te-van-a-enseñar-sobre-ciberseguridad)
-  - [Qué insignia de ciberseguridad te corresponderá?](#qué-insignia-de-ciberseguridad-te-corresponderá)
-- [**Cuál es el Curriculum de Ciencia de Datos?**](#cuál-es-el-curriculum-de-ciencia-de-datos)
-  - [Qué te van a enseñar sobre la Ciencia de los Datos?](#qué-te-van-a-enseñar-sobre-la-ciencia-de-los-datos)
-  - [Qué insignia de ciencia de datos te corresponderá?](#qué-insignia-de-ciencia-de-datos-te-corresponderá)
-- [**Cuál es el Curriculum del Pensamiento de Diseño?**](#cuál-es-el-curriculum-del-pensamiento-de-diseño)
-  - [Qué te van a enseñar sobre el Pensamiento de Diseño?](#qué-te-van-a-enseñar-sobre-el-pensamiento-de-diseño)
-  - [Qué insignia de pensamiento de diseño te corresponderá?](#qué-insignia-de-pensamiento-de-diseño-te-corresponderá)
-- [**Cuál es el Curriculum de habilidades profesionales?**](#cuál-es-el-curriculum-de-habilidades-profesionales)
-  - [Qué te van a enseñar sobre habilidades profesionales?](#qué-te-van-a-enseñar-sobre-habilidades-profesionales)
-  - [Qué insignia de habilidades profesionales te corresponderá?](#qué-insignia-de-habilidades-profesionales-te-corresponderá)
 
 > 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}

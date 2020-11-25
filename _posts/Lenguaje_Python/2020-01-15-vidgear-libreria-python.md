@@ -26,15 +26,49 @@ El siguiente **diagrama de bloques funcional muestra** claramente el funcionamie
 
 [![Diagrama de bloques funcionales de @Vidgear](https://camo.githubusercontent.com/7eb66b31e45072cd99ee988690242b93388705db/68747470733a2f2f6162686974726f6e69782e6769746875622e696f2f696d672f766964676561722f766964676561725f66756e6374696f6e322d30312e737667)](https://camo.githubusercontent.com/7eb66b31e45072cd99ee988690242b93388705db/68747470733a2f2f6162686974726f6e69782e6769746875622e696f2f696d672f766964676561722f766964676561725f66756e6374696f6e322d30312e737667)
 
-## **Qué es Vidgear?**
+<span id="menu"></span>
+
+- [import required libraries](#import-required-libraries)
+- [open any valid video stream with stabilization enabled(`stabilize = True`)](#open-any-valid-video-stream-with-stabilization-enabledstabilize--true)
+- [open same stream without stabilization for comparison](#open-same-stream-without-stabilization-for-comparison)
+- [loop over](#loop-over)
+- [close output window](#close-output-window)
+- [safely close both video streams](#safely-close-both-video-streams)
+    - [VideoGear API Guide:](#videogear-api-guide)
+  - [PiGear](#pigear)
+    - [Guía de API de PiGear](#guía-de-api-de-pigear)
+  - [ScreenGear](#screengear)
+- [import required libraries](#import-required-libraries-1)
+- [add various Picamera tweak parameters to dictionary](#add-various-picamera-tweak-parameters-to-dictionary)
+- [open pi video stream with defined parameters](#open-pi-video-stream-with-defined-parameters)
+- [loop over](#loop-over-1)
+- [close output window](#close-output-window-1)
+- [safely close video stream](#safely-close-video-stream)
+    - [Guía de la API de ScreenGear:](#guía-de-la-api-de-screengear)
+  - [WriteGear](#writegear)
+    - [WriteGear API Guide:](#writegear-api-guide)
+  - [NetGear](#netgear)
+    - [Guía de API de NetGear:](#guía-de-api-de-netgear)
+  - [Instalación](#instalación)
+  - [Prerrequisitos:](#prerrequisitos)
+  - [Opciones de instalación disponibles:](#opciones-de-instalación-disponibles)
+    - [Opción 1: instalación de PyPI](#opción-1-instalación-de-pypi)
+    - [Opción 2: Descarga del archivo de lanzamiento](#opción-2-descarga-del-archivo-de-lanzamiento)
+    - [Opción 3: clonar el repositorio](#opción-3-clonar-el-repositorio)
+  - [Documentación](#documentación)
+  - [Pruebas](#pruebas)
+  - [Legados de Python compatibles](#legados-de-python-compatibles)
+  - [Licencia](#licencia)
+
+## **¿Qué es Vidgear?**
 
 > *"VidGear es una biblioteca Python de procesamiento de video completa [ultrarrápida](https://github.com/abhiTronix/vidgear/wiki/FAQ-&-Troubleshooting#2-vidgear-is-ultrafast-but-how) , compacta, flexible y fácil de adaptar".
 
-## **Qué hace VidGear?**
+## **¿Qué hace VidGear?**
 
 > *"VidGear puede leer, escribir, procesar, enviar y recibir cuadros de video desde varios dispositivos en tiempo real".*
 
-## **Cuál es su propósito?**
+## **¿Cuál es su propósito?**
 
 > *"Construido con la simplicidad en mente, VidGear permite a los programadores y desarrolladores de software integrar y realizar fácilmente tareas complejas de procesamiento de video en sus aplicaciones existentes o nuevas, sin pasar por la documentación de varias bibliotecas subyacentes y usar solo unas pocas líneas de código. Beneficioso para ambos, si eres nuevo en la programación con lenguaje Python o ya eres un profesional ".*
 
@@ -75,7 +109,7 @@ El siguiente diagrama de bloques funcional simplificado muestra el funcionamient
 
 [![Diagrama de bloque funcional CamGear](https://github.com/abhiTronix/Imbakup/raw/master/Images/CamGear.png)](https://github.com/abhiTronix/Imbakup/raw/master/Images/CamGear.png)
 
-### Guía API de CamGear:
+### Guía API de CamGear
 
 [**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/CamGear#camgear-api){:target="_blank" rel="nofollow noreferrer"}
 
@@ -165,7 +199,7 @@ Entonces, si accidentalmente desconectó el cable del módulo de la cámara al e
 
 [![Diagrama de bloque funcional de PiGear](https://github.com/abhiTronix/Imbakup/raw/master/Images/PiGear.png)](https://github.com/abhiTronix/Imbakup/raw/master/Images/PiGear.png)
 
-### Guía de API de PiGear:
+### Guía de API de PiGear
 
 [**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/PiGear#pigear-api){:target="_blank" rel="nofollow noreferrer"}
 
@@ -370,34 +404,6 @@ Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.co
 [👉 Aprender Python y Más Librerías 🐍](/python/){: .btn .btn-primary .btn-lg .btn-block}
 
 **Fuente**: [Vidgear por Abhishek Thakur](https://github.com/abhiTronix/vidgear){:target="_blank" rel="nofollow,noreferrer"}
-
-#### Índice <!-- omit in toc -->
-- [**Qué es Vidgear?**](#qué-es-vidgear)
-- [**Qué hace VidGear?**](#qué-hace-vidgear)
-- [**Cuál es su propósito?**](#cuál-es-su-propósito)
-- [Engranajes](#engranajes)
-- [CamGear](#camgear)
-  - [Guía API de CamGear:](#guía-api-de-camgear)
-- [VideoGear](#videogear)
-  - [VideoGear API Guide:](#videogear-api-guide)
-- [PiGear](#pigear)
-  - [Guía de API de PiGear:](#guía-de-api-de-pigear)
-- [ScreenGear](#screengear)
-  - [Guía de la API de ScreenGear:](#guía-de-la-api-de-screengear)
-- [WriteGear](#writegear)
-  - [WriteGear API Guide:](#writegear-api-guide)
-- [NetGear](#netgear)
-  - [Guía de API de NetGear:](#guía-de-api-de-netgear)
-- [Instalación](#instalación)
-- [Prerrequisitos:](#prerrequisitos)
-- [Opciones de instalación disponibles:](#opciones-de-instalación-disponibles)
-  - [Opción 1: instalación de PyPI](#opción-1-instalación-de-pypi)
-  - [Opción 2: Descarga del archivo de lanzamiento](#opción-2-descarga-del-archivo-de-lanzamiento)
-  - [Opción 3: clonar el repositorio](#opción-3-clonar-el-repositorio)
-- [Documentación](#documentación)
-- [Pruebas](#pruebas)
-- [Legados de Python compatibles](#legados-de-python-compatibles)
-- [Licencia](#licencia)
 
 ### **Relacionados** <!-- omit in toc -->
 

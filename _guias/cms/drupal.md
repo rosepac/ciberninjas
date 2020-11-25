@@ -18,6 +18,29 @@ Con Drupal puedes ser capaz de crear desde un sitio web, una intranet o un porta
 
 En definitiva; no existe nada que se pueda crear en PHP (Wordpress) y que no pueda ser creado desde dentro de Drupal, y es una buena alternativa a Wordpress; sobre todo si en tus pensamientos, se encuentra la idea de crear algo más que un blog sencillo.
 
+<span id="menu"></span>
+
+- [¿Qué es Drupal?](#qué-es-drupal)
+- [**Cómo Aprender Drupal**](#cómo-aprender-drupal)
+  - [**Introducción a Drupal**](#introducción-a-drupal)
+- [**¿Qué es un sistema de gestión de contenido (CMS) como Drupal?**](#qué-es-un-sistema-de-gestión-de-contenido-cms-como-drupal)
+- [**¿Qué es el código abierto?**](#qué-es-el-código-abierto)
+- [**¿Qué significa el logo de Drupal?**](#qué-significa-el-logo-de-drupal)
+- [**Conceptos del Proyecto de Drupal**](#conceptos-del-proyecto-de-drupal)
+- [**Cómo empezar con Drupal**](#cómo-empezar-con-drupal)
+  - [**Construcción de Sitios Web con Drupal**](#construcción-de-sitios-web-con-drupal)
+- [**¿Por qué elegir Druparl?**](#por-qué-elegir-druparl)
+  - [Ofrece una gran flexibilidad](#ofrece-una-gran-flexibilidad)
+  - [Seguridad](#seguridad)
+  - [Un motor de búsqueda amigable](#un-motor-de-búsqueda-amigable)
+  - [Se mantiene a la última](#se-mantiene-a-la-última)
+  - [Es gratis](#es-gratis)
+- [**Consejos de Aprendizaje**](#consejos-de-aprendizaje)
+- [**Eventos Comunitarios de Drupal**](#eventos-comunitarios-de-drupal)
+- [**Sitios Temáticos de Drupal**](#sitios-temáticos-de-drupal)
+- [**Desarrolladores de Sitios de Drupal**](#desarrolladores-de-sitios-de-drupal)
+- [**Distribuciones de Drupal**](#distribuciones-de-drupal)
+
 ## ¿Qué es Drupal?
 
 Drupal es un sistema gratuito de gestión de contenido de código abierto (CMS) con una gran comunidad de apoyo. Millones de personas y organizaciones de todo el mundo lo utilizan para crear y mantener sus sitios web. Probablemente use Drupal todos los días sin saberlo, ya que muchas de las principales empresas y organizaciones gubernamentales utilizan Drupal, como el Gobierno de Australia, la Cruz Roja, Harvard, The Economist, BBC, NBC News, Whole Foods, Cisco, Twitter y muchos, muchos Más.
@@ -161,25 +184,3 @@ PHP es el lenguaje de programación en el que se escribe el software de Drupal, 
 
 La **Guía de Drupal** fue creada el *21 de Abril de 2020* y su última edición fue realizada el *14 de Mayo de 2020*.
 {: .notice--info}
-
-#### Índice <!-- omit in toc -->
-- [¿Qué es Drupal?](#%c2%bfqu%c3%a9-es-drupal)
-- [**Cómo Aprender Drupal**](#c%c3%b3mo-aprender-drupal)
-  - [**Introducción a Drupal**](#introducci%c3%b3n-a-drupal)
-- [**¿Qué es un sistema de gestión de contenido (CMS) como Drupal?**](#%c2%bfqu%c3%a9-es-un-sistema-de-gesti%c3%b3n-de-contenido-cms-como-drupal)
-- [**¿Qué es el código abierto?**](#%c2%bfqu%c3%a9-es-el-c%c3%b3digo-abierto)
-- [**¿Qué significa el logo de Drupal?**](#%c2%bfqu%c3%a9-significa-el-logo-de-drupal)
-- [**Conceptos del Proyecto de Drupal**](#conceptos-del-proyecto-de-drupal)
-- [**Cómo empezar con Drupal**](#c%c3%b3mo-empezar-con-drupal)
-  - [**Construcción de Sitios Web con Drupal**](#construcci%c3%b3n-de-sitios-web-con-drupal)
-- [**¿Por qué elegir Druparl?**](#%c2%bfpor-qu%c3%a9-elegir-druparl)
-  - [Ofrece una gran flexibilidad](#ofrece-una-gran-flexibilidad)
-  - [Seguridad](#seguridad)
-  - [Un motor de búsqueda amigable](#un-motor-de-b%c3%basqueda-amigable)
-  - [Se mantiene a la última](#se-mantiene-a-la-%c3%baltima)
-  - [Es gratis](#es-gratis)
-- [**Consejos de Aprendizaje**](#consejos-de-aprendizaje)
-- [**Eventos Comunitarios de Drupal**](#eventos-comunitarios-de-drupal)
-- [**Sitios Temáticos de Drupal**](#sitios-tem%c3%a1ticos-de-drupal)
-- [**Desarrolladores de Sitios de Drupal**](#desarrolladores-de-sitios-de-drupal)
-- [**Distribuciones de Drupal**](#distribuciones-de-drupal)
