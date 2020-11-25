@@ -10,14 +10,63 @@ comments: false
 date: 2020-05-20 12:06:18
 last_modified_at:
 permalink: /python-recursos/
+canonical_URL: https://ciberninjas.com/python-recursos/
 thumbnail: /assets/img/lenguajes/python-serpiente-tablet.webp
 feature-img: /assets/img/lenguajes/python-serpiente-tablet.webp
 img: /assets/img/lenguajes/python-serpiente-tablet.webp
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/python/">Aprender Python</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Mejores Recursos Python</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/python/",
+     "name": "¿Cómo Aprender a Programar en Python 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/python-recursos/",
+    "name": "Las Mejores Recursos de Python"
+    }
+  }
+ ]
+}
+</script>
+
 En la página vas a poder encontrar los mejores y más actuales recursos con los que apoyarte a la hora de comenzar la compleja tarea de aprender el lenguaje de programación: Python.
 
 Encontrarás una extensa [introducción a Python](/python/) en nuestra guía, al igual que [los mejores frameworks](/python/#cómo-desarrollar-una-aplicación-web-con-python) y [las mejores bibliotecas](/python/#bibliotecas-de-python). Además, de una incontable cantidad de recursos, dentro de nuestra página web, como por ejemplo:
+
+> ***Relacionados Python:*** *[Aprender Python](/python/) / [Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python) / [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python) / [Frameworks Python](/python-frameworks/) / [Librerías Python](/python-librerias/) / [Editores o IDEs Python](/mejores-ide-python/) / [Diccionario Python](/glosario/completo-tecnologias-python/)*
 
 * [¿Por qué Python es mejor que PHP?](/porque-python-es-mejor-que-php/)
 * [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)
@@ -80,7 +129,8 @@ A continuación, tienes los enlaces directos a libros y cursos sobre Python; tan
 
 * [Pandas y Seaborn Chuleta](https://new.paradigmadigital.com/wp-content/uploads/2019/06/cheat-sheet-pandas-seaborn.pdf){:target="_blank" rel="nofollow,noreferrer"} (Paradigma Digital)
 
-## Cheatsheets
+## Cheatsheets de Python
+
 <!-- https://www.rankred.com/python-cheat-sheet/ -->
 Una hoja de trucos puede ser realmente útil cuando intentas un conjunto de ejercicios relacionados con un tema específico o cuando trabajas en un proyecto. Como solo puede incluir tanta información en una sola hoja de papel, la mayoría de las hojas de trucos son una simple lista de reglas de sintaxis. Este conjunto de hojas de trucos tiene como objetivo recordarle las reglas de sintaxis, pero también recordarle conceptos importantes.
 

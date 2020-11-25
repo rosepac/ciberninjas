@@ -28,6 +28,53 @@ date: 2020-09-01
 published: true
 ---
 
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/python/">Aprender Python</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Editores / IDE Python</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/python/",
+     "name": "¿Cómo Aprender a Programar en Python 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/mejores-ide-python/",
+    "name": "11 Mejores editores de Python y entornos de desarrollo IDE con los que editar código en Python 2021"
+    }
+  }
+ ]
+}
+</script>
+
 Los mejores editores de código Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
 
 ![Mejores Editores de Código de Python u entornos de desarrollo IDE](/assets/img/2020/python-editores-scrapy.webp "Mejores Editores de Código de Python u entornos de desarrollo IDE")
@@ -59,8 +106,7 @@ Editores, con características populares y últimos enlaces de descarga. La list
 </nav>
 </details>
 
-> 🔥 Quizás te interese: [¿Qué es Python?](/python/#qué-es-python) >> [¿Quién usa Python?](/python/#quién-está-usando-python) >> [¿Por qué aprender Python?](/python/#por-qué-aprender-python) >> [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python) >> [Bibliotecas de Python](/python/#bibliotecas-de-python)
-{: .notice--danger}
+> ***Relacionados Python:*** *[Aprender Python](/python/) / [Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python) / [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python) / [Frameworks Python](/python-frameworks/) / [Librerías Python](/python-librerias/) / [Recursos Python](/python-recursos/) / [Editores o IDEs Python](/mejores-ide-python/) / [Diccionario Python](/glosario/completo-tecnologias-python/)*
 
 ## **1. PyCharm**
 

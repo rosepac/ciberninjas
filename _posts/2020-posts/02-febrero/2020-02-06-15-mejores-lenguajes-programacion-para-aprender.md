@@ -3,8 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "🥇 ▷ 15 Mejores Lenguajes de Programación 2021"
-description: 'Revisión de los lenguajes más utilizados y con mayor crecimiento en la actualidadm que sin lugar a dudas deberías aprender: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab'
-excerpt: 'Revisión de los lenguajes más utilizados y con mayor crecimiento en la actualidadm que sin lugar a dudas deberías aprender: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab'
+description: 'Revisión de los lenguajes más utilizados y con mayor crecimiento en la actualidad que sin lugar a dudas deberías aprender: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab'
+excerpt: 'Revisión de los lenguajes más utilizados y con mayor crecimiento en la actualidad que sin lugar a dudas deberías aprender: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab'
 published: true
 comments: false
 date: 2020-09-30 16:15:12

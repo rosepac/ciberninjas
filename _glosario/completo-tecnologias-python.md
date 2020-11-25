@@ -3,7 +3,7 @@ author: rosepac
 bootstrap: true
 layout: post
 published: true
-title: "Diccionario de Python y sus líbrerias"
+title: "Diccionario de Python y sus librerías"
 description: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción de cada una de ellas."
 excerpt: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción de cada una de ellas."
 published: true
@@ -17,6 +17,53 @@ feature-img: /assets/img/glosario/diccionario-completo-python.webp
 img: /assets/img/glosario/diccionario-completo-python.webp
 ---
 
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/python/">Aprender Python</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Diccionario Python</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/python/",
+     "name": "¿Cómo Aprender a Programar en Python 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/glosario/completo-tecnologias-python/",
+    "name": "Diccionario de Python y sus librerías"
+    }
+  }
+ ]
+}
+</script>
+
 Aquí vas a poder encontrar las palabras más importantes que se utilizan dentro del mundo del lenguaje de programación de Python.
 
 <!-- https://glossarytech.com/terms/python/ -->
@@ -26,6 +73,8 @@ Aquí vas a poder encontrar las palabras más importantes que se utilizan dentro
 
 <!-- https://glossarytech.com/terms/python/page2 --><span id="menu"></span>
 > **Índice**: 🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [K](/glosario/completo-tecnologias-python/#k) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [W](/glosario/completo-tecnologias-python/#w)
+
+> ***Relacionados Python:*** *[Aprender Python](/python/) / [Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python) / [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python) / [Frameworks Python](/python-frameworks/) / [Librerías Python](/python-librerias/) / [Recursos Python](/python-recursos/) / [Editores o IDEs Python](/mejores-ide-python/)*
 
 ![Diccionario de términos relacionados con el lenguaje de programación de Python](/assets/img/2020/python-diccionarios.webp "Diccionario de términos relacionados con el lenguaje de programación de Python")
 

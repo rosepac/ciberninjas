@@ -272,7 +272,7 @@ Librería completa de todos los libros mencionados en algún apartado dentro de 
 
 ## **Libros de Javascript**
 
-- [Domine JavaScript 4ª Edición](https://amzn.to/2w8DUFj){:target="_blank" rel="nofollow,noreferrer"} (2020)
+- [Domina JavaScript 4ª Edición](https://amzn.to/2w8DUFj){:target="_blank" rel="nofollow,noreferrer"} (2020)
 - [Curso de JavaScript](https://amzn.to/3a6HDSq){:target="_blank" rel="nofollow,noreferrer"} (MANUALES IMPRESCINDIBLES) (2020)
 - [Aprender a Programar En Javascript](https://amzn.to/2T5escU){:target="_blank" rel="nofollow,noreferrer"} (2020)
 

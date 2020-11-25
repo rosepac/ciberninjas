@@ -85,13 +85,9 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 - [**Los Mejores Curso Gratis C**](#los-mejores-curso-gratis-c)
 - [**Los Mejores Curso Gratis C#**](#los-mejores-curso-gratis-c-1)
 - [**Los Mejores Cursos Gratis C++**](#los-mejores-cursos-gratis-c)
-  - [¿Cuánto tiempo se tarda en aprender C ++?](#cuánto-tiempo-se-tarda-en-aprender-c-)
-  - [¿Es necesario aprender C antes de aprender C ++?](#es-necesario-aprender-c-antes-de-aprender-c-)
 - [**Los Mejores Curso Gratis Cobol**](#los-mejores-curso-gratis-cobol)
 - [**Los Mejores Cursos Gratis Ensamblador**](#los-mejores-cursos-gratis-ensamblador)
 - [**Los Mejores Cursos Gratis Go**](#los-mejores-cursos-gratis-go)
-  - [¿Qué es Golang?](#qué-es-golang)
-  - [¿Por qué Golang es tan popular?](#por-qué-golang-es-tan-popular)
 - [**Los Mejores Cursos Gratis Java**](#los-mejores-cursos-gratis-java)
 - [**Los Mejores Cursos Gratis de Framework Java**](#los-mejores-cursos-gratis-de-framework-java)
   - [**Cursos Gratis de Apache Struts**](#cursos-gratis-de-apache-struts)
@@ -99,10 +95,9 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
   - [PrimeFaces](#primefaces)
   - [.NET Core](#net-core)
   - [**Cursos Gratis de Spring**](#cursos-gratis-de-spring)
-  - [**Cursos Gratis de Struts**](#cursos-gratis-de-struts)
 - [**Los Mejores Cursos Gratis de Javascript**](#los-mejores-cursos-gratis-de-javascript)
 - [**Los Mejores Cursos Gratis de Frameworks de Javascript**](#los-mejores-cursos-gratis-de-frameworks-de-javascript)
-  - [**¿Dónde puedo aprender JavaScript para principiantes?**](#dónde-puedo-aprender-javascript-para-principiantes)
+  - [**¿Dónde puedo aprender JavaScript, si soy un principiante?**](#dónde-puedo-aprender-javascript-si-soy-un-principiante)
 - [**Los Mejores Cursos Gratis de Kotlin**](#los-mejores-cursos-gratis-de-kotlin)
 - [**Los Mejores Cursos Gratis de Perl**](#los-mejores-cursos-gratis-de-perl)
 - [**Los Mejores Cursos Gratis de PHP**](#los-mejores-cursos-gratis-de-php)
@@ -128,10 +123,10 @@ Sigue a través del siguiente menú, hacía tu lenguaje preferido o que más te 
 
 ## **Los Mejores Curso Gratis C**
 
-- [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
-- [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6){:target="_blank" rel="nofollow,noreferrer"} (ProgramacionATS, YouTube)
+1. [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
+1. [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6){:target="_blank" rel="nofollow,noreferrer"} (ProgramacionATS, YouTube)
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -149,27 +144,27 @@ C tiene características tales como un compilador portátil, un poderoso reposit
 
 Dado que C es un lenguaje de programación básico que constituye la piedra angular de muchos otros, casi no hay requisitos previos para la programación en C. Dicho esto, siempre puede practicar algunos problemas matemáticos y de razonamiento para poder catalizar su proceso para aprender programación en C. La mayoría de los tutoriales básicos de programación en C también cubren los fundamentos básicos de la computadora, explicando los conceptos básicos de RAM, ROM, discos duros, CPU y más. Una comprensión básica de estos conceptos mencionados puede ayudarlo a aprender más rápido.
 
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de C? <!-- omit in toc -->
-
-Si desea aprender a programar en C y está buscando un excelente tutorial de programación en C, Ciberninjas puede ayudarte. Los tutoriales de C para principiantes disponibles en la plataforma le ayudarán a ponerse en marcha y convertirse en un experto en programación C.
-
-Sigue los tutoriales y cursos de C en Ciberninjas para mantenerse al día con las últimas noticias, conocimientos, códigos, consejos y trucos.
-
 ### ¿Cómo aprender a programar en C? <!-- omit in toc -->
 
 La respuesta más simple es la práctica. Hay muchos lugares para comenzar a aprender C. La programación, independientemente del idioma, exige práctica. Simplemente debe instalar el compilador de C en su sistema y comprender los conceptos básicos. Entonces, comience hoy.
 
-### ¿Qué libro aprender C? <!-- omit in toc -->
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de C? <!-- omit in toc -->
 
-Hay varios libros excelentes y buenos para aprender C. Let Us C de Ashutosh Pandey y Yashavant Kanetkar y Exploring C de Yashavant Kanetkar son dos de esos ejemplos. También puede consultar estos 10 mejores libros de C y C ++ para aprender C y C ++.
+Si desea aprender a programar en C y estas buscando un excelente tutorial de programación en C, Ciberninjas puede ayudarte. Los tutoriales de C para principiantes disponibles en la plataforma le ayudarán a ponerse en marcha y convertirse en un experto en programación C.
 
-### ¿Puedo aprender el lenguaje C en línea? <!-- omit in toc -->
-
-Si. Existen varias plataformas para aprender el lenguaje de programación C en línea, como YouTube, Udemy, Codeacademy, Coursera. Si desea utilizar el compilador de C en línea, puede dirigirse a repl.it y onlinegdb.com.
+Sigue los tutoriales y cursos de C en Ciberninjas para mantenerse al día con las últimas noticias, conocimientos, códigos, consejos y trucos.
 
 ### ¿Dónde puedo aprender C? <!-- omit in toc -->
 
 Puede aprender C en una clase física, así como en un aula virtual o la combinación de los dos. Los libros son su mejor amigo para aprender C sin importar si está conectado o sin conexión. Puede visitar sitios como geeksforgeeks.org para comprender discusiones de temas rudimentarios y avanzados.
+
+### ¿Puedo aprender el lenguaje C en línea? <!-- omit in toc -->
+
+Sí. Existen varias plataformas para aprender el lenguaje de programación C en línea, como YouTube, Udemy, Codeacademy, Coursera. Si desea utilizar el compilador de C en línea, puede dirigirse a repl.it y onlinegdb.com.
+
+### ¿Con qué libro aprender C? <!-- omit in toc -->
+
+Hay varios libros excelentes para aprender C. Let Us C de Ashutosh Pandey y Yashavant Kanetkar y Exploring C de Yashavant Kanetkar son dos de esos ejemplos. También puede consultar estos 10 mejores libros de C y C ++ para aprender C y C ++.
 
 ## **Los Mejores Curso Gratis C#**
 
@@ -185,7 +180,7 @@ Puede aprender C en una clase física, así como en un aula virtual o la combina
 
 ### ¿Cómo aprender C ++? <!-- omit in toc -->
 
-Instale el compilador de C ++ en su sistema y comience. Puede consultar libros, videos en línea, cursos pagos y gratuitos, foros de discusión, etc. para ayudarlo con su esfuerzo de aprendizaje de C ++. Sin embargo, lo más importante para aprender C ++ es la práctica.
+Instala el compilador de C ++ en su sistema y comience. Puede consultar libros, videos en línea, cursos pagos y gratuitos, foros de discusión, etc. para ayudarlo con su esfuerzo de aprendizaje de C ++. Sin embargo, lo más importante para aprender C ++ es la práctica.
 
 ### ¿Dónde aprender C ++? <!-- omit in toc -->
 
@@ -195,11 +190,11 @@ YouTube, Coursera y Codeacademy son solo algunos de los mejores lugares para apr
 
 C ++ es uno de los lenguajes de programación más populares y versátiles. Hay tantos lenguajes de programación en los que ha influido. C ++ es una buena opción de aprendizaje, ya sea para aprovechar oportunidades profesionales lucrativas o para ingresar al ámbito de la programación.
 
-### Cuál es mejor aprender; ¿C ++ o Python? <!-- omit in toc -->
+### Cuál es mejor aprender, ¿C ++ o Python? <!-- omit in toc -->
 
-C ++ es como un veterano, mientras que Python es el nuevo, pero popular, chico de la cuadra. Si le gusta pasar mucho tiempo aprendiendo y entendiendo los conceptos básicos de la programación, C ++ es la opción.
+C ++ es como un veterano, mientras que Python es el chico nuevo, pero que se ha hecho más popular rápidamente. Si te gusta pasar mucho tiempo aprendiendo y entendiendo los conceptos básicos de la programación, C++ es la opción.
 
-Sin embargo, si simplemente no puede esperar para comenzar con la programación, Python es la opción ideal. Además, Python es más poderoso que C ++ y tiene aplicaciones más amplias.
+Sin embargo, si simplemente no puedes esperar por comenzar con la programación, Python es la opción ideal. Además, Python es más poderoso que C ++ y tiene aplicaciones más amplias.
 
 ### ¿Puedo aprender C ++ en línea? <!-- omit in toc -->
 
@@ -215,30 +210,34 @@ No hay escasez de buenos libros que detallan el lenguaje de programación C ++. 
 4. Programación: Principios y práctica con C ++ por Bjarne Stroustrup.
 5. El lenguaje de programación C ++ de Bjarne Stroustrup.
 
-### ¿Cuánto tiempo se tarda en aprender C ++?
+### ¿Cuánto tiempo se tarda en aprender C ++? <!-- omit in toc -->
 
 Aprender la sintaxis de C ++ puede llevar entre un par de días y algunas semanas. Sin embargo, comprender los conceptos avanzados y acostumbrarse a las bibliotecas y otras tecnologías relacionadas llevará varios años. No obstante, desarrollar una competencia laboral con C ++ puede llevar aproximadamente un año.
 
-### ¿Es necesario aprender C antes de aprender C ++?
+### ¿Es necesario aprender C antes de aprender C ++? <!-- omit in toc -->
 
 No. No es absolutamente necesario aprender C de antemano aprendiendo C ++. Sin embargo, si ya tiene algunos conocimientos de C, seguramente mejorará su experiencia de aprendizaje de C ++.
 
 ## **Los Mejores Curso Gratis Cobol**
 
-- [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank" rel="nofollow,noreferrer"}
+1. [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Los Mejores Cursos Gratis Ensamblador**
 
-- [Programación en ensamblador 8086 con proteus](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-en-ensamblador-8086-con-proteus%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Programación en ensamblador 8086 con proteus](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogramacion-en-ensamblador-8086-con-proteus%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Los Mejores Cursos Gratis Go**
 
-- [Curso de GO - De 0 a 100](/go-con-g-coding-academy/) (G Coding Academy, Youtube)
-- [Curso Interactivo de Go](https://gotour-es.appspot.com/#1) (HTML)
-- [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, YouTube)
-- [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-go-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+1. [Curso de GO - De 0 a 100](/go-con-g-coding-academy/) (G Coding Academy, Youtube)
+1. [Curso Interactivo de Go](https://gotour-es.appspot.com/#1) (HTML)
+1. [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank" rel="nofollow,noreferrer"} (G Coding Academy, YouTube)
+1. [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-go-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+
+### ¿Qué es Golang? <!-- omit in toc -->
+
+Golang o Go es un lenguaje de programación de código abierto que facilita el proceso de creación de software eficiente, confiable y simple. El lenguaje de programación de tipo estático prefiere la facilidad de uso sobre cualquier otra cosa. Fue introducido por Google en noviembre de 2009.
 
 ### ¿Cómo aprender Golang? <!-- omit in toc -->
 
@@ -246,7 +245,7 @@ Golang puede verse como el Python de los lenguajes de tipado estático. El enfoq
 
 ### ¿Por qué debería aprender Golang? <!-- omit in toc -->
 
-A diferencia de la mayoría de los lenguajes de programación, Golang favorece la ingeniería de software sobre la investigación de lenguajes de programación. Se centra en la concisión, la simultaneidad, el rendimiento, la legibilidad y la simplicidad. Las siguientes son algunas de las razones que abogan por aprender Golang:
+A diferencia de la mayoría de los lenguajes de programación, Golang favorece la ingeniería de software sobre la investigación en los lenguajes de programación. Se centra en la concisión, la simultaneidad, el rendimiento, la legibilidad y la simplicidad. Las siguientes son algunas de las razones que abogan por aprender Golang:
 
 1. Capaz de aprovechar el multinúcleo sin tener en cuenta la enorme cantidad de núcleos.
 2. No tiene intérprete ni máquina virtual.
@@ -268,85 +267,82 @@ La respuesta simple es no. Sin embargo, tanto Golang como Python están diseñad
 
 ### ¿Es Go más rápido que Java? <!-- omit in toc -->
 
-Go está diseñado para ser lo más fácil posible. No está diseñado para funcionar. Entonces, Java es más rápido que Go debido a las siguientes dos razones principales:
+Go está diseñado para ser lo más fácil posible. Entonces, Java es más rápido que Go debido a las siguientes dos razones principales:
 
 1. Java tiene el compilador JIT
 2. Java tiene una asignación de memoria basada en GC más rápida
 
-### ¿Qué es Golang?
-
-Golang or Go es un lenguaje de programación de código abierto que facilita el proceso de creación de software eficiente, confiable y simple. El lenguaje de programación de tipo estático prefiere la facilidad de uso sobre cualquier otra cosa. Fue introducido por Google en noviembre de 2009.
-
-### ¿Por qué Golang es tan popular?
+### ¿Por qué Golang es tan popular? <!-- omit in toc -->
 
 Golang admite la recolección automática de basura y la concurrencia. Además, tiene un excelente soporte para la verificación de errores y es altamente escalable. Además de todos ellos, es muy simple y un lenguaje de programación ligero de código abierto desarrollado y mantenido por Google.
 
 ## **Los Mejores Cursos Gratis Java**
 
-- [Acceso a bases de datos en Java](http://ocw.upm.es/course/acceso-bases-datos-java){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Curso básico de Java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-programacion-java%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-- [Desarrollo en J2ME con NetBeans](https://www.youtube.com/playlist?list=PL2DD57072B0682FEC){:target="_blank" rel="nofollow,noreferrer"} (Guillermo Malagon, YouTube)
-- [Estructura de datos en Java](https://www.youtube.com/playlist?list=PLCLpAU8VN0j4RGemFfybZrWoSX57NbEq9){:target="_blank" rel="nofollow,noreferrer"} (MasterHeHeGar, YouTube)
-- [Fundamentos de Java](https://devcode.la/cursos/fundamentos-java){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
-- [Fundamentos de Programación en Java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-en-java-ricrack%2F){:target="_blank" rel="nofollow,noreferrer"} (Alfonso Sebastián, Udemy)
-- [Introducción a Java desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-java-desde-cero-gratis%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Introducción a la programación en JAVA (2009)](https://ocw.ehu.eus/pluginfile.php/5429/mod_resource/content/1/intro_java/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Introducción a la programación en Java: escribiendo buen código](https://www.edx.org/es/course/introduccion-a-la-programacion-en-java-escribiendo){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Carlos III de Madrid)
-- [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
-- [Java Básico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-basico-d%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank" rel="nofollow,noreferrer"} (Mil Cursos Gratis)
-- [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-- [Taller Práctico de Java Server Page - JSP](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVbUthOrAxCCRorubLJ1uus){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
-- [Taller Práctico de Java Server Faces - JSF](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWUt7ZVM8BR8gOqFTVlVGuq){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
-- [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
+1. [Acceso a bases de datos en Java](http://ocw.upm.es/course/acceso-bases-datos-java){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Curso básico de Java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-programacion-java%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
+1. [Desarrollo en J2ME con NetBeans](https://www.youtube.com/playlist?list=PL2DD57072B0682FEC){:target="_blank" rel="nofollow,noreferrer"} (Guillermo Malagon, YouTube)
+1. [Estructura de datos en Java](https://www.youtube.com/playlist?list=PLCLpAU8VN0j4RGemFfybZrWoSX57NbEq9){:target="_blank" rel="nofollow,noreferrer"} (MasterHeHeGar, YouTube)
+1. [Fundamentos de Java](https://devcode.la/cursos/fundamentos-java){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
+1. [Fundamentos de Programación en Java](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-en-java-ricrack%2F){:target="_blank" rel="nofollow,noreferrer"} (Alfonso Sebastián, Udemy)
+1. [Introducción a Java desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-java-desde-cero-gratis%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Introducción a la programación en JAVA (2009)](https://ocw.ehu.eus/pluginfile.php/5429/mod_resource/content/1/intro_java/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Introducción a la programación en Java: escribiendo buen código](https://www.edx.org/es/course/introduccion-a-la-programacion-en-java-escribiendo){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Carlos III de Madrid)
+1. [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
+1. [Java Básico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-basico-d%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank" rel="nofollow,noreferrer"} (Mil Cursos Gratis)
+1. [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+1. [Taller Práctico de Java Server Page - JSP](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVbUthOrAxCCRorubLJ1uus){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+1. [Taller Práctico de Java Server Faces - JSF](https://www.youtube.com/playlist?list=PLbP-b3gf8hAWUt7ZVM8BR8gOqFTVlVGuq){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+1. [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
+
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[📚 Libros de Java](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-java){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔥 Comienza a Aprender Java](/java/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Los Mejores Cursos Gratis de Framework Java**
 
 ### **Cursos Gratis de Apache Struts**
 
-- [Taller Práctico de Apache Struts 2](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUHRXGI9ZmSA338-WQFL8gN){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+1. [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
+1. [Taller Práctico de Apache Struts 2](https://www.youtube.com/playlist?list=PLbP-b3gf8hAUHRXGI9ZmSA338-WQFL8gN){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
 ### **Cursos Gratis de Play**
 
-- [Play Framework](https://www.youtube.com/playlist?list=PLSkgknIuMNrrWy4Ly5mGQ7VryaLYBPhgj){:target="_blank" rel="nofollow,noreferrer"} (Juan Manuel Marchese, YouTube)
-- [Tutorial de Play Framework](https://www.youtube.com/playlist?list=PLSKqagaCmohcTbZ_nva1mGGLBz1agOF_k){:target="_blank" rel="nofollow,noreferrer"} (Play Framework, Youtube)
+1. [Play Framework](https://www.youtube.com/playlist?list=PLSkgknIuMNrrWy4Ly5mGQ7VryaLYBPhgj){:target="_blank" rel="nofollow,noreferrer"} (Juan Manuel Marchese, YouTube)
+1. [Tutorial de Play Framework](https://www.youtube.com/playlist?list=PLSKqagaCmohcTbZ_nva1mGGLBz1agOF_k){:target="_blank" rel="nofollow,noreferrer"} (Play Framework, Youtube)
 
 ### PrimeFaces
 
-- [Primefaces](https://www.youtube.com/watch?v=eZDoSlerA1I&list=PLvimn1Ins-42YbcBrdPbqFiO8JxJUca_z){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
-- [Primefaces Avanzado](https://www.youtube.com/watch?v=-7mEXB6rEjg&list=PLvimn1Ins-41Dn6vhYzB0Kv90_2eFIdXG){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
+1. [Primefaces](https://www.youtube.com/watch?v=eZDoSlerA1I&list=PLvimn1Ins-42YbcBrdPbqFiO8JxJUca_z){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
+1. [Primefaces Avanzado](https://www.youtube.com/watch?v=-7mEXB6rEjg&list=PLvimn1Ins-41Dn6vhYzB0Kv90_2eFIdXG){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
 
 ### .NET Core
 
-- [Curso de .NET Core Framework](/net-core-framework-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
+1. [Curso de .NET Core Framework](/net-core-framework-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 
 ### **Cursos Gratis de Spring**
 
-- [Desarrollo Web con Spring Boot](/desarrollo-web-spring-boot-con-byte-code/){:target="_blank" rel="nofollow,noreferrer"} (Byte Code, Youtube) (2018)
-- [Spring Framework Tutorial](https://www.youtube.com/watch?v=r4kqcSs4F7I&list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
-- [Spring Framework Tutorial](/spring-framework-con-4softwaredevelopers/) (4 SoftwareDevelopers, Youtube) (2017)
-- [Spring Boot](/spring-boot-con-mitocode/) (Mitocode, Youtube) (2019)
-- [Spring Boot](/spring-boot-con-jose-orjuela/) (José Orjuela, Youtube) (2018)
-- [Spring Boot + Docker](/spring-boot-docker-con-abel-fresnillo/) (Abel Fresnillo, Youtube) (2019)
-- [Spring Boot: recetas para el trabajo diario (introducción)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-recetas-para-el-trabajo-diario-introduccion%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-- [Taller Práctico de Spring Web MVC](https://www.youtube.com/playlist?list=PLbP-b3gf8hAW2ALibZexruFfYxD0idO36){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
+1. [Desarrollo Web con Spring Boot](/desarrollo-web-spring-boot-con-byte-code/){:target="_blank" rel="nofollow,noreferrer"} (Byte Code, Youtube) (2018)
+1. [Spring Framework Tutorial](https://www.youtube.com/watch?v=r4kqcSs4F7I&list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb){:target="_blank" rel="nofollow,noreferrer"} (Mito Code, Youtube)
+1. [Spring Framework Tutorial](/spring-framework-con-4softwaredevelopers/) (4 SoftwareDevelopers, Youtube) (2017)
+1. [Spring Boot](/spring-boot-con-mitocode/) (Mitocode, Youtube) (2019)
+1. [Spring Boot](/spring-boot-con-jose-orjuela/) (José Orjuela, Youtube) (2018)
+1. [Spring Boot + Docker](/spring-boot-docker-con-abel-fresnillo/) (Abel Fresnillo, Youtube) (2019)
+1. [Spring Boot: recetas para el trabajo diario (introducción)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-recetas-para-el-trabajo-diario-introduccion%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+1. [Taller Práctico de Spring Web MVC](https://www.youtube.com/playlist?list=PLbP-b3gf8hAW2ALibZexruFfYxD0idO36){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, Youtube)
 
-### **Cursos Gratis de Struts**
+### ¿Qué es Java? <!-- omit in toc -->
 
-- [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
+Java es considerado uno de los lenguajes de programación más importantes del mundo. Java se basa en el concepto de objetos y también se conoce como lenguaje de programación orientada a objetos (OOP).
 
-[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
-
-### ¿Que es Java? <!-- omit in toc -->
-
-Java es considerado uno de los lenguajes de programación más importantes del mundo. Java se basa en el concepto de objetos y también se conoce como lenguaje de programación orientada a objetos (OOP). Como es un lenguaje compatible con redes, los programas creados a través de Java se pueden ejecutar en una variedad de plataformas. Además, proporciona un sistema seguro a través de un entorno de tiempo de ejecución. La programación Java funciona a través de un sistema robusto que elimina ciertos tipos de errores de programación y es fácil de aprender y usar.
+Como es un lenguaje compatible con redes, los programas creados a través de Java se pueden ejecutar en una variedad de plataformas. Además, proporciona un sistema seguro a través de un entorno de tiempo de ejecución. La programación Java funciona a través de un sistema robusto que elimina ciertos tipos de errores de programación y es fácil de aprender y usar.
 
 ### ¿Cuáles son los requisitos previos para aprender Java? <!-- omit in toc -->
 
 Antes de sumergirse en la programación de Java y buscar los mejores tutoriales de Java, es importante conocer los requisitos previos para aprender Java. Dado que Java es de naturaleza rudimentaria, no existen requisitos previos oficiales para aprenderlo.
 
-Sin embargo, el conocimiento de programación en un lenguaje básico como C será útil y lo ayudará a comprender los conceptos de Java. Sin embargo, si desea aprender programación Java de inmediato sin aprender nada más, es importante elegir un tutorial de Java de alta calidad y avanzar en un patrón de aprendizaje ordenado. 
+Sin embargo, el conocimiento de programación en un lenguaje básico como C será útil y lo ayudará a comprender los conceptos de Java. Sin embargo, si desea aprender programación Java de inmediato sin aprender nada más, es importante elegir un tutorial de Java de alta calidad y avanzar en un patrón de aprendizaje ordenado.
 
 ### ¿Por qué debería aprender Java? <!-- omit in toc -->
 
@@ -355,12 +351,6 @@ Java ha demostrado su valía a través de su diversidad de usos. Un informe sugi
 La plataforma continúa agregando características que la convierten en el lenguaje de programación perfecto para usar en cualquier escala de programación. La abundancia de programadores también se suma a la mezcla, ya que ayuda a que el lenguaje evolucione aún más.
 
 Uno debe aprender Java, ya que es una de las plataformas más modernas para aplicaciones móviles y web y es un lenguaje excelente para desarrollar aplicaciones de escritorio multiplataforma.
-
-### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Java? <!-- omit in toc -->
-
-Ciberninjas es su plataforma de aprendizaje integral que ofrece varios tutoriales de Java para ayudarlo a poner en marcha sus proyectos de programación Java.
-
-Siga a Ciberninjas en redes sociales para mantenerse conectado y conocer las últimas noticias, artículos, consejos y trucos de Java.
 
 ### ¿Cuáles son los mejores libros para aprender Java? <!-- omit in toc -->
 
@@ -376,9 +366,9 @@ Para obtener una lista más completa y detallada de los mejores libros de Java, 
 
 ### ¿Cómo empiezo a aprender Java? <!-- omit in toc -->
 
-Puede comenzar a aprender Java con estos tutoriales gratuitos de Java recomendados en Ciberninjas. También puede usar libros, lecciones en video de YouTube y cursos y certificaciones para aprender y avanzar en Java.
+Puedes comenzar a aprender Java con los tutoriales gratuitos de Java recomendados en Ciberninjas. También puedes usar libros, videotutoriales de YouTube y cursos o certificaciones para aprender y avanzar en Java.
 
-### ¿Puedes aprender Java en un día? <!-- omit in toc -->
+### ¿Puedo aprender Java en un día? <!-- omit in toc -->
 
 Es como preguntar: "¿Podemos construir Roma en un día?" No, pero al menos podemos empezar. Aprender la semántica de Java (o cualquier otro lenguaje de programación) es algo que puede hacer en un día, pero aprender el funcionamiento de Java (o cualquier otro lenguaje de programación) requiere práctica y tiempo, ¡mucho, mucho tiempo!
 
@@ -390,16 +380,30 @@ La mejor forma de aprender Java es practicarlo repetidamente. Para aprender los 
 - Cursos y certificaciones online
 - Lecciones en video de YouTube
 
+### ¿Cómo Ciberninjas va a ayudarte a encontrar los mejores tutoriales de Java? <!-- omit in toc -->
+
+Ciberninjas es su plataforma de aprendizaje integral que ofrece varios tutoriales de Java para ayudarte a poner en marcha tus proyectos de programación Java.
+
+[Aprender JAVA](https://ciberninjas.com/java/) / [Frameworks Java](https://ciberninjas.com/10-mejores-frameworks-java/) / [Mejores Herramientas Java](https://ciberninjas.com/java-herramientas-para-desarrolladores/) / [Mejores Aplicaciones Java Jamás Creadas](https://ciberninjas.com/25-aplicaciones-java/) / [Framework Javalin](https://ciberninjas.com/javalin-framework/)
+
+Siga a Ciberninjas en redes sociales para mantenerse conectado y conocer las últimas noticias, artículos, consejos y trucos de Java.
+
 ## **Los Mejores Cursos Gratis de Javascript**
 
-- [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
-- [Curso básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
-- [Curso de Javascript desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID) (Pildoras Informáticas, Youtube)
-- [Curso de Javascript para principiantes](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-- [Javascript 6](https://www.youtube.com/playlist?list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z){:target="_blank" rel="nofollow,noreferrer"} (WebApps HTML5, Youtube)
-- [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript){:target="_blank" rel="nofollow,noreferrer"}
-- [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-- [Javascript desde cero](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (YouTube)
+1. [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
+1. [Curso básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
+1. [Curso de JAVASCRIPT desde CERO (Completo) - Nivel MID LEVEL](https://youtu.be/xOinGb2MZSk){:target="_blank" rel="nofollow,noreferrer"} (Soy Dalto, Youtube)
+1. [Curso de Javascript desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID) (Pildoras Informáticas, Youtube)
+1. [Curso de Javascript](https://www.youtube.com/playlist?list=PLAo4pr-Oiqfzi3-L5rzhPcGdeGcWwQ0ss){:target="_blank" rel="nofollow,noreferrer"} (David Torres Dev, Youtube)
+1. [Curso de Javascript para principiantes](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
+1. [Javascript 6](https://www.youtube.com/playlist?list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z){:target="_blank" rel="nofollow,noreferrer"} (WebApps HTML5, Youtube)
+1. [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript){:target="_blank" rel="nofollow,noreferrer"}
+1. [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+1. [Javascript desde cero](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
+
+[🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[📚 Libros de Javascript](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-javascript){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔥 Comienza a Aprender Javascript](/javascript/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Los Mejores Cursos Gratis de Frameworks de Javascript**
 
@@ -416,7 +420,9 @@ Con la programación de JavaScript, los usuarios pueden crear videojuegos en lí
 
 ### **¿Cuáles son los requisitos previos para aprender JavaScript?** <!-- omit in toc -->
 
-Los usuarios pueden aprender JS en línea, ya que hay miles de tutoriales de JS disponibles en línea que brindan aprendizaje en todos los niveles (principiantes, intermedios y avanzados) de programación de JavaScript. Sin embargo, antes de comenzar, existen algunos requisitos previos para aprender JavaScript. Si bien es posible comenzar con JavaScript, los usuarios deben aprender HTML y CSS y obtener una comprensión firme de los dos. Una vez que adquiera las habilidades necesarias, puede pensar en la programación de JavaScript y comenzar a buscar tutoriales de JS para aprender JavaScript.
+Los usuarios pueden aprender JS en línea, ya que hay miles de tutoriales de JS disponibles en línea que brindan aprendizaje en todos los niveles (principiantes, intermedios y avanzados) de programación de JavaScript. Sin embargo, antes de comenzar, existen algunos requisitos previos para aprender JavaScript.
+
+Si bien es posible comenzar con JavaScript, los usuarios deben aprender HTML y CSS y obtener una comprensión firme de los dos. Una vez que adquiera las habilidades necesarias, puede pensar en la programación de JavaScript y comenzar a buscar tutoriales de JS para aprender JavaScript.
 
 ### **¿Por qué debería aprender JavaScript?** <!-- omit in toc -->
 
@@ -434,26 +440,24 @@ JavaScript es un lenguaje de programación popular de la web. Aunque no es uno d
 
 A continuación se muestran algunos de los mejores libros para aprender JavaScript:
 
-- Principio del desarrollo de JavaScript y CSS con jQuery por Richard York.
-- JavaScript en diez minutos por Spencer Tipping.
-- Referencia del programador de JavaScript por Jonathan Reid.
-- Pensando en JavaScript por Aravind Shenoy.
-- 
+1. [Domina JavaScript 4ª Edición](https://amzn.to/2w8DUFj){:target="_blank" rel="nofollow,noreferrer"} (2020)
+1. [Curso de JavaScript](https://amzn.to/3a6HDSq){:target="_blank" rel="nofollow,noreferrer"} (MANUALES IMPRESCINDIBLES) (2020)
+1. [Aprender a Programar En Javascript](https://amzn.to/2T5escU){:target="_blank" rel="nofollow,noreferrer"} (2020)
+
+Si quieres, ojear más libros, no dudes en pasar por [la librería de Ciberninjas](). O si lo que buscas son libros gratis, por nuestra [biblioteca gratuita de Javascript]().
 <!-- Consulte esta lista detallada de los mejores libros de JavaScript. https://hackr.io/blog/javascript-books -->
 
 ### **¿Cómo ejecutar JavaScript?** <!-- omit in toc -->
 
 Puede ejecutar el código JavaScript mediante:
 
-1. 	Usando un editor de texto, como Notepad ++
+1. Usando un editor de texto, como Notepad ++.
+2. Usando algún compilador en línea, como onlinegdb.com y repl.it.
+3. Usando la ventana de la consola de un navegador web.
 
-2. 	Usando algún compilador en línea, como onlinegdb.com y repl.it
+### **¿Dónde puedo aprender JavaScript, si soy un principiante?**
 
-3. 	Usando la ventana de la consola de un navegador web
-
-### **¿Dónde puedo aprender JavaScript para principiantes?**
-
-Lo mejor para comenzar a aprender JS es con libros. No obstante, también puede comenzar JavaScript con videos de YouTube y tutoriales gratuitos de JavaScript.
+Lo mejor para comenzar a aprender JS es con libros, y en Ciberninjas vas a encontrar [los mejores libros para aprender Javascript y totalmente gratis](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-javascript). No obstante, también puedes comenzar JavaScript con videos de YouTube y tutoriales gratuitos de JavaScript.
 
 ## **Los Mejores Cursos Gratis de Kotlin**
 
@@ -542,13 +546,15 @@ Los [cursos de Kotlin](https://ciberninjas.com/cursos-android/) han sido movidos
 
 ### ¿Qué es PHP? <!-- omit in toc -->
 
-El preprocesador de hipertexto o PHP es un lenguaje de secuencias de comandos, utilizado principalmente para el desarrollo web. PHP se puede utilizar en combinación con múltiples sistemas de plantillas web, marcos web y sistemas de gestión de contenido. Además, se puede incrustar en código HTML, aumentando sus capacidades. Los desarrolladores pueden escribir extensiones en C, agregando capacidades funcionales al lenguaje PHP.
+El preprocesador de hipertexto o PHP es un lenguaje de secuencias de comandos, utilizado principalmente para el desarrollo web. PHP se puede utilizar en combinación con múltiples sistemas de plantillas web, frameworks web y sistemas de gestión de contenido. Además, se puede incrustar en código HTML, aumentando sus capacidades. Los desarrolladores pueden escribir extensiones en C, agregando capacidades funcionales al lenguaje PHP.
 
 Además, incluye varias bibliotecas de código abierto y de uso gratuito en la distribución de código fuente, que también se pueden usar en compilaciones binarias de PHP. PHP es relativamente simple y más rápido en comparación con otros lenguajes de scripting, con múltiples constantes de informes de errores, que generan un aviso de error.
 
 ### ¿Cuáles son los requisitos previos para aprender PHP? <!-- omit in toc -->
 
-Antes de intentar aprender PHP, es esencial tomar nota de algunas sugerencias. Lograr una comprensión básica de HTML antes de aprender PHP aumentará sus habilidades. Como puede incrustar PHP en HTML, conocer ambos lenguajes puede ayudarlo a cambiar entre ellos en el mismo documento. El conocimiento de CSS, JavaScript y MySQL también puede aumentar sus habilidades de programación PHP. Una vez que se sienta competente en estos lenguajes, puede buscar un tutorial de PHP para principiantes o videoconferencias sobre cómo aprender PHP.
+Antes de intentar aprender PHP, es esencial tomar nota de algunas sugerencias. Lograr una comprensión básica de HTML antes de aprender PHP aumentará tus habilidades. Como puedes incrustar PHP en HTML, conocer ambos lenguajes puede ayudarlo a cambiar entre ellos en el mismo documento.
+
+El conocimiento de CSS, JavaScript y MySQL también puede aumentar sus habilidades de programación PHP. Una vez que se sienta competente en estos lenguajes, puede buscar un tutorial de PHP para principiantes o videoconferencias sobre cómo aprender PHP.
 
 ### ¿Por qué debería aprender el lenguaje PHP? <!-- omit in toc -->
 
@@ -575,21 +581,15 @@ El lenguaje de secuencias de comandos del lado del servidor se utiliza para desa
 
 - Sitios web estáticos y dinámicos
 - Aplicaciones web
-- Marcos de desarrollo web para el desarrollo de PHP (y otros lenguajes de programación)
+- Frameworks de desarrollo web para el desarrollo de PHP (y otros lenguajes de programación)
 
 ### ¿Cómo aprender PHP? <!-- omit in toc -->
 
-Puedes aprender PHP con:
-
-- Los mejores libros de PHP
-- Tutoriales en línea
-- Principales cursos y certificaciones en línea
-- Artículos web
-- Lecciones en video de YouTube
+Puedes aprender PHP con: Los mejores libros de PHP, tutoriales en línea, principales cursos y certificaciones en línea, artículos web y lecciones en video de YouTube.
 
 ### ¿Cómo aprender PHP rápidamente? <!-- omit in toc -->
 
-Comience con tutoriales de introducción, fundamentos, conceptos básicos y para principiantes, libros, lecciones en video en línea, etc. y practique rigurosamente. Hacer un experimento continuo con su enfoque le permitirá aprender mejor de sus errores. Conócelo y sigue practicando.
+Comienza con tutoriales de introducción, fundamentos, conceptos básicos y para principiantes, libros, lecciones en video en línea, etc. y practica rigurosamente. Hacer un experimento continuo con su enfoque le permitirá aprender mejor de sus errores. Conócelo y sigue practicando.
 
 ## **Los Mejores Cursos Gratis de Python**
 
@@ -613,6 +613,8 @@ Comience con tutoriales de introducción, fundamentos, conceptos básicos y para
 - [Web Scraping](https://www.youtube.com/playlist?list=PLuaGRMrO-j-8B_RT_2kGE6NW-ZxzHaU17){:target="_blank" rel="nofollow,noreferrer"} (Leonardo Kuffo, Youtube) (2017)
 
 [🔝 Regresar al Menú de Lenguajes de Programación 👨‍💻](/cursos-programacion/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[📚 Libros de Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔥 Comienza a Aprender Python](/python/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Los Mejores Cursos Gratis de Frameworks de Python**
 

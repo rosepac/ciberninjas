@@ -87,8 +87,9 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 <span id="menu"><strong>Menú de Categorías de Libros Gratuitos<strong></span>
 
-- [**Meta-Listas de Libros**](#meta-listas-de-libros)
-  - [**Meta-Listas de Herramientas**](#meta-listas-de-herramientas)
+- [**Meta-Listas: Libros**](#meta-listas-libros)
+  - [**Meta-Listas: Documentos / Repositorios Universitarios**](#meta-listas-documentos--repositorios-universitarios)
+  - [**Meta-Listas: Herramientas**](#meta-listas-herramientas)
   - [**Cursos Masivos en Línea**](#cursos-masivos-en-línea)
 - [**Libros Gratis de Algoritmos**](#libros-gratis-de-algoritmos)
 - [**Libros Gratis de Bases de Datos**](#libros-gratis-de-bases-de-datos)
@@ -167,7 +168,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
   - [**Libros Gratis de Laravel**](#libros-gratis-de-laravel)
 - [**Libros Gratis de Perl**](#libros-gratis-de-perl)
 - [**Libros Gratis de Python**](#libros-gratis-de-python)
-- [**Libros Gratis de Python Frameworks**](#libros-gratis-de-python-frameworks)
+- [**Libros Gratis de Frameworks de Python**](#libros-gratis-de-frameworks-de-python)
   - [**Libros Gratis de Django**](#libros-gratis-de-django)
   - [**Libros Gratis de Web2py**](#libros-gratis-de-web2py)
 - [**Libros Gratis de Ruby**](#libros-gratis-de-ruby)
@@ -189,7 +190,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [Licencia](#licencia)
   - [**Nos Referencian**](#nos-referencian)
 
-## **Meta-Listas de Libros**
+## **Meta-Listas: Libros**
 
 * [Aprender Python](https://kutt.it/meta-aprendiendo-python){:target="_blank" rel="nofollow,noreferrer"} - Python Argentina
 * [Aprender Java](https://kutt.it/java-hispano){:target="_blank" rel="nofollow,noreferrer"} - Java Hispano
@@ -211,14 +212,19 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### **Meta-Listas de Herramientas**
+### **Meta-Listas: Documentos / Repositorios Universitarios**
 
-* [Style Guides](https://styleguides.io){:target="_blank" rel="nofollow,noreferrer"} (+572 entre Artículos, Libros y Herramientas)
+* [ETSI: Escuela Técnica Superior de Ingeniería, Sevilla](http://bibing.us.es/proyectos/){:target="_blank" rel="nofollow,noreferrer"}
+* [Repositorio Institucional de la Universidad de Oviedo](https://digibuo.uniovi.es/dspace/handle/10651/18008){:target="_blank" rel="nofollow,noreferrer"}
+
+### **Meta-Listas: Herramientas**
+
+* [Guías de Estilos](https://styleguides.io){:target="_blank" rel="nofollow,noreferrer"} (+572 entre Artículos, Libros y Herramientas)
+* [Librería de Paquetes](https://ciberninjas.com/repositorio-librerias/) (+ de 7 Millones de paquetes de 37 gestores d paquetes)
 
 ### **Cursos Masivos en Línea**
 
 * [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2020)
-* [Miriadax](https://miriadax.net/cursos){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Hacker.IO](https://hackr.io/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
@@ -805,6 +811,10 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [JavaScript Para Gatos](https://jsparagatos.com){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍🎓 Cursos de Javascript](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-javascript){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔥 Comienza a Aprender Javascript](/javascript/){: .btn .btn-outline-dark .btn-lg .btn-block}
+
 ### **Libros Gratis de Angular**
 
 * [Cómo aprender AngularJS](https://drive.google.com/file/d/1Fa4cnjBLDvzLGIVIFtE5B22_Hubl2FmN/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (HTML)
@@ -911,7 +921,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Tutorial de Python 3.6](https://tutorial.python.org.ar/_/downloads/en/latest/pdf/){:target="_blank" rel="nofollow,noreferrer"} (2020)
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) [(HTML)](https://tryton-ar.readthedocs.io/es/latest/introduccion.html){:target="_blank" rel="nofollow,noreferrer"}
 
-## **Libros Gratis de Python Frameworks**
+[🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍🎓 Cursos de Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔥 Comienza a Aprender Python](/python/){: .btn .btn-outline-dark .btn-lg .btn-block}
+
+## **Libros Gratis de Frameworks de Python**
 
 ### **Libros Gratis de Django**
 
@@ -923,6 +937,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Web2py - Manual de Referencia Completo, 5a Edición](https://www.web2py.com/books/default/chapter/41){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👩‍🎓 Cursos de Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔥 Comienza a Aprender Python](/python/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Ruby**
 
@@ -1052,8 +1068,8 @@ Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://cibern
 
 ### **Nos Referencian**
 
-* [Consejo Escolar](https://www.consejoescolar.es/blog/libros-gratis-de-programacion){:target="_blank" rel="nofollow,noreferrer"}
-* [Libraries IO](https://www.consejoescolar.es/blog/libros-gratis-de-programacion){:target="_blank" rel="nofollow,noreferrer"}
+* [Consejo Escolar](https://www.consejoescolar.es/blog/libros-gratis-de-programacion){:target="_blank" rel="follow"}
+* [Libraries IO](https://libraries.io/github/rosepac/biblioteca-espanol-gratis){:target="_blank" rel="follow"}
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
