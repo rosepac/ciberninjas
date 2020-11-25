@@ -535,7 +535,7 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Recursos de Python 🐍](/python-recursos/#menu-py-rec){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--inverse .btn--large .align-center}
 

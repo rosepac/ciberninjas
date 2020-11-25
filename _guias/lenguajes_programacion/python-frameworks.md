@@ -352,7 +352,7 @@ https://rayframework.github.io/site/
 
 _____
 
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
+[🐍 Recursos de Python 🐍](/python-recursos/#menu-py-rec){: .btn .btn--warning .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
 [🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--warning .btn--large .align-center}
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}

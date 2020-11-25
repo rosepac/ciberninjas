@@ -112,7 +112,7 @@ Python es un lenguaje accesible para nuevos programadores porque la comunidad pr
 
 En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrados en Python a través de la web Indeed.com.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Ir al Menú](/python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **¿Puedo aprender Python por mi cuenta?**
 
@@ -178,7 +178,7 @@ A pesar de las numerosas revisiones, ILM continúa considerando que Python es la
 
 Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
 
-[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Ir al Menú](/python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -201,16 +201,16 @@ En este espacio vamos a analizar las 10 mejores y más reconocidas bibliotecas d
 
 ¿Cuáles son las bibliotecas más importantes de Python? Existen decenas de bibliotecas con las que puedes trabajar en Python, pero las que más prestigio han acumulado con el paso del tiempo son las siguientes: TensorFlow, Scikit-Learn, Numpy, Keras, PyTorch, LightGBM, Eli5, SciPy, Theano, Pandas y así; hasta 26 de las librerías mas importantes de Python.
 
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
-[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
-[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--warning .btn--large .align-center}
-[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Recursos de Python 🐍](/python-recursos/#menu-py-rec){: .btn .btn-outline-warning .btn-lg .btn-block}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn-outline-warning .btn-lg .btn-block}
+[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn-outline-warning .btn-lg .btn-block}
+[🔝 Ir al Menú](/python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados <!-- omit in toc -->
 
-[🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 _____
 

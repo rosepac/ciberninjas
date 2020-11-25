@@ -527,10 +527,9 @@ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones in
 
 [🔝 Volver al Menú de Librerías de Python 🔝](/python-librerias/#menu-libr){: .btn .btn--inverse .btn--large .align-center}
 
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
+[🐍 Recursos de Python 🐍](/python-recursos/#menu-py-rec){: .btn .btn--warning .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
 [🐍 Librería  de Python 🐍](/libros/#python){: .btn .btn--warning .btn--large .align-center}
-[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

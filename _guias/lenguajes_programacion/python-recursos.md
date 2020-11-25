@@ -68,6 +68,8 @@ Encontrarás una extensa [introducción a Python](/python/) en nuestra guía, al
 
 > ***Relacionados Python:*** *[Aprender Python](/python/) / [Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python) / [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python) / [Frameworks Python](/python-frameworks/) / [Librerías Python](/python-librerias/) / [Editores o IDEs Python](/mejores-ide-python/) / [Diccionario Python](/glosario/completo-tecnologias-python/)*
 
+
+
 * [¿Por qué Python es mejor que PHP?](/porque-python-es-mejor-que-php/)
 * [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)
 * [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2021 🤖](/que-aprender-sobre-machine-learning-2020/)
@@ -77,9 +79,21 @@ A continuación, tienes los enlaces directos a libros y cursos sobre Python; tan
 
 [📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Cursos Python 🐍](https://kutt.it/python-cursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large .align-center} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large .align-center}
 
-[Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python](https://ciberninjas.com/python-recursos/#chuletas--de-consulta){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
-
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+<span id="menu-py-rec"></span>
+
+- [Artículos de Python](#artículos-de-python)
+- [Listados de Artículos en Blogs](#listados-de-artículos-en-blogs)
+  - [Bases de Datos](#bases-de-datos)
+  - [Python Científico](#python-científico)
+  - [Scraping Web](#scraping-web)
+- [Videotutoriales Youtube](#videotutoriales-youtube)
+- [Chuletas de Consulta](#chuletas-de-consulta)
+- [Cheatsheets de Python](#cheatsheets-de-python)
+- [Software](#software)
+- [Probar Código](#probar-código)
+- [Wiki Python](#wiki-python)
 
 ## Artículos de Python
 
@@ -192,9 +206,9 @@ Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores p
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Aprender Python 🐍](/python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 <!-- 
 Blogs https://blog.feedspot.com/python_blogs/
 Canales de Youtube https://blog.feedspot.com/python_youtube_channels/
