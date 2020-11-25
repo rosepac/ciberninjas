@@ -149,7 +149,7 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 
 A continuación, vamos a reunir las mejores páginas de programación del mundo, ¡Veamos cuantas podemos recopilar!
 
-> <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i> 38 páginas + 25 canales de Youtube y subiendo..<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+> <i class="fa fa-spinner fa-spin fa-2x fa-fw"></i> 38 páginas + 25 canales de Youtube y subiendo..<i class="fa fa-spinner fa-spin fa-2x fa-fw"></i>
 
 - [**1. FreeCodeCamp**](#1-freecodecamp)
 - [**2. Udemy**](#2-udemy)
