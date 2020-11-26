@@ -121,11 +121,11 @@ Agile enfatiza un cambio del control al consenso. El enfoque está en que las pe
 
 La 'cascada' tradicional utiliza un alcance acordado para crear un plan de tiempo y recursos. Agile establece los recursos y el tiempo que, en última instancia, impulsan el alcance. Habrá una serie de períodos de entrega de tiempo y costo, sprints, a través de los cuales evolucionará el proyecto.
 
-Un entorno ágil establece un producto mínimo viable (MVP); el entregable del proyecto principal para activar el inicio de una entrega. Es probable que esto cambie a medida que el equipo del proyecto se dé cuenta de otras oportunidades o beneficios que estarán disponibles a lo largo de cada sprint.
+Un entorno ágil establece un producto mínimo viable (MVP); el entregable del proyecto principal para activar el inicio de una entrega. Es probable que esto cambie a medida de que el equipo del proyecto se dé cuenta de otras oportunidades o beneficios que estarán disponibles a lo largo de cada sprint.
 
 ### Soluciones de creación de prototipos / trabajo sobre documentación completa
 
-El equipo es propietario del MVP y trabaja en conjunto para desarrollar el producto; qué entregarán y cómo lo entregarán. El equipo de entrega está 'capullo' para enfocarse en la solución al problema que están enfrentando. El equipo realizará ajustes constantes al alcance del producto.
+El equipo es propietario del MVP y trabaja en conjunto para desarrollar el producto; qué entregarán y cómo lo entregarán. El equipo de entrega siempre estará centrado en enfocarse en la solución al problema que se está enfrentando. El equipo realizará ajustes constantes al alcance del producto.
 
 ## **¿Por qué necesito ágile en la gestión de proyectos?**
 
