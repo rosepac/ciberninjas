@@ -19,18 +19,54 @@ thumbnail: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-
 feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 ---
 
-El artículo contiene el mejor contenido ***tutorial\*** que he encontrado hasta ahora. De ninguna manera es una lista exhaustiva de todos los tutoriales relacionados con ML en la web, eso sería abrumador y duplicativo. Además, hay un montón de contenido mediocre por ahí. Mi objetivo era vincularme a los mejores tutoriales que encontré sobre los subtemas importantes dentro del aprendizaje automático y la PNL.
+> El artículo a continuación incluye los mejores recursos que existen en Internet, para iniciars en el mundo del aprendizaje automático. Fue redactado, este mismo año en Medium, por [@RobbieAllen](https://twitter.com/robbieallen){:target="_blank" rel="nofollow,noreferrer"} y traducido por [Pablo Álvarez Corredera](/quien-soy/) para los Ciberninjas con deseo de aprender. :D
 
-Por ***tutorial\*** , me refiero al contenido introductorio que pretende enseñar un concepto sucintamente. He evitado incluir capítulos de libros, que tienen una mayor cobertura, y trabajos de investigación, que generalmente no hacen un buen trabajo en la enseñanza de conceptos. ¿Por qué no solo comprar un libro? Los tutoriales son útiles cuando intentas aprender un tema de nicho específico o quieres obtener diferentes perspectivas.
+El artículo contiene el mejor contenido **tutorial** que he encontrado hasta ahora. De ninguna manera es una lista exhaustiva de todos los tutoriales relacionados con ML en la web, eso sería abrumador y duplicativo. Además, hay un montón de contenido mediocre por ahí. Mi objetivo era vincularme a los mejores tutoriales que encontré sobre los subtemas importantes dentro del aprendizaje automático y la PNL.
+
+Por **tutorial** , me refiero al contenido introductorio que pretende enseñar un concepto sucintamente. He evitado incluir capítulos de libros, que tienen una mayor cobertura, y trabajos de investigación, que generalmente no hacen un buen trabajo en la enseñanza de conceptos. ¿Por qué no solo comprar un libro? Los tutoriales son útiles cuando intentas aprender un tema de nicho específico o quieres obtener diferentes perspectivas.
 
 He dividido esta publicación en cuatro secciones: **Aprendizaje automático**, **PNL**, **Python** y **Matemáticas**. Incluí una muestra de temas dentro de cada sección, pero dada la inmensidad del material, no puedo incluir todos los temas posibles.
 
-Si hay ***buenos\*** tutoriales que sabe que me estoy perdiendo, ¡hágamelo saber! Estoy tratando de limitar cada tema a cinco o seis tutoriales ya que mucho más allá sería repetitivo. Cada enlace debe tener material diferente de los otros enlaces o presentar información de manera diferente (por ejemplo, código versus diapositivas versus formato largo) o desde una perspectiva diferente.
+Si hay **buenos** tutoriales que sabe que me estoy perdiendo, ¡hágamelo saber! Estoy tratando de limitar cada tema a cinco o seis tutoriales ya que mucho más allá sería repetitivo. Cada enlace debe tener material diferente de los otros enlaces o presentar información de manera diferente (por ejemplo, código versus diapositivas versus formato largo) o desde una perspectiva diferente.
 
 **Firmado**: [@RobbieAllen](https://twitter.com/robbieallen){:target="_blank" rel="nofollow,noreferrer"}
 
 > 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
+
+<span id="menu"></span>
+
+- [Aprendizaje Automático](#aprendizaje-automático)
+- [Funciones de activación y pérdida](#funciones-de-activación-y-pérdida)
+- [Parcialidad](#parcialidad)
+- [Perceptrón](#perceptrón)
+- [Regresión](#regresión)
+- [Descenso de gradiente](#descenso-de-gradiente)
+- [Aprendizaje Generativo](#aprendizaje-generativo)
+- [Máquinas de vectores de soporte](#máquinas-de-vectores-de-soporte)
+- [Propagación hacia atrás](#propagación-hacia-atrás)
+- [Aprendizaje profundo](#aprendizaje-profundo)
+- [Optimización y reducción de dimensionalidad](#optimización-y-reducción-de-dimensionalidad)
+- [Memoria a corto y largo plazo (LSTM)](#memoria-a-corto-y-largo-plazo-lstm)
+- [Redes neuronales convolucionales (CNN)](#redes-neuronales-convolucionales-cnn)
+- [Redes neuronales recurrentes (RNN)](#redes-neuronales-recurrentes-rnn)
+- [Aprendizaje reforzado](#aprendizaje-reforzado)
+- [Redes Adversarias Generativas (GAN)](#redes-adversarias-generativas-gan)
+- [Aprendizaje de tareas múltiples](#aprendizaje-de-tareas-múltiples)
+- [PNL](#pnl)
+- [Aprendizaje profundo y PNL](#aprendizaje-profundo-y-pnl)
+- [Vectores de palabras](#vectores-de-palabras)
+- [Codificador-Decodificador](#codificador-decodificador)
+- [Python](#python)
+- [Ejemplos](#ejemplos)
+- [Scipy y Numpy](#scipy-y-numpy)
+- [Scikit-learn](#scikit-learn)
+- [Tensorflow](#tensorflow)
+- [PyTorch](#pytorch)
+- [Matemáticas](#matemáticas)
+- [Álgebra lineal](#álgebra-lineal)
+- [Probabilidad](#probabilidad)
+- [Cálculo](#cálculo)
 
 ## Aprendizaje Automático
 
@@ -474,7 +510,7 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 > 🔥 Quizás te interese: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
-## 🐍 Relacionados..
+### 🐍 Relacionados <!-- omit in toc -->
 
 [🐍 Aprender Python 🐍](/python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🐍 Recursos Python 🐍](/python-recursos/#menu-py-rec){: .btn .btn-outline-dark .btn-lg .btn-block}

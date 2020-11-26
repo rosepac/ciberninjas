@@ -232,6 +232,10 @@ En la asignatura de sistemas informáticos de los ciclos de informática de grad
 
 Los contenidos de los módulos de sistemas operativos monopuesto, redes locales y un poquito de sistemas operativos en red.
 
+* Juego para Practicar el Código Binario: [Juego 1](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw){:target="_blank" rel="nofollow,noreferrer"} / [Juego 2](https://learningcontent.cisco.com/games/binary/index.html){:target="_blank" rel="nofollow,noreferrer"} / [App Móvil](https://play.google.com/store/apps/details?id=com.increatly.binarychallenge){:target="_blank" rel="nofollow,noreferrer"} / [App Móvil 2](https://play.google.com/store/apps/details?id=com.q42.flippybitandtheattackofthehexadecimalsfrombase16){:target="_blank" rel="nofollow,noreferrer"}
+* [Juego de Cartas del Hardware](https://drive.google.com/drive/u/1/folders/1hAK9IL6HrsJ0AgJVHVyknQj8FjK0IShK){:target="_blank" rel="nofollow,noreferrer"}
+* [Juego Moon: Contador de Bits](http://compus.deusto.es/es/moon-1110011/){:target="_blank" rel="nofollow,noreferrer"}
+
 ### Libros de texto de sistemas informáticos 🛒 <!-- omit in toc -->
 
 [Garceta](https://amzn.to/3m1Bwpp) (2017) \ [Rama](https://amzn.to/3bLtIDp) (2011)

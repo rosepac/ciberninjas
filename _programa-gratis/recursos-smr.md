@@ -66,6 +66,7 @@ Esas cuatro formaciones profesionales con sus respectivos [módulos profesionale
   - [Libros de texto de formación y orientación laboral](#libros-de-texto-de-formación-y-orientación-laboral)
 - [3. **Montaje y mantenimiento de equipo**](#3-montaje-y-mantenimiento-de-equipo)
   - [Libros de texto de montaje y mantenimiento de equipo](#libros-de-texto-de-montaje-y-mantenimiento-de-equipo)
+  - [Conectores de Componentes de Hardware](#conectores-de-componentes-de-hardware)
 - [4. **Redes locales**](#4-redes-locales)
   - [Libros de texto de redes locales](#libros-de-texto-de-redes-locales)
 - [5. **Sistemas operativos monopuesto**](#5-sistemas-operativos-monopuesto)
@@ -124,9 +125,10 @@ Vas a poder encontrar [los libros dirigidos a la formación y orientación labor
 
 ## 3. **Montaje y mantenimiento de equipo**
 
-Apuntes de montaje y mantenimiento de equipos.
+Apuntes de montaje y mantenimiento de equipos:
 
 - Clases de Montaje y Mantenimiento de Ordenadores del Ciclo de Grado Medio de Sistemas Microinformáticos y Redes - [Github](https://github.com/AlfonsoDeUna/ClasesMME){:target="_blank" rel="nofollow,noreferrer"}
+- Montaje y Mantenimiento de Equipos Informáticos - [Wikilibro Muy Completo](https://es.wikibooks.org/wiki/Mantenimiento_y_Montaje_de_Equipos_Inform%C3%A1ticos){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Libros de texto de montaje y mantenimiento de equipo
 
@@ -134,7 +136,15 @@ Apuntes de montaje y mantenimiento de equipos.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428340811&linkId=255c2fc2d11446a3a024e8ab3d9585f6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428335133&linkId=b2c4167a9bb210837ee1a9956233355d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491712925&linkId=4d5c7cf40c9445c794d5ed4aea5daee9"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719697&linkId=b83271a3036afb94847d09d9ee285a29"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180364&linkId=b041138c03df7ab42bbe5ef7269d288d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415426445&linkId=60a14772548b098f83ef1391cde6f88b"></iframe>
 
+### Conectores de Componentes de Hardware
+
+<iframe src="https://drive.google.com/file/d/1LMBpYDGg6jTJYRqeZWf9bBJeA61-f6zb/preview" width="640" height="480"></iframe>
+
 ## 4. **Redes locales**
+
+* Juego para Practicar el Código Binario: [Juego 1](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw){:target="_blank" rel="nofollow,noreferrer"} / [Juego 2](https://learningcontent.cisco.com/games/binary/index.html){:target="_blank" rel="nofollow,noreferrer"} / [App Móvil](https://play.google.com/store/apps/details?id=com.increatly.binarychallenge){:target="_blank" rel="nofollow,noreferrer"} / [App Móvil 2](https://play.google.com/store/apps/details?id=com.q42.flippybitandtheattackofthehexadecimalsfrombase16){:target="_blank" rel="nofollow,noreferrer"}
+* [Juego de Cartas del Hardware](https://drive.google.com/drive/u/1/folders/1hAK9IL6HrsJ0AgJVHVyknQj8FjK0IShK){:target="_blank" rel="nofollow,noreferrer"}
+* [Juego Moon: Contador de Bits](http://compus.deusto.es/es/moon-1110011/){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Libros de texto de redes locales
 
