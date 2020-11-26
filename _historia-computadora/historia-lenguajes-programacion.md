@@ -5,9 +5,9 @@ hide: true
 title: '🥇 ▷ La Historia de los Lenguajes de Programación Informáticos'
 permalink: /historia-lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/historia-lenguajes-programacion/
-thumbnail: "/assets/img/programar-lenguajes/aprender-programar-programacion.webp"
-feature-img: "/assets/img/programar-lenguajes/aprender-programar-programacion.webp"
-img: "/assets/img/programar-lenguajes/aprender-programar-programacion.webp"
+thumbnail: "/assets/img/2020/binario-corazon-final.webp"
+feature-img: "/assets/img/2020/binario-corazon-final.webp"
+img: "/assets/img/2020/binario-corazon-final.webp"
 published: true
 feature-img: /assets/img/paginas/progmb.webp
 description: "Conoce toda la historia de los lenguajes de programación de la era de la programación informática"
@@ -15,16 +15,61 @@ excerpt: "Conoce toda la historia de los lenguajes de programación de la era de
 
 ---
 
-Lenguaje de programación de computadoras, cualquiera de varios lenguajes para expresar un conjunto de instrucciones detalladas para una computadora digital.
+Un lenguaje de programación de computadoras, es un conjunto de instrucciones detalladas para una computadora digital que en su conjunto forman uno de los cualquier lenguajes de programación existentes.
 
-Dichas instrucciones se pueden ejecutar directamente cuando están en la forma numérica específica del fabricante de la computadora conocida como lenguaje máquina, después de un simple proceso de sustitución cuando se expresa en el correspondiente lenguaje ensamblador, o después de la traducción de algún idioma de "nivel superior".
+![La Historia de los Lenguajes de Programación Informáticos. Visto en Ciberninjas](/assets/img/2020/binario-corazon-final.webp "La Historia de los Lenguajes de Programación Informáticos. Visto en Ciberninjas")
 
-Aunque existen muchos lenguajes informáticos, relativamente pocos son de uso generalizado. Los lenguajes de máquina y ensamblador son de “bajo nivel” y requieren que un programador administre explícitamente todas las características idiosincrásicas de almacenamiento y operación de datos de una computadora.
+Dichas instrucciones se pueden ejecutar directamente cuando están en la forma numérica específica del fabricante de la computadora, siento esto conocido como lenguaje máquina.
+
+El lenguaje ensamblador a menudo abreviado **ASM**, es cualquier lenguaje de programación de bajo nivel en el que existe una correspondencia muy fuerte entre las instrucciones en el lenguaje y las instrucciones del código máquina de la arquitectura.
+
+Debido a que el ensamblaje depende de las instrucciones del código de máquina, cada lenguaje ensamblador está diseñado para exactamente una arquitectura de computadora específica; el lenguaje ensamblador también es denominado código máquina simbólico.
+
+El lenguaje de programación de alto nivel es un lenguaje de programación con una fuerte abstracción de los detalles de la computadora . A diferencia de los lenguajes de programación de bajo nivel , puede utilizar elementos del lenguaje natural , ser más fácil de usar o puede automatizar (o incluso ocultar por completo) áreas importantes de los sistemas informáticos (por ejemplo , gestión de memoria ), lo que hace que el proceso de desarrollo de un programa sea más simple y sencillo. más comprensible que cuando se usa un lenguaje de nivel inferior. La cantidad de abstracción proporcionada define qué tan "alto nivel" es un lenguaje de programación.
+
+Aunque existen muchos lenguajes informáticos, relativamente pocos son de uso general. Los lenguajes de máquina y ensamblador son de “bajo nivel” y requieren que un programador administre explícitamente todas las características idiosincrásicas de almacenamiento y operación de datos de la computadora.
 
 Por el contrario, los lenguajes de alto nivel protegen a un programador de preocuparse por tales consideraciones y proporcionan una notación que los programadores escriben y leen con mayor facilidad.
 
+- [**Los Diferentes Tipos de Lenguajes de Programación**](#los-diferentes-tipos-de-lenguajes-de-programación)
+  - [**Lenguajes de máquina y ensamblaje**](#lenguajes-de-máquina-y-ensamblaje)
+- [**Lenguajes algorítmicos**](#lenguajes-algorítmicos)
+  - [**FORTRAN**](#fortran)
+  - [**ALGOL**](#algol)
+  - [**LISP**](#lisp)
+  - [**C**](#c)
+- [**Idiomas orientados a los negocios**](#idiomas-orientados-a-los-negocios)
+  - [**COBOL**](#cobol)
+  - [**SQL**](#sql)
+- [**Idiomas orientados a la educación**](#idiomas-orientados-a-la-educación)
+  - [**BASIC**](#basic)
+  - [**PASCAL**](#pascal)
+  - [**Logo**](#logo)
+  - [**Hypertalk**](#hypertalk)
+- [**Lenguajes Orientados a Objetos**](#lenguajes-orientados-a-objetos)
+  - [**C++**](#c-1)
+  - [**C#**](#c-2)
+  - [**ADA**](#ada)
+  - [**Java**](#java)
+  - [**Visual Basic**](#visual-basic)
+  - [**Python**](#python)
+- [**Lenguajes declarativos**](#lenguajes-declarativos)
+- [**Lenguajes de secuencias de comandos**](#lenguajes-de-secuencias-de-comandos)
+- [**Lenguajes de formato de documentos**](#lenguajes-de-formato-de-documentos)
+  - [**TeX**](#tex)
+  - [**PostScript**](#postscript)
+  - [**SGML**](#sgml)
+- [**Lenguajes de visualización de la World Wide Web**](#lenguajes-de-visualización-de-la-world-wide-web)
+  - [**HTML**](#html)
+  - [**XML**](#xml)
+  - [**Secuencias de comandos web**](#secuencias-de-comandos-web)
+- [**Elementos De Programación**](#elementos-de-programación)
+  - [**Estructuras de Control**](#estructuras-de-control)
+  - [**Estructuras de Datos**](#estructuras-de-datos)
+
 ## **Los Diferentes Tipos de Lenguajes de Programación**
 
+<!-- https://en.wikipedia.org/wiki/High-level_programming_language -->
 ### **Lenguajes de máquina y ensamblaje**
 
 Un lenguaje de máquina consta de códigos numéricos para las operaciones que una computadora en particular puede ejecutar directamente. Los códigos son cadenas de 0 y 1, o dígitos binarios ("bits"), que con frecuencia se convierten tanto de hexadecimal como a hexadecimal (base 16) para la visualización y modificación humana. Las instrucciones en lenguaje máquina suelen utilizar algunos bits para representar operaciones, como la suma, y ​​algunos para representar operandos, o quizás la ubicación de la siguiente instrucción. El lenguaje de máquina es difícil de leer y escribir, ya que no se parece a la notación matemática convencional ni al lenguaje humano, y sus códigos varían de una computadora a otra.
