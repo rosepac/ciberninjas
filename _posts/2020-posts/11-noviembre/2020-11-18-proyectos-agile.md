@@ -137,11 +137,17 @@ Agile podría ser un "placebo" de ejecución de proyectos; trabajando porque los
 
 Además, ayuda a generar cambios cuando los requisitos son inciertos, ayuda a generar la participación del cliente y del usuario al centrarse en lo que es más beneficioso, los cambios son mejoras incrementales que pueden ayudar a respaldar el cambio cultural. Agile puede ayudar con la toma de decisiones, ya que los circuitos de retroalimentación ayudan a ahorrar dinero, reinvertir y obtener ganancias rápidas.
 
-Sin embargo, Agile se centra en pequeños cambios incrementales y el desafío es que el panorama general puede perderse y crear incertidumbre entre las partes interesadas. La construcción de consenso requiere tiempo y desafía muchas normas y expectativas. El costo de los recursos puede ser mayor; ubicar equipos o invertir en infraestructura para que trabajen juntos de forma remota. Se puede percibir que la responsabilidad pasa del usuario final empoderado al equipo del proyecto empoderado, con el riesgo de que se pierdan los beneficios porque el equipo del proyecto se centra en las cosas equivocadas.
+Sin embargo, Agile se centra en pequeños cambios incrementales y el desafío es que el panorama general puede perderse y crear incertidumbre entre las partes interesadas. La construcción de consenso requiere tiempo y desafía muchas normas y expectativas.
+
+El costo de los recursos puede ser mayor; ubicar equipos o invertir en infraestructura para que trabajen juntos de forma remota. Se puede percibir que la responsabilidad pasa del usuario final empoderado al equipo del proyecto empoderado, con el riesgo de que se pierdan los beneficios porque el equipo del proyecto se centra en las cosas equivocadas.
 
 ### ¿Cuándo se adopta un enfoque ágil?
 
-Una decisión de gobernanza crítica es seleccionar el enfoque apropiado como parte de la estrategia del proyecto. El nivel de certeza frente al tiempo de comercialización es el equilibrio que debe tenerse en cuenta al seleccionar proyectos adecuados para ser ágiles. Las organizaciones tienen que ser realistas: el objetivo no es ágil, sino una buena entrega, y una evaluación mesurada del enfoque preferido es esencial para lograr ese objetivo. Esto se define por el tipo de proyecto, sus objetivos y su entorno.
+Una decisión de gobernanza crítica es seleccionar el enfoque apropiado como parte de la estrategia del proyecto.
+
+El nivel de certeza frente al tiempo de comercialización es el equilibrio que debe tenerse en cuenta al seleccionar proyectos adecuados para ser ágiles.
+
+Las organizaciones tienen que ser realistas: el objetivo no es ágil, si no una buena entrega, y una evaluación mesurada del enfoque preferido es esencial para lograr ese objetivo. Esto se define por el tipo de proyecto, sus objetivos y su entorno.
 
 Agile no es una panacea, muchos practican sus principios sin saberlo. Los proyectos que brindan beneficios al usuario final son un principio ágil que también debería existir utilizando metodologías tradicionales. El trabajo colaborativo siempre: mejorará los beneficios; acelerar la entrega, mejorar la calidad, satisfacer a las partes interesadas y lograr eficiencias.
 
@@ -157,7 +163,9 @@ Los mejores enfoques ágiles son muy disciplinados y pueden, y deben, integrarse
 
 ## **¿Cuáles son los métodos ágiles más populares?**
 
-Existen varias metodologías que se pueden utilizar para gestionar un proyecto ágil; dos de los más conocidos son  Scrum y Lean . La característica definitoria de un proyecto ágil es que produce y entrega trabajo en ráfagas cortas (o Sprints) de cualquier cosa hasta unas pocas semanas. Estos se repiten para refinar el producto de trabajo hasta que cumpla con los requisitos del cliente.
+Existen varias metodologías que se pueden utilizar para gestionar un proyecto ágil; dos de los más conocidos son  Scrum y Lean.
+
+La característica final de un proyecto ágil es producir  y entragar el trabajo en ráfagas cortas (o Sprints) de cualquier cosa, a poder ser en unas pocas semanas; y esto se repite para refinar el producto de trabajo hasta que cumpla con los requisitos del cliente.
 
 Donde la gestión de proyectos tradicional establecerá un plan detallado y requisitos detallados al principio, luego intentará seguir el plan, ágil comienza a trabajar con una idea aproximada de lo que se requiere y, al entregar algo en un corto período de tiempo, aclara los requisitos a medida que el proyecto progresa.
 
@@ -172,3 +180,74 @@ Estos frecuentes procesos iterativos son una característica central de un proye
 [▷ ¿Cómo aprender a trabajar productivamente en equipo desde la distancia?](https://ciberninjas.com/c%C3%B3mo-trabajar-equipo-distancia/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es el enfoque ágil?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "En la gestión de proyectos, el enfoque ágil es un proceso de desarrollo de productos que tiene un ciclo iterativo. El marco de trabajo con una gestión de proyectos ágil, adquiere un aire exclusivo por la falta de unas pautas rigurosas."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué es la gestión ágil de proyectos?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los ciclos de vida iterativos o ágiles se componen de varias iteraciones o pasos incrementales hacia la finalización de un proyecto. Los enfoques iterativos se utilizan con frecuencia en proyectos de desarrollo de software para promover la velocidad y la adaptabilidad, ya que el beneficio de la iteración es que puede ajustarse a medida que avanza en lugar de seguir una ruta lineal."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los principios de AGILE a la hora de trabajar?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Priorizar por importancia, promover el trabajo colectivo, ajustarse a intervalos y integración entre la planificación y la ejecución."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los principios del trabajo ágil?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Colaboración con el cliente sobre la negociación de contratos, obtener beneficios a través de equipos comprometidos, responsables y de alto rendimiento,  ágil respuesta a los cambios a partir del plan estructurado, equipo entregado en la creación de los prototipos y la documentación."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Por qué necesito ágile en la gestión de proyectos?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Agile es una filosofía que se concentra en las personas empoderadas y sus interacciones y en la entrega temprana y constante de valor a una empresa. Agile tiene un atractivo duradero y se \"ha probado\" en el desarrollo de software."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los beneficios del trabajo ágil?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Genera responsabilidad, fomenta la diversidad de ideas, permite la publicación temprana de beneficios y promueve la mejora continua."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuándo se adopta un enfoque ágil?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Las organizaciones tienen que ser realistas: el objetivo no es ágil, si no una buena entrega, y una evaluación mesurada del enfoque preferido es esencial para lograr ese objetivo. Esto se define por el tipo de proyecto, sus objetivos y su entorno."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué métodos de ágile existen?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Agile no prescribe una forma de trabajar. Más bien, proporciona un marco que describe una colección de herramientas, estructura, cultura y disciplina para permitir que un proyecto o programa adopte cambios en los requisitos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son los métodos ágiles más populares?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Existen varias metodologías que se pueden utilizar para gestionar un proyecto ágil; dos de los más conocidos son  Scrum y Lean."
+    }
+  }]
+}
+</script>
