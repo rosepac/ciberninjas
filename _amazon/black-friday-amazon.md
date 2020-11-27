@@ -2,7 +2,7 @@
 author: rosepac
 bootstrap: true
 layout: page
-title: "▷ Black Friday 2020: Todo lo que necesitas saber"
+title: "▷ Black Friday 2020: Recopilatorio de Las Mejores Ofertas y Más"
 description: "Vigila todos los descuentos más importantes que van a salir durante la Fiesta del Black Friday de cada año"
 excerpt: "Vigila todos los descuentos más importantes que van a salir durante la Fiesta del Black Friday de cada año"
 permalink: /black-friday-amazon/
@@ -19,7 +19,18 @@ Parece que el Black Friday 2020 será diferente a medida que se acerque la fecha
 
 > **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
 
+<!-- título durante el año: Black Friday 2020: Todo lo que necesitas saber cambiado a Black Firday Todas las Mejores Ofertas 2020 -->
 Entre las muchas ofertas que nos propone Amazon, yo diría que lo más asombroso y económico son sus ofertas flash por eso no debéis de dejar de seguirme a través de [Twitter](https://kutt.it/ciberninjast){:target="_blank" rel="nofollow,noreferrer"} en el que iré subiendo todos aquellos productos con precios históricos que encuentre dentro de las ofertas flash, entre otras variopintas ofertas más.
+
+## **Amazon**
+
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ez&f=ifr&linkID=9084ffb4ce6e260cd72c0b62d0da0f09&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+[Componentes de PC](https://amzn.to/3lfnG15){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Descuentos en Memorias](https://amzn.to/3mdQKal){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Ofertas Redes y Conectividad](https://amzn.to/36aoJeh){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [](){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Ofertas en Discos Duros](https://amzn.to/3lepwiz){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Ofertas en Monitores](https://amzn.to/36dE3XB){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Ofertas en Perífericos](https://amzn.to/36eXY8o){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Accesorios de PC](https://amzn.to/39l2NPC){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
+
+[Descuentos PC Gaming](https://amzn.to/2V9nLIZ){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Descuentos en Accesorios Gaming](https://amzn.to/3o0miRE){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Componentes Corsair](https://amzn.to/3mdFwCZ){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Ofertas Exclusivas en Corsair e HyperX](https://amzn.to/2KLA0to){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
+
+[Descuentos en Portátiles](https://amzn.to/2VdymT2){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Mejores Ofertas PC y Portátiles](https://amzn.to/2JfG3Wi){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"} / [Descuentos en Tablets](https://amzn.to/2HJUOjR){: .btn .btn-outline-dark .btn-lg}{:target="_blank" rel="nofollow,noreferrer"}
 
 <a class="twitter-timeline" data-width="1010" data-height="750" data-dnt="true" href="https://twitter.com/ciberninjas?ref_src=twsrc%5Etfw">Tweets by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -29,12 +40,13 @@ Simplemente desplázate a través del menú y los botones asociados para regresa
 
 <span id="menu">Menú del Black Friday<strong></strong></span>
 
+- [**Amazon**](#amazon)
 - [**¿Cuándo es el Black Friday 2020?**](#cuándo-es-el-black-friday-2020)
 - [**¿Qué es el Black Friday?**](#qué-es-el-black-friday)
 - [**¿Cómo conseguir las mejores ofertas del Black Friday 2020?**](#cómo-conseguir-las-mejores-ofertas-del-black-friday-2020)
 - [**¿Qué es el Cyber Monday?**](#qué-es-el-cyber-monday)
 - [**¿Dónde puedo encontrar las mejores ofertas de tecnología?**](#dónde-puedo-encontrar-las-mejores-ofertas-de-tecnología)
-  - [**Amazon**](#amazon)
+  - [**Ofertas Amazon**](#ofertas-amazon)
   - [**PC Componentes**](#pc-componentes)
   - [**Ebay**](#ebay)
   - [**Game**](#game)
@@ -94,7 +106,7 @@ El Cyber Monday básicamente es, una extensión del evento Black Friday con más
 
 Muchas tiendas online ofrecen grandes ofertas tecnológicas que debes seguir de cara al Black Friday. Vale la pena, listar las mejores, antes de que comience el frenesí de las compras.
 
-### **Amazon**
+### **Ofertas Amazon**
 
 No hace falta decir que [Amazon tendrá grandes ahorros en sus productos de marca propia](https://amzn.to/2UtroJD){:target="_blank" rel="nofollow,noreferrer"}, pero también tendrá muchas otras ofertas tecnológicas en componentes de ordenadores y videojuegos.
 
@@ -140,9 +152,8 @@ El Black Friday, siempre es una gran fecha, si buscas [un nuevo televisor](https
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-> 🛑 **Las PRECIOS de las OFERTAS aquí PUBLICADOS, corresponde a OFERTAS TEMPORALES / FLASH del PRE BLACK FRIDAY 2020. Es muy probable que LOS PRECIOS HAYAN AUMENTADO**
+> 🛑 **Las PRECIOS de las OFERTAS aquí PUBLICADOS, corresponde a OFERTAS TEMPORALES / FLASH del PRE BLACK FRIDAY 2020. Es muy probable que LOS PRECIOS NO SEAN EXACTOS**
 >
-> **VOLVERÉ A ACTUALIZAR LOS PRECIOS JUSTO EL DÍA DEL BLACK FRIDAY. PERDONEN LAS MOLESTIAS**
 
 **Las Mejores Ofertas del Black Friday 2020**
 
