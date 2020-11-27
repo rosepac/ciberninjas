@@ -13,6 +13,7 @@ excerpt: "Un buscador que te ayudará a alcanzar tus metas"
 ---
 
 <!-- actualizar minilogitpos con enlaces a las etiquetas relacionadas? mmmmm botón en las etiquetas para volver al buscador? mmm -->
+<!--
 <div>
 <div class="hidden-sm-down">
 <nav aria-label="breadcrumb">
@@ -22,6 +23,7 @@ excerpt: "Un buscador que te ayudará a alcanzar tus metas"
   </ol>
 </nav>
 </div>
+-->
 
 <script type="application/ld+json">
 {
