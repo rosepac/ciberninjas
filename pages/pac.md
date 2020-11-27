@@ -354,7 +354,6 @@ UniMOOC, es el Instituto de Economía Internacional de la Universidad de Alicant
 - Correo electrónico en Internet.
 - Otras Aplicaciones de Internet.
 
-
 ## Algunas Invenciones <!-- omit in toc -->
 
 - **Arrengado**: Dícese de una persona que se siente tan bajo de energías que no es capaz de moverse del sitio aunque desea con todas sus ganas el hacerlo. Vendría a ser la suma de: arraigado + apalancado 😹

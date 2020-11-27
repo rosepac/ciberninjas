@@ -52,6 +52,8 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre puedes darme un empujón a que esto siga creciendo, teniendo en cuenta mis enlaces de afiliados, el día que deseas [realizar una compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o en [tu próxima compra de Amazon](https://amzn.to/3aTZb5X){:target="_blank" rel="nofollow, noreferrer"} o desde las listas de dispositivos [ofrecidas en nuestro catálogo de recomendaciones](https://ciberninjas.com/amazon/).
 {: .notice--warning}
 
+> Por problemas de tiempo. Encontrarás más EVENTOS en el Calendario, que aquí, en la web listados..** Por lo que se recomienda revisar primero el calendario, posteriormente los eventos aquí citados. ***¡Saludos!***
+
 <iframe src="https://calendar.google.com/calendar/embed?height=410&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=AGENDA&amp;showPrint=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="410" frameborder="0" scrolling="no"></iframe>
 
 - [**Agenda y Eventos tecnológicos de Noviembre**](#agenda-y-eventos-tecnológicos-de-noviembre)
@@ -65,56 +67,82 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### 🔔 20 de Noviembre  <!-- omit in toc -->
+### 🔔 27 de Noviembre  <!-- omit in toc -->
 
+-  Wordpress WordCamp México: Último Día 🎥 [Canal de Youtube](https://www.youtube.com/channel/UCgwnAgYnJVt6jiHnolNfz3Q){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda y Ponentes](https://mexico.wordcamp.org/2020/ponentes/){:target="_blank" rel="nofollow, noreferrer"} -->
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
+- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 <!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
-### 🔔 21 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- IADI 2020: Inteligencia Artificial, Datos e ingeniería 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 22 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 23 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 24 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-
-<!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
-### 🔔 25 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
-- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 26 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}- eCommerce Full Experience 2020 Live 🎥 [YOUTUBE](https://www.youtube.com/c/CACEARG/featured){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://www.eventbrite.com.ar/e/ecommerce-full-experience-2020-live-tickets-126140943959?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 27 de Noviembre  <!-- omit in toc -->
-
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
-- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
 ### 🔔 28 de Noviembre  <!-- omit in toc -->
 
 - TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
 
+### 🔔 29 de Noviembre  <!-- omit in toc -->
+
+- Big Data Day 2020 (20:00 H.) 🎥 [Ver en Youtube](https://www.youtube.com/watch?v=8GSeWwAJIoM){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 30 de Noviembre  <!-- omit in toc -->
+
+<!-- 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
 ## **Agenda y Eventos tecnológicos de Diciembre**
 
-> 👷‍♂️ **Por Desarrollar** ✍
+### 🔔 1 de Diciembre  <!-- omit in toc -->
+
+- Congreso Internacional de Desarrolladores de Videojuegos, COIDEV 📆 [Registro y Agenda](https://coidev.com/){:target="_blank" rel="nofollow, noreferrer"}
+- Cómo reciclarte y convertirte en programador (19:00 H.) 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-como-reciclarte-y-convertirte-en-programador-129001403671?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 2 de Diciembre  <!-- omit in toc -->
+
+- Aprende a programar con Swift desde Cero (19:00 H.) Keep Coding 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-aprende-a-programar-con-swift-desde-cero-129903439685?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 3 de Diciembre  <!-- omit in toc -->
+
+- ¿Quieres mejorar tus APIs con herramientas Open Source? (17 H.) 🎥 [Youtube](https://www.youtube.com/c/APIAddictslmaoo/videos){:target="_blank" rel="nofollow, noreferrer"}
+- Creación correcta de un prototipo para apps (18:00 H.) 📆 [Registro](https://www.eventbrite.com.pe/e/webinar-creacion-correcta-de-un-prototipo-para-apps-tickets-126480128469?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- AfterTest Online: ¡Olvídate de métricas clásicas! (18:30 H.) 🎥 [Youtube](https://www.youtube.com/channel/UCYvgSjHs-EWeD30ZCftVWvA/featured){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 4 de Diciembre  <!-- omit in toc -->
+
+
+### 🔔 5 de Diciembre  <!-- omit in toc -->
+
+🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 6 de Diciembre  <!-- omit in toc -->
+
+
+### 🔔 7 de Diciembre  <!-- omit in toc -->
+
+🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 8 de Diciembre  <!-- omit in toc -->
+
+
+### 🔔 9 de Diciembre  <!-- omit in toc -->
+
+- Feria Maker "Creando un mundo maker" (13:00 H.) 📆 [Registro](https://www.eventbrite.es/e/entradas-feria-maker-creando-un-mundo-maker-129033399371?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 10 de Diciembre  <!-- omit in toc -->
+
+- Protegiendo su infraestructura con IoT (18:00 H.) SENATI 🎥 [Ver en Youtube](https://www.youtube.com/user/virtualsenati/featured){:target="_blank" rel="nofollow, noreferrer"}
+- Crea tu primer bot con Watson Assistant y despliégalo en Alexa (19:00 H.) Keep Coding 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-crea-tu-primer-bot-con-watson-assistant-y-despliegalo-en-alexa-128995387677?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 15 de Diciembre  <!-- omit in toc -->
+
+- Detección y respuesta a incidentes con Elasticsearch (19:00 H.) Keep Coding 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-deteccion-y-respuesta-a-incidentes-con-elasticsearch-129014761625?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 17 de Diciembre  <!-- omit in toc -->
+
+- Iniciando en los VideoJuegos (18:00 H.) Senati 🎥 [Ver en Youtube](https://www.youtube.com/user/virtualsenati/featured){:target="_blank" rel="nofollow, noreferrer"}
 
 ## **Agenda y Eventos Tecnológicos Más Importantes en Inglés 📆**
 
@@ -1037,3 +1065,37 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
 - [Monetiza 2020](https://josefacchin.com/congreso-online/){:target="_blank" rel="nofollow, noreferrer"}
 - [RubyConf 2020](http://rubyconf.org/schedule){:target="_blank" rel="nofollow, noreferrer" hreflang="en"}
+
+### 🔔 20 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 21 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- IADI 2020: Inteligencia Artificial, Datos e ingeniería 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 22 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 23 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 24 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+
+<!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
+### 🔔 25 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
+- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 26 de Noviembre  <!-- omit in toc -->
+
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}- eCommerce Full Experience 2020 Live 🎥 [YOUTUBE](https://www.youtube.com/c/CACEARG/featured){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://www.eventbrite.com.ar/e/ecommerce-full-experience-2020-live-tickets-126140943959?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
