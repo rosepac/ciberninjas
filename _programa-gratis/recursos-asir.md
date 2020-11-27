@@ -88,7 +88,7 @@ Pues he aquí, los documentos que mayor validez han tenido para mi hasta el mome
 
 ### Conectores de Componentes de Hardware
 
-<iframe src="https://drive.google.com/file/d/1LMBpYDGg6jTJYRqeZWf9bBJeA61-f6zb/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1LMBpYDGg6jTJYRqeZWf9bBJeA61-f6zb/preview" width="820" height="480"></iframe>
 
 ## 2. **Gestión de bases de datos**
 

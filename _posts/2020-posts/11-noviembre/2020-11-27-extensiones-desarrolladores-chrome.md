@@ -17,7 +17,7 @@ canonical_URL: https://ciberninjas.com/extensiones-front-end-chrome/
 permalink: /extensiones-front-end-chrome/
 date: 2020-11-27 09:36:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 

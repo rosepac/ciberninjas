@@ -24,6 +24,7 @@ excerpt: "Aprende desde cero tu lenguaje de programación favorito, encuentra lo
   </ol>
 </nav>
 </div>
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -81,6 +82,13 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
   - [**¿Cómo aprender Haskell?**](#cómo-aprender-haskell)
   - [**¿Cómo aprender SQL?**](#cómo-aprender-sql)
   - [**¿Cómo aprender otros lenguajes?**](#cómo-aprender-otros-lenguajes)
+- [**Los Lenguajes de Programación Más Influyentes de la Historia**](#los-lenguajes-de-programación-más-influyentes-de-la-historia)
+  - [**Plankalkül (1944)**](#plankalkül-1944)
+  - [**FORTRAN (1957)**](#fortran-1957)
+  - [**ALGOL (1958-1960)**](#algol-1958-1960)
+  - [**COBOL (1959)**](#cobol-1959)
+  - [**BASIC (1964)**](#basic-1964)
+  - [**C (1969-1973)**](#c-1969-1973)
 - [**Breve Historia de los Lenguajes de Programación**](#breve-historia-de-los-lenguajes-de-programación)
   - [**El Primer Algoritmo, en 1883**](#el-primer-algoritmo-en-1883)
   - [**El Lenguaje Ensamblador, en 1949**](#el-lenguaje-ensamblador-en-1949)
@@ -89,19 +97,19 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
   - [**Algol, en 1958**](#algol-en-1958)
   - [**Cobol, en 1959**](#cobol-en-1959)
   - [**LISP, en 1959**](#lisp-en-1959)
-  - [Pascal, en 1970**](#pascal-en-1970)
-- [Smalltal, en 1972**](#smalltal-en-1972)
-  - [**C, en 1972](#c-en-1972)
-  - [**SQL, en 1972](#sql-en-1972)
-  - [**MATLAB, en 1978](#matlab-en-1978)
+  - [**Pascal, en 1970**](#pascal-en-1970)
+  - [**Smalltal, en 1972**](#smalltal-en-1972)
+  - [**C, en 1972**](#c-en-1972)
+  - [**SQL, en 1972**](#sql-en-1972)
+  - [**MATLAB, en 1978**](#matlab-en-1978)
   - [**Objective-C, en 1983**](#objective-c-en-1983)
-  - [**C++, en 1983](#c-en-1983)
-  - [**Perl, en 1987](#perl-en-1987)
-  - [**Haskell, en 1990](#haskell-en-1990)
-  - [**Python, en 1991](#python-en-1991)
+  - [**C++, en 1983**](#c-en-1983)
+  - [**Perl, en 1987**](#perl-en-1987)
+  - [**Haskell, en 1990**](#haskell-en-1990)
+  - [**Python, en 1991**](#python-en-1991)
   - [**Visual Basic, en 1991**](#visual-basic-en-1991)
-  - [**R, en 1993](#r-en-1993)
-  - [**Java, en 1995](#java-en-1995)
+  - [**R, en 1993**](#r-en-1993)
+  - [**Java, en 1995**](#java-en-1995)
   - [**Java, en 1995**](#java-en-1995-1)
   - [**Ruby, en 1995**](#ruby-en-1995)
   - [**JavaScript, en 1995**](#javascript-en-1995)
@@ -110,13 +118,6 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
   - [**Groovy, en 2003**](#groovy-en-2003)
   - [**Go, en 2009**](#go-en-2009)
   - [**Swift, en 2014**](#swift-en-2014)
-- [**Los Lenguajes Más Influyentes de la Historia de la Programación**](#los-lenguajes-más-influyentes-de-la-historia-de-la-programación)
-  - [**Plankalkül (1944)**](#plankalkül-1944)
-  - [**FORTRAN (1957)**](#fortran-1957)
-  - [**ALGOL (1958-1960)**](#algol-1958-1960)
-  - [**COBOL (1959)**](#cobol-1959)
-  - [**BÁSICO (1964)**](#básico-1964)
-  - [**C (1969-1973)**](#c-1969-1973)
 
 ## **¿Cómo aprender un lenguaje de programación?**
 
@@ -124,29 +125,18 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [![Aprende a programar a Python y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/paginas/python-by-photoartmedia-dbmejle.webp "Aprende a programar a Python y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en Python desde cero para principiantes y recursos para programadores y desarrolladores web")
 
-¿Quieres aprender a programar con Python? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lío!
+¿Quieres aprender a programar con Python? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
 
-[Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python "Los mejores Cursos de Python"){: .btn .btn-outline-primary .btn-lg} [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python "Los Mejores Libros en PDF de Python"){: .btn .btn-outline-primary .btn-lg} [Aprender Python](/python/ "La mejor guía de aprendizaje de Python"){: .btn .btn-outline-primary .btn-lg} [Recursos Python](/python-recursos/ "Los mejores recursos para aprender Python"){: .btn .btn-outline-primary .btn-lg}
+[Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python "Los mejores Cursos de Python"){: .btn .btn-outline-primary .btn-lg} / [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python "Los Mejores Libros en PDF de Python"){: .btn .btn-outline-primary .btn-lg} / [Aprender Python](/python/ "La mejor guía de aprendizaje de Python"){: .btn .btn-outline-primary .btn-lg} / [Recursos Python](/python-recursos/ "Los mejores recursos para aprender Python"){: .btn .btn-outline-primary .btn-lg}
 
 <!-- SUSTITUYENDO, TODOS ESTOS FUCKING MIERDA DE CONTENIDOS XD XD XD XD XD XD. -->
 ### **¿Cómo aprender Javascript?**
 
 [![Aprende a programar Javascript y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/blog/javascript-6.webp "Aprende a programar Javascript y todo lo que debes conocer para comenzar a ser un programador profesional")](/javascript/ "Aprende a programar Javascript y todo lo que debes conocer para comenzar a ser un programador profesional")
 
-¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lió!
-
-[Libros Javascript](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-javascript "Libros en PDF para aprender Javascript desde cero para principiantes y otros recursos de Javascript") / 
-
-
-<a href="" title="" class="btn btn--inverse btn--large">Cursos Angular</a> / <a href="/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-angular" title="" class="btn btn--inverse btn--large">Libros Angular y React</a> / <a href="/nodejs/" title="" class="btn btn--inverse btn--large">Node JS</a></p>
-        </div>
-    </div>
-</div>
-</div>
+¿Quieres aprender a programar Javascript? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
 
 [Cursos Javascript](/cursos-programacion/#los-mejores-cursos-gratis-de-javascript "Cursos para aprender Javascript desde cero para principiantes y otras páginas sobre Javascript") / [Libros Javascript](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-javascript "Libros en PDF para aprender Javascript desde cero para principiantes y otros recursos de Javascript") / [Aprender Javascript](/javascript/) / [Recursos Javascript](/javascript-recursos/)
-
-<br/>
 
 [Aprender Node JS](/nodejs/ "Aprender a utilizar NodeJS y los mejores tutoriales para su uso") / [Libros Angular y React](/cursos-programacion-web-movil/#los-mejores-cursos-gratis-de-angular-framework "Libros en PDF para aprender Angular, React y Vue desde cero para principiantes y otros recursos de Javascript") / [Cursos Angular](/cursos-programacion-web-movil/#los-mejores-cursos-gratis-de-angular-framework "Cursos para aprender Angular, React y Vue desde cero para principiantes y otras páginas sobre Javascript")
 
@@ -154,15 +144,15 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 #### **¿Cómo aprender Angular?**
 
-[Cursos Angular](){: .btn .btn-outline-primary .btn-lg} [Libros Angular](){: .btn .btn-outline-primary .btn-lg} [Aprender Angular](){: .btn .btn-outline-primary .btn-lg} [Recursos Angular](){: .btn .btn-outline-primary .btn-lg}
+[Cursos Angular](/cursos-programacion-web-movil/#los-mejores-cursos-gratis-de-angular-framework){: .btn .btn-outline-primary .btn-lg} / [Libros Angular](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-angular){: .btn .btn-outline-primary .btn-lg} [👷‍♂️ **FUERA DE SERVICIO** 🚧 Aprender Angular 🚧](){: .btn .btn-outline-primary .btn-lg} / [👷‍♂️ **FUERA DE SERVICIO** 🚧 Recursos Angular 👷‍♂️](){: .btn .btn-outline-primary .btn-lg}
 
 #### **¿Cómo aprender React?**
 
-[Cursos React](){: .btn .btn-outline-primary .btn-lg} [Libros React](){: .btn .btn-outline-primary .btn-lg} [Aprender React](){: .btn .btn-outline-primary .btn-lg} [Recursos React](){: .btn .btn-outline-primary .btn-lg}
+[Cursos React](/cursos-programacion-web-movil/#los-mejores-cursos-gratis-de-react-framework){: .btn .btn-outline-primary .btn-lg} / [Libros React](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-react){: .btn .btn-outline-primary .btn-lg} / [Aprender React](/react/){: .btn .btn-outline-primary .btn-lg} / [Recursos React](/react/#recursos-de-react){: .btn .btn-outline-primary .btn-lg}
 
 #### **¿Cómo aprender Vue?**
 
-[Cursos Vue](){: .btn .btn-outline-primary .btn-lg} [Libros Vue](){: .btn .btn-outline-primary .btn-lg} [Aprender Vue](){: .btn .btn-outline-primary .btn-lg} [Recursos Vue](){: .btn .btn-outline-primary .btn-lg}
+[Cursos Vue](/cursos-programacion-web-movil/#los-mejores-cursos-gratis-de-vue-framework){: .btn .btn-outline-primary .btn-lg} / [Libros Vue](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-vue){: .btn .btn-outline-primary .btn-lg} / [👷‍♂️ **FUERA DE SERVICIO** 🚧 Aprender Vue 🚧](){: .btn .btn-outline-primary .btn-lg} / [👷‍♂️ **FUERA DE SERVICIO** 🚧 Recursos Vue 🚧](){: .btn .btn-outline-primary .btn-lg}
 
 ### **¿Cómo aprender Typescript?**
 
@@ -182,7 +172,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [![Aprende a programar PHP y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/paginas/python-by-photoartmedia-dbmejle.webp "Aprende a programar PHP y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en PHP desde cero para principiantes y recursos para programadores y desarrolladores web")
 
-¿Quieres aprender a programar con PHP? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lío!
+¿Quieres aprender a programar con PHP? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
 
 [Cursos PHP](/cursos-programacion/#los-mejores-cursos-gratis-de-python "Los mejores Cursos de PHP") / [Libros PHP](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python "Los Mejores Libros en PDF de PHP") / [Aprender PHP](/python/ "La mejor guía de aprendizaje de PHP") [Recursos PHP](/python-recursos/ "Los mejores recursos para aprender PHP")
 <!-- PANEL DE LENGUAJES DE PROGRAMACION SIN CASILLERO AUN -->
@@ -191,7 +181,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [![Aprende a programar C y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/paginas/python-by-photoartmedia-dbmejle.webp "Aprende a programar C y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en C desde cero para principiantes y recursos para programadores y desarrolladores web")
 
-¿Quieres aprender a programar con C? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lío!
+¿Quieres aprender a programar con C? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
 
 [Cursos C](/cursos-programacion/#los-mejores-cursos-gratis-de-python "Los mejores Cursos de C") / [Libros C](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python "Los Mejores Libros en PDF de C") / [Aprender C](/python/ "La mejor guía de aprendizaje de C") [Recursos C](/python-recursos/ "Los mejores recursos para aprender C")
 
@@ -199,7 +189,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [![Aprende a programar C# y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/paginas/python-by-photoartmedia-dbmejle.webp "Aprende a programar C# y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en C# desde cero para principiantes y recursos para programadores y desarrolladores web")
 
-¿Quieres aprender a programar con C#? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lío!
+¿Quieres aprender a programar con C#? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
 
 [Cursos C#](/cursos-programacion/#los-mejores-cursos-gratis-de-python "Los mejores Cursos de C#") / [Libros C#](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python "Los Mejores Libros en PDF de C#") / [Aprender C#](/python/ "La mejor guía de aprendizaje de C#") [Recursos C#](/python-recursos/ "Los mejores recursos para aprender C#")
 
@@ -211,7 +201,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [![Aprende a programar Go y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/paginas/python-by-photoartmedia-dbmejle.webp "Aprende a programar Go y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en Go desde cero para principiantes y recursos para programadores y desarrolladores web")
 
-¿Quieres aprender a programar con Go? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lío!
+¿Quieres aprender a programar con Go? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
 
 [Cursos Go](/cursos-programacion/#los-mejores-cursos-gratis-de-python "Los mejores Cursos de Go") / [Libros Go](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python "Los Mejores Libros en PDF de Go") / [Aprender Go](/python/ "La mejor guía de aprendizaje de Go") [Recursos Go](/python-recursos/ "Los mejores recursos para aprender Go")
 
@@ -309,131 +299,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 > 👷‍♂️👷‍♂️👷‍♂️👷‍♂️👷‍♂️ EN CONSTRUCCIÓN 👷‍♂️👷‍♂️👷‍♂️👷‍♂️👷‍♂️👷‍♂️
 
-## **Breve Historia de los Lenguajes de Programación**
-
-Un lenguaje de programación de computadoras es un medio a través del cual un problema se divide en sus partes componentes que luego se colocan en una lista ordenada de instrucciones para que una computadora las ejecute.
-
-Ada Lovelace, una matemática inglesa del siglo XIX, es a menudo llamada la primera programadora de computadoras. Lovelace se dio cuenta de que el motor analítico, una computadora mecánica propuesta por el matemático inglés Charles Babbage, podía usarse para realizar una secuencia de operaciones.
-
-Sin embargo, no usó un lenguaje de programación. Se podría decir que su primer programa fue escrito en lenguaje máquina., las acciones directas que tendría que realizar la máquina. En la mayoría de la programación moderna, un programa se escribe a cierta distancia de las operaciones electrónicas reales que debe realizar la computadora.
-
-A continuación, vamos a realizar un repaso cronológico a través del nacimiento de cada uno de los diferentes lenguajes de programación más importantes a todo lo largo de la historia de la informática.
-
-### **El Primer Algoritmo, en 1883**
-
-El primer algoritmo fue creado por Ada Lovelace, para la máquina analítica de Charles Babbage para calcular los números de Bernoulli, y por tanto, se le considera el primer lenguaje creado en la historia de la programación.
-
-### **El Lenguaje Ensamblador, en 1949**
-
-El primer lenguaje ensamblador fue creado por Maurice Wilkes y todo su equipo matemático en la Universidad de Cambridge y se uso en la calculadora electrónica automática de almacenamiento (EDSAC), destacar aquí a las primeras operadoras de la máquina (Joyce Wheeler y Margaret Marrs y Liz Howe, operadora de la EDSAC 2). El lenguaje ensamblador es un tipo de lenguaje de programación de computadora de bajo nivel que simplifica el lenguaje del código de máquina y las instrucciones específicas necesarias para indicarle a la computadora qué hacer.
-
-### **Autocode, en 1952**
-
-El primer **Autocode desarrollado por Alick Glennie** para la computadora Mark 1 de la Universidad de Manchester en el Reino Unido. Autocode fue un término genérico para una familia de lenguajes de programación de las primeras computadoras creadas en la historia. Algunos consideran que el código automático es el primer lenguaje de programación compilado, lo que significa que se puede traducir directamente al código de la máquina usando un programa llamado compilador.
-
-### **Fortran, en 1957**
-
-**Fortran, creado por John Backus** para trabajos científicos, matemáticos y estadísticos complicados, Fortran significa For mula Tran slation. Es uno de los lenguajes de programación de computadoras más antiguos que todavía se usan en la actualidad.
-
-### **Algol, en 1958**
-
-**Algol, creado por un comité para uso científico**, Algol representa el lenguaje L rítmico de Algo . Algol sirvió como punto de partida en el desarrollo de lenguajes como Pascal, C, C ++ y Java.
-
-### **Cobol, en 1959**
-
-**COBOL, creado por el Dr. Grace Murray Hopper** como un lenguaje de programación informática que puedan ejecutarse en todas las marcas y tipos de ordenadores, COBOL significa CO mmon B usiness O riented L anguage. Se utiliza en cajeros automáticos, procesamiento de tarjetas de crédito, sistemas telefónicos, computadoras de hospitales y gobiernos, sistemas automotrices y señales de tráfico. En la película The Terminator, se utilizaron piezas del código fuente de COBOL en la pantalla de visión de Terminator.
-
-### **LISP, en 1959**
-
-**LISP, creado por John McCarthy de MIT**, LISP todavía está en uso. Es sinónimo de lenguaje de procesamiento LIS t P. Fue creado originalmente para la investigación de inteligencia artificial, pero hoy se puede usar en situaciones en las que se usan Ruby o Python.
-- 1964: **BASIC, Desarrollado por John G. Kemeny y Thomas E. Kurtz** en el Dartmouth College de manera que los estudiantes que no tienen un fuerte conocimiento técnico o matemático todavía podían usar las computadoras, lo que representa B de eginner A ll-propósito S ymbolic I nstruction C oda. Una versión modificada de BASIC fue escrita por Bill Gates y Paul Allen. Este se convertiría en el primer producto de Microsoft.
-
-### Pascal, en 1970**
-
-**Pascal, Desarrollado por Niklaus Wirth**, Pascal fue nombrado en honor del matemático, físico y filósofo francés Blaise Pascal. Es fácil de aprender y fue creado originalmente como una herramienta para enseñar programación de computadoras. Pascal fue el idioma principal utilizado para el desarrollo de software en los primeros años de Apple.
-
-## Smalltal, en 1972**
-
-**Smalltalk desarrollado por Alan Kay, Adele Goldberg y Dan Ingalls en el Centro de Investigación Xerox Palo Alto**, Smalltalk permitió a los programadores de computadoras modificar el código sobre la marcha y también introdujo otros aspectos ahora presentes en lenguajes de programación de computadoras comunes, como Python, Java y Rubí.
-
-### **C, en 1972
-
-**C, Desarrollado por Dennis Ritchie en Bell Labs**, C es considerado por muchos como el primer lenguaje de alto nivel. Un lenguaje de programación de computadora de alto nivel está más cerca del lenguaje humano y se elimina más del código de la máquina. C fue creado para que un sistema operativo llamado Unix pudiera usarse en muchos tipos diferentes de computadoras. Ha influido en muchos otros lenguajes, incluidos Ruby, C #, Go, Java, JavaScript, Perl, PHP y Python.
-
-### **SQL, en 1972
-
-**SQL desarrollado por Donald D. Chamberlin y Raymond F**. Boyce en IBM. SQL significa S tructured Q uery L anguage. Se utiliza para ver y cambiar la información que se almacena en las bases de datos. SQL usa oraciones de comando llamadas consultas para agregar, eliminar o ver datos.
-
-### **MATLAB, en 1978
-
-**MATLAB, Desarrollado por Cleve Moler**. MATLAB significa Mat rix Lab oratory. Es uno de los mejores lenguajes de programación de computadoras para escribir programas matemáticos y se utiliza principalmente en matemáticas, investigación y educación. También se puede usar para crear gráficos de dos y tres dimensiones.
-
-### **Objective-C, en 1983**
-
-**Objective-C, Creado por Brad Cox y Tom Love**. Objective-C es el principal lenguaje de programación de computadoras utilizado al escribir software para macOS e iOS, los sistemas operativos de Apple.
-
-### **C++, en 1983
-
-**C++ es una extensión del lenguaje C y fue desarrollado por Bjarne Stroustrup**. Es uno de los idiomas más utilizados en el mundo. C ++ se usa en motores de juegos y software de alto rendimiento como Adobe Photoshop. La mayoría del software empaquetado todavía está escrito en C++.
-
-### **Perl, en 1987
-
-**Perl fue desarrollado originalmente por Larry Wall en 1987** como un lenguaje de script diseñado para la edición de texto. Su propósito era facilitar el procesamiento de informes. Ahora se usa ampliamente para muchos propósitos, incluida la administración de sistemas Linux, el desarrollo web y la programación de redes.
-
-### **Haskell, en 1990
-
-**Haskell, lleva el nombre de Haskell Brooks Curry**, un lógico y matemático estadounidense. Haskell se llama un lenguaje de programación de computadora puramente funcional, lo que básicamente significa que es principalmente matemático. Es utilizado por muchas industrias, especialmente aquellas que se ocupan de cálculos complicados, registros y cálculo de números.
-
-### **Python, en 1991
-
-**Python, diseñado por Guido Van Rossum**. Python es más fácil de leer y requiere menos líneas de código que muchos otros lenguajes de programación de computadoras. Fue nombrado después del grupo de comedia británico Monty Python. Los sitios populares como Instagram usan marcos que están escritos en Python.
-
-### **Visual Basic, en 1991**
-
-**Visual Basic, desarrollado por Microsoft**, Visual Basic permite a los programadores elegir y cambiar fragmentos de código preseleccionados de manera arrastrar y soltar a través de una interfaz gráfica de usuario (GUI).
-
-### **R, en 1993
-
-**R, desarrollado por Ross Ihaka y Robert Gentleman en la Universidad de Auckland**, Nueva Zelanda, R lleva el nombre de los primeros nombres de los dos primeros autores. Es utilizado principalmente por estadísticos y aquellos que realizan diferentes tipos de análisis de datos.
-
-### **Java, en 1995
-
-**Java, originalmente llamado Oak, desarrollado por James Gosling**. Posteriormente, controlado, mantenido y desarrollado por la empresa Sun Microsystems. Estaba destinado a decodificadores de cable y dispositivos de mano, pero luego se mejoró para que pudiera usarse para entregar información en la World Wide Web. Java está en todas partes, desde computadoras hasta teléfonos inteligentes y parquímetros. ¡Tres mil millones de dispositivos ejecutan Java!
-
-### **Java, en 1995**
-
-**PHP, creado por Rasmus Lerdorf**, PHP se utiliza principalmente para el desarrollo web y generalmente se ejecuta en servidores web. En un principio se puso de pie para P ersonal H ome P edad, ya que fue utilizado por Lerdorf para gestionar su propia información en línea. PHP ahora se usa ampliamente para crear sitios web y blogs. WordPress, una popular herramienta de creación de sitios web, está escrita con PHP.
-
-### **Ruby, en 1995**
-
-**Ruby fue creado por Yukihiro "Matz" Matsumoto**, quien combinó partes de sus idiomas favoritos para formar un nuevo lenguaje de programación de computadora de propósito general que puede realizar muchas tareas de programación. Es popular en el desarrollo de aplicaciones web. El código Ruby se ejecuta más lentamente, pero permite a los programadores de computadoras armar y ejecutar un programa rápidamente.
-
-### **JavaScript, en 1995**
-
-**JavaScript creado en solo 10 días por Brendan Eich**, este lenguaje se utiliza principalmente para mejorar muchas interacciones del navegador web. Casi todos los sitios web principales usan Javascript.
-
-### **C#, en 2000**
-
-**C# desarrollado por Microsoft** con el objetivo de combinar la capacidad informática de C ++ con la simplicidad de Visual Basic, C # se basa en C ++ y es similar a Java en muchos aspectos. Se usa en casi todos los productos de Microsoft y se usa principalmente para desarrollar aplicaciones de escritorio.
-
-### **Scala, en 2003**
-
-**Scala creado por Martin Odersky**. Scala es un lenguaje de programación de computadora que combina programación funcional, que es matemática, con programación orientada a objetos, que se organiza alrededor de datos que controlan el acceso al código. Su compatibilidad con Java lo hace útil en el desarrollo de Android.
-
-### **Groovy, en 2003**
-
-**Groovy, desarrollado por James Strachan y Bob McWhirter**, Groovy se deriva de Java y mejora la productividad de los desarrolladores porque es fácil de aprender y conciso.
-
-### **Go, en 2009**
-
-**Go fue desarrollado por Google** para abordar problemas que pueden ocurrir en grandes sistemas de software. Dado que el uso de la computadora y la tecnología es muy diferente hoy que cuando se introdujeron y pusieron en uso lenguajes como C ++, Java y Python, surgieron problemas cuando los grandes sistemas informáticos se volvieron comunes. Go tenía la intención de mejorar el entorno de trabajo de los programadores para que pudieran escribir, leer y mantener grandes sistemas de software de manera más eficiente.
-
-### **Swift, en 2014**
-
-**Swift desarrollado por Apple como un reemplazo para C, C ++ y Objective-C**. Se supone que Swift es más fácil de usar y deja menos espacio para los errores. Es versátil y se puede utilizar para aplicaciones de escritorio y móviles y servicios en la nube.
-<!-- LOS LENGUAJES DE MÁS INFLUENCIA EN LA HISTORIA DE LA PROGRAMACIÓN: https://www.britannica.com/list/influential-computer-programming-languages -->
-
-## **Los Lenguajes Más Influyentes de la Historia de la Programación**
+## **Los Lenguajes de Programación Más Influyentes de la Historia**
 
 A lo largo de la historia de la programación, la evolución de los lenguajes ha sido una carrera meteórica hacía la búsqueda de una programación más eficaz, y porque no, también en búsqueda de una programación más sencilla.
 
@@ -487,13 +353,13 @@ COBOL se generalizó a través de las empresas y el gobierno, y ha tenido una vi
 
 Gran parte de la crisis del año 2000 involucró código escrito en COBOL, y en 2017 se estimó que el 95 por ciento de las transacciones con tarjeta en los cajeros automáticos todavía usaban el idioma.
 
-### **BÁSICO (1964)**
+### **BASIC (1964)**
 
 John Kemeny y Thomas Kurtz, dos profesores de matemáticas en Dartmouth College, estaban convencidos de que los estudiantes de pregrado deberían aprender a programar computadoras, pero que FORTRAN y ALGOL eran demasiado complejos.
 
 Kemeny y Kurtz querían un lenguaje que permitiera al estudiante escribir un programa funcional de inmediato. También idearon un sistema de tiempo compartido en el que varias personas podían usar terminales para ejecutar programas simultáneamente en una computadora central.
 
-El lenguaje que idearon, Código de instrucción simbólica multiusos para principiantes ( BÁSICO), fue extremadamente simple; la primera versión tenía solo 14 comandos.
+El lenguaje que idearon, Código de instrucción simbólica multiusos para principiantes (BASIC), fue extremadamente simple; la primera versión tenía solo 14 comandos.
 
 BASIC se adoptó rápidamente en todo Dartmouth. La popularidad de BASIC explotó con el advenimiento de la computadora personal, que generalmente incluía el idioma.
 
@@ -508,3 +374,127 @@ En Bell Labs, el proyecto Multics fue visto como demasiado complejo para tener �
 Para Unix, el programador Ken Thompson creó un lenguaje de programación simplificado llamado B. Sin embargo, B no distinguió entre diferentes tipos de datos, como números enteros y caracteres. En 1971 Dennis Ritchieagregó un tipo de carácter a B y creó un nuevo lenguaje que brevemente llamó "nuevo B" y luego llamó C.
 
 Cuando C se terminó básicamente en 1972, el lenguaje era tan poderoso y flexible que gran parte del sistema operativo UNIX estaba escrito en eso. Uno de los descendientes de C , C ++ , se ha convertido en uno de los lenguajes de programación más utilizados del mundo.
+
+## **Breve Historia de los Lenguajes de Programación**
+
+Un lenguaje de programación de computadoras es un medio a través del cual un problema se divide en sus partes componentes que luego se colocan en una lista ordenada de instrucciones para que una computadora las ejecute.
+
+Ada Lovelace, una matemática inglesa del siglo XIX, es a menudo llamada la primera programadora de computadoras. Lovelace se dio cuenta de que el motor analítico, una computadora mecánica propuesta por el matemático inglés Charles Babbage, podía usarse para realizar una secuencia de operaciones.
+
+Sin embargo, no usó un lenguaje de programación. Se podría decir que su primer programa fue escrito en lenguaje máquina., las acciones directas que tendría que realizar la máquina. En la mayoría de la programación moderna, un programa se escribe a cierta distancia de las operaciones electrónicas reales que debe realizar la computadora.
+
+A continuación, vamos a realizar un repaso cronológico a través del nacimiento de cada uno de los diferentes lenguajes de programación más importantes a todo lo largo de la historia de la informática.
+
+### **El Primer Algoritmo, en 1883**
+
+El primer algoritmo fue creado por Ada Lovelace, para la máquina analítica de Charles Babbage para calcular los números de Bernoulli, y por tanto, se le considera el primer lenguaje creado en la historia de la programación.
+
+### **El Lenguaje Ensamblador, en 1949**
+
+El primer lenguaje ensamblador fue creado por Maurice Wilkes y todo su equipo matemático en la Universidad de Cambridge y se uso en la calculadora electrónica automática de almacenamiento (EDSAC), destacar aquí a las primeras operadoras de la máquina (Joyce Wheeler y Margaret Marrs y Liz Howe, operadora de la EDSAC 2). El lenguaje ensamblador es un tipo de lenguaje de programación de computadora de bajo nivel que simplifica el lenguaje del código de máquina y las instrucciones específicas necesarias para indicarle a la computadora qué hacer.
+
+### **Autocode, en 1952**
+
+El primer **Autocode desarrollado por Alick Glennie** para la computadora Mark 1 de la Universidad de Manchester en el Reino Unido. Autocode fue un término genérico para una familia de lenguajes de programación de las primeras computadoras creadas en la historia. Algunos consideran que el código automático es el primer lenguaje de programación compilado, lo que significa que se puede traducir directamente al código de la máquina usando un programa llamado compilador.
+
+### **Fortran, en 1957**
+
+**Fortran, creado por John Backus** para trabajos científicos, matemáticos y estadísticos complicados, Fortran significa For mula Tran slation. Es uno de los lenguajes de programación de computadoras más antiguos que todavía se usan en la actualidad.
+
+### **Algol, en 1958**
+
+**Algol, creado por un comité para uso científico**, Algol representa el lenguaje L rítmico de Algo . Algol sirvió como punto de partida en el desarrollo de lenguajes como Pascal, C, C ++ y Java.
+
+### **Cobol, en 1959**
+
+**COBOL, creado por el Dr. Grace Murray Hopper** como un lenguaje de programación informática que puedan ejecutarse en todas las marcas y tipos de ordenadores, COBOL significa CO mmon B usiness O riented L anguage. Se utiliza en cajeros automáticos, procesamiento de tarjetas de crédito, sistemas telefónicos, computadoras de hospitales y gobiernos, sistemas automotrices y señales de tráfico. En la película The Terminator, se utilizaron piezas del código fuente de COBOL en la pantalla de visión de Terminator.
+
+### **LISP, en 1959**
+
+**LISP, creado por John McCarthy de MIT**, LISP todavía está en uso. Es sinónimo de lenguaje de procesamiento LIS t P. Fue creado originalmente para la investigación de inteligencia artificial, pero hoy se puede usar en situaciones en las que se usan Ruby o Python.
+- 1964: **BASIC, Desarrollado por John G. Kemeny y Thomas E. Kurtz** en el Dartmouth College de manera que los estudiantes que no tienen un fuerte conocimiento técnico o matemático todavía podían usar las computadoras, lo que representa B de eginner A ll-propósito S ymbolic I nstruction C oda. Una versión modificada de BASIC fue escrita por Bill Gates y Paul Allen. Este se convertiría en el primer producto de Microsoft.
+
+### **Pascal, en 1970**
+
+**Pascal, Desarrollado por Niklaus Wirth**, Pascal fue nombrado en honor del matemático, físico y filósofo francés Blaise Pascal. Es fácil de aprender y fue creado originalmente como una herramienta para enseñar programación de computadoras. Pascal fue el idioma principal utilizado para el desarrollo de software en los primeros años de Apple.
+
+### **Smalltal, en 1972**
+
+**Smalltalk desarrollado por Alan Kay, Adele Goldberg y Dan Ingalls en el Centro de Investigación Xerox Palo Alto**, Smalltalk permitió a los programadores de computadoras modificar el código sobre la marcha y también introdujo otros aspectos ahora presentes en lenguajes de programación de computadoras comunes, como Python, Java y Rubí.
+
+### **C, en 1972**
+
+**C, Desarrollado por Dennis Ritchie en Bell Labs**, C es considerado por muchos como el primer lenguaje de alto nivel. Un lenguaje de programación de computadora de alto nivel está más cerca del lenguaje humano y se elimina más del código de la máquina. C fue creado para que un sistema operativo llamado Unix pudiera usarse en muchos tipos diferentes de computadoras. Ha influido en muchos otros lenguajes, incluidos Ruby, C #, Go, Java, JavaScript, Perl, PHP y Python.
+
+### **SQL, en 1972**
+
+**SQL desarrollado por Donald D. Chamberlin y Raymond F**. Boyce en IBM. SQL significa S tructured Q uery L anguage. Se utiliza para ver y cambiar la información que se almacena en las bases de datos. SQL usa oraciones de comando llamadas consultas para agregar, eliminar o ver datos.
+
+### **MATLAB, en 1978**
+
+**MATLAB, Desarrollado por Cleve Moler**. MATLAB significa Mat rix Lab oratory. Es uno de los mejores lenguajes de programación de computadoras para escribir programas matemáticos y se utiliza principalmente en matemáticas, investigación y educación. También se puede usar para crear gráficos de dos y tres dimensiones.
+
+### **Objective-C, en 1983**
+
+**Objective-C, Creado por Brad Cox y Tom Love**. Objective-C es el principal lenguaje de programación de computadoras utilizado al escribir software para macOS e iOS, los sistemas operativos de Apple.
+
+### **C++, en 1983**
+
+**C++ es una extensión del lenguaje C y fue desarrollado por Bjarne Stroustrup**. Es uno de los idiomas más utilizados en el mundo. C ++ se usa en motores de juegos y software de alto rendimiento como Adobe Photoshop. La mayoría del software empaquetado todavía está escrito en C++.
+
+### **Perl, en 1987**
+
+**Perl fue desarrollado originalmente por Larry Wall en 1987** como un lenguaje de script diseñado para la edición de texto. Su propósito era facilitar el procesamiento de informes. Ahora se usa ampliamente para muchos propósitos, incluida la administración de sistemas Linux, el desarrollo web y la programación de redes.
+
+### **Haskell, en 1990**
+
+**Haskell, lleva el nombre de Haskell Brooks Curry**, un lógico y matemático estadounidense. Haskell se llama un lenguaje de programación de computadora puramente funcional, lo que básicamente significa que es principalmente matemático. Es utilizado por muchas industrias, especialmente aquellas que se ocupan de cálculos complicados, registros y cálculo de números.
+
+### **Python, en 1991**
+
+**Python, diseñado por Guido Van Rossum**. Python es más fácil de leer y requiere menos líneas de código que muchos otros lenguajes de programación de computadoras. Fue nombrado después del grupo de comedia británico Monty Python. Los sitios populares como Instagram usan marcos que están escritos en Python.
+
+### **Visual Basic, en 1991**
+
+**Visual Basic, desarrollado por Microsoft**, Visual Basic permite a los programadores elegir y cambiar fragmentos de código preseleccionados de manera arrastrar y soltar a través de una interfaz gráfica de usuario (GUI).
+
+### **R, en 1993**
+
+**R, desarrollado por Ross Ihaka y Robert Gentleman en la Universidad de Auckland**, Nueva Zelanda, R lleva el nombre de los primeros nombres de los dos primeros autores. Es utilizado principalmente por estadísticos y aquellos que realizan diferentes tipos de análisis de datos.
+
+### **Java, en 1995**
+
+**Java, originalmente llamado Oak, desarrollado por James Gosling**. Posteriormente, controlado, mantenido y desarrollado por la empresa Sun Microsystems. Estaba destinado a decodificadores de cable y dispositivos de mano, pero luego se mejoró para que pudiera usarse para entregar información en la World Wide Web. Java está en todas partes, desde computadoras hasta teléfonos inteligentes y parquímetros. ¡Tres mil millones de dispositivos ejecutan Java!
+
+### **Java, en 1995**
+
+**PHP, creado por Rasmus Lerdorf**, PHP se utiliza principalmente para el desarrollo web y generalmente se ejecuta en servidores web. En un principio se puso de pie para P ersonal H ome P edad, ya que fue utilizado por Lerdorf para gestionar su propia información en línea. PHP ahora se usa ampliamente para crear sitios web y blogs. WordPress, una popular herramienta de creación de sitios web, está escrita con PHP.
+
+### **Ruby, en 1995**
+
+**Ruby fue creado por Yukihiro "Matz" Matsumoto**, quien combinó partes de sus idiomas favoritos para formar un nuevo lenguaje de programación de computadora de propósito general que puede realizar muchas tareas de programación. Es popular en el desarrollo de aplicaciones web. El código Ruby se ejecuta más lentamente, pero permite a los programadores de computadoras armar y ejecutar un programa rápidamente.
+
+### **JavaScript, en 1995**
+
+**JavaScript creado en solo 10 días por Brendan Eich**, este lenguaje se utiliza principalmente para mejorar muchas interacciones del navegador web. Casi todos los sitios web principales usan Javascript.
+
+### **C#, en 2000**
+
+**C# desarrollado por Microsoft** con el objetivo de combinar la capacidad informática de C ++ con la simplicidad de Visual Basic, C # se basa en C ++ y es similar a Java en muchos aspectos. Se usa en casi todos los productos de Microsoft y se usa principalmente para desarrollar aplicaciones de escritorio.
+
+### **Scala, en 2003**
+
+**Scala creado por Martin Odersky**. Scala es un lenguaje de programación de computadora que combina programación funcional, que es matemática, con programación orientada a objetos, que se organiza alrededor de datos que controlan el acceso al código. Su compatibilidad con Java lo hace útil en el desarrollo de Android.
+
+### **Groovy, en 2003**
+
+**Groovy, desarrollado por James Strachan y Bob McWhirter**, Groovy se deriva de Java y mejora la productividad de los desarrolladores porque es fácil de aprender y conciso.
+
+### **Go, en 2009**
+
+**Go fue desarrollado por Google** para abordar problemas que pueden ocurrir en grandes sistemas de software. Dado que el uso de la computadora y la tecnología es muy diferente hoy que cuando se introdujeron y pusieron en uso lenguajes como C ++, Java y Python, surgieron problemas cuando los grandes sistemas informáticos se volvieron comunes. Go tenía la intención de mejorar el entorno de trabajo de los programadores para que pudieran escribir, leer y mantener grandes sistemas de software de manera más eficiente.
+
+### **Swift, en 2014**
+
+**Swift desarrollado por Apple como un reemplazo para C, C ++ y Objective-C**. Se supone que Swift es más fácil de usar y deja menos espacio para los errores. Es versátil y se puede utilizar para aplicaciones de escritorio y móviles y servicios en la nube.
+<!-- LOS LENGUAJES DE MÁS INFLUENCIA EN LA HISTORIA DE LA PROGRAMACIÓN: https://www.britannica.com/list/influential-computer-programming-languages -->
