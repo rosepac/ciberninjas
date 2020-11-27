@@ -76,7 +76,7 @@ El uso de varios métodos y el navegador dominante del mercado para ejecutar JS 
 El archivado es aditivo, por lo que puede programar `. / Archive` para que se ejecute con regularidad y extraiga nuevos enlaces en el índice.
 Todo el contenido guardado es estático y está indexado con archivos JSON, por lo que vive para siempre y se puede analizar fácilmente, no requiere un backend que se ejecute siempre.
 
-[🔥 Probar ArchiveBox](https://archivebox.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar ArchiveBox](https://archivebox.io/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **2. Memex**
 
@@ -92,7 +92,7 @@ Una extensión de navegador centrada en la privacidad para eliminar el tiempo de
 - 🗄Organizar: muévase con el mouse hacia el lado derecho de la pantalla, o haga clic en el pequeño ícono de 'cerebro' en la barra de extensión.
 <!-- [Curate](https://alternativeto.net/list/9007/curate) , [A. LINKS](https://alternativeto.net/list/18591/aaaabbbb) , [* Marcadores](https://alternativeto.net/list/9005/-bookmarks) y [marcadores sociales](https://alternativeto.net/list/3165/curation) -->
 
-[🔥 Probar Memex](https://getmemex.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Memex](https://getmemex.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **3. NetBoard**
 
@@ -103,7 +103,7 @@ Se trata de ejecutar sus propias páginas web, excepto que es tan fácil como us
 
 La gente lo usa para combinar materiales sobre una empresa o eventos, para marcar como favoritos, para recopilar y compartir materiales de aprendizaje, como álbumes de fotos y simplemente para compartir lo que les gusta.
 
-[🔥 Probar NetBoard](https://netboard.me/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar NetBoard](https://netboard.me/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **4. Wallabag**
 
@@ -111,7 +111,7 @@ Framabag es un servicio gratuito de la red Framasoft. Esta es una instancia de [
 
 Con esta aplicación ya no te perderás ningún contenido. Haz clic, guarda, léelo cuando quieras. Guarda el contenido que seleccione para que pueda leerlo cuando tenga tiempo.
 
-[🔥 Descargar ](https://wallabag.org/en){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](https://wallabag.org/en){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **5. Reminiscence**
 
@@ -124,7 +124,7 @@ Categorización de marcadores basada en directoriosEtiquetado automático de enl
 Admite múltiples cuentas de usuario.Admite directorio público y de grupo para cada usuario, que se puede compartir con público o grupo de usuarios.Cargue cualquier archivo desde la interfaz web para archivarlo.Interfaz de administración fácil de usar para administrar múltiples usuarios.Importe marcadores desde el formato de archivo HTML de marcadores de Netscape.
 
 <!-- [A. ENLACES](https://alternativeto.net/list/18591/aaaabbbb) , [auto organizadas](https://alternativeto.net/list/8748/servers) y [Need2Try](https://alternativeto.net/list/6360/need2try) -->
-[🔥 Descargar ](https://github.com/kanishka-linux/reminiscence#reminiscence){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](https://github.com/kanishka-linux/reminiscence#reminiscence){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -134,7 +134,7 @@ Admite múltiples cuentas de usuario.Admite directorio público y de grupo para 
 
 Por desgracia, no permite reproducir los vídeos de forma interna a la página web.
 
-[🔥 Descargar Shaarli](https://shaarli.readthedocs.io/en/master/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Shaarli](https://shaarli.readthedocs.io/en/master/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **7. Shaark**
 
@@ -156,13 +156,13 @@ Características d Shaark:
 - Archivado (como pdf, como medio)
 - Cifrado de base de datos, 2-FA, Multiusuario, copia de seguridad
 
-[🔥 Descargar Shaark](https://github.com/MarceauKa/shaark){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Shaark](https://github.com/MarceauKa/shaark){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **8. ZEEF**
 
 Directorio para compartir sus conocimientos sobre un tema. ZEEF: directorio seleccionado, los expertos seleccionan la mejor tecnología y recursos de desarrollo en línea.
 
-[🔥 Probar ZEEF](https://zeef.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar ZEEF](https://zeef.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **9. Archive of Our Own**
 
@@ -170,7 +170,7 @@ Archive of Our Own ofrece un lugar de alojamiento central no comercial y sin fin
 
 Archive of Our Own es un proyecto de la Organización de Transformative Works.
 
-[🔥 Probar Archive of Our Own](https://archiveofourown.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Archive of Our Own](https://archiveofourown.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **10. Marcadores de NextCloud**
 
@@ -178,7 +178,7 @@ Recopila, sincroniza y comparte tus marcadores a través de Nextcloud. Esta apli
 
 Puedes examinar y filtrar tus marcadores a través de etiquetas y carpetas y utilizando la función de búsqueda incorporada. Además, para acceder a tus marcadores en cualquier lugar, también te permite sincronizar clientes de terceros a través de una API REST incorporada, en tus navegadores y en tu teléfono.
 
-[🔥 Probar Favoritos de NextCloud](https://github.com/nextcloud/bookmarks#nextcloud-bookmarks){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Favoritos de NextCloud](https://github.com/nextcloud/bookmarks#nextcloud-bookmarks){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **11. Linkding**
 
@@ -186,7 +186,7 @@ Servicio de marcadores de código abierto que puede alojar usted mismo. Linkding
 
 Proporciona un marcador para agregar rápidamente nuevos marcadores mientras navega por la web. También admite la importación / exportación de marcadores en formato HTML.
 
-[🔥 Probar Linkding](https://github.com/sissbruecker/linkding#linkding){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Linkding](https://github.com/sissbruecker/linkding#linkding){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **12. WebCull**
 
@@ -194,7 +194,7 @@ WebCull es un organizador de enlaces diseñado para ayudarlo a ser más producti
 
 WebCull es un administrador de enlaces en línea que le ayuda a mantener todos sus enlaces organizados en un lugar al que se puede acceder desde cualquier lugar.
 
-[🔥 Probar WebCull](https://webcull.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar WebCull](https://webcull.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **13. Sidebary**
 
@@ -225,7 +225,7 @@ Administra tus pestañas y marcadores con una práctica barra lateral en Firefox
 - Seleccionar elemento siguiente / anterior -` Alt + Abajo / Arriba`
 - Abrir el menú del panel - hacer clic derecho en el icono del panel
 
-[🔥 Probar Sidebary](https://addons.mozilla.org/en-US/firefox/addon/sidebery/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Sidebary](https://addons.mozilla.org/en-US/firefox/addon/sidebery/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **14. Barra de Marcadores Lateral**
 
@@ -233,7 +233,7 @@ Bueno, esta no es una gran alternativa real, pero si que puede ser una mejor sol
 
 Bookmark Sidebar es una extensión para Chrome, que agrega una barra lateral conmutable con todos sus marcadores en el lado izquierdo o derecho de su pantalla. Puede ordenar, editar, eliminar o reorganizar sus marcadores fácilmente desde la barra lateral. Hay muchas opciones de configuración y la apariencia es totalmente personalizable.
 
-[🔥 Probar la Barra de Marcadores Lateral](https://extensions.blockbyte.de/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar la Barra de Marcadores Lateral](https://extensions.blockbyte.de/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **15. Conifer**
 
@@ -244,7 +244,7 @@ Lo que más diferencia a Conifer es su enfoque en "contenido web dinámico". La 
 Otras soluciones de preservación digital existentes se crearon para esa época y no pueden hacer frente de manera adecuada a lo que se ha convertido la web. Conifer, por el contrario, se enfoca en todo ese contenido dinámico, como videos incrustados y javascript complejo, direccionamiento
 nuestro presente y futuro.
 
-[🔥 Probar Conifer](https://conifer.rhizome.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Conifer](https://conifer.rhizome.org/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
