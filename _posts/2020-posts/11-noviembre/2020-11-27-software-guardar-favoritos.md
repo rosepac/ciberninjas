@@ -32,7 +32,7 @@ Sin más divagación, a continuación algunas de las mejores alternativas con la
 - [**1. ArchiveBox**](#1-archivebox)
 - [**2. Memex**](#2-memex)
 - [**3. NetBoard**](#3-netboard)
-- [**4. Wallabag**](#4-wallabag)
+- [**4. Framabag**](#4-framabag)
 - [**5. Reminiscence**](#5-reminiscence)
 - [**6. Shaarli**](#6-shaarli)
 - [**7. Shaark**](#7-shaark)
@@ -105,13 +105,11 @@ La gente lo usa para combinar materiales sobre una empresa o eventos, para marca
 
 [🔥 Probar NetBoard](https://netboard.me/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **4. Wallabag**
+## **4. Framabag**
 
-Framabag es un servicio gratuito de la red Framasoft. Esta es una instancia de [![Pequeño icono de wallabag](https://d2.alternativeto.net/dist/icons/wallabag_100125.png?width=36&height=36&mode=crop&upscale=false)wallabag](https://alternativeto.net/software/wallabag/) .
+Framabag es un servicio gratuito de la red Framasoft. Con esta aplicación ya no te perderás ningún contenido. Haz clic, guarda, léelo cuando quieras. Guarda el contenido que seleccione para que pueda leerlo cuando tengas tiempo.
 
-Con esta aplicación ya no te perderás ningún contenido. Haz clic, guarda, léelo cuando quieras. Guarda el contenido que seleccione para que pueda leerlo cuando tenga tiempo.
-
-[🔥 Descargar ](https://wallabag.org/en){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Framabag](https://framacloud.org/fr/cultiver-son-jardin/wallabag.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **5. Reminiscence**
 
