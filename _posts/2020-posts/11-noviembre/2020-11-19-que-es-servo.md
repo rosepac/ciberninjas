@@ -27,6 +27,6 @@ Servo está escrito en Rust y comparte código con Mozilla Firefox y el ecosiste
 
 Como resultado, el proyecto Servo ayuda a impulsar toda la plataforma web mientras se basa en una plataforma de tecnologías modulares reutilizables que implementan estándares web.
 
-[🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+![🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![](/assets/img/2020/servo-linux.webp)

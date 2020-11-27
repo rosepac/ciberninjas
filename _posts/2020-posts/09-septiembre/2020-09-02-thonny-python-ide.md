@@ -19,6 +19,52 @@ date: 2020-09-02
 published: true
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/python/">Aprender Python</a></li>
+    <li class="breadcrumb-item active" aria-current="page">IDE Thonny de Python</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/python/",
+     "name": "¿Cómo Aprender a Programar en Python 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/thonny-python-ide/",
+    "name": "Conociendo al IDE Thonny de Python, un IDE perfecto para Raspberry PI"
+    }
+  }
+ ]
+}
+</script>
+
 Thonny es un nuevo IDE de Python para aprender y enseñar programación que puede hacer que la visualización de programas sea una parte natural del flujo de trabajo de los principiantes.
 
 Entre sus características destacadas se encuentran diferentes formas de recorrer el código, la evaluación paso a paso de la expresión, la visualización intuitiva de la pila de llamadas y un modo para explicar los conceptos de referencias y montón. Es de uso gratuito y se puede ampliar a través de complementos.
@@ -69,5 +115,7 @@ Las últimas versiones estables están vinculadas en el cuadro de descarga en la
 [🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores](https://ciberninjas.com/programar/)
 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
+
+> ***Relacionados Python:*** *[Aprender Python](/python/) / [Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python) / [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python) / [Frameworks Python](/python-frameworks/) / [Librerías Python](/python-librerias/) / [Recursos Python](/python-recursos/) / [Editores o IDEs Python](/mejores-ide-python/) / [Diccionario Python](/glosario/completo-tecnologias-python/)*
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

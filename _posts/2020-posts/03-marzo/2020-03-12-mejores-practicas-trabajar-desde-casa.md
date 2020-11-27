@@ -21,6 +21,33 @@ published: true
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Trabajar desde Casa</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/",
+    "name": "Programar Gratis"
+    }
+  }
+ ]
+}
+</script>
+
 Trabajar desde casa es excelente en muchos niveles. No tener que viajar, ahorrar dinero y tiempo y, de hecho; puede hacerte más feliz. Aunque la mayoría de personas descubran el teletrabajo por una mala situación; como es esté, coronavirus / enfermedad.
 
 El teletrabajo ha sido una gran herramienta para miles de personas a lo largo de los últimos años, hasta la época actual; incluso, ha ayudado a las grandes empresas a poder contratar en sus plantillas a los mejores profesionales aún estén al otro lado del mundo.

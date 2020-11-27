@@ -48,19 +48,17 @@ published: true
 }
 </script>
 
-En febrero de 2001, 17 profesionales del software que se autodenominaban “The Agile Alliance” se reunieron para desarrollar lo que llamaron el [“Manifiesto para el desarrollo de software ágil”](https://agilemanifesto.org/history.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}. En el documento, se enfatizan cuatro valores concretos y 12 principios, en la actualidad, se conoce como el Manifiesto de Agile.
+En febrero de 2001. **17 profesionales del software que se autodenominaban “The Agile Alliance”** se reunieron para desarrollar lo que denominaron el [**“Manifiesto para el desarrollo de software ágil”**](https://agilemanifesto.org/history.html){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}.
+
+En el documento, se destacan 4 valores y 12 principios fundamentales, que en la actualidad, se conoce como el **Manifiesto Agile**.
 <!-- https://thedigitalprojectmanager.com/agile-project-management/#kca -->
 <!-- https://thedigitalprojectmanager.com/agile-tools/ -->
 
-> Este contenido, es derivado del [contenido original](https://thedigitalprojectmanager.com/agile-project-management/){:target="_blank" rel="follow" hreflang="en"} creado por [The Digital Project Manager](https://thedigitalprojectmanager.com/), un software dedicado a la gestión de proyectos implementando las mejores metodologías prácticas, ¡Gracias por permitirme la traducción del mismo!
->
-> Este contenido, es derivado del [contenido original](https://www.apm.org.uk/resources/find-a-resource/agile-project-management/difference-between-agile-and-waterfall-approaches/){:target="_blank" rel="follow" hreflang="en"} creado por la [Asociación for Project Management](https://www.apm.org.uk/){:target="_blank" rel="follow" hreflang="en"}.
-
-Si bien, las personas que redactaron en Utah "El Manifiesto para el desarrollo de software ágil" no fueron los pioneros del principio ágil, sí que solidificaron los valores que se habían estado gestando durante a lo largo de los años. Dentro de las empresas más importantes enfocadas en el desarrollo de software.
+Si bien, las personas que redactaron **"El Manifiesto para el desarrollo de software ágil" no fueron los pioneros del principio ágiles**, si que fueron la consolidación de los valores que ya se habían estado usando (durante los años anteriores) en la gran mayoría de las empresas más importantes dedicadas al desarrollo de software.
 
 Hoy en día, **la metodología ágil, se ha introducido en casi todas las industrias**.
 
-Para comprender cómo se puede aplicar el enfoque ágil en el campo de la gestión de proyectos y en proyectos más tradicionales. Nos centramos en los cuatro valores y los 12 principios sobre los que se construyó la filosofía ágil. También, se discutirán a continuación, las diferencias entre el enfoque ágil y el enfoque en cascada, y se revisarán algunas metodologías ágiles de entre las más populares.
+Si queremos comprender como se** aplica el enfoque ágil en el campo de la gestión de proyectos y en proyectos más tradicionales**. Debemos centrarnos en **los 4 valores y los 12 principios sobre los que se construyó la filosofía ágil**. Además, se discutirán a continuación, las diferencias entre el enfoque ágil y el enfoque en cascada, y se revisarán algunas metodologías ágiles de las más populares.
 
 Por último, vamos a revisar 10 de las mejores herramientas ágiles de 2020, que entrarán en competencia junto a [las 8 mejores herramientas para la gestión de proyectos](https://ciberninjas.com/mejores-herramientas-proyectos/) que ya te hemos mostrado, aquí, en Ciberninjas. Empezamos.
 
@@ -77,6 +75,7 @@ Por último, vamos a revisar 10 de las mejores herramientas ágiles de 2020, que
   - [¿Cuándo se adopta un enfoque ágil?](#cuándo-se-adopta-un-enfoque-ágil)
 - [**¿Qué métodos de ágile existen?**](#qué-métodos-de-ágile-existen)
 - [**¿Cuáles son los métodos ágiles más populares?**](#cuáles-son-los-métodos-ágiles-más-populares)
+  - [**Fuente**](#fuente)
 
 ## **¿Qué es el enfoque ágil?**
 
@@ -170,6 +169,12 @@ La característica final de un proyecto ágil es producir  y entragar el trabajo
 Donde la gestión de proyectos tradicional establecerá un plan detallado y requisitos detallados al principio, luego intentará seguir el plan, ágil comienza a trabajar con una idea aproximada de lo que se requiere y, al entregar algo en un corto período de tiempo, aclara los requisitos a medida que el proyecto progresa.
 
 Estos frecuentes procesos iterativos son una característica central de un proyecto ágil y, debido a esta forma de trabajo, se establecen relaciones de colaboración entre las partes interesadas y los miembros del equipo que realizan el trabajo.
+
+### **Fuente**
+
+> Este contenido, es derivado del [contenido original](https://thedigitalprojectmanager.com/agile-project-management/){:target="_blank" rel="follow" hreflang="en"} creado por [The Digital Project Manager](https://thedigitalprojectmanager.com/) y del [contenido original](https://www.apm.org.uk/resources/find-a-resource/agile-project-management/difference-between-agile-and-waterfall-approaches/){:target="_blank" rel="follow" hreflang="en"} creado por la [Asociación for Project Management](https://www.apm.org.uk/){:target="_blank" rel="follow" hreflang="en"}.
+> 
+> ¡Gracias por permitirme la traducción del mismo!
 
 ### **Relacionados** <!-- omit in toc -->
 

@@ -25,7 +25,7 @@ El software o las herramientas de gestión de proyectos agilizan y aceleran el d
 - [1. **Asana**](#1-asana)
   - [**Características de Asana**](#características-de-asana)
 - [2. **ActiveCollab**](#2-activecollab)
-  - [***Características de ActiveCollab**](#características-de-activecollab)
+  - [**Características de ActiveCollab**](#características-de-activecollab)
 - [3. **Celoxis**](#3-celoxis)
   - [**Características de Celoxis**](#características-de-celoxis)
 - [4. **LiquidPlanner**](#4-liquidplanner)
@@ -59,7 +59,7 @@ Asana se enfoca en los objetivos, proyectos y tareas diarias para ayudar a los e
 
 ActiveCollab se centra en ayudar a las empresas a obtener un control total sobre los proyectos facilitando la organización de equipos, ayudando a implementar procesos internos y permitiendo que los equipos y las partes interesadas sepan cuándo vence cada etapa del proyecto. ActiveCollab ofrece precios anuales y mensuales. El precio anual comienza a partir de 4 dólares por mes y miembro, y su precio completo es de 7 dólares por mes y miembro. Existe una versión de pruebas gratuito.
 
-### ***Características de ActiveCollab**
+### **Características de ActiveCollab**
 
 - Gestión visual de la carga de trabajo que mejora el rendimiento general del equipo.
 - Herramientas de comunicación y colaboración para mantener informados a todos los interesados.
