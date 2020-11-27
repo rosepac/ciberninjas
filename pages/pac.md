@@ -359,3 +359,15 @@ UniMOOC, es el Instituto de Economía Internacional de la Universidad de Alicant
 
 - **Arrengado**: Dícese de una persona que se siente tan bajo de energías que no es capaz de moverse del sitio aunque desea con todas sus ganas el hacerlo. Vendría a ser la suma de: arraigado + apalancado 😹
 - **"¿Quieres un bar de carretera del siglo XXI? Simplemente, entra a Twitter."** 🍻
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "email": "mailto:rosepac21@gmail.com",
+  "jobTitle": "Webmaster",
+  "name": "ROSEPAC",
+  "telephone": "644726860",
+  "url": "https://ciberninjas.com/quien-soy/"
+}
+</script>
