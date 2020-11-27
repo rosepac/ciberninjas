@@ -62,7 +62,7 @@ published: true
 Los cuatro principios que se utilizan normalmente para destacar la diferencia entre los enfoques ágil o en cascada (o más tradicionales) para la gestión de proyectos son:
 
 - Colaboración con el cliente durante la negociación de contratos.
-- Individuos e interacción sobre procesos y herramientas.
+- Interacción sobre procesos y herramientas.
 - Responder a los cambios siguiendo un plan estructurado.
 - Soluciones de creación de prototipos / trabajo sobre documentación completa.
 
@@ -83,6 +83,8 @@ En general, los enfoques ágiles y en cascada para la gestión de proyectos apor
 
 ## **Pros y contras de la adopción de las metodologías ágiles**
 
+Las ventajas y desventajas existentes a la hora de afrontar un proyecto bajo metodologías ágiles.
+
 ### **Ventajas de la Metodología Ágil o Agile**
 
 1. Funciona bien cuando se desconocen los requisitos detallados o están sujetos a cambios.
@@ -99,6 +101,8 @@ En general, los enfoques ágiles y en cascada para la gestión de proyectos apor
 1. Exige gestión y priorizar la cartera de pedidos.
 
 ## **Pros y contras de la adopción de las metodologías de cascada**
+
+Las ventajas y desventajas existentes a la hora de afrontar un proyecto bajo metodologías en cascada.
 
 ### **Ventajas de la Metodología de Cascada o Waterfall**
 
@@ -129,3 +133,49 @@ En general, los enfoques ágiles y en cascada para la gestión de proyectos apor
 [🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué enfoques se utilizan para diferenciar las metodologías ágiles de las metodologías en cascada??",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La colaboración con el cliente durante la negociación de contratos. La interacción sobre las herramientas y los procesos. La capacidad de responder a los cambios siguiendo un plan estructurado. La creación de prototipos / trabajo sobre documentación completa."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son las ventajas del uso de la Metodología Ágil o Agile?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Funciona cuando se desconocen los requisitos detallados. Da flexibilidad al \"curso correcto\". Fomenta la participación entre las partes interesadas. Se fomenta la creación de un equipo multifuncional y el trabajo colaborativo.
+1. Retorno anticipado de la inversión mediante entrega regular."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son las desventajas del uso de la Metodología Ágil o Agile?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La incertidumbre sobre el alcance y los horarios puede poner nerviosos a las partes interesadas. Es menos efectivo si el 'equipo' se distribuye. Exige priorizar y gestionar la cartera de pedidos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son las ventajas del uso de la Metodología de Cascada o Waterfall?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Funciona mejor, gracias a existir unos requisitos definidos. Es lo mejor para implementar en un entorno estable. El equipo puede estar distribuido sin miedo a que eso repercuta en el avance del proyecto. Además, el control puede gestionarse mediante plazos de entrega e hitos bien definidos.
+1. Mejor si las habilidades o los recursos escasos tienen disponibilidad limitada.
+1. Los planes son repetibles para proyectos similares."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuáles son las desventajas del uso de la Metodología de Cascada o Waterfall?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Requiere inversión para definir el alcance y el cronograma antes de que se comience el trabajo. Alcanzar e implementar cambios importantes puede ser lento. Existe el riesgo de la perdida de financiación, por no mostrar nada del avance del proyecto hasta el final del mismo. Los cambios implican riesgo y esfuerzo,  por lo que se debe implementar un estricto proceso de control de cambios para evitar el \"alcance\" ante posibles daños."
+    }
+  }]
+}
+</script>
