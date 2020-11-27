@@ -1,6 +1,6 @@
 ---
 
-title: '▷ Conociendo las acciones de Github'
+title: '▷ Conociendo las acciones de Github: Colección de Enlaces Awesome'
 feature-img: /assets/img/blog/acciones-github.webp
 thumbnail: /assets/img/blog/acciones-github.webp
 author: rosepac
