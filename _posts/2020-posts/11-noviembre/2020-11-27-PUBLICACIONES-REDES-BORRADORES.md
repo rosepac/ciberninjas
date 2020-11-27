@@ -14,7 +14,7 @@ excerpt: >-
   Preparación e histórico del contenido, pasado y por pasar a través de las redes sociales.
 canonical_URL: https://ciberninjas.com/publicaciones-redes/
 permalink: /publicaciones-redes/
-date: 2020-11-24 05:36:32
+date: 2020-11-27 05:36:32
 last_modified_at: 
 published: false
 
@@ -30,6 +30,7 @@ published: false
   - [JUEGOS](#juegos)
   - [PLAYSTATION](#playstation)
 - [PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS](#publicaciones-de-cursos-juegos-ofertas-diarias)
+  - [Jueves, 26 de Noviembre](#jueves-26-de-noviembre)
   - [Martes, 24 de Noviembre](#martes-24-de-noviembre)
 - [Python](#python)
 - [R](#r)
@@ -53,12 +54,34 @@ published: false
 
 ## JUEVES / VIERNES / 26 / 27
 
+▷ 10 extensiones de Chrome imprescindibles para Desarrolladores Front-End 2021
+https://ciberninjas.com/extensiones-front-end-chrome/
+
 🔄 Actualizado 🔥 ▷ ¿Qué es Java? Guía rápida para principiantes del lenguaje de programación Java
 https://ciberninjas.com/java/
 
-🔄 Actualizado 🔥
-🔄 Actualizado 🔥
-🔄 Actualizado 🔥
+🆕 Nuevo 🔥 ▷ La Historia de los Lenguajes de Programación Informáticos
+https://ciberninjas.com/historia-lenguajes-programacion/
+
+🔄 Actualizado 🔥 ▷ ¿Cómo aprender cualquier lenguaje de programación 2021?
+https://ciberninjas.com/lenguajes-programacion/
+
+Añadidas dos nuevas secciones, la historia de los lenguajes de la programación y los lenguajes de programación más influyentes a lo largo de la evolución de la tecnología.
+
+🔄 Actualizado 🔥 Página de Python, Nueva página de Python Frameworks, Nueva página de Python Librerías
+(faltante agregaar "Anaconda..")
+
+🔄 Actualizado 🔥 
+
+▷ Los Mejores FRAMEWORKs de PYTHON 2021
+https://ciberninjas.com/python-frameworks/
+
+▷ Las 26 Mejores LIBRERÍAS de PYTHON 2021
+https://ciberninjas.com/python-librerias/
+
+🔄 Cuantiosas Actualizaciones 🔥
+Página de Cursos Gratis (General), Mejores Editores de Python, Mejores Lenguajes de Programación, Biblioteca Global, Diccionario de Python, Listado de Cursos de Programación, /catalogo/libros. 
+
 🔄 Actualizado 🔥
 🔄 Actualizado 🔥
 🔄 Actualizado 🔥
@@ -66,7 +89,6 @@ https://ciberninjas.com/java/
 ## REFLEXIONES RANDOM / FRASES / OTROS
 
 - Los pagos de Only Fans, son el pagafantismo del siglo XXI? El encierro por Covid a relanzado el pagafantismo online, a niveles estratosfericos ++++++
-
 
 ## PÁGINA / PENDIENTES / CORREGIR / ERRORES GRAVES
 
@@ -123,6 +145,16 @@ ________________________________________________________________________________
 
 
 ## PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS
+
+### Jueves, 26 de Noviembre
+
+🥇 ▷ Guía Completa de la Metodología Ágile enfocada a la Gestión de Proyectos
+https://ciberninjas.com/guia-metodologias-agile/
+
+🥇 ▷ Diferencia entre Enfoques Ágiles y en Cascada para la Gestión de Proyectos
+https://ciberninjas.com/diferencia-agile-cascada/
+
+Raíz del SCHEMA sobre TRABAJO REMOTO -> 🥇 ▷ Las 18 mejores prácticas para teletrabajar 2021
 
 ### Martes, 24 de Noviembre
 
