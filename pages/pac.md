@@ -18,6 +18,7 @@ Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas co
 
 - [**¿Quién es Pablo Álvarez Corredera?**](#quién-es-pablo-álvarez-corredera)
 - [**¿Cómo comencé en Internet?**](#cómo-comencé-en-internet)
+- [**Curriculum Linkedin**](#curriculum-linkedin)
 - [**¿Qué estudios he realizado?**](#qué-estudios-he-realizado)
   - [Ciclo Formativo de Grado Medio: "Sistemas Microinformáticos y Redes"](#ciclo-formativo-de-grado-medio-sistemas-microinformáticos-y-redes)
   - [Ciclo Formativo de Grado Superior: "Desarrollo de Aplicaciones Web"](#ciclo-formativo-de-grado-superior-desarrollo-de-aplicaciones-web)
@@ -68,6 +69,10 @@ Llegue a tener MySpace, Tumbler, Tuenti.. Incluso hasta Orkut; aunque jamás he 
 Además, sufrí varios intentos de crear un Wordpress y otros tantos intentos de crear mi propio blog de Blogger sobre música.
 
 Colabore en páginas como intercambioswuarez (entre otras) de los creadores intercambiosvirtuales en su día.
+
+## **Curriculum Linkedin**
+
+<iframe src="https://drive.google.com/file/d/1CmMyh4sdt2Qjba2bCosuhOoXJ9YGlRgq/preview" width="820" height="480"></iframe>
 
 ## **¿Qué estudios he realizado?**
 
