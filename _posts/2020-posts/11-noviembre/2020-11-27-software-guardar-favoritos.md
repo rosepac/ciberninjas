@@ -128,7 +128,7 @@ Admite múltiples cuentas de usuario.Admite directorio público y de grupo para 
 
 ## **6. Shaarli**
 
-¿Quieres compartir los enlaces que descubras? Shaarli es un delicioso clon minimalista que puedes instalar en tu propio servidor. Está diseñado para ser personal (un solo usuario), rápido y práctico.
+¿Quieres compartir los enlaces que descubras? Shaarli es el servicio de marcadores personal, minimalista, súper rápido y gratuito que puedes instalar en tu propio servidor.
 
 Por desgracia, no permite reproducir los vídeos de forma interna a la página web.
 
@@ -137,7 +137,9 @@ Por desgracia, no permite reproducir los vídeos de forma interna a la página w
 ## **7. Shaark**
 
 Shaark es una plataforma auto-hospedada para mantener y compartir su contenido: enlaces web, publicaciones, contraseñas e imágenes.
+
 Todos sus datos pueden ser privados, públicos o ambos y se pueden navegar por etiquetas o búsqueda todo en uno.
+
 Shaark está listo para la producción, inspirado en Shaarli, construido con Laravel y Vue.js.
 
 Características d Shaark:
