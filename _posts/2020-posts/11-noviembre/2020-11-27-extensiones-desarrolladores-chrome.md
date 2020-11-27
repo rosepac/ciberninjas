@@ -15,13 +15,17 @@ excerpt: >-
   "Extensiones de Chrome más utilizadas por los desarrolladores front end, encuentra las extensiones más populares utilizadas por los desarrolladores web."
 canonical_URL: https://ciberninjas.com/extensiones-front-end-chrome/
 permalink: /extensiones-front-end-chrome/
-date: 2020-11-27 05:36:32
+date: 2020-11-27 09:36:32
 last_modified_at: 
 published: false
 
 ---
 
-La mayoría de los desarrolladores web utilizan Chrome para su desarrollo. Según [Wikipedia,](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers) aproximadamente el 65% de la población mundial parece usar Chrome, esta es una de las razones por las que los desarrolladores eligen Chrome para probar una aplicación creada por ellos. Entonces, si eres un desarrollador que usa mucho Chrome, aquí tienes un montón de extensiones de Chrome que te facilitarían mucho la vida.
+La mayoría de los desarrolladores web utilizan Chrome para su desarrollo. Según Wikipedia, aproximadamente el 65% de la población mundial parece usar Chrome, esta es una de las razones por las que los desarrolladores eligen Chrome para probar una aplicación creada por ellos.
+
+Por tanto, si eres un desarrollador que utiliza el navegador Chrome, tienes infinitas de extensiones de Chrome que te facilitarán el trabajo de tu día a día.
+
+A continuación, vas a encontrar 10 de las mejores extensiones para Chrome, si eres desarrollador front end.
 
 - [**1. Colorzilla**](#1-colorzilla)
 - [**2. Visor de CSS**](#2-visor-de-css)
