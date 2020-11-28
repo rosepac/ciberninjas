@@ -8,9 +8,9 @@ thumbnail: /assets/img/paginas/cn-full-stack.webp
 feature-img: /assets/img/paginas/cn-full-stack.webp
 title: '▷ Hoja de Ruta de un Desarrollador Full Stack 2021'
 description: >-
-  'Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador profesional en el mundo de la tecnología de la información'
+  'Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador web full stack en el mundo de las tecnologías de la información'
 excerpt: >-
-  'Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador profesional en el mundo de la tecnología de la información'
+  'Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador web full stack en el mundo de las tecnologías de la información'
 canonical_URL: https://ciberninjas.com/hoja-ruta-desarrollador-web/
 permalink: /hoja-ruta-desarrollador-web/
 date: 2020-10-25 08:42:32
@@ -50,6 +50,7 @@ Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en
 
 <iframe src="https://drive.google.com/file/d/1fCoclekxQciAi6Utivn0CAV0JheKFmdS/preview" width="820" height="1020"></iframe>
 
+![Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador web full stack en el mundo de las tecnologías de la información](/assets/img/paginas/cn-full-stack.webp)
 <!-- /assets/img/paginas/hojasruta/hojaruta-desarrollador-web.webp -->
 <!-- El futuro del desarrollo web y lo que debe aprender en 2020: https://morioh.com/p/7fa12d89d2bc -->
 <!-- 6 tips full stack https://morioh.com/p/ee1f2252230f -->
