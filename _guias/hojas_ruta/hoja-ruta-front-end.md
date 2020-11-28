@@ -13,7 +13,7 @@ excerpt: >-
   'Hoja de ruta, paso a paso, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web front-end de aplicaciones y páginas web'
 canonical_URL: https://ciberninjas.com/hoja-ruta-front-end/
 permalink: /hoja-ruta-front-end/
-date: 2020-10-26 23:32:32
+date: 2020-10-26 23:12:32
 last_modified_at: 
 published: true
 
@@ -39,6 +39,8 @@ Antes de nada, si decides seguir la siguiente hoja de ruta, debes de tener en cu
 4. No necesitas saber todo lo que se enumera a continuación para lograr tu primer trabajo. Las hojas de ruta pueden ser infinitas, de hecho en el mundo de la tecnología, lo son. Pero no debes dejar que eso te asuste, si recién estás comenzando a entrar en el mundo del desarrollo web.
 
 A lo largo de la siguiente hoja de ruta, se trata de cubrir todo lo que eventualmente aprenderás o usarás; eso no quiere decir, que no puedas aprender un mínimo y seguir aprendiendo todo lo demás, mientras comienzas a construir tus aplicaciones, webs o servicios.
+
+<span id="menu"><strong>Menú de la Hoja de Ruta de un Front End 2021</strong></span>
 
 - [**Fase 1: Listo para el trabajo**](#fase-1-listo-para-el-trabajo)
 - [**¿Qué debo aprender en la Fase 1?**](#qué-debo-aprender-en-la-fase-1)
@@ -161,4 +163,6 @@ Es posible que aún falten cosas en la hoja de ruta, pero esto es todo lo que ne
 ## **Infografía Hoja de Ruta Front End**
 
 <!-- https://drive.google.com/file/d/103YZEjdNWolN0UgDUainWNPRc6gUJvdU/view?usp=sharing -->
-<iframe src="https://drive.google.com/file/d/103YZEjdNWolN0UgDUainWNPRc6gUJvdU/preview" width="640" height="1020"></iframe>
+<iframe src="https://drive.google.com/file/d/103YZEjdNWolN0UgDUainWNPRc6gUJvdU/preview" width="820" height="1020"></iframe>
+
+[🔝 Regresar al Menú](/hoja-ruta-front-end/#menu)

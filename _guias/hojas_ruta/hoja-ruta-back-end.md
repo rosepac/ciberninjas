@@ -13,7 +13,7 @@ excerpt: >-
   'Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web'
 canonical_URL: https://ciberninjas.com/hoja-ruta-back-end/
 permalink: /hoja-ruta-back-end/
-date: 2020-10-26 23:32:32
+date: 2020-10-26 23:52:32
 last_modified_at: 
 published: true
 
@@ -25,11 +25,13 @@ El desarrollo web actual es completamente diferente de lo que era hace unos año
 
 A continuación, vas a encontrar una hoja de ruta o guía de aprendizaje completa para poder convertirte en un auténtico desarrollador web backend.
 
-[↪ Infografía Camino a Ser un Desarrollador Back End 2021](){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[↪ Infografía Camino a Ser un Desarrollador Back End 2021](/hoja-ruta-back-end/#infografía-hoja-de-ruta-back-end){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Vamos a desglosarlo y explicar cada Fase en la sección siguiente.
 
 Antes de comenzar, aunque no se ha enumerado el conocimiento de HTML y CSS en las hojas de ruta anteriores, se recomienda que obtenga al menos algo de comprensión y sepa cómo escribir algo de HTML y CSS básico, aquí puedes encontrar algunas buenas opciones para ello. Más concretamente, tienes [cursos de HTML](/cursos-lenguajes-marcado/) y aquí, [cursos de CSS](/cursos-css-preprocesadores/).
+
+<span id="menu"><strong>Menú de la Hoja de Ruta de un Back End 2021</strong></span>
 
 - [**Fase 1: Aprender un lenguaje de programación**](#fase-1-aprender-un-lenguaje-de-programación)
 - [**Fase 2: Practica lo que has aprendido**](#fase-2-practica-lo-que-has-aprendido)
@@ -206,6 +208,7 @@ Y recuerda que la clave es practicar todo lo que puedas. Parecerá más aterrado
 <!-- frameworks back end https://morioh.com/p/d024b656ccc2 -->
 ## **Infografía Hoja de Ruta Back End**
 
-<iframe src="https://drive.google.com/file/d/1X2DTlW7g9LBfm6KufEGJPKM5QsvX4UzV/preview" width="640" height="1020"></iframe>
+<iframe src="https://drive.google.com/file/d/1X2DTlW7g9LBfm6KufEGJPKM5QsvX4UzV/preview" width="820" height="1020"></iframe>
 
+[🔝 Regresar al Menú](/hoja-ruta-back-end/#menu)
 <!-- https://drive.google.com/file/d/1X2DTlW7g9LBfm6KufEGJPKM5QsvX4UzV/view?usp=sharing -->
