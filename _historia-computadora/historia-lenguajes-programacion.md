@@ -19,17 +19,21 @@ Un lenguaje de programación de computadoras, es un conjunto de instrucciones de
 
 ![La Historia de los Lenguajes de Programación Informáticos. Visto en Ciberninjas](/assets/img/2020/binario-corazon-final.webp "La Historia de los Lenguajes de Programación Informáticos. Visto en Ciberninjas")
 
-Dichas instrucciones se pueden ejecutar directamente cuando están en la forma numérica específica del fabricante de la computadora, siento esto conocido como lenguaje máquina.
-
-El lenguaje ensamblador a menudo abreviado **ASM**, es cualquier lenguaje de programación de bajo nivel en el que existe una correspondencia muy fuerte entre las instrucciones en el lenguaje y las instrucciones del código máquina de la arquitectura.
-
-Debido a que el ensamblaje depende de las instrucciones del código de máquina, cada lenguaje ensamblador está diseñado para exactamente una arquitectura de computadora específica; el lenguaje ensamblador también es denominado código máquina simbólico.
-
-El lenguaje de programación de alto nivel es un lenguaje de programación con una fuerte abstracción de los detalles de la computadora . A diferencia de los lenguajes de programación de bajo nivel , puede utilizar elementos del lenguaje natural , ser más fácil de usar o puede automatizar (o incluso ocultar por completo) áreas importantes de los sistemas informáticos (por ejemplo , gestión de memoria ), lo que hace que el proceso de desarrollo de un programa sea más simple y sencillo. más comprensible que cuando se usa un lenguaje de nivel inferior. La cantidad de abstracción proporcionada define qué tan "alto nivel" es un lenguaje de programación.
-
 Aunque existen muchos lenguajes informáticos, relativamente pocos son de uso general. Los lenguajes de máquina y ensamblador son de “bajo nivel” y requieren que un programador administre explícitamente todas las características idiosincrásicas de almacenamiento y operación de datos de la computadora.
 
 Por el contrario, los lenguajes de alto nivel protegen a un programador de preocuparse por tales consideraciones y proporcionan una notación que los programadores escriben y leen con mayor facilidad.
+
+El conjunto de instrucciones se puede ejecutar directamente cuando están en la forma numérica específica del fabricante de la computadora, siento esto conocido como lenguaje máquina.
+
+El lenguaje ensamblador a menudo abreviado por **ASM**, es cualquier lenguaje de programación de bajo nivel en el que existe una correspondencia muy fuerte entre las instrucciones del lenguaje y las instrucciones del código máquina en su arquitectura.
+
+Debido a que el ensamblaje depende de las instrucciones del código de máquina, cada lenguaje ensamblador está diseñado para exactamente una arquitectura de computadora específica; el lenguaje ensamblador también es denominado código máquina simbólico.
+
+El lenguaje de programación de alto nivel es un lenguaje de programación con una fuerte abstracción de los detalles de la computadora.
+
+A diferencia de los lenguajes de programación de bajo nivel, puede utilizar elementos del lenguaje natural, ser más fácil de usar o puede automatizar (o incluso ocultar por completo) áreas importantes de los sistemas informáticos (por ejemplo, la gestión de la memoria) lo que hace que el proceso de desarrollo de un programa sea más simple y sencillo.
+
+La cantidad de abstracción proporcionada define qué tan "alto nivel" es un lenguaje de programación.
 
 - [**Los Diferentes Tipos de Lenguajes de Programación**](#los-diferentes-tipos-de-lenguajes-de-programación)
   - [**Lenguajes de máquina y ensamblaje**](#lenguajes-de-máquina-y-ensamblaje)
