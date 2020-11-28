@@ -25,7 +25,11 @@ Libraries.io indexa datos de 5.575.787 paquetes de 37 administradores de paquete
 
 Libraries.io admite los siguientes administradores de paquetes: Atom, Bower, Cargo, Carthage, Clojars, CocoaPods, Conda, CPAN, CRAN, Dub, Elm, Go, Hackage, Haxelib, Hex, Julia, Marven, Meteor, npm, NuGet, Packagist, Pub, PyPi, Rubygems, Shards y SwiftPM.. y más.
 
-## ¿Cuál es el objetivo de Libraries.io?
+- [**¿Cuál es el objetivo de Libraries.io?**](#cuál-es-el-objetivo-de-librariesio)
+- [**Explora paquetes por Plataformas**](#explora-paquetes-por-plataformas)
+- [**Explora paquetes por Lenguajes**](#explora-paquetes-por-lenguajes)
+
+## **¿Cuál es el objetivo de Libraries.io?**
 
 Nuestro objetivo es elevar la calidad de todo el software, aumentando la calidad y la frecuencia de las contribuciones al software libre y de código abierto; los servicios, frameworks, complementos y herramientas a los que nos referimos colectivamente como bibliotecas.
 
