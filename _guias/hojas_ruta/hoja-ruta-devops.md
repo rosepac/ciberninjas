@@ -19,8 +19,7 @@ published: true
 
 ---
 
-https://drive.google.com/file/d/1fCoclekxQciAi6Utivn0CAV0JheKFmdS/view?usp=sharing
-
+<!-- https://drive.google.com/file/d/1fCoclekxQciAi6Utivn0CAV0JheKFmdS/view?usp=sharing -->
 <iframe src="https://drive.google.com/file/d/1fCoclekxQciAi6Utivn0CAV0JheKFmdS/preview" width="820" height="1020"></iframe>
 
 <!-- nodejs 15: https://morioh.com/p/3412cfdabbf8  -->
