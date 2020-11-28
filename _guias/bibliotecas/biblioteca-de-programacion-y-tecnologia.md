@@ -109,7 +109,6 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 - [**Libros Gratis de Flujos de Trabajo**](#libros-gratis-de-flujos-de-trabajo)
 - [Misceláneos](#misceláneos)
 - [**Libros Gratis de Montaje & Mantenimiento**](#libros-gratis-de-montaje--mantenimiento)
-- [**Libros Gratis de Ofimática**](#libros-gratis-de-ofimática)
   - [**Libros Gratis de Software Libre**](#libros-gratis-de-software-libre)
   - [Otros](#otros)
 - [**Libros Gratis de Paradigmas**](#libros-gratis-de-paradigmas)
@@ -160,8 +159,8 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
   - [**Libros Gratis de jQuery**](#libros-gratis-de-jquery)
   - [**Libros Gratis de Node**](#libros-gratis-de-node)
   - [**Libros Gratis de React**](#libros-gratis-de-react)
+  - [**Libros Gratis de Vue**](#libros-gratis-de-vue)
 - [**Libros Gratis de Rust**](#libros-gratis-de-rust)
-- [**Libros Gratis de Vue**](#libros-gratis-de-vue)
 - [**Libros Gratis de .NET (C# / Visual Studio)**](#libros-gratis-de-net-c--visual-studio)
 - [**Libros Gratis de PHP**](#libros-gratis-de-php)
   - [**Libros Gratis de Cake PHP**](#libros-gratis-de-cake-php)
@@ -340,7 +339,7 @@ Ver los mejores libros de Bases de Datos: https://ciberninjas.com/libros-bases-d
 
 ## **Libros Gratis de Ecosistema de Software Libre**
 
-[Linux <i class="fa fa-linux" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#linux-){: .btn .btn-outline-dark .btn-lg .btn-block} [Ubuntu](/biblioteca-de-programacion-y-tecnologia/#ubuntu-){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Linux <i class="fa fa-linux" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-linux){: .btn .btn-outline-dark .btn-lg .btn-block} [Ubuntu](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-ubuntu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 * [Aspectos económicos y modelos de negocio del software libre](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Aspectos_Economicos_y_Modelos_de_Negocio_del_Software_Libre.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Aspectos legales de explotación del software libre. Parte I](https://softlibre.unizar.es/manuales/legal/908.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
@@ -436,10 +435,6 @@ Ver los mejores libros de Bases de Datos: https://ciberninjas.com/libros-bases-d
 
 * [Armado y reparación de PC](https://nksistemas.com/curso-de-armado-y-reparacion-de-pc){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 
-## **Libros Gratis de Ofimática**
-
-[Acces](/biblioteca-de-programacion-y-tecnologia/#acces){: .btn .btn-outline-dark .btn-lg .btn-block} [Excel](/biblioteca-de-programacion-y-tecnologia/#excel){: .btn .btn-outline-dark .btn-lg .btn-block} [Google Drive](/biblioteca-de-programacion-y-tecnologia/#google-drive){: .btn .btn-outline-dark .btn-lg .btn-block} [Presentaciones](/biblioteca-de-programacion-y-tecnologia/#presentaciones){: .btn .btn-outline-dark .btn-lg .btn-block} [Software Libre](/biblioteca-de-programacion-y-tecnologia/#software-libre){: .btn .btn-outline-dark .btn-lg .btn-block} [Otros](/biblioteca-de-programacion-y-tecnologia/#presentaciones){: .btn .btn-outline-dark .btn-lg .btn-block} [Word](/biblioteca-de-programacion-y-tecnologia/#word){: .btn .btn-outline-dark .btn-lg .btn-block}
-
 ### **Libros Gratis de Software Libre**
 
 * [Guía de Jitsi](https://lookaside.fbsbx.com/file/jitsi-guia.pdf?token=AWwJD_WLH4AqHnO5CuUo2QSgfUWJW0HvWvKu4wTIudknIkBEoeSY82IwpiAL8Fz8bDd10JtIqgV90CD8ETkLOzw9QeW0eSzMIF9Is4YkI_1UjQHZ2Fk0bLP0B3W1VSb7rN2Sk2aoWzWVBUMOtjj9y_0CVZrXI4S0X1U594W8QUn2tA){:target="_blank" rel="nofollow,noreferrer"} - Para la utilización básica de Jitsi para videoconferias
@@ -500,8 +495,6 @@ Ver los mejores libros de Bases de Datos: https://ciberninjas.com/libros-bases-d
 * [VMWare por Expertos - Por una buena causa](https://drive.google.com/drive/folders/1gTWuEAMN503ytNiWRtFePVRD8KZOEe18) (PDF) ([Donativo](https://www.ceafa.es/es/colaborar/donaciones))
 
 ## **Libros Gratis de Seguridad y Criptografía**
-
-[Criptografía 🔓](/biblioteca-de-programacion-y-tecnologia/#criptografía-){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 * [Activismo digital y telemático. Poder y contrapoder en el ciberespacio (2003)](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Activismo_digital_y_telemC3A1tico.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Algunas consideraciones sobre seguridad de la Información en el Proyecto Europe de Historia Clínica Digital - Proyecto epSOS](https://dialnet.unirioja.es/servlet/articulo?codigo=3016235){:target="_blank" rel="nofollow,noreferrer"} (2009, Dialnet) (PDF)
@@ -568,6 +561,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Secretos de Powershell Remoting](https://leanpub.com/secrets-of-powershell-remoting-spanish?){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Anotaciones y Transcripciones
+
 * [Introducción a ELAN](https://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [Manual de Procesamiento de Archivos ELAN](https://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -599,7 +593,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 **Libros Gratis de Robótica y Electrónica**
 
-[Arduino 🔦](/biblioteca-de-programacion-y-tecnologia/#arduino-){: .btn .btn-outline-dark .btn-lg .btn-block} [Casas Inteligentes 🏡](/biblioteca-de-programacion-y-tecnologia/#casas-inteligentes-){: .btn .btn-outline-dark .btn-lg .btn-block} [Inteligencia Artificial](/biblioteca-de-programacion-y-tecnologia/#inteligencia-artificial){: .btn .btn-outline-dark .btn-lg .btn-block} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#raspberry-pi){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Arduino 🔦](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-arduino){: .btn .btn-outline-dark .btn-lg .btn-block} [Inteligencia Artificial](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-inteligencia-artificial){: .btn .btn-outline-dark .btn-lg .btn-block} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-raspberry-pi){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 * [Glosario de términos y conceptos de robótica](http://el.uy/doc/robotica/mooc.educalab.es.%202017.%20Glosario%20de%20t%C3%A9rminos%20y%20conceptos%20rob%C3%B3ticos.pdf){:target="_blank" rel="nofollow,noreferrer"} (MOOC Intef)
 
@@ -842,18 +836,18 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish?){:target="_blank" rel="nofollow,noreferrer"}
 * [SurviveJS - React: De aprendiz a maestro](https://leanpub.com/survivejs-react-es){:target="_blank" rel="nofollow,noreferrer"} (Descarga PDF)
 
+### **Libros Gratis de Vue**
+
+* [Aprendizaje VueJS](https://drive.google.com/file/d/1uj6RmzfUUzZ2J2gOV8GK0rL3ZsILkTuA/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"}
+* [Desarrolla aplicaciones con VueJS](https://drive.google.com/file/d/11mxEOrRmZCZTPyJMegrKHGA7NwqwbZYY/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} - [Gitbook](https://legacy.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details){:target="_blank" rel="nofollow,noreferrer"}
+* [Documentación Oficial de Vue en Español](https://es.vuejs.org/v2/cookbook/){:target="_blank" rel="nofollow,noreferrer"}
+
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Rust**
 
 * [El Libro de Rust 2018](https://drive.google.com/file/d/1JkEaVvpQ5dFDqjCSzaKXDhUDiFezVFdF/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 * [El Lenguaje de Programación de Rust](https://goyox86.github.io/elpr/README.html){:target="_blank" rel="nofollow,noreferrer"} (@goyox86 en Github, HTML) [PDF](https://legacy.gitbook.com/download/pdf/book/goyox86/el-libro-de-rust){:target="_blank" rel="nofollow,noreferrer"}
-
-## **Libros Gratis de Vue**
-
-* [Aprendizaje VueJS](https://drive.google.com/file/d/1uj6RmzfUUzZ2J2gOV8GK0rL3ZsILkTuA/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"}
-* [Desarrolla aplicaciones con VueJS](https://drive.google.com/file/d/11mxEOrRmZCZTPyJMegrKHGA7NwqwbZYY/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} - [Gitbook](https://legacy.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details){:target="_blank" rel="nofollow,noreferrer"}
-* [Documentación Oficial de Vue en Español](https://es.vuejs.org/v2/cookbook/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Libros Gratis de .NET (C# / Visual Studio)**
 
