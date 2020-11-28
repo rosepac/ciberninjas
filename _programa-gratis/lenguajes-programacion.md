@@ -152,6 +152,10 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 #### **¿Cómo aprender Vue?**
 
+![Crea grandes aplicaciones a través de Vue, con preciosas interfaces y mediante el trabajo por componentes](/assets/img/2020/vue-3-version.webp "Crea grandes aplicaciones a través de Vue, con preciosas interfaces y mediante el trabajo por componentes")
+
+¿Quieres aprender a desarrollar con Vue? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
+
 [Cursos Vue](/cursos-programacion-web-movil/#los-mejores-cursos-gratis-de-vue-framework){: .btn .btn-outline-primary .btn-lg} / [Libros Vue](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-vue){: .btn .btn-outline-primary .btn-lg} / [👷‍♂️ **FUERA DE SERVICIO** 🚧 Aprender Vue 🚧](){: .btn .btn-outline-primary .btn-lg} / [👷‍♂️ **FUERA DE SERVICIO** 🚧 Recursos Vue 🚧](){: .btn .btn-outline-primary .btn-lg}
 
 ### **¿Cómo aprender Typescript?**
@@ -164,18 +168,19 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 ### **¿Cómo aprender Java?**
 
+[![Aprende a programar Java y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/lenguajes/desarrollador-java.webp "Aprende a programar Java y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en Java desde cero para principiantes y recursos para programadores y desarrolladores web")
+
 [Cursos Java](https://ouo.io/YIo7Mfg "Cursos para aprender Java desde cero para principiantes y otras páginas sobre Java"){: .btn .btn-outline-primary .btn-lg} / [Libros Java](https://ouo.io/lK8mGR "Libros en PDF para aprender Java desde cero para principiantes y otros recursos de Java"){: .btn .btn-outline-primary .btn-lg} / [Aprender Java](/java/) / [Recursos Java](/java-recursos/)
 
 > 👷‍♂️ PÁGINA 👷‍♂️ EN 👷‍♂️ CONSTRUCCIÓN 👷‍♂️ 👇
 
 ### **¿Cómo aprender PHP?**
 
-[![Aprende a programar PHP y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/paginas/python-by-photoartmedia-dbmejle.webp "Aprende a programar PHP y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en PHP desde cero para principiantes y recursos para programadores y desarrolladores web")
+[![Aprende a programar PHP y todo lo que debes conocer para comenzar a ser un programador profesional](/assets/img/blog/php-ide/php-editores.webp "Aprende a programar PHP y todo lo que debes conocer para comenzar a ser un programador profesional")](/python/ "Cómo aprender a programar en PHP desde cero para principiantes y recursos para programadores y desarrolladores web")
 
 ¿Quieres aprender a programar con PHP? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional.
 
-[Cursos PHP](/cursos-programacion/#los-mejores-cursos-gratis-de-python "Los mejores Cursos de PHP") / [Libros PHP](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python "Los Mejores Libros en PDF de PHP") / [Aprender PHP](/python/ "La mejor guía de aprendizaje de PHP") [Recursos PHP](/python-recursos/ "Los mejores recursos para aprender PHP")
-<!-- PANEL DE LENGUAJES DE PROGRAMACION SIN CASILLERO AUN -->
+[Cursos PHP](/cursos-programacion/#los-mejores-cursos-gratis-de-php "Los mejores Cursos de PHP") / [Libros PHP](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-php "Los Mejores Libros en PDF de PHP") / [Mejores Editores PHP](/mejores-editores-php/ "La mejor guía de aprendizaje de PHP") <!-- [Recursos PHP](/python-recursos/ "Los mejores recursos para aprender PHP") -->
 
 ### **¿Cómo aprender C?**
 
