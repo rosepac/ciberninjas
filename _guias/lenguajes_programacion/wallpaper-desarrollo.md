@@ -50,11 +50,7 @@ img: /assets/img/2020/tools-full.webp
 
 ![El campo de la programación de juegos, es uno de los mayor crecimiento en el mundo de la programación y la tecnología actual](/assets/img/2020/videojuegos-mandos.webp "El campo de la programación de juegos, es uno de los mayor crecimiento en el mundo de la programación y la tecnología actual")
 
-![Crea grandes aplicaciones a través de Vue, con preciosas interfaces y mediante el trabajo por componentes](/assets/img/2020/vue-3-version.webp "Crea grandes aplicaciones a través de Vue, con preciosas interfaces y mediante el trabajo por componentes")
-
 ![Vue, uno de los frameworks javascript que más enamora a lo largo del 2021](/assets/img/2020/vue-js-wallpaper.webp "Vue, uno de los frameworks javascript que más enamora a lo largo del 2021")
-
-![](/assets/img/2020/web-scraping-python.webp "")
 
 ![El SEO es uno de los apartados más importantes para todos los CMS del mundo, includio Wordpress](/assets/img/2020/wordpress-seo-total.webp "El SEO es uno de los apartados más importantes para todos los CMS del mundo, includio Wordpress")
 
