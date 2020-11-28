@@ -29,14 +29,14 @@ Desde aquí parte la hoja de ruta para un desarrollador full stack más completa
 <!-- https://drive.google.com/file/d/103YZEjdNWolN0UgDUainWNPRc6gUJvdU/view?usp=sharing -->
 <!-- wikipedia front end: https://en.wikipedia.org/wiki/Front-end_web_development -->
 
-Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en un desarrollador front end](/hoja-ruta-desarrollador-web/)
+Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en un desarrollador front end](/hoja-ruta-front-end/).
 
 <iframe src="https://drive.google.com/file/d/103YZEjdNWolN0UgDUainWNPRc6gUJvdU/preview" width="820" height="1020"></iframe>
 
 ## **Hoja de Ruta Back End**
 <!-- back end wikipedia: https://en.wikipedia.org/wiki/Front_end_and_back_end -->
 
-Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en un desarrollador back end](/hoja-ruta-desarrollador-web/)
+Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en un desarrollador back end](/hoja-ruta-back-end/).
 
 <!-- https://drive.google.com/file/d/1X2DTlW7g9LBfm6KufEGJPKM5QsvX4UzV/view?usp=sharing -->
 
@@ -46,7 +46,7 @@ Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en
 <!-- https://drive.google.com/file/d/1fCoclekxQciAi6Utivn0CAV0JheKFmdS/view?usp=sharing -->
 <!-- devops wikipedia: https://en.wikipedia.org/wiki/DevOps -->
 
-Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en un desarrollador de software capaz de resolverte en todas las operaciones de TI](/hoja-ruta-desarrollador-web/)
+Guíate, paso a paso, en todo lo que necesitas conocer si deseas [convertirte en un desarrollador de software capaz de resolverte en todas las operaciones de TI](/hoja-ruta-dev-ops/).
 
 <iframe src="https://drive.google.com/file/d/1fCoclekxQciAi6Utivn0CAV0JheKFmdS/preview" width="820" height="1020"></iframe>
 
