@@ -22,7 +22,7 @@ En esta publicación vamos a realizar un repaso, entre algunos de los más espec
 
 ## **Ofertas Especiales Black Friday**
 
-- [Beats Solo3 Wireless - Auriculares supraaurales](https://amzn.to/37bJzt4) - **Por 139 €**, precio habitual 200 €.
+- [Beats Solo 3 Wireless - Auriculares](https://amzn.to/37bJzt4) - **Por 139 €**, precio habitual 200 €.
 
 Si lo que te interesa, es conocer [**los mejores auriculares para jugar**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para jugar"), no dudes de visitar mi página de [**cascos para juegos**](https://ciberninjas.com/auriculares-gamer/ "Los mejores auriculares para gamers del mundo").
 
