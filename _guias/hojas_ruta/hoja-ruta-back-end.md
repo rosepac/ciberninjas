@@ -11,8 +11,8 @@ description: >-
   'Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web'
 excerpt: >-
   'Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web'
-canonical_URL: https://ciberninjas.com/hoja-ruta-desarrollador-web/
-permalink: /hoja-ruta-desarrollador-web/
+canonical_URL: https://ciberninjas.com/hoja-ruta-back-end/
+permalink: /hoja-ruta-back-end/
 date: 2020-10-26 23:32:32
 last_modified_at: 
 published: true

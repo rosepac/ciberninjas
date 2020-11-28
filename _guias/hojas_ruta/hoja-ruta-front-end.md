@@ -11,8 +11,8 @@ description: >-
   'Hoja de ruta, paso a paso, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web front-end de aplicaciones y páginas web'
 excerpt: >-
   'Hoja de ruta, paso a paso, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web front-end de aplicaciones y páginas web'
-canonical_URL: https://ciberninjas.com/hoja-ruta-desarrollador-web/
-permalink: /hoja-ruta-desarrollador-web/
+canonical_URL: https://ciberninjas.com/hoja-ruta-front-end/
+permalink: /hoja-ruta-front-end/
 date: 2020-10-26 23:32:32
 last_modified_at: 
 published: true
