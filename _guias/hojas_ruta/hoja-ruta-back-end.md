@@ -8,9 +8,9 @@ thumbnail: /assets/img/paginas/cn-back-end-navidad.webp
 feature-img: /assets/img/paginas/cn-back-end-navidad.webp
 title: '▷ Hoja de Ruta de un Back End 2021'
 description: >-
-  Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web.
+  'Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web'
 excerpt: >-
-  Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web.
+  'Hoja de ruta, Fase a Fase, de las tecnologías que debes ir aprendiendo para ser un auténtico desarrollador web back-end de aplicaciones y páginas web'
 canonical_URL: https://ciberninjas.com/hoja-ruta-desarrollador-web/
 permalink: /hoja-ruta-desarrollador-web/
 date: 2020-10-26 23:32:32

@@ -8,9 +8,9 @@ thumbnail: /assets/img/blog/editores_negro.webp
 feature-img: /assets/img/blog/editores_negro.webp
 title: '▷ Hoja de Ruta de un Desarrollador Full Stack 2021'
 description: >-
-  Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador profesional en el mundo de la tecnología de la información.
+  'Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador profesional en el mundo de la tecnología de la información'
 excerpt: >-
-  Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador profesional en el mundo de la tecnología de la información.
+  'Hoja de ruta, paso a paso, de las tecnologías que debes aprender para convertirte en auténtico desarrollador profesional en el mundo de la tecnología de la información'
 canonical_URL: https://ciberninjas.com/hoja-ruta-desarrollador-web/
 permalink: /hoja-ruta-desarrollador-web/
 date: 2020-10-26 23:32:32
