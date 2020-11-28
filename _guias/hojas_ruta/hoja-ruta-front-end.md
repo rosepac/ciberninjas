@@ -1,5 +1,6 @@
 ---
 
+layout: page
 author: rosepac
 bootstrap: true
 comments: false
