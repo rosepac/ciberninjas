@@ -21,7 +21,7 @@ published: true
 
 En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año; y también a compartir las mejores ofertas de Udemy.
 
-En este caso, aparece una oferta especial, que consiste en que si compras 2 cursos hoy: 30 de Noviembre. Se te regalaran 5 € de crédito, para gastar entre los días 5 y 19 de Diciembre.
+En este caso, aparece una oferta especial para el Cyber Monday, que consiste en que si compras 2 cursos hoy: 30 de Noviembre. Se te regalaran 5 € de crédito, para gastar entre los días 5 y 19 de Diciembre.
 
 [![Udemy oferta especial del 30 de Noviembre](/assets/img/2020/udemy-30-noviembre.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14739&type=3&subid=0)
 
@@ -53,7 +53,7 @@ Si quieres seguir los nuevos cursos de estos grandes maestros, no dudes de segui
 - [**Los mejores cursos sobre Diseño**](#los-mejores-cursos-sobre-diseño)
   - [Illustrator y Vectores](#illustrator-y-vectores)
   - [Photoshop](#photoshop)
-  - [Dibujar a Mano](#dibujar-a-mano)
+  - [Dibujo a Mano](#dibujo-a-mano)
 - [**Los mejores cursos de Seo y Marketing**](#los-mejores-cursos-de-seo-y-marketing)
 
 ## **Los Mejores Cursos Gratis de Udemy**
@@ -166,7 +166,7 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 - [Curso Photoshop CC: Diseña gráficas para tus redes sociales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-photoshop-cc-graficas-redes-sociales%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Hector Novo](https://twitter.com/video__cursos){:target="_blank" rel="nofollow,noreferrer"} + 8,5 Horas.
 - [Adobe Photoshop CC - Esencial: Edición de imágenes digitales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadobe-photoshop-cc-esencial-edicion-de-imagenes-digitales%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Hector Novo](https://twitter.com/video__cursos){:target="_blank" rel="nofollow,noreferrer"} + 9,5 Horas.
 
-### Dibujar a Mano
+### Dibujo a Mano
 
 - [Curso de Dibujo: Cuando el Dibujo Creativo supera al Arte](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-dibujo-tradicional-dibujo-a-lapiz-boceto-pintura%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Andrés Brachetta](https://www.linkedin.com/in/andres-brachetta/){:target="_blank" rel="nofollow,noreferrer"}. + 8,5 Horas.
 
