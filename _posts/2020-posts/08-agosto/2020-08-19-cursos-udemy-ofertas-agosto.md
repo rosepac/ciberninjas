@@ -7,28 +7,31 @@ tags:
 - Cursos Gratis
 thumbnail: /assets/img/blog/19-agosto-udemy-ofertas.webp
 feature-img: /assets/img/blog/19-agosto-udemy-ofertas.webp
-title: '🥇 ▷ Los mejores cursos de Udemy en Agosto, tan sólo por 9,99 €'
+title: '🥇 ▷ Los mejores cursos de Udemy 2020'
 description: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 excerpt: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas-agosto/
 permalink: /cursos-udemy-ofertas-agosto/
-date: 2020-08-26 11:09:51
+date: 2020-11-29 16:09:51
 published: true
 
 ---
 
-En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año, pero hoy me gustaría traer algo diferente; y es que desde Udemy, han decidido tirar la casa por la ventana y dejar todos [los mejores cursos en tan sólo 9,99 €](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=507388.13868&type=3&subid=0){:target="_blank" rel="nofollow,noreferrer"} por un tiempo limitado (hasta el 27 de Agosto).
+En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año; y también a compartir las mejores ofertas de Udemy.
 
-Si por desgracia, no tienes la oportunidad de acceder a comprar alguno de los excelentes cursos que te mostraré a continuación.
+En este caso, aparece una oferta especial, que consiste en que si compras 2 cursos hoy: 30 de Noviembre. Se te regalaran 5 € de crédito, para gastar entre los días 5 y 19 de Diciembre.
 
-Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gratis de programación y desarrollo](https://ciberninjas.com/cursos-tecnologia/)**, **[los mejores 200 cursos de introducción a la programación gratuitos de Udemy 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)**, nuestros listado de **[cursos gratis de animación y diseño](https://ciberninjas.com/cursos-animacion-diseno/)**, nuestros [cursos seleccionados de Microsoft](https://ciberninjas.com/cursos-tecnologia-microsoft/), los [cursos específicos para docentes y la educación](https://ciberninjas.com/cursos-educacion/) o los [cursos sobre otras temáticas](https://ciberninjas.com/cursos-otras-tematicas/) incluso puedes visitar nuesta información sobre [la academia de IBM](https://ciberninjas.com/open-ptech-el-aprendizaje-del-futuro/).
+[![Udemy oferta especial del 30 de Noviembre](/assets/img/2020/udemy-30-noviembre.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14739&type=3&subid=0)
 
-A continuación vamos a seleccionar algunos de los mejores cursos en oferta exclusiva ofrecidos por Udemy, por solamente 9,99 € durante toda esta semana exclusivamente.
+Además, me ha cantado un pajarillo, que a partir de mañana día 1: Udemy rebajará nuevamente la mayoría de sus cursos a 9,99 € (más info. próximamente) 😻
 
-> 📢 Estaré agregando más cursos, de los mejores profesionales de cada materia, en los próximos días.
+A continuación, te queda un listado de algunos de los mejores cursos de desarrollo y programación; impartidos por los mejores profesionales de Udemy.
 
+Si quieres seguir los nuevos cursos de estos grandes maestros, no dudes de seguir [mi lista de "profesores, Youtubers y creadores de cursos en Twitter](https://twitter.com/i/lists/1276301904512004097?s=20){:target="_blank" rel="nofollow,noreferrer"}.
+
+- [**Los Mejores Cursos Gratis de Udemy**](#los-mejores-cursos-gratis-de-udemy)
 - [**Los mejores cursos de Desarrollo Web**](#los-mejores-cursos-de-desarrollo-web)
   - [Angular](#angular)
   - [Dart](#dart)
@@ -52,6 +55,12 @@ A continuación vamos a seleccionar algunos de los mejores cursos en oferta excl
   - [Photoshop](#photoshop)
   - [Dibujar a Mano](#dibujar-a-mano)
 - [**Los mejores cursos de Seo y Marketing**](#los-mejores-cursos-de-seo-y-marketing)
+
+## **Los Mejores Cursos Gratis de Udemy**
+
+Si por desgracia, no tienes la oportunidad de acceder a comprar alguno de los excelentes cursos que te mostraré a continuación.
+
+Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gratis de programación y desarrollo](https://ciberninjas.com/cursos-tecnologia/)**, **[los mejores 200 cursos de introducción a la programación gratuitos de Udemy 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)**, nuestros listado de **[cursos gratis de animación y diseño](https://ciberninjas.com/cursos-animacion-diseno/)**, nuestros [cursos seleccionados de Microsoft](https://ciberninjas.com/cursos-tecnologia-microsoft/), los [cursos específicos para docentes y la educación](https://ciberninjas.com/cursos-educacion/) o los [cursos sobre otras temáticas](https://ciberninjas.com/cursos-otras-tematicas/) incluso puedes visitar nuesta información sobre [la academia de IBM](https://ciberninjas.com/open-ptech-el-aprendizaje-del-futuro/).
 
 ## **Los mejores cursos de Desarrollo Web**
 
