@@ -210,5 +210,5 @@ Y recuerda que la clave es practicar todo lo que puedas. Parecerá más aterrado
 
 <iframe src="https://drive.google.com/file/d/1X2DTlW7g9LBfm6KufEGJPKM5QsvX4UzV/preview" width="820" height="1020"></iframe>
 
-[🔝 Regresar al Menú](/hoja-ruta-back-end/#menu)
+[🔝 Regresar al Menú](/hoja-ruta-back-end/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://drive.google.com/file/d/1X2DTlW7g9LBfm6KufEGJPKM5QsvX4UzV/view?usp=sharing -->

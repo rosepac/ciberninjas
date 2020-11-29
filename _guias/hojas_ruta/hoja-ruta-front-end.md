@@ -27,7 +27,7 @@ Con la gran cantidad de herramientas disponibles y las nuevas herramientas que a
 
 A continuación, vas a encontrar una hoja de ruta o guía de aprendizaje completa para poder convertirte en un auténtico desarrollador web frontend.
 
-[↪ Infografía Camino a Ser un Desarrollador Back End 2021](){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[↪ Infografía Camino a Ser un Desarrollador Back End 2021](/hoja-ruta-front-end/#infografía-hoja-de-ruta-front-end){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 En esta publicación, vamos a recapitular, unas posible pautas a seguir con las que poder convertirte en un desarrollador frontend de cara a 2021.
 
@@ -165,4 +165,4 @@ Es posible que aún falten cosas en la hoja de ruta, pero esto es todo lo que ne
 <!-- https://drive.google.com/file/d/103YZEjdNWolN0UgDUainWNPRc6gUJvdU/view?usp=sharing -->
 <iframe src="https://drive.google.com/file/d/103YZEjdNWolN0UgDUainWNPRc6gUJvdU/preview" width="820" height="1020"></iframe>
 
-[🔝 Regresar al Menú](/hoja-ruta-front-end/#menu)
+[🔝 Regresar al Menú](/hoja-ruta-front-end/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
