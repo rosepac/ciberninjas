@@ -7,11 +7,11 @@ tags:
 - Cursos Gratis
 thumbnail: /assets/img/paginas/cursos-udemy-cn.webp
 feature-img: /assets/img/paginas/cursos-udemy-cn.webp
-title: '🥇 ▷ Los Mejores Ofertas Cursos en Oferta en Udemy 2020'
+title: '🥇 ▷ Los Mejores Ofertas de Cursos Udemy 2020'
 description: >-
-  ✅  Las MEJORES OFERTAS de CURSOS UDEMY por NAVIDAD a tan sólo 9,99 €.
+  ✅  Las MEJORES OFERTAS y CHOLLOS de CURSOS para esta NAVIDAD solamente en Udemy: Cursos desde 9,99 €
 excerpt: >-
-  ✅  Las MEJORES OFERTAS de CURSOS UDEMY por NAVIDAD a tan sólo 9,99 €.
+  ✅  Las MEJORES OFERTAS y CHOLLOS de CURSOS para esta NAVIDAD solamente en Udemy: Cursos desde 9,99 €
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas/
 permalink: /cursos-udemy-ofertas/
 date: 2020-11-29 16:09:51
