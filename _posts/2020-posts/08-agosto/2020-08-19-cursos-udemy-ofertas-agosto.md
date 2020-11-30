@@ -7,19 +7,21 @@ tags:
 - Cursos Gratis
 thumbnail: /assets/img/blog/19-agosto-udemy-ofertas.webp
 feature-img: /assets/img/blog/19-agosto-udemy-ofertas.webp
-title: '🥇 ▷ Los mejores cursos de Udemy 2020'
+title: '🥇 ▷ Los mejores cursos de Udemy en Agosto 2020'
 description: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 excerpt: >-
   ✅ Desarrolla tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy rebajados de precio a tan sólo 9,99 €.
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas-agosto/
 permalink: /cursos-udemy-ofertas-agosto/
-date: 2020-11-29 16:09:51
+date: 2020-08-29 16:09:51
 published: true
 
 ---
 
 Esta publicación ha quedado desactualizada, puedes encontrar un listado completo de [los mejores cursos en Oferta de Udemy](/cursos-udemy-ofertas/) en nuestra [página de Cursos y Ofertas de Udemy 2020](/cursos-udemy-ofertas/).
+
+## **DESCUBRE LAS MEJORES OFERTAS DE DICIEMBRE 2020**
 
 Allí, vas a poder encontrar los mejores cursos de todos los mejores profesionales / profesores de Udemy.
 

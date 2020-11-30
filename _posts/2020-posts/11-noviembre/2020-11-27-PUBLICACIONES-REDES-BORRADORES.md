@@ -30,6 +30,7 @@ published: false
   - [JUEGOS](#juegos)
   - [PLAYSTATION](#playstation)
 - [PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS](#publicaciones-de-cursos-juegos-ofertas-diarias)
+  - [Lunes, 30 de Noviembre](#lunes-30-de-noviembre)
   - [Jueves, 26 de Noviembre](#jueves-26-de-noviembre)
   - [Martes, 24 de Noviembre](#martes-24-de-noviembre)
 - [Python](#python)
@@ -53,6 +54,12 @@ published: false
     - [2020 Octubre](#2020-octubre)
 
 ## JUEVES / VIERNES / 26 / 27
+
+▷ Librerías de Desarrolladores: La Biblioteca Única para los Profesionales de la Programación
+https://ciberninjas.com/repositorio-librerias/
+
+▷ 15 Mejores Software Alternativos para Crear Repositorios de Favoritos
+https://ciberninjas.com/software-guardar-favoritos/
 
 ▷ 10 extensiones de Chrome imprescindibles para Desarrolladores Front-End 2021
 https://ciberninjas.com/extensiones-front-end-chrome/
@@ -145,6 +152,14 @@ ________________________________________________________________________________
 
 
 ## PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS
+
+### Lunes, 30 de Noviembre
+
+🥇 ▷ Angular 11: Conociendo las próximas novedades del framework
+https://ciberninjas.com/angular-11-novedades/
+
+▷ ¿Qué es Java? Comenzando a aprender Java
+https://ciberninjas.com/java/
 
 ### Jueves, 26 de Noviembre
 
