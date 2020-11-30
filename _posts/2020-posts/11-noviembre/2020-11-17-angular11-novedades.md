@@ -6,8 +6,8 @@ comments: false
 tags:
 - Frameworks Multiplataforma
 - Angular
-thumbnail: /assets/img/2020/angular-10.webp
-feature-img: /assets/img/2020/angular-10.webp
+thumbnail: /assets/img/2020-news/angular-10.webp
+feature-img: /assets/img/2020-news/angular-10.webp
 title: '🥇 ▷ Angular 11: Conociendo las próximas novedades del framework'
 description: >-
   La actualización principal del popular framework web, Angular, creado por Google ahora es lanzado como versión estable para su uso en producción.
@@ -24,7 +24,7 @@ published: true
 Una nueva actualización de Angular, fue lanzada la primera quincena de este Noviembre 2020: Angular 11 llega con nuevos e interesantes cambios. Si bien, en Junio, hablamos del [lanzamiento de Angular 10](https://ciberninjas.com/angular-10-novedades/); en Noviembre, ya recibimos una nueva actualización del framework de Angular.
 <!-- https://www.infoworld.com/article/3584372/whats-new-in-angular-11.html -->
 
-> ***Traducción**: Esto es un contenido informativo extraído del blog [Oficial de Angular en Medium](https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7), escrito por Mark Techson
+> ***Traducción***: *Esto es un contenido informativo extraído del blog [Oficial de Angular en Medium](https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7), escrito por Mark Techson.*
 
 ![Nueva versión de Angular: Angular 11 llega con nuevos cambios novedosos de cara al futuro](/assets/img/2020-news/angular-10.webp)
 
@@ -159,5 +159,8 @@ Esperamos que disfrute de esta actualización de funciones y asegúrese de hacer
 ### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Angular 10: Conoce todas las novedades del framework Angular](https://ciberninjas.com/angular-10-novedades/)
+[🥇 ▷ Los Cursos con los Mejores Profesionales de Angular](/cursos-udemy-ofertas/#angular)
+[🥇 ▷ Los Mejores Cursos Gratis de Angular](/cursos-programacion-web-movil/#los-mejores-cursos-gratis-de-angular-framework)
+[🥇 ▷ Los Mejores Libros de Angular](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-angular)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](https://www.amazon.es/shop/cibercursos "Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario!"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

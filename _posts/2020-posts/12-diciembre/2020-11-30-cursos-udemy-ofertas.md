@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Cursos Gratis
-thumbnail: /assets/img/paginas/cursos-udemy-ofertas-cn.webp
-feature-img: /assets/img/paginas/cursos-udemy-ofertas-cn.webp
+thumbnail: /assets/img/paginas/cursos-udemy-cn.webp
+feature-img: /assets/img/paginas/cursos-udemy-cn.webp
 title: '🥇 ▷ Los Mejores Ofertas Cursos en Oferta en Udemy 2020'
 description: >-
   ✅  Las MEJORES OFERTAS de CURSOS UDEMY por NAVIDAD a tan sólo 9,99 €.
@@ -23,7 +23,7 @@ En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen
 
 En este caso, aparece una oferta especial para el Cyber Monday, que consiste en que si compras 2 cursos hoy: 30 de Noviembre. Se te regalaran 5 € de crédito, para gastar entre los días 5 y 19 de Diciembre.
 
-[![Udemy oferta especial del 30 de Noviembre](/assets/img/2020/udemy-30-noviembre-cn.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14739&type=3&subid=0)
+[![Udemy oferta ofertas especial de Navidad 2020](/assets/img/paginas/cursos-udemy-cn.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14739&type=3&subid=0)
 
 > ***Mejora tus habilidades de desarrollo, programación y diseño con los mejores cursos online de Udemy a tan sólo 9,99 €.***
 
