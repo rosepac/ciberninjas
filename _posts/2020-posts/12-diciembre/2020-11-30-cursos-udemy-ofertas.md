@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Cursos Gratis
-thumbnail: /assets/img/blog/19-agosto-udemy-ofertas.webp
-feature-img: /assets/img/blog/19-agosto-udemy-ofertas.webp
+thumbnail: /assets/img/paginas/cursos-udemy-ofertas-cn.webp
+feature-img: /assets/img/paginas/cursos-udemy-ofertas-cn.webp
 title: '🥇 ▷ Los Mejores Ofertas Cursos en Oferta en Udemy 2020'
 description: >-
   ✅  Las MEJORES OFERTAS de CURSOS UDEMY por NAVIDAD a tan sólo 9,99 €.
