@@ -14,7 +14,7 @@ excerpt: >-
   Preparación e histórico del contenido, pasado y por pasar a través de las redes sociales.
 canonical_URL: https://ciberninjas.com/publicaciones-redes/
 permalink: /publicaciones-redes/
-date: 2020-11-27 05:36:32
+date: 2020-12-01 05:36:32
 last_modified_at: 
 published: false
 
@@ -30,6 +30,7 @@ published: false
   - [JUEGOS](#juegos)
   - [PLAYSTATION](#playstation)
 - [PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS](#publicaciones-de-cursos-juegos-ofertas-diarias)
+  - [Viernes, 4 de Diciembre](#viernes-4-de-diciembre)
   - [Jueves, 3 de Diciembre](#jueves-3-de-diciembre)
   - [Martes, 1 de Diciembre](#martes-1-de-diciembre)
   - [Jueves, 26 de Noviembre](#jueves-26-de-noviembre)
@@ -153,6 +154,10 @@ ________________________________________________________________________________
 
 ## PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS
 
+### Viernes, 4 de Diciembre
+
+<!-- POR TERMINAR: SOFTWARE MISTER ROBOT Y AGREGARLE IMAGEN -->
+
 ### Jueves, 3 de Diciembre
 
 <!-- TERMINAR LOS EDITORES DE JAVA Y AGREGAR SCHEMAS A TODAS LAS PUBLICACIONES SOBRE JAVA -->
@@ -164,6 +169,8 @@ https://ciberninjas.com/java/
 
 📆 Compartir Eventos. Evento de DoNetConf.  Congreso Internacional de Desarrolladores de Videojuegos, COIDEV.
 
+▷ Aplicaciones web renderizadas a través de un servidor Deno con Aleph.js
+https://ciberninjas.com/apps-servidor-deno-aleph/
 
 🥇 ▷ Angular 11: Conociendo las próximas novedades del framework
 https://ciberninjas.com/angular-11-novedades/
