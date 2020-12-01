@@ -67,33 +67,16 @@ Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre p
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### 🔔 27 de Noviembre  <!-- omit in toc -->
+### 🔔 1 de Diciembre  <!-- omit in toc -->
 
--  Wordpress WordCamp México: Último Día 🎥 [Canal de Youtube](https://www.youtube.com/channel/UCgwnAgYnJVt6jiHnolNfz3Q){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda y Ponentes](https://mexico.wordcamp.org/2020/ponentes/){:target="_blank" rel="nofollow, noreferrer"} -->
-- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
-- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
-- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- DotNetConf: 18 charlas en español sobre .NET 5, con 16 Especialistas Técnicos y 6 sesiones online (Del 01/12 al 17/12 - 22:30 H. Esp.) 🎥 [Canal de Youtube](https://www.youtube.com/watch?v=Wh3sq7_jKCI&ab_channel=ConoSurTech) 📆 [Agenda](https://dotnetconf.conosur.tech/agenda/)
+- Congreso Internacional de Desarrolladores de Videojuegos, COIDEV 📆 [Registro y Agenda](https://coidev.com/){:target="_blank" rel="nofollow, noreferrer"}
+- Cómo reciclarte y convertirte en programador (19:00 H.) 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-como-reciclarte-y-convertirte-en-programador-129001403671?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
-<!--  🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
-### 🔔 28 de Noviembre  <!-- omit in toc -->
-
-- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 29 de Noviembre  <!-- omit in toc -->
-
-- Big Data Day 2020 (20:00 H.) 🎥 [Ver en Youtube](https://www.youtube.com/watch?v=8GSeWwAJIoM){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
-
-### 🔔 30 de Noviembre  <!-- omit in toc -->
-
 <!-- 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
 ## **Agenda y Eventos tecnológicos de Diciembre**
-
-### 🔔 1 de Diciembre  <!-- omit in toc -->
-
-- Congreso Internacional de Desarrolladores de Videojuegos, COIDEV 📆 [Registro y Agenda](https://coidev.com/){:target="_blank" rel="nofollow, noreferrer"}
-- Cómo reciclarte y convertirte en programador (19:00 H.) 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-como-reciclarte-y-convertirte-en-programador-129001403671?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 2 de Diciembre  <!-- omit in toc -->
 
@@ -1099,3 +1082,18 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 
 - [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
 - TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}- eCommerce Full Experience 2020 Live 🎥 [YOUTUBE](https://www.youtube.com/c/CACEARG/featured){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://www.eventbrite.com.ar/e/ecommerce-full-experience-2020-live-tickets-126140943959?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 27 de Noviembre  <!-- omit in toc -->
+
+-  Wordpress WordCamp México: Último Día 🎥 [Canal de Youtube](https://www.youtube.com/channel/UCgwnAgYnJVt6jiHnolNfz3Q){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda y Ponentes](https://mexico.wordcamp.org/2020/ponentes/){:target="_blank" rel="nofollow, noreferrer"} -->
+- [PyConAr](https://eventos.python.org.ar/events/pyconar2020/){:target="_blank" rel="nofollow, noreferrer"} 📆 [Calendario](https://eventos.python.org.ar/events/pyconar2020/schedule){:target="_blank" rel="nofollow, noreferrer"}
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
+- Encuentro #educatic2020 UNAM 📆 [Registro y Calendario](https://www.eventbrite.com.mx/e/encuentro-educatic2020-unam-registration-125319753757?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 28 de Noviembre  <!-- omit in toc -->
+
+- TarugoConf 🎟 (💲) 👉 [Comprar Entrada](https://www.tarugoconf.com/#tickets){:target="_blank" rel="nofollow, noreferrer"} 📆 [Agenda](https://www.tarugoconf.com/#calendar){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 29 de Noviembre  <!-- omit in toc -->
+
+- Big Data Day 2020 (20:00 H.) 🎥 [Ver en Youtube](https://www.youtube.com/watch?v=8GSeWwAJIoM){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
