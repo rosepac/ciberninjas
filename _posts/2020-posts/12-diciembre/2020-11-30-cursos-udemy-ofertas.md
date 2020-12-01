@@ -31,7 +31,7 @@ Udemy, quiere estirar el Cyber Monday a toda la semana hasta el Jueves 4. Por ta
 
 A continuación, te queda un listado de algunos de los mejores cursos de desarrollo y programación, impartidos por los mejores profesionales de Udemy.
 
-[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/paginas/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
+[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/2020/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
 
 Si quieres seguir los nuevos cursos de estos grandes maestros, no dudes de seguir [mi lista de "profesores, Youtubers y creadores de cursos en Twitter](https://twitter.com/i/lists/1276301904512004097?s=20){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -39,7 +39,10 @@ Si quieres seguir los nuevos cursos de estos grandes maestros, no dudes de segui
 - [**Los Mejores Cursos de Desarrollo Web**](#los-mejores-cursos-de-desarrollo-web)
   - [Javascript](#javascript)
 - [**Los Mejores Cursos de Frameworks de Javascript**](#los-mejores-cursos-de-frameworks-de-javascript)
+  - [Node JS](#node-js)
 - [**Desarrollo Web y Otros Lenguajes**](#desarrollo-web-y-otros-lenguajes)
+- [**Lenguajes y Manejo de APIs**](#lenguajes-y-manejo-de-apis)
+- [**Lenguajes y Manejo de Bases de Datos**](#lenguajes-y-manejo-de-bases-de-datos)
 - [**Los mejores cursos de Diseño Web**](#los-mejores-cursos-de-diseño-web)
 - [**Los mejores cursos de Desarrollo de Videojuegos**](#los-mejores-cursos-de-desarrollo-de-videojuegos)
 - [**Los Mejores Cursos de Computación en la Nube**](#los-mejores-cursos-de-computación-en-la-nube)
@@ -57,11 +60,13 @@ Si por desgracia, no tienes la oportunidad de acceder a comprar alguno de los ex
 
 Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gratis de programación y desarrollo](https://ciberninjas.com/cursos-tecnologia/)**, **[los mejores 200 cursos de introducción a la programación gratuitos de Udemy 2020](https://ciberninjas.com/cursos-espanol-programacion-febrero/)**, nuestros listado de **[cursos gratis de animación y diseño](https://ciberninjas.com/cursos-animacion-diseno/)**, nuestros [cursos seleccionados de Microsoft](https://ciberninjas.com/cursos-tecnologia-microsoft/), los [cursos específicos para docentes y la educación](https://ciberninjas.com/cursos-educacion/) o los [cursos sobre otras temáticas](https://ciberninjas.com/cursos-otras-tematicas/) incluso puedes visitar nuesta información sobre [la academia de IBM](https://ciberninjas.com/open-ptech-el-aprendizaje-del-futuro/).
 
-[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/paginas/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
+[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/2020/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
 
 ## **Los Mejores Cursos de Desarrollo Web**
 
 ### Javascript
+
+[![Los Mejores Cursos de Javascript en Oferta de Udemy](/assets/2020/udemy/js-puzzle.webp)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26q%3Djavascript%26sort%3Dhighest-rated%26src%3Dukw)
 
 - [JavaScript: De cero hasta los detalles (ES5)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-de-cero-hasta-los-detalles%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 8 Horas
 - [JavaScript Moderno: Guía para dominar el lenguaje](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-fernando-herrera%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 17,5 Horas
@@ -71,9 +76,18 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 
 ### Deno <!-- omit in toc -->
 
+[![Los Mejores Cursos de Deno y Node](/assets/2020/udemy/deno-node.webp)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26q%3D%2522deno%2522%2B%2522node%2522%26sort%3Drelevance%26src%3Dukw)
+
 - [Master en Deno y Angular: Desde cero a nivel experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-deno-angular%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por Vaxi Drez. + 10,5 Horas
 
+### Node JS
+
+- [Crea una Tienda Online: NodeJS + MongoDB + Stripe + GraphQL - MEAN+G](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fanartz-mugika-ledo-ecommerce-graphql-angular-nodejs-mongo-stripe-meang%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Anartz Mugika Ledo](https://twitter.com/mugan86){:target="_blank" rel="nofollow,noreferrer"}. + 10,5 Horas
+- [NPM Desarrollar y publicar librerias JS,TS, Angular, ReactJS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnpm-librerias-node-con-js-typescript-angular-y-otras-herramientas%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Anartz Mugika Ledo](https://twitter.com/mugan86){:target="_blank" rel="nofollow,noreferrer"}. + 10,5 Horas
+
 ### Angular <!-- omit in toc -->
+
+[![Los Mejores Cursos del Framework Angular](/assets/2020/udemy/angular-wallpaper.webp)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26q%3Dangular%26sort%3Dhighest-rated%26src%3Dukw)
 
 - [Angular: De cero a experto (Angular 10+)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fangular-2-fernando-herrera%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 33,5 Horas
 - [Angular: Aplicaciones en tiempo real con sockets y rest](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fangular-aplicaciones-en-tiempo-real%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 9,5 Horas
@@ -82,18 +96,29 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 
 ### React <!-- omit in toc -->
 
-- [React: De cero a experto ( Hooks y MERN )](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-cero-experto%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
+[![Los Mejores Cursos del Framework React](/assets/2020/udemy/react-lovers.webp)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26q%3Dreact%26sort%3Dhighest-rated%26src%3Dukw)
+
+- [React: De cero a experto (Hooks y MERN)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-cero-experto%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 42,5 Horas
 - [React JS ⭐Desde Cero! Hooks, Redux, Context, Firebase y más!](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-react-js%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ignacio Bluuweb](https://twitter.com/bluuweb){:target="_blank" rel="nofollow,noreferrer"}. + 18,5 Horas
+- [Componentes de Terceros en React JS! ⚛️ Curso 100% Práctico](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomponentes-de-terceros-en-react-js%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Arturo Borja](https://www.youtube.com/channel/UCPiHaffGYp5JcQ8MzZzgtDg){:target="_blank" rel="nofollow,noreferrer"}. + 3 Horas
 
 ### Vue <!-- omit in toc -->
+
+[![Los Mejores Cursos en Oferta de Vue en Udemy](/assets/img/2020/udemy/vue-cohete.webp)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3FcourseLabel%3D4308%26lang%3Des%26q%3Dvue%26sort%3Dnewest%26src%3Dukw)
 
 - [Vue js 2 Completo ¡De 0 a Experto! + Firebase + Node](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-vue%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ignacio Bluuweb](https://twitter.com/bluuweb){:target="_blank" rel="nofollow,noreferrer"}. + 23 Horas
 
 ### TypeScript <!-- omit in toc -->
 
 - [TypeScript: tu completa guía y manual de mano.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftypescript-guia-completa%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 6,5 Horas
+
+### RXJS <!-- omit in toc -->
+
+[![Los Mejores Cursos de Javascript Reactivex](/assets/2020/udemy/javascript-rx.webp)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26q%3Drxjs%26sort%3Drelevance%26src%3Dukw)
+
 - [ReactiveX - RxJs: De cero hasta los detalles](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frxjs-de-cero-hasta-los-detalles%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 9,5 Horas
 
+[🎓 Accede a los mejores cursos en español de Javascript Reactive en Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26q%3Drxjs%26sort%3Drelevance%26src%3Dukw){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Desarrollo Web y Otros Lenguajes**
 
@@ -111,6 +136,12 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 - [Flutter: Diseños y animaciones a nivel profesional](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-disenos-y-animaciones%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 15,5 Horas
 - [Crea Widgets en Flutter con una RestApi en Laravel y Django](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-widgets-en-flutter-con-una-restapi-en-laravel-y-django%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por Andrés Cruz Yoris. + 14,5 Horas
 
+## **Lenguajes y Manejo de APIs**
+
+- [Guía completa de GraphQL con Angular de 0 a Experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-angular-de-0-a-experto-jwt-socket-mongodb-heroku-anartz-mugika%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Anartz Mugika Ledo](https://twitter.com/mugan86){:target="_blank" rel="nofollow,noreferrer"}. + 33,5 Horas
+
+## **Lenguajes y Manejo de Bases de Datos**
+
 ### SQL <!-- omit in toc -->
 
 - [Sql Server 2019 para Principiantes encuentra un Buen Trabajo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-server-para-principiantes-encuentra-un-buen-trabajo%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 3,5 Horas
@@ -121,7 +152,7 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 - [El completo desarrollador de iOS 10 - Crea apps con Swift 3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fel-completo-desarrollador-de-ios-crea-apps-con-swift%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Grant Klimaytys](https://www.linkedin.com/in/grantmk/){:target="_blank" rel="nofollow,noreferrer"}. + 4,5 Horas
 - [Curso completo de iOS 11 y Swift: de cero a experto con JB](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios11-swift4%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by?lang=en){:target="_blank" rel="nofollow,noreferrer"}. + 56 Horas
 
-[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/paginas/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
+[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/2020/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
 
 ## **Los mejores cursos de Diseño Web**
 
@@ -150,7 +181,7 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 - [Kubernetes, de principiante a experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-de-principiante-a-experto%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ricardo Andre Gonzale](https://www.linkedin.com/in/ricardo-andre-gonzalez/){:target="_blank" rel="nofollow,noreferrer"}. + 16,5 Horas.
 - [Alexa Skills Desde Cero: Crea apps de voz con Amazon AWS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Falexa-skills%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Villalvazo](https://twitter.com/tecmotivacional?lang=en){:target="_blank" rel="nofollow,noreferrer"} y Marcos Rivas. + 8 Horas.
 
-[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/paginas/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
+[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/2020/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
 
 ## **Los Mejores Cursos sobre Inteligencia Artificial**
 
