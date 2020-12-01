@@ -1,6 +1,7 @@
 ---
 layout: page
 order: 3
+bootstrap: true
 title: "Tienda 🎁"
 description: "Catálogo Amazon de las Mejores Ofertas y Chollos de Productos Informáticos"
 excerpt: "Catálogo Amazon de las Mejores Ofertas y Chollos de Productos Informáticos"
@@ -13,7 +14,7 @@ published: true
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">Inicio</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Tienda Ciberninjas</li>
+    <li class="breadcrumb-item active" aria-current="page">Recomendaciones Ciberninjas</li>
   </ol>
 </nav>
 </div>
@@ -45,8 +46,26 @@ Según se acerque la fecha del Black Friday, aquí vas a encontrar las mejores o
 
 > **Como [Asociado de Amazon](https://ciberninjas.com/aviso-legal/#afiliados). Gano una pequeña comisión, gracias a las compras que realices desde cualquier enlace posterior**, **¡Gracias por tu apoyo!**
 
-{% include amazon.html %}
+## **Las Mejores Ofertas Pensadas para Desarrolladores / Programadores**
 
+- [🎧 ▷ Los 11 Mejores Auriculares para Trabajar 2021](/auriculares-diseño/) (Mejores Auriculares Calidad Precio 2020)
+- [⌨ ▷ Los 10 Mejores Teclados de 2021](/teclados-ratones-diseño/) (Comparativa de los mejores teclados)
+- [🗄 ▷ Las Mejores Ofertas de Componentes para PC 2021](/ordenadores-componentes/) (Monta tu ordenador con una gran selección de componentes a los mejores precios)
+- [📹 ▷ Las Mejores Cámaras Web 2020](/mejores-camaras-web/)
+- [📹 ▷ Los Mejores Soportes para Cámaras Web 2020](/mejores-soportes-camaras-web/)
+
+## **Las Mejores Ofertas Pensadas para Gamers / Gaming**
+
+- [🎧 ▷ Los 6 Mejores Auriculares Gaming 2021](/auriculares-gamer/) (Mejores Cascos para Juegos Calidad Precio 2020)
+- [⌨ ▷ Los 11 Mejores Teclados Gamer para Juegos 2021](/teclados-gaming/) (Mejores Teclados Gaming Calidad Precio 2020)
+- [🔥 ▷ Las Mejores Ofertas de los más Esperados Juegos de 2021](/videojuegos/)
+
+## **Las Mejores Ofertas en Macro Eventos de Compras Online**
+
+- [🛒 ▷ Black Friday 2020](/black-friday-amazon/) (Recopilatorio de Las Mejores Ofertas y Mucho Más)
+- [📦 ▷ Amazon Prime Day 2020](/prime-day-amazon/) (Disfruta de encontrar los mejores precios, ofertas y chollos de los eventos especiales de amazon, en un único lugar)
+
+<!-- CONTENIDOS POR REVISAR: https://ciberninjas.com/tablets-graficas/, -->
 Publicaré una copia de los anuncios de Amazon y los detalles más importantes de los descuentos y la gran mayoría de las ofertas, sobre el Black Friday de 2020. Además, de tratar de traer algunas de **las mejores ofertas del Prime Day 2020** o día especial para los usuarios que son [Prime en Amazon](http://www.amazon.es/prime?tag=ciberninjas07-21){:target="_blank" rel="nofollow,noreferrer"}.
 <!-- https://www.blackerfriday.com/amazon/ -->
 Únicamente, deberás tener en cuenta que la pandemia actual de coronavirus COVID-19 puede hacer que Amazon realice ciertos ajustes en su venta, ya que pueden existir más problemas de los habituales a la hora de gestionar un gran aumento de la demanda en sus productos.

@@ -42,14 +42,16 @@ feature-img: /assets/img/blog/reloj-hoy.webp
 }
 </script>
 
-Esta página se encarga de mostrarte todos los eventos de tecnología y en habla hispana para los próximos días, con el objetivo de ofrecer a todos los amantes de la tecnología. Si deseas participar y agregar algún evento, solamente informa del mismo a: [rosepac21@gmail.com](mailto:rosepac21@gmail.com "Correo electrónico del Webmaster"){:target="_blank"}. Esta página se actualiza a diario.. 🤞
+Aquí, se recopilan los eventos de tecnología en habla hispana para los próximos días, con el objetivo de ofrecer a todos los amantes de la tecnología, un lugar desde el que partir en su día a día.
+
+Si deseas agregar algún evento 👉 [rosepac21@gmail.com](mailto:rosepac21@gmail.com "Correo electrónico del Webmaster"){:target="_blank"}
 
 > **Las horas aquí publicadas referencian a la hora española: Argentina (5 Horas Menos). Venezuela (6 Horas Menos). México, Colombia (7 Horas Menos)**
 {: .notice--primary}
 
 <!-- ⏰ (:) 👇 https://www.eventbrite.com.ar/d/online/free--science-and-tech--events/?lang=es&page=1 , https://www.eventbrite.com.ar/d/online/free--classes/?lang=es&page=1 -->
 <!--- Titulo para SEO: Agenda y Eventos de Programación y Tecnología 2020 -->
-Si te agradan el trabajo realizado y los contenidos encontrados aquí, siempre puedes darme un empujón a que esto siga creciendo, teniendo en cuenta mis enlaces de afiliados, el día que deseas [realizar una compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o en [tu próxima compra de Amazon](https://amzn.to/3aTZb5X){:target="_blank" rel="nofollow, noreferrer"} o desde las listas de dispositivos [ofrecidas en nuestro catálogo de recomendaciones](https://ciberninjas.com/amazon/).
+Si te agradan el contenido aquí encontrado, puedes apoyar teniendo en cuenta los siguientes enlaces de afiliados en: [Cursos de Udemy](/cursos-udemy-ofertas/) o en [tu próxima compra de Amazon](https://amzn.to/3aTZb5X){:target="_blank" rel="nofollow, noreferrer"}, por último; puedes encontrar [recomendaciones de dispositivos](/amazon/).
 {: .notice--warning}
 
 > Por problemas de tiempo. Encontrarás más EVENTOS en el Calendario, que aquí, en la web listados..** Por lo que se recomienda revisar primero el calendario, posteriormente los eventos aquí citados. ***¡Saludos!***
