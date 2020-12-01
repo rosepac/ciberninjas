@@ -30,7 +30,8 @@ published: false
   - [JUEGOS](#juegos)
   - [PLAYSTATION](#playstation)
 - [PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS](#publicaciones-de-cursos-juegos-ofertas-diarias)
-  - [Lunes, 30 de Noviembre](#lunes-30-de-noviembre)
+  - [Jueves, 3 de Diciembre](#jueves-3-de-diciembre)
+  - [Martes, 1 de Diciembre](#martes-1-de-diciembre)
   - [Jueves, 26 de Noviembre](#jueves-26-de-noviembre)
   - [Martes, 24 de Noviembre](#martes-24-de-noviembre)
 - [Python](#python)
@@ -150,16 +151,22 @@ ________________________________________________________________________________
 
 #news #technews #amazonnews #dealsamazon #ps5 #playstation #juegos #mejores #novedades #gamer #gaming #games #gamestagram #gamers #gameplay #instagame #instagamer #pcgames #instagaming #instagames #playinggames #gamelife #gaming #gamingnation #gaminglife #gamingcommunity
 
-
 ## PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS
 
-### Lunes, 30 de Noviembre
+### Jueves, 3 de Diciembre
+
+<!-- TERMINAR LOS EDITORES DE JAVA Y AGREGAR SCHEMAS A TODAS LAS PUBLICACIONES SOBRE JAVA -->
+
+🔄 ▷ ¿Qué es Java? Comenzando a aprender Java
+https://ciberninjas.com/java/
+
+### Martes, 1 de Diciembre
+
+📆 Compartir Eventos. Evento de DoNetConf.  Congreso Internacional de Desarrolladores de Videojuegos, COIDEV.
+
 
 🥇 ▷ Angular 11: Conociendo las próximas novedades del framework
 https://ciberninjas.com/angular-11-novedades/
-
-▷ ¿Qué es Java? Comenzando a aprender Java
-https://ciberninjas.com/java/
 
 ### Jueves, 26 de Noviembre
 
