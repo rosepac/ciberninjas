@@ -182,7 +182,7 @@ Puedes examinar y filtrar tus marcadores a través de etiquetas y carpetas y uti
 
 ## **11. Linkding**
 
-Servicio de marcadores de código abierto que puede alojar usted mismo. Linkding es un servicio de marcadores simple auto hospedado bastante minimalista, genial para los amantes de lo sencillo pero con estilo. Administr tus propios marcadores, categorizaros con etiquetas e incluye una interesante función de búsqueda.
+Servicio de marcadores de código abierto que puede alojar usted mismo. Linkding es un servicio de marcadores simple auto hospedado bastante minimalista, genial para los amantes de lo sencillo pero con estilo. Administrar tus propios marcadores, categorizarlos con etiquetas e incluye una interesante función de búsqueda.
 
 Proporciona un marcador para agregar rápidamente nuevos marcadores mientras navega por la web. También admite la importación / exportación de marcadores en formato HTML.
 
