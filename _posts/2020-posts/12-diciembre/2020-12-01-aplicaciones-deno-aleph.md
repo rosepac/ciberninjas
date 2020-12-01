@@ -9,16 +9,16 @@ tags:
 - Aplicaciones Web
 thumbnail: /assets/img/2020/js-aleph.webp
 feature-img: /assets/img/2020/js-aleph.webp
-title: '▷ Aplicaciones web renderizadas a través de un servidor Deno con Aleph.js'
+title: '▷ Aplicaciones web renderizadas a través de un servidor Deno con Aleph JS'
 description: >-
-  Aleph.js, un framework React para crear aplicaciones renderizadas con un servidor Deno, disponible es versión alfa. Aleph hace que muchas de las funciones principales de Next.js estén disponibles en entornos Deno: como zero-config
+  'Aleph.js, un framework React para crear aplicaciones renderizadas con un servidor Deno, disponible es versión alfa. Aleph hace que muchas de las funciones principales de Next.js estén disponibles en entornos Deno: como zero-config'
 excerpt: >-
-  Aleph.js, un framework React para crear aplicaciones renderizadas con un servidor Deno, disponible es versión alfa. Aleph hace que muchas de las funciones principales de Next.js estén disponibles en entornos Deno: como zero-config
+  'Aleph.js, un framework React para crear aplicaciones renderizadas con un servidor Deno, disponible es versión alfa. Aleph hace que muchas de las funciones principales de Next.js estén disponibles en entornos Deno: como zero-config'
 canonical_URL: https://ciberninjas.com/apps-servidor-deno-aleph/
 permalink: /apps-servidor-deno-aleph/
-date: 2020-12-01 02:36:32
+date: 2020-11-30 23:36:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
