@@ -69,6 +69,10 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 
 ## **Los Mejores Cursos de Frameworks de Javascript**
 
+### Deno <!-- omit in toc -->
+
+- [Master en Deno y Angular: Desde cero a nivel experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-deno-angular%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por Vaxi Drez. + 10,5 Horas
+
 ### Angular <!-- omit in toc -->
 
 - [Angular: De cero a experto (Angular 10+)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fangular-2-fernando-herrera%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 33,5 Horas
@@ -84,6 +88,12 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 ### Vue <!-- omit in toc -->
 
 - [Vue js 2 Completo ¡De 0 a Experto! + Firebase + Node](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-vue%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Ignacio Bluuweb](https://twitter.com/bluuweb){:target="_blank" rel="nofollow,noreferrer"}. + 23 Horas
+
+### TypeScript <!-- omit in toc -->
+
+- [TypeScript: tu completa guía y manual de mano.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftypescript-guia-completa%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 6,5 Horas
+- [ReactiveX - RxJs: De cero hasta los detalles](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frxjs-de-cero-hasta-los-detalles%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 9,5 Horas
+
 
 ## **Desarrollo Web y Otros Lenguajes**
 
@@ -110,11 +120,6 @@ Siempre puedes consultar nuestro **listado ciberninja completo** de **[cursos gr
 
 - [El completo desarrollador de iOS 10 - Crea apps con Swift 3](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fel-completo-desarrollador-de-ios-crea-apps-con-swift%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Grant Klimaytys](https://www.linkedin.com/in/grantmk/){:target="_blank" rel="nofollow,noreferrer"}. + 4,5 Horas
 - [Curso completo de iOS 11 y Swift: de cero a experto con JB](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios11-swift4%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Juan Gabriel Gomila](https://twitter.com/joan_by?lang=en){:target="_blank" rel="nofollow,noreferrer"}. + 56 Horas
-
-### TypeScript <!-- omit in toc -->
-
-- [TypeScript: tu completa guía y manual de mano.](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftypescript-guia-completa%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 6,5 Horas
-- [ReactiveX - RxJs: De cero hasta los detalles](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frxjs-de-cero-hasta-los-detalles%2F){:target="_blank" rel="nofollow,noreferrer"} impartido por [Fernando Herrera](https://twitter.com/Fernando_Her85){:target="_blank" rel="nofollow,noreferrer"}. + 9,5 Horas
 
 [![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/paginas/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
 
