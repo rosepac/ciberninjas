@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - 
-thumbnail: /assets/img/2020/apple-apps-descargas.webp
-feature-img: /assets/img/2020/apple-apps-descargas.webp
+thumbnail: /assets/img/2020/apple-apps-descarga.webp
+feature-img: /assets/img/2020/apple-apps-descarga.webp
 title: '▷ Zoom y Among Us dominan las listas de descargadas de Apple en 2020'
 description: >-
   "Apple publica las listas de aplicaciones más descargadas en 2020, Zoom, Genshin Impact, Among Us, Roblox y Minecraft, entre las más instaladas"
@@ -189,4 +189,4 @@ A continuación, la lista completa.
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Zoom y Among Us dominan las listas de descargadas de Apple en 2020](/assets/img/2020/apple-apps-descargas.webp)
+![Zoom y Among Us dominan las listas de descargadas de Apple en 2020](/assets/img/2020/apple-apps-descarga.webp)
