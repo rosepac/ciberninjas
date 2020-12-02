@@ -10,6 +10,8 @@ date: 2019-08-27 10:11:12
 tags:
 - SEO
 - Videotutorial SEO y Posicionamiento
+canonical_URL: https://ciberninjas.com/seo-herramientas-playlist-1/
+permalink: /seo-herramientas-playlist-1/
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
