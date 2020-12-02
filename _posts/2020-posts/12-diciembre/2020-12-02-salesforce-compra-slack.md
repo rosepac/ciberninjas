@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/salesforce-compra-slack/
 permalink: /salesforce-compra-slack/
 date: 2020-12-02 06:36:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
