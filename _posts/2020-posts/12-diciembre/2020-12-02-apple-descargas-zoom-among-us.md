@@ -14,7 +14,7 @@ excerpt: >-
   "Apple publica las listas de aplicaciones más descargadas en 2020, Zoom, Genshin Impact, Among Us, Roblox y Minecraft, entre las más instaladas"
 canonical_URL: https://ciberninjas.com/apple-descargas-zoom-among-us/
 permalink: /apple-descargas-zoom-among-us/
-date: 2020-12-02 07:36:32
+date: 2020-12-02 06:46:32
 last_modified_at: 
 published: true
 
