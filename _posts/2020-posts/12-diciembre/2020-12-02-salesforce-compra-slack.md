@@ -58,4 +58,4 @@ Ahora, tras la gran compra de Slack. Salesforce, intentará garantizarse ser una
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![](/assets/img/2020/.webp)
+![Salesforce compra Slack, la aplicación de chat, por 27,7 mil millones de dólares](/assets/img/2020/slack-3.webp)
