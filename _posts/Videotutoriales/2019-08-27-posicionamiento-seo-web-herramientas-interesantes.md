@@ -13,7 +13,7 @@ tags:
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLF39HeZquqsO5C3AmbAhc9y3i7x-BNCXc" allowfullscreen></iframe>
 </div><br/>
 
 ## **Contenido del Curso de Posicionamiento Web y SEO - Herramientas Técnicas**
