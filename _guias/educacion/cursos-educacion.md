@@ -67,13 +67,11 @@ img: /assets/img/paginas/recursos-profesorado.webp
 * [Programación y Robótica para la integración de Alumnos con NEE](https://www.programoergosum.com/cursos-online/programacion-para-docentes/240-programacion-y-robotica-para-la-integracion-de-alumnos-con-nee/introduccion){:target="_blank" rel="nofollow,noreferrer"} (Programo Ergo Sum)
 * [Proyecto Final, "e-Learning"](https://www.edx.org/course/proyecto-final-e-learning-galileox-cet004x){:target="_blank" rel="nofollow,noreferrer"}
 * [Qué es la Economía del Conocimiento en la Comunidad Global](https://www.udemy.com/que-es-la-economia-del-conocimiento-en-la-comunidad-global){:target="_blank" rel="nofollow,noreferrer"}
-* [Redes sociales para Investigación y Docencia](https://miriadax.net/web/redes-sociales-para-investigacion-y-docencia-resido-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Recursos Educativos mediante la programación de VideoJuegos](https://www.programoergosum.com/cursos-online/programacion-para-docentes/235-recursos-educativos-mediante-la-programacion-de-videojuegos/introduccion){:target="_blank" rel="nofollow,noreferrer"} (Programo Ergo Sum)
 * [Tecnologías de la Información y la Comunicación (TICS) en Educación Social (2012)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion){:target="_blank" rel="nofollow,noreferrer"}
 * [Tecnologías para la Educación](https://www.edx.org/course/tecnologias-para-la-educacion-upvalenciax-te201x-1){:target="_blank" rel="nofollow,noreferrer"}
 * [Teleformación (2012)](http://ocw.upm.es/course/teleformacion-2012){:target="_blank" rel="nofollow,noreferrer"}
 * [TIC en Educación Social (2016)](http://ocw.um.es/cc.-sociales/tic-en-educacion-social){:target="_blank" rel="nofollow,noreferrer"}
-* [TIC en la Docencia](https://miriadax.net/web/tic-en-la-docencia-3-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Trascendencia del educador durante la primera infancia](https://edutin.com/curso-de-trascendencia-del-educador-durante-la-primera-infancia-3854){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
