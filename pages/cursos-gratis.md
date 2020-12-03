@@ -54,7 +54,7 @@ img: /assets/img/2020/web-herramientas.webp
 }
 </script>
 
-Más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
+Más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
 <!-- Si eres nuevo/a en el mundo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/) por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/). -->
 <!-- https://digitaldefynd.com/best-udemy-courses/ -->
 
@@ -142,7 +142,6 @@ Las [mejores páginas web con las que aprender a programar](https://ciberninjas.
 
 * [Cursos de Otras Temáticas](/cursos-otras-tematicas/)
 * [Cursos UNED en Abierto MOOC´s](https://iedra.uned.es/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Miriadax](https://miriadax.net/cursos){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank" rel="nofollow,noreferrer"}
 * [Cursos de Aprendizaje Automático en Inglés](/aprendizaje-automatico-cursos-ingles/) (HTML)
 
