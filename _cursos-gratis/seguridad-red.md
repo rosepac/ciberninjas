@@ -85,6 +85,7 @@ Los **mejores cursos gratuitos de seguridad en la red**.
 1. [El algoritmo RSA](http://www.criptored.upm.es/crypt4you/temas/RSA/leccion0/leccion00.html){:target="_blank" rel="nofollow,noreferrer"} (Aula Virtual de Criptografía y Seguridad: Universidad Politécnica de Madrid)
 1. [Garantía y seguridad en sistemas y redes (2016)](https://ocw.unican.es/course/view.php?id=16) (OCW)
 1. [Hacking Ético: Curso de Metasploit Framework](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-metasploit-framework%2F) por Marco Mendoza (Udemy)
+1. [Historia, tecnología y seguridad de Internet](https://www.coursera.org/learn/internet-history) (Coursera, Universidad de Michigan) (En Inglés con Subtítulos disponibles en Español)
 1. [Incibe. Ciberseguridad para micropymes y autónomos](https://www.incibe.es/formacion/ciberseguridad-para-micropymes-y-autonomos) (Registro + Udemy) Comienza el Primer Trimestre (creo, por confirmar) de 2021.
 1. [Incibe. Curso avanzado de ciberseguridad en dispositivos móviles](https://www.incibe.es/formacion/curso-avanzado-ciberseguridad-dispositivos-moviles) (Registro + ..) Comienza el Primer Trimestre de 2021.
 1. [Incibe. Seguridad en sistemas de control y automatización industrial](https://www.incibe.es/formacion/ciberseguridad-para-micropymes-y-autonomos) (Registro + ..) Comienza el Segundo Trimestre de 2021.
