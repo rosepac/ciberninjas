@@ -87,24 +87,30 @@ A continuación se incluye una lista cuidadosamente seleccionada del código Pyt
 
 Editores, con características populares y últimos enlaces de descarga. La lista contiene herramientas de código abierto (gratis) y premium.
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/mejores-ide-python/#1-pycharm">Pycharm</a></li>
-    <li><a href="/mejores-ide-python/#2-spyder">Spyder</a></li>
-    <li><a href="/mejores-ide-python/#3-idle">Python Idle</a></li>
-    <li><a href="/mejores-ide-python/#4-sublime-text-3">Sublime Text Studio</a></li>
-    <li><a href="/mejores-ide-python/#5-visual-studio-code">Visual Studio Code</a></li>
-    <li><a href="/mejores-ide-python/#6-atom">Atom</a></li>
-    <li><a href="/mejores-ide-python/#7-jupyter">Jupyter</a></li>
-    <li><a href="/mejores-ide-python/#8-pydev">Pydev</a></li>
-    <li><a href="/mejores-ide-python/#9-thonny">Thonny</a></li>
-    <li><a href="/mejores-ide-python/#10-wing">Wing</a></li>
-    <li><a href="/mejores-ide-python/#11-komodo-active-python">Komodo Active State para Python</a></li>
-  </ol>
-</nav>
-</details>
+<span id="menu"><strong>Los Mejores Editores de Código de Python</strong></span>
+
+- [**1. PyCharm**](#1-pycharm)
+  - [**Características de PyCharm**](#características-de-pycharm)
+- [**2. Spyder**](#2-spyder)
+  - [**Características de Spyder**](#características-de-spyder)
+- [3. **IDLE**](#3-idle)
+  - [**Características de IDLE**](#características-de-idle)
+- [4. **Sublime Text 3**](#4-sublime-text-3)
+  - [**Características de Sublime Text 3**](#características-de-sublime-text-3)
+- [5. **Visual Studio Code**](#5-visual-studio-code)
+  - [**Características de Visual Studio Code**](#características-de-visual-studio-code)
+- [6. **Atom**](#6-atom)
+  - [**Características de Atom**](#características-de-atom)
+- [7. **Jupyter**](#7-jupyter)
+  - [**Características de Jupyter**](#características-de-jupyter)
+- [8. **Pydev**](#8-pydev)
+  - [**Características de Pydev**](#características-de-pydev)
+- [9. **Thonny**](#9-thonny)
+  - [**Características de Thonny**](#características-de-thonny)
+- [10. **Wing**](#10-wing)
+  - [**Características de Wing**](#características-de-wing)
+- [11. **Komodo Active Python**](#11-komodo-active-python)
+  - [**Características de Komodo Active Python**](#características-de-komodo-active-python)
 
 > ***Relacionados Python:*** *[Aprender Python](/python/) / [Cursos Python](/cursos-programacion/#los-mejores-cursos-gratis-de-python) / [Libros Python](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-python) / [Frameworks Python](/python-frameworks/) / [Librerías Python](/python-librerias/) / [Recursos Python](/python-recursos/) / [Editores o IDEs Python](/mejores-ide-python/) / [Diccionario Python](/glosario/completo-tecnologias-python/)*
 
@@ -297,7 +303,6 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 - Utiliza el parche OpenSSL por seguridad.
 
 [🔥 Descargar ActivePython](https://www.activestate.com/products/python/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
