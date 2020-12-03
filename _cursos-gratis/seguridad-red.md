@@ -68,7 +68,7 @@ img: "/assets/img/paginas-cursos/cursos-seguridad-red.webp"
 
 Los **mejores cursos gratuitos de seguridad en la red**.
 
-> 🔥 Quizás te interese: [Mejores Ofertas de Tecnología](/amazon/) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Quizás te interese: [Libros Gratis de Seguridad y Criptografía](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-seguridad-y-criptograf%C3%ADa) >> [Libros Gratis de Linux](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-linux) >> [Libros Software Libre](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-ecosistema-de-software-libre)
 {: .notice--danger}
 
 ## **Cursos Gratis de Seguridad en Internet**
@@ -80,8 +80,7 @@ Los **mejores cursos gratuitos de seguridad en la red**.
 - [Derecho e Internet (2011)](http://ocw.uv.es/ciencias-sociales-y-juridicas/plant/Course_listing) (OCW)
 - [Garantía y seguridad en sistemas y redes (2016)](https://ocw.unican.es/course/view.php?id=16) (OCW)
 - [Hacking Ético: Curso de Metasploit Framework](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-metasploit-framework%2F) por Marco Mendoza (Udemy)
-- [Incibe. Ciberseguridad para micropymes y autónomos](https://www.incibe.es/formacion/ciberseguridad-para-micropymes-y-autonomos) (Registro + Udemy)
-- [Introducción a curso Ciberseguridad enfocada en Pentesting](https://plataforma.keepcoding.io/p/introduccion_ciberseguridad_enfocada_en_pentesting1) (Keep Coding)
+- [Incibe. Ciberseguridad para micropymes y autónomos](https://www.incibe.es/formacion/ciberseguridad-para-micropymes-y-autonomos) (Registro + Udemy) Comienza el Segundo Trimestre de 2021.
 - [Programación Hacking](https://www.youtube.com/playlist?list=PL1UnfB2evouHZjiRJp-z9jstL-yqfTi_X) (OHCS, YouTube)
 - [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28) (OCW)
 - [Seguridad en Sistemas Distribuidos (2009)](http://ocw.uc3m.es/ingenieria-informatica/seguridad-en-sistemas-distribuidos) (OCW)
@@ -92,8 +91,12 @@ Los **mejores cursos gratuitos de seguridad en la red**.
 
 [⬅ REGRESAR al Índice de CURSOS GRATIS 🏡](https://ciberninjas.com/cursos-tecnologia/ "Regresar al índice de Cursos Gratis de Tecnología"){: .btn .btn-dark .btn-lg .btn-block}{:role="button" aria-label="Regresar al índice general de Cursos de Tecnología"}
 
+## ****
+
 ### **Cursos Relacionados** <!-- omit in toc -->
 
+- [Los Mejores Cursos de Redes Informáticas](https://ciberninjas.com/cursos-redes/)
+- [Los Mejores Cursos de Linux y Software Libre](https://ciberninjas.com/cursos-linux-software-libre/)
 - [Los Mejores Cursos de Servidores](https://ciberninjas.com/cursos-servidores/)
 - [Los Mejores Cursos de Webmaster Web](https://ciberninjas.com/cursos-web-webmaster/)
 - [Los Mejores Cursos Gratis de Software Técnico](https://ciberninjas.com/cursos-css-preprocesadores/)
