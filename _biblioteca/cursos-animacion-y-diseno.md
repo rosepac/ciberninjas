@@ -181,7 +181,7 @@ Los mejores cursos seleccionados de diseño, diseño vectorial, diseño 3D y otr
 
 ## Arquitectura
 
-* [Construcción de Estructuras de Madera de modo tradicional](https://miriadax.net/web/construccion-de-estructuras-de-madera-de-modo-tradicional-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
+- 👷‍♂️ Por Construir 👷‍♂️
 
 ## Arte & Cultura
 
@@ -189,7 +189,6 @@ Los mejores cursos seleccionados de diseño, diseño vectorial, diseño 3D y otr
 * [El patrimonio ibérico clasificado por la UNESCO (I)](http://ocw.um.es/artes-1){:target="_blank" rel="nofollow,noreferrer"}
 * [Grabados o estámpados básicos](https://www.youtube.com/playlist?list=PLB58AE55490D9AEFB){:target="_blank" rel="nofollow,noreferrer"} (Educa Thyssen, YouTube)
 * [La España de El Quijote](https://www.edx.org/course/la-espana-de-el-quijote-uamx-quijote501x-1){:target="_blank" rel="nofollow,noreferrer"}
-* [La imagen del Sport en el Arte](https://miriadax.net/web/la-imagen-del-sport-en-el-arte-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Los principios de la cultura impresa moderna: ilustración gráfica, cultura visual y vida urbana](https://iedra.uned.es/courses/UNED/104/2016_T2/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Modelado de Plastilina: flores](https://www.udemy.com/curso-de-modelado-de-plastilina-flores){:target="_blank" rel="nofollow,noreferrer"}
 * [Pintura Europea: Leonardo, Rembrandt, Goya](https://www.edx.org/course/pintura-europea-leonardo-rembrandt-goya-uc3mx-ceh-1-esx-0){:target="_blank" rel="nofollow,noreferrer"}
@@ -207,7 +206,6 @@ Los mejores cursos seleccionados de diseño, diseño vectorial, diseño 3D y otr
 
 ## Dibujo
 
-* [Aprende a dibujar a mano alzada. Curso cero de dibujo arquitectónico](https://miriadax.net/web/aprende-a-dibujar-a-mano-alzada-curso-cero-de-dibujo-arquitectonico-2-edicion-){:target="_blank" rel="nofollow,noreferrer"}
 * [Dibujando Personajes de Series](https://www.youtube.com/playlist?list=PL7BeW1_IQulFI6EA7hETFP8iV3JpBSZF4){:target="_blank" rel="nofollow,noreferrer"}
 * [Dibujo Constructivo](https://www.youtube.com/playlist?list=PL04C52E81B0EDCCA5){:target="_blank" rel="nofollow,noreferrer"} (entivoo, YouTube)
 * [Dibujo de Anime Vol.1. Creación de Personajes](https://teachlr.com/cursos-online/dibujo-de-anime-vol-1-creacion-de-personajes){:target="_blank" rel="nofollow,noreferrer"}
@@ -305,7 +303,6 @@ Los mejores cursos seleccionados de diseño, diseño vectorial, diseño 3D y otr
 * [iMovie para iOS, edita tus vídeos donde quieras](https://www.udemy.com/imovie-para-ios){:target="_blank" rel="nofollow,noreferrer"}
 * [Iniciación a la Música Electrónica](https://www.youtube.com/playlist?list=PLb_0p0mGN9LhLj2juAdMCwrjSVu_svXX8){:target="_blank" rel="nofollow,noreferrer"}
 * [Iniciación a la Producción Musical](https://www.youtube.com/playlist?list=PLb_0p0mGN9LjYeUEdodYiZQJdJv3F6AKF){:target="_blank" rel="nofollow,noreferrer"}
-* [Introducción al Audio Digital](https://miriadax.net/web/introduccion-al-audio-digital/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Linux Multimedia Studio](https://www.youtube.com/playlist?list=PL3_TelBGlx1D9OvYZPwN-PRFOdW2m4NqO){:target="_blank" rel="nofollow,noreferrer"} (Eric Kauffman, YouTube)
 * [Minitutoriales de Mezclas](https://www.youtube.com/playlist?list=PLb_0p0mGN9Lg7iXWZl5UNfS-5FfpH7Pzz){:target="_blank" rel="nofollow,noreferrer"}
 * [Omnisphere 2](https://www.youtube.com/playlist?list=PL3_TelBGlx1BT3qREecfzW7OgcyPqjm4_){:target="_blank" rel="nofollow,noreferrer"} (Eric Kauffman, YouTube)

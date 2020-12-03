@@ -34,31 +34,21 @@ img: /assets/img/paginas/recursos-profesorado.webp
 
 ## Cursos de Educación
 
-* [¿Qué es el Aprendizaje y Servicio? Curso introductorio a la metodología](https://miriadax.net/web/que-es-el-aprendizaje-y-servicio-curso-introductorio-a-la-metodologia-a-s/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Administración de plataformas de aprendizaje virtual](https://edutin.com/curso-de-administrador-de-plataformas-de-aprendizaje-virtual-3351){:target="_blank" rel="nofollow,noreferrer"}
 * [Administración de proyectos para ambientes virtuales de aprendizaje](https://edutin.com/curso-de-administracion-de-proyectos-para-ambientes-virtuales-de-aprendizaje-3352){:target="_blank" rel="nofollow,noreferrer"}
 * [Analista de necesidades del aprendizaje virtual](https://edutin.com/curso-de-analista-de-necesidades-del-aprendizaje-virtual-3354){:target="_blank" rel="nofollow,noreferrer"}
 * [Ciencias Sociales y su Didáctica (2015)](http://ocw.um.es/cc.-sociales/ciencias-sociales-y-su-didactica){:target="_blank" rel="nofollow,noreferrer"}
 * [Comunicación oral y escrita en Lengua Española (2011)](http://ocw.um.es/cc.-sociales/comunicacion-oral-y-escrita-en-lengua-espanola-1){:target="_blank" rel="nofollow,noreferrer"}
 * [Curso de Novela: Planifica, Escribe y Publica tu historia](https://www.udemy.com/escritura-novela){:target="_blank" rel="nofollow,noreferrer"}
-* [Derechos Humanos en el Aula](https://miriadax.net/web/derechos-humanos-en-el-aula/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Desarrollo de competencias docentes](https://miriadax.net/web/desarrollo-de-competencias-docentes){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Desarrollo de software orientado a servicios y procesos de aprendizaje -wikis- (2011)](https://ocw.uca.es/course/view.php?id=65){:target="_blank" rel="nofollow,noreferrer"}
-* [Dibujo en el aula: enseñar un lenguaje mágico](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Didáctica de la Química Preuniversitaria](https://miriadax.net/web/didactica-de-la-quimica-preuniversitaria/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Diseño y Evaluación de Materiales Didácticos (2008)](http://ocw.um.es/cc.-sociales/curso){:target="_blank" rel="nofollow,noreferrer"}
-* [Educar para los Nuevos Medios: Competencia Mediática para Docente](https://miriadax.net/web/educar-para-los-nuevos-medios-competencia-mediatica-para-docentes-5-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Educación y Museos](https://miriadax.net/web/educacion-y-museos-3-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Educación y TIC (2014)](http://ocw.uv.es/ciencias-sociales-y-juridicas/educacion-y-tic/Course_listing){:target="_blank" rel="nofollow,noreferrer"}
 * [Enseñar STEM: mucho + que fórmulas](https://www.edx.org/course/ensenar-stem-mucho-que-formulas-javerianax-stemf001x){:target="_blank" rel="nofollow,noreferrer"}
 * [Escritura Creativa: Fundamentos de la narración](https://iedra.uned.es/courses/course-v1:UNED+Escr_Creat+2017/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Espacios Intermedios. Maneras de hacer cultura en la Posmodernidad II](https://iedra.uned.es/courses/course-v1:UNED+EspInter_II_02+2017_T3/about?utm_campaign=camp_20171107_nuevos_cursos){:target="_blank" rel="nofollow,noreferrer"}
-* [Estrategias Metodológicas para el Docente E-learning](https://miriadax.net/web/estrategias-metodologicas-para-el-docente-e-learning-5-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (Miriadax)
 * [Evaluador de aprendizaje digital](https://edutin.com/curso-de-evaluador-de-aprendizaje-digital-3343){:target="_blank" rel="nofollow,noreferrer"}
 * [Facilitador de aprendizaje digital](https://edutin.com/curso-de-facilitador-de-aprendizaje-digital-3344){:target="_blank" rel="nofollow,noreferrer"}
 * [Gamificación y Programación con Raspberry Pi](https://www.programoergosum.com/cursos-online/programacion-para-docentes/241-gamificacion-y-programacion-con-raspberry-pi/introduccion){:target="_blank" rel="nofollow,noreferrer"} (Programo Ergo Sum)
-* [Género, Ciencia y Salud](https://miriadax.net/web/genero-ciencia-y-salud/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Herramientas 2.0 Para el Docente](https://miriadax.net/web/herramientas-20-para-el-docente-4-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Herramientas TIC para docentes, profesionales y estudiantes](https://www.udemy.com/herramientas-tic-para-docentes-y-profesionales-de-la-salud){:target="_blank" rel="nofollow,noreferrer"}
 * [Implementación de tecnologías en la educación](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792){:target="_blank" rel="nofollow,noreferrer"}
 * [Iniciación a la robótica en Educación Primaria](https://www.programoergosum.com/cursos-online/programacion-para-docentes/501-iniciacion-a-la-robotica-en-educacion-primaria/introduccion){:target="_blank" rel="nofollow,noreferrer"} (Programo Ergo Sum)
@@ -70,13 +60,7 @@ img: /assets/img/paginas/recursos-profesorado.webp
 * [Metodología de la Investigación y Proyectos](https://www.udemy.com/metodologiadelainvestigacion){:target="_blank" rel="nofollow,noreferrer"}
 * [Metodología Didáctica para la Enseñanza de las CCSS (2013)](http://ocw.um.es/cc.-sociales/metodologia-didactica-para-la-ensenanza-de-las){:target="_blank" rel="nofollow,noreferrer"}
 * [Mini-vídeos docentes modulares: un elemento crítico en el diseño de un MOOC](https://iedra.uned.es/courses/course-v1:UNED+118MDM_01+2016_T4/about){:target="_blank" rel="nofollow,noreferrer"}
-* [Nuevos Escenarios de Aprendizaje Digital](https://miriadax.net/web/nuevos-escenarios-de-aprendizaje-digital-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Nuevas tecnologías aplicadas a la educación](https://ocw.ua.es/es/ingenieria-y-arquitectura/nuevas-tecnologias-aplicadas-a-la-educacion-2006.html){:target="_blank" rel="nofollow,noreferrer"}
-* [Pasos Básicos para un Aprendizaje Personalizado en el Aula](https://miriadax.net/web/pasos-basicos-para-un-aprendizaje-personalizado-en-el-aula-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Pedagogía Hospitalaria](https://miriadax.net/web/pedagogia-hospitalaria-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [Pensamiento Computacional en la Escuela](https://miriadax.net/web/pensamiento-computacional-en-la-escuela-2ed/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [Profesor 0.0: Compromiso de Educar](https://miriadax.net/web/profesor-00-compromiso-de-educar/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Profesor 0.0: Enseñar una Asignatura](https://miriadax.net/web/profesor-00-ensenar-una-asignatura/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Productividad para novelistas: escribe mejor y más rápido](https://www.udemy.com/productividad-novela){:target="_blank" rel="nofollow,noreferrer"}
 * [Programación y Robótica en Secundaria](https://www.programoergosum.com/cursos-online/programacion-para-docentes/233-programacion-y-robotica-en-secundaria-el-cable-amarillo-murcia/introduccion){:target="_blank" rel="nofollow,noreferrer"} (Programo Ergo Sum)
 * [Programación y Robótica](https://www.programoergosum.com/cursos-online/programacion-para-docentes/201-programacion-y-robotica-ceip-gines-garcia-mazarron-murcia/introduccion){:target="_blank" rel="nofollow,noreferrer"} (Programo Ergo Sum)

@@ -16,12 +16,9 @@ img: "/assets/img/paginas/profesiones-posibles.webp"
 
 ## Agricultura
 
-* [¿Cómo gestionar los riesgos agrarios y ambientales?](https://miriadax.net/web/como-gestionar-los-riesgos-agrarios-y-ambientales-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Cultivos vegetales orgánicos](https://edutin.com/curso-de-cultivos-vegetales-organicos-3336){:target="_blank" rel="nofollow,noreferrer"}
-* [Diseño agronómico del riego localizado](https://miriadax.net/web/diseno-agronomico-del-riego-localizado){:target="_blank" rel="nofollow,noreferrer"}
 * [Granjero en alimentación y ordeñamiento de vacas](https://edutin.com/curso-de-granjero-alimentacion-y-orde%C3%B1amiento-en-vacas-3335){:target="_blank" rel="nofollow,noreferrer"}
 * [Retos de la Agricultura y la Alimentación en el Siglo XXI](https://www.edx.org/course/retos-de-la-agricultura-y-la-upvalenciax-ra201x-0){:target="_blank" rel="nofollow,noreferrer"}
-* [Soluciones de ingeniería en la problemática energética del regadío](https://miriadax.net/web/soluciones-de-ingenieria-en-la-problematica-energetica-del-regadio-3-edicion){:target="_blank" rel="nofollow,noreferrer"}
 * [Técnico en cultivos vegetales](https://edutin.com/curso-de-tecnico-en-cultivos-vegetales-3337){:target="_blank" rel="nofollow,noreferrer"}
 * [Tecnología de Invernaderos (2011)](http://ocw.bib.upct.es/course/view.php?id=90){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -36,7 +33,6 @@ img: "/assets/img/paginas/profesiones-posibles.webp"
 
 ## Astronomía
 
-* [Desentrañar el firmamento: introducción a la astronomía](https://miriadax.net/web/desentranar-el-firmamento-introduccion-a-la-astronomia-4-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ciencias. Física & Química
 
@@ -51,10 +47,8 @@ img: "/assets/img/paginas/profesiones-posibles.webp"
 * [Fundamentos de Electromagnetismo para Ingeniería](https://www.edx.org/course/fundamentos-de-electromagnetismo-para-upvalenciax-ffi101-2x-1){:target="_blank" rel="nofollow,noreferrer"}
 * [Fundamentos de Mecánica para Ingeniería](https://www.edx.org/course/fundamentos-de-mecanica-para-ingenieria-upvalenciax-ffi101-1x-1){:target="_blank" rel="nofollow,noreferrer"}
 * [Introducción a Inventarios y Logística de Almacenamiento](https://www.udemy.com/intro-inventarios-logisticala){:target="_blank" rel="nofollow,noreferrer"}
-* [Introducción a la ciencia de BIOmateriales](https://miriadax.net/web/introduccion-a-la-ciencia-de-biomateriales-6-edicion/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Introducción a la Estructura de la Materia](https://www.edx.org/course/introduccion-la-estructura-de-la-materia-upvalenciax-iq101-1x-2){:target="_blank" rel="nofollow,noreferrer"}
 * [Introducción a las ondas gravitacionales](https://www.edx.org/course/introduccion-las-ondas-gravitacionales-uncordobax-cs001x){:target="_blank" rel="nofollow,noreferrer"}
-* [Introducción a los biomateriales](https://miriadax.net/web/introduccion-a-los-biomateriales/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Microcápsulas: Aplicación y Caracterización](https://www.edx.org/course/microcapsulas-aplicacion-y-upvalenciax-mcap101x-0){:target="_blank" rel="nofollow,noreferrer"}
 * [Reacciones Químicas y Cálculos Estequiométricos](https://www.edx.org/course/reacciones-quimicas-y-calculos-upvalenciax-iq101-4x-1){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -78,9 +72,7 @@ img: "/assets/img/paginas/profesiones-posibles.webp"
 * [Cocina Creativa](https://www.udemy.com/cocina-creativa){:target="_blank" rel="nofollow,noreferrer"}
 * [Cocina Creativa bis](https://edutin.com/curso-de-cocina-creativa-3578){:target="_blank" rel="nofollow,noreferrer"}
 * [Cocina Internacional](https://edutin.com/curso-de-cocina-internacional-basico-3388){:target="_blank" rel="nofollow,noreferrer"}
-* [Cocina Tradicional Mexicana](https://miriadax.net/web/cocina-tradicional-mexicana/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Ensaladas, entrantes y primeros platos](https://edutin.com/curso-de-ensaladas-entrantes-y-primeros-platos-3386){:target="_blank" rel="nofollow,noreferrer"}
-* [Introducción a la cocina al vacío de El Celler de Can Roca](https://miriadax.net/web/introduccion-a-la-cocina-al-vacio-de-el-celler-de-can-roca){:target="_blank" rel="nofollow,noreferrer"}
 * [Latter Art, paso a paso](https://edutin.com/curso-de-Arte-Latte-2336){:target="_blank" rel="nofollow,noreferrer"}
 * [Mini-Menú de cocina sana](https://www.udemy.com/mini-menu-cocina-sana){:target="_blank" rel="nofollow,noreferrer"}
 * [Paella: la receta original paso a paso](https://www.udemy.com/paella-de-marisco){:target="_blank" rel="nofollow,noreferrer"}
@@ -128,7 +120,6 @@ img: "/assets/img/paginas/profesiones-posibles.webp"
 
 * [Claves jurídicas para la gestión de la diversidad en las aulas](https://iedra.uned.es/courses/UNED/ClavJur001/2016_T4/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Curso de Especialista en Protección de Datos](https://tv.um.es/canal?serie=13761){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2014)
-* [Derechos de autor](https://miriadax.net/web/derechos-de-autor-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Derechos de los reclusos](https://iedra.uned.es/courses/UNED/105/2015T3/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Glosario de Derecho](https://iedra.uned.es/courses/OCW/GLO_DER130/2016_T4/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Teoría del Derecho](https://iedra.uned.es/courses/UNED/102/2015_T4/about){:target="_blank" rel="nofollow,noreferrer"}
@@ -156,7 +147,6 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Actividad Física para la Salud (2011)](http://ocw.um.es/cc.-sociales/actividad-fisica-para-la-salud-1){:target="_blank" rel="nofollow,noreferrer"}
 * [Deporte y Acción Tutorial (2016)](http://ocw.um.es/cc.-sociales/deporte-y-accion-tutorial-1){:target="_blank" rel="nofollow,noreferrer"}
 * [Interacción Persona-Computador. Diseño para Todos y Productos de Apoyo](https://iedra.uned.es/courses/course-v1:UNED-ONCE+InterPerCom02+2017/about){:target="_blank" rel="nofollow,noreferrer"}
-* [Introducción a las instalaciones eléctricas](https://miriadax.net/web/introduccion-instalaciones-electricas/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Salto largo completo](https://edutin.com/curso-de-salto-largo-769){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Electrónica
@@ -165,13 +155,11 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Automatización (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/automatizacion-2010.html){:target="_blank" rel="nofollow,noreferrer"}
 * [Diseño electrónico con Microcontroladores ARM C/C++](https://www.udemy.com/course/microcontroladores-101/){:target="_blank" rel="nofollow,noreferrer"}
 * [Esquemas Multifilares](https://www.udemy.com/course/esquemas-multifilares-con-cypelec-multiline/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Electricidad: conceptos básicos y aplicaciones](https://miriadax.net/web/electricidad-conceptos-basicos-y-aplicaciones-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Electricidad Básica](https://www.udemy.com/course/curso-de-electricidad/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Electricidad Industrial](https://www.youtube.com/playlist?list=PLJSA24PELINLVzINpVjhlmx2JeofN9pFj){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2014)
 * [Electricidad y circuitos electrónicos](https://www.youtube.com/playlist?list=PLQy0-ozU-VO2Mt5rXqLScaeZvn_Z2Coa_){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2014)
 * [Electricidad y magnetismo](https://www.youtube.com/playlist?list=PL6XxEfRDa92FzZQso8wskon6FiC9oU9Cr) (Youtube) (2018)
 * [Fundamentos físicos de la ingieniería](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-fisicos-de-la-ingenieria-i-2010.html){:target="_blank" rel="nofollow,noreferrer"}
-* [Nociones Básicas de Sistemas Eléctricos e Introducción a la Evolución de Proyectos de Energía](https://miriadax.net/web/nociones-basicas-de-sistemas-electricos-e-introduccion-a-la-evaluacion-de-proyectos-de-energia/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Open BIM Infraestrúcturas de electrificación](https://www.udemy.com/course/open-bim-infraestructuras-de-electrificacion/)
 * [Proyecto de Instalaciones Eléctricas](https://www.udemy.com/course/proyecto-instalaciones-electricas-con-cypelec-core/)
 * [Reglamento técnico de instalaciones eléctricas](https://www.udemy.com/course/cypelec-retie-reglamento-tecnico-de-instalaciones-electricas/)
@@ -200,7 +188,6 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Claves contemporáneas de China](https://iedra.uned.es/courses/course-v1:UNED+Clav_China_001+2017/about){:target="_blank" rel="nofollow,noreferrer"}
 * [La gran divergencia: la no-Europa antes de 1800](https://iedra.uned.es/courses/UNED/113/2015_T4/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Los orígenes históricos y culturales de la Unión Europea](https://iedra.uned.es/courses/course-v1:UNED+ORIG_UE004+2017_T4/about?utm_campaign=camp_20171107_nuevos_cursos){:target="_blank" rel="nofollow,noreferrer"}
-* [Navarra: historia y cultura](https://miriadax.net/web/navarra-historia-y-cultura/inicio){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Humanidades
 
@@ -266,32 +253,19 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 
 ## Medio Ambiente
 
-* [¿Cómo desarrollar sistemas sostenibles de agua y saneamiento rural? Nociones básicas y casos prácticos](https://miriadax.net/web/como-desarrollar-sistemas-sostenibles-de-agua-y-saneamiento-rural-2-edicion/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [Análisis geográfico del riesgo natural: percibir, planificar y gestionar la incertidumbre](https://miriadax.net/web/analisis-geografico-del-riesgo-natural-percibir-planificar-y-gestionar-la-incertidumbre-2-edicion/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [Cambio Climático: evidencias, causas socioeconómicas y soluciones](https://miriadax.net/web/cambio-climatico-evidencias-causas-socioeconomicas-y-soluciones-2-edicion-consulta/){:target="_blank" rel="nofollow,noreferrer"}
-* [Ciudades Verdes: Naturación y Agricultura Urbana (3.ª Edición)](https://miriadax.net/web/ciudades-verdes-naturacion-y-agricultura-urbana-curso-3-edicion/inicio){:target="_blank" rel="nofollow,noreferrer"} (2020)
 * [Desarrollo sostenible en Cantabria (2012)](https://ocw.unican.es/course/view.php?id=138){:target="_blank" rel="nofollow,noreferrer"}
 * [Fuentes de información geográfica para SIGs ambientales](https://www.udemy.com/fuentes-de-informacion-geografica-para-sigs-ambientales){:target="_blank" rel="nofollow,noreferrer"}
-* [Gestión del Agua: Introducción al tratamiento de aguas residuales](https://miriadax.net/web/gestion-del-agua-introduccion-al-tratamiento-de-aguas-residuales-3-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Hidraúlica de canales de ingieniería ambiental](https://edutin.com/curso-de-hidraulica-de-canales-en-ingenieria-ambiental-3856){:target="_blank" rel="nofollow,noreferrer"}
 * [Los espacios agrarios y forestales (2014)](https://ocw.unican.es/course/view.php?id=81){:target="_blank" rel="nofollow,noreferrer"}
 * [Medio Ambiente y Sostenibilidad (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/medio-ambiente-y-sostenibilidad/Course_listing){:target="_blank" rel="nofollow,noreferrer"}
 * [Medio Ambiente. Valor constitucional y protección penal (2011)](https://ocw.unican.es/course/view.php?id=109){:target="_blank" rel="nofollow,noreferrer"}
 * [Objetivos del desarrollo sostenible](https://www.udemy.com/objetivos-de-desarrollo-sostenible){:target="_blank" rel="nofollow,noreferrer"}
-* [Responsabilidad Medioambiental de la Empresa](https://miriadax.net/web/responsabilidad-medioambiental-en-la-empresa-4-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [Tecnologías de lucha contra el cambio climático: Almacenamiento geológico de CO2](https://miriadax.net/web/tecnologias-de-lucha-contra-el-cambio-climatico-almacenamiento-geologico-de-co2-5-edicion/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [TREENNOVA: De naturaleza, emprendimiento y sostenibilidad](https://miriadax.net/web/treennova-de-naturaleza-emprendimiento-y-sostenibilidad-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Eficiencia Energética
 
 * [CYPETHERM. Diseño de iluminación](https://www.udemy.com/course/cypelux-cte-diseno-de-iluminacion/){:target="_blank" rel="nofollow,noreferrer"}
 * [CYPETHERM. Mejoras en Eficiencia Energética](https://www.udemy.com/course/cypetherm-improvement-plus/){:target="_blank" rel="nofollow,noreferrer"}
 * [CYPETHERM.HE Plus](https://www.udemy.com/course/cypetherm-he-plus/){:target="_blank" rel="nofollow,noreferrer"}
-* [Eficiencia energética en instalaciones de agua](https://miriadax.net/web/eficiencia-energetica-en-instalaciones-de-agua){:target="_blank" rel="nofollow,noreferrer"}
-* [Eficiencia hidráulica en redes de agua](https://miriadax.net/web/eficiencia-energetica-en-instalaciones-de-agua){:target="_blank" rel="nofollow,noreferrer"}
-* [Energía y Ciudad: Hacia la Transición Energética](https://miriadax.net/web/energia-y-ciudad-hacia-la-transicion-energetica-curso-2-edicion/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [Mapeado de energías renovables para una red de recursos distribuidos](https://miriadax.net/web/mapeado-de-energias-renovables-para-una-red-de-recursos-distribuidos){:target="_blank" rel="nofollow,noreferrer"}
-* [Sistemas de gestión energética SGEn, basados en la Norma Internacional ISO 50001](https://miriadax.net/web/mapeado-de-energias-renovables-para-una-red-de-recursos-distribuidos){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Motivación
 
@@ -299,13 +273,11 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Como ser feliz: Ensayos prácticos para vivir en el momento](https://www.udemy.com/como-ser-feliz-vida){:target="_blank" rel="nofollow,noreferrer"}
 * [Cómo ser feliz y descubrir tu mayor pasión](https://www.udemy.com/como-ser-feliz-y-descubrir-tu-mayor-pasion){:target="_blank" rel="nofollow,noreferrer"}
 * [Como ser más feliz y cambiar tu vida](https://www.udemy.com/como-ser-mas-feliz-y-cambiar-tu-vida){:target="_blank" rel="nofollow,noreferrer"}
-* [Design Thinking para tod@s](https://miriadax.net/web/design-thinking-para-tod-s-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Inteligencia Emocional](https://www.udemy.com/curso-inteligencia-emocional){:target="_blank" rel="nofollow,noreferrer"}
 * [Las 3 claves básicas para crear tus sueños](https://www.udemy.com/las-3-claves-basicas-para-crear-tus-suenos){:target="_blank" rel="nofollow,noreferrer"}
 * [Linkedin: Consigue el trabajo de tus sueños](https://www.udemy.com/linkedin-consigue-el-trabajo-de-tus-suenos){:target="_blank" rel="nofollow,noreferrer"}
 * [Psicología de la felicidad: 5 consejos demostrados](https://www.udemy.com/psicologia-de-la-felicidad-5-consejos-demostrados){:target="_blank" rel="nofollow,noreferrer"}
 * [Sé feliz, transforma tu vida en un camino lleno de triunfos](https://www.udemy.com/toma-el-control-de-tu-vida-realizate)
-* [Técnicas de Creatividad](https://miriadax.net/web/tecnicas-de-creatividad-6-edicion-){:target="_blank" rel="nofollow,noreferrer"}
 * [Una vida con proposito: tres pasos y logra tu proposito de vida](https://www.udemy.com/una-vida-con-proposito-3-pasos-para-descubrir-tu-proposito){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Música
@@ -331,7 +303,6 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Emprender en el ámbito de las aplicaciones móviles](https://tv.um.es/canal?cod=a1b1c2d21&serie=11071){:target="_blank" rel="nofollow,noreferrer"}
 * [Emprendimiento con el campo de juego para emprender](https://www.udemy.com/emprendimiento-con-el-campo-de-juego-para-emprender){:target="_blank" rel="nofollow,noreferrer"}
 * [Emprendimiento e Innovación Social](https://iedra.uned.es/courses/course-v1:UNED+EmpSoc_03+2017/about){:target="_blank" rel="nofollow,noreferrer"}
-* [Emprendimiento Social: pon tu proyecto en marcha](https://miriadax.net/web/emprendimiento-social-pon-tu-proyecto-en-marcha-4-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Empresas individuales en mercados de subsistencia](https://www.udemy.com/empresas-individuales-en-mercados-de-subsistencia){:target="_blank" rel="nofollow,noreferrer"}
 * [Fundamentos TIC para profesionales de negocios: Programación](https://www.edx.org/es/course/fundamentos-tic-para-profesionales-de-negocios-p-2){:target="_blank" rel="nofollow,noreferrer"}
 * [Gana un sueldo trabajando desde casa y despide a tu jefe](https://www.udemy.com/ganar-dinero-desde-casa-trabajando-freelance){:target="_blank" rel="nofollow,noreferrer"}
@@ -369,7 +340,6 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 
 ## Salud & nutrición
 
-* [Alimentación Saludable](https://miriadax.net/web/alimentacion-saludable){:target="_blank" rel="nofollow,noreferrer"}
 * [Anatomía de cabeza y cuello](https://edutin.com/curso-de-Anatomia-Cabeza-y-Cuello-2063){:target="_blank" rel="nofollow,noreferrer"}
 * [Anatomía de miembro superior](https://edutin.com/curso-de-Anatomia-Miembro-superior-2066){:target="_blank" rel="nofollow,noreferrer"}
 * [Aprenda como mejorar su postura para la vida laboral](https://www.udemy.com/ergonomia-para-la-vida-laboral){:target="_blank" rel="nofollow,noreferrer"}
@@ -382,7 +352,6 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Las bases del Chi Kung (Qi gong)](https://www.udemy.com/las-bases-del-chi-kung-qi-gong){:target="_blank" rel="nofollow,noreferrer"}
 * [Neonatología](https://edutin.com/curso-de-neonatologia-3585){:target="_blank" rel="nofollow,noreferrer"}
 * [Nutrición Deportiva](https://edutin.com/curso-de-nutricion-deportiva-3497){:target="_blank" rel="nofollow,noreferrer"}
-* [Pandemias: nuevas infecciones virales](https://miriadax.net/web/pandemias-nuevas-infecciones-virales-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Patologías hematológicas](https://edutin.com/curso-de-patologias-hematologicas-3584){:target="_blank" rel="nofollow,noreferrer"}
 * [Primeros Auxilios Básicos](https://edutin.com/curso-de-primeros-auxilios-3334){:target="_blank" rel="nofollow,noreferrer"}
 * [Promoción de la salud. Curso para profesores en urgencias y emergencias sanitarias](https://iedra.uned.es/courses/course-v1:UNED+UrgSan_002+2017/about){:target="_blank" rel="nofollow,noreferrer"}
@@ -391,7 +360,6 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Reumatología básico](https://edutin.com/curso-de-reumatologia-basico-3588){:target="_blank" rel="nofollow,noreferrer"}
 * [Signos radiológicos de enfermedades articulares y oséas](https://edutin.com/curso-de-signos-radiologicos-de-enfermedades-articulares-1294){:target="_blank" rel="nofollow,noreferrer"}
 * [Soporte Vital Básico - RCP](https://www.udemy.com/soporte-vital-basico){:target="_blank" rel="nofollow,noreferrer"}
-* [Triunfa con SEP: modelo para mejorar la salud, los negocios y la vida](https://miriadax.net/web/triunfa-con-sep-el-modelo-para-mejorar-la-salud-los-negocios-y-la-vida-5-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Vendajes funcionales y kineosiotaping](https://edutin.com/curso-de-vendajes-funcionales-y-kinesiotaping-1331){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Servicios
@@ -412,14 +380,10 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Educación vial: sustancias nocivas en la conducción](https://iedra.uned.es/courses/UNED/ed_sustancias_131/2016_T3/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Emprendimiento e innovación social](https://edutin.com/curso-de-Emprendimiento-e-innovacion-social-795){:target="_blank" rel="nofollow,noreferrer"}
 * [Formación ciudadana y liderazgo](https://www.udemy.com/formacion-ciudadana-y-liderazgo){:target="_blank" rel="nofollow,noreferrer"}
-* [Fundamentos de la Seguridad del Paciente](https://miriadax.net/web/fundamentos-de-la-seguridad-del-paciente/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Humanización en la asistencia en situaciones de Duelo](https://www.udemy.com/humanizacion-en-la-asistencia-en-situaciones-de-duelo){:target="_blank" rel="nofollow,noreferrer"}
 * [Igualdad de género y diversidad sexual](https://www.udemy.com/igualdad-de-genero-y-diversidad-sexual){:target="_blank" rel="nofollow,noreferrer"}
 * [Informática enfocada en Estudios del Trabajo Social (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/informatica-para-trabajo-social-2007.html){:target="_blank" rel="nofollow,noreferrer"}
-* [La seguridad del paciente](https://miriadax.net/web/la-seguridad-del-paciente-6-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
-* [La seguridad del paciente en el domicilio](https://miriadax.net/web/la-seguridad-del-paciente-en-el-domicilio-6-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Mini-Yoga: para la salud desde la Perezosa](https://www.udemy.com/mini-yoga-para-la-salud-desde-la-perezosa){:target="_blank" rel="nofollow,noreferrer"}
-* [Mujeres, género y post-conflicto](https://miriadax.net/web/mujeres-genero-y-post-conflicto0/inicio){:target="_blank" rel="nofollow,noreferrer"}
 * [Nutrición Inteligente: Fundamentos](https://www.udemy.com/nutricion-inteligente-fundamentos){:target="_blank" rel="nofollow,noreferrer"}
 * [Organizaciones No Lucrativas en la Sociedad-Red: análisis y retos](https://iedra.uned.es/courses/course-v1:UNED+ONL_002+2017/about){:target="_blank" rel="nofollow,noreferrer"}
 * [Presentacioens efectivas para ONG´s](https://www.udemy.com/presentaciones-efectivas){:target="_blank" rel="nofollow,noreferrer"}

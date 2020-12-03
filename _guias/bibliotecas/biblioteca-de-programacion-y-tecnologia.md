@@ -496,98 +496,98 @@ Ver los mejores libros de Bases de Datos: https://ciberninjas.com/libros-bases-d
 
 ## **Libros Gratis de Seguridad y Criptografía**
 
-* [Activismo digital y telemático. Poder y contrapoder en el ciberespacio (2003)](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Activismo_digital_y_telemC3A1tico.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Algunas consideraciones sobre seguridad de la Información en el Proyecto Europe de Historia Clínica Digital - Proyecto epSOS](https://dialnet.unirioja.es/servlet/articulo?codigo=3016235){:target="_blank" rel="nofollow,noreferrer"} (2009, Dialnet) (PDF)
-* [Análisis y modelado de amenazas](https://fortinux.com/wp-content/uploads/2010/12/Analisis-y-Modelado-de-Amenazas.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Ciber-Resiliencia: Aproximación a un marco de medición](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_ciber_resiliencia_marco_medicion.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Ciberseguridad en las Comunicaciones Inalámbricas en Entornos Industriales](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_ciberseguridad_comunicaciones_inalambricas_entornos_industriales.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Creando Reportes HTML en Powershell](https://leanpub.com/why-powershell-spanish?){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Detección de ATPs](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/deteccion_apt.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Determinación de aspectos clave de la seguridad de la información, procesos informáticos y recursos tecnológicos](https://revistaespacios.com/a19v40n30/a19v40n30p22.pdf){:target="_blank" rel="nofollow,noreferrer"}
-* [Diseño y configuración de IPS, IDS y SIEM en Sistemas de Control Industrial](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_diseno_configuracion_ips_ids_siem_en_sci.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Estudio de viabilidad, oportunidad y diseño de una red de centros de excelencia en I+D+I en ciberseguridad](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/informe_resumen_estudio_red_centros_excelencia.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Guía básica de protección de Infraestructuras Críticas: el puesto de operador](https://www.certsi.es/sites/default/files/contenidos/guias/doc/int_cnpic_proteccion_puesto_operador.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Guía básica de seguridad en Magento](https://lookaside.fbsbx.com/file/cert_guia_seguridad_magento.pdf?token=AWyxSdV6QAT6SQ0O-_2ABowYXiWnZqZfunc0rB84pZYuOrk6b9EN3U-GYN8fksD9PTm9d9iNjuBsMXw_DiToS_9L7CNKBQMpJNWw_3hA23mcQKv6nLoHN13_hI4Vb5WMNoXR3wIjP8IDxaK9JyAA5pq98PlHa_GBGKQBf_kfbx4lNg){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Guía básica para la securización del gestor de contenidos Joomla!](https://lookaside.fbsbx.com/file/guia__securizando_joomla.pdf?token=AWy20237tPTolTeBWSesHrc4VqD8CFu0OMfsWzysWqd3d3RNJrytmO0Vp5uZqA3-Z4wLIpDPe9jus7r6l4FAdFU2ZA5zuH21CbfQ5qDFemvZplhXR2xZ4T2eTdRUFKf3oZqLhp3EIPfuK_oCJEWW3maBCMYQwEnMtEuYtp1Sx6a3lQ){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Guía de Seguridad en Protocolos Industriales – Smart Grid](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_seguridad_protocolos_industriales_smartgrid.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Guia de Seguridad en servicios DNS](https://www.certsi.es/sites/default/files/contenidos/guias/doc/guia_de_seguridad_en_servicios_dns.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Guía de toma de evidencias en entornos Windows](https://www.certsi.es/guias-y-estudios/guias/toma-evidencias-windows){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Hacking: fuzzing, análisis y exploit](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/02.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Hacklabs ensamblaje colectivo de la tecnopolítica como
-realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Identificación y reporte de incidentes de seguridad para operadores estratégicos: Guía básica de protección de Infraestructuras Críticas](https://www.certsi.es/guias-y-estudios/guias/inteco-publica-guia-reporte-incidentes-iicc){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Principales vulnerabilidades de los sistemas de automatización industrial y posibles acciones para evitar ciberataques](https://www.ehu.eus/documents/3444171/4484751/121.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Protocolos y seguridad de red en SCI](https://www.certsi.es/sites/default/files/contenidos/guias/doc/incibe_protocolos_seguridad_red_sci.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Seguridad del Protocolo SSL / TLS: Ataques criptoanalíticos modernos](https://github.com/mindcrypt/catalogo/blob/master/Book.%20Seguridad%20en%20el%20protocolo%20SSL-TLS.%20Ataques%20criptoanaliticos%20modernos.%20Dr.%20Alfonso%20Mu%C3%B1oz.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020)
-* [Seguridad en aplicaciones web](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/33721/6/isidoro_ciervaTFM0614memoria.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Seguridad en Redes Wifi](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-de-seguridad-en-redes-wifi.pdf) (PDF)
-* [Seguridad en servicios de almacenamiento: Análisis de Dropbox y Mega](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/incibe_seguridad_almacenamiento_dropbox_mega.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Situación del malware para Android](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/situacion_del_malware_para_android.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Taxonomía de ciberejercicios](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/incibe_taxonomia_ciberejercicios.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Telegram: sorteando el protocolo de autentificación](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_telegram_es.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Tendencias en el mercado de la Ciberseguridad (2016)](https://www.incibe.es/sites/default/files/estudios/tendencias_en_el_mercado_de_la_ciberseguridad.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Activismo digital y telemático. Poder y contrapoder en el ciberespacio (2003)](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Activismo_digital_y_telemC3A1tico.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Algunas consideraciones sobre seguridad de la Información en el Proyecto Europe de Historia Clínica Digital - Proyecto epSOS](https://dialnet.unirioja.es/servlet/articulo?codigo=3016235){:target="_blank" rel="nofollow,noreferrer"} (2009, Dialnet) (PDF)
+1. [Análisis y modelado de amenazas](https://fortinux.com/wp-content/uploads/2010/12/Analisis-y-Modelado-de-Amenazas.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Ciber-Resiliencia: Aproximación a un marco de medición](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_ciber_resiliencia_marco_medicion.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Ciberseguridad en las Comunicaciones Inalámbricas en Entornos Industriales](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_ciberseguridad_comunicaciones_inalambricas_entornos_industriales.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Creando Reportes HTML en Powershell](https://leanpub.com/why-powershell-spanish?){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Curso Hacker](http://cursohacker.es/){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Detección de ATPs](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/deteccion_apt.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Determinación de aspectos clave de la seguridad de la información, procesos informáticos y recursos tecnológicos](https://revistaespacios.com/a19v40n30/a19v40n30p22.pdf){:target="_blank" rel="nofollow,noreferrer"}
+1. [Diseño y configuración de IPS, IDS y SIEM en Sistemas de Control Industrial](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_diseno_configuracion_ips_ids_siem_en_sci.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Estudio de viabilidad, oportunidad y diseño de una red de centros de excelencia en I+D+I en ciberseguridad](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/informe_resumen_estudio_red_centros_excelencia.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Guía básica de protección de Infraestructuras Críticas: el puesto de operador](https://www.certsi.es/sites/default/files/contenidos/guias/doc/int_cnpic_proteccion_puesto_operador.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Guía básica de seguridad en Magento](https://lookaside.fbsbx.com/file/cert_guia_seguridad_magento.pdf?token=AWyxSdV6QAT6SQ0O-_2ABowYXiWnZqZfunc0rB84pZYuOrk6b9EN3U-GYN8fksD9PTm9d9iNjuBsMXw_DiToS_9L7CNKBQMpJNWw_3hA23mcQKv6nLoHN13_hI4Vb5WMNoXR3wIjP8IDxaK9JyAA5pq98PlHa_GBGKQBf_kfbx4lNg){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Guía básica para la securización del gestor de contenidos Joomla!](https://lookaside.fbsbx.com/file/guia__securizando_joomla.pdf?token=AWy20237tPTolTeBWSesHrc4VqD8CFu0OMfsWzysWqd3d3RNJrytmO0Vp5uZqA3-Z4wLIpDPe9jus7r6l4FAdFU2ZA5zuH21CbfQ5qDFemvZplhXR2xZ4T2eTdRUFKf3oZqLhp3EIPfuK_oCJEWW3maBCMYQwEnMtEuYtp1Sx6a3lQ){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Guía de Seguridad en Protocolos Industriales – Smart Grid](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_seguridad_protocolos_industriales_smartgrid.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Guia de Seguridad en servicios DNS](https://www.certsi.es/sites/default/files/contenidos/guias/doc/guia_de_seguridad_en_servicios_dns.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Guía de toma de evidencias en entornos Windows](https://www.certsi.es/guias-y-estudios/guias/toma-evidencias-windows){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Hacking: fuzzing, análisis y exploit](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/02.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Hacklabs ensamblaje colectivo de la tecnopolítica como realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Identificación y reporte de incidentes de seguridad para operadores estratégicos: Guía básica de protección de Infraestructuras Críticas](https://www.certsi.es/guias-y-estudios/guias/inteco-publica-guia-reporte-incidentes-iicc){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Principales vulnerabilidades de los sistemas de automatización industrial y posibles acciones para evitar ciberataques](https://www.ehu.eus/documents/3444171/4484751/121.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Protocolos y seguridad de red en SCI](https://www.certsi.es/sites/default/files/contenidos/guias/doc/incibe_protocolos_seguridad_red_sci.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Seguridad del Protocolo SSL / TLS: Ataques criptoanalíticos modernos](https://github.com/mindcrypt/catalogo/blob/master/Book.%20Seguridad%20en%20el%20protocolo%20SSL-TLS.%20Ataques%20criptoanaliticos%20modernos.%20Dr.%20Alfonso%20Mu%C3%B1oz.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2020)
+1. [Seguridad en aplicaciones web](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/33721/6/isidoro_ciervaTFM0614memoria.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Seguridad en Redes Wifi](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-de-seguridad-en-redes-wifi.pdf) (PDF)
+1. [Seguridad en servicios de almacenamiento: Análisis de Dropbox y Mega](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/incibe_seguridad_almacenamiento_dropbox_mega.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Situación del malware para Android](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/situacion_del_malware_para_android.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Taxonomía de ciberejercicios](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/incibe_taxonomia_ciberejercicios.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Telegram: sorteando el protocolo de autentificación](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_telegram_es.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Tendencias en el mercado de la Ciberseguridad (2016)](https://www.incibe.es/sites/default/files/estudios/tendencias_en_el_mercado_de_la_ciberseguridad.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 ## **Libros Gratis de Criptografía**
 
-* [Alnum: sistema de codificación de caracteres alfanuméricos](https://www.researchgate.net/publication/333967818_Alnum_alphanumeric_character_encoding_system_CIDSI_2018){:target="_blank" rel="nofollow,noreferrer"}
-* [Sistema de Autenticación por credenciales criptográficas disociadas](https://www.researchgate.net/publication/333967679_SACRED_-_Sistema_de_Autenticacion_por_credenciales_criptograficas_disociadas_Authentication_system_by_dissociation_of_cryptographic_credentials_CIDSI_2018){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2018)
+1. [Alnum: sistema de codificación de caracteres alfanuméricos](https://www.researchgate.net/publication/333967818_Alnum_alphanumeric_character_encoding_system_CIDSI_2018){:target="_blank" rel="nofollow,noreferrer"}
+1. [Sistema de Autenticación por credenciales criptográficas disociadas](https://www.researchgate.net/publication/333967679_SACRED_-_Sistema_de_Autenticacion_por_credenciales_criptograficas_disociadas_Authentication_system_by_dissociation_of_cryptographic_credentials_CIDSI_2018){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2018)
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Sistemas Operativos**
 
-* [Android Lollipop 5.0. Guía de inicio rápido](https://www.compromovil.es/manuales/Manual_de_Instrucciones_en_Espa%C3%B1ol_Android_5_0_Lollypop.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Aprendemos a manejar el computador (2009)](https://www.iered.org/archivos/Publicaciones_Libres/2009_Aprendamos_Manejo_Computador/Manejo-Computador_Texto_v4.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [De tractores y routers. Tecnosoberanía, Seguridad, Obsolescencia Programada y Software Libre](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/03.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Fundamentos de Sistemas Operativos](https://sistop.org/pdf/sistemas_operativos.pdf){:target="_blank" rel="nofollow,noreferrer"} - Gunnar Wolf et al (PDF)
-* [Iniciación al software libre: OpenOffice](https://softlibre.unizar.es/manuales/softwarelibre/Manual_zaragoza_alta.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Mantenimiento de computadoras (2011)](https://www.iered.org/archivos/Publicaciones_Libres/2011_Mantenimiento_Computadores/MantenimientoDeComputadores.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Sistemas Operativos](https://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF){:target="_blank" rel="nofollow,noreferrer"} - Dr. David Luis la Red (PDF)
-* [Sistemas operativos en las netbooks: GNU/Linux y Microsoft Windows.](https://bibliotecadigital.educ.ar/uploads/contents/M-SistemasoperataivosVF10.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Android Lollipop 5.0. Guía de inicio rápido](https://www.compromovil.es/manuales/Manual_de_Instrucciones_en_Espa%C3%B1ol_Android_5_0_Lollypop.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Aprendemos a manejar el computador (2009)](https://www.iered.org/archivos/Publicaciones_Libres/2009_Aprendamos_Manejo_Computador/Manejo-Computador_Texto_v4.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [De tractores y routers. Tecnosoberanía, Seguridad, Obsolescencia Programada y Software Libre](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/03.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Fundamentos de Sistemas Operativos](https://sistop.org/pdf/sistemas_operativos.pdf){:target="_blank" rel="nofollow,noreferrer"} - Gunnar Wolf et al (PDF)
+1. [Iniciación al software libre: OpenOffice](https://softlibre.unizar.es/manuales/softwarelibre/Manual_zaragoza_alta.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Mantenimiento de computadoras (2011)](https://www.iered.org/archivos/Publicaciones_Libres/2011_Mantenimiento_Computadores/MantenimientoDeComputadores.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Sistemas Operativos](https://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF){:target="_blank" rel="nofollow,noreferrer"} - Dr. David Luis la Red (PDF)
+1. [Sistemas operativos en las netbooks: GNU/Linux y Microsoft Windows.](https://bibliotecadigital.educ.ar/uploads/contents/M-SistemasoperataivosVF10.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ### iPhone
 
-* [Cómo Copiar el Código Fuente de Ejemplo del iBook a Xcode](https://applecoding.com/pdf/copiar-codigo-fuente-ibook.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Cómo Copiar el Código Fuente de Ejemplo del iBook a Xcode](https://applecoding.com/pdf/copiar-codigo-fuente-ibook.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 ## Software
 
 ## Consola y Editores de Texto
 
-* [¿Por qué Powershell?](https://leanpub.com/big-book-of-powershell-error-handling-spanish?){:target="_blank" rel="nofollow,noreferrer"}
-* [El Gran Libro de Manejo de Errores en Powershell](https://leanpub.com/big-book-of-powershell-error-handling-spanish?){:target="_blank" rel="nofollow,noreferrer"}
-* [El Gran Libro de Trucos de Powershell](https://leanpub.com/big-book-of-powershell-gotchas-spanish?){:target="_blank" rel="nofollow,noreferrer"}
-* [Secretos de Powershell Remoting](https://leanpub.com/secrets-of-powershell-remoting-spanish?){:target="_blank" rel="nofollow,noreferrer"}
+1. [¿Por qué Powershell?](https://leanpub.com/big-book-of-powershell-error-handling-spanish?){:target="_blank" rel="nofollow,noreferrer"}
+1. [El Gran Libro de Manejo de Errores en Powershell](https://leanpub.com/big-book-of-powershell-error-handling-spanish?){:target="_blank" rel="nofollow,noreferrer"}
+1. [El Gran Libro de Trucos de Powershell](https://leanpub.com/big-book-of-powershell-gotchas-spanish?){:target="_blank" rel="nofollow,noreferrer"}
+1. [Secretos de Powershell Remoting](https://leanpub.com/secrets-of-powershell-remoting-spanish?){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Anotaciones y Transcripciones
 
-* [Introducción a ELAN](https://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Manual de Procesamiento de Archivos ELAN](https://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"}
+1. [Introducción a ELAN](https://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Manual de Procesamiento de Archivos ELAN](https://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## 🗞 Revistas
 
-* [AgoraChain Revista Blockchain](https://agorachain.org/magazine/) (PDF) (12+1 Ediciones) (2019)
-* [Avances en Sistemas e Informática](https://www.redalyc.org/revista.oa?id=1331){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Bits de Ciencia](https://www.dcc.uchile.cl/bits-de-ciencia){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Ciencia y Tecnología](https://dialnet.unirioja.es/servlet/revista?codigo=22392){:target="_blank" rel="nofollow,noreferrer"}
-* [Ciencias de la Información (8 revistas)](https://www.redalyc.org/area.oa?id=23&tipo=coleccion&bJats=1){:target="_blank" rel="nofollow,noreferrer"}
-* [Computación y Sistemas](https://www.redalyc.org/revista.oa?id=615){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Espacios](https://www.revistaespacios.com/indice.html){:target="_blank" rel="nofollow,noreferrer"} (PDF) (HTML)
-* [Estudios Urbanos y Ciencias Sociales](https://www2.ual.es/urbs/index.php/urbs/issue/archive){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Gerencia Tecnológica Informática (2015)](https://dialnet.unirioja.es/servlet/revista?codigo=11969){:target="_blank" rel="nofollow,noreferrer"}
-* [Iberoaméricana de las Ciencias Computacionales e Informática](https://www.reci.org.mx/index.php/reci/issue/archive){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Información, Tecnología y Conocimiento: "Enlace"](https://dialnet.unirioja.es/servlet/revista?codigo=7671){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Innovación, Calidad e Ingeniería del Software](https://www.redalyc.org/revista.oa?id=922){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214){:target="_blank" rel="nofollow,noreferrer"}
-* [IT User](https://ituser.digitalpublications.es/numeros-anteriores) (PDF) (Mensual. Requiere Registro) (2019)
-* [Procesamiento del Lenguaje Natural](https://www.redalyc.org/revista.oa?id=5157){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Puertas Abiertas al Sector de las TICs](https://coitaoc.org/wp-content/uploads/TELECOSANDALUCES2019.pdf) (PDF) (2019) (Telecos Andaluces) (Revista [6 Ediciones](https://coitaoc.org/category/publicaciones/telecos-andaluces/))
-* [Revistas de Computación](https://www.bibliotic.unam.mx/revista.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is){:target="_blank" rel="nofollow,noreferrer"} (PDF) 2019 \ 139 Ediciones Mensuales
-* [TeknoKultura](https://revistas.ucm.es/index.php/TEKN/issue/archive){:target="_blank" rel="nofollow,noreferrer"} (PDF) 2019 \ Universidad Complutense de Madrid
+1. [AgoraChain Revista Blockchain](https://agorachain.org/magazine/) (PDF) (12+1 Ediciones) (2019)
+1. [Avances en Sistemas e Informática](https://www.redalyc.org/revista.oa?id=1331){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Bits de Ciencia](https://www.dcc.uchile.cl/bits-de-ciencia){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Ciencia y Tecnología](https://dialnet.unirioja.es/servlet/revista?codigo=22392){:target="_blank" rel="nofollow,noreferrer"}
+1. [Ciencias de la Información (8 revistas)](https://www.redalyc.org/area.oa?id=23&tipo=coleccion&bJats=1){:target="_blank" rel="nofollow,noreferrer"}
+1. [Computación y Sistemas](https://www.redalyc.org/revista.oa?id=615){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Espacios](https://www.revistaespacios.com/indice.html){:target="_blank" rel="nofollow,noreferrer"} (PDF) (HTML)
+1. [Estudios Urbanos y Ciencias Sociales](https://www2.ual.es/urbs/index.php/urbs/issue/archive){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Gerencia Tecnológica Informática (2015)](https://dialnet.unirioja.es/servlet/revista?codigo=11969){:target="_blank" rel="nofollow,noreferrer"}
+1. [Iberoaméricana de las Ciencias Computacionales e Informática](https://www.reci.org.mx/index.php/reci/issue/archive){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Información, Tecnología y Conocimiento: "Enlace"](https://dialnet.unirioja.es/servlet/revista?codigo=7671){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Innovación, Calidad e Ingeniería del Software](https://www.redalyc.org/revista.oa?id=922){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214){:target="_blank" rel="nofollow,noreferrer"}
+1. [IT User](https://ituser.digitalpublications.es/numeros-anteriores) (PDF) (Mensual. Requiere Registro) (2019)
+1. [Procesamiento del Lenguaje Natural](https://www.redalyc.org/revista.oa?id=5157){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Puertas Abiertas al Sector de las TICs](https://coitaoc.org/wp-content/uploads/TELECOSANDALUCES2019.pdf) (PDF) (2019) (Telecos Andaluces) (Revista [6 Ediciones](https://coitaoc.org/category/publicaciones/telecos-andaluces/))
+1. [Revistas de Computación](https://www.bibliotic.unam.mx/revista.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is){:target="_blank" rel="nofollow,noreferrer"} (PDF) 2019 \ 139 Ediciones Mensuales
+1. [TeknoKultura](https://revistas.ucm.es/index.php/TEKN/issue/archive){:target="_blank" rel="nofollow,noreferrer"} (PDF) 2019 \ Universidad Complutense de Madrid
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
@@ -595,27 +595,27 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [Arduino 🔦](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-arduino){: .btn .btn-outline-dark .btn-lg .btn-block} [Inteligencia Artificial](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-inteligencia-artificial){: .btn .btn-outline-dark .btn-lg .btn-block} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-raspberry-pi){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-* [Glosario de términos y conceptos de robótica](http://el.uy/doc/robotica/mooc.educalab.es.%202017.%20Glosario%20de%20t%C3%A9rminos%20y%20conceptos%20rob%C3%B3ticos.pdf){:target="_blank" rel="nofollow,noreferrer"} (MOOC Intef)
+1. [Glosario de términos y conceptos de robótica](http://el.uy/doc/robotica/mooc.educalab.es.%202017.%20Glosario%20de%20t%C3%A9rminos%20y%20conceptos%20rob%C3%B3ticos.pdf){:target="_blank" rel="nofollow,noreferrer"} (MOOC Intef)
 
 ## **Libros Gratis de Arduino**
 
-* [Arduino. Guía Completa](https://arduinobot.pbworks.com/w/page/10175775/FrontPage){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Arduino. Libro de Proyectos](https://lookaside.fbsbx.com/file/Arduino-Libro-de-proyectos-87.pdf?token=AWyWTv2brzUB4Kb18VbD6mGXfeeB38-uFuYdloTpsp3_mYculQtj1nQKwVMa8s4GLvhcVuvx36ytmAh4z65lUOaK9uVStrJEbkFRtdk_yR7qT270IezL-8885UmD-RUy5O6bkzoAKVt-fEYv7cBAmsqr1eabDyJG-cILdCQUOxRP-g){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2013)
-* [Arduino. Manual de Programación](https://lookaside.fbsbx.com/file/Manual%2BProgramacion%2BArduino.pdf?token=AWyDrgVJpUIL9m5QuqxN370fZrkT8jwQAAkBZGQ0rAhsWcJ5DSblE1M_ZE-HT-A2v4TvUBUk_4SsjTTwxl_C3SQ9UlIbyHJlycfAN5rqmxWwOMJcBOHTPLHs-eBFd9S_HVWN-DwaScWyBQZ1tOES9FrKRqdbEnb3HNBvratdA21TIg){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2007)
-* [Escornabots: Robot de piezas 3D y Arduino](https://catedu.gitbooks.io/escornabots/content/){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Hacia un framework basado en ROS para la implementación de Sistemas Ciberfísicos](https://www.ehu.eus/documents/3444171/4484750/124.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Introducción a la arquitectura de computadores con QtARMSim y Arduino]([https://lorca.act.uji.es/libro/introARM/introARM_ebook_2017.pdf){:target="_blank" rel="nofollow,noreferrer"](https://lookaside.fbsbx.com/file/introARM_ebook_2017.pdf?token=AWzAxiB7qeSfB2Gy7vkEirhMdo6ECKvVIKBFwfi9g1p4wVHZ_7mOFCu7IFqUylAR4aZhnnQpWT6A-WQ5PvgSAbbad33D3l2HzxsAGw40IvIVCJQ15lGdT358TjuXJmd70i7G4lCJzI3N2JXYRRfERHAsIVVYhxZ9TW6tzC4TjnHVTg)} (PDF)
-* [Propuesta para grupo de investigación Autonomía Situada (2003)](https://www.sindominio.net/~xabier/old/textos/propuesta/propuesta.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Reconocimiento de patrones temporales en sonidos reales con redes neuronales de pulsos](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWyIghTT5liLbmWS2oaDhDpl3fzEB1b7wWSX4ofxL9LLPBB8ND2U0XyRty1-6KfPTGFlNBr0OCQc3NymJhi8P5XKWMYQ7wg5YQXaNEyjtXQAQL4CV4SrEoYJb2SGykIw52itPmdqo8cQfIX0efY9I8fe0VH0I375Mn9n1OKA6OXAeg){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Robot de Arduino controlado mediante sensores y con respuestas sobre actuadores](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWzQIOlxk93xPyvbo5-Qs861gHYCe6gBw4gCNSUGr6g0yifdPEqvv414Ybu75_dftKX3x8cH1L9blpx4KxwH_Y8tcV2hwOPHI7cnY9kWs1rkXWbxu2-WJ8GE1eDt6ZFTezn3tKM8ql5iMdomiZNDiWwZS7WVH-d2ZZ1_tP2swdhcHA){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2017)
-* [Utilizando Arduino Due en la docencia de la entrada/salida](https://lookaside.fbsbx.com/file/Utilizando_Arduino_Due.pdf?token=AWyfCmQzCqTdm-mjJPMgon33FVOGe95bT0diczQ2YkSgPtEnLfYPgtshNHNoIp9GNDcUCQnPjMnsqPQYHATAfh4DME6PXSkgyCXzBL1tT0D329oQgN1RIx1NW6odZQgme_9PY0_TEFg398TtV791E2v7g2mYlM0oG2t5FUMrMEpNsg){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Arduino. Guía Completa](https://arduinobot.pbworks.com/w/page/10175775/FrontPage){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Arduino. Libro de Proyectos](https://lookaside.fbsbx.com/file/Arduino-Libro-de-proyectos-87.pdf?token=AWyWTv2brzUB4Kb18VbD6mGXfeeB38-uFuYdloTpsp3_mYculQtj1nQKwVMa8s4GLvhcVuvx36ytmAh4z65lUOaK9uVStrJEbkFRtdk_yR7qT270IezL-8885UmD-RUy5O6bkzoAKVt-fEYv7cBAmsqr1eabDyJG-cILdCQUOxRP-g){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2013)
+1. [Arduino. Manual de Programación](https://lookaside.fbsbx.com/file/Manual%2BProgramacion%2BArduino.pdf?token=AWyDrgVJpUIL9m5QuqxN370fZrkT8jwQAAkBZGQ0rAhsWcJ5DSblE1M_ZE-HT-A2v4TvUBUk_4SsjTTwxl_C3SQ9UlIbyHJlycfAN5rqmxWwOMJcBOHTPLHs-eBFd9S_HVWN-DwaScWyBQZ1tOES9FrKRqdbEnb3HNBvratdA21TIg){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2007)
+1. [Escornabots: Robot de piezas 3D y Arduino](https://catedu.gitbooks.io/escornabots/content/){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Hacia un framework basado en ROS para la implementación de Sistemas Ciberfísicos](https://www.ehu.eus/documents/3444171/4484750/124.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Introducción a la arquitectura de computadores con QtARMSim y Arduino]([https://lorca.act.uji.es/libro/introARM/introARM_ebook_2017.pdf){:target="_blank" rel="nofollow,noreferrer"](https://lookaside.fbsbx.com/file/introARM_ebook_2017.pdf?token=AWzAxiB7qeSfB2Gy7vkEirhMdo6ECKvVIKBFwfi9g1p4wVHZ_7mOFCu7IFqUylAR4aZhnnQpWT6A-WQ5PvgSAbbad33D3l2HzxsAGw40IvIVCJQ15lGdT358TjuXJmd70i7G4lCJzI3N2JXYRRfERHAsIVVYhxZ9TW6tzC4TjnHVTg)} (PDF)
+1. [Propuesta para grupo de investigación Autonomía Situada (2003)](https://www.sindominio.net/~xabier/old/textos/propuesta/propuesta.html){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Reconocimiento de patrones temporales en sonidos reales con redes neuronales de pulsos](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWyIghTT5liLbmWS2oaDhDpl3fzEB1b7wWSX4ofxL9LLPBB8ND2U0XyRty1-6KfPTGFlNBr0OCQc3NymJhi8P5XKWMYQ7wg5YQXaNEyjtXQAQL4CV4SrEoYJb2SGykIw52itPmdqo8cQfIX0efY9I8fe0VH0I375Mn9n1OKA6OXAeg){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Robot de Arduino controlado mediante sensores y con respuestas sobre actuadores](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWzQIOlxk93xPyvbo5-Qs861gHYCe6gBw4gCNSUGr6g0yifdPEqvv414Ybu75_dftKX3x8cH1L9blpx4KxwH_Y8tcV2hwOPHI7cnY9kWs1rkXWbxu2-WJ8GE1eDt6ZFTezn3tKM8ql5iMdomiZNDiWwZS7WVH-d2ZZ1_tP2swdhcHA){:target="_blank" rel="nofollow,noreferrer"} (PDF) (2017)
+1. [Utilizando Arduino Due en la docencia de la entrada/salida](https://lookaside.fbsbx.com/file/Utilizando_Arduino_Due.pdf?token=AWyfCmQzCqTdm-mjJPMgon33FVOGe95bT0diczQ2YkSgPtEnLfYPgtshNHNoIp9GNDcUCQnPjMnsqPQYHATAfh4DME6PXSkgyCXzBL1tT0D329oQgN1RIx1NW6odZQgme_9PY0_TEFg398TtV791E2v7g2mYlM0oG2t5FUMrMEpNsg){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 **Casas Inteligentes 🏡**
 
 ## **Libros Gratis de Inteligencia Artificial**
 
-* [MVCGI: un modelo de implementación estándar para arquitecturas modulares MVC sobre programas de interfaz CGI](https://www.researchgate.net/publication/333968629_MVCGI_-_a_standard_implementation_model_for_modular_MVC_architectures_over_CGI_interface_programs) (PDF) (2016)
-* [Principios y Aplicaciones de Inteligencia Artificial](https://leanpub.com/inteligencia_artificial?){:target="_blank" rel="nofollow,noreferrer"}
+1. [MVCGI: un modelo de implementación estándar para arquitecturas modulares MVC sobre programas de interfaz CGI](https://www.researchgate.net/publication/333968629_MVCGI_-_a_standard_implementation_model_for_modular_MVC_architectures_over_CGI_interface_programs) (PDF) (2016)
+1. [Principios y Aplicaciones de Inteligencia Artificial](https://leanpub.com/inteligencia_artificial?){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Libros Gratis de Raspberry Pi**
 
@@ -625,34 +625,34 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## **Libros Gratis de Android**
 
-* [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Aprendizaje Android](https://riptutorial.com/Download/android-es.pdf){:target="_blank" rel="nofollow,noreferrer"} RipTutorial (PDF)
-* [Curso Android](https://www.hermosaprogramacion.com/android){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Desarrollo de una aplicación móvil Android para control remoto de un servicio web (2012)](https://e-archivo.uc3m.es/bitstream/handle/10016/16913/TFG_Maria_Lozano_Perez.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [EasyManet for Android (2013)](https://riunet.upv.es/bitstream/handle/10251/32786/Memoria.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Guía para la realización de aplicaciones móviles en los sistemas operativos Android e iOS](https://repository.udistrital.edu.co/bitstream/11349/6274/1/AvilaCruzHelmanCamilo2017.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Introducción a Android](https://www.it-docs.net/ddata/18.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Introducción a ArcGIS Runtime for Android](https://desarrolloappandroid.files.wordpress.com/2013/06/arcgis-runtime-sdk-for-android.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
-* [Introducción al desarrollo de aplicaciones Android](https://ajgallego.gitbooks.io/introduccion-a-android/content) (HTML) (2015)
-* [Manual de Programación Android v.2.0](https://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf){:target="_blank" rel="nofollow,noreferrer"} - Salvador Gómez Oliver (PDF)
-* [Oficial: Documentación](https://developer.android.com/studio/intro){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Oficial: Introducción a Android](https://developer.android.com/guide){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Programación en Android para principiantes](https://drive.google.com/file/d/1dNfaug7wupQ-U756zfbSE8tlsUqNddjJ/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por FAQS Android (PDF)
-* [Seguridad en dispositivos Android](https://lsi.vc.ehu.eus/pablogn/investig/JornadasSeguridad141112.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Aprendizaje Android](https://riptutorial.com/Download/android-es.pdf){:target="_blank" rel="nofollow,noreferrer"} RipTutorial (PDF)
+1. [Curso Android](https://www.hermosaprogramacion.com/android){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Desarrollo de una aplicación móvil Android para control remoto de un servicio web (2012)](https://e-archivo.uc3m.es/bitstream/handle/10016/16913/TFG_Maria_Lozano_Perez.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [EasyManet for Android (2013)](https://riunet.upv.es/bitstream/handle/10251/32786/Memoria.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Guía para la realización de aplicaciones móviles en los sistemas operativos Android e iOS](https://repository.udistrital.edu.co/bitstream/11349/6274/1/AvilaCruzHelmanCamilo2017.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Introducción a Android](https://www.it-docs.net/ddata/18.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Introducción a ArcGIS Runtime for Android](https://desarrolloappandroid.files.wordpress.com/2013/06/arcgis-runtime-sdk-for-android.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Introducción al desarrollo de aplicaciones Android](https://ajgallego.gitbooks.io/introduccion-a-android/content) (HTML) (2015)
+1. [Manual de Programación Android v.2.0](https://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf){:target="_blank" rel="nofollow,noreferrer"} - Salvador Gómez Oliver (PDF)
+1. [Oficial: Documentación](https://developer.android.com/studio/intro){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Oficial: Introducción a Android](https://developer.android.com/guide){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Programación en Android para principiantes](https://drive.google.com/file/d/1dNfaug7wupQ-U756zfbSE8tlsUqNddjJ/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por FAQS Android (PDF)
+1. [Seguridad en dispositivos Android](https://lsi.vc.ehu.eus/pablogn/investig/JornadasSeguridad141112.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 [🔝 Regresar al Menú de Libros de Programación](/biblioteca-de-programacion-y-tecnologia/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Libros Gratis de Docker**
 
-* [Chuleta sobre Docker](https://leanmind.es/es/blog/infografia-de-docker/) (HTML) ([PDF](https://leanmind.es/docker-cheatsheet.pdf){:target="_blank" rel="nofollow,noreferrer"}) por [@YodraLopez](https://twitter.com/yodralopez){:target="_blank" rel="nofollow,noreferrer"}
-* [Comandos de Docker](https://criskrus.github.io/docker-formation/){:target="_blank" rel="nofollow,noreferrer"} (Github) \ ([Fuente](https://github.com/CrisKrus/docker-formation#docker-formation){:target="_blank" rel="nofollow,noreferrer"})
-* [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank" rel="nofollow,noreferrer"} (Github)
-* [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
+1. [Chuleta sobre Docker](https://leanmind.es/es/blog/infografia-de-docker/) (HTML) ([PDF](https://leanmind.es/docker-cheatsheet.pdf){:target="_blank" rel="nofollow,noreferrer"}) por [@YodraLopez](https://twitter.com/yodralopez){:target="_blank" rel="nofollow,noreferrer"}
+1. [Comandos de Docker](https://criskrus.github.io/docker-formation/){:target="_blank" rel="nofollow,noreferrer"} (Github) \ ([Fuente](https://github.com/CrisKrus/docker-formation#docker-formation){:target="_blank" rel="nofollow,noreferrer"})
+1. [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank" rel="nofollow,noreferrer"} (Github)
+1. [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank" rel="nofollow,noreferrer"} (PDF)
 
 ## **Libros Gratis de Bootstrap**
 
-* [Bootstrap 3: El manual oficial](https://librosweb.es/libro/bootstrap_3){:target="_blank" rel="nofollow,noreferrer"} (HTML)
-* [Bootstrap 3: Introducción al diseño responsive](https://drive.google.com/file/d/1xrywZA_yEJXHKKuPOcg1mI-NPiFYR2E8/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Antonio Javier Gallego Sánchez (PDF)
+1. [Bootstrap 3: El manual oficial](https://librosweb.es/libro/bootstrap_3){:target="_blank" rel="nofollow,noreferrer"} (HTML)
+1. [Bootstrap 3: Introducción al diseño responsive](https://drive.google.com/file/d/1xrywZA_yEJXHKKuPOcg1mI-NPiFYR2E8/view?usp=sharing){:target="_blank" rel="nofollow,noreferrer"} por Antonio Javier Gallego Sánchez (PDF)
 
 ## **Libros Gratis de Ionic**
 
@@ -664,15 +664,15 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## **Libros Gratis de Programación Web**
 
-* [Apuntes de GraphQL](https://www.notion.so/GraphQL-6c83d30ad0e7446998afae6efa948753){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2020) por [Betty Jiménez](https://twitter.com/bettyrjce){:target="_blank" rel="nofollow,noreferrer"}
-* [Desarrollar aplicaciones Progressive Web Apps](https://jdonsan.gitbooks.io/desarrolla-progressive-web-apps/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
-* [Desarrollo de Aplicaciones Web - Guía Completa](https://juanda.gitbooks.io/webapps/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
-* [Integración con API´s de terceros](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
-* [Programación Web en Entorno Cliente (JS, Ajax & jQuery)](https://josh1982.gitbooks.io/programacion-web-en-cliente/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
-* [Programación Hipermedia para Dispositivos Móviles](https://mastermoviles.gitbooks.io/programacion-hipermedia-para-dispositivos-moviles/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
-* [Tecnologías para el desarrollo de aplicacioens móviles](https://mastermoviles.gitbooks.io/tecnologias2/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
-* [Interfaz de usuario básica en iOS](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
-* [Buenas Prácticas Front End](https://redmint.gitbooks.io/buenas-practicas-front-end/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+1. [Apuntes de GraphQL](https://www.notion.so/GraphQL-6c83d30ad0e7446998afae6efa948753){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2020) por [Betty Jiménez](https://twitter.com/bettyrjce){:target="_blank" rel="nofollow,noreferrer"}
+1. [Desarrollar aplicaciones Progressive Web Apps](https://jdonsan.gitbooks.io/desarrolla-progressive-web-apps/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+1. [Desarrollo de Aplicaciones Web - Guía Completa](https://juanda.gitbooks.io/webapps/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
+1. [Integración con API´s de terceros](https://dviejo.gitbooks.io/programacion-web-integracion-con-apis/content/){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
+1. [Programación Web en Entorno Cliente (JS, Ajax & jQuery)](https://josh1982.gitbooks.io/programacion-web-en-cliente/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2016)
+1. [Programación Hipermedia para Dispositivos Móviles](https://mastermoviles.gitbooks.io/programacion-hipermedia-para-dispositivos-moviles/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+1. [Tecnologías para el desarrollo de aplicacioens móviles](https://mastermoviles.gitbooks.io/tecnologias2/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+1. [Interfaz de usuario básica en iOS](https://www.gitbook.com/book/mastermoviles/interfaz-de-usuario-basico-en-ios/details){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
+1. [Buenas Prácticas Front End](https://redmint.gitbooks.io/buenas-practicas-front-end/content){:target="_blank" rel="nofollow,noreferrer"} (HTML) (2018)
 
 ## **Libros Gratis de Lenguajes de Programación**
 

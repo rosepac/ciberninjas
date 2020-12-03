@@ -99,6 +99,7 @@ img: "/assets/img/paginas-cursos/cursos-blockchain-criptos.webp"
 1. [Bitcoin Construye un imperio minando en la nube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbitcoin-construye-un-imperio-minando-en-la-nube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 1. [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 1. [Cursos Bitcoin y Trading de Criptomonedas](https://www.tutellus.com/tecnologia/blockchain/curso-bitcoin-y-trading-criptomonedas-20610){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
+1. [Tecnologías Bitcoin y Criptomonedas](https://www.coursera.org/learn/cryptocurrency){:target="_blank" rel="nofollow,noreferrer"} (Coursera, Universidad de Princeton) (En Inglés con Subtítulos disponibles en Español)
 
 ### **Los Mejores Cursos Gratis de Dash**
 

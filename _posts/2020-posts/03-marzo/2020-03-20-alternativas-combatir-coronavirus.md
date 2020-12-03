@@ -48,7 +48,6 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 ## **Charlas de Desarrolladores de Google España**
 
 - 🔐 Eventos de Seguridad Coronacon [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#evento-de-seguridad-coronacon)
-- 👩‍💻 Charlas de Tecnología por Miriadax [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#charlas-de-tecnología-por-miriadax)
 - [🔎 Curso Online de SEO](https://info.uvic.cat/seo/){:target="_blank" rel="nofollow,noreferrer"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#webinar-de-seo)
 - [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -59,20 +58,6 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 👉 [Usuario de Twitter](@C0r0n4CON){:target="_blank" rel="nofollow,noreferrer"}
 
 - **Página Web**: [Coronacon](https://c0r0n4con.com/)
-
-## **Charlas de Tecnología por Miriadax**
-
-Las charlas organizadas por la "universidad digital" [Miriadax](https://www.instagram.com/p/B-R2N9po3Nh/){:target="_blank" rel="nofollow,noreferrer"}.
-
-- Lunes, 30 de Marzo - 17 H. ESPAÑOLA: [DESMITIFICANDO LA CUARENTENA](https://www.instagram.com/kellpozo/){:target="_blank" rel="nofollow,noreferrer"}
-
-- Martes, 31 de Marzo - 17 H. ESPAÑOLA: [LA IMPORTANCIA DEL BI EN ESTOS TIEMPOS INCIERTOS](https://www.instagram.com/antoyuju/){:target="_blank" rel="nofollow,noreferrer"}
-
-- Miércoles, 1 de Abril  - 17 H. ESPAÑOLA: [HAZTE UN CORTO](https://www.instagram.com/miriadax_ed/){:target="_blank" rel="nofollow,noreferrer"}
-
-- Jueves, 2 de Abril  - 17 H. ESPAÑOLA: [DEL AULA AL MUNDO DIGITAL EN UN SEGUNDO](https://www.instagram.com/ednamanotas/){:target="_blank" rel="nofollow,noreferrer"}
-
-- Viernes, 3 de Abril  - 17 H. ESPAÑOLA: [ADMINISTRADORES DE SISTEMAS Y LA AMENAZA INVISIBLE](https://www.instagram.com/alexbaldo/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Webinar de SEO**
 
