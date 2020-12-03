@@ -15,6 +15,8 @@ feature-img: /assets/img/paginas/mar-docker-kubernetes.webp
 img: /assets/img/paginas/mar-docker-kubernetes.webp
 ---
 
+<span id="menu"><strong>Menú de Contenedores en Nube</strong></span>
+
 - [**Recursos Kubernetes**](#recursos-kubernetes)
   - [Documentación de Kubernetes](#documentación-de-kubernetes)
   - [Kubernetes al completo (2020)](#kubernetes-al-completo-2020)
@@ -82,7 +84,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 - [Kubernetes y Google Cloud](https://github.com/kelseyhightower/kubernetes-the-hard-way#kubernetes-the-hard-way){:target="_blank" rel="nofollow,noreferrer"} - Kubernetes de la manera difícil en Google Cloud Platform.
 - [Notas de Kubernetes](https://github.com/overnote/awesome-kubernetes-notes#awesome-kubernetes-notes){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Subir al Inicio](/entornos-nube/#menu){: .btn .btn--outline-dark .btn--large .align-center}
 
 ## **Libros Kubernetes Gratis en Inglés**
 
@@ -94,7 +96,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 - [Aplicaciones en contenedores de Docker y Kubernetes](https://azure.microsoft.com/es-es/resources/containerize-your-apps-with-docker-and-kubernetes/){:target="_blank" rel="nofollow,noreferrer"}
 - [Aprender Kubernetes en menos de 3 Horas](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Subir al Inicio](/entornos-nube/#menu){: .btn .btn--outline-dark .btn--large .align-center}
 
 ## **Cursos de Udemy sobre Kubernetes en inglés**
 
@@ -105,7 +107,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 - [Almacenamiento en Kubernetes](https://www.udemy.com/course/portworx-fundamentals/){:target="_blank" rel="nofollow,noreferrer"}
 - [Net DevOps: Cisco Python, Automatización, NETCONF, SDN, Docker](https://www.udemy.com/course/net-devops-cisco-python-automation-netconf-sdn-docker/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Subir al Inicio](/entornos-nube/#menu){: .btn .btn--outline-dark .btn--large .align-center}
 
 ## **Entradas de Blogs interesantes sobre Kubernetes**
 
@@ -117,7 +119,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 <!-- https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222 -->
 - [Más de 50 herramientas útiles de Kubernetes](https://caylent.com/50-useful-kubernetes-tools){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Subir al Inicio](/entornos-nube/#menu){: .btn .btn--outline-dark .btn--large .align-center}
 
 ## Chao Mesh y Chao Monkey
 
@@ -143,7 +145,7 @@ Chaos Toolkit pretende ser la forma más sencilla y fácil de explorar la constr
 
 Le sugerimos que comience con los [tutoriales](https://docs.chaostoolkit.org/reference/tutorial){:target="_blank" rel="nofollow,noreferrer"} para tener una idea de cómo Chaos Toolkit puede ayudarlo a automatizar su esfuerzo de Chaos Engineering. Una vez que esté listo para sus propios experimentos, eche un vistazo a las diversas [extensiones de controladores](https://chaostoolkit.org/extensions){:target="_blank" rel="nofollow,noreferrer"} que admitimos, que van desde plataformas hasta proveedores en la nube mientras le brinda herramientas para observar su sistema mientras ejecuta sus experimentos.
 
-[🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Subir al Inicio](/entornos-nube/#menu){: .btn .btn--outline-dark .btn--large .align-center}
 
 👷‍♂️ 👇 APARTADOS EN PRÓXIMA CONSTRUCCIÓN 👇 👷‍♂️
 {: .notice--warning}
