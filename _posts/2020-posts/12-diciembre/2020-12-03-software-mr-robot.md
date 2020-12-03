@@ -9,9 +9,9 @@ thumbnail: /assets/img/2020/software-mr-robot.webp
 feature-img: /assets/img/2020/software-mr-robot.webp
 title: '▷ 33 Software utilizados en la serie de hackers: Mr.Robot'
 description: >-
-  Software utilizado en la serie de Mister Robot, basada en el mundo de los hacker informáticos. Un drama ganador de premios Emmy y Golden Globe.
+  Software utilizado en la serie de Mister Robot, basada en el mundo de los hacker informáticos: Un drama ganador de premios Emmy y Golden Globe
 excerpt: >-
-  Software utilizado en la serie de Mister Robot, basada en el mundo de los hacker informáticos. Un drama ganador de premios Emmy y Golden Globe.
+  Software utilizado en la serie de Mister Robot, basada en el mundo de los hacker informáticos: Un drama ganador de premios Emmy y Golden Globe
 canonical_URL: https://ciberninjas.com/software-mister-robot/
 permalink: /software-mister-robot/
 date: 2020-12-03 07:07:51
