@@ -131,6 +131,7 @@ Además, gratuito.
 - Le permite acceder a PostgreSQL, Oracle, MySQL, SQL Server y muchas otras bases de datos desde el IDE.
 
 [🔥 Descargar PyCharm](https://www.jetbrains.com/pycharm/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **2. Spyder**
 
@@ -147,6 +148,7 @@ Spyder es un entorno de desarrollo científico integrado escrito en Python. Este
 - Una forma interactiva de rastrear cada paso de la ejecución del código Python.
 
 [🔥 Descargar Spyder](https://www.spyder-ide.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **IDLE**
 
@@ -162,6 +164,7 @@ IDLE (Integrated Development and Learning Environment) es un editor predetermina
 - Le permite buscar y reemplazar dentro de cualquier ventana.
 
 [🔥 Descargar IDLE](https://docs.python.org/3/library/idle.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Sublime Text 3**
 
@@ -178,6 +181,7 @@ Sublime Text 3 es un editor de código que admite muchos idiomas, incluido Pytho
 - Los cambios en un archivo están representados por marcadores disponibles en la canaleta.
 
 [🔥 Descargar Sublime Text 3](https://www.sublimetext.com/3){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Visual Studio Code**
 
@@ -193,6 +197,7 @@ Visual Studio Code (VS Code) es un entorno de código abierto desarrollado por M
 - Proporciona extensiones para agregar nuevos idiomas, depuradores, temas para obtener la ventaja de servicios adicionales.
 
 [🔥 Descargar Visual Studio Code](https://code.visualstudio.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -211,6 +216,7 @@ Atom es una herramienta útil de editor de código preferida por los programador
 - Permitir edición multiplataforma
 
 [🔥 Descargar Atom](https://atom.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -228,6 +234,7 @@ Jupyter es una herramienta para las personas que acaban de comenzar con la cienc
 - Bibliotecas integradas de ciencia de datos (matplotlib, NumPy, Pandas).
 
 [🔥 Descargar Jupyter](https://jupyter.org/install.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **Pydev**
 
@@ -244,6 +251,7 @@ PyDev es un editor de Python de terceros para Eclipse. Este editor puede usarse 
 - Puede configurar la integración de Django.
 
 [🔥 Descargar Pydev](https://www.pydev.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Thonny**
 
@@ -266,6 +274,7 @@ A continuación, un breve resumen:
 - Detecta automáticamente los errores de sintaxis.
 
 [🔥 Descargar Thonny](https://ciberninjas.com/thonny-python-ide/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Wing**
 
@@ -283,6 +292,7 @@ Precio: la prueba Wing Pro es gratuita. Wind Personal y Wing 101 son versiones p
 - Wing admite el desarrollo basado en pruebas con varios marcos como unittest, pytest, nose, doctest y Django.
 
 [🔥 Descargar Wing](https://wingware.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Komodo Active Python**
 
@@ -303,6 +313,7 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 - Utiliza el parche OpenSSL por seguridad.
 
 [🔥 Descargar ActivePython](https://www.activestate.com/products/python/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Regresar al Menú](/mejores-ide-python/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
