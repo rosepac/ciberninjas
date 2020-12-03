@@ -97,10 +97,6 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 
 [https://www.udemy.com/course/emprendedor_de_10/](https://www.udemy.com/course/emprendedor_de_10/){:target="_blank" rel="nofollow,noreferrer"}
 
-🎓 Habilidades directivas, para el desarrollo organizacional
-
-[https://miriadax.net/web/habilidades-directivas-para-el-desarrollo-organizacional-2-edicion-/inicio](https://miriadax.net/web/habilidades-directivas-para-el-desarrollo-organizacional-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
-
 🎓 Inteligencia emocional para emprendedores
 
 [https://www.udemy.com/course/inteligencia-emocional-para-emprendedores/](https://www.udemy.com/course/inteligencia-emocional-para-emprendedores/){:target="_blank" rel="nofollow,noreferrer"}
@@ -116,14 +112,6 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 🎓 El coaching como herramienta de transformación personal
 
 [https://www.udemy.com/course/el-coaching-como-herramienta-de-transformacion-personal/](https://www.udemy.com/course/el-coaching-como-herramienta-de-transformacion-personal/){:target="_blank" rel="nofollow,noreferrer"}
-
-🎓 Creatividad y pensamiento lateral
-
-[https://miriadax.net/web/creatividad-y-pensamiento-lateral-3-edicion-/inicio](https://miriadax.net/web/creatividad-y-pensamiento-lateral-3-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"}
-
-🎓 Dimensiones básicas de la Creatividad: Crear para crecer
-
-[https://miriadax.net/web/dimensiones-basicas-creatividad/inicio](https://miriadax.net/web/dimensiones-basicas-creatividad/inicio){:target="_blank" rel="nofollow,noreferrer"}
 
 🎓 Empresas individuales en mercados de subsistencia
 
@@ -196,10 +184,6 @@ Inteligencia emocional y mejora del nivel de vida 🤞
 🎓 10 ejercicios para tu salud emocional
 
 [https://www.udemy.com/course/10-ejercicios-para-tu-salud-emocional/](https://www.udemy.com/course/10-ejercicios-para-tu-salud-emocional/){:target="_blank" rel="nofollow,noreferrer"}
-
-🎓 Mindfulness para regular emociones (inteligencia artificial)
-
-[https://miriadax.net/web/mindfulness-para-regular-emociones-programa-inteligencia-emocional-plena-4-edicion/inicio](https://miriadax.net/web/mindfulness-para-regular-emociones-programa-inteligencia-emocional-plena-4-edicion/inicio){:target="_blank" rel="nofollow,noreferrer"}
 
 🎓 Mindfulness para crear Hábitos
 
