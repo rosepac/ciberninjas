@@ -62,8 +62,8 @@ Kali Linux es una distribución de Linux hecha para peritos de seguridad y enfoc
 
 Kali Linux, aparece regularmente en Mr. Robot, ya que es el sistema operativo utilizado por los hackers informáticos.
 
-[📓 Saber Más sobre Kali Linux](/mejores-sistemas-operativos-para-hackear/#1-kali-linux)
 [🔥 Probar Kali Linux](https://www.kali.org/downloads/ "Descargar el Sistema Operativo Kali Linux"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📓 Saber Más sobre Kali Linux](/mejores-sistemas-operativos-para-hackear/#1-kali-linux "Descargar el Sistema Operativo Kali Linux"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **2. Navegador Tor**
 
