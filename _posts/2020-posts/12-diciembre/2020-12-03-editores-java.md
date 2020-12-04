@@ -73,7 +73,9 @@ Java es uno de los lenguajes de programación más utilizados. Existen numerosos
 
 Si quieres saber [más sobre el lenguaje de Java](/historia-lenguajes-programacion/#java).
 
-A continuación, se muestra una lista cuidadosamente seleccionada de los mejores IDE de Java, con sus funciones más populares y enlaces a los sitios web de descarga. La lista incluye mayoritariamente software de código abierto (gratuito) aunque puede aparecer, algún software comercial (pago).
+A continuación, se muestra una lista cuidadosamente seleccionada de los mejores IDE de Java, con sus funciones más populares y enlaces a los sitios web de descarga.
+
+La lista incluye mayoritariamente software de código abierto (gratuito) aunque puede aparecer, algún software comercial (pago).
 
 - [**1. IDEA IntelliJ**](#1-idea-intellij)
   - [Características de IDEA IntelliJ](#características-de-idea-intellij)
