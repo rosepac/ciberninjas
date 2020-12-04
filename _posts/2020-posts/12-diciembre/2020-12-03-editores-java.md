@@ -6,8 +6,8 @@ comments: false
 tags:
 - Java
 - Editores de Texto
-thumbnail: /assets/img/blog/.webp
-feature-img: /assets/img/blog/.webp
+thumbnail: /assets/img/2020/java-editores/java-editores.webp
+feature-img: /assets/img/2020/java-editores/java-editores.webp
 title: "🥇 ▷ Los 12 Mejores Editores Java / Programación Java 2021"
 description: "El mejor software para programar con el lenguaje de programación Java"
 excerpt: "El mejor software para programar con el lenguaje de programación Java"
