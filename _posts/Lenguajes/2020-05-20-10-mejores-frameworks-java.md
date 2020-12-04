@@ -41,6 +41,52 @@ published: true
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/java/">Aprender Java</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Mejores Frameworks Java</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/java/",
+     "name": "¿Cómo Aprender a Programar en Java 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/10-mejores-frameworks-java/",
+    "name": "Los 21 Mejores Frameworks de Java 2021"
+    }
+  }
+ ]
+}
+</script>
+
 Si recién comienzas a programar con Java, puedes oje [la guía para principiantes sobre Java](/java/ "La mejor guía del mundo para principiantes de Java") que te guiará a través de **todos los conceptos más importantes de Java** que necesitas conocer, si pronto quieres comenzar a utilizar cualquier de los frameworks Java.
 
 Java es un lenguaje robusto y **combinado con un framework Java, puede proporcionar las mejores soluciones para cualquier campo tecnológico**, ya bien sea; un comercio electrónico, la computación en la nube, el mundo de las finanzas, el big data, el mercado de valores, las TI o cualquier otro.
