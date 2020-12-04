@@ -67,6 +67,8 @@ published: true
 
 Java es un lenguaje de programación y una plataforma informática para el desarrollo de aplicaciones. Fue lanzado por primera vez por Sun Microsystem en 1995 y luego adquirido por Oracle Corporation.
 
+![Los 12 Mejores Editores Java / Programación Java 2021](/assets/img/2020/java-editores/java-editores.webp)
+
 Java es uno de los lenguajes de programación más utilizados. Existen numerosos IDE para Java que ofrecen la finalización inteligente de código y validan errores en tiempo real. Elegir el mejor IDE de Java entre una gran cantidad de opciones podría ser un desafío.
 
 Si quieres saber [más sobre el lenguaje de Java](/historia-lenguajes-programacion/#java).
@@ -99,6 +101,8 @@ A continuación, se muestra una lista cuidadosamente seleccionada de los mejores
   - [Características de JDeveloper](#características-de-jdeveloper)
 - [**13. JEdit**](#13-jedit)
   - [Características de JEdit](#características-de-jedit)
+
+> ***Relacionados Java:*** *[Cursos Java](/cursos-programacion/#los-mejores-cursos-gratis-java) / [Libros Java](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-java) / [Frameworks Java](/10-mejores-frameworks-java/) / [Herramientas Java](/java-herramientas-para-desarrolladores/) / [Análisis Java 2020](/revision-java-2020/) / [James Gosling](/personajes-historicos/james-gosling/)*
 
 ## **1. IDEA IntelliJ**
 

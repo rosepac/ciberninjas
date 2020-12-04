@@ -69,7 +69,9 @@ published: true
 
 La historia de Java comenzó en 1991, en un momento en que Sun Microsystems buscaba extender su liderazgo en el mercado de estaciones de trabajo informáticas al floreciente mercado de la electrónica personal.
 
-Poco se sabía que el lenguaje de programación que Sun estaba a punto de crear democratizaría la informática, inspiraría a una comunidad mundial y se convertiría en la plataforma para un ecosistema de desarrollo de software duradero de idiomas, plataformas de tiempo de ejecución, SDK, proyectos de código abierto y muchas herramientas.
+![Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría](/assets/img/2020-news/java-aplicaciones.webp "Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría")
+
+Poco se sabía, de que el lenguaje de programación que Sun estaba a punto de crear democratizaría la informática, inspiraría a una comunidad mundial y se convertiría en la plataforma para un ecosistema de desarrollo de software duradero de idiomas, plataformas de tiempo de ejecución, SDK, proyectos de código abierto y muchas herramientas.
 
 Después de unos años de desarrollo secreto dirigido por James Gosling, Sun lanzó la emblemática plataforma Java “escribe una vez, corre en cualquier lugar” en 1995, reorientando más allá de su diseño original para televisión interactiva a aplicaciones para la floreciente World Wide Web. Para el cambio de siglo, Java estaba animando todo, desde tarjetas inteligentes hasta vehículos espaciales.
 
@@ -115,6 +117,8 @@ Finalmente, y ya sin más deambulación, la lista de las 25 aplicaciones Java m�
   - [24. **VisibleTesla**](#24-visibletesla)
   - [25. **SmartThings**](#25-smartthings)
   - [Conclusión](#conclusión)
+
+> ***Relacionados Java:*** *[Cursos Java](/cursos-programacion/#los-mejores-cursos-gratis-java) / [Libros Java](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-java) / [Frameworks Java](/10-mejores-frameworks-java/) / [Herramientas Java](/java-herramientas-para-desarrolladores/) / [Análisis Java 2020](/revision-java-2020/) / [James Gosling](/personajes-historicos/james-gosling/)*
 
 ## **Aplicadas al Mundo Espacial**
 
@@ -400,5 +404,3 @@ Hasta aquí la impresionante recopilación de programas creados por el lenguaje 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-![Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría](/assets/img/2020-news/java-aplicaciones.webp "Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría")

@@ -123,7 +123,7 @@ Ten en cuenta que cada uno de estos tiene sus propios beneficios y puede funcion
 - [**¿Qué son los frameworks de Java?**](#qué-son-los-frameworks-de-java)
 - [**¿Por qué usar un framework Java?**](#por-qué-usar-un-framework-java)
 
-> 🔥 Quizás también te interese: [¿Qué es Java?](/java/) >> [Las Mejores Herramientas para Java](/java-herramientas-para-desarrolladores/) >> [❔ James Gosling](/personajes-historicos/james-gosling/)
+> ***Relacionados Java:*** *[Cursos Java](/cursos-programacion/#los-mejores-cursos-gratis-java) / [Libros Java](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-java) / [Frameworks Java](/10-mejores-frameworks-java/) / [Herramientas Java](/java-herramientas-para-desarrolladores/) / [Análisis Java 2020](/revision-java-2020/) / [James Gosling](/personajes-historicos/james-gosling/)*
 
 ## **1. Spring**
 

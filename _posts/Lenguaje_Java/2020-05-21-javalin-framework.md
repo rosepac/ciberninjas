@@ -78,6 +78,8 @@ Javalin está construido sobre Jetty y su rendimiento es equivalente al código 
 - [**Características de Javalin**](#características-de-javalin)
 - [**Comenzando con Javalin**](#comenzando-con-javalin)
 
+> ***Relacionados Java:*** *[Cursos Java](/cursos-programacion/#los-mejores-cursos-gratis-java) / [Libros Java](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-java) / [Frameworks Java](/10-mejores-frameworks-java/) / [Herramientas Java](/java-herramientas-para-desarrolladores/) / [Análisis Java 2020](/revision-java-2020/) / [James Gosling](/personajes-historicos/james-gosling/)*
+
 ## **¿Qué es Javalin?**
 
 Javalin es un framework web liviano para Kotlin y Java diseñado para ser simple y bloqueador de forma predeterminada, admitiendo WebSockets, HTTP2 y solicitudes asíncronas.

@@ -127,11 +127,9 @@ Hay muchas herramientas disponibles para la gestión de Java. Este software faci
 - [20. **FindBugs**](#20-findbugs)
   - [**Características de FindBugs**](#características-de-findbugs)
 
-
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-> 🔥 Quizás te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
-{: .notice--danger}
+> ***Relacionados Java:*** *[Cursos Java](/cursos-programacion/#los-mejores-cursos-gratis-java) / [Libros Java](/biblioteca-de-programacion-y-tecnologia/#libros-gratis-de-java) / [Frameworks Java](/10-mejores-frameworks-java/) / [Herramientas Java](/java-herramientas-para-desarrolladores/) / [Análisis Java 2020](/revision-java-2020/) / [James Gosling](/personajes-historicos/james-gosling/)*
 
 ## 1. **JUnit**
 
