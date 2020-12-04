@@ -26,7 +26,7 @@ published: true
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">Inicio</a></li>
     <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
-    <li class="breadcrumb-item"><a href="/python/">Aprender Java</a></li>
+    <li class="breadcrumb-item"><a href="/java/">Aprender Java</a></li>
     <li class="breadcrumb-item active" aria-current="page">Noticias Java</li>
   </ol>
 </nav>
