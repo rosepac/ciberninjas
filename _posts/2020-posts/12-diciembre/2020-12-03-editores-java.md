@@ -122,7 +122,7 @@ IntelliJ IDEA es un IDE multipropósito que se centra en el desarrollo de Java. 
 - IntelliJ IDEA ofrece un entorno centrado en el editor.
 - Permite a los usuarios utilizar métodos estáticos o constantes fácilmente.
 
-[🔥 Descargar IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **2. BlueJ**
 
@@ -137,7 +137,7 @@ BlueJ es un diseño IDE de Java gratuito para principiantes. Le permite escanear
 - Puede utilizar esta herramienta sin instalarla.
 - Las plataformas compatibles son Windows, Mac OS X y Ubuntu.
 
-[🔥 Descargar BlueJ](https://www.bluej.org/versions.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar BlueJ](https://www.bluej.org/versions.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **3. MyEclipse**
 
@@ -155,7 +155,7 @@ MyEclipse de CodeMix es un IDE de Java simple. Este software ofrece validación 
 - Tiene un servidor Tomcat incorporado.
 - MyEclipse proporciona numerosas bibliotecas y asistentes.
 
-[🔥 Descargar MyEclipse](https://www.genuitec.com/products/myeclipse/download/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar MyEclipse](https://www.genuitec.com/products/myeclipse/download/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **4. Xcode**
 
@@ -170,7 +170,7 @@ Xcode es un editor que se puede utilizar para escribir programas Java con facili
 - Puede depurar el programa fácilmente usando el depurador Xcode.
 - Xcode ofrece un editor asistente que muestra archivos útiles como personas que llaman, contraparte del encabezado, etc.
 
-[🔥 Descargar Xcode](https://developer.apple.com/xcode/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Xcode](https://developer.apple.com/xcode/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **5. Apache NetBeans**
 
@@ -188,7 +188,7 @@ Apache NetBeans es un entorno de desarrollo integrado para escribir programas Ja
 - La herramienta destaca las variables y palabras clave de PHP.
 - Netbeans proporciona sugerencias de parámetros escribiendo el símbolo $.
 
-[🔥 Descargar Apache NetBeans](http://netbeans.apache.org/download/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Apache NetBeans](http://netbeans.apache.org/download/index.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -205,7 +205,7 @@ jGRASP es un entorno de desarrollo Java ligero. Está diseñado para la generaci
 - Proporciona coloración basada en sintaxis.
 - jGRASP tiene iconos y menús para compilar, ejecutar y depurar cualquier programa.
 
-[🔥 Descargar jGRASP](https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar jGRASP](https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **7. Codota**
 
@@ -220,7 +220,7 @@ Codota es una herramienta compatible con Visual Studio Code, PHP WebStorm, Intel
 - Esta herramienta le ayuda a evitar errores al proporcionar sugerencias.
 - Ofrece una forma eficaz de descubrir código sin salir del software.
 
-[🔥 Descargar Codota](https://www.codota.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Codota](https://www.codota.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **8. Codenvy**
 
@@ -255,7 +255,7 @@ SlickEdit es un IDE multiplataforma para escribir programas Java. Soporta más d
 - Puede crear cuadros de diálogo GUI multiplataforma.
 - Este software guarda automáticamente el archivo después de un período de inactividad.
 
-[🔥 Descargar Slickedit](https://www.slickedit.com/trial/slickedit){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Slickedit](https://www.slickedit.com/trial/slickedit){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **10. Eclipse**
 
@@ -275,8 +275,8 @@ Debes saber, que en la actualidad, existen varias versiones diferentes de Eclips
 - Puede ampliar la funcionalidad de Eclipse mediante complementos.
 - Se puede utilizar en Windows, Linux y OS X.
 
-[🔥 Descargar Eclipse para Desarrolladores de Java](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-java-developers){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🔥 Descargar Eclipse para Empresas que trabajen con Java](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-enterprise-java-developers){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Eclipse para Desarrolladores de Java](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-java-developers){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Eclipse para Empresas que trabajen con Java](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-enterprise-java-developers){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **11. JBoss Forge**
 
@@ -292,7 +292,7 @@ JBoss Forge es una aplicación de desarrollo de software. Proporciona asistentes
 - Le ayuda a trabajar en entornos como Eclipse, IntelliJ, NetBeans y más.
 - Las plataformas compatibles son Linux, OSX y Windows.
 
-[🔥 Descargar JBoss Forge](https://forge.jboss.org/download){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar JBoss Forge](https://forge.jboss.org/download){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **12. JDeveloper**
 
@@ -308,7 +308,7 @@ JDeveloper es un IDE que puede simplificar las aplicaciones basadas en Java. Le 
 - JDeveloper ofrece una interfaz fácil de usar.
 - Puede conectar fácilmente su programa Java con la base de datos.
 
-[🔥 Descargar JDeveloper](https://www.oracle.com/application-development/technologies/jdeveloper.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar JDeveloper](https://www.oracle.com/application-development/technologies/jdeveloper.html){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **13. JEdit**
 
@@ -327,7 +327,7 @@ JEdit es un entorno de desarrollo integrado de Java. Ofrece la función de ajust
 - Le permite utilizar atajos de teclado.
 - Las plataformas compatibles son Unix, Mac OS X, Windows, VMS y más.
 
-[🔥 Descargar JEdit](http://www.jedit.org/index.php?page=download){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar JEdit](http://www.jedit.org/index.php?page=download){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
