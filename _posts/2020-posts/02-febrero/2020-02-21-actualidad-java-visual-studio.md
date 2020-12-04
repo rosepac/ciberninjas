@@ -11,8 +11,8 @@ tags:
 thumbnail: /assets/img/blog/java-visual-studio.webp
 feature-img: /assets/img/blog/java-visual-studio.webp
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
-description: Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
-excerpt: Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
+description: Mejoras y cambios insertados en el editor de texto de Visual Studio Code respecto al uso de Java y sus librerías
+excerpt: Mejoras y cambios insertados en el editor de texto de Visual Studio Code respecto al uso de Java y sus librerías
 canonical_URL: https://ciberninjas.com/actualidad-java-visual-studio/
 permalink: /actualidad-java-visual-studio/
 date: 2020-02-21 11:14:32
@@ -20,6 +20,52 @@ last_modified_at:
 published: true
 
 ---
+
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/python/">Aprender Java</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Noticias Java</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/java/",
+     "name": "¿Cómo Aprender a Programar en Java 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/actualidad-java-visual-studio/",
+    "name": "Segunda actualización de Java para Visual Studio Code en 2020"
+    }
+  }
+ ]
+}
+</script>
 
 En esta actualización, le mostraremos las nuevas formas de administrar sus dependencias y configurar el JDK múltiple.
 
@@ -30,7 +76,7 @@ Aprender las herramientas adicionales que se pueden aprovechar para utilizar fra
 - [**Otros proyectos**](#otros-proyectos)
   - [Incluir bibliotecas](#incluir-bibliotecas)
   - [Excluir algunas bibliotecas](#excluir-algunas-bibliotecas)
-  - [Adjuntar los ficheros `jar ` del código fuente](#adjuntar-los-ficheros-jar-del-código-fuente)
+  - [Adjuntar los ficheros `jar ` del código fuente](#adjuntar-los-ficheros-jar--del-código-fuente)
 - [**Configurar el tiempo de ejecución de JDK en local**](#configurar-el-tiempo-de-ejecución-de-jdk-en-local)
 - [**Extensiones para Java Frameworks y Runtimes más populares**](#extensiones-para-java-frameworks-y-runtimes-más-populares)
 - [**Más Mejoras**](#más-mejoras)

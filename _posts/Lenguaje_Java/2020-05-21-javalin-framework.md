@@ -22,6 +22,52 @@ published: true
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/python/">Aprender Java</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Editores / IDE Java</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/java/",
+     "name": "¿Cómo Aprender a Programar en Java 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/javalin-framework/",
+    "name": "Javalin, un Framework web ligero de Java y Kotlin. Crea API REST en Java o Kotlin fácilmente"
+    }
+  }
+ ]
+}
+</script>
+
 Javalin comenzó como una bifurcación del framework de SparkJava, pero rápidamente se convirtió en una reescritura desde cero influenciada por el framework de JavaScript koa.js.
 
 Javalin está construido sobre Jetty y su rendimiento es equivalente al código de Jetty sin procesar.

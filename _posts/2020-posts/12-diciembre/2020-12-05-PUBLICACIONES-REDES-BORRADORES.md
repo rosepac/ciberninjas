@@ -20,7 +20,6 @@ published: false
 
 ---
 
-- [JUEVES / VIERNES / 26 / 27](#jueves--viernes--26--27)
 - [REFLEXIONES RANDOM / FRASES / OTROS](#reflexiones-random--frases--otros)
 - [PÁGINA / PENDIENTES / CORREGIR / ERRORES GRAVES](#página--pendientes--corregir--errores-graves)
 - [PENDIENTES DE PUBLICAR](#pendientes-de-publicar)
@@ -29,10 +28,13 @@ published: false
   - [BLACK FRIDAY](#black-friday)
   - [JUEGOS](#juegos)
   - [PLAYSTATION](#playstation)
+- [Frases y Cosillas de la Web](#frases-y-cosillas-de-la-web)
 - [PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS](#publicaciones-de-cursos-juegos-ofertas-diarias)
   - [Viernes, 4 de Diciembre](#viernes-4-de-diciembre)
   - [Jueves, 3 de Diciembre](#jueves-3-de-diciembre)
+  - [Miércoles, 2 de Diciembre](#miércoles-2-de-diciembre)
   - [Martes, 1 de Diciembre](#martes-1-de-diciembre)
+- [JUEVES / VIERNES / 26 / 27](#jueves--viernes--26--27)
   - [Jueves, 26 de Noviembre](#jueves-26-de-noviembre)
   - [Martes, 24 de Noviembre](#martes-24-de-noviembre)
 - [Python](#python)
@@ -54,42 +56,6 @@ published: false
     - [2020 Noviembre](#2020-noviembre)
   - [PUBLICACIONES PÁGINA WEB](#publicaciones-página-web)
     - [2020 Octubre](#2020-octubre)
-
-## JUEVES / VIERNES / 26 / 27
-
-▷ Librerías de Desarrolladores: La Biblioteca Única para los Profesionales de la Programación
-https://ciberninjas.com/repositorio-librerias/
-
-▷ 15 Mejores Software Alternativos para Crear Repositorios de Favoritos
-https://ciberninjas.com/software-guardar-favoritos/
-
-▷ 10 extensiones de Chrome imprescindibles para Desarrolladores Front-End 2021
-https://ciberninjas.com/extensiones-front-end-chrome/
-
-🔄 Actualizado 🔥 ▷ ¿Qué es Java? Guía rápida para principiantes del lenguaje de programación Java
-https://ciberninjas.com/java/
-
-🆕 Nuevo 🔥 ▷ La Historia de los Lenguajes de Programación Informáticos
-https://ciberninjas.com/historia-lenguajes-programacion/
-
-🔄 Actualizado 🔥 ▷ ¿Cómo aprender cualquier lenguaje de programación 2021?
-https://ciberninjas.com/lenguajes-programacion/
-
-Añadidas dos nuevas secciones, la historia de los lenguajes de la programación y los lenguajes de programación más influyentes a lo largo de la evolución de la tecnología.
-
-🔄 Actualizado 🔥 Página de Python, Nueva página de Python Frameworks, Nueva página de Python Librerías
-(faltante agregaar "Anaconda..")
-
-🔄 Actualizado 🔥 
-
-▷ Los Mejores FRAMEWORKs de PYTHON 2021
-https://ciberninjas.com/python-frameworks/
-
-▷ Las 26 Mejores LIBRERÍAS de PYTHON 2021
-https://ciberninjas.com/python-librerias/
-
-🔄 Cuantiosas Actualizaciones 🔥
-Página de Cursos Gratis (General), Mejores Editores de Python, Mejores Lenguajes de Programación, Biblioteca Global, Diccionario de Python, Listado de Cursos de Programación, /catalogo/libros. 
 
 🔄 Actualizado 🔥
 🔄 Actualizado 🔥
@@ -152,28 +118,188 @@ ________________________________________________________________________________
 
 #news #technews #amazonnews #dealsamazon #ps5 #playstation #juegos #mejores #novedades #gamer #gaming #games #gamestagram #gamers #gameplay #instagame #instagamer #pcgames #instagaming #instagames #playinggames #gamelife #gaming #gamingnation #gaminglife #gamingcommunity
 
+## Frases y Cosillas de la Web
+
+🌱 El Jardín Digital del Saber Binario  🥷
+👨‍💻 Programación, analítica, diseño web, diseño y más  🥷
+📢 Creando desde Asturias para el Mundo
+
 ## PUBLICACIONES DE CURSOS, JUEGOS, OFERTAS, DIARIAS
 
 ### Viernes, 4 de Diciembre
 
 <!-- POR TERMINAR: SOFTWARE MISTER ROBOT Y AGREGARLE IMAGEN -->
 
+MEJROES CURSOS GRATIS EN INGLÉS ...
+
+👨‍🎓 [EN] Curso Gratis Javascript, VueJs , NodeJs (10 Horas. Valorado en 39,99)
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-vuejs-nodejs%2F%3FcouponCode%3DJAVASCRIPT
+
+👨‍🎓 [EN] Curso Gratis Python for beginners - Learn all the basics of python
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-beginners-learn-all-the-basics-of-python%2F%3FcouponCode%3D8D3103249F4A365927AC
+
+
+👨‍🎓 [EN] Curso Gratis de SEO: Search Engine Optimization Complete Specialization Course
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsearch-engine-optimization-complete-specialization-course%2F%3FcouponCode%3DWINTERSTARTER
+
+👨‍🎓 [EN] Curso Gratis 
+👨‍🎓 [EN] Curso Gratis 
+👨‍🎓 [EN] Curso Gratis 
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+🎓 Curso Gratis Master de Photoshop: El curso más completo de Ps + 22H (Valorado en +-110 €)
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmegapackdephotoshop%2F%3FcouponCode%3DD0F00A74497C7D7E4DCF
+
+🎓 Curso Gratis People Care IT
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpeople-care-it%2F%3FcouponCode%3DD58985C7902E8D0F99ED
+
+Diseña, elabora e implementa un programa de People Care personalizado para las necesidades del área de IT de tu empresa.
+
+🎓 Curso Gratis Presentaciones Efectivas para Creativos y Diseñadores (7,5 Horas)
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerpoint-presentaciones-para-arquitectos-e-interioristas%2F%3FcouponCode%3D30CURSOSGRATIS
+
+Crea Atractivas y Convincentes Presentaciones Creativas con Herramientas Gratuitas
+
+🎓 Curso Gratis Autodesk Revit para Interioristas y Arquitectos. De 0 a 100
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frevit-arquitectura-bim%2F%3FcouponCode%3D30CURSOSGRATIS
+
+Conviértete en un profesional del modelado BIM con Autodesk Revit de la mano de un Arquitecto y paso a paso.
+
+
+🎓 Curso Gratis
+
+
+
 ### Jueves, 3 de Diciembre
 
 <!-- TERMINAR LOS EDITORES DE JAVA Y AGREGAR SCHEMAS A TODAS LAS PUBLICACIONES SOBRE JAVA -->
 
+▷ 23 Mejores Cursos Gratis de Blockchain (cadena de bloques) y Criptomonedas 2021
+https://ciberninjas.com/cursos-blockchain-criptos/
+
+Tecnologías Bitcoin y Criptomonedas
+https://www.coursera.org/learn/cryptocurrency
+
+
+- [Seguridad Informática y Criptografía Clásica](http://www.criptored.upm.es/crypt4you/temas/criptografiaclasica/leccion1.html){:target="_blank" rel="nofollow,noreferrer"} (Aula Virtual de Criptografía y Seguridad: Universidad Politécnica de Madrid)
+- [Criptografía con curvas elípticas](http://www.criptored.upm.es/crypt4you/temas/ECC/leccion1/leccion1.html){:target="_blank" rel="nofollow,noreferrer"} (Aula Virtual de Criptografía y Seguridad: Universidad Politécnica de Madrid)
+- [Sistemas de Pago Electrónico](http://www.criptored.upm.es/crypt4you/temas/sistemaspago/leccion1/leccion01.html){:target="_blank" rel="nofollow,noreferrer"} (Aula Virtual de Criptografía y Seguridad: Universidad Politécnica de Madrid)
+- [Computación y Criptografía Cuántica](http://www.criptored.upm.es/crypt4you/temas/cuantica/leccion1/leccion01.html){:target="_blank" rel="nofollow,noreferrer"} (Aula Virtual de Criptografía y Seguridad: Universidad Politécnica de Madrid)
+- [Curso de privacidad y protección de comunicaciones digitales](http://www.criptored.upm.es/crypt4you/temas/privacidad-proteccion/leccion0/leccion0.html){:target="_blank" rel="nofollow,noreferrer"} (Aula Virtual de Criptografía y Seguridad: Universidad Politécnica de Madrid)
+- [El algoritmo RSA](http://www.criptored.upm.es/crypt4you/temas/RSA/leccion0/leccion00.html){:target="_blank" rel="nofollow,noreferrer"} (Aula Virtual de Criptografía y Seguridad: Universidad Politécnica de Madrid)
+
+▷ 21 Mejores Cursos Gratis de Seguridad en Red 2021
+https://ciberninjas.com/cursos-seguridad/
+
+´-------------------------------------
+
+
+▷ 33 Software utilizados en la serie de hackers: Mr. Robot
+https://ciberninjas.com/software-mister-robot/
+
+🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2021
+https://ciberninjas.com/mejores-sistemas-operativos-para-hackear/
+
+🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux para principiantes
+https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-principiantes/
+
+---
+
+💪 COMUNIDAD DISCORD (https://discord.io/ciberninjas)
+💌 TELEGRAM (https://t.me/ciberninjas)
+🐦 TWITTER 👉 (https://kutt.it/ciberninjast)
+
+---
+
+#technology #news #techie #technews #techy #instatech #technologynews #techworld #software #hacker #hacking #cracker #testing #seguridad #ciberseguridad #aplicaciones #programas #mrrobot #fcsociety
+
+
 🔄 ▷ ¿Qué es Java? Comenzando a aprender Java
 https://ciberninjas.com/java/
 
+### Miércoles, 2 de Diciembre
+
+35 New FREE Udemy Courses (temporary) por @ciberninjas #DEVCommunity https://dev.to/rosepac/35-new-free-udemy-courses-temporary-17pc 
+
+
 ### Martes, 1 de Diciembre
+
+👩‍🎓 Curso Gratis Introducción a la Programación - Valorado en 50 €
+(https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-la-programacion%2F%3FcouponCode%3DCURSO5ESTRELLAS)
+
+Aprender a programar, fundamentos de programación, Diagramas de Flujo y Pseudocodigos, Programación desde cero..
+
+👩‍🎓 Curso Gratis Flutter, nivel fácil : Aprende a desarrollar tu primera App
+https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-nivel-facil-aprende-a-desarrollar-tu-primera-app%2F
+
+👩‍🎓 Curso Gratis Vue 3 JS: Iníciate en este Framework
+(https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvue-3-js-iniciate-en-este-framework%2F)
+
+👩‍🎓 Curso Gratis Aplicación de tareas con Vue 3 + Net Core + EFC
+(https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvue3-netcore%2F)
+
+👩‍🎓 Curso Gratis  
+
 
 📆 Compartir Eventos. Evento de DoNetConf.  Congreso Internacional de Desarrolladores de Videojuegos, COIDEV.
 
-▷ Aplicaciones web renderizadas a través de un servidor Deno con Aleph.js
-https://ciberninjas.com/apps-servidor-deno-aleph/
+🥇 ▷ Los Mejores Ofertas de Cursos Udemy 2020 (Cursos a 9,99 € hasta el día 4)
+https://ciberninjas.com/cursos-udemy-ofertas/
 
 🥇 ▷ Angular 11: Conociendo las próximas novedades del framework
 https://ciberninjas.com/angular-11-novedades/
+
+DENO ▷ Aplicaciones web renderizadas a través de un servidor Deno con Aleph.js
+https://ciberninjas.com/apps-servidor-deno-aleph/
+
+🔄 ▷ Actualizadas las Recomendaciones Ciberninjas 🔥🔥🔥
+https://ciberninjas.com/amazon/
+
+## JUEVES / VIERNES / 26 / 27
+
+▷ Librerías de Desarrolladores: La Biblioteca Única para los Profesionales de la Programación
+https://ciberninjas.com/repositorio-librerias/
+
+▷ 15 Mejores Software Alternativos para Crear Repositorios de Favoritos
+https://ciberninjas.com/software-guardar-favoritos/
+
+▷ 10 extensiones de Chrome imprescindibles para Desarrolladores Front-End 2021
+https://ciberninjas.com/extensiones-front-end-chrome/
+
+🔄 Actualizado 🔥 ▷ ¿Qué es Java? Guía rápida para principiantes del lenguaje de programación Java
+https://ciberninjas.com/java/
+
+🆕 Nuevo 🔥 ▷ La Historia de los Lenguajes de Programación Informáticos
+https://ciberninjas.com/historia-lenguajes-programacion/
+
+🔄 Actualizado 🔥 ▷ ¿Cómo aprender cualquier lenguaje de programación 2021?
+https://ciberninjas.com/lenguajes-programacion/
+
+Añadidas dos nuevas secciones, la historia de los lenguajes de la programación y los lenguajes de programación más influyentes a lo largo de la evolución de la tecnología.
+
+🔄 Actualizado 🔥 Página de Python, Nueva página de Python Frameworks, Nueva página de Python Librerías
+(faltante agregaar "Anaconda..")
+
+🔄 Actualizado 🔥 
+
+▷ Los Mejores FRAMEWORKs de PYTHON 2021
+https://ciberninjas.com/python-frameworks/
+
+▷ Las 26 Mejores LIBRERÍAS de PYTHON 2021
+https://ciberninjas.com/python-librerias/
+
+🔄 Cuantiosas Actualizaciones 🔥
+Página de Cursos Gratis (General), Mejores Editores de Python, Mejores Lenguajes de Programación, Biblioteca Global, Diccionario de Python, Listado de Cursos de Programación, /catalogo/libros. 
 
 ### Jueves, 26 de Noviembre
 

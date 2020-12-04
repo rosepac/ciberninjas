@@ -21,6 +21,52 @@ published: true
 
 ---
 
+<div class="hidden-sm-down">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+    <li class="breadcrumb-item"><a href="/programa-gratis/">Programa Gratis</a></li>
+    <li class="breadcrumb-item"><a href="/python/">Aprender Java</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Mejores Aplicaciones Históricas de Java</li>
+  </ol>
+</nav>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/programa-gratis/",
+    "name": "Programar Gratis"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ciberninjas.com/java/",
+     "name": "¿Cómo Aprender a Programar en Java 2021?"
+   },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "item":
+   {
+    "@id": "https://ciberninjas.com/25-aplicaciones-java/",
+    "name": "Las 25 mejores aplicaciones Java jamás programadas"
+    }
+  }
+ ]
+}
+</script>
+
 La historia de Java comenzó en 1991, en un momento en que Sun Microsystems buscaba extender su liderazgo en el mercado de estaciones de trabajo informáticas al floreciente mercado de la electrónica personal.
 
 Poco se sabía que el lenguaje de programación que Sun estaba a punto de crear democratizaría la informática, inspiraría a una comunidad mundial y se convertiría en la plataforma para un ecosistema de desarrollo de software duradero de idiomas, plataformas de tiempo de ejecución, SDK, proyectos de código abierto y muchas herramientas.

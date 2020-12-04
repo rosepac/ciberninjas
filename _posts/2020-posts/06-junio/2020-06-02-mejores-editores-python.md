@@ -28,7 +28,6 @@ date: 2020-09-01
 published: true
 ---
 
-
 <div class="hidden-sm-down">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

@@ -77,6 +77,8 @@ Simplemente escriba las pruebas en una sintaxis simple y legible, cuidadosamente
   - Soporte de Websocket
 <!-- https://news.ycombinator.com/item?id=24176433 , https://github.com/intuit/karate#-karate -->
 
+[🔎 Comienza con Karate](https://github.com/intuit/karate "Simple Automatización de pruebas"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### **Relacionados** <!-- omit in toc -->
 
 [▷ Análisis y Memoria 2020: Los mejores proyectos de Javascript](https://ciberninjas.com/librer%C3%ADas%20javascript/2020/01/13/memoria-mejores-proyectos-javascript.html)
