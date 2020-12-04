@@ -4,14 +4,13 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
+- Java
+- Editores de Texto
 thumbnail: /assets/img/blog/.webp
 feature-img: /assets/img/blog/.webp
-title: '🥇 ▷ Los 12 Mejores Editores / IDE para Java 2021'
-description: >-
-  El mejor software para programar con el lenguaje de programación Java.
-excerpt: >-
-  El mejor software para programar con el lenguaje de programación Java.
+title: "🥇 ▷ Los 12 Mejores Editores Java / Programación Java 2021"
+description: "El mejor software para programar con el lenguaje de programación Java"
+excerpt: "El mejor software para programar con el lenguaje de programación Java"
 canonical_URL: https://ciberninjas.com/java-editores/
 permalink: /java-editores/
 date: 2020-12-04 03:09:51
