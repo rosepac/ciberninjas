@@ -14,24 +14,26 @@ excerpt: >-
   ✅  Las MEJORES OFERTAS y CHOLLOS de CURSOS para esta NAVIDAD solamente en Udemy: Cursos desde 9,99 €
 canonical_URL: https://ciberninjas.com/cursos-udemy-ofertas/
 permalink: /cursos-udemy-ofertas/
-date: 2020-11-29 16:09:51
+date: 2020-12-07 16:09:51
 published: true
 
 ---
 
 En Ciberninjas nos dedicamos a compartir todos los cursos gratuitos que aparecen en Udemy a lo largo de todo el año y también a compartir las mejores ofertas de Udemy.
 
-Udemy, quiere estirar el Cyber Monday a toda la semana hasta el Jueves 4. Por tanto, durante toda la Cyber Week de Udemy, podrás acceder a los mejores cursos por solamente 9,99 €.. Además, 
-
 **¿En serio, te vas a resistir a venir a aprender junto a Baby Yoda? 😹**
 
-[![Udemy oferta ofertas especiales durante la Ciber Semana de 2020](/assets/img/paginas/cursos-udemy-cn.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
+[![Udemy oferta ofertas especiales durante la CiberSemana de 2020](/assets/img/paginas/cursos-udemy-cn.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14961&type=3&subid=0)
 
-> ***Consigue cursos en línea desde sólo 9,99 € durante la Ciber Semana de Udemy***
+Udemy, nos ofrece las mejores ofertas por Navidad, centrándose en trasmitir el aprendizaje de la ciencia de datos..
+
+> ***La Semana de la Informática, todos los cursos de Informática a 11,99 € hasta el día 11***
+
+Además hasta el día 11, los mejores cursos de informática a un precio especial de 11,99 €; y se vienen, **¡Nuevas promociones de Navidad! 🥳**
+
+[![La semana de la informática en Udemy](/assets/img/2020/cursos-informatica.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14961&type=3&subid=0)
 
 A continuación, te queda un listado de algunos de los mejores cursos de desarrollo y programación, impartidos por los mejores profesionales de Udemy.
-
-[![Ciber ofertas. Habilidades reales. Tienes cursos desde sólo 9,99 € durante la Cyber Week](/assets/img/2020/cyberweek-udemy.webp)](https://click.linksynergy.com/fs-bin/click?id=W9Gem8jDoic&offerid=624447.14742&type=3&subid=0)
 
 Si quieres seguir los nuevos cursos de estos grandes maestros, no dudes de seguir [mi lista de "profesores, Youtubers y creadores de cursos en Twitter](https://twitter.com/i/lists/1276301904512004097?s=20){:target="_blank" rel="nofollow,noreferrer"}.
 

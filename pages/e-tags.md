@@ -1,7 +1,7 @@
 ---
 layout: tags
 bootstrap: true
-title: "Etiquetas 📂"
+title: "Etiqueta"
 permalink: /etiqueta/
 order: 11
 ---

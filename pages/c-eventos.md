@@ -65,33 +65,39 @@ Si te agradan el contenido aquí encontrado, puedes apoyar teniendo en cuenta lo
 
 ## **Agenda y Eventos tecnológicos de Diciembre**
 
-### 1 de Diciembre 🔔 <!-- omit in toc -->
-
-- DotNetConf: 18 charlas en español sobre .NET 5, con 16 Especialistas Técnicos y 6 sesiones online (Del 01/12 al 17/12 - 22:30 H. Esp.) 🎥 [Canal de Youtube](https://www.youtube.com/watch?v=Wh3sq7_jKCI&ab_channel=ConoSurTech) 📆 [Agenda](https://dotnetconf.conosur.tech/agenda/)
-- Congreso Internacional de Desarrolladores de Videojuegos, COIDEV 📆 [Registro y Agenda](https://coidev.com/){:target="_blank" rel="nofollow, noreferrer"}
-- Cómo reciclarte y convertirte en programador (19:00 H.) 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-como-reciclarte-y-convertirte-en-programador-129001403671?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
 <iframe src="https://calendar.google.com/calendar/embed?height=750&amp;wkst=2&amp;bgcolor=%23EF6C00&amp;ctz=Europe%2FMadrid&amp;src=bW9pcWFnb2FkOThqdjRyMDM2NXA4dm9kdjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;mode=MONTH&amp;showPrint=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
 
 <!-- 🎥 [](){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"} -->
-### 2 de Diciembre 🔔<!-- omit in toc -->
+### 8 de Diciembre 🔔<!-- omit in toc -->
 
-- Aprende a programar con Swift desde Cero (19:00 H.) Keep Coding 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-aprende-a-programar-con-swift-desde-cero-129903439685?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-
-### 3 de Diciembre 🔔<!-- omit in toc -->
-
-- ¿Quieres mejorar tus APIs con herramientas Open Source? (17 H.) 🎥 [Youtube](https://www.youtube.com/c/APIAddictslmaoo/videos){:target="_blank" rel="nofollow, noreferrer"}
-- Creación correcta de un prototipo para apps (18:00 H.) 📆 [Registro](https://www.eventbrite.com.pe/e/webinar-creacion-correcta-de-un-prototipo-para-apps-tickets-126480128469?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
-- AfterTest Online: ¡Olvídate de métricas clásicas! (18:30 H.) 🎥 [Youtube](https://www.youtube.com/channel/UCYvgSjHs-EWeD30ZCftVWvA/featured){:target="_blank" rel="nofollow, noreferrer"}
+- Customer Days (Del 8 al 15 de Diciembre) 📆 [Agenda](https://cxdaylatam.org/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 9 de Diciembre 🔔<!-- omit in toc -->
 
 - Feria Maker "Creando un mundo maker" (13:00 H.) 📆 [Registro](https://www.eventbrite.es/e/entradas-feria-maker-creando-un-mundo-maker-129033399371?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Customer Days (Del 8 al 15 de Diciembre) 📆 [Agenda](https://cxdaylatam.org/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 10 de Diciembre  <!-- omit in toc -->
 
 - Protegiendo su infraestructura con IoT (18:00 H.) SENATI 🎥 [Ver en Youtube](https://www.youtube.com/user/virtualsenati/featured){:target="_blank" rel="nofollow, noreferrer"}
 - Crea tu primer bot con Watson Assistant y despliégalo en Alexa (19:00 H.) Keep Coding 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-crea-tu-primer-bot-con-watson-assistant-y-despliegalo-en-alexa-128995387677?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- Customer Days (Del 8 al 15 de Diciembre) 📆 [Agenda](https://cxdaylatam.org/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 11 de Diciembre  <!-- omit in toc -->
+
+- Customer Days (Del 8 al 15 de Diciembre) 📆 [Agenda](https://cxdaylatam.org/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 12 de Diciembre  <!-- omit in toc -->
+
+- Customer Days (Del 8 al 15 de Diciembre) 📆 [Agenda](https://cxdaylatam.org/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 13 de Diciembre  <!-- omit in toc -->
+
+- Customer Days (Del 8 al 15 de Diciembre) 📆 [Agenda](https://cxdaylatam.org/){:target="_blank" rel="nofollow, noreferrer"}
+
+### 🔔 14 de Diciembre  <!-- omit in toc -->
+
+- Customer Days (Del 8 al 15 de Diciembre) 📆 [Agenda](https://cxdaylatam.org/){:target="_blank" rel="nofollow, noreferrer"}
 
 ### 🔔 15 de Diciembre  <!-- omit in toc -->
 
@@ -1071,3 +1077,19 @@ En este webinar, te mostraremos cómo crear microservicios con JavaEE y Eclipse 
 ### 🔔 29 de Noviembre  <!-- omit in toc -->
 
 - Big Data Day 2020 (20:00 H.) 🎥 [Ver en Youtube](https://www.youtube.com/watch?v=8GSeWwAJIoM){:target="_blank" rel="nofollow, noreferrer"} 📆 [](){:target="_blank" rel="nofollow, noreferrer"}
+
+### 1 de Diciembre 🔔 <!-- omit in toc -->
+
+- DotNetConf: 18 charlas en español sobre .NET 5, con 16 Especialistas Técnicos y 6 sesiones online (Del 01/12 al 17/12 - 22:30 H. Esp.) 🎥 [Canal de Youtube](https://www.youtube.com/watch?v=Wh3sq7_jKCI&ab_channel=ConoSurTech) 📆 [Agenda](https://dotnetconf.conosur.tech/agenda/)
+- Congreso Internacional de Desarrolladores de Videojuegos, COIDEV 📆 [Registro y Agenda](https://coidev.com/){:target="_blank" rel="nofollow, noreferrer"}
+- Cómo reciclarte y convertirte en programador (19:00 H.) 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-como-reciclarte-y-convertirte-en-programador-129001403671?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 2 de Diciembre 🔔<!-- omit in toc -->
+
+- Aprende a programar con Swift desde Cero (19:00 H.) Keep Coding 📆 [Registro](https://www.eventbrite.es/e/entradas-webinar-aprende-a-programar-con-swift-desde-cero-129903439685?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+
+### 3 de Diciembre 🔔<!-- omit in toc -->
+
+- ¿Quieres mejorar tus APIs con herramientas Open Source? (17 H.) 🎥 [Youtube](https://www.youtube.com/c/APIAddictslmaoo/videos){:target="_blank" rel="nofollow, noreferrer"}
+- Creación correcta de un prototipo para apps (18:00 H.) 📆 [Registro](https://www.eventbrite.com.pe/e/webinar-creacion-correcta-de-un-prototipo-para-apps-tickets-126480128469?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing){:target="_blank" rel="nofollow, noreferrer"}
+- AfterTest Online: ¡Olvídate de métricas clásicas! (18:30 H.) 🎥 [Youtube](https://www.youtube.com/channel/UCYvgSjHs-EWeD30ZCftVWvA/featured){:target="_blank" rel="nofollow, noreferrer"}
