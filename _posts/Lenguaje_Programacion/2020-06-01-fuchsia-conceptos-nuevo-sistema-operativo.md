@@ -53,8 +53,7 @@ Fuchsia se dio a conocer por primera vez al público cuando el proyecto apareci�
 - [**Ejecutar pruebas**](#ejecutar-pruebas)
 - [**Lanzar un componente gráfico**](#lanzar-un-componente-gráfico)
 
-> 🔥 Quizás también te interese: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
-{: .notice--danger}
+> *🔥 Quizás también te interese: [¿Qué lenguajes permite usar Fuchsia?](/politica-de-los-lenguajes-programacion-fuchsia/) >> [Dahlia OS](/dahliaos-un-fork-del-sistema-operativo-fuchsiaos/) >> [Introducción a Flutter](/que-es-flutter-y-por-que-debes-aprenderlo/) >> [DevTools para Flutter y Dart](/flutter-dart-devtools/)
 
 ## **¿Qué es Fuchsia?**
 
@@ -345,3 +344,109 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 {: .notice--danger}
 
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Fuchsia, es un nuevo sistema operativo basado en código abierto que actualmente está desarrollado por Google."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿De dónde nace el nombre de Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El nombre viene derivado de un juego de colores, en referencia a los colores usadas usados por Apple. El Rosa de Apple, por ser el primer microkernel orientado a objetos y el púrpura, nombre del código original del iPhone"
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué microkernel utiliza Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El nuevo sistema operativo Fuchsia, se basa en un nuevo microkernel llamado Zircon, denominado así por el mineral que lleva el mismo nombre."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué tiene de especial el Sistema Operativo de Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Fuchsia se enfoca en poder ser funcional dentro de varios dispositivos y plataformas diferentes, desde el ordenador de sobremesa hasta los teléfonos inteligentes."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuándo se anunció Fuchsia oficialmente?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El 1 de julio de 2019, Google anunció la página de inicio del proyecto, fuchsia.dev, que proporciona el código fuente y la documentación para el sistema operativo recientemente anunciada."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Desde cuándo existe Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Fuchsia se dio a conocer por primera vez al público cuando el proyecto apareció en una forma auto alojada de git en agosto de 2016 sin ningún anuncio oficial."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cuál es la historia de Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Fuchsia existe desde 2016 y oficialmente desde que en 2018, publico guía sobre cómo ejecutar Fuchsia en una de sus tablets PixelBook. Lo que fue informado por el blog Ars Technica. En 2019, Hiroshi Lockheimer, vicepresidente senior de Chrome y Android, describió a Fuchsia como uno de los experimentos de Google más importantes en torno a nuevos conceptos para sistemas operativos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿En qué consiste el Kernel de Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El proyecto de Fuchsia describe a Zircon, su kernel, como un micronúcleo y no como un microkernel en diferentes partes de su documentación."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Qué características presenta el kernel de Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Zircon incluye el manejo de subprocesos, la memoria virtual, la intercomunicación de procesos y la espera de cambios en el estado de los objetos."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿De dónde nace el kernel Zircon de Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El código base de Zircon se derivó del de Little Kernel (LK), un kernel en tiempo real para dispositivos integrados, destinado a un bajo consumo de recursos, para ser utilizado en una amplia variedad de dispositivos. Little Kernel fue desarrollado por Travis Geiselbrecht, quien también fue coautor del kernel NewOS utilizado por Haiku."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Se parece el kernel Zircon a Unix?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El Kernel de Zircon parece estar muy inspirado en los kernels de Unix, pero difiere mucho de estos. Por ejemplo, no es compatible con señales similares a Unix, pero incorpora la programación dirigida a través de eventos y el patrón de observador; y la mayoría de las llamadas al sistema no bloquean el hilo principal y los recursos se representan como objetos en lugar de archivos, a diferencia de los sistemas de Unix tradicionales."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo puedo comenzar a probar Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La guía que obtendrás en Ciberninjas, es justo lo que necesitas, puesto que te va a redirigir una y otra vez a la documentación oficial más actualizada, con la que vas a poder aprender a desarrollar con Fuchsia."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Cómo puedo descargar Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Puedes descargar el código fuente de Fuchsia desde la documentación oficial \"fuchsia.dev\" pero tendrás que configurar todo el entorno de compilación, para poder llegar a ejecutarlo."
+    }
+  },{
+    "@type": "Question",
+    "name": "¿Existe un emulado para probar Fuchsia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sí, se denomina FEMU, y puedes ejecutar Fuchsia utilizándolo."
+    }
+  }]
+}
+</script>
