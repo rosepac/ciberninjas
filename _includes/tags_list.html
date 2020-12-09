@@ -10,7 +10,7 @@
     {% endif %}
 
     {% for tag in tags %}
-    <a class="button" href="{{ "/etiqueta" | relative_url }}#{{ Etiquetas+%F0%9F%93%82 | cgi_escape }}">
+    <a class="button" href="{{ "/etiqueta" | relative_url }}#{{ tag | cgi_escape }}">
       <p><i class="fa fa-tag fa-fw"></i> {{ tag }}</p>
     </a>
     {% endfor %}
