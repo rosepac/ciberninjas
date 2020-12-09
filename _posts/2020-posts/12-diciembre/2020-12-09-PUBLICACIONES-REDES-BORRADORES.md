@@ -14,7 +14,7 @@ excerpt: >-
   Preparación e histórico del contenido, pasado y por pasar a través de las redes sociales.
 canonical_URL: https://ciberninjas.com/publicaciones-redes/
 permalink: /publicaciones-redes/
-date: 2020-12-01 05:36:32
+date: 2020-12-09 05:36:32
 last_modified_at: 
 published: false
 
@@ -130,7 +130,10 @@ ________________________________________________________________________________
 
 <!-- POR TERMINAR: SOFTWARE MISTER ROBOT Y AGREGARLE IMAGEN -->
 
-MEJROES CURSOS GRATIS EN INGLÉS ...
+▷ Los 12 Mejores Editores Java / Programación Java 2021
+https://ciberninjas.com/java-editores/
+
+MEJORES CURSOS GRATIS EN INGLÉS ...
 
 👨‍🎓 [EN] Curso Gratis Javascript, VueJs , NodeJs (10 Horas. Valorado en 39,99)
 https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-vuejs-nodejs%2F%3FcouponCode%3DJAVASCRIPT
