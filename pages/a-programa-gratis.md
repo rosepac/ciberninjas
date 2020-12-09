@@ -43,7 +43,9 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 
 Si eres nuevo/a en el campo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/ "Cómo aprender en academias online") por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad "Comunidad de Facebook en la que listo todos los recursos online"){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/ "Aprender a Programar con Ciberninjas").
 
-[📢 Ve Direct@ a los Recursos ⬇ o Sigue Leyendo 😎](/programa-gratis/#menu){:target="_blank" rel="nofollow,noreferrer" hreflang="en"}{: .btn .btn-primary .btn-lg .btn-block}
+[📢 Ve Direct@ a los Recursos ⬇ o Sigue Leyendo 😎](/programa-gratis/#menu){: .btn .btn-primary .btn-lg .btn-block}
+
+<br />
 
 [![Cómo APRENDER PROGRAMACIÓN desde Cero 2021](/assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp)](/programar/)
 
