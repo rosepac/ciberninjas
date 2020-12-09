@@ -15,7 +15,9 @@ layout: post
 permalink: /wiki/cyberpunk-2077/
 feature-img: /assets/img/wiki/articulos/wiki-cyberpunk-2077.webp
 img: /assets/img/wiki/articulos/wiki-cyberpunk-2077.webp
+
 ---
+
 Cyberpunk 2077 es un próximo videojuego de rol desarrollado y publicado por CD Projekt , lanzado para Google Stadia , Microsoft Windows , PlayStation 4 y Xbox One el 16 de abril de 2020. Adaptado del juego de mesa de 1988 Cyberpunk 2020 , se establece cincuenta- siete años más tarde en la distópica Night City, un mundo abierto con seis regiones distintas. En unaperspectiva en primera persona , los jugadores asumen el papel del mercenario V personalizable, que puede alcanzar prominencia en piratería , maquinaria y combate. V tiene un arsenal de armas a distancia y opciones para el combate cuerpo a cuerpo.
 
 Cyberpunk 2077 está siendo desarrollado por CD Projekt Red, un estudio interno dentro de CD Projekt, utilizando el motor de juego REDengine 4 . Lanzaron una nueva división en Breslavia y se asociaron con Digital Scapes para ayudar a la producción. Alrededor de 450 miembros del personal total están involucrados con el desarrollo, superando el número que trabajó en el juego anterior del estudio, The Witcher 3: Wild Hunt . El creador de Cyberpunk 2020 , Mike Pondsmith, consultó sobre el proyecto, y el actor Keanu Reeves tiene un papel protagonista.
@@ -56,5 +58,5 @@ El juego se inspira en la película de 1982 Blade Runner, la serie japonesa de m
 **Categorías**: Videojuegos \ Videojuegos Ciberpunk
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) de Wikipedia en inglés, versión del 20 de agosto de 2019, publicada por [sus editores](https://en.wikipedia.org/wiki/Cyberpunk_2077?action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
+> **INF.**: Esta obra contiene una traducción total derivada de [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) de Wikipedia en inglés, versión del 20 de agosto de 2019, publicada por [sus editores](https://en.wikipedia.org/wiki/Cyberpunk_2077?action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}
