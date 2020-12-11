@@ -55,20 +55,18 @@ Recuerda, esto se centra en los ordenadores de escritorio; para estudiar, trabaj
 
 Estas son las 7 mejores distribuciones de escritorio de Linux de código abierto más adecuadas para el uso diario y para las personas que se inicien en el uso de distribuciones de Sistemas Operativos Linux de Código Abierto.
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/7-mejores-distribuciones-escritorio-para-principiantes/#1-elementary-os" title="Ver el contenido de Elementary OS"><strong>Elementary OS</strong></a></li>
-    <li><a href="/7-mejores-distribuciones-escritorio-para-principiantes/#2-mint" title="Ver el contenido de Mint OS"><strong>Mint OS</strong></a></li>
-    <li><a href="/7-mejores-distribuciones-escritorio-para-principiantes/#3-ubuntu" title="Ver el contenido de Ubuntu OS"><strong>Ubuntu OS</strong></a></li>
-    <li><a href="/7-mejores-distribuciones-escritorio-para-principiantes/#4-manjaro" title="Ver el contenido de Manjaro OS"><strong>Manjaro OS</strong></a></li>
-    <li><a href="/7-mejores-distribuciones-escritorio-para-principiantes/#5-zorin" title="Ver el contenido de Zorin OS"><strong>Zorin OS</strong></a></li>
-    <li><a href="/7-mejores-distribuciones-escritorio-para-principiantes/#6-deepin" title="Ver el contenido de Deepin OS"><strong>Deepin OS</strong></a></li>
-    <li><a href="/7-mejores-distribuciones-escritorio-para-principiantes/#7-pop_os" title="Ver el contenido de Pop OS"><strong>POP OS</strong></a></li>
-  </ol>
-</nav>
-</details>
+<span><strong>MENÚ DE LAS DISTROS PARA PRINCIPIANTES</strong></span>
+
+- [**1. Elementary OS**](#1-elementary-os)
+- [**2. Mint**](#2-mint)
+- [**3. Ubuntu**](#3-ubuntu)
+  - [**3.1. Lubuntu**](#31-lubuntu)
+  - [**3.2. Xubuntu**](#32-xubuntu)
+  - [**3.3 UbuntuDDE**](#33-ubuntudde)
+- [**4. Manjaro**](#4-manjaro)
+- [**5. Zorin**](#5-zorin)
+- [**6. Deepin**](#6-deepin)
+- [**7. POP_OS!**](#7-pop_os)
 
 > 🔥 Quizás te interese: [mejores sistemas para hacking](/7-mejores-distribuciones-escritorio-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"} >> [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow,noreferrer"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/7-mejores-distribuciones-escritorio-para-principiantes/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
