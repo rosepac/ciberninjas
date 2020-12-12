@@ -197,7 +197,8 @@
 
 .bootstrap-iso img {
     vertical-align: middle;
-    border-style: none
+    border-style: none;
+    padding: 25px 0;
 }
 
 .bootstrap-iso svg {
