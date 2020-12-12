@@ -5,7 +5,7 @@
     padding: $padding-small ($padding-large * 2);
   }
   @media (max-width: $l-break) {
-    padding: $padding-small $padding-large;
+    padding: $padding-small ;
   }
   @media (max-width: $m-break) {
     padding: $padding-small $padding-medium;
