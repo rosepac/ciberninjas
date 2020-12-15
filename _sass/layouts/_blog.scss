@@ -1,5 +1,5 @@
 /* --- Header text feature --- */
-.call-out {
+/* .call-out {
   @extend %padding-header;
   display: inline-block;
   width: 100%;
@@ -8,7 +8,7 @@
   text-align: center;
   color: $header-text-color;
   background: no-repeat $header-background-color no-repeat;
-  background-size: $feature-image-size;
+  background-size: $feature-image-size; */
 
   /* --- Responsive --- */
   @media screen and (min-width: $break) {
@@ -41,9 +41,9 @@
   }
 }
 
-#main {
+/* #main {
   background-position: 30% center top;
-}
+} */
 
 /* --- Post listing --- */
 .posts {
