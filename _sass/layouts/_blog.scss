@@ -7,21 +7,22 @@
   font-size: 1.2em;
   text-align: center;
   color: $header-text-color;
-/*  background: no-repeat $header-background-color no-repeat; */
+  background: $header-background-color no-repeat;
   background-size: $feature-image-size;
 
   /* --- Responsive --- */
   @media screen and (min-width: $break) {
-    background-size: 100% auto;
+    background-size: 120% auto;
   }
 
   @media screen and (max-width: $break) {
-    background-size: 100% auto;
+    background-size: 200% auto;
   }
 
   @media screen and (max-width: $sm-break) {
-    background-size: 100% auto;
+    background-size: 400% auto;
   }
+  
   p,
   a,
   li,

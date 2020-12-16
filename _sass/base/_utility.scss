@@ -2,7 +2,7 @@
 %padding-nav {
   padding: $padding-small $padding-x-large;
   @media (max-width: $xl-break) {
-    padding: $padding-small ($padding-large * 2);
+    padding: $padding-small ($padding-large);
   }
   @media (max-width: $l-break) {
     padding: $padding-small ;
@@ -31,7 +31,7 @@
   }
 }
 
-/* %padding-header {
+%padding-header {
   padding: $padding-medium $padding-large;
   @media (min-width: $xl-break) {
     padding: $padding-large $padding-large;
@@ -39,7 +39,7 @@
   @media (max-width: $sm-break) {
     padding: $padding-large;
   }
-} */
+}
 
 .header-txt-shadow {
   text-shadow: 1px 1px 2px $text-shadow;
