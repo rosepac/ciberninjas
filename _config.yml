@@ -8,7 +8,7 @@ author: ROSEPAC
 avatar: '/assets/img/ciberninjas-emoji-160px.webp'
 favicon: 'assets/favicon.ico'
 # Header and footer text
-header_text: 'La Comunidad de los Desarrolladores Ninja'
+header_text: 'Blog de Desarrolladores Ninja'
 header_feature_image: '/assets/img/paginas/navidad-cartel-cn.webp'
 footer_text: >-
  © 2020 Ciberninjas. Noticias, cursos, eventos y artículos de desarrollo web, programación y diseño.<br/> Con 😻 desde Asturias. Lanzado por Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
