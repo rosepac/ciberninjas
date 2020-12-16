@@ -1,5 +1,5 @@
 /* --- Header text feature --- */
-/* .call-out {
+.call-out {
   @extend %padding-header;
   display: inline-block;
   width: 100%;
@@ -7,8 +7,8 @@
   font-size: 1.2em;
   text-align: center;
   color: $header-text-color;
-  background: no-repeat $header-background-color no-repeat;
-  background-size: $feature-image-size; */
+/*  background: no-repeat $header-background-color no-repeat; */
+  background-size: $feature-image-size;
 
   /* --- Responsive --- */
   @media screen and (min-width: $break) {
@@ -22,8 +22,6 @@
   @media screen and (max-width: $sm-break) {
     background-size: 100% auto;
   }
-
-  //For white images
   p,
   a,
   li,
@@ -35,7 +33,6 @@
     font-family: $font-family-logo;
     @extend .header-txt-shadow;
   }
-
   p:last-child {
     margin-bottom: 0;
   }
