@@ -1,5 +1,6 @@
 ---
 layout: tags
+hide: true
 bootstrap: true
 title: "Etiqueta"
 permalink: /etiqueta/
