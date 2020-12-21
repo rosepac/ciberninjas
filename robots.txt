@@ -3,4 +3,5 @@ Allow: /
 Sitemap: https://ciberninjas.com/sitemap.xml
 Disallow: /proyectos/*.*
 Disallow: /blog/*
-Disallow: /test-paneles/
+Disallow: /test-paneles/*
+Disallow: /aviso-legal/*

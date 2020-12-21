@@ -3,7 +3,7 @@
 layout: page
 bootstrap: true
 order: 1
-title: "Programar Gratis 👨‍💻"
+title: "Programa Gratis 👨‍💻"
 permalink: /programa-gratis/
 feature-img: /assets/img/paginas/amor-programacion.webp
 thumbnail: /assets/img/paginas/amor-programacion.webp
@@ -43,13 +43,11 @@ canonical_URL: https://ciberninjas.com/programa-gratis/
 
 Si eres nuevo/a en el campo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/ "Cómo aprender en academias online") por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad "Comunidad de Facebook en la que listo todos los recursos online"){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/ "Aprender a Programar con Ciberninjas").
 
-[📢 Ve Direct@ a los Recursos ⬇ o Sigue Leyendo 😎](/programa-gratis/#menu){: .btn .btn-primary .btn-lg .btn-block}
+[📢 Ve Direct@ a los Recursos ⬇ o Sigue Leyendo 😎](/programa-gratis/#menu){: .btn .btn-outline-dark .btn-lg .btn-block}
 
 <br />
 
-[![Cómo APRENDER PROGRAMACIÓN desde Cero 2021](/assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp)](/programar/)
-
-Por ahora, te dejo aquí, tres de los mejores y más grandes recursos gratuitos más de Internet, con los que poder introducirte en el mundo del desarrollo y la programación. Totalmente en español.
+Para comenzar, te dejo aquí, tres de los mejores y más grandes recursos gratuitos más de Internet, con los que poder introducirte en el mundo del desarrollo y la programación. Lo mejor de todo, totalmente en español.
 
 Sin lugar a dudas, la mejor recopilación de cursos de programación gratis en español y la mejor biblioteca de libros PDF gratis y bajo licencias libres del mundo.
 
@@ -86,18 +84,24 @@ Sin lugar a dudas, la mejor recopilación de cursos de programación gratis en e
     </div>
 </div>
 
-Conjunto a estos dos grandes repositorios, vas a encontrar una recopilación de guías completas y artículos de iniciación:  
+Conjunto a estos dos grandes repositorios, vas a encontrar una amplia colección de recursos, [guías completas](/guias/) y artículos de iniciación. Por ejemplo, si deseas conocer a [introducirte desde cero al mundo de la programación](/programar/).
 
-- Las guías, están basadas en diferentes software / herramientas.
+[![Cómo APRENDER PROGRAMACIÓN desde Cero 2021](/assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp)](/programar/)
+
+Dentro de las guías, vas a encontrar como poder utilizar y sacar el máximo partido a algunos de los software y herramientas más impresionantes.
 - Los artículos, en su mayoría, son contenidos de iniciación (traducidos al español) sobre diferentes lenguajes de programación, frameworks multiplataforma u otros temáticas acordes.
 
-Por si fuese poco, en nuestro buscador, vas a poder encontrar algunas de las mejores listas del mundo. Con las que poder encontrar los mejores editores de código para cada lenguaje de programación, las mejores aplicaciones y software del mundo que te harán más fáciles las tareas y el trabajo, entre mucho más, a saber; <!-- AGREGAR ENLACE AL MAPA WEB -->
+Por si fuese poco, en [nuestro buscador ninja](/buscador/), vas a poder encontrar infinidad de artículos de listas sobre utilidades para el desarrollo; como por ejemplo [los mejores editores de código](/mejores-editores-texto/) para cada lenguaje de programación, las mejores aplicaciones y el mejor software alternativo con el que sustituir a las empresas más importantes del sector.<!-- AGREGAR ENLACE AL MAPA WEB -->
 
-Los mejores software de testing, los mejores software para implementar el flujo de trabajo completo de la creación del código, información sobre librerías interesantes, las mejores guías para webmaster, SEO, etc.
+Los mejores [mejores frameworks](/mejores-sdk-multiplataforma-2019-20/), los mejores [software de testing](/10-mejores-herramientas-pruebas-ui/), los mejores software para implementar el flujo de trabajo completo de la creación del código, [herramientas para proyectos](/mejores-herramientas-proyectos/), información sobre librerías interesantes, las mejores guías para webmaster, SEO, etc.
 
-Incluso las mejores listas de diferentes hardware: Los mejores teclados, los mejores ratones, las mejores cámaras..
+Además, las mejores listas de diferentes hardware: [Los mejores teclados](/teclados-ratones-diseño/), los mejores ratones, [las mejores cámaras](/mejores-camaras-web/), etc.
 
 Dicho esto. A continuación, te dejo los enlaces, con los que iniciarte en los lenguajes de programación de [Python](/python/){:target="_blank"}, [Javascript](/javascript/){:target="_blank"} ([Angular](/lenguajes-programacion/#c%C3%B3mo-aprender-angular), [React](/lenguajes-programacion/#c%C3%B3mo-aprender-react), [Vue](/lenguajes-programacion/#c%C3%B3mo-aprender-vue)), [Java](/lenguajes-programacion/#c%C3%B3mo-aprender-java), [SQL](/lenguajes-programacion/#c%C3%B3mo-aprender-sql) y más (en proceso de creación, y que subiré cuando comiencen a estar más completos).
+
+Entre todos estos recursos, también tienes los mejores podcasts del mundo en español sobre tecnología.
+
+[![Los mejores podcast de tecnología y programación del mundo](/assets/img/2020/podcast-itunes-top.webp)](/podcasts-tecnologia/)
 
 Además, en las siguientes imágenes, vas a poder encontrar: Los libros relacionados con la formación profesional del campo de la informática. Conjunto a ellos, vas a encontrar los enlaces a recursos con los que apoyarte a la hora de emprender los estudios de Sistemas Microinformáticos y Redes, Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas y Redes.
 
