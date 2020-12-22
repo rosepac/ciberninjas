@@ -38,7 +38,7 @@ A continuación vamos a conocer más sobre los nuevos cambios:
 - [Informes y registro mejorados](#informes-y-registro-mejorados)
 - [Vista previa actualizada del servicio de idiomas](#vista-previa-actualizada-del-servicio-de-idiomas)
 - [Soporte actualizado de reemplazo de módulo en caliente (HMR)](#soporte-actualizado-de-reemplazo-de-módulo-en-caliente-hmr)
-- [## Compilaciones más rápidas](#-compilaciones-más-rápidas)
+- [Compilaciones más rápidas](#compilaciones-más-rápidas)
 - [Soporte Experimental Webpack 5](#soporte-experimental-webpack-5)
 - [Linting](#linting)
 - [Limpieza interna](#limpieza-interna)
@@ -100,7 +100,7 @@ Consulta [https://webpack.js.org/guides/hot-module-replacement](https://webpack.
 
 Ahora, durante el desarrollo, los últimos cambios en componentes, plantillas y estilos se actualizarán instantáneamente en la aplicación en ejecución. Todo sin necesidad de actualizar la página completa. Los datos escritos en formularios se conservan, así como la posición de desplazamiento, lo que aumenta la productividad del desarrollador.
 
-## ## Compilaciones más rápidas
+## Compilaciones más rápidas
 
 Estamos brindando un ciclo de desarrollo y compilación más rápido al realizar actualizaciones en algunas áreas clave.
 
