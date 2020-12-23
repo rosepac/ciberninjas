@@ -85,7 +85,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 [📚 Ver Todas las Bibliotecas Gratuitas 📚](/biblioteca-de-programacion-y-tecnologia/#índice-de-libros){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🛒 Los Mejores Chollos de Amazon, ¡Agrégalos a tu Lista de Deseos!](/amazon/ "Los Mejores Chollos de Amazon, Ofertas Flash, Black Monday y Amazon Prime Day"){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-<span id="menu"><strong>Menú de Categorías de Libros Gratuitos<strong></span>
+<span id="menu"></span<strong>Menú de Categorías de Libros Gratuitos<strong>
 
 - [**Meta-Listas: Libros**](#meta-listas-libros)
   - [**Meta-Listas: Documentos / Repositorios Universitarios**](#meta-listas-documentos--repositorios-universitarios)
