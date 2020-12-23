@@ -41,7 +41,7 @@ Más humano, más ágil, más responsable. A veces de forma remota pero siempre 
 
 Al cambiar nuestras vidas, la crisis de salud también nos ha obligado a reinventar nuestra forma de trabajar. Oficinas, trabajo a distancia, gestión, confianza, vida privada: las preguntas son numerosas y las respuestas que están surgiendo son fascinantes.
 
-> *Si deseas encontrar* ***tú trabajo del futuro***, *no dudes en visitar* [***Jooble***](https://es.jooble.org/){target="_blank" rel="dofollow"}*. ***El mejor buscador 🔍 de empleos de Internet***.
+> *Si deseas encontrar* ***tú trabajo del futuro***, *no dudes en visitar* [***Jooble***](https://mx.jooble.org/){target="_blank" rel="dofollow"}*. ***El mejor buscador 🔍 de empleos de Internet***.
 
 Un nuevo enfoque de la jerarquía y el liderazgo, herramientas de trabajo reinventadas y enfoques colaborativos adoptados, espacios de trabajo transformados, viajes detenidos (o casi), desarrollo sostenible impulsado, agilidad y creatividad recompensadas. ¡La crisis del Covid-19 ha cambiado (casi) todo! Echamos un vistazo a estas nuevas formas de trabajar.
 
