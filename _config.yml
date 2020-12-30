@@ -7,27 +7,7 @@ description: Noticias, actualidad y eventos de desarrollo web, programación y d
 author: ROSEPAC
 avatar: '/assets/img/ciberninjas-emoji-160px.webp'
 favicon: 'assets/favicon.ico'
-feed:
-  posts_limit: 900
-feed:
-  collections:
-    - portfolio
-    - guias
-    - eff
-    - programa-gratis
-    - libros-prog
-    - cursos-gratis
-    - wiki
-    - glosario
-    - catalogo
-    - historia-computadora
-    - personajes-historicos
-    - pac
-    - amazon
-    - biblioteca
-    - cursos-bases-datos
-    - cursos-fk-prog
-    - fpdaw
+
 # Header and footer text
 header_text: 'Blog de Desarrolladores Ninja'
 header_feature_image: '/assets/img/paginas/navidad-cartel-cn.webp'
@@ -119,7 +99,28 @@ collections:
     output: true
     permalink: /:collection/:name
 # BUILD SETTINGS
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
+feed:
+  posts_limit: 900
+feed:
+  collections:
+    - portfolio
+    - guias
+    - eff
+    - programa-gratis
+    - libros-prog
+    - cursos-gratis
+    - wiki
+    - glosario
+    - catalogo
+    - historia-computadora
+    - personajes-historicos
+    - pac
+    - amazon
+    - biblioteca
+    - cursos-bases-datos
+    - cursos-fk-prog
+    - fpdaw
 exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules"]
 # Tema: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
