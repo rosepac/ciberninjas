@@ -7,6 +7,27 @@ description: Noticias, actualidad y eventos de desarrollo web, programación y d
 author: ROSEPAC
 avatar: '/assets/img/ciberninjas-emoji-160px.webp'
 favicon: 'assets/favicon.ico'
+feed:
+  posts_limit: 1000
+feed:
+  collections:
+    - portfolio
+    - guias
+    - eff
+    - programa-gratis
+    - libros-prog
+    - cursos-gratis
+    - wiki
+    - glosario
+    - catalogo
+    - historia-computadora
+    - personajes-historicos
+    - pac
+    - amazon
+    - biblioteca
+    - cursos-bases-datos
+    - cursos-fk-prog
+    - fpdaw
 # Header and footer text
 header_text: 'Blog de Desarrolladores Ninja'
 header_feature_image: '/assets/img/paginas/navidad-cartel-cn.webp'
