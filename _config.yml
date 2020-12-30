@@ -8,7 +8,7 @@ author: ROSEPAC
 avatar: '/assets/img/ciberninjas-emoji-160px.webp'
 favicon: 'assets/favicon.ico'
 feed:
-  posts_limit: 1000
+  posts_limit: 900
 feed:
   collections:
     - portfolio
@@ -62,7 +62,7 @@ twitter:
 #     - https://instagram.com/ciberninjas
 
 # PAGINATION
-paginate: 10
+paginate: 980
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO
