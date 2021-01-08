@@ -98,7 +98,7 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 ![Old Skull](/assets/img/blog/blog-diseno-espanol/7-blog-diseno.webp "Old Skull")
 
-[👉 Visita el Blog de Old Skull](ttps://www.oldskull.net/ "Old Skull"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Visita el Blog de Old Skull](https://www.oldskull.net/ "Old Skull"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **25 Horas**
 
